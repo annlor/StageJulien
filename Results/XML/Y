@@ -1,10 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
-<Traduction><TraductionPicard>
-        <mot>Y </mot>
-        <abreviation></abreviation>
-        <definition>: on trouve, chez certains patoisants, la graphie y pour i : il, pr. pers. suj., ou lui, pr. pers. compl.</definition>
-      </TraductionPicard><TraductionPicard>
-        <mot>YEUX (phon</mot>
-        <abreviation></abreviation>
-        <definition>. zieu), s. m. pl. : &quot; Des-yeux bleus, / Té verras l' Bon Dieu. / Des-yeux gris, / T'iras au Paradis. / Des-yeux noirs, / T'iras au Purgatoire. / Des-yeux verts, / T'iras in Infer &quot; (comptine). Des yeux gadous : des yeux langoureux. Expr. notées par GH : &quot; Il a des yeux comme des poches d' voleur &quot; ou &quot; des</definition>
-      </TraductionPicard></Traduction>
+<Traduction>
+          <TraductionPicard>
+      <mot>Y</mot>
+      <abreviation></abreviation>
+      
+    </TraductionPicard><TraductionPicard>
+      <mot>Y </mot>
+      <abreviation></abreviation>
+      <definition>
+          : on trouve, chez certains patoisants, la graphie y pour i : il, pr. pers. suj., ou lui, pr. pers. compl.
+        </definition>
+    </TraductionPicard><TraductionPicard>
+      <mot>YEUX (phon. zieu)</mot>
+      <abreviation>s. m. pl.</abreviation>
+      <definition>
+          &quot; Des-yeux bleus, / Té verras l' Bon Dieu. / Des-yeux gris, / T'iras au Paradis. / Des-yeux noirs, / T'iras au Purgatoire. / Des-yeux verts, / T'iras in Infer &quot; (comptine). Des yeux gadous : des yeux langoureux. Expr. notées par GH : &quot; Il a des yeux comme des poches d' voleur &quot; ou &quot; des
+        </definition>
+    </TraductionPicard>
+        </Traduction>

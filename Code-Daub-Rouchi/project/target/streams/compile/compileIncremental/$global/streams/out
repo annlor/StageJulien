@@ -1,15 +1,31 @@
 [debug] [naha] 
 [debug] [naha] Initial source changes: 
 [debug] [naha] 	removed:Set()
-[debug] [naha] 	added: Set()
+[debug] [naha] 	added: Set(/people/khamphousone/IdeaProjects/DictionnairePicard/project/Build.scala)
 [debug] [naha] 	modified: Set()
 [debug] [naha] Invalidated products: Set()
 [debug] [naha] External API changes: API Changes: Set()
 [debug] [naha] Modified binary dependencies: Set()
-[debug] [naha] Initial directly invalidated sources: Set()
+[debug] [naha] Initial directly invalidated sources: Set(/people/khamphousone/IdeaProjects/DictionnairePicard/project/Build.scala)
 [debug] [naha] 
 [debug] [naha] Sources indirectly invalidated by:
 [debug] [naha] 	product: Set()
 [debug] [naha] 	binary dep: Set()
 [debug] [naha] 	external source: Set()
-[debug] All initially invalidated sources: Set()
+[debug] All initially invalidated sources: Set(/people/khamphousone/IdeaProjects/DictionnairePicard/project/Build.scala)
+[debug] [naha] Initial set of included nodes: Set(/people/khamphousone/IdeaProjects/DictionnairePicard/project/Build.scala)
+[debug] [naha] Recompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources
+[info] Compiling 1 Scala source to /people/khamphousone/IdeaProjects/DictionnairePicard/project/target/scala-2.10/sbt-0.13/classes...
+[debug] Getting org.scala-sbt:compiler-interface:0.13.15:component from component compiler for Scala 2.10.6
+[debug] Getting org.scala-sbt:compiler-interface:0.13.15:component from component compiler for Scala 2.10.6
+[debug] Running cached compiler 3923e7be, interfacing (CompilerInterface) with Scala compiler version 2.10.6
+[debug] Calling Scala compiler with arguments  (CompilerInterface):
+[debug] 	-deprecation
+[debug] 	-bootclasspath
+[debug] 	/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/classes:/people/khamphousone/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+[debug] 	-classpath
+[debug] 	/people/khamphousone/IdeaProjects/DictionnairePicard/project/target/scala-2.10/sbt-0.13/classes:/people/khamphousone/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.15.jar:/people/khamphousone/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.15.jar:/people/khamphousone/.ivy2/cache/org.scala-sbt/actions/jars/actions-0.13.15.jar:/people/khamphousone/.ivy2/cache/org.scala-sbt/classpath/jars/classpath-0.13.15.jar:/people/khamphousone/.sbt/boot/scala-2.10.6/lib/scala-compiler.jar:/people/khamphousone/.sbt/boot/scala-2.10.6/lib/scala-reflect.jar:/people/khamphousone/.ivy2/cache/org.scala-sbt/interface/jars/interface-0.13.15.jar:/people/khamphousone/.ivy2/cache/org.scala-sbt/io/jars/io-0.13.15.jar:/people/khamphousone/.ivy2/cache/org.scala-sbt/control/jars/control-0.13.15.jar:/people/khamphousone/.ivy2/cache/org.scala-sbt/launcher-interface/jars/launcher-interface-1.0.1.jar:/people/khamphousone/.ivy2/cache/org.scala-sbt/completion/jars/completion-0.13.15.jar:/people/khamphousone/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.15.jar:/people/khamphousone/.ivy2/cache/jline/jline/jars/jline-2.14.3.jar:/people/khamphousone/.ivy2/cache/org.scala-sbt/api/jars/api-0.13.15.jar:/people/khamphousone/.ivy2/cache/org.scala-sbt/classfile/jars/classfile-0.13.15.jar:/people/khamphousone/.ivy2/cache/org.scala-sbt/logging/jars/logging-0.13.15.jar:/people/khamphousone/.ivy2/cache/org.scala-sbt/process/jars/process-0.13.15.jar:/people/khamphousone/.ivy2/cache/org.scala-sbt/compiler-integration/jars/compiler-integration-0.13.15.jar:/people/khamphousone/.ivy2/cache/org.scala-sbt/incremental-compiler/jars/incremental-compiler-0.13.15.jar:/people/khamphousone/.ivy2/cache/org.scala-sbt/relation/jars/relation-0.13.15.jar:/people/khamphousone/.ivy2/cache/org.scala-sbt/compile/jars/compile-0.13.15.jar:/people/khamphousone/.ivy2/cache/org.scala-sbt/persist/jars/persist-0.13.15.jar:/people/khamphousone/.ivy2/cache/org.scala-tools.sbinary/sbinary_2.10/jars/sbinary_2.10-0.4.2.jar:/people/khamphousone/.ivy2/cache/org.scala-sbt/compiler-ivy-integration/jars/compiler-ivy-integration-0.13.15.jar:/people/khamphousone/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.15.jar:/people/khamphousone/.ivy2/cache/org.scala-sbt/cross/jars/cross-0.13.15.jar:/people/khamphousone/.ivy2/cache/org.scala-sbt.ivy/ivy/jars/ivy-2.3.0-sbt-48dd0744422128446aee9ac31aa356ee203cc9f4.jar:/people/khamphousone/.ivy2/cache/com.jcraft/jsch/jars/jsch-0.1.50.jar:/people/khamphousone/.ivy2/cache/org.scala-sbt/serialization_2.10/jars/serialization_2.10-0.1.2.jar:/people/khamphousone/.ivy2/cache/org.scala-lang.modules/scala-pickling_2.10/jars/scala-pickling_2.10-0.10.1.jar:/people/khamphousone/.ivy2/cache/org.scalamacros/quasiquotes_2.10/jars/quasiquotes_2.10-2.0.1.jar:/people/khamphousone/.ivy2/cache/org.json4s/json4s-core_2.10/jars/json4s-core_2.10-3.2.10.jar:/people/khamphousone/.ivy2/cache/org.json4s/json4s-ast_2.10/jars/json4s-ast_2.10-3.2.10.jar:/people/khamphousone/.ivy2/cache/com.thoughtworks.paranamer/paranamer/jars/paranamer-2.6.jar:/people/khamphousone/.ivy2/cache/org.spire-math/jawn-parser_2.10/jars/jawn-parser_2.10-0.6.0.jar:/people/khamphousone/.ivy2/cache/org.spire-math/json4s-support_2.10/jars/json4s-support_2.10-0.6.0.jar:/people/khamphousone/.ivy2/cache/org.scala-sbt/run/jars/run-0.13.15.jar:/people/khamphousone/.ivy2/cache/org.scala-sbt/task-system/jars/task-system-0.13.15.jar:/people/khamphousone/.ivy2/cache/org.scala-sbt/tasks/jars/tasks-0.13.15.jar:/people/khamphousone/.ivy2/cache/org.scala-sbt/tracking/jars/tracking-0.13.15.jar:/people/khamphousone/.ivy2/cache/org.scala-sbt/cache/jars/cache-0.13.15.jar:/people/khamphousone/.ivy2/cache/org.scala-sbt/testing/jars/testing-0.13.15.jar:/people/khamphousone/.ivy2/cache/org.scala-sbt/test-agent/jars/test-agent-0.13.15.jar:/people/khamphousone/.ivy2/cache/org.scala-sbt/test-interface/jars/test-interface-1.0.jar:/people/khamphousone/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.15.jar:/people/khamphousone/.ivy2/cache/org.scala-sbt/apply-macro/jars/apply-macro-0.13.15.jar:/people/khamphousone/.ivy2/cache/org.scala-sbt/command/jars/command-0.13.15.jar:/people/khamphousone/.ivy2/cache/org.scala-sbt/template-resolver/jars/template-resolver-0.1.jar:/people/khamphousone/.ivy2/cache/org.scala-sbt/logic/jars/logic-0.13.15.jar:/people/khamphousone/.ivy2/cache/org.scala-sbt/compiler-interface/jars/compiler-interface-0.13.15.jar
+[error] source file '/people/khamphousone/IdeaProjects/DictionnairePicard/project/Build.scala' could not be found
+[error] one error found
+[debug] Compilation failed (CompilerInterface)
+[error] (compile:compileIncremental) Compilation failed
