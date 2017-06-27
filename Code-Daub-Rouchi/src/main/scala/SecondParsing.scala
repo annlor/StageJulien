@@ -23,10 +23,10 @@ class SecondParsing {
     val UP = new UnitParser()
 
     val MotFrançais = P(UP.LowerCaseLetter.!)
-    val ComplementMot = P(("(" ~ UP.LowerCaseLetter ~ ")").!)
+    val ComplementMot = P(("(" ~ "'".? ~ UP.LowerCaseLetter.rep(sep = "'") ~ "'".? ~ ")").!)
 
-    val DeuxiemeParser = P(MotFrançais.! ~ " ".? ~ ComplementMot.!.? ~
-      ", ".? ~ UP.Abreviation.?.! ~ " : ".? ~ UP.PoncDefinitions.!.rep)
+    val DeuxiemeParser = P(MotFrançais.! ~ " ".? ~ ComplementMot.!.?
+      ~ ", ".? ~ UP.Abreviation.?.! ~ " : ".? ~ UP.PoncDefinitions.!.rep)
 
     DeuxiemeParser.parse(str) match {
       case Parsed.Success(("", _, _, _), _) => TraductionFrançaise("", None, "", Seq(""))
@@ -37,7 +37,7 @@ class SecondParsing {
       case Parsed.Success(_, _) => TraductionFrançaise("Error",None, "", Seq(""))
     }
   }
-  class Trad(mot : String, complement : Option[String], abreviation : String, traduction : Seq[String]) {
+  class Trad2(mot : String, complement : Option[String], abreviation : String, traduction : Seq[String]) {
 
     def SeqtoXml(seq: Seq[String]): Seq[Elem] = {
       val res = for (elements <- seq) yield {
@@ -49,12 +49,12 @@ class SecondParsing {
     }
 
     def toXml : Elem =
-      <TraductionFrançaise>
+      <TraductionFrancaise>
         <mot>{mot}</mot>
-        <complement>{complement.mkString}</complement>
+        <complement>{complement.getOrElse("")}</complement>
         <abreviation>{abreviation}</abreviation>
         {SeqtoXml(traduction)}
-      </TraductionFrançaise>
+      </TraductionFrancaise>
 
   }
 }
@@ -79,14 +79,12 @@ object Demo2 {
     val liste2 = liste1.toList
     for (elements <- 'é'::('a' to 'z').toList) {
       val listTrad = for (trad <- liste2 if
-      List(s"$elements", s"* $elements", s"${UP.Numbers.rep(min = 1)}").exists(trad.mot.startsWith))
-        yield {
-          if (trad.mot.isEmpty | trad.mot.startsWith(s"${UP.Numbers.rep(min = 1)}")) <Empty/>
+      List(s"$elements", s"* $elements").exists(trad.mot.startsWith)) yield {
 
-          else {
-            val Traduction = new Parsing.Trad(trad.mot, trad.complement, trad.abreviation, trad.traduction)
+            val Traduction = new Parsing.Trad2(trad.mot, trad.complement, trad.abreviation, trad.traduction)
             Traduction.toXml
-          }
+
+
         }
 
       val listXml = <Traduction>

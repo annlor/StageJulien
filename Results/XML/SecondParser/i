@@ -1,193 +1,193 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Traduction>
-        <TraductionFrançaise>
+        <TraductionFrancaise>
         <mot>ici</mot>
         <complement></complement>
         <abreviation>adv.</abreviation>
         <definition>
           chi, douchi, drochi, drouchi, ichi.
         </definition>
-      </TraductionFrançaise><TraductionFrançaise>
+      </TraductionFrancaise><TraductionFrancaise>
         <mot>imbécile</mot>
         <complement></complement>
         <abreviation>s. m.</abreviation>
         <definition>
           aploute (happe-loute), babin, badelot, baïou, béda, bièque-bos, colas, glaute, manonon, ornébot, papart.
         </definition>
-      </TraductionFrançaise><TraductionFrançaise>
+      </TraductionFrancaise><TraductionFrancaise>
         <mot>imbroglio</mot>
         <complement></complement>
         <abreviation>s. m.</abreviation>
         <definition>
           imbrodio.
         </definition>
-      </TraductionFrançaise><TraductionFrançaise>
+      </TraductionFrancaise><TraductionFrancaise>
         <mot>inactif </mot>
-        <complement></complement>
+        <complement>(être)</complement>
         <abreviation></abreviation>
         <definition>
-          (être) : joquer.
+          joquer.
         </definition>
-      </TraductionFrançaise><TraductionFrançaise>
+      </TraductionFrancaise><TraductionFrancaise>
         <mot>incendiaire</mot>
         <complement></complement>
         <abreviation>s. m.</abreviation>
         <definition>
           metteux d' feu.
         </definition>
-      </TraductionFrançaise><TraductionFrançaise>
+      </TraductionFrancaise><TraductionFrancaise>
         <mot>incliner </mot>
-        <complement></complement>
-        <abreviation></abreviation>
+        <complement>(manque d'aplomb)</complement>
+        <abreviation>v.</abreviation>
         <definition>
-          (manque d'aplomb), v. : cléner.
+          cléner.
         </definition>
-      </TraductionFrançaise><TraductionFrançaise>
+      </TraductionFrancaise><TraductionFrancaise>
         <mot>incommode</mot>
         <complement></complement>
         <abreviation>adj.</abreviation>
         <definition>
           mal commode.
         </definition>
-      </TraductionFrançaise><TraductionFrançaise>
+      </TraductionFrancaise><TraductionFrancaise>
         <mot>inculte </mot>
-        <complement></complement>
-        <abreviation></abreviation>
+        <complement>(terre)</complement>
+        <abreviation>s. f.</abreviation>
         <definition>
-          (terre), s. f. : sars, sart. (Voir : friche, jachère).
+          sars, sart. (Voir : friche, jachère).
         </definition>
-      </TraductionFrançaise><TraductionFrançaise>
+      </TraductionFrancaise><TraductionFrancaise>
         <mot>index </mot>
-        <complement></complement>
-        <abreviation></abreviation>
+        <complement>(doigt)</complement>
+        <abreviation>s. m.</abreviation>
         <definition>
-          (doigt), s. m. : Jean-laridé.
+          Jean-laridé.
         </definition>
-      </TraductionFrançaise><TraductionFrançaise>
+      </TraductionFrancaise><TraductionFrancaise>
         <mot>indiscret</mot>
         <complement></complement>
         <abreviation>s. m. et adj.</abreviation>
         <definition>
           mêle-tout, métreux.
         </definition>
-      </TraductionFrançaise><TraductionFrançaise>
+      </TraductionFrancaise><TraductionFrancaise>
         <mot>indisposé</mot>
         <complement></complement>
         <abreviation>adj.</abreviation>
         <definition>
           fayeux.
         </definition>
-      </TraductionFrançaise><TraductionFrançaise>
+      </TraductionFrancaise><TraductionFrancaise>
         <mot>indocile</mot>
         <complement></complement>
         <abreviation>adj.</abreviation>
         <definition>
           mal aisile.
         </definition>
-      </TraductionFrançaise><TraductionFrançaise>
+      </TraductionFrancaise><TraductionFrancaise>
         <mot>infatigable </mot>
-        <complement></complement>
-        <abreviation></abreviation>
+        <complement>(femme)</complement>
+        <abreviation>s. f.</abreviation>
         <definition>
-          (femme), s. f. : archelle, sara.
+          archelle, sara.
         </definition>
-      </TraductionFrançaise><TraductionFrançaise>
+      </TraductionFrancaise><TraductionFrancaise>
         <mot>infirme</mot>
         <complement></complement>
         <abreviation>s. m.</abreviation>
         <definition>
           affligé.
         </definition>
-      </TraductionFrançaise><TraductionFrançaise>
+      </TraductionFrancaise><TraductionFrancaise>
         <mot>inflorescence</mot>
         <complement></complement>
         <abreviation>s. f.</abreviation>
         <definition>
           poquet.
         </definition>
-      </TraductionFrançaise><TraductionFrançaise>
+      </TraductionFrancaise><TraductionFrancaise>
         <mot>innocent </mot>
-        <complement></complement>
-        <abreviation></abreviation>
+        <complement>(simplet)</complement>
+        <abreviation>s. m.</abreviation>
         <definition>
-          (simplet), s. m. : innochint, ninoche.
+          innochint, ninoche.
         </definition>
-      </TraductionFrançaise><TraductionFrançaise>
+      </TraductionFrancaise><TraductionFrancaise>
         <mot>inquiéter </mot>
-        <complement></complement>
-        <abreviation></abreviation>
+        <complement>(s')</complement>
+        <abreviation>v.</abreviation>
         <definition>
-          (s'), v. : s' marmouser, s' trimousser.
+          s' marmouser, s' trimousser.
         </definition>
-      </TraductionFrançaise><TraductionFrançaise>
+      </TraductionFrancaise><TraductionFrancaise>
         <mot>insérer </mot>
-        <complement></complement>
-        <abreviation></abreviation>
+        <complement>(s')</complement>
+        <abreviation>v.</abreviation>
         <definition>
-          (s'), v. : s'incerner.
+          s'incerner.
         </definition>
-      </TraductionFrançaise><TraductionFrançaise>
+      </TraductionFrancaise><TraductionFrancaise>
         <mot>inspecteur</mot>
         <complement></complement>
         <abreviation>s. m.</abreviation>
         <definition>
           esward, reward (vx).
         </definition>
-      </TraductionFrançaise><TraductionFrançaise>
+      </TraductionFrancaise><TraductionFrancaise>
         <mot>instable </mot>
-        <complement></complement>
+        <complement>(être en équilibre)</complement>
         <abreviation></abreviation>
         <definition>
-          (être en équilibre) : marchander.
+          marchander.
         </definition>
-      </TraductionFrançaise><TraductionFrançaise>
+      </TraductionFrancaise><TraductionFrancaise>
         <mot>insulter</mot>
         <complement></complement>
         <abreviation>v.</abreviation>
         <definition>
           traiter.
         </definition>
-      </TraductionFrançaise><TraductionFrançaise>
+      </TraductionFrancaise><TraductionFrancaise>
         <mot>insupportable</mot>
         <complement></complement>
         <abreviation>adj.</abreviation>
         <definition>
           insipite ; être insupportable : passer l' diape.
         </definition>
-      </TraductionFrançaise><TraductionFrançaise>
+      </TraductionFrancaise><TraductionFrancaise>
         <mot>intelligence</mot>
         <complement></complement>
         <abreviation>s. f.</abreviation>
         <definition>
           comperdo, comperdure.
         </definition>
-      </TraductionFrançaise><TraductionFrançaise>
+      </TraductionFrancaise><TraductionFrancaise>
         <mot>intervalle</mot>
         <complement></complement>
         <abreviation>s. m.</abreviation>
         <definition>
           interdeux.
         </definition>
-      </TraductionFrançaise><TraductionFrançaise>
+      </TraductionFrancaise><TraductionFrancaise>
         <mot>intestin </mot>
-        <complement></complement>
-        <abreviation></abreviation>
+        <complement>(gros)</complement>
+        <abreviation>s. m.</abreviation>
         <definition>
-          (gros), s. m. : cras-boïau, maît'-boïau.
+          cras-boïau, maît'-boïau.
         </definition>
-      </TraductionFrançaise><TraductionFrançaise>
+      </TraductionFrancaise><TraductionFrancaise>
         <mot>iris faux-acore</mot>
         <complement></complement>
         <abreviation>s. m.</abreviation>
         <definition>
           bié.
         </definition>
-      </TraductionFrançaise><TraductionFrançaise>
+      </TraductionFrancaise><TraductionFrancaise>
         <mot>ivre</mot>
         <complement></complement>
         <abreviation>adj.</abreviation>
         <definition>
           bersaique, quervé, roste, rousti ; ivre-mort : mortousse, mort-z'ije ; être ivre : êt' quervé, êt' inrosté, avoir es pronne, avoir es peun' tierre, avoir el vint dins l' dos.
         </definition>
-      </TraductionFrançaise>
+      </TraductionFrancaise>
       </Traduction>

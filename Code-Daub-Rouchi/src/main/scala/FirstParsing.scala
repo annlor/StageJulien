@@ -10,8 +10,9 @@ import fastparse.all._
 
 import scala.xml._
 import commons.UnitParser
-
+/**
 import scala.collection.JavaConverters._
+*/
 
 /**
   * Cette case classe contriendra les éléments de chaque ligne
@@ -93,22 +94,19 @@ object Demo {
 
     val liste2 = liste1.toList
     for (elements <- 'É'::('A' to 'Z').toList) {
-      val listTrad = for (trad <- liste2 if
-      List(s"$elements", s"* $elements", s"${UP.Numbers.rep(min = 1)}").exists(trad.mot.startsWith))
-       yield {
-         if (trad.mot.isEmpty | trad.mot.startsWith(s"${UP.Numbers.rep(min = 1)}")) <Empty/>
 
-         else {
+      val listTrad = for (trad <- liste2 if
+      List(s"$elements", s"* $elements").exists(trad.mot.startsWith)) yield {
            val Traduction = new Parsing.Trad(trad.mot, trad.abreviation, trad.definitions)
            Traduction.toXml
          }
-      }
+
 
         val listXml = <Traduction>
           {listTrad}
         </Traduction>
 
-        XML.save(s"/people/khamphousone/Documents/ParsersScala/XML/$elements", listXml, "utf-8", true, null)
+        XML.save(s"/people/khamphousone/Documents/ParsersScala/XML/FirstParser/$elements", listXml, "utf-8", true, null)
       }
   }
 
