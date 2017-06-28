@@ -6,10 +6,10 @@ import scala.io.Source
 /**
 import java.io._
 */
+import commons.UnitParser
 import fastparse.all._
 
 import scala.xml._
-import commons.UnitParser
 /**
 import scala.collection.JavaConverters._
 */
@@ -35,19 +35,23 @@ class FirstParsing {
   def Parser(str: String): TraductionPicard = {
     val UP = new UnitParser()
 
-    val MotPicard = P(("* ".? ~ UP.Letters.rep(sep = UP.Parenthesis) ~ " ".? ~ UP.Parenthesis).!)
+    val MotPicard = P(("* ".? ~ UP.Letters.rep(sep = UP.Parenthesis) ~ " ".? ~
+      UP.Parenthesis).!)
 
 
 
-    val Debut: Parser[(String, String, Seq[String])] = P(MotPicard.! ~ ", ".? ~ UP.Abreviation.?.! ~ " : ".?
+    val Debut: Parser[(String, String, Seq[String])] = P(MotPicard.! ~ ", ".? ~
+      UP.Abreviation.?.! ~ " : ".?
   ~ (UP.PoncDefinitions | UP.NumbersDef ~ UP.PoncDefinitions).!.rep)
 
 
    Debut.parse(str) match {
      case Parsed.Success(("",_,_),_) => TraductionPicard("","",Seq(""))
-     case Parsed.Success((str1: String, str2: String, seq: Seq[String]), _) => TraductionPicard(str1, str2, seq)
+     case Parsed.Success((str1: String, str2: String, seq: Seq[String]), _) =>
+       TraductionPicard(str1, str2, seq)
 
-     case f: Parsed.Failure =>  TraductionPicard(s"Failure $str \n ${f.extra.traced.trace}", s"${f.index}", Seq(""))
+     case f: Parsed.Failure =>
+       TraductionPicard(s"Failure $str \n ${f.extra.traced.trace}", s"${f.index}", Seq(""))
        /**TraductionPicard("","",Seq(""))*/
 
      case Parsed.Success(_,_) => TraductionPicard("Error","",Seq(""))
@@ -82,6 +86,7 @@ object Demo {
 
   def main(args: Array[String]): Unit = {
 
+    /** /!\ Nom du path à changer si compilation sur autre machine */
     val buff: Source = Source.fromFile("/people/khamphousone/Documents/Dictionnaires/daub_rouchi_197S_CU.txt")
     /**val writer = new PrintWriter(new File("/people/khamphousone/Documents/ParsersScala/FileParsers.txt"))*/
     val Parsing = new FirstParsing()
@@ -108,6 +113,7 @@ object Demo {
 
         XML.save(s"/people/khamphousone/Documents/ParsersScala/XML/FirstParser/$elements", listXml, "utf-8", true, null)
       }
+  println("FirstParsing DONE")
   }
 
 

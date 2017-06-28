@@ -29,12 +29,16 @@ class SecondParsing {
       ~ ", ".? ~ UP.Abreviation.?.! ~ " : ".? ~ UP.PoncDefinitions.!.rep)
 
     DeuxiemeParser.parse(str) match {
-      case Parsed.Success(("", _, _, _), _) => TraductionFrançaise("", None, "", Seq(""))
-      case Parsed.Success((str1: String, str2: Option[String], str3: String, seq: Seq[String]), _) => TraductionFrançaise(str1, str2, str3, seq)
+      case Parsed.Success(("", _, _, _), _) =>
+        TraductionFrançaise("", None, "", Seq(""))
+      case Parsed.Success((str1: String, str2: Option[String], str3: String, seq: Seq[String]), _) =>
+        TraductionFrançaise(str1, str2, str3, seq)
 
-      case f: Parsed.Failure => TraductionFrançaise(s"Failure $str \n ${f.extra.traced.trace}", None, s"${f.index}", Seq(""))
+      case f: Parsed.Failure =>
+        TraductionFrançaise(s"Failure $str \n ${f.extra.traced.trace}", None, s"${f.index}", Seq(""))
 
-      case Parsed.Success(_, _) => TraductionFrançaise("Error",None, "", Seq(""))
+      case Parsed.Success(_, _) =>
+        TraductionFrançaise("Error",None, "", Seq(""))
     }
   }
   class Trad2(mot : String, complement : Option[String], abreviation : String, traduction : Seq[String]) {
@@ -66,6 +70,7 @@ object Demo2 {
 
   def main(args: Array[String]): Unit = {
 
+    /** /!\ Nom du path à changer si compilation sur autre machine */
     val buff: Source = Source.fromFile("/people/khamphousone/Documents/Dictionnaires/daub_rouchi_197S_CU.txt")
     val writer = new PrintWriter(new File("/people/khamphousone/Documents/ParsersScala/XML/SecondParser/FileParsers.txt"))
     val Parsing = new SecondParsing()
