@@ -1,940 +1,940 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Traduction>
-        <TraductionFrancaise>
-        <mot>sa</mot>
-        <complement></complement>
-        <abreviation>adj. poss.</abreviation>
-        <definition>
+        <ArticleDeDictionnaire>
+        <Entrée>sa</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>adj. poss.</StructureGrammaticale>
+        <Lexie>
           s', s'n.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>sable</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>sable</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           sabouret, sabre, sape.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>sabler</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>sabler</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           sabrer.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>sabot</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>sabot</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           chabeut, chabot ; (toupie) taillo.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>sac</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>sac</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           sa ; (petit) mallette, saclet, sacquiau, satiau.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>saccager</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>saccager</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           faire aufrache.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>sachée</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>sachée</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           sacquie.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>saigner</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>saigner</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           san.ner, sonner.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>saillir </mot>
-        <complement>(être en saillie)</complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>saillir </Entrée>
+        <Complément>(être en saillie)</Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           biquer.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>salaire</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>salaire</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           gagnage.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>salir</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>salir</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           brouser.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>saloir</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>saloir</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           salo.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>saltimbanque</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>saltimbanque</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           baraqueux, faiseux d' jeux.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>sandwich</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>sandwich</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           briquet, pain fourré.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>sanglier </mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>sanglier </Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           chingler, pourcheau-singler, singler.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>sangloter</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>sangloter</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           soumaquer.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>sangsue</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>sangsue</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           sansurte.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>sans-souci</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>sans-souci</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           sans-bile.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>sarbacane</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>sarbacane</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           albute, arbute, buquo, busette.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>sarclage </mot>
-        <complement>(des betteraves)</complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>sarclage </Entrée>
+        <Complément>(des betteraves)</Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           ertaillage.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>sarcler</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>sarcler</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           écruauder.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>sarcleuse</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>sarcleuse</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           écruaudeuse.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>sarcloir</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>sarcloir</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           écruaudo.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>sarrasin </mot>
-        <complement>(céréale)</complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>sarrasin </Entrée>
+        <Complément>(céréale)</Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           bouquette.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>sarriette</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>sarriette</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           saillette.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>sauge</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>sauge</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           sale. Infusion de sauge : thé à l' sale.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>saule</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>saule</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           sau, sauch ; (étêté) billote, halot.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>saute-mouton</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>saute-mouton</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           berlicoco.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>sauterelle</mot>
-        <complement></complement>
-        <abreviation></abreviation>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>sauterelle</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
         
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>sauvé </mot>
-        <complement>(être)</complement>
-        <abreviation>loc. v.</abreviation>
-        <definition>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>sauvé </Entrée>
+        <Complément>(être)</Complément>
+        <StructureGrammaticale>loc. v.</StructureGrammaticale>
+        <Lexie>
           récapper.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>savate</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>savate</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           chavate.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>savetier</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>savetier</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           chavetier, chaftier.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>scandaliser</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>scandaliser</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           esclandir.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>scie</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>scie</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           soïarte, raccourchoire, tranchenoirte.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>scier</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>scier</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           soïer.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>scories</mot>
-        <complement></complement>
-        <abreviation>s. f. pl.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>scories</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f. pl.</StructureGrammaticale>
+        <Lexie>
           craïats, croïons. Enlever les scories : décrayonner.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>seau</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>seau</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           seillaud, seyau, siau, sieu, seulle.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>sèche</mot>
-        <complement></complement>
-        <abreviation>adj.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>sèche</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>adj.</StructureGrammaticale>
+        <Lexie>
           sèque ; bouche sèche : bouque essapie.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>séchoir </mot>
-        <complement>(agricole)</complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>séchoir </Entrée>
+        <Complément>(agricole)</Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           tourelle.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>secouer</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>secouer</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           alloter, anginer, arlocher, arloter, brandeler, bronner, escoeute, hochéner, hochiner, warloquer ; être secoué (sur une route) : bonqueter.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>secrétaire de mairie</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>secrétaire de mairie</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           greffier.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>séducteur</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>séducteur</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           affronteux (vx), abusieux d' filles.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>séduire</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>séduire</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           affronter (vx).
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>seigle</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>seigle</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           soile ; (vert) cras soile.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>sein</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>sein</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           tette, tototte.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>semailles</mot>
-        <complement></complement>
-        <abreviation>s. f. pl.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>semailles</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f. pl.</StructureGrammaticale>
+        <Lexie>
           aan, couvrennes.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>semblant </mot>
-        <complement>(faire)</complement>
-        <abreviation>loc. v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>semblant </Entrée>
+        <Complément>(faire)</Complément>
+        <StructureGrammaticale>loc. v.</StructureGrammaticale>
+        <Lexie>
           faire l'essenne.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>sembler</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>sembler</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           san.ner, sonner.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>semence</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>semence</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           séminche.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>semer</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>semer</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           assémer, rassemer.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>senti</mot>
-        <complement></complement>
-        <abreviation>part. pas.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>senti</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>part. pas.</StructureGrammaticale>
+        <Lexie>
           sintu.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>sentier</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>sentier</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           piéchinte, piésente, voée, voïette, vouée.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>séran</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>séran</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           chérin.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>serin</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>serin</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           fifi.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>sermon</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>sermon</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           prêchemint.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>serpe</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>serpe</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           corbet, courbet.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>serpent </mot>
-        <complement></complement>
-        <abreviation></abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>serpent </Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <Lexie>
           (instr. de musique), s. m. : cron-cornet.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>serpillière</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>serpillière</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           loque à loqueter, loquetois, wassingue.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>serrer</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>serrer</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           épautrer, époquer, pocher.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>servante</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>servante</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           méquenne.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>service </mot>
-        <complement>(ex-militaire)</complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>service </Entrée>
+        <Complément>(ex-militaire)</Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           congé.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>seul</mot>
-        <complement></complement>
-        <abreviation>adj.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>seul</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>adj.</StructureGrammaticale>
+        <Lexie>
           tout seu.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>seulement</mot>
-        <complement></complement>
-        <abreviation>adv.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>seulement</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>adv.</StructureGrammaticale>
+        <Lexie>
           foque.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>si bien que</mot>
-        <complement></complement>
-        <abreviation>loc. conj.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>si bien que</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>loc. conj.</StructureGrammaticale>
+        <Lexie>
           tant qu' si bin.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>si ce n</mot>
-        <complement></complement>
-        <abreviation></abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>si ce n</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <Lexie>
           'est que : si non bin.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>sieste</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>sieste</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           niquet.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>sifflement</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>sifflement</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           chiffelmint.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>siffler</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>siffler</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           chiffler, chuffler.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>sifflet</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>sifflet</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           chifflot.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>signe de croix</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>signe de croix</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           nom du père.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>signer </mot>
-        <complement>(se)</complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>signer </Entrée>
+        <Complément>(se)</Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           faire au nom du père, incacher les mouques.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>silex</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>silex</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           caillo cornu.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>sillon</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>sillon</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           berquin, roie ; (fessier) : roïette.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>similitude</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>similitude</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           rétor.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>simple</mot>
-        <complement></complement>
-        <abreviation>adj.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>simple</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>adj.</StructureGrammaticale>
+        <Lexie>
            (avant le nom) simbel.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>simplement</mot>
-        <complement></complement>
-        <abreviation>adv.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>simplement</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>adv.</StructureGrammaticale>
+        <Lexie>
           unimint.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>singer</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>singer</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           argrigner, ergréner, ringrégner.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>sobriquet</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>sobriquet</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           nom jeté, nom d' bertèque.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>soc</mot>
-        <complement></complement>
-        <abreviation></abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>soc</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <Lexie>
           . s. m. : fier.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>socle</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>socle</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           abloc.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>soeur</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>soeur</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           suer'.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>soi</mot>
-        <complement></complement>
-        <abreviation>pr. pers.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>soi</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>pr. pers.</StructureGrammaticale>
+        <Lexie>
           li.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>soie</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>soie</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           so, soèe
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>soif</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>soif</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           so, soi.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>soigné</mot>
-        <complement></complement>
-        <abreviation>adj.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>soigné</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>adj.</StructureGrammaticale>
+        <Lexie>
           rétis.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>solder</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>solder</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           brader.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>soleil</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>soleil</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           solé.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>solidité </mot>
-        <complement></complement>
-        <abreviation></abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>solidité </Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <Lexie>
           (d'un tissu, etc.), s. f. : usance.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>sommeil</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>sommeil</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           dormage.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>sommet </mot>
-        <complement>(de la tête)</complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>sommet </Entrée>
+        <Complément>(de la tête)</Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           som.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>son </mot>
-        <complement>(de farine)</complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>son </Entrée>
+        <Complément>(de farine)</Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           artrait.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>son</mot>
-        <complement></complement>
-        <abreviation>adj. pos.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>son</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>adj. pos.</StructureGrammaticale>
+        <Lexie>
           s', sin, s'n.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>sorbier</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>sorbier</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           caurettier.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>sorcier</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>sorcier</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           faiseux d' sorts.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>sorcière</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>sorcière</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           sorcielle.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>sortir</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>sortir</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           déballer, débuquer, décageter, décaqueriller, défournaquer, déhutter, déjouquer, wuidier ; s'en sortir : s'in défarquer.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>soubresaut</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>soubresaut</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           arjon.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>souche </mot>
-        <complement>(d'arbre)</complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>souche </Entrée>
+        <Complément>(d'arbre)</Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           choque, culas.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>soucis</mot>
-        <complement></complement>
-        <abreviation>s. m. pl.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>soucis</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m. pl.</StructureGrammaticale>
+        <Lexie>
           passe-temps, ruses.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>souder</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>souder</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           archuquer.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>souffreteux</mot>
-        <complement></complement>
-        <abreviation>adj. subs.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>souffreteux</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>adj. subs.</StructureGrammaticale>
+        <Lexie>
           drissou, tchiou, vert-vessou.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>souffrir</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>souffrir</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           soufferre.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>souillon</mot>
-        <complement></complement>
-        <abreviation>s. m. ou f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>souillon</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m. ou f.</StructureGrammaticale>
+        <Lexie>
           Marie-graillon, sandrouillon.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>soulier</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>soulier</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           scrler.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>soupe </mot>
-        <complement>(mauvaise)</complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>soupe </Entrée>
+        <Complément>(mauvaise)</Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           quiquisse.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>soupirail</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>soupirail</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           boette, supéruel.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>soupirer</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>soupirer</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           téguer, téquer, hanser.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>souris</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>souris</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           soris.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>sournois</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>sournois</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           lougnard, lourgneux.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>soutanelle</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>soutanelle</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           cotte.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>souteneur </mot>
-        <complement>(proxénète)</complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>souteneur </Entrée>
+        <Complément>(proxénète)</Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           mingeux d' blanc.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>souvenir </mot>
-        <complement>(se)</complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>souvenir </Entrée>
+        <Complément>(se)</Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           s' ramintuver, s' rapinser.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>souvenir</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>souvenir</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           ramintevrance.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>souvent</mot>
-        <complement></complement>
-        <abreviation>adv.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>souvent</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>adv.</StructureGrammaticale>
+        <Lexie>
           tréfosé (vx).
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>spectateur</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>spectateur</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           arwettiant, arwettieux.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>sperme</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>sperme</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           fioutre, chirop d'alleumette.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>statuette</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>statuette</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           posture.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>stupéfait</mot>
-        <complement></complement>
-        <abreviation>adj.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>stupéfait</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>adj.</StructureGrammaticale>
+        <Lexie>
           estoqué.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>stupidité</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>stupidité</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
            ; décholure.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>su</mot>
-        <complement></complement>
-        <abreviation>part. pas.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>su</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>part. pas.</StructureGrammaticale>
+        <Lexie>
           séu.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>sucer</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>sucer</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           chucher, tucher.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>suçoter</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>suçoter</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           chuchéner.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>suçon</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>suçon</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           chuchon.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>sucre</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>sucre</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           chuque.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>sucrer</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>sucrer</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           chucrer.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>sucrerie</mot>
-        <complement></complement>
-        <abreviation>s f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>sucrerie</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s f.</StructureGrammaticale>
+        <Lexie>
           (fabrique) chuquerie ; (bonbon) chucarte.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>suffoquer</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>suffoquer</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           hanser.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>suinter</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>suinter</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           suiner.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>suivre</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>suivre</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           suire.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>supporter </mot>
-        <complement>(endurer)</complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>supporter </Entrée>
+        <Complément>(endurer)</Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           indurer.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>sureau</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>sureau</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           séhu, séu.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>surgeon</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>surgeon</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           quétron.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>surprenant</mot>
-        <complement></complement>
-        <abreviation>adj.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>surprenant</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>adj.</StructureGrammaticale>
+        <Lexie>
           supernant.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>surpris </mot>
-        <complement>(être)</complement>
-        <abreviation>loc. v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>surpris </Entrée>
+        <Complément>(être)</Complément>
+        <StructureGrammaticale>loc. v.</StructureGrammaticale>
+        <Lexie>
           rester paf.
-        </definition>
-      </TraductionFrancaise>
+        </Lexie>
+      </ArticleDeDictionnaire>
       </Traduction>

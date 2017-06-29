@@ -1,32 +1,32 @@
 <?xml version='1.0' encoding='utf-8'?>
-<Traduction>
-        <TraductionPicard>
-      <mot>qan</mot>
-      <abreviation>s.m.</abreviation>
-      <definition>
+<Dictionnaire>
+        <ArticleDeDictionnaire>
+      <Entrée>qan</Entrée>
+      <StructureGrammaticale>s.m.</StructureGrammaticale>
+      <Lexie>
            gant spécial que portait jadis le joueur de balle au
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>qui oublie ses humbles origines</mot>
-      <abreviation></abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>qui oublie ses humbles origines</Entrée>
+      <StructureGrammaticale></StructureGrammaticale>
+      <Lexie>
           on dit : tin père i batwé 
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>qro boné blan</mot>
-      <abreviation>s.m.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>qro boné blan</Entrée>
+      <StructureGrammaticale>s.m.</StructureGrammaticale>
+      <Lexie>
            comp., fleur du liseron, D1 17; cf. litrèle.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>que les favoris)</mot>
-      <abreviation></abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>que les favoris)</Entrée>
+      <StructureGrammaticale></StructureGrammaticale>
+      <Lexie>
           Am 22.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>quartier(lune)</mot>
-      <abreviation></abreviation>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>quartier(lune)</Entrée>
+      <StructureGrammaticale></StructureGrammaticale>
       
-    </TraductionPicard>
-      </Traduction>
+    </ArticleDeDictionnaire>
+      </Dictionnaire>

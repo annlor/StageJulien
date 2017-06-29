@@ -1,128 +1,128 @@
 <?xml version='1.0' encoding='utf-8'?>
-<Traduction>
-        <TraductionPicard>
-      <mot>une bourse bien garnie</mot>
-      <abreviation></abreviation>
+<Dictionnaire>
+        <ArticleDeDictionnaire>
+      <Entrée>une bourse bien garnie</Entrée>
+      <StructureGrammaticale></StructureGrammaticale>
       
-    </TraductionPicard><TraductionPicard>
-      <mot>une chose qu'on avait momentanément oubliée</mot>
-      <abreviation></abreviation>
-      <definition>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>une chose qu'on avait momentanément oubliée</Entrée>
+      <StructureGrammaticale></StructureGrammaticale>
+      <Lexie>
           Am 22.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>u</mot>
-      <abreviation>s.m.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>u</Entrée>
+      <StructureGrammaticale>s.m.</StructureGrammaticale>
+      <Lexie>
            oeuf, Am 21, D1 53,84; exp. ète su sé z u, être dans l'aisance, Am 21.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>u blan</mot>
-      <abreviation>s.m.comp.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>u blan</Entrée>
+      <StructureGrammaticale>s.m.comp.</StructureGrammaticale>
+      <Lexie>
            1) oeuf sans jaune, Am 36,62;
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>u kouviche</mot>
-      <abreviation>s.m.comp.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>u kouviche</Entrée>
+      <StructureGrammaticale>s.m.comp.</StructureGrammaticale>
+      <Lexie>
            oeuf couvé, Am 21, 37,38,48,62,63,93,
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>ulote</mot>
-      <abreviation>s.f.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>ulote</Entrée>
+      <StructureGrammaticale>s.f.</StructureGrammaticale>
+      <Lexie>
            chouette, Am 21.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>ulyère</mot>
-      <abreviation>adj.fém.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>ulyère</Entrée>
+      <StructureGrammaticale>adj.fém.</StructureGrammaticale>
+      <Lexie>
            stérile ou qui ne donne plus de lait (vaches),
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>unir</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>unir</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            polir le mortier avec un plaquoir, Am 8 : il o uni.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>u pori</mot>
-      <abreviation>s.m.comp.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>u pori</Entrée>
+      <StructureGrammaticale>s.m.comp.</StructureGrammaticale>
+      <Lexie>
            oeuf couvé, Am 20,36,127,D1 10;88; cf. kouviche
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>urinne</mot>
-      <abreviation>s.f.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>urinne</Entrée>
+      <StructureGrammaticale>s.f.</StructureGrammaticale>
+      <Lexie>
            urine, Dl 84; syn. pisyate.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>urlé</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>urlé</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            hurler, D1 84.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>urlon</mot>
-      <abreviation>s.m.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>urlon</Entrée>
+      <StructureGrammaticale>s.m.</StructureGrammaticale>
+      <Lexie>
            hanneton, Dl 63.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>urmèle</mot>
-      <abreviation>s.f.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>urmèle</Entrée>
+      <StructureGrammaticale>s.f.</StructureGrammaticale>
+      <Lexie>
            merle, D1 55; cf. neurmèle.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>urpe</mot>
-      <abreviation>s.f.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>urpe</Entrée>
+      <StructureGrammaticale>s.f.</StructureGrammaticale>
+      <Lexie>
            huppe, Am 62.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>utché</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>utché</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            appeler, Pé 56; var. utchi, Am 11.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>uté</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>uté</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            pratiquer la chasse à la hutte, Am 62.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>uteu</mot>
-      <abreviation>s.m.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>uteu</Entrée>
+      <StructureGrammaticale>s.m.</StructureGrammaticale>
+      <Lexie>
            chasseur de hutte, Am 62; alias utyé.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>uzérne</mot>
-      <abreviation>s.f.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>uzérne</Entrée>
+      <StructureGrammaticale>s.f.</StructureGrammaticale>
+      <Lexie>
            var. de izérne, Am 8,21; ède l'uzérne.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>uzurfrwi</mot>
-      <abreviation>s.m.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>uzurfrwi</Entrée>
+      <StructureGrammaticale>s.m.</StructureGrammaticale>
+      <Lexie>
            usufruit, Am 8. 
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>uzuryé</mot>
-      <abreviation>s.m.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>uzuryé</Entrée>
+      <StructureGrammaticale>s.m.</StructureGrammaticale>
+      <Lexie>
            dépensier, Am 11.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>un karivari)</mot>
-      <abreviation></abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>un karivari)</Entrée>
+      <StructureGrammaticale></StructureGrammaticale>
+      <Lexie>
           ; cf. à ce sujet l'article de Renée MALVOISIN, l'bachinée à Bouquemaison-Eklitra 5
-        </definition>
-    </TraductionPicard>
-      </Traduction>
+        </Lexie>
+    </ArticleDeDictionnaire>
+      </Dictionnaire>

@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Traduction>
-        <TraductionFrancaise>
-        <mot>zizi</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        <ArticleDeDictionnaire>
+        <Entrée>zizi</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           titi.
-        </definition>
-      </TraductionFrancaise>
+        </Lexie>
+      </ArticleDeDictionnaire>
       </Traduction>

@@ -1,704 +1,704 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Traduction>
-        <TraductionFrancaise>
-        <mot>gagne-pain</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        <ArticleDeDictionnaire>
+        <Entrée>gagne-pain</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           wanepain (vx).
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>gagner </mot>
-        <complement>(aux cartes)</complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>gagner </Entrée>
+        <Complément>(aux cartes)</Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           effacer.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>gaillet gratteron</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>gaillet gratteron</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           rèle.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>gale </mot>
-        <complement>(des chats)</complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>gale </Entrée>
+        <Complément>(des chats)</Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           ripe.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>galerie </mot>
-        <complement>(de mine)</complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>galerie </Entrée>
+        <Complément>(de mine)</Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           bowette, bouviau.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>galette</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>galette</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           flamique.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>galimatias</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>galimatias</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           carimafiache.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>galoper</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>galoper</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           dégaloper.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>gamin</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>gamin</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           biloute, djambot, fieu, galopiau, galuriau, garchonnal, gueux.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>gangrène</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>gangrène</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           cangrène.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>gantier</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>gantier</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           wantier (vx).
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>garçon</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>garçon</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           (voir : gamin).
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>garde-champêtre</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>garde-champêtre</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           champêtre.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>garder</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>garder</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           warder.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>gardon</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>gardon</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           roche.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>garnement</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>garnement</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           galère, graine ed losse, prale.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>garou</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>garou</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           warou.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>gaspiller</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>gaspiller</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           brader, briscander, brissauder.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>gâteau</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>gâteau</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           couque, flamique, mastelle, meule, nic-nac, rondelin, watiau, watelet. (Voir : brioche, crêpe, chausson, gaufre...).
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>gâter</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>gâter</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           water, wauter.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>gaufre</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>gaufre</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           aufe, mollé-aufe, gauf' au liv', waufe.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>gaufrette</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>gaufrette</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           auflette, tourtélet.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>gaufrier</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>gaufrier</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           aufier, fier à z'auflettes, gaufier.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>gaule</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>gaule</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           waule.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>gaver</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>gaver</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           ingaver.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>gaz carbonique</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>gaz carbonique</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           puteux.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>gazon</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>gazon</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           wazon (vx).
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>gazouiller v</mot>
-        <complement></complement>
-        <abreviation></abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>gazouiller v</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <Lexie>
           . : chichouiter, mulotter, rablablater.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>geai</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>geai</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           colas.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>gelée </mot>
-        <complement>(de pâté)</complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>gelée </Entrée>
+        <Complément>(de pâté)</Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           glaire.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>gencive</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>gencive</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           dinchive.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>généreux</mot>
-        <complement></complement>
-        <abreviation>adj.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>généreux</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>adj.</StructureGrammaticale>
+        <Lexie>
           d' bon coeur ; être généreux : êt' dé l' donne.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>genévrier</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>genévrier</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           péquer.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>genièvre</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>genièvre</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           g'nèfe, péquer.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>génisse</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>génisse</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           guéniche ; (maigre) raquette.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>géomètre</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>géomètre</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           (mines) niveleux.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>germe</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>germe</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           gerne, gernon, verzin.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>germer</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>germer</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           gerner.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>gésier</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>gésier</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           boîte ou mallette ou sac à caillos.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>giboulée</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>giboulée</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           gruau, viau d' mars.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>giclée</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>giclée</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           lavetée.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>gifle</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>gifle</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           marnioufe, papin, pare-à-virer, plamusse, nieule, raton, tartagnolle, tinque.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>giroflée</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>giroflée</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           cuiderelle, muret.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>giron</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>giron</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           écour.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>givrer</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>givrer</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           rémer.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>glaner</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>glaner</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           messener.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>glisser</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>glisser</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
            ; déglicher, dégrioler.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>glissoire</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>glissoire</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           dégrioloire.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>glousser</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>glousser</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           cloucher.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>glouton</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>glouton</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           galafre, golafre.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>gobelet</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>gobelet</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           potin.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>godelureau</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>godelureau</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           galuriau ; (fém.) galuriette.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>gomme </mot>
-        <complement>(des arbres)</complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>gomme </Entrée>
+        <Complément>(des arbres)</Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           brin d'agache.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>gonflé</mot>
-        <complement></complement>
-        <abreviation>adj.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>gonflé</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>adj.</StructureGrammaticale>
+        <Lexie>
           mafflé, mouflu.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>gosier</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>gosier</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           gasiau, titi.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>goudron</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>goudron</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           terque.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>goudronner</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>goudronner</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           interquer.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>goujon</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>goujon</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           gouvion.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>goulot</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>goulot</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           gorgeon, gorgère.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>gourmand </mot>
-        <complement>(de fraisier)</complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>gourmand </Entrée>
+        <Complément>(de fraisier)</Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           fichon.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>gourmand</mot>
-        <complement></complement>
-        <abreviation>s. m. et adj.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>gourmand</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m. et adj.</StructureGrammaticale>
+        <Lexie>
           avalant, à s' bouque, à s' gueule, gueulard, maca. (Voir : glouton).
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>gourmet</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>gourmet</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           gloute-gueule.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>gousse</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>gousse</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           (de pois) cossiau ; (d'ail) dosse, éclette.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>goûter </mot>
-        <complement>(collation de l'après-midi)</complement>
-        <abreviation>v. et s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>goûter </Entrée>
+        <Complément>(collation de l'après-midi)</Complément>
+        <StructureGrammaticale>v. et s. m.</StructureGrammaticale>
+        <Lexie>
           archéner.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>gouttière</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>gouttière</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           nochère.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>grain </mot>
-        <complement>(de folie)</complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>grain </Entrée>
+        <Complément>(de folie)</Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           touque.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>grand-père</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>grand-père</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           taïon ; grand-mère, s. f. : taïonne.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>grappiller </mot>
-        <complement>(du charbon)</complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>grappiller </Entrée>
+        <Complément>(du charbon)</Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           rachener.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>gras</mot>
-        <complement></complement>
-        <abreviation>adj.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>gras</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>adj.</StructureGrammaticale>
+        <Lexie>
           cras.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>gras-double</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>gras-double</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           noeud d' panche.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>gratter</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>gratter</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
            ; déchoer, dégrafier, dégratter, dégrauer. Avoir la gorge qui gratte : gripper, riper.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>gravats</mot>
-        <complement></complement>
-        <abreviation>s. m. pl.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>gravats</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m. pl.</StructureGrammaticale>
+        <Lexie>
           armênaches, erménaches.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>gré </mot>
-        <complement></complement>
-        <abreviation></abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>gré </Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <Lexie>
           ; bon gré, mal gré : ribon-ribaine.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>grelotter</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>grelotter</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           gargotter, garlotter.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>grenouille</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>grenouille</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           crocro, guernoulle, raine, roguet.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>grès</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>grès</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           queurelle.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>grésil</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>grésil</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           guerzin.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>griffe</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>griffe</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           grau, greulle.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>griffer</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>griffer</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           égreuiller.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>grillé</mot>
-        <complement></complement>
-        <abreviation>adj.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>grillé</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>adj.</StructureGrammaticale>
+        <Lexie>
           rousti.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>grillon</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>grillon</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           crinchon, criquion.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>grimacer</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>grimacer</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           faire des morniffes.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>grimpette</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>grimpette</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           garue.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>grincer</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>grincer</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           crincher, grenier, grigner.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>grippe-sous</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>grippe-sous</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           (voir : avare).
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>grognon</mot>
-        <complement></complement>
-        <abreviation>adj.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>grognon</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>adj.</StructureGrammaticale>
+        <Lexie>
           grognasse, malingrogné.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>groin</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>groin</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           grognon.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>grommeler</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>grommeler</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           bertonner, s' débrouiller, maloter, méronner, mourmacher, ramacher. (Voir : marmonner, ronchonner).
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>gronder</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>gronder</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           grouler.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>groseille</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>groseille</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           grusielle ; groseille à maquereaux : blette, caconne, croque-poux. (Voir : cassis).
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>groseillier</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>groseillier</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           grusier.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>grossièrement </mot>
-        <complement>(fait)</complement>
-        <abreviation>loc. adv.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>grossièrement </Entrée>
+        <Complément>(fait)</Complément>
+        <StructureGrammaticale>loc. adv.</StructureGrammaticale>
+        <Lexie>
           à l' grosse morbleute.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>grumeau</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>grumeau</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           grémion, maclote, méron.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>guêpe</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>guêpe</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           pipi, verme, verpe, vierme.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>guêtre</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>guêtre</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           housette.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>gui</mot>
-        <complement></complement>
-        <abreviation>s.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>gui</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s.</StructureGrammaticale>
+        <Lexie>
           , m. : ramon d' sorcielle.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>guigner</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>guigner</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           aguider, aguiter, guégner, guider, surquer.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>guimauve</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>guimauve</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           althéa.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>guirlande</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>guirlande</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           crosure.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>gymnaste</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>gymnaste</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           gymnacien.
-        </definition>
-      </TraductionFrancaise>
+        </Lexie>
+      </ArticleDeDictionnaire>
       </Traduction>

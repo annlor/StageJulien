@@ -6,7 +6,7 @@ import scala.io.Source
 /**
 import java.io._
 */
-import commons.UnitParser
+import commons._
 import fastparse.all._
 
 import scala.xml._
@@ -17,8 +17,7 @@ import scala.collection.JavaConverters._
 /**
   * Cette case classe contriendra les éléments de chaque ligne
   */
-case class TraductionPicard(mot : String, abreviation : String, definitions : Seq[String])
-case class ListTraductionPicard(ListTraductions : List[TraductionPicard])
+
 
 /**
   * Classe permettant de définir les différents parsings
@@ -59,25 +58,7 @@ class FirstParsing {
    }
 
   }
-  class Trad(mot : String, abreviation : String, definitions : Seq[String]) {
 
-    def SeqtoXml(seq: Seq[String]): Seq[Elem] = {
-      val res = for (elements <- seq) yield {
-        <definition>
-          {elements}
-        </definition>
-      }
-      res
-    }
-
-    def toXml : Elem =
-    <TraductionPicard>
-      <mot>{mot}</mot>
-      <abreviation>{abreviation}</abreviation>
-      {SeqtoXml(definitions)}
-    </TraductionPicard>
-
-  }
 }
 
 
@@ -91,7 +72,7 @@ object Demo {
     /**val writer = new PrintWriter(new File("/people/khamphousone/Documents/ParsersScala/FileParsers.txt"))*/
     val Parsing = new FirstParsing()
     val UP = new UnitParser()
-
+    val tradtoxml = new toXML()
 
     val liste1 = for (line <- buff.getLines.slice(1213, 7446)) yield {
       Parsing.Parser(line)
@@ -102,14 +83,14 @@ object Demo {
 
       val listTrad = for (trad <- liste2 if
       List(s"$elements", s"* $elements").exists(trad.mot.startsWith)) yield {
-           val Traduction = new Parsing.Trad(trad.mot, trad.abreviation, trad.definitions)
+           val Traduction = new tradtoxml.Trad(trad.mot, trad.abreviation, trad.definitions)
            Traduction.toXml
          }
 
 
-        val listXml = <Traduction>
+        val listXml = <Nomenclature>
           {listTrad}
-        </Traduction>
+        </Nomenclature>
 
         XML.save(s"/people/khamphousone/Documents/ParsersScala/XML/FirstParser/$elements", listXml, "utf-8", true, null)
       }

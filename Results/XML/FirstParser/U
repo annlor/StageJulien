@@ -1,74 +1,74 @@
 <?xml version='1.0' encoding='utf-8'?>
-<Traduction>
-          <TraductionPicard>
-      <mot>U</mot>
-      <abreviation></abreviation>
-      
-    </TraductionPicard><TraductionPicard>
-      <mot>U</mot>
-      <abreviation>conj. de sub.</abreviation>
-      <definition>
-          où. &quot; ...à moins qué jé n' seuche / U qu' ch'est &quot; (Fl, F, XVIIe). (Voir : d'û, d'us, duss...).
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>UCHE </mot>
-      <abreviation></abreviation>
-      <definition>
-          : (voir: huche).
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>UE(F) (phon. </mot>
-      <abreviation></abreviation>
-      <definition>
-          : wé), s. m. : oeuf. (On trouve les graphies : eué, oué, oeué, ué. &quot; I-a pus quer deux uefs qu'eune truche &quot; (EC) = il préfère ce qui est bon, et cher. &quot; I n' donn'rot point par charité / L'iau dins l'quelle i fait cuir' ses eués &quot; (JM qui reprend un dicton att. par JQ). &quot; Il a d's oués d'zous les bras &quot; = c'est un paresseux (il ne se remue pas crainte de les casser ; cf. en fr. pop. : il ne se casse rien). ANC. : Uef, oeuf (Philippe de Thaun, 1119). Du lat. ovum.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>UÈVE </mot>
-      <abreviation></abreviation>
-      <definition>
-          : (voir : ouverre, ouvrer).
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>UN (BD)</mot>
-      <abreviation>pr. ind.</abreviation>
-      <definition>
-          on. &quot; Un m'a dit &quot;.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>UNIMINT</mot>
-      <abreviation>adv.</abreviation>
-      <definition>
-          simplement. &quot; In buvot, au baril, dé l'iau, tout unimint &quot; (JM).
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>URBÉLER </mot>
-      <abreviation></abreviation>
-      <definition>
-          : (voir : hurbéler).
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>URCHON </mot>
-      <abreviation></abreviation>
-      <definition>
-          : (voir : hurechon-picot).
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>USER</mot>
-      <abreviation>v.</abreviation>
-      <definition>
-          &quot; I faut les user comme in les a &quot; = il faut vivre avec les gens tels qu'ils sont.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>* Usance</mot>
-      <abreviation>s. f.</abreviation>
-      <definition>
-          solidité, permettant un long usage.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>* USINIER</mot>
-      <abreviation>s. m.</abreviation>
-      <definition>
-          ouvrier d'usine, métallurgiste. &quot; ... vir si gracieus'mint danser / L'usinier, l'ouverrier à l' veine &quot; (JM). ANC. : il est peut-être curieux de signaler que le mot usine n'est attesté en fr. qu'en 1732, mais que c'est un mot du Nord-Est de la France et, singulièrement, de Val. où l'on trouve la première attestation, en 1274, sous la forme wisine : atelier, boutique.
-        </definition>
-    </TraductionPicard>
-        </Traduction>
+<Nomenclature>
+          <ArticleDeDictionnaire>
+        <Entrée>U</Entrée>
+        <StructureGrammaticale></StructureGrammaticale>
+        
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>U</Entrée>
+        <StructureGrammaticale>conj. de sub.</StructureGrammaticale>
+        <Lexie>
+        où. &quot; ...à moins qué jé n' seuche / U qu' ch'est &quot; (Fl, F, XVIIe). (Voir : d'û, d'us, duss...).
+      </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>UCHE </Entrée>
+        <StructureGrammaticale></StructureGrammaticale>
+        <Lexie>
+        : (voir: huche).
+      </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>UE(F) (phon. </Entrée>
+        <StructureGrammaticale></StructureGrammaticale>
+        <Lexie>
+        : wé), s. m. : oeuf. (On trouve les graphies : eué, oué, oeué, ué. &quot; I-a pus quer deux uefs qu'eune truche &quot; (EC) = il préfère ce qui est bon, et cher. &quot; I n' donn'rot point par charité / L'iau dins l'quelle i fait cuir' ses eués &quot; (JM qui reprend un dicton att. par JQ). &quot; Il a d's oués d'zous les bras &quot; = c'est un paresseux (il ne se remue pas crainte de les casser ; cf. en fr. pop. : il ne se casse rien). ANC. : Uef, oeuf (Philippe de Thaun, 1119). Du lat. ovum.
+      </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>UÈVE </Entrée>
+        <StructureGrammaticale></StructureGrammaticale>
+        <Lexie>
+        : (voir : ouverre, ouvrer).
+      </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>UN (BD)</Entrée>
+        <StructureGrammaticale>pr. ind.</StructureGrammaticale>
+        <Lexie>
+        on. &quot; Un m'a dit &quot;.
+      </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>UNIMINT</Entrée>
+        <StructureGrammaticale>adv.</StructureGrammaticale>
+        <Lexie>
+        simplement. &quot; In buvot, au baril, dé l'iau, tout unimint &quot; (JM).
+      </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>URBÉLER </Entrée>
+        <StructureGrammaticale></StructureGrammaticale>
+        <Lexie>
+        : (voir : hurbéler).
+      </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>URCHON </Entrée>
+        <StructureGrammaticale></StructureGrammaticale>
+        <Lexie>
+        : (voir : hurechon-picot).
+      </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>USER</Entrée>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
+        &quot; I faut les user comme in les a &quot; = il faut vivre avec les gens tels qu'ils sont.
+      </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>* Usance</Entrée>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
+        solidité, permettant un long usage.
+      </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>* USINIER</Entrée>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
+        ouvrier d'usine, métallurgiste. &quot; ... vir si gracieus'mint danser / L'usinier, l'ouverrier à l' veine &quot; (JM). ANC. : il est peut-être curieux de signaler que le mot usine n'est attesté en fr. qu'en 1732, mais que c'est un mot du Nord-Est de la France et, singulièrement, de Val. où l'on trouve la première attestation, en 1274, sous la forme wisine : atelier, boutique.
+      </Lexie>
+      </ArticleDeDictionnaire>
+        </Nomenclature>

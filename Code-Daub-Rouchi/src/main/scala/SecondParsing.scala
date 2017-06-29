@@ -3,18 +3,18 @@
   */
 
 import scala.io.Source
-
 import java.io._
+
 import fastparse.all._
 
 import scala.xml._
-import commons.UnitParser
+import commons._
 
+/**
 import scala.collection.JavaConverters._
+*/
 
 
-case class TraductionFrançaise(mot : String, complement : Option[String],
-                               abreviation : String, traduction : Seq[String])
 
 
 class SecondParsing {
@@ -41,26 +41,7 @@ class SecondParsing {
         TraductionFrançaise("Error",None, "", Seq(""))
     }
   }
-  class Trad2(mot : String, complement : Option[String], abreviation : String, traduction : Seq[String]) {
 
-    def SeqtoXml(seq: Seq[String]): Seq[Elem] = {
-      val res = for (elements <- seq) yield {
-        <definition>
-          {elements}
-        </definition>
-      }
-      res
-    }
-
-    def toXml : Elem =
-      <TraductionFrancaise>
-        <mot>{mot}</mot>
-        <complement>{complement.getOrElse("")}</complement>
-        <abreviation>{abreviation}</abreviation>
-        {SeqtoXml(traduction)}
-      </TraductionFrancaise>
-
-  }
 }
 
 
@@ -72,9 +53,12 @@ object Demo2 {
 
     /** /!\ Nom du path à changer si compilation sur autre machine */
     val buff: Source = Source.fromFile("/people/khamphousone/Documents/Dictionnaires/daub_rouchi_197S_CU.txt")
+    /**
     val writer = new PrintWriter(new File("/people/khamphousone/Documents/ParsersScala/XML/SecondParser/FileParsers.txt"))
+    */
     val Parsing = new SecondParsing()
-    val UP = new UnitParser()
+
+    val tradtoxml = new toXML()
 
 
     val liste1 = for (line <- buff.getLines.slice(7456, 9650)) yield {
@@ -86,15 +70,15 @@ object Demo2 {
       val listTrad = for (trad <- liste2 if
       List(s"$elements", s"* $elements").exists(trad.mot.startsWith)) yield {
 
-            val Traduction = new Parsing.Trad2(trad.mot, trad.complement, trad.abreviation, trad.traduction)
+            val Traduction = new tradtoxml.Trad2(trad.mot, trad.complement, trad.abreviation, trad.traduction)
             Traduction.toXml
 
 
         }
 
-      val listXml = <Traduction>
+      val listXml = <Nomenclature>
         {listTrad}
-      </Traduction>
+      </Nomenclature>
 
       XML.save(s"/people/khamphousone/Documents/ParsersScala/XML/SecondParser/$elements", listXml, "utf-8", true, null)
     }

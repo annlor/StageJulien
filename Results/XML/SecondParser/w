@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Traduction>
-        <TraductionFrancaise>
-        <mot>wagonnet</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        <ArticleDeDictionnaire>
+        <Entrée>wagonnet</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           balle, berline.
-        </definition>
-      </TraductionFrancaise>
+        </Lexie>
+      </ArticleDeDictionnaire>
       </Traduction>

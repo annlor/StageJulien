@@ -1,54 +1,54 @@
 <?xml version='1.0' encoding='utf-8'?>
-<Traduction>
-        <TraductionPicard>
-      <mot>z avalwèr</mot>
-      <abreviation></abreviation>
+<Dictionnaire>
+        <ArticleDeDictionnaire>
+      <Entrée>z avalwèr</Entrée>
+      <StructureGrammaticale></StructureGrammaticale>
       
-    </TraductionPicard><TraductionPicard>
-      <mot>z'in n alé san bwère in keu ale santé d'nou</mot>
-      <abreviation></abreviation>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>z'in n alé san bwère in keu ale santé d'nou</Entrée>
+      <StructureGrammaticale></StructureGrammaticale>
       
-    </TraductionPicard><TraductionPicard>
-      <mot>zénobiskoume</mot>
-      <abreviation>s.m.</abreviation>
-      <definition>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>zénobiskoume</Entrée>
+      <StructureGrammaticale>s.m.</StructureGrammaticale>
+      <Lexie>
           individu un peu niais, D1 1 : ex. ch'é n'é
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>zigue</mot>
-      <abreviation>s.f.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>zigue</Entrée>
+      <StructureGrammaticale>s.f.</StructureGrammaticale>
+      <Lexie>
            petite quantité, D1 1 ; on dit encore :inne tchote 
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>zise</mot>
-      <abreviation></abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>zise</Entrée>
+      <StructureGrammaticale></StructureGrammaticale>
+      <Lexie>
           dans l'exp. intèr èle zise é l'zèse, au crépuscule, Am 65.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>zuzota</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>zuzota</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            musarder, lambiner, D1 84; ex. i zuzote.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>zwèpe</mot>
-      <abreviation>s.f.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>zwèpe</Entrée>
+      <StructureGrammaticale>s.f.</StructureGrammaticale>
+      <Lexie>
           (pl.), abeille (s), D1 84.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>zwèze</mot>
-      <abreviation>adj .</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>zwèze</Entrée>
+      <StructureGrammaticale>adj .</StructureGrammaticale>
+      <Lexie>
            bien mûr (blé), Am 8; on peut encore dire : i z wèze.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>zyu</mot>
-      <abreviation>s.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>zyu</Entrée>
+      <StructureGrammaticale>s.</StructureGrammaticale>
+      <Lexie>
           m, oeil, D1 22,84, exp. in zyu waron, un oeil blanc, vitreux, D1 22; syn. in zyu d'bo.
-        </definition>
-    </TraductionPicard>
-      </Traduction>
+        </Lexie>
+    </ArticleDeDictionnaire>
+      </Dictionnaire>

@@ -1,193 +1,193 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Traduction>
-        <TraductionFrancaise>
-        <mot>ici</mot>
-        <complement></complement>
-        <abreviation>adv.</abreviation>
-        <definition>
+        <ArticleDeDictionnaire>
+        <Entrée>ici</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>adv.</StructureGrammaticale>
+        <Lexie>
           chi, douchi, drochi, drouchi, ichi.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>imbécile</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>imbécile</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           aploute (happe-loute), babin, badelot, baïou, béda, bièque-bos, colas, glaute, manonon, ornébot, papart.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>imbroglio</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>imbroglio</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           imbrodio.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>inactif </mot>
-        <complement>(être)</complement>
-        <abreviation></abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>inactif </Entrée>
+        <Complément>(être)</Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <Lexie>
           joquer.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>incendiaire</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>incendiaire</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           metteux d' feu.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>incliner </mot>
-        <complement>(manque d'aplomb)</complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>incliner </Entrée>
+        <Complément>(manque d'aplomb)</Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           cléner.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>incommode</mot>
-        <complement></complement>
-        <abreviation>adj.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>incommode</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>adj.</StructureGrammaticale>
+        <Lexie>
           mal commode.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>inculte </mot>
-        <complement>(terre)</complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>inculte </Entrée>
+        <Complément>(terre)</Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           sars, sart. (Voir : friche, jachère).
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>index </mot>
-        <complement>(doigt)</complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>index </Entrée>
+        <Complément>(doigt)</Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           Jean-laridé.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>indiscret</mot>
-        <complement></complement>
-        <abreviation>s. m. et adj.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>indiscret</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m. et adj.</StructureGrammaticale>
+        <Lexie>
           mêle-tout, métreux.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>indisposé</mot>
-        <complement></complement>
-        <abreviation>adj.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>indisposé</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>adj.</StructureGrammaticale>
+        <Lexie>
           fayeux.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>indocile</mot>
-        <complement></complement>
-        <abreviation>adj.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>indocile</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>adj.</StructureGrammaticale>
+        <Lexie>
           mal aisile.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>infatigable </mot>
-        <complement>(femme)</complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>infatigable </Entrée>
+        <Complément>(femme)</Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           archelle, sara.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>infirme</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>infirme</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           affligé.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>inflorescence</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>inflorescence</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           poquet.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>innocent </mot>
-        <complement>(simplet)</complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>innocent </Entrée>
+        <Complément>(simplet)</Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           innochint, ninoche.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>inquiéter </mot>
-        <complement>(s')</complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>inquiéter </Entrée>
+        <Complément>(s')</Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           s' marmouser, s' trimousser.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>insérer </mot>
-        <complement>(s')</complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>insérer </Entrée>
+        <Complément>(s')</Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           s'incerner.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>inspecteur</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>inspecteur</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           esward, reward (vx).
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>instable </mot>
-        <complement>(être en équilibre)</complement>
-        <abreviation></abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>instable </Entrée>
+        <Complément>(être en équilibre)</Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <Lexie>
           marchander.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>insulter</mot>
-        <complement></complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>insulter</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           traiter.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>insupportable</mot>
-        <complement></complement>
-        <abreviation>adj.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>insupportable</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>adj.</StructureGrammaticale>
+        <Lexie>
           insipite ; être insupportable : passer l' diape.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>intelligence</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>intelligence</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           comperdo, comperdure.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>intervalle</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>intervalle</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           interdeux.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>intestin </mot>
-        <complement>(gros)</complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>intestin </Entrée>
+        <Complément>(gros)</Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           cras-boïau, maît'-boïau.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>iris faux-acore</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>iris faux-acore</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           bié.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>ivre</mot>
-        <complement></complement>
-        <abreviation>adj.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>ivre</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>adj.</StructureGrammaticale>
+        <Lexie>
           bersaique, quervé, roste, rousti ; ivre-mort : mortousse, mort-z'ije ; être ivre : êt' quervé, êt' inrosté, avoir es pronne, avoir es peun' tierre, avoir el vint dins l' dos.
-        </definition>
-      </TraductionFrancaise>
+        </Lexie>
+      </ArticleDeDictionnaire>
       </Traduction>

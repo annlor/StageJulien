@@ -1,842 +1,842 @@
 <?xml version='1.0' encoding='utf-8'?>
-<Traduction>
-        <TraductionPicard>
-      <mot>èje t'aseure</mot>
-      <abreviation>loc.adv.</abreviation>
-      <definition>
+<Dictionnaire>
+        <ArticleDeDictionnaire>
+      <Entrée>èje t'aseure</Entrée>
+      <StructureGrammaticale>loc.adv.</StructureGrammaticale>
+      <Lexie>
            assurément, Dl 85.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èle</mot>
-      <abreviation>s.f.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èle</Entrée>
+      <StructureGrammaticale>s.f.</StructureGrammaticale>
+      <Lexie>
            1) aile, Am 21; 
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrbajère</mot>
-      <abreviation>s.f.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrbajère</Entrée>
+      <StructureGrammaticale>s.f.</StructureGrammaticale>
+      <Lexie>
            dans l'exp. inne vyèye èrbajère,
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrbate</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrbate</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            aiguiser (faux), Am 21 : èrbate in dar; on-dit : si tu
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrbe</mot>
-      <abreviation>s.f.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrbe</Entrée>
+      <StructureGrammaticale>s.f.</StructureGrammaticale>
+      <Lexie>
            herbe, Am 21.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrbe a kochon</mot>
-      <abreviation>s.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrbe a kochon</Entrée>
+      <StructureGrammaticale>s.</StructureGrammaticale>
+      <Lexie>
           f, comp., mercuriale, D1 87; cf. èrbe driswère.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrbe anichwère</mot>
-      <abreviation>s.f.comp.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrbe anichwère</Entrée>
+      <StructureGrammaticale>s.f.comp.</StructureGrammaticale>
+      <Lexie>
            ivraie enivrante, am 8.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrbe a prusyin</mot>
-      <abreviation>s.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrbe a prusyin</Entrée>
+      <StructureGrammaticale>s.</StructureGrammaticale>
+      <Lexie>
           f, comp., lenticule mineur-lemna minor - Am 121;syn.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrbe a rannye</mot>
-      <abreviation>s.f. comp.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrbe a rannye</Entrée>
+      <StructureGrammaticale>s.f. comp.</StructureGrammaticale>
+      <Lexie>
            renouée des oiseaux, Am 21.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrbe a so</mot>
-      <abreviation>s.f. comp.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrbe a so</Entrée>
+      <StructureGrammaticale>s.f. comp.</StructureGrammaticale>
+      <Lexie>
            renouée persicaire, D1 10.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrbe a tchu</mot>
-      <abreviation>s.f.comp.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrbe a tchu</Entrée>
+      <StructureGrammaticale>s.f.comp.</StructureGrammaticale>
+      <Lexie>
            potentille ansérine - Am 60,121, (cette herbe
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrbe à tétlète</mot>
-      <abreviation>s.f.comp.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrbe à tétlète</Entrée>
+      <StructureGrammaticale>s.f.comp.</StructureGrammaticale>
+      <Lexie>
            seneçon vulgaire, D1 10.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrbe a teupe</mot>
-      <abreviation>s.f. comp.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrbe a teupe</Entrée>
+      <StructureGrammaticale>s.f. comp.</StructureGrammaticale>
+      <Lexie>
            antimoine (avec épines) D1 75.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrbe driswère</mot>
-      <abreviation>s.f.comp.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrbe driswère</Entrée>
+      <StructureGrammaticale>s.f.comp.</StructureGrammaticale>
+      <Lexie>
            mercuriale annuelle, D1 23,26; cf. farouzèle
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrbe du dyabe</mot>
-      <abreviation>s.f.comp.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrbe du dyabe</Entrée>
+      <StructureGrammaticale>s.f.comp.</StructureGrammaticale>
+      <Lexie>
            mercuriale, Am 16.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrbe ède beudé</mot>
-      <abreviation>s.f.comp.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrbe ède beudé</Entrée>
+      <StructureGrammaticale>s.f.comp.</StructureGrammaticale>
+      <Lexie>
            sénecon vulgaire, am 130.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrbe ède sint onoré</mot>
-      <abreviation>s.f.comp.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrbe ède sint onoré</Entrée>
+      <StructureGrammaticale>s.f.comp.</StructureGrammaticale>
+      <Lexie>
            centaurée jacée, Am 8.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrbe ède seu</mot>
-      <abreviation>s.f.comp.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrbe ède seu</Entrée>
+      <StructureGrammaticale>s.f.comp.</StructureGrammaticale>
+      <Lexie>
            plante indéterminée (ne semble pas être la
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrbéyé</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrbéyé</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            regarder, am 8, Pé 56; v-r. èrbéyi, Am II,21 exp. èrbéyé
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrbon</mot>
-      <abreviation>s.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrbon</Entrée>
+      <StructureGrammaticale>s.</StructureGrammaticale>
+      <Lexie>
           m, renouveau de la fête locale, D1 53,84,85 : èche l'érbon 
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrbouteu</mot>
-      <abreviation>s.m.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrbouteu</Entrée>
+      <StructureGrammaticale>s.m.</StructureGrammaticale>
+      <Lexie>
            rebouteur, Am 21,D1 44,53; ch'èrbouteu, Am 21.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrbrazé</mot>
-      <abreviation>p.p.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrbrazé</Entrée>
+      <StructureGrammaticale>p.p.</StructureGrammaticale>
+      <Lexie>
            qui a perdu son taillant (couteau à couper le velours)
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrbrousé</mot>
-      <abreviation>p.p.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrbrousé</Entrée>
+      <StructureGrammaticale>p.p.</StructureGrammaticale>
+      <Lexie>
            syn. de èrbrazé, Am 65.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrche</mot>
-      <abreviation>s.f.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrche</Entrée>
+      <StructureGrammaticale>s.f.</StructureGrammaticale>
+      <Lexie>
            herse, Am 8,11,21,D1 63,84. On distingue à Am 11 : inne
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrché</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrché</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            herser, Am 8; var. èrchi, Am 21; cf. èrchin.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrchèle</mot>
-      <abreviation>s.f.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrchèle</Entrée>
+      <StructureGrammaticale>s.f.</StructureGrammaticale>
+      <Lexie>
            1) lien de fagot en osier, D1 84,Pé 56; lien en bois à
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrchin</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrchin</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            herser, Dl 84; cf. èrché.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrchiné</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrchiné</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            goûter, Am 8.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrchiné</mot>
-      <abreviation>s.m.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrchiné</Entrée>
+      <StructureGrammaticale>s.m.</StructureGrammaticale>
+      <Lexie>
            goûter, collation de 16 heures, Am 8.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrchinyé</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrchinyé</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            refuser de travailler, rechigner, Am 8.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrchuvwèr</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrchuvwèr</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            recevoir, Am 21
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrdéfilé</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrdéfilé</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            refaire une lame au couteau en cours de travail (coupe
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrdèrchi(s')</mot>
-      <abreviation>v.pron.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrdèrchi(s')</Entrée>
+      <StructureGrammaticale>v.pron.</StructureGrammaticale>
+      <Lexie>
            se redresser, Am 11.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrdèrchir</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrdèrchir</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            1) redresser, Am 11;
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrdjeu</mot>
-      <abreviation>s.m.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrdjeu</Entrée>
+      <StructureGrammaticale>s.m.</StructureGrammaticale>
+      <Lexie>
            individu hargneux, Am 11 : in n èrdjeu.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrdjin</mot>
-      <abreviation>s .m.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrdjin</Entrée>
+      <StructureGrammaticale>s .m.</StructureGrammaticale>
+      <Lexie>
            regain ou deuxième coupe de foin, Am 21 : ch'èrdjin;
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrdjinbé</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrdjinbé</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            répliquer, regimber, Am 8.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èr</mot>
-      <abreviation>s.m.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èr</Entrée>
+      <StructureGrammaticale>s.m.</StructureGrammaticale>
+      <Lexie>
            troupeau communal (moutons, vaches), Am 8.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èr</mot>
-      <abreviation>s.m.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èr</Entrée>
+      <StructureGrammaticale>s.m.</StructureGrammaticale>
+      <Lexie>
            air, Am 21; fém. à Am 3; exp. ène pwin avwèr bèl èr.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>ère</mot>
-      <abreviation>s.f.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>ère</Entrée>
+      <StructureGrammaticale>s.f.</StructureGrammaticale>
+      <Lexie>
            aire de grange, Dl 85 : èche l'ère; à Am 8 : ère ède granje.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrfrinché</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrfrinché</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            froncer (étoffe) Dl 23.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrganté</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrganté</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            rejanter, Am 8,11 : èrganté inne reu.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrgon</mot>
-      <abreviation>s.m.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrgon</Entrée>
+      <StructureGrammaticale>s.m.</StructureGrammaticale>
+      <Lexie>
            ergot (coq) Dl 84; syn épron.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrjin</mot>
-      <abreviation>s.m.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrjin</Entrée>
+      <StructureGrammaticale>s.m.</StructureGrammaticale>
+      <Lexie>
            argent, Dl 84.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrjinbé (s')</mot>
-      <abreviation>v.pron.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrjinbé (s')</Entrée>
+      <StructureGrammaticale>v.pron.</StructureGrammaticale>
+      <Lexie>
            répliquer, Am 21; syn. robolé.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrkatré</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrkatré</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            rejanter une roue, D1 84.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrkatriché</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrkatriché</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            repriser (bas), Dl 59 : èrkatriché dé keuchète.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrkatrure</mot>
-      <abreviation>s.f.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrkatrure</Entrée>
+      <StructureGrammaticale>s.f.</StructureGrammaticale>
+      <Lexie>
            mauvaise coutume, Dl 10, 67; syn.frinyon, tchu d'glène
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrkeuyeuze</mot>
-      <abreviation>s.f.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrkeuyeuze</Entrée>
+      <StructureGrammaticale>s.f.</StructureGrammaticale>
+      <Lexie>
            aide-faucheur, D1 9.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrkintchi(s')</mot>
-      <abreviation>v.pron.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrkintchi(s')</Entrée>
+      <StructureGrammaticale>v.pron.</StructureGrammaticale>
+      <Lexie>
            l) se rétablir après une maladie, se ravigoter 
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrkoupé</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrkoupé</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            faire un deuxième labour, Am 11. 
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrkran</mot>
-      <abreviation>adj.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrkran</Entrée>
+      <StructureGrammaticale>adj.</StructureGrammaticale>
+      <Lexie>
            fatigué, Am 8, 21.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrlabouré</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrlabouré</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            faire un second labour, Am 21.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrlan</mot>
-      <abreviation>s.m.</abreviation>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrlan</Entrée>
+      <StructureGrammaticale>s.m.</StructureGrammaticale>
       
-    </TraductionPicard><TraductionPicard>
-      <mot>èrlandé</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrlandé</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            1) traîner, Am 8;
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrlandri</mot>
-      <abreviation>s.f.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrlandri</Entrée>
+      <StructureGrammaticale>s.f.</StructureGrammaticale>
+      <Lexie>
            maison ou tout va à vau l'eau, à l'abandon, DL 53.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrlava</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrlava</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            laver la vaisselle, Am 36; cf. lavindé.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrlo</mot>
-      <abreviation>s.m.pl.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrlo</Entrée>
+      <StructureGrammaticale>s.m.pl.</StructureGrammaticale>
+      <Lexie>
            primevère, Dl 63; on précise ici à Dl 84 : primevère
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrlou</mot>
-      <abreviation></abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrlou</Entrée>
+      <StructureGrammaticale></StructureGrammaticale>
+      <Lexie>
           jone, s.m.comp.pl., jonquilles, Am 11.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrlutché</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrlutché</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            regarder de travers, Pé 56.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrlwire</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrlwire</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            reluire, D1 63.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrmèle</mot>
-      <abreviation>s.f.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrmèle</Entrée>
+      <StructureGrammaticale>s.f.</StructureGrammaticale>
+      <Lexie>
            merle, Am 3,7,37,60,D1 7, 22, 34, 35, 44,45,47,48,62;
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrméno</mot>
-      <abreviation>s.m.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrméno</Entrée>
+      <StructureGrammaticale>s.m.</StructureGrammaticale>
+      <Lexie>
            almanach, Am 43.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrmèrke</mot>
-      <abreviation>s.f.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrmèrke</Entrée>
+      <StructureGrammaticale>s.f.</StructureGrammaticale>
+      <Lexie>
            marque, remarque, Am 21.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrmète(s')</mot>
-      <abreviation>v.pron.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrmète(s')</Entrée>
+      <StructureGrammaticale>v.pron.</StructureGrammaticale>
+      <Lexie>
            se remettre (après une maladie)Am 11 syn. rétuzlé.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrmontan</mot>
-      <abreviation>loc.adv.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrmontan</Entrée>
+      <StructureGrammaticale>loc.adv.</StructureGrammaticale>
+      <Lexie>
            après-midi, Dl 53.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrmuché</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrmuché</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            recouvrir, Pè 56.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrmuvwèr</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrmuvwèr</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            remuer, Pé 56.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrmyeu</mot>
-      <abreviation>s.m.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrmyeu</Entrée>
+      <StructureGrammaticale>s.m.</StructureGrammaticale>
+      <Lexie>
            orme, ormeau, Am 11,21.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrnaklé</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrnaklé</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            refuser (de manger), Am 8.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrnayè</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrnayè</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            resserrer les douves d'un tonneau ou d'une cuve, Am 8,
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrni</mot>
-      <abreviation>s. f.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrni</Entrée>
+      <StructureGrammaticale>s. f.</StructureGrammaticale>
+      <Lexie>
            araignée, Am 5,11 : on.dit à Am 11 : i n èrni o matin
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrno</mot>
-      <abreviation>s.m.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrno</Entrée>
+      <StructureGrammaticale>s.m.</StructureGrammaticale>
+      <Lexie>
            ancienne charrue en bois, Am 22; cf. arno;dans l'exp.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrnu</mot>
-      <abreviation></abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrnu</Entrée>
+      <StructureGrammaticale></StructureGrammaticale>
+      <Lexie>
           1) s.m., orage, Am 11; exp. fwère du èrnu, faire de l'orage;
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrnwè</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrnwè</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            tout mettre en désordre, Am 3 : ex. kan t i chèrche sé
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrnwe</mot>
-      <abreviation>p.p.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrnwe</Entrée>
+      <StructureGrammaticale>p.p.</StructureGrammaticale>
+      <Lexie>
            rempli de nuages (ciel), Am 21.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrnwè</mot>
-      <abreviation>p.p.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrnwè</Entrée>
+      <StructureGrammaticale>p.p.</StructureGrammaticale>
+      <Lexie>
            fatigué, Am 45. 
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrnyatchi</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrnyatchi</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            chercher en flairant, Am 21. 
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrnyi</mot>
-      <abreviation>s.f.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrnyi</Entrée>
+      <StructureGrammaticale>s.f.</StructureGrammaticale>
+      <Lexie>
            hernie, Am 8; syn. arinyi, éfor.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrnyi</mot>
-      <abreviation>s.f.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrnyi</Entrée>
+      <StructureGrammaticale>s.f.</StructureGrammaticale>
+      <Lexie>
            araignée, D1 84.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrpa d'mwé d'eu</mot>
-      <abreviation>s.m.comp.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrpa d'mwé d'eu</Entrée>
+      <StructureGrammaticale>s.m.comp.</StructureGrammaticale>
+      <Lexie>
            repas de fin de moisson, Dl 53.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrpasa</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrpasa</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            aiguiser, Am 36; var. èrpasé, Am 38; cf. édjizé,
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrpasé</mot>
-      <abreviation></abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrpasé</Entrée>
+      <StructureGrammaticale></StructureGrammaticale>
+      <Lexie>
           dans l'exp. èrpase in rou, repasser un rou pour couper les
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrpé</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrpé</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            syn. de manchutché, Pé 56 - secouer rudement (quelqu'un)
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrpé (s')</mot>
-      <abreviation>v.pron.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrpé (s')</Entrée>
+      <StructureGrammaticale>v.pron.</StructureGrammaticale>
+      <Lexie>
            se gratter, Am 24.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrpeu</mot>
-      <abreviation>s.m.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrpeu</Entrée>
+      <StructureGrammaticale>s.m.</StructureGrammaticale>
+      <Lexie>
            repas, D1 57.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrpin</mot>
-      <abreviation>s.m.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrpin</Entrée>
+      <StructureGrammaticale>s.m.</StructureGrammaticale>
+      <Lexie>
            sedum reprise - sedum telephium-Am 22.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrpo dèche mwé d'eu</mot>
-      <abreviation>s.m.comp.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrpo dèche mwé d'eu</Entrée>
+      <StructureGrammaticale>s.m.comp.</StructureGrammaticale>
+      <Lexie>
            repas de fin de moisson, Am 62; var.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrprinne</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrprinne</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            1) reprendre, Dl 53;
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrprize</mot>
-      <abreviation>s.f.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrprize</Entrée>
+      <StructureGrammaticale>s.f.</StructureGrammaticale>
+      <Lexie>
            reprise, sorte de soudure entre deux tablé (coupe du
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrprizure</mot>
-      <abreviation>s.f.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrprizure</Entrée>
+      <StructureGrammaticale>s.f.</StructureGrammaticale>
+      <Lexie>
            reprise (bas), Dl 88.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrséré</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrséré</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            serrer à nouveau, D1 63; exp. èrséré ché chèke, resserrer
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrsèrsisure</mot>
-      <abreviation>s.f.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrsèrsisure</Entrée>
+      <StructureGrammaticale>s.f.</StructureGrammaticale>
+      <Lexie>
            1) reprise (couture),Dl 75;
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrseuté</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrseuté</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            1) resauter, Am 22;
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrtatoné</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrtatoné</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            ajouter un nouveau tassot à 1a faux pour empêcher la 
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrtcheusé</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrtcheusé</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            attraper, tromper, Am 65; ex. pour ène pwin ète èrtcheusé
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrcheuyeuze</mot>
-      <abreviation>s.f.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrcheuyeuze</Entrée>
+      <StructureGrammaticale>s.f.</StructureGrammaticale>
+      <Lexie>
            aide-faucheur, Ar 129, Dl 17; cf. gavleuze.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrtchève</mot>
-      <abreviation>n.pr.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrtchève</Entrée>
+      <StructureGrammaticale>n.pr.</StructureGrammaticale>
+      <Lexie>
            Arquèves, Dl 65 - relevé à Dl 47-56.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrtchintchi(s')</mot>
-      <abreviation>v.pron.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrtchintchi(s')</Entrée>
+      <StructureGrammaticale>v.pron.</StructureGrammaticale>
+      <Lexie>
            s'attifer élégamment, Am 21.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrtchulé</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrtchulé</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            reculer, Am 8;
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrtinde</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrtinde</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            retendre, Am 65. A la coupe du velours : redonner de
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrtiré</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrtiré</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            retirer, Am 21 ; exp. èrtiré s'n'abi, se déshabiller, ôter
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrtorné</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrtorné</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            retourner, Am 22; exp. de quelqu'un qui a un long nez
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrtri</mot>
-      <abreviation>p.p.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrtri</Entrée>
+      <StructureGrammaticale>p.p.</StructureGrammaticale>
+      <Lexie>
            ratatiné (fruit), Pè 56; fém. èrtrite.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrtrichure</mot>
-      <abreviation>s.f.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrtrichure</Entrée>
+      <StructureGrammaticale>s.f.</StructureGrammaticale>
+      <Lexie>
            reprise à un bas, Am 21.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrtyé</mot>
-      <abreviation>s.m.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrtyé</Entrée>
+      <StructureGrammaticale>s.m.</StructureGrammaticale>
+      <Lexie>
            cultivateur faisant partie de la ère (et qui envoie
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrvèrtir</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrvèrtir</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            revenir sur ses pas, Pè 56.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrvinji(s')</mot>
-      <abreviation>v.pron.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrvinji(s')</Entrée>
+      <StructureGrammaticale>v.pron.</StructureGrammaticale>
+      <Lexie>
            se venger, Am 11.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrvleu</mot>
-      <abreviation>adj.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrvleu</Entrée>
+      <StructureGrammaticale>adj.</StructureGrammaticale>
+      <Lexie>
            nerveux, Am 8; à Am 11 : vif, éveillé : ex. si n'étwète
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrvlo</mot>
-      <abreviation>exp.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrvlo</Entrée>
+      <StructureGrammaticale>exp.</StructureGrammaticale>
+      <Lexie>
            voilà à nouveau, Dl 1 et qén.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrwa</mot>
-      <abreviation>s.f.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrwa</Entrée>
+      <StructureGrammaticale>s.f.</StructureGrammaticale>
+      <Lexie>
            sillon de labour, Am 8,9,21,36,D1 62,84; var. érwé, Am 91
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrwé</mot>
-      <abreviation>s.f.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrwé</Entrée>
+      <StructureGrammaticale>s.f.</StructureGrammaticale>
+      <Lexie>
            profondeur de bêchage, Am 121
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrwinse</mot>
-      <abreviation>s.f.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrwinse</Entrée>
+      <StructureGrammaticale>s.f.</StructureGrammaticale>
+      <Lexie>
            ronce, Am 21, D1 63,84; proverbe : kan t ole l'érwinse
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrwéle</mot>
-      <abreviation>s.f.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrwéle</Entrée>
+      <StructureGrammaticale>s.f.</StructureGrammaticale>
+      <Lexie>
            1) ruelle, Am 8, D1 75,76,84 : èle l'érwèle;
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èrzyuté</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èrzyuté</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            regarder de travers, Pé 56
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èscalé</mot>
-      <abreviation>s.m.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èscalé</Entrée>
+      <StructureGrammaticale>s.m.</StructureGrammaticale>
+      <Lexie>
           escalier, Dl 84.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èskanpète</mot>
-      <abreviation></abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èskanpète</Entrée>
+      <StructureGrammaticale></StructureGrammaticale>
+      <Lexie>
           dans l'exp. prinne èse poude d'éskanpète, se sauver, Am II.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èskarblote</mot>
-      <abreviation>s.f.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èskarblote</Entrée>
+      <StructureGrammaticale>s.f.</StructureGrammaticale>
+      <Lexie>
            dytique bordé, Am 65.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èskèrpiyé</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èskèrpiyé</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            faire de la charpie, Am 8 (en faisant un matelat par
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èskeudé</mot>
-      <abreviation>s.f.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èskeudé</Entrée>
+      <StructureGrammaticale>s.f.</StructureGrammaticale>
+      <Lexie>
            élan, Dl 63; exp. prinne ése n'éskeudé, prendre son 
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èsklandre</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èsklandre</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            divulguer de mauvais bruits, D1 84.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èskrantchi</mot>
-      <abreviation>p.p.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èskrantchi</Entrée>
+      <StructureGrammaticale>p.p.</StructureGrammaticale>
+      <Lexie>
            estropié, D1 63. 
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èskudi</mot>
-      <abreviation>s.f.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èskudi</Entrée>
+      <StructureGrammaticale>s.f.</StructureGrammaticale>
+      <Lexie>
            élan, D1 53.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èskwé</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èskwé</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            secouer, Am 11,21; var. èskwé, D1 85.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èsmannye</mot>
-      <abreviation>s.f.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èsmannye</Entrée>
+      <StructureGrammaticale>s.f.</StructureGrammaticale>
+      <Lexie>
            semaine, Am II, D1 53,85; var. èsmonne, Dl 84; exp.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èsmé</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èsmé</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            semer, Dl 84.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èsmizon</mot>
-      <abreviation>s.m .</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èsmizon</Entrée>
+      <StructureGrammaticale>s.m .</StructureGrammaticale>
+      <Lexie>
            , semailles, Dl 84. 
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èsouflo</mot>
-      <abreviation>p.p.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èsouflo</Entrée>
+      <StructureGrammaticale>p.p.</StructureGrammaticale>
+      <Lexie>
            essoufflé, D1 84.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èspatroulé(s')</mot>
-      <abreviation>v.pron.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èspatroulé(s')</Entrée>
+      <StructureGrammaticale>v.pron.</StructureGrammaticale>
+      <Lexie>
            s'étaler (en parlant d'une poule qui
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èspinsèr</mot>
-      <abreviation>s.m.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èspinsèr</Entrée>
+      <StructureGrammaticale>s.m.</StructureGrammaticale>
+      <Lexie>
            gilet d'homme, Am 7.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èssé</mot>
-      <abreviation>s.f.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èssé</Entrée>
+      <StructureGrammaticale>s.f.</StructureGrammaticale>
+      <Lexie>
            vessie, Dl 84.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èstanfitchi(s')</mot>
-      <abreviation>v.pron.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èstanfitchi(s')</Entrée>
+      <StructureGrammaticale>v.pron.</StructureGrammaticale>
+      <Lexie>
            se donner en spectacle, se montrer ostensi-
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èstape</mot>
-      <abreviation>s.f.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èstape</Entrée>
+      <StructureGrammaticale>s.f.</StructureGrammaticale>
+      <Lexie>
            mauvais coup, Am 8; exp. doné èse n'éstape, administrer
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èstchile</mot>
-      <abreviation>s.f.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èstchile</Entrée>
+      <StructureGrammaticale>s.f.</StructureGrammaticale>
+      <Lexie>
            écharde (éclat de bois pointu) Am 21.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èstchinté</mot>
-      <abreviation>v.</abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èstchinté</Entrée>
+      <StructureGrammaticale>v.</StructureGrammaticale>
+      <Lexie>
            fatiguer, Pé 56; au p.p.,
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èje t'é vwé par in tcho treu</mot>
-      <abreviation></abreviation>
-      <definition>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èje t'é vwé par in tcho treu</Entrée>
+      <StructureGrammaticale></StructureGrammaticale>
+      <Lexie>
           ... D1 88.
-        </definition>
-    </TraductionPicard><TraductionPicard>
-      <mot>èle monne</mot>
-      <abreviation></abreviation>
+        </Lexie>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èle monne</Entrée>
+      <StructureGrammaticale></StructureGrammaticale>
       
-    </TraductionPicard><TraductionPicard>
-      <mot>èje té diré</mot>
-      <abreviation></abreviation>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èje té diré</Entrée>
+      <StructureGrammaticale></StructureGrammaticale>
       
-    </TraductionPicard><TraductionPicard>
-      <mot>èje m'in n iré po san</mot>
-      <abreviation></abreviation>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èje m'in n iré po san</Entrée>
+      <StructureGrammaticale></StructureGrammaticale>
       
-    </TraductionPicard><TraductionPicard>
-      <mot>èje vou djète par in tchou treu</mot>
-      <abreviation></abreviation>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èje vou djète par in tchou treu</Entrée>
+      <StructureGrammaticale></StructureGrammaticale>
       
-    </TraductionPicard><TraductionPicard>
-      <mot>èse</mot>
-      <abreviation></abreviation>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>èse</Entrée>
+      <StructureGrammaticale></StructureGrammaticale>
       
-    </TraductionPicard><TraductionPicard>
-      <mot>ède tère</mot>
-      <abreviation>des terres en culture en forme allongée.</abreviation>
+    </ArticleDeDictionnaire><ArticleDeDictionnaire>
+      <Entrée>ède tère</Entrée>
+      <StructureGrammaticale>des terres en culture en forme allongée.</StructureGrammaticale>
       
-    </TraductionPicard>
-      </Traduction>
+    </ArticleDeDictionnaire>
+      </Dictionnaire>

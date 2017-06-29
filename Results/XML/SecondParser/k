@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Traduction>
-        <TraductionFrancaise>
-        <mot>kiosque</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        <ArticleDeDictionnaire>
+        <Entrée>kiosque</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           (à journaux) aubette, hobette.
-        </definition>
-      </TraductionFrancaise>
+        </Lexie>
+      </ArticleDeDictionnaire>
       </Traduction>

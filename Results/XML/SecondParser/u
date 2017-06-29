@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Traduction>
-        <TraductionFrancaise>
-        <mot>une</mot>
-        <complement></complement>
-        <abreviation>art. ind.</abreviation>
-        <definition>
+        <ArticleDeDictionnaire>
+        <Entrée>une</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>art. ind.</StructureGrammaticale>
+        <Lexie>
           eine, enne, eune, in.ne.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>urine</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>urine</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           pissiade.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>urinoir</mot>
-        <complement></complement>
-        <abreviation>s. m.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>urinoir</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Lexie>
           pissotiau
-        </definition>
-      </TraductionFrancaise>
+        </Lexie>
+      </ArticleDeDictionnaire>
       </Traduction>

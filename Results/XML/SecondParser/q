@@ -1,88 +1,88 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Traduction>
-        <TraductionFrancaise>
-        <mot>quantité</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        <ArticleDeDictionnaire>
+        <Entrée>quantité</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           (petite) chuchée ; (grande) raflée, travelée.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>quel</mot>
-        <complement></complement>
-        <abreviation></abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>quel</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <Lexie>
           quelle, adj. : queu, queulle.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>quelque part</mot>
-        <complement></complement>
-        <abreviation>loc. adv.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>quelque part</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>loc. adv.</StructureGrammaticale>
+        <Lexie>
           quéque part, quête part.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>quelques</mot>
-        <complement></complement>
-        <abreviation>adj.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>quelques</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>adj.</StructureGrammaticale>
+        <Lexie>
           eine paire.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>quenouille</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>quenouille</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           quéneule (vx).
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>querelle</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>querelle</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           castille.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>quereller </mot>
-        <complement>(se)</complement>
-        <abreviation>v.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>quereller </Entrée>
+        <Complément>(se)</Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <Lexie>
           estriver, s' piailler.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>querelleur</mot>
-        <complement></complement>
-        <abreviation>s. m. et adj.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>querelleur</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. m. et adj.</StructureGrammaticale>
+        <Lexie>
           estriveux, noiseux.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>qu</mot>
-        <complement></complement>
-        <abreviation></abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>qu</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <Lexie>
           'est-ce-que ? : quoiss ?
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>qui </mot>
-        <complement></complement>
-        <abreviation></abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>qui </Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <Lexie>
           ?, pr. int. : tièce ?
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>quille</mot>
-        <complement></complement>
-        <abreviation>s. f.</abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>quille</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Lexie>
           guille.
-        </definition>
-      </TraductionFrancaise><TraductionFrancaise>
-        <mot>quoi </mot>
-        <complement></complement>
-        <abreviation></abreviation>
-        <definition>
+        </Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>quoi </Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <Lexie>
           ?, pr. int. : quo ? quoé ?
-        </definition>
-      </TraductionFrancaise>
+        </Lexie>
+      </ArticleDeDictionnaire>
       </Traduction>

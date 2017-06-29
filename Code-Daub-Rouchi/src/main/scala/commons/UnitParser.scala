@@ -29,6 +29,7 @@ class UnitParser() {
   val Parenthesis = P(("(" | ")" | " "| ",".? ~ " ou" | ";" | ".").rep(sep = UpperCaseLetter).?.!)
 
   val NumbersDef = P((Numbers ~ " -").!)
+
   val Ponctuation = P(("'" | "." | "-" | "," | "(" | ")" | "\"" | "/" | ";" | ":" | ")." | "=" | "!" | "?").rep(min = 1).!)
   val Definitions = P(Letters.rep(min = 1, sep = (Ponctuation | Date).rep).!)
   val PoncDefinitions = P(Ponctuation.? ~ (Definitions ~ Date.?).! ~ Ponctuation.rep)
