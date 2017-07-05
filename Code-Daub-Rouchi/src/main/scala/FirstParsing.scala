@@ -70,8 +70,9 @@ object Demo {
   def main(args: Array[String]): Unit = {
 
     /** /!\ Nom du path à changer si compilation sur autre machine */
-    val buff: Source = Source.fromFile("/people/khamphousone/Documents/Dictionnaires/daub_rouchi_197S_CU.txt")
-    /**val writer = new PrintWriter(new File("/people/khamphousone/Documents/ParsersScala/FileParsers.txt"))*/
+    println("Entrez le chemin du dictionnaire Debrie")
+    val path = scala.io.StdIn.readLine()
+    val buff: Source = Source.fromFile(path)
     val Parsing = new FirstParsing()
     val UP = new UnitParser()
     val tradtoxml = new toXML()

@@ -52,7 +52,9 @@ object MainObjectDebrieV2 {
 
 
   def main(args: Array[String]): Unit = {
-    val buff: Source = Source.fromFile("/people/khamphousone/Documents/Dictionnaires/DictionnaireDebrieTest.txt")
+    println("Entrez le chemin du dictionnaire Debrie")
+    val path = scala.io.StdIn.readLine()
+    val buff: Source = Source.fromFile("path")
     val Parsing = new ParserDebrieV2()
     val tradtoxml = new toXML()
 
