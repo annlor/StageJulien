@@ -2,6 +2,8 @@
   * Created by khamphousone on 6/22/17.
   */
 
+import java.io.File
+
 import scala.io.Source
 /**
 import java.io._
@@ -91,8 +93,9 @@ object Demo {
         val listXml = <Nomenclature>
           {listTrad}
         </Nomenclature>
-
-        XML.save(s"/people/khamphousone/Documents/ParsersScala/XML/FirstParser/$elements", listXml, "utf-8", true, null)
+        val dir = new File("./XMLFirstParser")
+        dir.mkdir
+        XML.save(s"./XMLFirstParser/$elements", listXml, "utf-8", true, null)
       }
   println("FirstParsing DONE")
   }

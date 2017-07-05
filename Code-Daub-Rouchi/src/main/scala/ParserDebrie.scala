@@ -56,13 +56,13 @@ object MainObjectDebrie {
 
 
   def main(args: Array[String]): Unit = {
-
-    /** /!\ Nom du path à changer si compilation sur autre machine */
-    val buff: Source = Source.fromFile("/people/khamphousone/Documents/Dictionnaires/a_debr_oues_84S_A_utf8.txt")
+    /*/people/khamphousone/Documents/Dictionnaires/a_debr_oues_84S_A_utf8.txt*/
+    println("Entrez le chemin du dictionnaire Debrie")
+    val path = scala.io.StdIn.readLine()
+    val buff: Source = Source.fromFile(path)
     val Parsing = new ParserDebrie()
     val tradtoxml = new toXML()
     val UP = new UnitParser()
-    val writer = new PrintWriter(new File("/people/khamphousone/Documents/ParsersScala/Failures/DebrieFailures.txt"))
 
     val liste1 = for (line <- buff.getLines.slice(11, 21709)) yield {
       Parsing.ParserD(line)
@@ -82,8 +82,9 @@ object MainObjectDebrie {
       val listXml = <Nomenclature>
         {listTrad}
       </Nomenclature>
-
-      XML.save(s"/people/khamphousone/Documents/ParsersScala/XML/ParserDebrie/$elements", listXml, "utf-8", true, null)
+      val dir = new File("./XMLDebrie")
+      dir.mkdir
+      XML.save(s"./XMLDebrie/$elements", listXml, "utf-8", true, null)
     }
     println("ParserDebrie.scala DONE")
   }

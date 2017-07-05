@@ -79,8 +79,9 @@ object Demo2 {
       val listXml = <Nomenclature>
         {listTrad}
       </Nomenclature>
-
-      XML.save(s"/people/khamphousone/Documents/ParsersScala/XML/SecondParser/$elements", listXml, "utf-8", true, null)
+      val dir = new File("./XMLSecondParser")
+      dir.mkdir
+      XML.save(s"./XMLSecondParser/$elements", listXml, "utf-8", true, null)
     }
   }
 }
