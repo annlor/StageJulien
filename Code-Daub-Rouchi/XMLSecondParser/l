@@ -4,435 +4,373 @@
         <Entrée>là-bas</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>adv.</StructureGrammaticale>
-        <Lexie>
-        là-vau, doulà, drolà.
-      </Lexie>
+        <LexieEntiere>là-vau, doulà, drolà</LexieEntiere>
+        <Lexie><SousLexie>là-vau</SousLexie><SousLexie> doulà</SousLexie><SousLexie> drolà</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>labour</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        labeur ; (léger) pleumettes ; ranguillage.
-      </Lexie>
+        <LexieEntiere>labeur ; (léger) pleumettes ; ranguillage</LexieEntiere>
+        <Lexie><SousLexie>labeur </SousLexie><SousLexie> (léger) pleumettes </SousLexie><SousLexie> ranguillage</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>labourer</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        aroïer, binoquer, ranguiller.
-      </Lexie>
+        <LexieEntiere>aroïer, binoquer, ranguiller</LexieEntiere>
+        <Lexie><SousLexie>aroïer</SousLexie><SousLexie> binoquer</SousLexie><SousLexie> ranguiller</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>lacet</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        (piège) lache ; (de soulier) lachet.
-      </Lexie>
+        <LexieEntiere></LexieEntiere>
+        
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>laisser</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        layer.
-      </Lexie>
+        <LexieEntiere>layer</LexieEntiere>
+        <Lexie><SousLexie>layer</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>lait </Entrée>
         <Complément>(petit)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        sûr.
-      </Lexie>
+        <LexieEntiere>sûr</LexieEntiere>
+        <Lexie><SousLexie>sûr</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>laiteron</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        lacheron.
-      </Lexie>
+        <LexieEntiere>lacheron</LexieEntiere>
+        <Lexie><SousLexie>lacheron</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>laitue</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        cabusette, flagelée, gramère ; (d'avant l'hiver) anténoise.
-      </Lexie>
+        <LexieEntiere>cabusette, flagelée, gramère ; (d'avant l'hiver) anténoise</LexieEntiere>
+        <Lexie><SousLexie>cabusette</SousLexie><SousLexie> flagelée</SousLexie><SousLexie> gramère </SousLexie><SousLexie> (d'avant l'hiver) anténoise</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>lambin</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        longin, long-j'y-vas, cul-lourd, torténeux.
-      </Lexie>
+        <LexieEntiere>longin, long-j'y-vas, cul-lourd, torténeux</LexieEntiere>
+        <Lexie><SousLexie>longin</SousLexie><SousLexie> long-j'y-vas</SousLexie><SousLexie> cul-lourd</SousLexie><SousLexie> torténeux</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>lambiner</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-         ; torténer.
-      </Lexie>
+        <LexieEntiere> ; torténer</LexieEntiere>
+        <Lexie><SousLexie> </SousLexie><SousLexie> torténer</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>lamentations</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f. pl.</StructureGrammaticale>
-        <Lexie>
-        délamintations, gniens-gniens.
-      </Lexie>
+        <LexieEntiere>délamintations, gniens-gniens</LexieEntiere>
+        <Lexie><SousLexie>délamintations</SousLexie><SousLexie> gniens-gniens</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>lamenter </Entrée>
         <Complément>(se)</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        s' déclaminter, s' déglaminter, s' délaminter.
-      </Lexie>
+        <LexieEntiere>s' déclaminter, s' déglaminter, s' délaminter</LexieEntiere>
+        <Lexie><SousLexie>s' déclaminter</SousLexie><SousLexie> s' déglaminter</SousLexie><SousLexie> s' délaminter</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>lampe </Entrée>
         <Complément>(à huile)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        crasset.
-      </Lexie>
+        <LexieEntiere>crasset</LexieEntiere>
+        <Lexie><SousLexie>crasset</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>lancer </Entrée>
         <Complément>(des projectiles)</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        sabouler.
-      </Lexie>
+        <LexieEntiere>sabouler</LexieEntiere>
+        <Lexie><SousLexie>sabouler</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>langage</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        parlage.
-      </Lexie>
+        <LexieEntiere>parlage</LexieEntiere>
+        <Lexie><SousLexie>parlage</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>lange</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        drapiau, fache, fasce, fasciau, loque ed cul, pan d'infant, pissiou.
-      </Lexie>
+        <LexieEntiere>drapiau, fache, fasce, fasciau, loque ed cul, pan d'infant, pissiou</LexieEntiere>
+        <Lexie><SousLexie>drapiau</SousLexie><SousLexie> fache</SousLexie><SousLexie> fasce</SousLexie><SousLexie> fasciau</SousLexie><SousLexie> loque ed cul</SousLexie><SousLexie> pan d'infant</SousLexie><SousLexie> pissiou</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>langer</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        amicloter, facher, fascier, mailloter.
-      </Lexie>
+        <LexieEntiere>amicloter, facher, fascier, mailloter</LexieEntiere>
+        <Lexie><SousLexie>amicloter</SousLexie><SousLexie> facher</SousLexie><SousLexie> fascier</SousLexie><SousLexie> mailloter</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>langoureux </Entrée>
         <Complément>(yeux)</Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <Lexie>
-        z'yeux gadous.
-      </Lexie>
+        <LexieEntiere>z'yeux gadous</LexieEntiere>
+        <Lexie><SousLexie>z'yeux gadous</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>lanière </Entrée>
         <Complément>(de fouet)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        cachoire.
-      </Lexie>
+        <LexieEntiere>cachoire</LexieEntiere>
+        <Lexie><SousLexie>cachoire</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>lardoire</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        lardo.
-      </Lexie>
+        <LexieEntiere>lardo</LexieEntiere>
+        <Lexie><SousLexie>lardo</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>larve </Entrée>
         <Complément>(de mouche)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        molon.
-      </Lexie>
+        <LexieEntiere>molon</LexieEntiere>
+        <Lexie><SousLexie>molon</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>lavandière</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        buresse.
-      </Lexie>
+        <LexieEntiere>buresse</LexieEntiere>
+        <Lexie><SousLexie>buresse</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>lécher</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        artéquer, pourléquer ; se lécher les babines : s' rapapiller.
-      </Lexie>
+        <LexieEntiere>artéquer, pourléquer ; se lécher les babines : s' rapapiller</LexieEntiere>
+        <Lexie><SousLexie>artéquer</SousLexie><SousLexie> pourléquer </SousLexie><SousLexie> se lécher les babines : s' rapapiller</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>léger</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>adj.</StructureGrammaticale>
-        <Lexie>
-        régerot (vx).
-      </Lexie>
+        <LexieEntiere>régerot (vx</LexieEntiere>
+        <Lexie><SousLexie>régerot (vx</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>lessive</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        buée ; eau de lessive (voir : eau).
-      </Lexie>
+        <LexieEntiere>buée ; eau de lessive (voir : eau</LexieEntiere>
+        <Lexie><SousLexie>buée </SousLexie><SousLexie> eau de lessive (voir : eau</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>lessivé </Entrée>
         <Complément>(mal)</Complément>
         <StructureGrammaticale>adj.</StructureGrammaticale>
-        <Lexie>
-        terche.
-      </Lexie>
+        <LexieEntiere>terche</LexieEntiere>
+        <Lexie><SousLexie>terche</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>lessiver</Entrée>
         <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <Lexie>
-        buer ; (mal) lavurer.
-      </Lexie>
+        <LexieEntiere>buer ; (mal) lavurer</LexieEntiere>
+        <Lexie><SousLexie>buer </SousLexie><SousLexie> (mal) lavurer</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>lessiveuse</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        boulleuse.
-      </Lexie>
+        <LexieEntiere>boulleuse</LexieEntiere>
+        <Lexie><SousLexie>boulleuse</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>leur</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>pr. pers.</StructureGrammaticale>
-        <Lexie>
-        leu, lieu.
-      </Lexie>
+        <LexieEntiere>leu, lieu</LexieEntiere>
+        <Lexie><SousLexie>leu</SousLexie><SousLexie> lieu</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>leur</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>adj. pos.</StructureGrammaticale>
-        <Lexie>
-        leu.
-      </Lexie>
+        <LexieEntiere>leu</LexieEntiere>
+        <Lexie><SousLexie>leu</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>levure </Entrée>
         <Complément>(de bière)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        gée, get, jét.
-      </Lexie>
+        <LexieEntiere>gée, get, jét</LexieEntiere>
+        <Lexie><SousLexie>gée</SousLexie><SousLexie> get</SousLexie><SousLexie> jét</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>libérer</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        défremer, desserrer.
-      </Lexie>
+        <LexieEntiere>défremer, desserrer</LexieEntiere>
+        <Lexie><SousLexie>défremer</SousLexie><SousLexie> desserrer</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>lichette</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        léquette.
-      </Lexie>
+        <LexieEntiere>léquette</LexieEntiere>
+        <Lexie><SousLexie>léquette</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>lierre</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        corruées, rampleurs, rampreules.
-      </Lexie>
+        <LexieEntiere>corruées, rampleurs, rampreules</LexieEntiere>
+        <Lexie><SousLexie>corruées</SousLexie><SousLexie> rampleurs</SousLexie><SousLexie> rampreules</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>ligne </Entrée>
         <Complément>(de pêcheur)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        lime.
-      </Lexie>
+        <LexieEntiere>lime</LexieEntiere>
+        <Lexie><SousLexie>lime</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>ligne </Entrée>
         <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <Lexie>
-        (de légumes, au jardin), s. f. : route.
-      </Lexie>
+        <LexieEntiere></LexieEntiere>
+        
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>limaçon</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        leumechon, lumechon.
-      </Lexie>
+        <LexieEntiere>leumechon, lumechon</LexieEntiere>
+        <Lexie><SousLexie>leumechon</SousLexie><SousLexie> lumechon</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>limite </Entrée>
         <Complément>(de terre)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        déran, dessoivre, soif, soivre.
-      </Lexie>
+        <LexieEntiere>déran, dessoivre, soif, soivre</LexieEntiere>
+        <Lexie><SousLexie>déran</SousLexie><SousLexie> dessoivre</SousLexie><SousLexie> soif</SousLexie><SousLexie> soivre</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>lin</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        hierbe ed copure, hierbe ed pain d'épices ; graine de lin : linuise.
-      </Lexie>
+        <LexieEntiere>hierbe ed copure, hierbe ed pain d'épices ; graine de lin : linuise</LexieEntiere>
+        <Lexie><SousLexie>hierbe ed copure</SousLexie><SousLexie> hierbe ed pain d'épices </SousLexie><SousLexie> graine de lin : linuise</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>linceul</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        linchué.
-      </Lexie>
+        <LexieEntiere>linchué</LexieEntiere>
+        <Lexie><SousLexie>linchué</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>linotte</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        gris frion.
-      </Lexie>
+        <LexieEntiere>gris frion</LexieEntiere>
+        <Lexie><SousLexie>gris frion</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>liseron</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        corruées, couronne.
-      </Lexie>
+        <LexieEntiere>corruées, couronne</LexieEntiere>
+        <Lexie><SousLexie>corruées</SousLexie><SousLexie> couronne</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>lisière</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        (d'un champ) forière ; (d'un bois) masière.
-      </Lexie>
+        <LexieEntiere></LexieEntiere>
+        
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>litière </Entrée>
         <Complément>(faire la)</Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <Lexie>
-        réternir.
-      </Lexie>
+        <LexieEntiere>réternir</LexieEntiere>
+        <Lexie><SousLexie>réternir</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>loche </Entrée>
         <Complément>(poisson)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        guerliche.
-      </Lexie>
+        <LexieEntiere>guerliche</LexieEntiere>
+        <Lexie><SousLexie>guerliche</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>long </Entrée>
         <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <Lexie>
-        ; le long de, loc. prép. : lonque.
-      </Lexie>
+        <LexieEntiere></LexieEntiere>
+        
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>loqueteux</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m. et adj.</StructureGrammaticale>
-        <Lexie>
-        déloqueté.
-      </Lexie>
+        <LexieEntiere>déloqueté</LexieEntiere>
+        <Lexie><SousLexie>déloqueté</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>lorgner</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        lougner.
-      </Lexie>
+        <LexieEntiere>lougner</LexieEntiere>
+        <Lexie><SousLexie>lougner</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>loterie </Entrée>
         <Complément>(de foire)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        tirlibibi ; tireur de loterie : tirloteux.
-      </Lexie>
+        <LexieEntiere>tirlibibi ; tireur de loterie : tirloteux</LexieEntiere>
+        <Lexie><SousLexie>tirlibibi </SousLexie><SousLexie> tireur de loterie : tirloteux</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>lotte</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        bourbote.
-      </Lexie>
+        <LexieEntiere>bourbote</LexieEntiere>
+        <Lexie><SousLexie>bourbote</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>louche à soupe</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        louche-pot.
-      </Lexie>
+        <LexieEntiere>louche-pot</LexieEntiere>
+        <Lexie><SousLexie>louche-pot</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>loup</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        leu.
-      </Lexie>
+        <LexieEntiere>leu</LexieEntiere>
+        <Lexie><SousLexie>leu</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>lourd </Entrée>
         <Complément>(air)</Complément>
         <StructureGrammaticale>adj.</StructureGrammaticale>
-        <Lexie>
-        cauf.
-      </Lexie>
+        <LexieEntiere>cauf</LexieEntiere>
+        <Lexie><SousLexie>cauf</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>lourdaud</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        paour.
-      </Lexie>
+        <LexieEntiere>paour</LexieEntiere>
+        <Lexie><SousLexie>paour</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>lu</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>part. pas.</StructureGrammaticale>
-        <Lexie>
-        li.
-      </Lexie>
+        <LexieEntiere>li</LexieEntiere>
+        <Lexie><SousLexie>li</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>lucarne</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        bahotte.
-      </Lexie>
+        <LexieEntiere>bahotte</LexieEntiere>
+        <Lexie><SousLexie>bahotte</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>luette</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        aloette, lampas.
-      </Lexie>
+        <LexieEntiere>aloette, lampas</LexieEntiere>
+        <Lexie><SousLexie>aloette</SousLexie><SousLexie> lampas</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>lueur</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        erluisance.
-      </Lexie>
+        <LexieEntiere>erluisance</LexieEntiere>
+        <Lexie><SousLexie>erluisance</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>lui</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>pr. pers.</StructureGrammaticale>
-        <Lexie>
-        li.
-      </Lexie>
+        <LexieEntiere>li</LexieEntiere>
+        <Lexie><SousLexie>li</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>lumignon</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        leumerotte, leumion.
-      </Lexie>
+        <LexieEntiere>leumerotte, leumion</LexieEntiere>
+        <Lexie><SousLexie>leumerotte</SousLexie><SousLexie> leumion</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>lune</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        belle, leune.
-      </Lexie>
+        <LexieEntiere>belle, leune</LexieEntiere>
+        <Lexie><SousLexie>belle</SousLexie><SousLexie> leune</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>lunette</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        leunette.
-      </Lexie>
+        <LexieEntiere>leunette</LexieEntiere>
+        <Lexie><SousLexie>leunette</SousLexie></Lexie>
       </ArticleDeDictionnaire>
       </Nomenclature>

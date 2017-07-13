@@ -4,225 +4,193 @@
         <Entrée>nager</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        nanger.
-      </Lexie>
+        <LexieEntiere>nanger</LexieEntiere>
+        <Lexie><SousLexie>nanger</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>nasse</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        puchelle.
-      </Lexie>
+        <LexieEntiere>puchelle</LexieEntiere>
+        <Lexie><SousLexie>puchelle</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>navet</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        naviau.
-      </Lexie>
+        <LexieEntiere>naviau</LexieEntiere>
+        <Lexie><SousLexie>naviau</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>navette</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        épuielle.
-      </Lexie>
+        <LexieEntiere>épuielle</LexieEntiere>
+        <Lexie><SousLexie>épuielle</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>nèfle</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        neppe.
-      </Lexie>
+        <LexieEntiere>neppe</LexieEntiere>
+        <Lexie><SousLexie>neppe</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>néflier</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        neppier.
-      </Lexie>
+        <LexieEntiere>neppier</LexieEntiere>
+        <Lexie><SousLexie>neppier</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>négligé </Entrée>
         <Complément>(homme)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        blatier ; femme négligée : founiousse.
-      </Lexie>
+        <LexieEntiere>blatier ; femme négligée : founiousse</LexieEntiere>
+        <Lexie><SousLexie>blatier </SousLexie><SousLexie> femme négligée : founiousse</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>nettoyage hebdomadaire</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        samedi.
-      </Lexie>
+        <LexieEntiere>samedi</LexieEntiere>
+        <Lexie><SousLexie>samedi</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>nettoyer </Entrée>
         <Complément>(la maison)</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        arloqueter, arnettier, déberner, loqueter, nettier, rapproprier, wassinguer. Nettoyer sommairement : faire catiau belle-moute.
-      </Lexie>
+        <LexieEntiere>arloqueter, arnettier, déberner, loqueter, nettier, rapproprier, wassinguer. Nettoyer sommairement : faire catiau belle-moute</LexieEntiere>
+        <Lexie><SousLexie>arloqueter</SousLexie><SousLexie> arnettier</SousLexie><SousLexie> déberner</SousLexie><SousLexie> loqueter</SousLexie><SousLexie> nettier</SousLexie><SousLexie> rapproprier</SousLexie><SousLexie> wassinguer. Nettoyer sommairement : faire catiau belle-moute</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>neuf</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>adj.</StructureGrammaticale>
-        <Lexie>
-        nuef ; (fém.) nuève.
-      </Lexie>
+        <LexieEntiere>nuef ; (fém.) nuève</LexieEntiere>
+        <Lexie><SousLexie>nuef </SousLexie><SousLexie> (fém.) nuève</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>niais</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        (voir : imbécile).
-      </Lexie>
+        <LexieEntiere></LexieEntiere>
+        
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>niche </Entrée>
         <Complément>(à chien)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        baraque ou cadolette ou gahutte à tchien (ou : à quien).
-      </Lexie>
+        <LexieEntiere>baraque ou cadolette ou gahutte à tchien (ou : à quien</LexieEntiere>
+        <Lexie><SousLexie>baraque ou cadolette ou gahutte à tchien (ou : à quien</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>nichée</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        (d'animaux) nitée ; (d'enfants) péquée.
-      </Lexie>
+        <LexieEntiere></LexieEntiere>
+        
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>nielle </Entrée>
         <Complément>(plante)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        baron, brousure.
-      </Lexie>
+        <LexieEntiere>baron, brousure</LexieEntiere>
+        <Lexie><SousLexie>baron</SousLexie><SousLexie> brousure</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>nipper</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        arnipper.
-      </Lexie>
+        <LexieEntiere>arnipper</LexieEntiere>
+        <Lexie><SousLexie>arnipper</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>noeud </Entrée>
         <Complément>(de fil)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        maquion.
-      </Lexie>
+        <LexieEntiere>maquion</LexieEntiere>
+        <Lexie><SousLexie>maquion</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>noiraud</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>adj.</StructureGrammaticale>
-        <Lexie>
-        noirou.
-      </Lexie>
+        <LexieEntiere>noirou</LexieEntiere>
+        <Lexie><SousLexie>noirou</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>noire</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>adj. fém.</StructureGrammaticale>
-        <Lexie>
-        noirte.
-      </Lexie>
+        <LexieEntiere>noirte</LexieEntiere>
+        <Lexie><SousLexie>noirte</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>noisette</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        nosette.
-      </Lexie>
+        <LexieEntiere>nosette</LexieEntiere>
+        <Lexie><SousLexie>nosette</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>noix</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        gauque.
-      </Lexie>
+        <LexieEntiere>gauque</LexieEntiere>
+        <Lexie><SousLexie>gauque</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>nombril</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        boudène.
-      </Lexie>
+        <LexieEntiere>boudène</LexieEntiere>
+        <Lexie><SousLexie>boudène</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>notre</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>adj. pos.</StructureGrammaticale>
-        <Lexie>
-        no, nou.
-      </Lexie>
+        <LexieEntiere>no, nou</LexieEntiere>
+        <Lexie><SousLexie>no</SousLexie><SousLexie> nou</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>noue </Entrée>
         <Complément>(gouttière)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        anau.
-      </Lexie>
+        <LexieEntiere>anau</LexieEntiere>
+        <Lexie><SousLexie>anau</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>nouer</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        arloïer, loïer.
-      </Lexie>
+        <LexieEntiere>arloïer, loïer</LexieEntiere>
+        <Lexie><SousLexie>arloïer</SousLexie><SousLexie> loïer</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>nourrir</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        norrir, rafourer, rassaurer.
-      </Lexie>
+        <LexieEntiere>norrir, rafourer, rassaurer</LexieEntiere>
+        <Lexie><SousLexie>norrir</SousLexie><SousLexie> rafourer</SousLexie><SousLexie> rassaurer</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>nourriture</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        miache, minger, rafourée.
-      </Lexie>
+        <LexieEntiere>miache, minger, rafourée</LexieEntiere>
+        <Lexie><SousLexie>miache</SousLexie><SousLexie> minger</SousLexie><SousLexie> rafourée</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>nous</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>pr. suj.</StructureGrammaticale>
-        <Lexie>
-        nos.
-      </Lexie>
+        <LexieEntiere>nos</LexieEntiere>
+        <Lexie><SousLexie>nos</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>noyau </Entrée>
         <Complément>(de fruit)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        pierrette.
-      </Lexie>
+        <LexieEntiere>pierrette</LexieEntiere>
+        <Lexie><SousLexie>pierrette</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>nuage</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        neuée ; (noir) tahu.
-      </Lexie>
+        <LexieEntiere>neuée ; (noir) tahu</LexieEntiere>
+        <Lexie><SousLexie>neuée </SousLexie><SousLexie> (noir) tahu</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>numéro</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        iméro, liméro.
-      </Lexie>
+        <LexieEntiere>iméro, liméro</LexieEntiere>
+        <Lexie><SousLexie>iméro</SousLexie><SousLexie> liméro</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>nuque</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        fosselette.
-      </Lexie>
+        <LexieEntiere>fosselette</LexieEntiere>
+        <Lexie><SousLexie>fosselette</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>nymphomane</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        Marie-cache à bites, sotte à z'hommes.
-      </Lexie>
+        <LexieEntiere>Marie-cache à bites, sotte à z'hommes</LexieEntiere>
+        <Lexie><SousLexie>Marie-cache à bites</SousLexie><SousLexie> sotte à z'hommes</SousLexie></Lexie>
       </ArticleDeDictionnaire>
       </Nomenclature>

@@ -31,8 +31,20 @@ class UnitParser() {
   val NumbersDef = P((Numbers ~ " -").!)
 
   val Ponctuation = P(("'" | "." | "-" | "," | "(" | ")" | "\"" | "/" | ";" | ":" | ")." | "=" | "!" | "?").rep(min = 1).!)
+
   val Definitions = P(Letters.rep(min = 1, sep = (Ponctuation | Date).rep).!)
   val PoncDefinitions = P(Ponctuation.? ~ (Definitions ~ Date.?).! ~ Ponctuation.rep)
   val Abreviation = P((LowerCaseLetter ~ ".").rep(min = 1, sep = " ").!)
 
+
+  val LessPonctuation = P(("'" | "." | "-" | "(" | ")" | "\"" | "/" | ":" | ")." | "=" | "!" | "?").rep(min = 1).!)
+  val LessDefinitions = P(Letters.rep(min = 1, sep = (LessPonctuation | Date).rep).!)
+  val DefinitionsSecondParser = P(LessPonctuation.? ~ (LessDefinitions ~ Date.?).! ~ LessPonctuation.rep)
+}
+
+class XMLUnitParser{
+
+
+  val UP = new UnitParser
+  val XMLStructureGrammaticale = P(" ".? ~ (UP.LowerCaseLetter ~ ".").!.rep(min = 1) ~ " ".?)
 }

@@ -4,85 +4,73 @@
         <Entrée>quantité</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        (petite) chuchée ; (grande) raflée, travelée.
-      </Lexie>
+        <LexieEntiere></LexieEntiere>
+        
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>quel</Entrée>
         <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <Lexie>
-        quelle, adj. : queu, queulle.
-      </Lexie>
+        <LexieEntiere>quelle, adj. : queu, queulle</LexieEntiere>
+        <Lexie><SousLexie>quelle</SousLexie><SousLexie> adj. : queu</SousLexie><SousLexie> queulle</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>quelque part</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>loc. adv.</StructureGrammaticale>
-        <Lexie>
-        quéque part, quête part.
-      </Lexie>
+        <LexieEntiere>quéque part, quête part</LexieEntiere>
+        <Lexie><SousLexie>quéque part</SousLexie><SousLexie> quête part</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>quelques</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>adj.</StructureGrammaticale>
-        <Lexie>
-        eine paire.
-      </Lexie>
+        <LexieEntiere>eine paire</LexieEntiere>
+        <Lexie><SousLexie>eine paire</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>quenouille</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        quéneule (vx).
-      </Lexie>
+        <LexieEntiere>quéneule (vx</LexieEntiere>
+        <Lexie><SousLexie>quéneule (vx</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>querelle</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        castille.
-      </Lexie>
+        <LexieEntiere>castille</LexieEntiere>
+        <Lexie><SousLexie>castille</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>quereller </Entrée>
         <Complément>(se)</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        estriver, s' piailler.
-      </Lexie>
+        <LexieEntiere>estriver, s' piailler</LexieEntiere>
+        <Lexie><SousLexie>estriver</SousLexie><SousLexie> s' piailler</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>querelleur</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m. et adj.</StructureGrammaticale>
-        <Lexie>
-        estriveux, noiseux.
-      </Lexie>
+        <LexieEntiere>estriveux, noiseux</LexieEntiere>
+        <Lexie><SousLexie>estriveux</SousLexie><SousLexie> noiseux</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>qu</Entrée>
+        <Entrée>qu'est-ce-que </Entrée>
         <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <Lexie>
-        'est-ce-que ? : quoiss ?
-      </Lexie>
+        <LexieEntiere></LexieEntiere>
+        
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>qui </Entrée>
         <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <Lexie>
-        ?, pr. int. : tièce ?
-      </Lexie>
+        <LexieEntiere></LexieEntiere>
+        
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>quille</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        guille.
-      </Lexie>
+        <LexieEntiere>guille</LexieEntiere>
+        <Lexie><SousLexie>guille</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>quoi </Entrée>
         <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <Lexie>
-        ?, pr. int. : quo ? quoé ?
-      </Lexie>
+        <LexieEntiere></LexieEntiere>
+        
       </ArticleDeDictionnaire>
       </Nomenclature>

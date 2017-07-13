@@ -4,8 +4,7 @@
         <Entrée>wagonnet</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        balle, berline.
-      </Lexie>
+        <LexieEntiere>balle, berline</LexieEntiere>
+        <Lexie><SousLexie>balle</SousLexie><SousLexie> berline</SousLexie></Lexie>
       </ArticleDeDictionnaire>
       </Nomenclature>

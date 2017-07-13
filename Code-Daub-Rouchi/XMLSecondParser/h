@@ -4,246 +4,211 @@
         <Entrée>habileté</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        dégaine.
-      </Lexie>
+        <LexieEntiere>dégaine</LexieEntiere>
+        <Lexie><SousLexie>dégaine</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>habiller </Entrée>
         <Complément>(mal)</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        (voir : accoutrer).
-      </Lexie>
+        <LexieEntiere></LexieEntiere>
+        
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>habiter</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        rester.
-      </Lexie>
+        <LexieEntiere>rester</LexieEntiere>
+        <Lexie><SousLexie>rester</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>hache</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        hape.
-      </Lexie>
+        <LexieEntiere>hape</LexieEntiere>
+        <Lexie><SousLexie>hape</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>hachette</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        hapiette.
-      </Lexie>
+        <LexieEntiere>hapiette</LexieEntiere>
+        <Lexie><SousLexie>hapiette</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>haie</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        hayure.
-      </Lexie>
+        <LexieEntiere>hayure</LexieEntiere>
+        <Lexie><SousLexie>hayure</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>haleur</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        réseux, saque-à-vau-l'eau.
-      </Lexie>
+        <LexieEntiere>réseux, saque-à-vau-l'eau</LexieEntiere>
+        <Lexie><SousLexie>réseux</SousLexie><SousLexie> saque-à-vau-l'eau</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>hameçon</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        haim.
-      </Lexie>
+        <LexieEntiere>haim</LexieEntiere>
+        <Lexie><SousLexie>haim</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>hanneton</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        bruant, hurion, ravenel.
-      </Lexie>
+        <LexieEntiere>bruant, hurion, ravenel</LexieEntiere>
+        <Lexie><SousLexie>bruant</SousLexie><SousLexie> hurion</SousLexie><SousLexie> ravenel</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>haquet</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        bourlat.
-      </Lexie>
+        <LexieEntiere>bourlat</LexieEntiere>
+        <Lexie><SousLexie>bourlat</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>hareng</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        héring ; hareng saur : sauret.
-      </Lexie>
+        <LexieEntiere>héring ; hareng saur : sauret</LexieEntiere>
+        <Lexie><SousLexie>héring </SousLexie><SousLexie> hareng saur : sauret</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>hargneux</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>adj.</StructureGrammaticale>
-        <Lexie>
-        mourdreux.
-      </Lexie>
+        <LexieEntiere>mourdreux</LexieEntiere>
+        <Lexie><SousLexie>mourdreux</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>harnacher</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        harniquer.
-      </Lexie>
+        <LexieEntiere>harniquer</LexieEntiere>
+        <Lexie><SousLexie>harniquer</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>hâter </Entrée>
         <Complément>(se)</Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <Lexie>
-        tracer.
-      </Lexie>
+        <LexieEntiere>tracer</LexieEntiere>
+        <Lexie><SousLexie>tracer</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>haut-de-forme</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        buse, capiau-montant.
-      </Lexie>
+        <LexieEntiere>buse, capiau-montant</LexieEntiere>
+        <Lexie><SousLexie>buse</SousLexie><SousLexie> capiau-montant</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>héler</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        houper.
-      </Lexie>
+        <LexieEntiere>houper</LexieEntiere>
+        <Lexie><SousLexie>houper</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>hémorroïdes</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f. pl.</StructureGrammaticale>
-        <Lexie>
-        broques.
-      </Lexie>
+        <LexieEntiere>broques</LexieEntiere>
+        <Lexie><SousLexie>broques</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>herbe</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        hierbe ; (mauvaise) cruau, creyau ; (potagère) compénage ; (pour litière) léhu, luis.
-      </Lexie>
+        <LexieEntiere>hierbe ; (mauvaise) cruau, creyau ; (potagère) compénage ; (pour litière) léhu, luis</LexieEntiere>
+        <Lexie><SousLexie>hierbe </SousLexie><SousLexie> (mauvaise) cruau</SousLexie><SousLexie> creyau </SousLexie><SousLexie> (potagère) compénage </SousLexie><SousLexie> (pour litière) léhu</SousLexie><SousLexie> luis</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>hérisson</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        hurechon-picot.
-      </Lexie>
+        <LexieEntiere>hurechon-picot</LexieEntiere>
+        <Lexie><SousLexie>hurechon-picot</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>héritage</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        héritance.
-      </Lexie>
+        <LexieEntiere>héritance</LexieEntiere>
+        <Lexie><SousLexie>héritance</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>herse</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        hierche.
-      </Lexie>
+        <LexieEntiere>hierche</LexieEntiere>
+        <Lexie><SousLexie>hierche</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>hêtre</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        fau.
-      </Lexie>
+        <LexieEntiere>fau</LexieEntiere>
+        <Lexie><SousLexie>fau</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>heurter</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        chuquer, rabuchuquer.
-      </Lexie>
+        <LexieEntiere>chuquer, rabuchuquer</LexieEntiere>
+        <Lexie><SousLexie>chuquer</SousLexie><SousLexie> rabuchuquer</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>hirondelle</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        arondielle.
-      </Lexie>
+        <LexieEntiere>arondielle</LexieEntiere>
+        <Lexie><SousLexie>arondielle</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>histoire </Entrée>
         <Complément>(vieille)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        viellé-preute.
-      </Lexie>
+        <LexieEntiere>viellé-preute</LexieEntiere>
+        <Lexie><SousLexie>viellé-preute</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>hoquet</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        loquet, souglou.
-      </Lexie>
+        <LexieEntiere>loquet, souglou</LexieEntiere>
+        <Lexie><SousLexie>loquet</SousLexie><SousLexie> souglou</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>houer</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        déhauder.
-      </Lexie>
+        <LexieEntiere>déhauder</LexieEntiere>
+        <Lexie><SousLexie>déhauder</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>houspiller</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        houspailler.
-      </Lexie>
+        <LexieEntiere>houspailler</LexieEntiere>
+        <Lexie><SousLexie>houspailler</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>huile</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        ole.
-      </Lexie>
+        <LexieEntiere>ole</LexieEntiere>
+        <Lexie><SousLexie>ole</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>huissier</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        lussier, zussier.
-      </Lexie>
+        <LexieEntiere>lussier, zussier</LexieEntiere>
+        <Lexie><SousLexie>lussier</SousLexie><SousLexie> zussier</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>humide</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>adj.</StructureGrammaticale>
-        <Lexie>
-        cru.
-      </Lexie>
+        <LexieEntiere>cru</LexieEntiere>
+        <Lexie><SousLexie>cru</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>humidité</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        crudité.
-      </Lexie>
+        <LexieEntiere>crudité</LexieEntiere>
+        <Lexie><SousLexie>crudité</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>hurler</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        cahuler, caïfer.
-      </Lexie>
+        <LexieEntiere>cahuler, caïfer</LexieEntiere>
+        <Lexie><SousLexie>cahuler</SousLexie><SousLexie> caïfer</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>hurluberlu</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        huberlu.
-      </Lexie>
+        <LexieEntiere>huberlu</LexieEntiere>
+        <Lexie><SousLexie>huberlu</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>hypocrite</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        faiseux d' grimaces.
-      </Lexie>
+        <LexieEntiere>faiseux d' grimaces</LexieEntiere>
+        <Lexie><SousLexie>faiseux d' grimaces</SousLexie></Lexie>
       </ArticleDeDictionnaire>
       </Nomenclature>

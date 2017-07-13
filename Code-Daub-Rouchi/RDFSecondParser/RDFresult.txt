@@ -1,0 +1,427 @@
+@prefix restaure: <http://restaure.limsi.fr/2017/rdf#> .
+@prefix ontolex: <http://www.w3.org/ns/lemon/ontolex#> .
+@prefix lexinfo: <http://lexinfo.net/ontology/2.0/lexinfo#> .
+
+restaure:le_108  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_aulne .
+
+restaure:le_50  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_almanach .
+
+restaure:le_22  ontolex:lexicalForm  restaure:le_adroit .
+
+restaure:le_91  lexinfo:Verb  restaure:le_verbe ;
+        lexinfo:partOfSpeech  restaure:le_verbe ;
+        ontolex:lexicalForm   restaure:le_asseoir .
+
+restaure:le_63  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_angine .
+
+restaure:le_35  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_agneau .
+
+restaure:le_76  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_arête .
+
+restaure:le_102  lexinfo:Verb  restaure:le_verbe ;
+        lexinfo:partOfSpeech  restaure:le_verbe ;
+        ontolex:lexicalForm   restaure:le_attraper .
+
+restaure:le_48  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_alliaire .
+
+restaure:le_5  lexinfo:Noun   restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_aboulique .
+
+restaure:le_89  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_assemblage_à_mi-bois .
+
+restaure:le_115  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_avenue .
+
+restaure:le_70  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_apprenti .
+
+restaure:le_42  lexinfo:Verb  restaure:le_verbe ;
+        lexinfo:partOfSpeech  restaure:le_verbe ;
+        ontolex:lexicalForm   restaure:le_aiguiser .
+
+restaure:le_14  lexinfo:Verb  restaure:le_verbe ;
+        lexinfo:partOfSpeech  restaure:le_verbe ;
+        ontolex:lexicalForm   restaure:le_accrocher .
+
+restaure:le_83  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_arrière-grand-père .
+
+restaure:le_55  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_amis .
+
+restaure:le_27  ontolex:lexicalForm  restaure:le_affamé .
+
+restaure:le_96  ontolex:lexicalForm  restaure:le_assurément .
+
+restaure:le_68  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_appendicite .
+
+restaure:le_107  lexinfo:Verb  restaure:le_verbe ;
+        lexinfo:partOfSpeech  restaure:le_verbe ;
+        ontolex:lexicalForm   restaure:le_augmenter .
+
+restaure:le_21  lexinfo:Verb  restaure:le_verbe ;
+        lexinfo:partOfSpeech  restaure:le_verbe ;
+        ontolex:lexicalForm   restaure:le_adresser .
+
+restaure:le_90  lexinfo:Verb  restaure:le_verbe ;
+        lexinfo:partOfSpeech  restaure:le_verbe ;
+        ontolex:lexicalForm   restaure:le_assembler .
+
+restaure:le_62  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_angélique .
+
+restaure:le_34  ontolex:lexicalForm  restaure:le_agité .
+
+restaure:le_75  ontolex:lexicalForm  restaure:le_arbre .
+
+restaure:le_101  lexinfo:Verb  restaure:le_verbe ;
+        lexinfo:partOfSpeech  restaure:le_verbe ;
+        ontolex:lexicalForm   restaure:le_attendrir .
+
+restaure:le_47  lexinfo:Verb  restaure:le_verbe ;
+        lexinfo:partOfSpeech  restaure:le_verbe ;
+        ontolex:lexicalForm   restaure:le_aller .
+
+restaure:le_4  lexinfo:Noun   restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_ablette .
+
+restaure:le_19  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_acheteur .
+
+restaure:le_88  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_assassin .
+
+restaure:le_114  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_avare .
+
+restaure:le_41  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_aiguillon .
+
+restaure:le_13  lexinfo:Verb  restaure:le_verbe ;
+        lexinfo:partOfSpeech  restaure:le_verbe ;
+        ontolex:lexicalForm   restaure:le_accoutrer .
+
+restaure:le_82  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_arrérages .
+
+restaure:le_54  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_amie .
+
+restaure:le_26  ontolex:lexicalForm  restaure:le_affalé .
+
+restaure:le_95  lexinfo:Verb  restaure:le_verbe ;
+        lexinfo:partOfSpeech  restaure:le_verbe ;
+        ontolex:lexicalForm   restaure:le_assoupir .
+
+restaure:le_67  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_apparence .
+
+restaure:le_39  lexinfo:Verb  restaure:le_verbe ;
+        lexinfo:partOfSpeech  restaure:le_verbe ;
+        ontolex:lexicalForm   restaure:le_aider .
+
+restaure:le_106  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_augmentation .
+
+restaure:le_9  ontolex:lexicalForm  restaure:le_abri .
+
+restaure:le_20  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_adonis .
+
+restaure:le_119  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_avoine .
+
+restaure:le_61  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_anémie .
+
+restaure:le_33  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_agité .
+
+restaure:le_74  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_arabesques .
+
+restaure:le_100  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_attelage .
+
+restaure:le_46  ontolex:lexicalForm  restaure:le_aisé .
+
+restaure:le_3  lexinfo:Noun   restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_abécédaire .
+
+restaure:le_18  lexinfo:Verb  restaure:le_verbe ;
+        lexinfo:partOfSpeech  restaure:le_verbe ;
+        ontolex:lexicalForm   restaure:le_acheter .
+
+restaure:le_87  ontolex:lexicalForm  restaure:le_arrogant .
+
+restaure:le_59  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_amusette .
+
+restaure:le_113  ontolex:lexicalForm  restaure:le_autrement .
+
+restaure:le_40  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_aiguille .
+
+restaure:le_12  ontolex:lexicalForm  restaure:le_accablé .
+
+restaure:le_81  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_armoise .
+
+restaure:le_53  ontolex:lexicalForm  restaure:le_ameublir .
+
+restaure:le_25  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_affaissement .
+
+restaure:le_94  ontolex:lexicalForm  restaure:le_assorti .
+
+restaure:le_66  lexinfo:Verb  restaure:le_verbe ;
+        lexinfo:partOfSpeech  restaure:le_verbe ;
+        ontolex:lexicalForm   restaure:le_apaiser .
+
+restaure:le_38  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_aide .
+
+restaure:le_79  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_armistice .
+
+restaure:le_105  ontolex:lexicalForm  restaure:le_audacieux .
+
+restaure:le_8  lexinfo:Noun   restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_abreuvoir .
+
+restaure:le_118  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_avis .
+
+restaure:le_60  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_andain .
+
+restaure:le_32  lexinfo:Verb  restaure:le_verbe ;
+        lexinfo:partOfSpeech  restaure:le_verbe ;
+        ontolex:lexicalForm   restaure:le_agenouiller .
+
+restaure:le_73  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_arabe .
+
+restaure:le_45  ontolex:lexicalForm  restaure:le_aisé .
+
+restaure:le_2  ontolex:lexicalForm  restaure:le_abattu .
+
+restaure:le_17  lexinfo:Verb  restaure:le_verbe ;
+        lexinfo:partOfSpeech  restaure:le_verbe ;
+        ontolex:lexicalForm   restaure:le_acharner .
+
+restaure:le_86  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_arroche .
+
+restaure:le_58  lexinfo:Verb  restaure:le_verbe ;
+        lexinfo:partOfSpeech  restaure:le_verbe ;
+        ontolex:lexicalForm   restaure:le_amuser .
+
+restaure:le_112  ontolex:lexicalForm  restaure:le_autrefois .
+
+restaure:le_99  lexinfo:Verb  restaure:le_verbe ;
+        lexinfo:partOfSpeech  restaure:le_verbe ;
+        ontolex:lexicalForm   restaure:le_atteindre .
+
+restaure:le_11  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_acariâtre .
+
+restaure:le_80  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_armoire .
+
+restaure:le_52  lexinfo:Verb  restaure:le_verbe ;
+        lexinfo:partOfSpeech  restaure:le_verbe ;
+        ontolex:lexicalForm   restaure:le_amadouer .
+
+restaure:le_24  lexinfo:Verb  restaure:le_verbe ;
+        lexinfo:partOfSpeech  restaure:le_verbe ;
+        ontolex:lexicalForm   restaure:le_affaiblir .
+
+restaure:le_93  ontolex:lexicalForm  restaure:le_assolement .
+
+restaure:le_65  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_animation .
+
+restaure:le_37  ontolex:lexicalForm  restaure:le_ahuri .
+
+restaure:le_78  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_argile .
+
+restaure:le_104  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_audace .
+
+restaure:le_7  lexinfo:Verb   restaure:le_verbe ;
+        lexinfo:partOfSpeech  restaure:le_verbe ;
+        ontolex:lexicalForm   restaure:le_abreuver .
+
+restaure:le_117  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_aveugle .
+
+restaure:le_31  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_agencements .
+
+restaure:le_72  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_appui .
+
+restaure:le_44  ontolex:lexicalForm  restaure:le_ainsi .
+
+restaure:le_1  lexinfo:Verb   restaure:le_verbe ;
+        lexinfo:partOfSpeech  restaure:le_verbe ;
+        ontolex:lexicalForm   restaure:le_abaisser .
+
+restaure:le_16  lexinfo:Verb  restaure:le_verbe ;
+        lexinfo:partOfSpeech  restaure:le_verbe ;
+        ontolex:lexicalForm   restaure:le_accueillir .
+
+restaure:le_85  lexinfo:Verb  restaure:le_verbe ;
+        lexinfo:partOfSpeech  restaure:le_verbe ;
+        ontolex:lexicalForm   restaure:le_arriver .
+
+restaure:le_57  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_ampoule .
+
+restaure:le_111  ontolex:lexicalForm  restaure:le_aussi .
+
+restaure:le_29  ontolex:lexicalForm  restaure:le_affectueusement .
+
+restaure:le_98  lexinfo:Verb  restaure:le_verbe ;
+        lexinfo:partOfSpeech  restaure:le_verbe ;
+        ontolex:lexicalForm   restaure:le_attarder .
+
+restaure:le_10  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_abrité .
+
+restaure:le_109  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_aumône .
+
+restaure:le_51  ontolex:lexicalForm  restaure:le_alors .
+
+restaure:le_23  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_aération .
+
+restaure:le_92  ontolex:lexicalForm  restaure:le_assoiffé .
+
+restaure:le_64  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_anguille .
+
+restaure:le_36  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_agrostis .
+
+restaure:le_77  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_argent .
+
+restaure:le_103  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_aube .
+
+restaure:le_49  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_allumette .
+
+restaure:le_6  lexinfo:Verb   restaure:le_verbe ;
+        lexinfo:partOfSpeech  restaure:le_verbe ;
+        ontolex:lexicalForm   restaure:le_aboyer .
+
+restaure:le_116  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_averse .
+
+restaure:le_30  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_affiquet .
+
+restaure:le_71  lexinfo:Verb  restaure:le_verbe ;
+        lexinfo:partOfSpeech  restaure:le_verbe ;
+        ontolex:lexicalForm   restaure:le_approfondir .
+
+restaure:le_43  lexinfo:Verb  restaure:le_verbe ;
+        lexinfo:partOfSpeech  restaure:le_verbe ;
+        ontolex:lexicalForm   restaure:le_aimer .
+
+restaure:le_15  lexinfo:Verb  restaure:le_verbe ;
+        lexinfo:partOfSpeech  restaure:le_verbe ;
+        ontolex:lexicalForm   restaure:le_accroupir .
+
+restaure:le_84  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_arrière-grand-mère .
+
+restaure:le_56  ontolex:lexicalForm  restaure:le_amour .
+
+restaure:le_110  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_aunée .
+
+restaure:le_28  ontolex:lexicalForm  restaure:le_affectueux .
+
+restaure:le_97  lexinfo:Verb  restaure:le_verbe ;
+        lexinfo:partOfSpeech  restaure:le_verbe ;
+        ontolex:lexicalForm   restaure:le_attacher .
+
+restaure:le_69  lexinfo:Noun  restaure:le_substantif ;
+        lexinfo:partOfSpeech  restaure:le_substantif ;
+        ontolex:lexicalForm   restaure:le_appentis .

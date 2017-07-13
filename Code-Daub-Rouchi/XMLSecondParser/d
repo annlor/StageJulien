@@ -4,799 +4,685 @@
         <Entrée>dadais</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        dadelot.
-      </Lexie>
+        <LexieEntiere>dadelot</LexieEntiere>
+        <Lexie><SousLexie>dadelot</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>débattre </Entrée>
         <Complément>(se)</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        s' décombattre.
-      </Lexie>
+        <LexieEntiere>s' décombattre</LexieEntiere>
+        <Lexie><SousLexie>s' décombattre</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>débauché</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        broqueteux, broussieux.
-      </Lexie>
+        <LexieEntiere>broqueteux, broussieux</LexieEntiere>
+        <Lexie><SousLexie>broqueteux</SousLexie><SousLexie> broussieux</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>déblatérer</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        déblater.
-      </Lexie>
+        <LexieEntiere>déblater</LexieEntiere>
+        <Lexie><SousLexie>déblater</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>déboucler</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        déblouquer.
-      </Lexie>
+        <LexieEntiere>déblouquer</LexieEntiere>
+        <Lexie><SousLexie>déblouquer</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>debout</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>adv.</StructureGrammaticale>
-        <Lexie>
-        d'pied drot ; debout (mettre), loc. v. : atamper, étamper, ratamper.
-      </Lexie>
+        <LexieEntiere>d'pied drot ; debout (mettre), loc. v. : atamper, étamper, ratamper</LexieEntiere>
+        <Lexie><SousLexie>d'pied drot </SousLexie><SousLexie> debout (mettre)</SousLexie><SousLexie> loc. v. : atamper</SousLexie><SousLexie> étamper</SousLexie><SousLexie> ratamper</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>débrouiller </Entrée>
         <Complément>(se)</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        s'affuter, agimoler ou ingimoler s' jeu, s' dépatouiller.
-      </Lexie>
+        <LexieEntiere>s'affuter, agimoler ou ingimoler s' jeu, s' dépatouiller</LexieEntiere>
+        <Lexie><SousLexie>s'affuter</SousLexie><SousLexie> agimoler ou ingimoler s' jeu</SousLexie><SousLexie> s' dépatouiller</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>décharger</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        décarquer, déquerquer.
-      </Lexie>
+        <LexieEntiere>décarquer, déquerquer</LexieEntiere>
+        <Lexie><SousLexie>décarquer</SousLexie><SousLexie> déquerquer</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>déchausser</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        décaucher.
-      </Lexie>
+        <LexieEntiere>décaucher</LexieEntiere>
+        <Lexie><SousLexie>décaucher</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>déchets</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m. pl.</StructureGrammaticale>
-        <Lexie>
-        hautons.
-      </Lexie>
+        <LexieEntiere>hautons</LexieEntiere>
+        <Lexie><SousLexie>hautons</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>déchirer</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        arracher, éclifer, inclifer, déchipouiller.
-      </Lexie>
+        <LexieEntiere>arracher, éclifer, inclifer, déchipouiller</LexieEntiere>
+        <Lexie><SousLexie>arracher</SousLexie><SousLexie> éclifer</SousLexie><SousLexie> inclifer</SousLexie><SousLexie> déchipouiller</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>déchirure</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        arrachure.
-      </Lexie>
+        <LexieEntiere>arrachure</LexieEntiere>
+        <Lexie><SousLexie>arrachure</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>déclouer</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        décloer.
-      </Lexie>
+        <LexieEntiere>décloer</LexieEntiere>
+        <Lexie><SousLexie>décloer</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>décortiquer</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        décafoter.
-      </Lexie>
+        <LexieEntiere>décafoter</LexieEntiere>
+        <Lexie><SousLexie>décafoter</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>découper</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        décoper.
-      </Lexie>
+        <LexieEntiere>décoper</LexieEntiere>
+        <Lexie><SousLexie>décoper</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>décourager</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        débouser.
-      </Lexie>
+        <LexieEntiere>débouser</LexieEntiere>
+        <Lexie><SousLexie>débouser</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>découvrir</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        découverre ; se découvrir : défuler.
-      </Lexie>
+        <LexieEntiere>découverre ; se découvrir : défuler</LexieEntiere>
+        <Lexie><SousLexie>découverre </SousLexie><SousLexie> se découvrir : défuler</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>dédaigneux </Entrée>
         <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <Lexie>
-        (homme, femme), s. : opéra.
-      </Lexie>
+        <LexieEntiere></LexieEntiere>
+        
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>défourner</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        défournaquer.
-      </Lexie>
+        <LexieEntiere>défournaquer</LexieEntiere>
+        <Lexie><SousLexie>défournaquer</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>défraîchi</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>adj.</StructureGrammaticale>
-        <Lexie>
-        mésallé.
-      </Lexie>
+        <LexieEntiere>mésallé</LexieEntiere>
+        <Lexie><SousLexie>mésallé</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>défricher</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        défréchir, déréquer.
-      </Lexie>
+        <LexieEntiere>défréchir, déréquer</LexieEntiere>
+        <Lexie><SousLexie>défréchir</SousLexie><SousLexie> déréquer</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>dégager</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        dégrinquer.
-      </Lexie>
+        <LexieEntiere>dégrinquer</LexieEntiere>
+        <Lexie><SousLexie>dégrinquer</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>dégel</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        erlin, relin.
-      </Lexie>
+        <LexieEntiere>erlin, relin</LexieEntiere>
+        <Lexie><SousLexie>erlin</SousLexie><SousLexie> relin</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>dégeler</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        relégner, religner.
-      </Lexie>
+        <LexieEntiere>relégner, religner</LexieEntiere>
+        <Lexie><SousLexie>relégner</SousLexie><SousLexie> religner</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>dégourdir </Entrée>
         <Complément>(se)</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        s' dérater.
-      </Lexie>
+        <LexieEntiere>s' dérater</LexieEntiere>
+        <Lexie><SousLexie>s' dérater</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>dégringolade</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        dêbiroulaine.
-      </Lexie>
+        <LexieEntiere>dêbiroulaine</LexieEntiere>
+        <Lexie><SousLexie>dêbiroulaine</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>dégringoler</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        bourler, débirouler, dégrioler.
-      </Lexie>
+        <LexieEntiere>bourler, débirouler, dégrioler</LexieEntiere>
+        <Lexie><SousLexie>bourler</SousLexie><SousLexie> débirouler</SousLexie><SousLexie> dégrioler</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>déhancher </Entrée>
         <Complément>(se)</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        s' dévériner. (Voir : se tordre).
-      </Lexie>
+        <LexieEntiere>s' dévériner. (Voir : se tordre</LexieEntiere>
+        <Lexie><SousLexie>s' dévériner. (Voir : se tordre</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>déharnacher</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        dêsharniquer.
-      </Lexie>
+        <LexieEntiere>dêsharniquer</LexieEntiere>
+        <Lexie><SousLexie>dêsharniquer</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>déjeuner </Entrée>
         <Complément>(de midi)</Complément>
         <StructureGrammaticale>s. m. et v.</StructureGrammaticale>
-        <Lexie>
-        déner.
-      </Lexie>
+        <LexieEntiere>déner</LexieEntiere>
+        <Lexie><SousLexie>déner</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>délanger</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        défacher, défascier.
-      </Lexie>
+        <LexieEntiere>défacher, défascier</LexieEntiere>
+        <Lexie><SousLexie>défacher</SousLexie><SousLexie> défascier</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>délasser</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        dématir.
-      </Lexie>
+        <LexieEntiere>dématir</LexieEntiere>
+        <Lexie><SousLexie>dématir</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>délicat </Entrée>
         <Complément>(pour la nourriture)</Complément>
         <StructureGrammaticale>adj.</StructureGrammaticale>
-        <Lexie>
-        glout, naquetieux, pluqueséneux, pluqueux.
-      </Lexie>
+        <LexieEntiere>glout, naquetieux, pluqueséneux, pluqueux</LexieEntiere>
+        <Lexie><SousLexie>glout</SousLexie><SousLexie> naquetieux</SousLexie><SousLexie> pluqueséneux</SousLexie><SousLexie> pluqueux</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>délier</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        déloïer.
-      </Lexie>
+        <LexieEntiere>déloïer</LexieEntiere>
+        <Lexie><SousLexie>déloïer</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>démancher</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        défûter.
-      </Lexie>
+        <LexieEntiere>défûter</LexieEntiere>
+        <Lexie><SousLexie>défûter</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>demander</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        ermeuder, postuler.
-      </Lexie>
+        <LexieEntiere>ermeuder, postuler</LexieEntiere>
+        <Lexie><SousLexie>ermeuder</SousLexie><SousLexie> postuler</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>démangeaison</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        écaupissure ; avoir des démangeaisons : avoir caupi.
-      </Lexie>
+        <LexieEntiere>écaupissure ; avoir des démangeaisons : avoir caupi</LexieEntiere>
+        <Lexie><SousLexie>écaupissure </SousLexie><SousLexie> avoir des démangeaisons : avoir caupi</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>démêler</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        détouiller.
-      </Lexie>
+        <LexieEntiere>détouiller</LexieEntiere>
+        <Lexie><SousLexie>détouiller</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>déménager</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        débaguer.
-      </Lexie>
+        <LexieEntiere>débaguer</LexieEntiere>
+        <Lexie><SousLexie>débaguer</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>demeurer</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        armeurer, démorer, r' mourer.
-      </Lexie>
+        <LexieEntiere>armeurer, démorer, r' mourer</LexieEntiere>
+        <Lexie><SousLexie>armeurer</SousLexie><SousLexie> démorer</SousLexie><SousLexie> r' mourer</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>demi-journée</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        démi-jour (f).
-      </Lexie>
+        <LexieEntiere>démi-jour (f</LexieEntiere>
+        <Lexie><SousLexie>démi-jour (f</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>demoiselle</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        mammoselle.
-      </Lexie>
+        <LexieEntiere>mammoselle</LexieEntiere>
+        <Lexie><SousLexie>mammoselle</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>démolir</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        démanoquer, restapler.
-      </Lexie>
+        <LexieEntiere>démanoquer, restapler</LexieEntiere>
+        <Lexie><SousLexie>démanoquer</SousLexie><SousLexie> restapler</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>dénoncer</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        raccuser, roufionner.
-      </Lexie>
+        <LexieEntiere>raccuser, roufionner</LexieEntiere>
+        <Lexie><SousLexie>raccuser</SousLexie><SousLexie> roufionner</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>dénonciateur</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        raccusette, roufion.
-      </Lexie>
+        <LexieEntiere>raccusette, roufion</LexieEntiere>
+        <Lexie><SousLexie>raccusette</SousLexie><SousLexie> roufion</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>dent</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        dint, broque.
-      </Lexie>
+        <LexieEntiere>dint, broque</LexieEntiere>
+        <Lexie><SousLexie>dint</SousLexie><SousLexie> broque</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>dépecer</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        dépiécheter.
-      </Lexie>
+        <LexieEntiere>dépiécheter</LexieEntiere>
+        <Lexie><SousLexie>dépiécheter</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>dépense</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        coutance.
-      </Lexie>
+        <LexieEntiere>coutance</LexieEntiere>
+        <Lexie><SousLexie>coutance</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>dépiter </Entrée>
         <Complément>(faire)</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        assotir, faire rassotir ; se dépiter : dépiter.
-      </Lexie>
+        <LexieEntiere>assotir, faire rassotir ; se dépiter : dépiter</LexieEntiere>
+        <Lexie><SousLexie>assotir</SousLexie><SousLexie> faire rassotir </SousLexie><SousLexie> se dépiter : dépiter</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>déplier</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        déploïer.
-      </Lexie>
+        <LexieEntiere>déploïer</LexieEntiere>
+        <Lexie><SousLexie>déploïer</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>dépouiller</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        raspougner, raspouiller.
-      </Lexie>
+        <LexieEntiere>raspougner, raspouiller</LexieEntiere>
+        <Lexie><SousLexie>raspougner</SousLexie><SousLexie> raspouiller</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>déraciner</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        dérachéner.
-      </Lexie>
+        <LexieEntiere>dérachéner</LexieEntiere>
+        <Lexie><SousLexie>dérachéner</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>déraisonner</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        baroquer, décarocher, rafantir, rassotir, tribouler.
-      </Lexie>
+        <LexieEntiere>baroquer, décarocher, rafantir, rassotir, tribouler</LexieEntiere>
+        <Lexie><SousLexie>baroquer</SousLexie><SousLexie> décarocher</SousLexie><SousLexie> rafantir</SousLexie><SousLexie> rassotir</SousLexie><SousLexie> tribouler</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>dérive </Entrée>
         <Complément>(à la)</Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <Lexie>
-        à l' déridaine.
-      </Lexie>
+        <LexieEntiere>à l' déridaine</LexieEntiere>
+        <Lexie><SousLexie>à l' déridaine</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>derrière</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m. et adv.</StructureGrammaticale>
-        <Lexie>
-        drère, drière.
-      </Lexie>
+        <LexieEntiere>drère, drière</LexieEntiere>
+        <Lexie><SousLexie>drère</SousLexie><SousLexie> drière</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>dès</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>prép.</StructureGrammaticale>
-        <Lexie>
-        drés.
-      </Lexie>
+        <LexieEntiere>drés</LexieEntiere>
+        <Lexie><SousLexie>drés</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>désaccord</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        t'as-minti.
-      </Lexie>
+        <LexieEntiere>t'as-minti</LexieEntiere>
+        <Lexie><SousLexie>t'as-minti</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>désagréable</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>adj.</StructureGrammaticale>
-        <Lexie>
-        pas régalant.
-      </Lexie>
+        <LexieEntiere>pas régalant</LexieEntiere>
+        <Lexie><SousLexie>pas régalant</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>désarticuler</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        démolinger.
-      </Lexie>
+        <LexieEntiere>démolinger</LexieEntiere>
+        <Lexie><SousLexie>démolinger</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>descendre</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        déquindre, desquindre ; avaler.
-      </Lexie>
+        <LexieEntiere>déquindre, desquindre ; avaler</LexieEntiere>
+        <Lexie><SousLexie>déquindre</SousLexie><SousLexie> desquindre </SousLexie><SousLexie> avaler</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>descente</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        desquinderie, dévalaine.
-      </Lexie>
+        <LexieEntiere>desquinderie, dévalaine</LexieEntiere>
+        <Lexie><SousLexie>desquinderie</SousLexie><SousLexie> dévalaine</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>désembourber </Entrée>
         <Complément>(se)</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        s' dépatrouquer, s' déraquer.
-      </Lexie>
+        <LexieEntiere>s' dépatrouquer, s' déraquer</LexieEntiere>
+        <Lexie><SousLexie>s' dépatrouquer</SousLexie><SousLexie> s' déraquer</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>déserter</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        d'zarter.
-      </Lexie>
+        <LexieEntiere>d'zarter</LexieEntiere>
+        <Lexie><SousLexie>d'zarter</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>déserteur</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        d'zarteur.
-      </Lexie>
+        <LexieEntiere>d'zarteur</LexieEntiere>
+        <Lexie><SousLexie>d'zarteur</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>désespérer</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        aller à l' perdition.
-      </Lexie>
+        <LexieEntiere>aller à l' perdition</LexieEntiere>
+        <Lexie><SousLexie>aller à l' perdition</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>déshabiller</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        débiller, désharniquer, desbotter.
-      </Lexie>
+        <LexieEntiere>débiller, désharniquer, desbotter</LexieEntiere>
+        <Lexie><SousLexie>débiller</SousLexie><SousLexie> désharniquer</SousLexie><SousLexie> desbotter</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>déshériter</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        rindre bâtard.
-      </Lexie>
+        <LexieEntiere>rindre bâtard</LexieEntiere>
+        <Lexie><SousLexie>rindre bâtard</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>désolé</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>adj.</StructureGrammaticale>
-        <Lexie>
-        débauché, débibauché, défoutu, solé.
-      </Lexie>
+        <LexieEntiere>débauché, débibauché, défoutu, solé</LexieEntiere>
+        <Lexie><SousLexie>débauché</SousLexie><SousLexie> débibauché</SousLexie><SousLexie> défoutu</SousLexie><SousLexie> solé</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>désordonnée </Entrée>
         <Complément>(femme)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        Marie-cafoule, Marie-l'imblave, Mairie-toutoule, touilleuse.
-      </Lexie>
+        <LexieEntiere>Marie-cafoule, Marie-l'imblave, Mairie-toutoule, touilleuse</LexieEntiere>
+        <Lexie><SousLexie>Marie-cafoule</SousLexie><SousLexie> Marie-l'imblave</SousLexie><SousLexie> Mairie-toutoule</SousLexie><SousLexie> touilleuse</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>désordre</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        bivac, déluge, démélage, déroute, imblave, patiau, pinaque, touillage. Mettre en désordre : imberlafer, imblaver.
-      </Lexie>
+        <LexieEntiere>bivac, déluge, démélage, déroute, imblave, patiau, pinaque, touillage. Mettre en désordre : imberlafer, imblaver</LexieEntiere>
+        <Lexie><SousLexie>bivac</SousLexie><SousLexie> déluge</SousLexie><SousLexie> démélage</SousLexie><SousLexie> déroute</SousLexie><SousLexie> imblave</SousLexie><SousLexie> patiau</SousLexie><SousLexie> pinaque</SousLexie><SousLexie> touillage. Mettre en désordre : imberlafer</SousLexie><SousLexie> imblaver</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>dessécher</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        arséquer, desséquer.
-      </Lexie>
+        <LexieEntiere>arséquer, desséquer</LexieEntiere>
+        <Lexie><SousLexie>arséquer</SousLexie><SousLexie> desséquer</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>dessous</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>prép.</StructureGrammaticale>
-        <Lexie>
-        d'zous.
-      </Lexie>
+        <LexieEntiere>d'zous</LexieEntiere>
+        <Lexie><SousLexie>d'zous</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>dessus</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>prép.</StructureGrammaticale>
-        <Lexie>
-        d'zeur ; s. m. : déseur.
-      </Lexie>
+        <LexieEntiere>d'zeur ; s. m. : déseur</LexieEntiere>
+        <Lexie><SousLexie>d'zeur </SousLexie><SousLexie> s. m. : déseur</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>détortiller</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        détorténer.
-      </Lexie>
+        <LexieEntiere>détorténer</LexieEntiere>
+        <Lexie><SousLexie>détorténer</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>détour</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        contour, décatour, ratour.
-      </Lexie>
+        <LexieEntiere>contour, décatour, ratour</LexieEntiere>
+        <Lexie><SousLexie>contour</SousLexie><SousLexie> décatour</SousLexie><SousLexie> ratour</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>dévêtu</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>adj.</StructureGrammaticale>
-        <Lexie>
-        in purette, in pu l' corps, in pur l' corps, ou lé courps.
-      </Lexie>
+        <LexieEntiere>in purette, in pu l' corps, in pur l' corps, ou lé courps</LexieEntiere>
+        <Lexie><SousLexie>in purette</SousLexie><SousLexie> in pu l' corps</SousLexie><SousLexie> in pur l' corps</SousLexie><SousLexie> ou lé courps</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>dévider</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        déboulotter, débourloter, déwidier.
-      </Lexie>
+        <LexieEntiere>déboulotter, débourloter, déwidier</LexieEntiere>
+        <Lexie><SousLexie>déboulotter</SousLexie><SousLexie> débourloter</SousLexie><SousLexie> déwidier</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>deviner</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        adviner.
-      </Lexie>
+        <LexieEntiere>adviner</LexieEntiere>
+        <Lexie><SousLexie>adviner</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>devoir</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        ardévoir.
-      </Lexie>
+        <LexieEntiere>ardévoir</LexieEntiere>
+        <Lexie><SousLexie>ardévoir</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>dévorer</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        désivorer.
-      </Lexie>
+        <LexieEntiere>désivorer</LexieEntiere>
+        <Lexie><SousLexie>désivorer</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>diable</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        diale, diape.
-      </Lexie>
+        <LexieEntiere>diale, diape</LexieEntiere>
+        <Lexie><SousLexie>diale</SousLexie><SousLexie> diape</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>diarrhée</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        dévoîmint, esquite, drisse, droulle.
-      </Lexie>
+        <LexieEntiere>dévoîmint, esquite, drisse, droulle</LexieEntiere>
+        <Lexie><SousLexie>dévoîmint</SousLexie><SousLexie> esquite</SousLexie><SousLexie> drisse</SousLexie><SousLexie> droulle</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>diarrhéique</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        cul-ouvert, drouilleux.
-      </Lexie>
+        <LexieEntiere>cul-ouvert, drouilleux</LexieEntiere>
+        <Lexie><SousLexie>cul-ouvert</SousLexie><SousLexie> drouilleux</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>dicton</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        rébus.
-      </Lexie>
+        <LexieEntiere>rébus</LexieEntiere>
+        <Lexie><SousLexie>rébus</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>difficulté</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        about ; au pl. : rudes, ruses.
-      </Lexie>
+        <LexieEntiere>about ; au pl. : rudes, ruses</LexieEntiere>
+        <Lexie><SousLexie>about </SousLexie><SousLexie> au pl. : rudes</SousLexie><SousLexie> ruses</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>digue</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        rawardiau.
-      </Lexie>
+        <LexieEntiere>rawardiau</LexieEntiere>
+        <Lexie><SousLexie>rawardiau</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>diminuer </Entrée>
         <Complément>(de volume)</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        freindre, rimbourdir.
-      </Lexie>
+        <LexieEntiere>freindre, rimbourdir</LexieEntiere>
+        <Lexie><SousLexie>freindre</SousLexie><SousLexie> rimbourdir</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>dîner </Entrée>
         <Complément>(repas du soir)</Complément>
         <StructureGrammaticale>s. m. et v.</StructureGrammaticale>
-        <Lexie>
-        souper.
-      </Lexie>
+        <LexieEntiere>souper</LexieEntiere>
+        <Lexie><SousLexie>souper</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>disjoindre </Entrée>
         <Complément>(se)</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        éclire.
-      </Lexie>
+        <LexieEntiere>éclire</LexieEntiere>
+        <Lexie><SousLexie>éclire</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>disloquer</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        désisloquer.
-      </Lexie>
+        <LexieEntiere>désisloquer</LexieEntiere>
+        <Lexie><SousLexie>désisloquer</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>disperser</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        épilvauder.
-      </Lexie>
+        <LexieEntiere>épilvauder</LexieEntiere>
+        <Lexie><SousLexie>épilvauder</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>dispute</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        brette, estrive.
-      </Lexie>
+        <LexieEntiere>brette, estrive</LexieEntiere>
+        <Lexie><SousLexie>brette</SousLexie><SousLexie> estrive</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>distant </Entrée>
         <Complément>(homme)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        prélat.
-      </Lexie>
+        <LexieEntiere>prélat</LexieEntiere>
+        <Lexie><SousLexie>prélat</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>divaguer</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-         (voir : déraisonner).
-      </Lexie>
+        <LexieEntiere> (voir : déraisonner</LexieEntiere>
+        <Lexie><SousLexie> (voir : déraisonner</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>divertir </Entrée>
         <Complément>(se)</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        s' désinnuir, s' dévertir.
-      </Lexie>
+        <LexieEntiere>s' désinnuir, s' dévertir</LexieEntiere>
+        <Lexie><SousLexie>s' désinnuir</SousLexie><SousLexie> s' dévertir</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>diviser </Entrée>
         <Complément>(un plant)</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        déchoqueter.
-      </Lexie>
+        <LexieEntiere>déchoqueter</LexieEntiere>
+        <Lexie><SousLexie>déchoqueter</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>dodo </Entrée>
         <Complément>(faire)</Complément>
         <StructureGrammaticale>loc. v.</StructureGrammaticale>
-        <Lexie>
-        faire nanan.
-      </Lexie>
+        <LexieEntiere>faire nanan</LexieEntiere>
+        <Lexie><SousLexie>faire nanan</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>doigt</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        dogt.
-      </Lexie>
+        <LexieEntiere>dogt</LexieEntiere>
+        <Lexie><SousLexie>dogt</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>dominer </Entrée>
         <Complément>(se)</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-         ; s'affranchir.
-      </Lexie>
+        <LexieEntiere> ; s'affranchir</LexieEntiere>
+        <Lexie><SousLexie> </SousLexie><SousLexie> s'affranchir</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>dommage</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        damage.
-      </Lexie>
+        <LexieEntiere>damage</LexieEntiere>
+        <Lexie><SousLexie>damage</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>dorloter</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        amicloter.
-      </Lexie>
+        <LexieEntiere>amicloter</LexieEntiere>
+        <Lexie><SousLexie>amicloter</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>dos d</Entrée>
+        <Entrée>dos d'âne</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <Lexie>
-        'âne, s. m. : dodenne.
-      </Lexie>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <LexieEntiere>dodenne</LexieEntiere>
+        <Lexie><SousLexie>dodenne</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>douanier</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        donier.
-      </Lexie>
+        <LexieEntiere>donier</LexieEntiere>
+        <Lexie><SousLexie>donier</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>douillet</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>adj.</StructureGrammaticale>
-        <Lexie>
-        dolate, nunu.
-      </Lexie>
+        <LexieEntiere>dolate, nunu</LexieEntiere>
+        <Lexie><SousLexie>dolate</SousLexie><SousLexie> nunu</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>douloureux</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>adj.</StructureGrammaticale>
-        <Lexie>
-        doreux.
-      </Lexie>
+        <LexieEntiere>doreux</LexieEntiere>
+        <Lexie><SousLexie>doreux</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>doux </Entrée>
         <Complément>(homme)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        Jacques à l' tarte.
-      </Lexie>
+        <LexieEntiere>Jacques à l' tarte</LexieEntiere>
+        <Lexie><SousLexie>Jacques à l' tarte</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>dragée</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        pos d' chuque.
-      </Lexie>
+        <LexieEntiere>pos d' chuque</LexieEntiere>
+        <Lexie><SousLexie>pos d' chuque</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>drap </Entrée>
         <Complément>(de lit)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        linchué.
-      </Lexie>
+        <LexieEntiere>linchué</LexieEntiere>
+        <Lexie><SousLexie>linchué</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>drèche</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        draque.
-      </Lexie>
+        <LexieEntiere>draque</LexieEntiere>
+        <Lexie><SousLexie>draque</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>dresser</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-         dercher ; se dresser : arbiquer, biquer, s'ardercher, s'esplanter.
-      </Lexie>
+        <LexieEntiere> dercher ; se dresser : arbiquer, biquer, s'ardercher, s'esplanter</LexieEntiere>
+        <Lexie><SousLexie> dercher </SousLexie><SousLexie> se dresser : arbiquer</SousLexie><SousLexie> biquer</SousLexie><SousLexie> s'ardercher</SousLexie><SousLexie> s'esplanter</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>dressoir</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        drèche.
-      </Lexie>
+        <LexieEntiere>drèche</LexieEntiere>
+        <Lexie><SousLexie>drèche</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>droit</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>adj.</StructureGrammaticale>
-        <Lexie>
-        drot.
-      </Lexie>
+        <LexieEntiere>drot</LexieEntiere>
+        <Lexie><SousLexie>drot</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>drôlement</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>adv.</StructureGrammaticale>
-        <Lexie>
-        drôldémint.
-      </Lexie>
+        <LexieEntiere>drôldémint</LexieEntiere>
+        <Lexie><SousLexie>drôldémint</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>duper</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        berluser.
-      </Lexie>
+        <LexieEntiere>berluser</LexieEntiere>
+        <Lexie><SousLexie>berluser</SousLexie></Lexie>
       </ArticleDeDictionnaire>
       </Nomenclature>

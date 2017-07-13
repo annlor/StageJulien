@@ -4,190 +4,163 @@
         <Entrée>ici</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>adv.</StructureGrammaticale>
-        <Lexie>
-        chi, douchi, drochi, drouchi, ichi.
-      </Lexie>
+        <LexieEntiere>chi, douchi, drochi, drouchi, ichi</LexieEntiere>
+        <Lexie><SousLexie>chi</SousLexie><SousLexie> douchi</SousLexie><SousLexie> drochi</SousLexie><SousLexie> drouchi</SousLexie><SousLexie> ichi</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>imbécile</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        aploute (happe-loute), babin, badelot, baïou, béda, bièque-bos, colas, glaute, manonon, ornébot, papart.
-      </Lexie>
+        <LexieEntiere>aploute (happe-loute), babin, badelot, baïou, béda, bièque-bos, colas, glaute, manonon, ornébot, papart</LexieEntiere>
+        <Lexie><SousLexie>aploute (happe-loute)</SousLexie><SousLexie> babin</SousLexie><SousLexie> badelot</SousLexie><SousLexie> baïou</SousLexie><SousLexie> béda</SousLexie><SousLexie> bièque-bos</SousLexie><SousLexie> colas</SousLexie><SousLexie> glaute</SousLexie><SousLexie> manonon</SousLexie><SousLexie> ornébot</SousLexie><SousLexie> papart</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>imbroglio</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        imbrodio.
-      </Lexie>
+        <LexieEntiere>imbrodio</LexieEntiere>
+        <Lexie><SousLexie>imbrodio</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>inactif </Entrée>
         <Complément>(être)</Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <Lexie>
-        joquer.
-      </Lexie>
+        <LexieEntiere>joquer</LexieEntiere>
+        <Lexie><SousLexie>joquer</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>incendiaire</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        metteux d' feu.
-      </Lexie>
+        <LexieEntiere>metteux d' feu</LexieEntiere>
+        <Lexie><SousLexie>metteux d' feu</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>incliner </Entrée>
         <Complément>(manque d'aplomb)</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        cléner.
-      </Lexie>
+        <LexieEntiere>cléner</LexieEntiere>
+        <Lexie><SousLexie>cléner</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>incommode</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>adj.</StructureGrammaticale>
-        <Lexie>
-        mal commode.
-      </Lexie>
+        <LexieEntiere>mal commode</LexieEntiere>
+        <Lexie><SousLexie>mal commode</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>inculte </Entrée>
         <Complément>(terre)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        sars, sart. (Voir : friche, jachère).
-      </Lexie>
+        <LexieEntiere>sars, sart. (Voir : friche, jachère</LexieEntiere>
+        <Lexie><SousLexie>sars</SousLexie><SousLexie> sart. (Voir : friche</SousLexie><SousLexie> jachère</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>index </Entrée>
         <Complément>(doigt)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        Jean-laridé.
-      </Lexie>
+        <LexieEntiere>Jean-laridé</LexieEntiere>
+        <Lexie><SousLexie>Jean-laridé</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>indiscret</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m. et adj.</StructureGrammaticale>
-        <Lexie>
-        mêle-tout, métreux.
-      </Lexie>
+        <LexieEntiere>mêle-tout, métreux</LexieEntiere>
+        <Lexie><SousLexie>mêle-tout</SousLexie><SousLexie> métreux</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>indisposé</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>adj.</StructureGrammaticale>
-        <Lexie>
-        fayeux.
-      </Lexie>
+        <LexieEntiere>fayeux</LexieEntiere>
+        <Lexie><SousLexie>fayeux</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>indocile</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>adj.</StructureGrammaticale>
-        <Lexie>
-        mal aisile.
-      </Lexie>
+        <LexieEntiere>mal aisile</LexieEntiere>
+        <Lexie><SousLexie>mal aisile</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>infatigable </Entrée>
         <Complément>(femme)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        archelle, sara.
-      </Lexie>
+        <LexieEntiere>archelle, sara</LexieEntiere>
+        <Lexie><SousLexie>archelle</SousLexie><SousLexie> sara</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>infirme</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        affligé.
-      </Lexie>
+        <LexieEntiere>affligé</LexieEntiere>
+        <Lexie><SousLexie>affligé</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>inflorescence</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        poquet.
-      </Lexie>
+        <LexieEntiere>poquet</LexieEntiere>
+        <Lexie><SousLexie>poquet</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>innocent </Entrée>
         <Complément>(simplet)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        innochint, ninoche.
-      </Lexie>
+        <LexieEntiere>innochint, ninoche</LexieEntiere>
+        <Lexie><SousLexie>innochint</SousLexie><SousLexie> ninoche</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>inquiéter </Entrée>
         <Complément>(s')</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        s' marmouser, s' trimousser.
-      </Lexie>
+        <LexieEntiere>s' marmouser, s' trimousser</LexieEntiere>
+        <Lexie><SousLexie>s' marmouser</SousLexie><SousLexie> s' trimousser</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>insérer </Entrée>
         <Complément>(s')</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        s'incerner.
-      </Lexie>
+        <LexieEntiere>s'incerner</LexieEntiere>
+        <Lexie><SousLexie>s'incerner</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>inspecteur</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        esward, reward (vx).
-      </Lexie>
+        <LexieEntiere>esward, reward (vx</LexieEntiere>
+        <Lexie><SousLexie>esward</SousLexie><SousLexie> reward (vx</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>instable </Entrée>
         <Complément>(être en équilibre)</Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <Lexie>
-        marchander.
-      </Lexie>
+        <LexieEntiere>marchander</LexieEntiere>
+        <Lexie><SousLexie>marchander</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>insulter</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        traiter.
-      </Lexie>
+        <LexieEntiere>traiter</LexieEntiere>
+        <Lexie><SousLexie>traiter</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>insupportable</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>adj.</StructureGrammaticale>
-        <Lexie>
-        insipite ; être insupportable : passer l' diape.
-      </Lexie>
+        <LexieEntiere>insipite ; être insupportable : passer l' diape</LexieEntiere>
+        <Lexie><SousLexie>insipite </SousLexie><SousLexie> être insupportable : passer l' diape</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>intelligence</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        comperdo, comperdure.
-      </Lexie>
+        <LexieEntiere>comperdo, comperdure</LexieEntiere>
+        <Lexie><SousLexie>comperdo</SousLexie><SousLexie> comperdure</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>intervalle</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        interdeux.
-      </Lexie>
+        <LexieEntiere>interdeux</LexieEntiere>
+        <Lexie><SousLexie>interdeux</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>intestin </Entrée>
         <Complément>(gros)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        cras-boïau, maît'-boïau.
-      </Lexie>
+        <LexieEntiere>cras-boïau, maît'-boïau</LexieEntiere>
+        <Lexie><SousLexie>cras-boïau</SousLexie><SousLexie> maît'-boïau</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>iris faux-acore</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        bié.
-      </Lexie>
+        <LexieEntiere>bié</LexieEntiere>
+        <Lexie><SousLexie>bié</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>ivre</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>adj.</StructureGrammaticale>
-        <Lexie>
-        bersaique, quervé, roste, rousti ; ivre-mort : mortousse, mort-z'ije ; être ivre : êt' quervé, êt' inrosté, avoir es pronne, avoir es peun' tierre, avoir el vint dins l' dos.
-      </Lexie>
+        <LexieEntiere>bersaique, quervé, roste, rousti ; ivre-mort : mortousse, mort-z'ije ; être ivre : êt' quervé, êt' inrosté, avoir es pronne, avoir es peun' tierre, avoir el vint dins l' dos</LexieEntiere>
+        <Lexie><SousLexie>bersaique</SousLexie><SousLexie> quervé</SousLexie><SousLexie> roste</SousLexie><SousLexie> rousti </SousLexie><SousLexie> ivre-mort : mortousse</SousLexie><SousLexie> mort-z'ije </SousLexie><SousLexie> être ivre : êt' quervé</SousLexie><SousLexie> êt' inrosté</SousLexie><SousLexie> avoir es pronne</SousLexie><SousLexie> avoir es peun' tierre</SousLexie><SousLexie> avoir el vint dins l' dos</SousLexie></Lexie>
       </ArticleDeDictionnaire>
       </Nomenclature>

@@ -4,260 +4,223 @@
         <Entrée>objet </Entrée>
         <Complément>(indéfini)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        agobile, argal, saquoi, séquoi.
-      </Lexie>
+        <LexieEntiere>agobile, argal, saquoi, séquoi</LexieEntiere>
+        <Lexie><SousLexie>agobile</SousLexie><SousLexie> argal</SousLexie><SousLexie> saquoi</SousLexie><SousLexie> séquoi</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>obligation</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        obligeance.
-      </Lexie>
+        <LexieEntiere>obligeance</LexieEntiere>
+        <Lexie><SousLexie>obligeance</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>obscurcir</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        rimbreunir.
-      </Lexie>
+        <LexieEntiere>rimbreunir</LexieEntiere>
+        <Lexie><SousLexie>rimbreunir</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>obscurité</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        noirté.
-      </Lexie>
+        <LexieEntiere>noirté</LexieEntiere>
+        <Lexie><SousLexie>noirté</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>obtenir</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        ravoir.
-      </Lexie>
+        <LexieEntiere>ravoir</LexieEntiere>
+        <Lexie><SousLexie>ravoir</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>odeur</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        flair, sintimint.
-      </Lexie>
+        <LexieEntiere>flair, sintimint</LexieEntiere>
+        <Lexie><SousLexie>flair</SousLexie><SousLexie> sintimint</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>odorat</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        naque.
-      </Lexie>
+        <LexieEntiere>naque</LexieEntiere>
+        <Lexie><SousLexie>naque</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>oeillet des </Entrée>
         <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <Lexie>
-        Chartreux, s. m. : erbut.
-      </Lexie>
+        <LexieEntiere>Chartreux, s. m. : erbut</LexieEntiere>
+        <Lexie><SousLexie>Chartreux</SousLexie><SousLexie> s. m. : erbut</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>oeuf</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        codac (enf.), uef.
-      </Lexie>
+        <LexieEntiere>codac (enf.), uef</LexieEntiere>
+        <Lexie><SousLexie>codac (enf.)</SousLexie><SousLexie> uef</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>offrir</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        offerre.
-      </Lexie>
+        <LexieEntiere>offerre</LexieEntiere>
+        <Lexie><SousLexie>offerre</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>oh la la </Entrée>
         <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <Lexie>
-        !, excl. : iou-iou !, aïe-aïe-aïe !, bin ch'est bon !
-      </Lexie>
+        <LexieEntiere>!, excl. : iou-iou !, aïe-aïe-aïe !, bin ch'est bon !</LexieEntiere>
+        <Lexie><SousLexie>!</SousLexie><SousLexie> excl. : iou-iou !</SousLexie><SousLexie> aïe-aïe-aïe !</SousLexie><SousLexie> bin ch'est bon !</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>oie</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        oson.
-      </Lexie>
+        <LexieEntiere>oson</LexieEntiere>
+        <Lexie><SousLexie>oson</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>oiseau</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        osiau.
-      </Lexie>
+        <LexieEntiere>osiau</LexieEntiere>
+        <Lexie><SousLexie>osiau</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>omelette</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        amelette (vx).
-      </Lexie>
+        <LexieEntiere>amelette (vx</LexieEntiere>
+        <Lexie><SousLexie>amelette (vx</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>oncle</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        mononque.
-      </Lexie>
+        <LexieEntiere>mononque</LexieEntiere>
+        <Lexie><SousLexie>mononque</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>onglée</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        piquettes.
-      </Lexie>
+        <LexieEntiere>piquettes</LexieEntiere>
+        <Lexie><SousLexie>piquettes</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>orageux</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>adj.</StructureGrammaticale>
-        <Lexie>
-        hernu.
-      </Lexie>
+        <LexieEntiere>hernu</LexieEntiere>
+        <Lexie><SousLexie>hernu</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>orgueilleux</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        faiseux d'imbarras, fier-cul, prélat, roda.
-      </Lexie>
+        <LexieEntiere>faiseux d'imbarras, fier-cul, prélat, roda</LexieEntiere>
+        <Lexie><SousLexie>faiseux d'imbarras</SousLexie><SousLexie> fier-cul</SousLexie><SousLexie> prélat</SousLexie><SousLexie> roda</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>orme</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        ourme, ourmieux.
-      </Lexie>
+        <LexieEntiere>ourme, ourmieux</LexieEntiere>
+        <Lexie><SousLexie>ourme</SousLexie><SousLexie> ourmieux</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>ornière</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        fondaque, ringuion.
-      </Lexie>
+        <LexieEntiere>fondaque, ringuion</LexieEntiere>
+        <Lexie><SousLexie>fondaque</SousLexie><SousLexie> ringuion</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>orteil</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        artoile, ortoil.
-      </Lexie>
+        <LexieEntiere>artoile, ortoil</LexieEntiere>
+        <Lexie><SousLexie>artoile</SousLexie><SousLexie> ortoil</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>ortie</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        ortile.
-      </Lexie>
+        <LexieEntiere>ortile</LexieEntiere>
+        <Lexie><SousLexie>ortile</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>orvet s</Entrée>
         <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <Lexie>
-        . m. : quaterpièches.
-      </Lexie>
+        <LexieEntiere></LexieEntiere>
+        
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>os</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        ossiau.
-      </Lexie>
+        <LexieEntiere>ossiau</LexieEntiere>
+        <Lexie><SousLexie>ossiau</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>osciller</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        alloter, berloquer, brandeler (voir : secouer).
-      </Lexie>
+        <LexieEntiere>alloter, berloquer, brandeler (voir : secouer</LexieEntiere>
+        <Lexie><SousLexie>alloter</SousLexie><SousLexie> berloquer</SousLexie><SousLexie> brandeler (voir : secouer</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>oser</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        onsoir, osoir. Part. pas. : osu.
-      </Lexie>
+        <LexieEntiere>onsoir, osoir. Part. pas. : osu</LexieEntiere>
+        <Lexie><SousLexie>onsoir</SousLexie><SousLexie> osoir. Part. pas. : osu</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>osier</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        archelle, billette.
-      </Lexie>
+        <LexieEntiere>archelle, billette</LexieEntiere>
+        <Lexie><SousLexie>archelle</SousLexie><SousLexie> billette</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>ou</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>conj. de coord.</StructureGrammaticale>
-        <Lexie>
-        o bin.
-      </Lexie>
+        <LexieEntiere>o bin</LexieEntiere>
+        <Lexie><SousLexie>o bin</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>où</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>pr. rel. et conj. de sub.</StructureGrammaticale>
-        <Lexie>
-        aduss, duss, d'ù, eduss, ù.
-      </Lexie>
+        <LexieEntiere>aduss, duss, d'ù, eduss, ù</LexieEntiere>
+        <Lexie><SousLexie>aduss</SousLexie><SousLexie> duss</SousLexie><SousLexie> d'ù</SousLexie><SousLexie> eduss</SousLexie><SousLexie> ù</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>oublier</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        oblier.
-      </Lexie>
+        <LexieEntiere>oblier</LexieEntiere>
+        <Lexie><SousLexie>oblier</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>oui</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>adv.</StructureGrammaticale>
-        <Lexie>
-        awi, awai, in.hé, si fait.
-      </Lexie>
+        <LexieEntiere>awi, awai, in.hé, si fait</LexieEntiere>
+        <Lexie><SousLexie>awi</SousLexie><SousLexie> awai</SousLexie><SousLexie> in.hé</SousLexie><SousLexie> si fait</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>ourlet</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        bondi.
-      </Lexie>
+        <LexieEntiere>bondi</LexieEntiere>
+        <Lexie><SousLexie>bondi</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>ourse </Entrée>
         <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <Lexie>
-        ; ensemble de la Grande et de la Petite Ourse : argouché.
-      </Lexie>
+        <LexieEntiere></LexieEntiere>
+        
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>outil</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        otieu ; (hors d'usage) arnielle ; (improvisé) arna.
-      </Lexie>
+        <LexieEntiere>otieu ; (hors d'usage) arnielle ; (improvisé) arna</LexieEntiere>
+        <Lexie><SousLexie>otieu </SousLexie><SousLexie> (hors d'usage) arnielle </SousLexie><SousLexie> (improvisé) arna</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>outre</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>prép. et adv.</StructureGrammaticale>
-        <Lexie>
-        oute, éoute.
-      </Lexie>
+        <LexieEntiere>oute, éoute</LexieEntiere>
+        <Lexie><SousLexie>oute</SousLexie><SousLexie> éoute</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>ouvrier</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        ouverrier ; (agricole) varlet ; (d'usine) usinier ; (mauvais) abloqueux, albran. (Voir : valet).
-      </Lexie>
+        <LexieEntiere>ouverrier ; (agricole) varlet ; (d'usine) usinier ; (mauvais) abloqueux, albran. (Voir : valet</LexieEntiere>
+        <Lexie><SousLexie>ouverrier </SousLexie><SousLexie> (agricole) varlet </SousLexie><SousLexie> (d'usine) usinier </SousLexie><SousLexie> (mauvais) abloqueux</SousLexie><SousLexie> albran. (Voir : valet</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>ouvrir</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        défiquer, ouverre.
-      </Lexie>
+        <LexieEntiere>défiquer, ouverre</LexieEntiere>
+        <Lexie><SousLexie>défiquer</SousLexie><SousLexie> ouverre</SousLexie></Lexie>
       </ArticleDeDictionnaire>
       </Nomenclature>

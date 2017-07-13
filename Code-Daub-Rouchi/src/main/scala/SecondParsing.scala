@@ -22,23 +22,28 @@ class SecondParsing {
   def Parser2(str: String): TraductionFrançaise = {
     val UP = new UnitParser()
 
-    val MotFrançais = P(UP.LowerCaseLetter.!)
+    val MotFrançais = P(UP.LowerCaseLetter.rep(sep = "'").!)
     val ComplementMot = P(("(" ~ "'".? ~ UP.LowerCaseLetter.rep(sep = "'") ~ "'".? ~ ")").!)
 
-    val DeuxiemeParser = P(MotFrançais.! ~ " ".? ~ ComplementMot.!.?
-      ~ ", ".? ~ UP.Abreviation.?.! ~ " : ".? ~ UP.PoncDefinitions.!.rep)
+    val DeuxiemeParser: Parser[(String,Option[String],String,Seq[String])] = P(MotFrançais.! ~ " ".? ~ ComplementMot.!.?
+      ~ ", ".? ~ UP.Abreviation.?.! ~ " : ".? ~ UP.Definitions.!.rep)
+
+
+
 
     DeuxiemeParser.parse(str) match {
       case Parsed.Success(("", _, _, _), _) =>
-        TraductionFrançaise("", None, "", Seq(""))
+        TraductionFrançaise("", None, "", Seq(Seq("")), Seq(""))
       case Parsed.Success((str1: String, str2: Option[String], str3: String, seq: Seq[String]), _) =>
-        TraductionFrançaise(str1, str2, str3, seq)
+        TraductionFrançaise(str1, str2, str3, for (elements <- seq) yield {
+          elements.split("[,;]").toSeq
+        },seq)
 
       case f: Parsed.Failure =>
-        TraductionFrançaise(s"Failure $str \n ${f.extra.traced.trace}", None, s"${f.index}", Seq(""))
+        TraductionFrançaise(s"Failure $str \n ${f.extra.traced.trace}", None, s"${f.index}", Seq(Seq("")), Seq(""))
 
       case Parsed.Success(_, _) =>
-        TraductionFrançaise("Error",None, "", Seq(""))
+        TraductionFrançaise("Error",None, "", Seq(Seq("")), Seq(""))
     }
   }
 
@@ -46,11 +51,11 @@ class SecondParsing {
 
 
 
-object Demo2 {
+object SecondParsing {
 
 
   def main(args: Array[String]): Unit = {
-
+/*/people/khamphousone/Documents/Dictionnaires/daub_rouchi_197S_CU.txt*/
     println("Entrez le chemin du dictionnaire Dauby Rouchi")
     val path = scala.io.StdIn.readLine()
     val buff: Source = Source.fromFile(path)
@@ -68,7 +73,8 @@ object Demo2 {
       val listTrad = for (trad <- liste2 if
       List(s"$elements", s"* $elements").exists(trad.mot.startsWith)) yield {
 
-            val Traduction = new tradtoxml.Trad2(trad.mot, trad.complement, trad.abreviation, trad.traduction)
+            val Traduction = new tradtoxml.Trad2(trad.mot, trad.complement,
+              trad.abreviation, trad.traduction, trad.lexie)
             Traduction.toXml
 
 
@@ -81,6 +87,7 @@ object Demo2 {
       dir.mkdir
       XML.save(s"./XMLSecondParser/$elements", listXml, "utf-8", true, null)
     }
+    println("SecondParsing.scala DONE")
   }
 }
 

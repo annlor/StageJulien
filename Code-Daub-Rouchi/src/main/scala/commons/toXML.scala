@@ -26,14 +26,26 @@ class toXML {
       </ArticleDeDictionnaire>
 
   }
-  class Trad2(mot : String, complement : Option[String], abreviation : String, traduction : Seq[String]) {
+  class Trad2(mot : String, complement : Option[String]
+              , abreviation : String, traduction : Seq[Seq[String]]
+              , lexie : Seq[String]) {
+
+    def DoubleSeqtoXml(doubleseq: Seq[Seq[String]]): Seq[Elem] = {
+      for (elements <- doubleseq) yield {
+        <Lexie>{for (finalelements <- elements) yield {
+          <SousLexie>{finalelements}</SousLexie>
+        }
+      }</Lexie>}
+
+    }
 
     def toXml : Elem =
       <ArticleDeDictionnaire>
         <Entrée>{mot}</Entrée>
         <Complément>{complement.getOrElse("")}</Complément>
         <StructureGrammaticale>{abreviation}</StructureGrammaticale>
-        {SeqtoXml(traduction)}
+        <LexieEntiere>{lexie}</LexieEntiere>
+        {DoubleSeqtoXml(traduction)}
       </ArticleDeDictionnaire>
 
   }

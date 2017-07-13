@@ -1,0 +1,475 @@
+<http://restaure.limsi.fr/demo/rdf/le_72>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_appui> .
+
+<http://restaure.limsi.fr/demo/rdf/le_44>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_ainsi> .
+
+<http://restaure.limsi.fr/demo/rdf/le_16>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_accueillir> .
+
+<http://restaure.limsi.fr/demo/rdf/le_85>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_arriver > .
+
+<http://restaure.limsi.fr/demo/rdf/le_105>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_audacieux> .
+
+<http://restaure.limsi.fr/demo/rdf/le_57>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_ampoule > .
+
+<http://restaure.limsi.fr/demo/rdf/le_29>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_affectueusement> .
+
+<http://restaure.limsi.fr/demo/rdf/le_98>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_attarder > .
+
+<http://restaure.limsi.fr/demo/rdf/le_118>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_avis> .
+
+<http://restaure.limsi.fr/demo/rdf/le_10>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_abrité > .
+
+<http://restaure.limsi.fr/demo/rdf/le_6>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_aboyer> .
+
+<http://restaure.limsi.fr/demo/rdf/le_51>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_alors> .
+
+<http://restaure.limsi.fr/demo/rdf/le_23>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_aération> .
+
+<http://restaure.limsi.fr/demo/rdf/le_92>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_assoiffé > .
+
+<http://restaure.limsi.fr/demo/rdf/le_112>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_autrefois> .
+
+<http://restaure.limsi.fr/demo/rdf/le_64>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_anguille> .
+
+<http://restaure.limsi.fr/demo/rdf/le_36>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_agrostis> .
+
+<http://restaure.limsi.fr/demo/rdf/le_77>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_argent > .
+
+<http://restaure.limsi.fr/demo/rdf/le_49>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_allumette> .
+
+<http://restaure.limsi.fr/demo/rdf/le_30>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_affiquet> .
+
+<http://restaure.limsi.fr/demo/rdf/le_71>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_approfondir > .
+
+<http://restaure.limsi.fr/demo/rdf/le_43>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_aimer> .
+
+<http://restaure.limsi.fr/demo/rdf/le_15>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_accroupir > .
+
+<http://restaure.limsi.fr/demo/rdf/le_84>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_arrière-grand-mère> .
+
+<http://restaure.limsi.fr/demo/rdf/le_104>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_audace> .
+
+<http://restaure.limsi.fr/demo/rdf/le_56>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_amour > .
+
+<http://restaure.limsi.fr/demo/rdf/le_28>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_affectueux> .
+
+<http://restaure.limsi.fr/demo/rdf/le_97>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_attacher> .
+
+<http://restaure.limsi.fr/demo/rdf/le_117>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_aveugle> .
+
+<http://restaure.limsi.fr/demo/rdf/le_69>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_appentis> .
+
+<http://restaure.limsi.fr/demo/rdf/le_5>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_aboulique> .
+
+<http://restaure.limsi.fr/demo/rdf/le_50>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_almanach> .
+
+<http://restaure.limsi.fr/demo/rdf/le_22>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_adroit> .
+
+<http://restaure.limsi.fr/demo/rdf/le_91>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_asseoir > .
+
+<http://restaure.limsi.fr/demo/rdf/le_111>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_aussi> .
+
+<http://restaure.limsi.fr/demo/rdf/le_63>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_angine> .
+
+<http://restaure.limsi.fr/demo/rdf/le_35>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_agneau> .
+
+<http://restaure.limsi.fr/demo/rdf/le_76>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_arête > .
+
+<http://restaure.limsi.fr/demo/rdf/le_48>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_alliaire> .
+
+<http://restaure.limsi.fr/demo/rdf/le_89>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_assemblage à mi-bois> .
+
+<http://restaure.limsi.fr/demo/rdf/le_109>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_aumône> .
+
+<http://restaure.limsi.fr/demo/rdf/le_70>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_apprenti> .
+
+<http://restaure.limsi.fr/demo/rdf/le_42>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_aiguiser> .
+
+<http://restaure.limsi.fr/demo/rdf/le_14>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_accrocher> .
+
+<http://restaure.limsi.fr/demo/rdf/le_83>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_arrière-grand-père> .
+
+<http://restaure.limsi.fr/demo/rdf/le_103>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_aube> .
+
+<http://restaure.limsi.fr/demo/rdf/le_55>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_amis> .
+
+<http://restaure.limsi.fr/demo/rdf/le_27>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_affamé > .
+
+<http://restaure.limsi.fr/demo/rdf/le_96>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_assurément> .
+
+<http://restaure.limsi.fr/demo/rdf/le_116>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_averse> .
+
+<http://restaure.limsi.fr/demo/rdf/le_68>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_appendicite> .
+
+<http://restaure.limsi.fr/demo/rdf/le_4>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_ablette> .
+
+<http://restaure.limsi.fr/demo/rdf/le_21>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_adresser> .
+
+<http://restaure.limsi.fr/demo/rdf/le_90>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_assembler> .
+
+<http://restaure.limsi.fr/demo/rdf/le_110>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_aunée> .
+
+<http://restaure.limsi.fr/demo/rdf/le_62>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_angélique> .
+
+<http://restaure.limsi.fr/demo/rdf/le_34>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_agité > .
+
+<http://restaure.limsi.fr/demo/rdf/le_75>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_arbre> .
+
+<http://restaure.limsi.fr/demo/rdf/le_47>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_aller> .
+
+<http://restaure.limsi.fr/demo/rdf/le_19>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_acheteur> .
+
+<http://restaure.limsi.fr/demo/rdf/le_88>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_assassin> .
+
+<http://restaure.limsi.fr/demo/rdf/le_108>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_aulne> .
+
+<http://restaure.limsi.fr/demo/rdf/le_41>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_aiguillon> .
+
+<http://restaure.limsi.fr/demo/rdf/le_13>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_accoutrer> .
+
+<http://restaure.limsi.fr/demo/rdf/le_9>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_abri > .
+
+<http://restaure.limsi.fr/demo/rdf/le_82>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_arrérages> .
+
+<http://restaure.limsi.fr/demo/rdf/le_102>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_attraper> .
+
+<http://restaure.limsi.fr/demo/rdf/le_54>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_amie> .
+
+<http://restaure.limsi.fr/demo/rdf/le_26>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_affalé> .
+
+<http://restaure.limsi.fr/demo/rdf/le_95>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_assoupir > .
+
+<http://restaure.limsi.fr/demo/rdf/le_115>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_avenue> .
+
+<http://restaure.limsi.fr/demo/rdf/le_67>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_apparence> .
+
+<http://restaure.limsi.fr/demo/rdf/le_39>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_aider> .
+
+<http://restaure.limsi.fr/demo/rdf/le_3>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_abécédaire> .
+
+<http://restaure.limsi.fr/demo/rdf/le_20>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_adonis> .
+
+<http://restaure.limsi.fr/demo/rdf/le_61>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_anémie> .
+
+<http://restaure.limsi.fr/demo/rdf/le_33>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_agité> .
+
+<http://restaure.limsi.fr/demo/rdf/le_74>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_arabesques > .
+
+<http://restaure.limsi.fr/demo/rdf/le_46>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_aisé > .
+
+<http://restaure.limsi.fr/demo/rdf/le_18>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_acheter> .
+
+<http://restaure.limsi.fr/demo/rdf/le_87>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_arrogant> .
+
+<http://restaure.limsi.fr/demo/rdf/le_107>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_augmenter> .
+
+<http://restaure.limsi.fr/demo/rdf/le_59>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_amusette> .
+
+<http://restaure.limsi.fr/demo/rdf/le_40>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_aiguille> .
+
+<http://restaure.limsi.fr/demo/rdf/le_12>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_accablé> .
+
+<http://restaure.limsi.fr/demo/rdf/le_8>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_abreuvoir> .
+
+<http://restaure.limsi.fr/demo/rdf/le_81>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_armoise> .
+
+<http://restaure.limsi.fr/demo/rdf/le_101>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_attendrir> .
+
+<http://restaure.limsi.fr/demo/rdf/le_53>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_ameublir > .
+
+<http://restaure.limsi.fr/demo/rdf/le_25>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_affaissement> .
+
+<http://restaure.limsi.fr/demo/rdf/le_94>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_assorti> .
+
+<http://restaure.limsi.fr/demo/rdf/le_114>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_avare> .
+
+<http://restaure.limsi.fr/demo/rdf/le_66>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_apaiser> .
+
+<http://restaure.limsi.fr/demo/rdf/le_38>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_aide> .
+
+<http://restaure.limsi.fr/demo/rdf/le_79>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_armistice> .
+
+<http://restaure.limsi.fr/demo/rdf/le_2>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_abattu> .
+
+<http://restaure.limsi.fr/demo/rdf/le_60>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_andain> .
+
+<http://restaure.limsi.fr/demo/rdf/le_32>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_agenouiller > .
+
+<http://restaure.limsi.fr/demo/rdf/le_73>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_arabe> .
+
+<http://restaure.limsi.fr/demo/rdf/le_45>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_aisé> .
+
+<http://restaure.limsi.fr/demo/rdf/le_17>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_acharner > .
+
+<http://restaure.limsi.fr/demo/rdf/le_86>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_arroche> .
+
+<http://restaure.limsi.fr/demo/rdf/le_106>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_augmentation> .
+
+<http://restaure.limsi.fr/demo/rdf/le_58>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_amuser > .
+
+<http://restaure.limsi.fr/demo/rdf/le_99>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_atteindre > .
+
+<http://restaure.limsi.fr/demo/rdf/le_119>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_avoine> .
+
+<http://restaure.limsi.fr/demo/rdf/le_11>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_acariâtre > .
+
+<http://restaure.limsi.fr/demo/rdf/le_7>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_abreuver> .
+
+<http://restaure.limsi.fr/demo/rdf/le_80>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_armoire> .
+
+<http://restaure.limsi.fr/demo/rdf/le_100>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_attelage> .
+
+<http://restaure.limsi.fr/demo/rdf/le_52>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_amadouer> .
+
+<http://restaure.limsi.fr/demo/rdf/le_24>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_affaiblir > .
+
+<http://restaure.limsi.fr/demo/rdf/le_93>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_assolement > .
+
+<http://restaure.limsi.fr/demo/rdf/le_113>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_autrement> .
+
+<http://restaure.limsi.fr/demo/rdf/le_65>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_animation> .
+
+<http://restaure.limsi.fr/demo/rdf/le_37>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_ahuri> .
+
+<http://restaure.limsi.fr/demo/rdf/le_78>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_argile> .
+
+<http://restaure.limsi.fr/demo/rdf/le_1>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_abaisser> .
+
+<http://restaure.limsi.fr/demo/rdf/le_31>
+        <http://www.w3.org/ns/lemon/ontolex#lexicalForm>
+                <http://restaure.limsi.fr/demo/rdf/le_agencements > .

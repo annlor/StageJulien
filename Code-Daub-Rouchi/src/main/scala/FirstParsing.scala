@@ -64,13 +64,12 @@ class FirstParsing {
 }
 
 
-object Demo {
+object FirstParsing {
 
 
   def main(args: Array[String]): Unit = {
 
-    /** /!\ Nom du path à changer si compilation sur autre machine */
-    println("Entrez le chemin du dictionnaire Debrie")
+    println("Entrez le chemin du dictionnaire Dauby-Rouchi")
     val path = scala.io.StdIn.readLine()
     val buff: Source = Source.fromFile(path)
     val Parsing = new FirstParsing()

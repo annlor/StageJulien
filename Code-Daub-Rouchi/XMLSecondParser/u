@@ -4,22 +4,19 @@
         <Entrée>une</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>art. ind.</StructureGrammaticale>
-        <Lexie>
-        eine, enne, eune, in.ne.
-      </Lexie>
+        <LexieEntiere>eine, enne, eune, in.ne</LexieEntiere>
+        <Lexie><SousLexie>eine</SousLexie><SousLexie> enne</SousLexie><SousLexie> eune</SousLexie><SousLexie> in.ne</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>urine</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        pissiade.
-      </Lexie>
+        <LexieEntiere>pissiade</LexieEntiere>
+        <Lexie><SousLexie>pissiade</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>urinoir</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        pissotiau
-      </Lexie>
+        <LexieEntiere>pissotiau</LexieEntiere>
+        <Lexie><SousLexie>pissotiau</SousLexie></Lexie>
       </ArticleDeDictionnaire>
       </Nomenclature>

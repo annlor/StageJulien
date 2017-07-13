@@ -4,1189 +4,1021 @@
         <Entrée>paille</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        étrain ; (courte) foufrain, trétin ; (de seigle) glui.
-      </Lexie>
+        <LexieEntiere>étrain ; (courte) foufrain, trétin ; (de seigle) glui</LexieEntiere>
+        <Lexie><SousLexie>étrain </SousLexie><SousLexie> (courte) foufrain</SousLexie><SousLexie> trétin </SousLexie><SousLexie> (de seigle) glui</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pain</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        broute (rare) ; (petit) pagnon, pain de festin, pain mollet ; (perdu) pain crotté ; (d'épices) croquant, pimperbole.
-      </Lexie>
+        <LexieEntiere>broute (rare) ; (petit) pagnon, pain de festin, pain mollet ; (perdu) pain crotté ; (d'épices) croquant, pimperbole</LexieEntiere>
+        <Lexie><SousLexie>broute (rare) </SousLexie><SousLexie> (petit) pagnon</SousLexie><SousLexie> pain de festin</SousLexie><SousLexie> pain mollet </SousLexie><SousLexie> (perdu) pain crotté </SousLexie><SousLexie> (d'épices) croquant</SousLexie><SousLexie> pimperbole</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>palangre</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        trappe.
-      </Lexie>
+        <LexieEntiere>trappe</LexieEntiere>
+        <Lexie><SousLexie>trappe</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>palissade</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        palisarte.
-      </Lexie>
+        <LexieEntiere>palisarte</LexieEntiere>
+        <Lexie><SousLexie>palisarte</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>palonnier </Entrée>
         <Complément>(d'attelage)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        bantenière, batenière, baténiérette, plarna, trapsier.
-      </Lexie>
+        <LexieEntiere>bantenière, batenière, baténiérette, plarna, trapsier</LexieEntiere>
+        <Lexie><SousLexie>bantenière</SousLexie><SousLexie> batenière</SousLexie><SousLexie> baténiérette</SousLexie><SousLexie> plarna</SousLexie><SousLexie> trapsier</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pancarte</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        plancarte.
-      </Lexie>
+        <LexieEntiere>plancarte</LexieEntiere>
+        <Lexie><SousLexie>plancarte</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>panier</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        banse, buron, catoire, cofin, couillère, esclitte, mande, man-
-      </Lexie>
+        <LexieEntiere>banse, buron, catoire, cofin, couillère, esclitte, mande, man-</LexieEntiere>
+        <Lexie><SousLexie>banse</SousLexie><SousLexie> buron</SousLexie><SousLexie> catoire</SousLexie><SousLexie> cofin</SousLexie><SousLexie> couillère</SousLexie><SousLexie> esclitte</SousLexie><SousLexie> mande</SousLexie><SousLexie> man-</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>panne </Entrée>
         <Complément>(tomber en)</Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <Lexie>
-        rester in raque.
-      </Lexie>
+        <LexieEntiere>rester in raque</LexieEntiere>
+        <Lexie><SousLexie>rester in raque</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pantalon</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        maronne.
-      </Lexie>
+        <LexieEntiere>maronne</LexieEntiere>
+        <Lexie><SousLexie>maronne</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>papa</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        apa (au vocatif).
-      </Lexie>
+        <LexieEntiere>apa (au vocatif</LexieEntiere>
+        <Lexie><SousLexie>apa (au vocatif</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pâquerette</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        cazotte.
-      </Lexie>
+        <LexieEntiere>cazotte</LexieEntiere>
+        <Lexie><SousLexie>cazotte</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>par</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>prép.</StructureGrammaticale>
-        <Lexie>
-        pa.
-      </Lexie>
+        <LexieEntiere>pa</LexieEntiere>
+        <Lexie><SousLexie>pa</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>paravent</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        gardévint.
-      </Lexie>
+        <LexieEntiere>gardévint</LexieEntiere>
+        <Lexie><SousLexie>gardévint</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>paresser</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-         ; s'épagnoter.
-      </Lexie>
+        <LexieEntiere> ; s'épagnoter</LexieEntiere>
+        <Lexie><SousLexie> </SousLexie><SousLexie> s'épagnoter</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>paresseux</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m. et adj.</StructureGrammaticale>
-        <Lexie>
-        ajoque, fat, viseux, wiseux. (Voir : fainéant).
-      </Lexie>
+        <LexieEntiere>ajoque, fat, viseux, wiseux. (Voir : fainéant</LexieEntiere>
+        <Lexie><SousLexie>ajoque</SousLexie><SousLexie> fat</SousLexie><SousLexie> viseux</SousLexie><SousLexie> wiseux. (Voir : fainéant</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>parfois</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>adv.</StructureGrammaticale>
-        <Lexie>
-        alfos.
-      </Lexie>
+        <LexieEntiere>alfos</LexieEntiere>
+        <Lexie><SousLexie>alfos</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>parfum</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        sent-bon.
-      </Lexie>
+        <LexieEntiere>sent-bon</LexieEntiere>
+        <Lexie><SousLexie>sent-bon</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>parler </Entrée>
         <Complément>(avec affectation)</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        s'aparler. Apprendre un enfant à parler : agazouiller.
-      </Lexie>
+        <LexieEntiere>s'aparler. Apprendre un enfant à parler : agazouiller</LexieEntiere>
+        <Lexie><SousLexie>s'aparler. Apprendre un enfant à parler : agazouiller</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pas</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>adv. de nég.</StructureGrammaticale>
-        <Lexie>
-        mie, né, nié, point, pont.
-      </Lexie>
+        <LexieEntiere>mie, né, nié, point, pont</LexieEntiere>
+        <Lexie><SousLexie>mie</SousLexie><SousLexie> né</SousLexie><SousLexie> nié</SousLexie><SousLexie> point</SousLexie><SousLexie> pont</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>passé</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>adj. attr.</StructureGrammaticale>
-        <Lexie>
-        outre, écoute.
-      </Lexie>
+        <LexieEntiere>outre, écoute</LexieEntiere>
+        <Lexie><SousLexie>outre</SousLexie><SousLexie> écoute</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>passion s</Entrée>
         <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <Lexie>
-        . f. : dadalle.
-      </Lexie>
+        <LexieEntiere></LexieEntiere>
+        
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>passionné </Entrée>
         <Complément>(de)</Complément>
         <StructureGrammaticale>adj.</StructureGrammaticale>
-        <Lexie>
-        sot, seut (à).
-      </Lexie>
+        <LexieEntiere>sot, seut (à</LexieEntiere>
+        <Lexie><SousLexie>sot</SousLexie><SousLexie> seut (à</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>patatras </Entrée>
         <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <Lexie>
-        !, excl. : berlouf !
-      </Lexie>
+        <LexieEntiere>!, excl. : berlouf !</LexieEntiere>
+        <Lexie><SousLexie>!</SousLexie><SousLexie> excl. : berlouf !</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>patauger</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        berdacher, patoquer, patrouquer, pétafier, pétaquer.
-      </Lexie>
+        <LexieEntiere>berdacher, patoquer, patrouquer, pétafier, pétaquer</LexieEntiere>
+        <Lexie><SousLexie>berdacher</SousLexie><SousLexie> patoquer</SousLexie><SousLexie> patrouquer</SousLexie><SousLexie> pétafier</SousLexie><SousLexie> pétaquer</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pâtée</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        patiau.
-      </Lexie>
+        <LexieEntiere>patiau</LexieEntiere>
+        <Lexie><SousLexie>patiau</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>patience </Entrée>
         <Complément>(plante)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        parielle.
-      </Lexie>
+        <LexieEntiere>parielle</LexieEntiere>
+        <Lexie><SousLexie>parielle</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pâturage</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        waréchaix (vx).
-      </Lexie>
+        <LexieEntiere>waréchaix (vx</LexieEntiere>
+        <Lexie><SousLexie>waréchaix (vx</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>peindre</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        mett' in couleurs.
-      </Lexie>
+        <LexieEntiere>mett' in couleurs</LexieEntiere>
+        <Lexie><SousLexie>mett' in couleurs</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>peine </Entrée>
         <Complément>(à)</Complément>
         <StructureGrammaticale>loc. adv.</StructureGrammaticale>
-        <Lexie>
-        petitemint.
-      </Lexie>
+        <LexieEntiere>petitemint</LexieEntiere>
+        <Lexie><SousLexie>petitemint</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pêle-mêle</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>adv.</StructureGrammaticale>
-        <Lexie>
-        abic-abac, mêlant-mêlette.
-      </Lexie>
+        <LexieEntiere>abic-abac, mêlant-mêlette</LexieEntiere>
+        <Lexie><SousLexie>abic-abac</SousLexie><SousLexie> mêlant-mêlette</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pelle</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        escoupe ; (à charbon) palette.
-      </Lexie>
+        <LexieEntiere>escoupe ; (à charbon) palette</LexieEntiere>
+        <Lexie><SousLexie>escoupe </SousLexie><SousLexie> (à charbon) palette</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pelletée</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        palée.
-      </Lexie>
+        <LexieEntiere>palée</LexieEntiere>
+        <Lexie><SousLexie>palée</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>peloter</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        patriquer, patrouiller, pochenner.
-      </Lexie>
+        <LexieEntiere>patriquer, patrouiller, pochenner</LexieEntiere>
+        <Lexie><SousLexie>patriquer</SousLexie><SousLexie> patrouiller</SousLexie><SousLexie> pochenner</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pendeloque</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        pinderloque.
-      </Lexie>
+        <LexieEntiere>pinderloque</LexieEntiere>
+        <Lexie><SousLexie>pinderloque</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pendiller</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        pindeloquer.
-      </Lexie>
+        <LexieEntiere>pindeloquer</LexieEntiere>
+        <Lexie><SousLexie>pindeloquer</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pénis</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        aveule, bébête (enf.), biblot, bilbotiau, biloubin, biloute, bitelot, boïau, bricotiau, broquelet, broquette, carcaillou, chifflot, cose, débout, fussiau, oselot, osiau, otieu, rotelot, titi (enf.), touquette, vitelot.
-      </Lexie>
+        <LexieEntiere>aveule, bébête (enf.), biblot, bilbotiau, biloubin, biloute, bitelot, boïau, bricotiau, broquelet, broquette, carcaillou, chifflot, cose, débout, fussiau, oselot, osiau, otieu, rotelot, titi (enf.), touquette, vitelot</LexieEntiere>
+        <Lexie><SousLexie>aveule</SousLexie><SousLexie> bébête (enf.)</SousLexie><SousLexie> biblot</SousLexie><SousLexie> bilbotiau</SousLexie><SousLexie> biloubin</SousLexie><SousLexie> biloute</SousLexie><SousLexie> bitelot</SousLexie><SousLexie> boïau</SousLexie><SousLexie> bricotiau</SousLexie><SousLexie> broquelet</SousLexie><SousLexie> broquette</SousLexie><SousLexie> carcaillou</SousLexie><SousLexie> chifflot</SousLexie><SousLexie> cose</SousLexie><SousLexie> débout</SousLexie><SousLexie> fussiau</SousLexie><SousLexie> oselot</SousLexie><SousLexie> osiau</SousLexie><SousLexie> otieu</SousLexie><SousLexie> rotelot</SousLexie><SousLexie> titi (enf.)</SousLexie><SousLexie> touquette</SousLexie><SousLexie> vitelot</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pensée </Entrée>
         <Complément>(des champs)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        hierbe dé l' Ternité.
-      </Lexie>
+        <LexieEntiere>hierbe dé l' Ternité</LexieEntiere>
+        <Lexie><SousLexie>hierbe dé l' Ternité</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>penser</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        s'apinser, busier, pinser.
-      </Lexie>
+        <LexieEntiere>s'apinser, busier, pinser</LexieEntiere>
+        <Lexie><SousLexie>s'apinser</SousLexie><SousLexie> busier</SousLexie><SousLexie> pinser</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pensionnaire</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        logeux.
-      </Lexie>
+        <LexieEntiere>logeux</LexieEntiere>
+        <Lexie><SousLexie>logeux</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>perce-oreille</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        michorelle, missorelle.
-      </Lexie>
+        <LexieEntiere>michorelle, missorelle</LexieEntiere>
+        <Lexie><SousLexie>michorelle</SousLexie><SousLexie> missorelle</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>perche </Entrée>
         <Complément>(poisson)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        percot.
-      </Lexie>
+        <LexieEntiere>percot</LexieEntiere>
+        <Lexie><SousLexie>percot</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>perche </Entrée>
         <Complément>(en bois)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        boutériau, perque, pierche.
-      </Lexie>
+        <LexieEntiere>boutériau, perque, pierche</LexieEntiere>
+        <Lexie><SousLexie>boutériau</SousLexie><SousLexie> perque</SousLexie><SousLexie> pierche</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>période </Entrée>
         <Complément>(courte)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        inter-lé-midi.
-      </Lexie>
+        <LexieEntiere>inter-lé-midi</LexieEntiere>
+        <Lexie><SousLexie>inter-lé-midi</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>persicaire</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        saussinets.
-      </Lexie>
+        <LexieEntiere>saussinets</LexieEntiere>
+        <Lexie><SousLexie>saussinets</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>persil</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        persin.
-      </Lexie>
+        <LexieEntiere>persin</LexieEntiere>
+        <Lexie><SousLexie>persin</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pervenche</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        vinque.
-      </Lexie>
+        <LexieEntiere>vinque</LexieEntiere>
+        <Lexie><SousLexie>vinque</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pet</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        proute.
-      </Lexie>
+        <LexieEntiere>proute</LexieEntiere>
+        <Lexie><SousLexie>proute</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pétard</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        campe.
-      </Lexie>
+        <LexieEntiere>campe</LexieEntiere>
+        <Lexie><SousLexie>campe</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>péter</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        prouter.
-      </Lexie>
+        <LexieEntiere>prouter</LexieEntiere>
+        <Lexie><SousLexie>prouter</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>péteur</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        prouteux.
-      </Lexie>
+        <LexieEntiere>prouteux</LexieEntiere>
+        <Lexie><SousLexie>prouteux</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>petit</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>adj.</StructureGrammaticale>
-        <Lexie>
-        m'tiot, tiot ; s. m. : bout d' cul, pétiot.
-      </Lexie>
+        <LexieEntiere>m'tiot, tiot ; s. m. : bout d' cul, pétiot</LexieEntiere>
+        <Lexie><SousLexie>m'tiot</SousLexie><SousLexie> tiot </SousLexie><SousLexie> s. m. : bout d' cul</SousLexie><SousLexie> pétiot</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pétrin</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        méniau.
-      </Lexie>
+        <LexieEntiere>méniau</LexieEntiere>
+        <Lexie><SousLexie>méniau</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pétrir</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        pertrir.
-      </Lexie>
+        <LexieEntiere>pertrir</LexieEntiere>
+        <Lexie><SousLexie>pertrir</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>peu </Entrée>
         <Complément>(un)</Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <Lexie>
-        eine bique, eine milette, eine mioche, eine nioche, un pau, eine zique, eine ziquette.
-      </Lexie>
+        <LexieEntiere>eine bique, eine milette, eine mioche, eine nioche, un pau, eine zique, eine ziquette</LexieEntiere>
+        <Lexie><SousLexie>eine bique</SousLexie><SousLexie> eine milette</SousLexie><SousLexie> eine mioche</SousLexie><SousLexie> eine nioche</SousLexie><SousLexie> un pau</SousLexie><SousLexie> eine zique</SousLexie><SousLexie> eine ziquette</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>peuplier s</Entrée>
         <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <Lexie>
-        . m. : poupier.
-      </Lexie>
+        <LexieEntiere></LexieEntiere>
+        
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>peur </Entrée>
         <Complément>(avoir)</Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <Lexie>
-        avoir el droulle.
-      </Lexie>
+        <LexieEntiere>avoir el droulle</LexieEntiere>
+        <Lexie><SousLexie>avoir el droulle</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>piano mécanique</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        berline, tardiole, viole.
-      </Lexie>
+        <LexieEntiere>berline, tardiole, viole</LexieEntiere>
+        <Lexie><SousLexie>berline</SousLexie><SousLexie> tardiole</SousLexie><SousLexie> viole</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pic</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-         ; haviau, rivelaine.
-      </Lexie>
+        <LexieEntiere> ; haviau, rivelaine</LexieEntiere>
+        <Lexie><SousLexie> </SousLexie><SousLexie> haviau</SousLexie><SousLexie> rivelaine</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pie</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        agache.
-      </Lexie>
+        <LexieEntiere>agache</LexieEntiere>
+        <Lexie><SousLexie>agache</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pièce </Entrée>
         <Complément>(raccommodage)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        patacon.
-      </Lexie>
+        <LexieEntiere>patacon</LexieEntiere>
+        <Lexie><SousLexie>patacon</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pied </Entrée>
         <Complément>(de pomme de terre)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        motte.
-      </Lexie>
+        <LexieEntiere>motte</LexieEntiere>
+        <Lexie><SousLexie>motte</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pierre </Entrée>
         <Complément>(à aiguiser)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        queuche.
-      </Lexie>
+        <LexieEntiere>queuche</LexieEntiere>
+        <Lexie><SousLexie>queuche</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>piétiner</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        chaffier, pételer, péténer.
-      </Lexie>
+        <LexieEntiere>chaffier, pételer, péténer</LexieEntiere>
+        <Lexie><SousLexie>chaffier</SousLexie><SousLexie> pételer</SousLexie><SousLexie> péténer</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pieux </Entrée>
         <Complément>(homme)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        mingeux d' bon dieu.
-      </Lexie>
+        <LexieEntiere>mingeux d' bon dieu</LexieEntiere>
+        <Lexie><SousLexie>mingeux d' bon dieu</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pigeon</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        coulon.
-      </Lexie>
+        <LexieEntiere>coulon</LexieEntiere>
+        <Lexie><SousLexie>coulon</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pignon</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        pégnon.
-      </Lexie>
+        <LexieEntiere>pégnon</LexieEntiere>
+        <Lexie><SousLexie>pégnon</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pincer </Entrée>
         <Complément>(un rameau)</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        épincher.
-      </Lexie>
+        <LexieEntiere>épincher</LexieEntiere>
+        <Lexie><SousLexie>épincher</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pinces</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f. pl.</StructureGrammaticale>
-        <Lexie>
-        épinches, éténielles.
-      </Lexie>
+        <LexieEntiere>épinches, éténielles</LexieEntiere>
+        <Lexie><SousLexie>épinches</SousLexie><SousLexie> éténielles</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pintade</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        pintard.
-      </Lexie>
+        <LexieEntiere>pintard</LexieEntiere>
+        <Lexie><SousLexie>pintard</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pipe</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        teuche ; (en terre) boraine.
-      </Lexie>
+        <LexieEntiere>teuche ; (en terre) boraine</LexieEntiere>
+        <Lexie><SousLexie>teuche </SousLexie><SousLexie> (en terre) boraine</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pirouette</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-         (voir : cabriole).
-      </Lexie>
+        <LexieEntiere> (voir : cabriole</LexieEntiere>
+        <Lexie><SousLexie> (voir : cabriole</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pissenlit</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        laitison, pichoulit.
-      </Lexie>
+        <LexieEntiere>laitison, pichoulit</LexieEntiere>
+        <Lexie><SousLexie>laitison</SousLexie><SousLexie> pichoulit</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pivert</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        bièque-bos.
-      </Lexie>
+        <LexieEntiere>bièque-bos</LexieEntiere>
+        <Lexie><SousLexie>bièque-bos</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pivoine</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        pionne.
-      </Lexie>
+        <LexieEntiere>pionne</LexieEntiere>
+        <Lexie><SousLexie>pionne</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>placenta</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        parure.
-      </Lexie>
+        <LexieEntiere>parure</LexieEntiere>
+        <Lexie><SousLexie>parure</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>plaisanter</Entrée>
         <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <Lexie>
-        v : bouaisser.
-      </Lexie>
+        <LexieEntiere>v : bouaisser</LexieEntiere>
+        <Lexie><SousLexie>v : bouaisser</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>plaisanterie</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        couillonnade.
-      </Lexie>
+        <LexieEntiere>couillonnade</LexieEntiere>
+        <Lexie><SousLexie>couillonnade</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>plaisir</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        plaisi.
-      </Lexie>
+        <LexieEntiere>plaisi</LexieEntiere>
+        <Lexie><SousLexie>plaisi</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>planche</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        finte, planque.
-      </Lexie>
+        <LexieEntiere>finte, planque</LexieEntiere>
+        <Lexie><SousLexie>finte</SousLexie><SousLexie> planque</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>plant </Entrée>
         <Complément>(à repiquer)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        choque.
-      </Lexie>
+        <LexieEntiere>choque</LexieEntiere>
+        <Lexie><SousLexie>choque</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>plantoir</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        planto.
-      </Lexie>
+        <LexieEntiere>planto</LexieEntiere>
+        <Lexie><SousLexie>planto</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>plate-forme </Entrée>
         <Complément>(de grange)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        écamiau, in.nesse.
-      </Lexie>
+        <LexieEntiere>écamiau, in.nesse</LexieEntiere>
+        <Lexie><SousLexie>écamiau</SousLexie><SousLexie> in.nesse</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>plâtrer</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        plafonner.
-      </Lexie>
+        <LexieEntiere>plafonner</LexieEntiere>
+        <Lexie><SousLexie>plafonner</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>plâtrier</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        plafonneux.
-      </Lexie>
+        <LexieEntiere>plafonneux</LexieEntiere>
+        <Lexie><SousLexie>plafonneux</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pleurard</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>adj.</StructureGrammaticale>
-        <Lexie>
-        grignou.
-      </Lexie>
+        <LexieEntiere>grignou</LexieEntiere>
+        <Lexie><SousLexie>grignou</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pleurer</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        braire.
-      </Lexie>
+        <LexieEntiere>braire</LexieEntiere>
+        <Lexie><SousLexie>braire</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pleurnicheuse</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        grognette.
-      </Lexie>
+        <LexieEntiere>grognette</LexieEntiere>
+        <Lexie><SousLexie>grognette</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pli</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        plo.
-      </Lexie>
+        <LexieEntiere>plo</LexieEntiere>
+        <Lexie><SousLexie>plo</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>plier</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        ploïer.
-      </Lexie>
+        <LexieEntiere>ploïer</LexieEntiere>
+        <Lexie><SousLexie>ploïer</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>plomber</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        plomer.
-      </Lexie>
+        <LexieEntiere>plomer</LexieEntiere>
+        <Lexie><SousLexie>plomer</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>plouter</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        bloutrer, ploutrer.
-      </Lexie>
+        <LexieEntiere>bloutrer, ploutrer</LexieEntiere>
+        <Lexie><SousLexie>bloutrer</SousLexie><SousLexie> ploutrer</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pluie</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        pleuve, puèfe.
-      </Lexie>
+        <LexieEntiere>pleuve, puèfe</LexieEntiere>
+        <Lexie><SousLexie>pleuve</SousLexie><SousLexie> puèfe</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>plume</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        pleume.
-      </Lexie>
+        <LexieEntiere>pleume</LexieEntiere>
+        <Lexie><SousLexie>pleume</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>plumeau</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        dépourro.
-      </Lexie>
+        <LexieEntiere>dépourro</LexieEntiere>
+        <Lexie><SousLexie>dépourro</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>plumer</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        dépleumer.
-      </Lexie>
+        <LexieEntiere>dépleumer</LexieEntiere>
+        <Lexie><SousLexie>dépleumer</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>poche</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        satiau, tasse.
-      </Lexie>
+        <LexieEntiere>satiau, tasse</LexieEntiere>
+        <Lexie><SousLexie>satiau</SousLexie><SousLexie> tasse</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>poêle </Entrée>
         <Complément>(à frire)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        païelle.
-      </Lexie>
+        <LexieEntiere>païelle</LexieEntiere>
+        <Lexie><SousLexie>païelle</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>poêle </Entrée>
         <Complément>(flamand)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        étuve.
-      </Lexie>
+        <LexieEntiere>étuve</LexieEntiere>
+        <Lexie><SousLexie>étuve</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>poids</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        pods.
-      </Lexie>
+        <LexieEntiere>pods</LexieEntiere>
+        <Lexie><SousLexie>pods</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>poignée </Entrée>
         <Complément>(contenu du poing)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        manée, pougnie, torquette, tortin.
-      </Lexie>
+        <LexieEntiere>manée, pougnie, torquette, tortin</LexieEntiere>
+        <Lexie><SousLexie>manée</SousLexie><SousLexie> pougnie</SousLexie><SousLexie> torquette</SousLexie><SousLexie> tortin</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>poignet</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        pognet.
-      </Lexie>
+        <LexieEntiere>pognet</LexieEntiere>
+        <Lexie><SousLexie>pognet</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pointe </Entrée>
         <Complément>(de flèche)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        maquet.
-      </Lexie>
+        <LexieEntiere>maquet</LexieEntiere>
+        <Lexie><SousLexie>maquet</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>poireau</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        porée, poret, porion.
-      </Lexie>
+        <LexieEntiere>porée, poret, porion</LexieEntiere>
+        <Lexie><SousLexie>porée</SousLexie><SousLexie> poret</SousLexie><SousLexie> porion</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pois</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        pos.
-      </Lexie>
+        <LexieEntiere>pos</LexieEntiere>
+        <Lexie><SousLexie>pos</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>poisson</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        pisson.
-      </Lexie>
+        <LexieEntiere>pisson</LexieEntiere>
+        <Lexie><SousLexie>pisson</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>poissonnier</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        pissenier.
-      </Lexie>
+        <LexieEntiere>pissenier</LexieEntiere>
+        <Lexie><SousLexie>pissenier</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>polir</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        agalir, ragalir.
-      </Lexie>
+        <LexieEntiere>agalir, ragalir</LexieEntiere>
+        <Lexie><SousLexie>agalir</SousLexie><SousLexie> ragalir</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pomme</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        pom, pun, peun, pinr ; (séchée) figote. Pomme de terre : pétote, peun' tierre, truche ; (préparées de façons diverses) : caquettes, patacons, peun'tierre à l' pelure, à l'étouffoir) ; (fruit des pommes de terre) ballote, bisou, viroulette. Pomme d'Adam : gosette.
-      </Lexie>
+        <LexieEntiere>pom, pun, peun, pinr ; (séchée) figote. Pomme de terre : pétote, peun' tierre, truche ; (préparées de façons diverses) : caquettes, patacons, peun'tierre à l' pelure, à l'étouffoir) ; (fruit des pommes de terre) ballote, bisou, viroulette. Pomme d'Adam : gosette</LexieEntiere>
+        <Lexie><SousLexie>pom</SousLexie><SousLexie> pun</SousLexie><SousLexie> peun</SousLexie><SousLexie> pinr </SousLexie><SousLexie> (séchée) figote. Pomme de terre : pétote</SousLexie><SousLexie> peun' tierre</SousLexie><SousLexie> truche </SousLexie><SousLexie> (préparées de façons diverses) : caquettes</SousLexie><SousLexie> patacons</SousLexie><SousLexie> peun'tierre à l' pelure</SousLexie><SousLexie> à l'étouffoir) </SousLexie><SousLexie> (fruit des pommes de terre) ballote</SousLexie><SousLexie> bisou</SousLexie><SousLexie> viroulette. Pomme d'Adam : gosette</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>porc</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        dale, pourcheau.
-      </Lexie>
+        <LexieEntiere>dale, pourcheau</LexieEntiere>
+        <Lexie><SousLexie>dale</SousLexie><SousLexie> pourcheau</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>porcherie</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        ring d' pourcheaux.
-      </Lexie>
+        <LexieEntiere>ring d' pourcheaux</LexieEntiere>
+        <Lexie><SousLexie>ring d' pourcheaux</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>port </Entrée>
         <Complément>(fluvial)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        rivage.
-      </Lexie>
+        <LexieEntiere>rivage</LexieEntiere>
+        <Lexie><SousLexie>rivage</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>porte</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        huche, uche ; demi-porte : huchelet, wuidiau ; porte d'aération (mines) : féniesse ; porte à claire-voie : hasiau.
-      </Lexie>
+        <LexieEntiere>huche, uche ; demi-porte : huchelet, wuidiau ; porte d'aération (mines) : féniesse ; porte à claire-voie : hasiau</LexieEntiere>
+        <Lexie><SousLexie>huche</SousLexie><SousLexie> uche </SousLexie><SousLexie> demi-porte : huchelet</SousLexie><SousLexie> wuidiau </SousLexie><SousLexie> porte d'aération (mines) : féniesse </SousLexie><SousLexie> porte à claire-voie : hasiau</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>porte-bois </Entrée>
         <Complément>(insecte)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        caset, gazet.
-      </Lexie>
+        <LexieEntiere>caset, gazet</LexieEntiere>
+        <Lexie><SousLexie>caset</SousLexie><SousLexie> gazet</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>portillon</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        pontis.
-      </Lexie>
+        <LexieEntiere>pontis</LexieEntiere>
+        <Lexie><SousLexie>pontis</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>possession </Entrée>
         <Complément>(mise en)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        werp (vx).
-      </Lexie>
+        <LexieEntiere>werp (vx</LexieEntiere>
+        <Lexie><SousLexie>werp (vx</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>postillonner</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        jaspider.
-      </Lexie>
+        <LexieEntiere>jaspider</LexieEntiere>
+        <Lexie><SousLexie>jaspider</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pot</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        peut, pochon, triboulette.
-      </Lexie>
+        <LexieEntiere>peut, pochon, triboulette</LexieEntiere>
+        <Lexie><SousLexie>peut</SousLexie><SousLexie> pochon</SousLexie><SousLexie> triboulette</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>poteau</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        estaque, étaque.
-      </Lexie>
+        <LexieEntiere>estaque, étaque</LexieEntiere>
+        <Lexie><SousLexie>estaque</SousLexie><SousLexie> étaque</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>potée </Entrée>
         <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <Lexie>
-        (de viande et de légumes, s. f. :
-      </Lexie>
+        <LexieEntiere></LexieEntiere>
+        
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pou</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        équerviche d'hôpital, leusse.
-      </Lexie>
+        <LexieEntiere>équerviche d'hôpital, leusse</LexieEntiere>
+        <Lexie><SousLexie>équerviche d'hôpital</SousLexie><SousLexie> leusse</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>poudre</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        pourre, pourrette.
-      </Lexie>
+        <LexieEntiere>pourre, pourrette</LexieEntiere>
+        <Lexie><SousLexie>pourre</SousLexie><SousLexie> pourrette</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pouf</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        dette.
-      </Lexie>
+        <LexieEntiere>dette</LexieEntiere>
+        <Lexie><SousLexie>dette</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>poulailler</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        cour à poules, pouiller.
-      </Lexie>
+        <LexieEntiere>cour à poules, pouiller</LexieEntiere>
+        <Lexie><SousLexie>cour à poules</SousLexie><SousLexie> pouiller</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>poulain</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        poutrain.
-      </Lexie>
+        <LexieEntiere>poutrain</LexieEntiere>
+        <Lexie><SousLexie>poutrain</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>poule</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        glaine ; (qui couve) : clouche.
-      </Lexie>
+        <LexieEntiere>glaine ; (qui couve) : clouche</LexieEntiere>
+        <Lexie><SousLexie>glaine </SousLexie><SousLexie> (qui couve) : clouche</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>poulette</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        pouillette.
-      </Lexie>
+        <LexieEntiere>pouillette</LexieEntiere>
+        <Lexie><SousLexie>pouillette</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pouliner</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>pouterner.</StructureGrammaticale>
+        <LexieEntiere></LexieEntiere>
         
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>poupée</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        marotte.
-      </Lexie>
+        <LexieEntiere>marotte</LexieEntiere>
+        <Lexie><SousLexie>marotte</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pour</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>prép.</StructureGrammaticale>
-        <Lexie>
-        pou.
-      </Lexie>
+        <LexieEntiere>pou</LexieEntiere>
+        <Lexie><SousLexie>pou</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pourboire</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        abondrot, dringuelle.
-      </Lexie>
+        <LexieEntiere>abondrot, dringuelle</LexieEntiere>
+        <Lexie><SousLexie>abondrot</SousLexie><SousLexie> dringuelle</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pourquoi</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>adv.</StructureGrammaticale>
-        <Lexie>
-        porquoi, queuesse.
-      </Lexie>
+        <LexieEntiere>porquoi, queuesse</LexieEntiere>
+        <Lexie><SousLexie>porquoi</SousLexie><SousLexie> queuesse</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pourrir</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        canfourer, consommer.
-      </Lexie>
+        <LexieEntiere>canfourer, consommer</LexieEntiere>
+        <Lexie><SousLexie>canfourer</SousLexie><SousLexie> consommer</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>poursuivre</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-         ; poursuire.
-      </Lexie>
+        <LexieEntiere> ; poursuire</LexieEntiere>
+        <Lexie><SousLexie> </SousLexie><SousLexie> poursuire</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>poussière</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        buque, pluque, pourre.
-      </Lexie>
+        <LexieEntiere>buque, pluque, pourre</LexieEntiere>
+        <Lexie><SousLexie>buque</SousLexie><SousLexie> pluque</SousLexie><SousLexie> pourre</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>poussin</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        pouillon.
-      </Lexie>
+        <LexieEntiere>pouillon</LexieEntiere>
+        <Lexie><SousLexie>pouillon</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>poutre</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        sommier.
-      </Lexie>
+        <LexieEntiere>sommier</LexieEntiere>
+        <Lexie><SousLexie>sommier</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pouvoir</Entrée>
         <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <Lexie>
-        v : povoir.
-      </Lexie>
+        <LexieEntiere>v : povoir</LexieEntiere>
+        <Lexie><SousLexie>v : povoir</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>précoce</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>adj.</StructureGrammaticale>
-        <Lexie>
-        timpe (tempre).
-      </Lexie>
+        <LexieEntiere>timpe (tempre</LexieEntiere>
+        <Lexie><SousLexie>timpe (tempre</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>préférer</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        avoir pus quer.
-      </Lexie>
+        <LexieEntiere>avoir pus quer</LexieEntiere>
+        <Lexie><SousLexie>avoir pus quer</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>prêle</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        caqueu, queue d' rat.
-      </Lexie>
+        <LexieEntiere>caqueu, queue d' rat</LexieEntiere>
+        <Lexie><SousLexie>caqueu</SousLexie><SousLexie> queue d' rat</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>premier</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>adj.</StructureGrammaticale>
-        <Lexie>
-        preume.
-      </Lexie>
+        <LexieEntiere>preume</LexieEntiere>
+        <Lexie><SousLexie>preume</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>prendre</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        prindre, prin.ne, printe ; se prendre les pieds (dans un obstacle) : s'ingambier ; prendre l'eau (ne pas être étanche) : puiser.
-      </Lexie>
+        <LexieEntiere>prindre, prin.ne, printe ; se prendre les pieds (dans un obstacle) : s'ingambier ; prendre l'eau (ne pas être étanche) : puiser</LexieEntiere>
+        <Lexie><SousLexie>prindre</SousLexie><SousLexie> prin.ne</SousLexie><SousLexie> printe </SousLexie><SousLexie> se prendre les pieds (dans un obstacle) : s'ingambier </SousLexie><SousLexie> prendre l'eau (ne pas être étanche) : puiser</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>preneur</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        perdeux.
-      </Lexie>
+        <LexieEntiere>perdeux</LexieEntiere>
+        <Lexie><SousLexie>perdeux</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>presque</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>adv.</StructureGrammaticale>
-        <Lexie>
-        soubite (vx).
-      </Lexie>
+        <LexieEntiere>soubite (vx</LexieEntiere>
+        <Lexie><SousLexie>soubite (vx</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pressentiment</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        doutance.
-      </Lexie>
+        <LexieEntiere>doutance</LexieEntiere>
+        <Lexie><SousLexie>doutance</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pressé </Entrée>
         <Complément>(être)</Complément>
         <StructureGrammaticale>loc. v.</StructureGrammaticale>
-        <Lexie>
-        et' à l' foufielle, êt' à hue-à-hue.
-      </Lexie>
+        <LexieEntiere>et' à l' foufielle, êt' à hue-à-hue</LexieEntiere>
+        <Lexie><SousLexie>et' à l' foufielle</SousLexie><SousLexie> êt' à hue-à-hue</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>presser </Entrée>
         <Complément>(dans les mains)</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        pocher.
-      </Lexie>
+        <LexieEntiere>pocher</LexieEntiere>
+        <Lexie><SousLexie>pocher</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>présure</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        perzure.
-      </Lexie>
+        <LexieEntiere>perzure</LexieEntiere>
+        <Lexie><SousLexie>perzure</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>prétentieux</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        chiqueux, faiseux d'airs, faiseux d'imbarras.
-      </Lexie>
+        <LexieEntiere>chiqueux, faiseux d'airs, faiseux d'imbarras</LexieEntiere>
+        <Lexie><SousLexie>chiqueux</SousLexie><SousLexie> faiseux d'airs</SousLexie><SousLexie> faiseux d'imbarras</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>prétexte </Entrée>
         <Complément>(mauvais)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-         ; alibi forain.
-      </Lexie>
+        <LexieEntiere> ; alibi forain</LexieEntiere>
+        <Lexie><SousLexie> </SousLexie><SousLexie> alibi forain</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>prime </Entrée>
         <Complément>(à un acheteur)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        déseur, pochéner, pochiner, pouchéner, pardéseur.
-      </Lexie>
+        <LexieEntiere>déseur, pochéner, pochiner, pouchéner, pardéseur</LexieEntiere>
+        <Lexie><SousLexie>déseur</SousLexie><SousLexie> pochéner</SousLexie><SousLexie> pochiner</SousLexie><SousLexie> pouchéner</SousLexie><SousLexie> pardéseur</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>primevère</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        braie d' cat.
-      </Lexie>
+        <LexieEntiere>braie d' cat</LexieEntiere>
+        <Lexie><SousLexie>braie d' cat</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>prison</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        hosteau.
-      </Lexie>
+        <LexieEntiere>hosteau</LexieEntiere>
+        <Lexie><SousLexie>hosteau</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>procession</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-         sac (sacre).
-      </Lexie>
+        <LexieEntiere> sac (sacre</LexieEntiere>
+        <Lexie><SousLexie> sac (sacre</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>prodigue</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        passe-tout-oute.
-      </Lexie>
+        <LexieEntiere>passe-tout-oute</LexieEntiere>
+        <Lexie><SousLexie>passe-tout-oute</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>production </Entrée>
         <Complément>(d'une mine)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        coupe.
-      </Lexie>
+        <LexieEntiere>coupe</LexieEntiere>
+        <Lexie><SousLexie>coupe</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>profond</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>adj.</StructureGrammaticale>
-        <Lexie>
-        parfond.
-      </Lexie>
+        <LexieEntiere>parfond</LexieEntiere>
+        <Lexie><SousLexie>parfond</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>profondeur</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        parfondeur.
-      </Lexie>
+        <LexieEntiere>parfondeur</LexieEntiere>
+        <Lexie><SousLexie>parfondeur</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>promenade</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        pourménade.
-      </Lexie>
+        <LexieEntiere>pourménade</LexieEntiere>
+        <Lexie><SousLexie>pourménade</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>promener </Entrée>
         <Complément>(se)</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <Lexie>
-        aller dédé (enf.), pourméner, vaguer, vaqueler.
-      </Lexie>
+        <LexieEntiere>aller dédé (enf.), pourméner, vaguer, vaqueler</LexieEntiere>
+        <Lexie><SousLexie>aller dédé (enf.)</SousLexie><SousLexie> pourméner</SousLexie><SousLexie> vaguer</SousLexie><SousLexie> vaqueler</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>protéger </Entrée>
         <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <Lexie>
-        (du vent...), v. : rawarder.
-      </Lexie>
+        <LexieEntiere></LexieEntiere>
+        
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>prune</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        aliette, pronne.
-      </Lexie>
+        <LexieEntiere>aliette, pronne</LexieEntiere>
+        <Lexie><SousLexie>aliette</SousLexie><SousLexie> pronne</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>prunelle </Entrée>
         <Complément>(fruit)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        fourdraine, pronne ed baudet, pronne ed quévau, pronnette.
-      </Lexie>
+        <LexieEntiere>fourdraine, pronne ed baudet, pronne ed quévau, pronnette</LexieEntiere>
+        <Lexie><SousLexie>fourdraine</SousLexie><SousLexie> pronne ed baudet</SousLexie><SousLexie> pronne ed quévau</SousLexie><SousLexie> pronnette</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pucelage</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        pièche dix sous ; perdre son pucelage : bailler s' cocarde, casser s' chabot, casser s' cruche, croquer s' nosette, êt' dame damée, ruer s'calipette.
-      </Lexie>
+        <LexieEntiere>pièche dix sous ; perdre son pucelage : bailler s' cocarde, casser s' chabot, casser s' cruche, croquer s' nosette, êt' dame damée, ruer s'calipette</LexieEntiere>
+        <Lexie><SousLexie>pièche dix sous </SousLexie><SousLexie> perdre son pucelage : bailler s' cocarde</SousLexie><SousLexie> casser s' chabot</SousLexie><SousLexie> casser s' cruche</SousLexie><SousLexie> croquer s' nosette</SousLexie><SousLexie> êt' dame damée</SousLexie><SousLexie> ruer s'calipette</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pucerons </Entrée>
         <Complément>(du rosier)</Complément>
         <StructureGrammaticale>s. m. pl.</StructureGrammaticale>
-        <Lexie>
-        immêlure.
-      </Lexie>
+        <LexieEntiere>immêlure</LexieEntiere>
+        <Lexie><SousLexie>immêlure</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>puis</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>adv.</StructureGrammaticale>
-        <Lexie>
-        pis, pus.
-      </Lexie>
+        <LexieEntiere>pis, pus</LexieEntiere>
+        <Lexie><SousLexie>pis</SousLexie><SousLexie> pus</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>puits</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        puche ; (de mine) avaleresse, beurtiat, bouniou, fosse.
-      </Lexie>
+        <LexieEntiere>puche ; (de mine) avaleresse, beurtiat, bouniou, fosse</LexieEntiere>
+        <Lexie><SousLexie>puche </SousLexie><SousLexie> (de mine) avaleresse</SousLexie><SousLexie> beurtiat</SousLexie><SousLexie> bouniou</SousLexie><SousLexie> fosse</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>pupille </Entrée>
         <Complément>(de l'oeil)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <Lexie>
-        papar, poupart.
-      </Lexie>
+        <LexieEntiere>papar, poupart</LexieEntiere>
+        <Lexie><SousLexie>papar</SousLexie><SousLexie> poupart</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>purin</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        puriau, roussi ; répandre du purin : purler.
-      </Lexie>
+        <LexieEntiere>puriau, roussi ; répandre du purin : purler</LexieEntiere>
+        <Lexie><SousLexie>puriau</SousLexie><SousLexie> roussi </SousLexie><SousLexie> répandre du purin : purler</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>putois</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <Lexie>
-        fussiau.
-      </Lexie>
+        <LexieEntiere>fussiau</LexieEntiere>
+        <Lexie><SousLexie>fussiau</SousLexie></Lexie>
       </ArticleDeDictionnaire>
       </Nomenclature>

@@ -4,7 +4,7 @@
 		module="test_2.12"
 		revision="1.0"
 		status="integration"
-		publication="20170627093024"
+		publication="20170712102034"
 	>
 		<description>
 		Test
@@ -36,5 +36,6 @@
 		<dependency org="org.scala-lang" name="scala-library" rev="2.12.1" conf="scala-tool->default,optional(default);compile->default(compile)"/>
 		<dependency org="com.lihaoyi" name="fastparse_2.12" rev="0.4.3" conf="compile->default(compile)"/>
 		<dependency org="org.scala-lang.modules" name="scala-xml_2.13.0-M1" rev="1.0.6" conf="compile->default(compile)"/>
+		<dependency org="org.apache.jena" name="apache-jena-libs" rev="3.1.0" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>

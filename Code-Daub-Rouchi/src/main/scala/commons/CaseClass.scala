@@ -6,7 +6,7 @@ case class TraductionPicard(mot: String, abreviation: String, definitions: Seq[S
 case class ListTraductionPicard(ListTraductions: List[TraductionPicard])
 
 case class TraductionFrançaise(mot: String, complement: Option[String],
-                                 abreviation: String, traduction: Seq[String])
+                                 abreviation: String, traduction: Seq[Seq[String]], lexie: Seq[String])
 
 case class ArticlePicard(Entrée: String, StructureGrammaticale: String, Lexies: Seq[String])
 

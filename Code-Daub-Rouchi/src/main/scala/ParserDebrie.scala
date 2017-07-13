@@ -52,7 +52,7 @@ class ParserDebrie {
   }
 }
 
-object MainObjectDebrie {
+object ParserDebrie {
 
 
   def main(args: Array[String]): Unit = {
