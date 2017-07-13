@@ -36,32 +36,30 @@
         <!-- load jquery ui js file -->
         <script src="./jQuery/jquery-ui.min.js"></script>
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-
-     <script>
+     <script type="text/javascript">
         $(function() {
-            var availableTags = ["abaisser","abattu","abécédaire","ablette","aboulique","aboyer","abreuver","abreuvoir","abri ","abrité ","acariâtre ","accablé","accoutrer","accrocher","accroupir ","accueillir","acharner ","acheter","acheteur","adonis","adresser","adroit","aération","affaiblir ","affaissement","affalé","affamé ","affectueux","affectueusement","affiquet","agencements ","agenouiller ","agité","agité ","agneau","agrostis","ahuri","aide","aider","aiguille","aiguillon","aiguiser","aimer","ainsi","aisé","aisé ","aller","alliaire","allumette","almanach","alors","amadouer","ameublir ","amie","amis","amour ","ampoule ","amuser ","amusette","andain","anémie","angélique","angine","anguille","animation","apaiser","apparence","appendicite","appentis","apprenti","approfondir ","appui","arabe","arabesques ","arbre","arête ","argent ","argile","armistice","armoire","armoise","arrérages","arrière-grand-père","arrière-grand-mère","arriver ","arroche","arrogant","assassin","assemblage à mi-bois","assembler","asseoir ","assoiffé ","assolement ","assorti","assoupir ","assurément","attacher","attarder ","atteindre ","attelage","attendrir","attraper","aube","audace","audacieux","augmentation","augmenter","aulne","aumône","aunée","aussi","autrefois","autrement","avare","avenue","averse","aveugle","avis","avoine"
-];
-
-		    $( "#inputpicard" ).autocomplete({
-      source: availableTags,
-
-open: function(event,ui){
-    var len = $('.ui-autocomplete > li').length;
-document.getElementById("IntroAndCount").innerHTML = 'Il y a '+len+' résultat(s) !'
-
-  }
-    });
-  } );
-  </script>
+            var availableTags = ['abaisser', 'abattu', 'ablette', 'aboulique', 'aboyer', 'abreuver'];
+		alert(availableTags[2]);
+            $("#inputpicard").autocomplete({
+                source: availableTags,
+                autoFocus:true
+            });
+        });
+        </script>
 
 	
   </head>
 
 
   <body>
-
+<script>
+$('form').submit(function(){
+    var input = $('#inputpicard').val();
+    if(input == ''){
+         alert("Vous n'avez rien entré !");
+    }    
+});
+</script>
 <script>
    function changeValue(o){
      document.getElementById('inputpicard').value=o.innerHTML;
@@ -120,10 +118,9 @@ function check(field) {
         <p class="lead">Vous cherchez comment se dit un mot en picard, occitan ou alsacien ?</p>
       </div><center>
  	<form action ="action_page.php" method="get">
-    <p id ="IntroAndCount">Indiquez ce mot :</p><div class="ui-widget">
-<button type="reset" value="Reset">Effacer</button>
-    <input type="text" id ="inputpicard" name="mot" required value="Tapez un mot..." onKeyUp="check(this)" onChange="check(this)" onclick="changeValue(this)" >
-    <input type ="submit" value ="Soumettre"> </div>
+    Indiquez ce mot : <br><br>
+    <input type="text" id ="inputpicard" name="mot" value="Tapez un mot..." onKeyUp="check(this)" onChange="check(this)" onclick="changeValue(this)"><br>
+    <input type ="submit" value ="Soumettre"> <button type="reset" value="Reset">Effacer</button>
   	</form>
 </center>
     </div><!-- /.container -->
@@ -134,7 +131,7 @@ function check(field) {
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="bootstrap/docs/assets/js/vendor/jquery.min.js"><\/script>')</script>
     <script src="bootstrap/docs/dist/js/bootstrap.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
