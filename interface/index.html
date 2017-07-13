@@ -52,6 +52,11 @@
 
 
   <body>
+<script>
+   function changeValue(o){
+     document.getElementById('inputpicard').value=o.innerHTML;
+    }
+</script>
 <script type="text/javascript">
 var base= ['abaisser','abattu','abécédaire','ablette','aboulique','aboyer','abreuver','abreuvoir','abri ','abrité ','acariâtre ','accablé','accoutrer','accrocher','accroupir ','accueillir','acharner ','acheter','acheteur','adonis','adresser','adroit','aération','affaiblir ','affaissement','affalé','affamé ','affectueux','affectueusement','affiquet','agencements ','agenouiller ','agité','agité ','agneau','agrostis','ahuri','aide','aider','aiguille','aiguillon','aiguiser','aimer','ainsi','aisé','aisé ','aller','alliaire','allumette','almanach','alors','amadouer','ameublir ','amie','amis','amour ','ampoule ','amuser ','amusette','andain','anémie','angélique','angine','anguille','animation','apaiser','apparence','appendicite','appentis','apprenti','approfondir ','appui','arabe','arabesques ','arbre','arête ','argent ','argile','armistice','armoire','armoise','arrérages','arrière-grand-père','arrière-grand-mère','arriver ','arroche','arrogant','assassin','assemblage à mi-bois','assembler','asseoir ','assoiffé ','assolement ','assorti','assoupir ','assurément','attacher','attarder ','atteindre ','attelage','attendrir','attraper','aube','audace','audacieux','augmentation','augmenter','aulne','aumône','aunée','aussi','autrefois','autrement','avare','avenue','averse','aveugle','avis','avoine'];
 
@@ -106,8 +111,8 @@ function check(field) {
       </div><center>
  	<form action ="action_page.php" method="get">
     Indiquez ce mot : <br><br>
-    <input type="text" id ="inputpicard" name="mot" value="Tapez un mot..." onKeyUp="check(this)" onChange="check(this)"><br>
-    <input type ="submit"> <button type="reset" value="Reset">Reset</button>
+    <input type="text" id ="inputpicard" name="mot" value="Tapez un mot..." onKeyUp="check(this)" onChange="check(this)" onclick="changeValue(this)"><br>
+    <input type ="submit" value ="Soumettre"> <button type="reset" value="Reset">Effacer</button>
   	</form>
 </center>
     </div><!-- /.container -->
