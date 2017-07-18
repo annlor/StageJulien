@@ -52,11 +52,11 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.php">RESTAURE</a>
+          <a class="navbar-brand" href="index.html">RESTAURE</a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-            <li class="active"><a href="index.php">Home</a></li>
+            <li class="active"><a href="index.html">Home</a></li>
             <li><a href="#about">About</a></li>
             <li><a href="#contact">Contact</a></li>
           </ul>
@@ -69,11 +69,7 @@
       <div class="starter-template">
         <p class="lead">Vous avez cherché :</p><?php
 $output = $_GET["mot"];
-$output = htmlspecialchars($output, ENT_QUOTES);
-if (preg_match('/([a-zA-Z()\s\',]+)/',$output)<1){
-	$output = "Entrée invalide";
-}
-echo $output;
+  echo $output;
 ?><br><br>
 
   <span onclick="changeOnglet(0)"><button type="button" class="btn btn-primary">Traductions</button></span>
@@ -85,43 +81,7 @@ echo $output;
 
     <div id="contenuOnglet0" style="display:block;">
 	<ul style="list-style-type:circle">
-	<li>Picard : </li><p id = "output"><?php
-/* ARC2 static class inclusion */ 
-
-  include_once('semsol/ARC2.php'); 
-
-$dbpconfig = array(
-  "remote_store_endpoint" => "http://jarry:3030/restaure/query",
-   );
-$store = ARC2::getRemoteStore($dbpconfig); 
-if ($errs = $store->getErrors()) {
-     echo "<h1>getRemoteSotre error<h1>" ;
-  }
-
-$output = $_GET["mot"];
-
-$query = "PREFIX ontolex: <http://www.w3.org/ns/lemon/ontolex#>
-PREFIX restaure: <http://restaure.limsi.fr/2017/rdf#>
-SELECT ?object2
-WHERE {
-    ?x ontolex:writtenRep \"${output}\" .
-    ?y ontolex:lexicalForm ?x.
-  	?y restaure:TranslatableAsBetweenForms ?z.
-    ?z ontolex:writtenRep ?object2
-}";
-
-/* execute the query */
-  $rows = $store->query($query, 'rows'); 
- 
-    if ($errs = $store->getErrors()) {
-       echo "Query errors" ;
-       print_r($errs);
-    }
-foreach($rows as $row){
-	echo $row['object2'];
-}
-
-?> </p>
+	<li>Picard : </li> <p id ="output"></p>
 	<li>Alsacien :</li>
 	<li>Occitan :</li>
 	</ul>
@@ -137,7 +97,7 @@ foreach($rows as $row){
 
      
 
-<!--
+
 <script type="text/javascript">
 var res;
 var xhttp = new XMLHttpRequest();
@@ -166,7 +126,7 @@ return y.nodeValue;
 
 
 </script>
--->
+
 
 
 <script>
