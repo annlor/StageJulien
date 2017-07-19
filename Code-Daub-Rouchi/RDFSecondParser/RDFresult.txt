@@ -1,427 +1,1127 @@
 @prefix restaure: <http://restaure.limsi.fr/2017/rdf#> .
+@prefix vartrans: <https://www.w3.org/ns/lemon/vartrans#> .
 @prefix ontolex: <http://www.w3.org/ns/lemon/ontolex#> .
 @prefix lexinfo: <http://lexinfo.net/ontology/2.0/lexinfo#> .
 
-restaure:le_108  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_aulne .
-
-restaure:le_50  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_almanach .
-
-restaure:le_22  ontolex:lexicalForm  restaure:le_adroit .
-
-restaure:le_91  lexinfo:Verb  restaure:le_verbe ;
-        lexinfo:partOfSpeech  restaure:le_verbe ;
-        ontolex:lexicalForm   restaure:le_asseoir .
-
-restaure:le_63  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_angine .
-
-restaure:le_35  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_agneau .
-
-restaure:le_76  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_arête .
-
-restaure:le_102  lexinfo:Verb  restaure:le_verbe ;
-        lexinfo:partOfSpeech  restaure:le_verbe ;
-        ontolex:lexicalForm   restaure:le_attraper .
-
-restaure:le_48  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_alliaire .
-
-restaure:le_5  lexinfo:Noun   restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_aboulique .
-
-restaure:le_89  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_assemblage_à_mi-bois .
-
-restaure:le_115  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_avenue .
-
-restaure:le_70  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_apprenti .
-
-restaure:le_42  lexinfo:Verb  restaure:le_verbe ;
-        lexinfo:partOfSpeech  restaure:le_verbe ;
-        ontolex:lexicalForm   restaure:le_aiguiser .
-
-restaure:le_14  lexinfo:Verb  restaure:le_verbe ;
-        lexinfo:partOfSpeech  restaure:le_verbe ;
-        ontolex:lexicalForm   restaure:le_accrocher .
-
-restaure:le_83  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_arrière-grand-père .
-
-restaure:le_55  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_amis .
-
-restaure:le_27  ontolex:lexicalForm  restaure:le_affamé .
-
-restaure:le_96  ontolex:lexicalForm  restaure:le_assurément .
-
-restaure:le_68  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_appendicite .
-
-restaure:le_107  lexinfo:Verb  restaure:le_verbe ;
-        lexinfo:partOfSpeech  restaure:le_verbe ;
-        ontolex:lexicalForm   restaure:le_augmenter .
-
-restaure:le_21  lexinfo:Verb  restaure:le_verbe ;
-        lexinfo:partOfSpeech  restaure:le_verbe ;
-        ontolex:lexicalForm   restaure:le_adresser .
-
-restaure:le_90  lexinfo:Verb  restaure:le_verbe ;
-        lexinfo:partOfSpeech  restaure:le_verbe ;
-        ontolex:lexicalForm   restaure:le_assembler .
-
-restaure:le_62  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_angélique .
-
-restaure:le_34  ontolex:lexicalForm  restaure:le_agité .
-
-restaure:le_75  ontolex:lexicalForm  restaure:le_arbre .
-
-restaure:le_101  lexinfo:Verb  restaure:le_verbe ;
-        lexinfo:partOfSpeech  restaure:le_verbe ;
-        ontolex:lexicalForm   restaure:le_attendrir .
-
-restaure:le_47  lexinfo:Verb  restaure:le_verbe ;
-        lexinfo:partOfSpeech  restaure:le_verbe ;
-        ontolex:lexicalForm   restaure:le_aller .
-
-restaure:le_4  lexinfo:Noun   restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_ablette .
-
-restaure:le_19  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_acheteur .
-
-restaure:le_88  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_assassin .
-
-restaure:le_114  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_avare .
-
-restaure:le_41  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_aiguillon .
-
-restaure:le_13  lexinfo:Verb  restaure:le_verbe ;
-        lexinfo:partOfSpeech  restaure:le_verbe ;
-        ontolex:lexicalForm   restaure:le_accoutrer .
-
-restaure:le_82  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_arrérages .
-
-restaure:le_54  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_amie .
-
-restaure:le_26  ontolex:lexicalForm  restaure:le_affalé .
-
-restaure:le_95  lexinfo:Verb  restaure:le_verbe ;
-        lexinfo:partOfSpeech  restaure:le_verbe ;
-        ontolex:lexicalForm   restaure:le_assoupir .
-
-restaure:le_67  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_apparence .
-
-restaure:le_39  lexinfo:Verb  restaure:le_verbe ;
-        lexinfo:partOfSpeech  restaure:le_verbe ;
-        ontolex:lexicalForm   restaure:le_aider .
-
-restaure:le_106  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_augmentation .
-
-restaure:le_9  ontolex:lexicalForm  restaure:le_abri .
-
-restaure:le_20  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_adonis .
-
-restaure:le_119  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_avoine .
-
-restaure:le_61  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_anémie .
-
-restaure:le_33  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_agité .
-
-restaure:le_74  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_arabesques .
-
-restaure:le_100  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_attelage .
-
-restaure:le_46  ontolex:lexicalForm  restaure:le_aisé .
-
-restaure:le_3  lexinfo:Noun   restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_abécédaire .
-
-restaure:le_18  lexinfo:Verb  restaure:le_verbe ;
-        lexinfo:partOfSpeech  restaure:le_verbe ;
-        ontolex:lexicalForm   restaure:le_acheter .
-
-restaure:le_87  ontolex:lexicalForm  restaure:le_arrogant .
-
-restaure:le_59  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_amusette .
-
-restaure:le_113  ontolex:lexicalForm  restaure:le_autrement .
-
-restaure:le_40  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_aiguille .
-
-restaure:le_12  ontolex:lexicalForm  restaure:le_accablé .
-
-restaure:le_81  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_armoise .
-
-restaure:le_53  ontolex:lexicalForm  restaure:le_ameublir .
-
-restaure:le_25  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_affaissement .
-
-restaure:le_94  ontolex:lexicalForm  restaure:le_assorti .
-
-restaure:le_66  lexinfo:Verb  restaure:le_verbe ;
-        lexinfo:partOfSpeech  restaure:le_verbe ;
-        ontolex:lexicalForm   restaure:le_apaiser .
-
-restaure:le_38  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_aide .
-
-restaure:le_79  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_armistice .
-
-restaure:le_105  ontolex:lexicalForm  restaure:le_audacieux .
-
-restaure:le_8  lexinfo:Noun   restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_abreuvoir .
-
-restaure:le_118  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_avis .
-
-restaure:le_60  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_andain .
-
-restaure:le_32  lexinfo:Verb  restaure:le_verbe ;
-        lexinfo:partOfSpeech  restaure:le_verbe ;
-        ontolex:lexicalForm   restaure:le_agenouiller .
-
-restaure:le_73  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_arabe .
-
-restaure:le_45  ontolex:lexicalForm  restaure:le_aisé .
-
-restaure:le_2  ontolex:lexicalForm  restaure:le_abattu .
-
-restaure:le_17  lexinfo:Verb  restaure:le_verbe ;
-        lexinfo:partOfSpeech  restaure:le_verbe ;
-        ontolex:lexicalForm   restaure:le_acharner .
-
-restaure:le_86  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_arroche .
-
-restaure:le_58  lexinfo:Verb  restaure:le_verbe ;
-        lexinfo:partOfSpeech  restaure:le_verbe ;
-        ontolex:lexicalForm   restaure:le_amuser .
-
-restaure:le_112  ontolex:lexicalForm  restaure:le_autrefois .
-
-restaure:le_99  lexinfo:Verb  restaure:le_verbe ;
-        lexinfo:partOfSpeech  restaure:le_verbe ;
-        ontolex:lexicalForm   restaure:le_atteindre .
-
-restaure:le_11  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_acariâtre .
-
-restaure:le_80  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_armoire .
-
-restaure:le_52  lexinfo:Verb  restaure:le_verbe ;
-        lexinfo:partOfSpeech  restaure:le_verbe ;
-        ontolex:lexicalForm   restaure:le_amadouer .
-
-restaure:le_24  lexinfo:Verb  restaure:le_verbe ;
-        lexinfo:partOfSpeech  restaure:le_verbe ;
-        ontolex:lexicalForm   restaure:le_affaiblir .
-
-restaure:le_93  ontolex:lexicalForm  restaure:le_assolement .
-
-restaure:le_65  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_animation .
-
-restaure:le_37  ontolex:lexicalForm  restaure:le_ahuri .
-
-restaure:le_78  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_argile .
-
-restaure:le_104  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_audace .
-
-restaure:le_7  lexinfo:Verb   restaure:le_verbe ;
-        lexinfo:partOfSpeech  restaure:le_verbe ;
-        ontolex:lexicalForm   restaure:le_abreuver .
-
-restaure:le_117  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_aveugle .
-
-restaure:le_31  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_agencements .
-
-restaure:le_72  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_appui .
-
-restaure:le_44  ontolex:lexicalForm  restaure:le_ainsi .
-
-restaure:le_1  lexinfo:Verb   restaure:le_verbe ;
-        lexinfo:partOfSpeech  restaure:le_verbe ;
-        ontolex:lexicalForm   restaure:le_abaisser .
-
-restaure:le_16  lexinfo:Verb  restaure:le_verbe ;
-        lexinfo:partOfSpeech  restaure:le_verbe ;
-        ontolex:lexicalForm   restaure:le_accueillir .
-
-restaure:le_85  lexinfo:Verb  restaure:le_verbe ;
-        lexinfo:partOfSpeech  restaure:le_verbe ;
-        ontolex:lexicalForm   restaure:le_arriver .
-
-restaure:le_57  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_ampoule .
-
-restaure:le_111  ontolex:lexicalForm  restaure:le_aussi .
-
-restaure:le_29  ontolex:lexicalForm  restaure:le_affectueusement .
-
-restaure:le_98  lexinfo:Verb  restaure:le_verbe ;
-        lexinfo:partOfSpeech  restaure:le_verbe ;
-        ontolex:lexicalForm   restaure:le_attarder .
-
-restaure:le_10  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_abrité .
-
-restaure:le_109  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_aumône .
-
-restaure:le_51  ontolex:lexicalForm  restaure:le_alors .
-
-restaure:le_23  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_aération .
-
-restaure:le_92  ontolex:lexicalForm  restaure:le_assoiffé .
-
-restaure:le_64  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_anguille .
-
-restaure:le_36  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_agrostis .
-
-restaure:le_77  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_argent .
-
-restaure:le_103  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_aube .
-
-restaure:le_49  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_allumette .
-
-restaure:le_6  lexinfo:Verb   restaure:le_verbe ;
-        lexinfo:partOfSpeech  restaure:le_verbe ;
-        ontolex:lexicalForm   restaure:le_aboyer .
-
-restaure:le_116  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_averse .
-
-restaure:le_30  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_affiquet .
-
-restaure:le_71  lexinfo:Verb  restaure:le_verbe ;
-        lexinfo:partOfSpeech  restaure:le_verbe ;
-        ontolex:lexicalForm   restaure:le_approfondir .
-
-restaure:le_43  lexinfo:Verb  restaure:le_verbe ;
-        lexinfo:partOfSpeech  restaure:le_verbe ;
-        ontolex:lexicalForm   restaure:le_aimer .
-
-restaure:le_15  lexinfo:Verb  restaure:le_verbe ;
-        lexinfo:partOfSpeech  restaure:le_verbe ;
-        ontolex:lexicalForm   restaure:le_accroupir .
-
-restaure:le_84  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_arrière-grand-mère .
-
-restaure:le_56  ontolex:lexicalForm  restaure:le_amour .
-
-restaure:le_110  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_aunée .
-
-restaure:le_28  ontolex:lexicalForm  restaure:le_affectueux .
-
-restaure:le_97  lexinfo:Verb  restaure:le_verbe ;
-        lexinfo:partOfSpeech  restaure:le_verbe ;
-        ontolex:lexicalForm   restaure:le_attacher .
-
-restaure:le_69  lexinfo:Noun  restaure:le_substantif ;
-        lexinfo:partOfSpeech  restaure:le_substantif ;
-        ontolex:lexicalForm   restaure:le_appentis .
+restaure:le_92  lexinfo:partOfSpeech  lexinfo:Verb ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#d%C3%A9ro%C3%AFer.> ;
+        ontolex:lexicalForm   <http://restaure.limsi.fr/2017/rdf#lf_assolement%20> ;
+        ontolex:writtenRep    <http://restaure.limsi.fr/2017/rdf#assolement%20(changer%20d')> .
+
+<http://restaure.limsi.fr/2017/rdf#appo%C3%AFette.>
+        ontolex:writtenRep  "appoïette." .
+
+restaure:le_71  lexinfo:Gender  lexinfo:Masculine ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#appo%C3%AFette.> ;
+        ontolex:lexicalForm   restaure:lf_appui ;
+        ontolex:writtenRep    restaure:appui .
+
+restaure:le_50  restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#ad%C3%A8s.> ;
+        ontolex:lexicalForm  restaure:lf_alors ;
+        ontolex:writtenRep   restaure:alors .
+
+restaure:le_111  restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#auterfos,%20dins%20l'%20temps.> ;
+        ontolex:lexicalForm  restaure:lf_autrefois ;
+        ontolex:writtenRep   restaure:autrefois .
+
+<http://restaure.limsi.fr/2017/rdf#aiwuille.>
+        ontolex:writtenRep  "aiwuille." .
+
+restaure:le_29  lexinfo:Gender  lexinfo:Masculine ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#affiquo.> ;
+        ontolex:lexicalForm   restaure:lf_affiquet ;
+        ontolex:writtenRep    restaure:affiquet .
+
+<http://restaure.limsi.fr/2017/rdf#abistoquer,%20affuler,%20agimoler,%20ostrouiller,%20ouster.>
+        ontolex:writtenRep  "abistoquer, affuler, agimoler, ostrouiller, ouster." .
+
+<http://restaure.limsi.fr/2017/rdf#remonter%20l'%20horloge,%20biscoter,%20broqueter,%20broussier,%20cotronner,%20croquer%20l'%20pun%20d'%20capindu%20;%20faire%20:%20frisette,%20qu%C3%A9quette,%20touquette%20;%20juer%20:%20%C3%A0%20l'%20basse-danse,%20du%20bilbotiau,%20du%20bricotiau,%20du%20broquelet,%20d%C3%A9%20l'%20broquette,%20du%20carcaillou%20;%20secouer%20l'%20pronnier%20;%20tirer%20%C3%A0%20biec.>
+        ontolex:writtenRep  "remonter l' horloge, biscoter, broqueter, broussier, cotronner, croquer l' pun d' capindu ; faire : frisette, quéquette, touquette ; juer : à l' basse-danse, du bilbotiau, du bricotiau, du broquelet, dé l' broquette, du carcaillou ; secouer l' pronnier ; tirer à biec." .
+
+<http://restaure.limsi.fr/2017/rdf#picot,%20pipi,%20piqueron.>
+        ontolex:writtenRep  "picot, pipi, piqueron." .
+
+<http://restaure.limsi.fr/2017/rdf#affinir.>
+        ontolex:writtenRep  "affinir." .
+
+<http://restaure.limsi.fr/2017/rdf#tchouc-tchouc.>
+        ontolex:writtenRep  "tchouc-tchouc." .
+
+restaure:le_79  lexinfo:Gender  lexinfo:Female ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#aumaire,%20armoire.> ;
+        ontolex:lexicalForm   restaure:lf_armoire ;
+        ontolex:writtenRep    restaure:armoire .
+
+restaure:le_58  lexinfo:Gender  lexinfo:Female ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#arlusette.> ;
+        ontolex:lexicalForm   restaure:lf_amusette ;
+        ontolex:writtenRep    restaure:amusette .
+
+<http://restaure.limsi.fr/2017/rdf#aisile.>
+        ontolex:writtenRep  "aisile." .
+
+restaure:le_37  lexinfo:Gender  lexinfo:Female ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#assistance.> ;
+        ontolex:lexicalForm   restaure:lf_aide ;
+        ontolex:writtenRep    restaure:aide .
+
+<http://restaure.limsi.fr/2017/rdf#d%C3%A9hors.>
+        ontolex:writtenRep  "déhors." .
+
+restaure:le_16  lexinfo:partOfSpeech  lexinfo:Verb ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#s'incarner.> ;
+        ontolex:lexicalForm   <http://restaure.limsi.fr/2017/rdf#lf_acharner%20> ;
+        ontolex:writtenRep    <http://restaure.limsi.fr/2017/rdf#acharner%20(s')> .
+
+<http://restaure.limsi.fr/2017/rdf#s'%20carnicher,%20s'%20ratarger.>
+        ontolex:writtenRep  "s' carnicher, s' ratarger." .
+
+<http://restaure.limsi.fr/2017/rdf#coliques%20miserere.>
+        ontolex:writtenRep  "coliques miserere." .
+
+restaure:le_0  lexinfo:partOfSpeech  lexinfo:Verb ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#abassier,%20rabassier,%20rabasner.> ;
+        ontolex:lexicalForm   restaure:lf_abaisser ;
+        ontolex:writtenRep    restaure:abaisser .
+
+restaure:le_87  lexinfo:Gender  lexinfo:Masculine ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#assazin,%20assassineux,%20mourdreux.> ;
+        ontolex:lexicalForm   restaure:lf_assassin ;
+        ontolex:writtenRep    restaure:assassin .
+
+restaure:le_66  lexinfo:Gender  lexinfo:Female ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#d%C3%A9hors.> ;
+        ontolex:lexicalForm   restaure:lf_apparence ;
+        ontolex:writtenRep    restaure:apparence .
+
+<http://restaure.limsi.fr/2017/rdf#amisse.>
+        ontolex:writtenRep  "amisse." .
+
+restaure:le_45  lexinfo:partOfSpeech  lexinfo:Verb ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#avoir%20el%20mo%C3%AFen.> ;
+        ontolex:lexicalForm   <http://restaure.limsi.fr/2017/rdf#lf_ais%C3%A9%20> ;
+        ontolex:writtenRep    <http://restaure.limsi.fr/2017/rdf#ais%C3%A9%20(%C3%AAtre)> .
+
+restaure:le_106  lexinfo:partOfSpeech  lexinfo:Verb ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#aurminter,%20raugminter.> ;
+        ontolex:lexicalForm   restaure:lf_augmenter ;
+        ontolex:writtenRep    restaure:augmenter .
+
+restaure:le_24  lexinfo:Gender  lexinfo:Masculine ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#fondaque.> ;
+        ontolex:lexicalForm   restaure:lf_affaissement ;
+        ontolex:writtenRep    restaure:affaissement .
+
+<http://restaure.limsi.fr/2017/rdf#moule-cuite.>
+        ontolex:writtenRep  "moule-cuite." .
+
+<http://restaure.limsi.fr/2017/rdf#%20;%20arg%C3%A9ron,%20di%C3%A8ve.>
+        ontolex:writtenRep  " ; argéron, diève." .
+
+restaure:le_8  lexinfo:partOfSpeech  lexinfo:Verb ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#%C3%AAt'%20au%20co,%20au%20coi,%20%C3%A0%20l'%20co%C3%AFette.> ;
+        ontolex:lexicalForm   <http://restaure.limsi.fr/2017/rdf#lf_abri%20> ;
+        ontolex:writtenRep    <http://restaure.limsi.fr/2017/rdf#abri%20(%C3%AAtre%20%C3%A0%20l')> .
+
+<http://restaure.limsi.fr/2017/rdf#abassier,%20rabassier,%20rabasner.>
+        ontolex:writtenRep  "abassier, rabassier, rabasner." .
+
+restaure:le_95  restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#asseur%C3%A9.> ;
+        ontolex:lexicalForm  <http://restaure.limsi.fr/2017/rdf#lf_assur%C3%A9ment> ;
+        ontolex:writtenRep   <http://restaure.limsi.fr/2017/rdf#assur%C3%A9ment> .
+
+restaure:le_74  restaure:TranslatableAsBetweenForms
+                restaure: ;
+        ontolex:lexicalForm  restaure:lf_arbre ;
+        ontolex:writtenRep   restaure:arbre .
+
+restaure:le_114  lexinfo:Gender  lexinfo:Female ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#dr%C3%A8ve.> ;
+        ontolex:lexicalForm   restaure:lf_avenue ;
+        ontolex:writtenRep    restaure:avenue .
+
+restaure:le_53  lexinfo:Gender  lexinfo:Female ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#amisse.> ;
+        ontolex:lexicalForm   restaure:lf_amie ;
+        ontolex:writtenRep    restaure:amie .
+
+<http://restaure.limsi.fr/2017/rdf#asseur%C3%A9.>
+        ontolex:writtenRep  "asseuré." .
+
+<http://restaure.limsi.fr/2017/rdf#sorte%20%C3%A0%20sorte.>
+        ontolex:writtenRep  "sorte à sorte." .
+
+restaure:le_32  lexinfo:Gender  lexinfo:Masculine ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#cul-remuant,%20%C3%A9foufi%C3%A9,%20infoufi%C3%A9,%20vif-argint.> ;
+        ontolex:lexicalForm   <http://restaure.limsi.fr/2017/rdf#lf_agit%C3%A9> ;
+        ontolex:writtenRep    <http://restaure.limsi.fr/2017/rdf#agit%C3%A9> .
+
+restaure:le_11  lexinfo:partOfSpeech  lexinfo:Adjective ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#fl%C3%A2tr%C3%A9,%20flau%20;%20(de%20travail)%20acravint%C3%A9,%20inforch%C3%A9%20;%20(de%20sommeil)%20aplomm%C3%A9.> ;
+        ontolex:lexicalForm   <http://restaure.limsi.fr/2017/rdf#lf_accabl%C3%A9> ;
+        ontolex:writtenRep    <http://restaure.limsi.fr/2017/rdf#accabl%C3%A9> .
+
+<http://restaure.limsi.fr/2017/rdf#angile.>
+        ontolex:writtenRep  "angile." .
+
+<http://restaure.limsi.fr/2017/rdf#amiteusemint.>
+        ontolex:writtenRep  "amiteusemint." .
+
+<http://restaure.limsi.fr/2017/rdf#abattis,%20rabattu.>
+        ontolex:writtenRep  "abattis, rabattu." .
+
+restaure:le_82  lexinfo:Gender  lexinfo:Masculine ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#ratayon.> ;
+        ontolex:lexicalForm   <http://restaure.limsi.fr/2017/rdf#lf_arri%C3%A8re-grand-p%C3%A8re> ;
+        ontolex:writtenRep    <http://restaure.limsi.fr/2017/rdf#arri%C3%A8re-grand-p%C3%A8re> .
+
+<http://restaure.limsi.fr/2017/rdf#ondaine.>
+        ontolex:writtenRep  "ondaine." .
+
+restaure:le_61  lexinfo:Gender  lexinfo:Female ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#panasse%20(plante).> ;
+        ontolex:lexicalForm   <http://restaure.limsi.fr/2017/rdf#lf_ang%C3%A9lique> ;
+        ontolex:writtenRep    <http://restaure.limsi.fr/2017/rdf#ang%C3%A9lique> .
+
+<http://restaure.limsi.fr/2017/rdf#fl%C3%A2tr%C3%A9,%20flau%20;%20(de%20travail)%20acravint%C3%A9,%20inforch%C3%A9%20;%20(de%20sommeil)%20aplomm%C3%A9.>
+        ontolex:writtenRep  "flâtré, flau ; (de travail) acravinté, inforché ; (de sommeil) aplommé." .
+
+restaure:le_40  lexinfo:Gender  lexinfo:Masculine ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#picot,%20pipi,%20piqueron.> ;
+        ontolex:lexicalForm   restaure:lf_aiguillon ;
+        ontolex:writtenRep    restaure:aiguillon .
+
+restaure:le_101  lexinfo:partOfSpeech  lexinfo:Verb ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#happer.> ;
+        ontolex:lexicalForm   restaure:lf_attraper ;
+        ontolex:writtenRep    restaure:attraper .
+
+restaure:le_19  lexinfo:Gender  lexinfo:Masculine ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#brunette%20(plante).> ;
+        ontolex:lexicalForm   restaure:lf_adonis ;
+        ontolex:writtenRep    restaure:adonis .
+
+<http://restaure.limsi.fr/2017/rdf#aupi%C3%A8le,%20impi%C3%A8le.>
+        ontolex:writtenRep  "aupièle, impièle." .
+
+<http://restaure.limsi.fr/2017/rdf#avoir%20quer.>
+        ontolex:writtenRep  "avoir quer." .
+
+restaure:le_3  lexinfo:Gender  lexinfo:Female ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#aupi%C3%A8le,%20impi%C3%A8le.> ;
+        ontolex:lexicalForm   restaure:lf_ablette ;
+        ontolex:writtenRep    restaure:ablette .
+
+restaure:le_90  lexinfo:partOfSpeech  lexinfo:Verb ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#s'assir,%20faire%20sissite.> ;
+        ontolex:lexicalForm   <http://restaure.limsi.fr/2017/rdf#lf_asseoir%20> ;
+        ontolex:writtenRep    <http://restaure.limsi.fr/2017/rdf#asseoir%20(s')> .
+
+<http://restaure.limsi.fr/2017/rdf#amnistie.>
+        ontolex:writtenRep  "amnistie." .
+
+restaure:le_69  lexinfo:Gender  lexinfo:Masculine ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#aclopin,%20galibot.> ;
+        ontolex:lexicalForm   restaure:lf_apprenti ;
+        ontolex:writtenRep    restaure:apprenti .
+
+<http://restaure.limsi.fr/2017/rdf#gale,%20soufflette.>
+        ontolex:writtenRep  "gale, soufflette." .
+
+<http://restaure.limsi.fr/2017/rdf#%C3%A9queucher,%20r%C3%A9wisier.>
+        ontolex:writtenRep  "équeucher, réwisier." .
+
+<http://restaure.limsi.fr/2017/rdf#dr%C3%A8ve.>
+        ontolex:writtenRep  "drève." .
+
+restaure:le_48  lexinfo:Gender  lexinfo:Female ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#alleumette,%20buhotte.> ;
+        ontolex:lexicalForm   restaure:lf_allumette ;
+        ontolex:writtenRep    restaure:allumette .
+
+<http://restaure.limsi.fr/2017/rdf#sang%20d'%20pisson,%20sang%20d'%20naviau.>
+        ontolex:writtenRep  "sang d' pisson, sang d' naviau." .
+
+restaure:le_109  lexinfo:Gender  lexinfo:Female ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#lionne.> ;
+        ontolex:lexicalForm   <http://restaure.limsi.fr/2017/rdf#lf_aun%C3%A9e> ;
+        ontolex:writtenRep    <http://restaure.limsi.fr/2017/rdf#aun%C3%A9e> .
+
+restaure:le_27  lexinfo:partOfSpeech  lexinfo:Adjective ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#amitieux.> ;
+        ontolex:lexicalForm   restaure:lf_affectueux ;
+        ontolex:writtenRep    restaure:affectueux .
+
+<http://restaure.limsi.fr/2017/rdf#s'assir,%20faire%20sissite.>
+        ontolex:writtenRep  "s'assir, faire sissite." .
+
+<http://restaure.limsi.fr/2017/rdf#auterfos,%20dins%20l'%20temps.>
+        ontolex:writtenRep  "auterfos, dins l' temps." .
+
+<http://restaure.limsi.fr/2017/rdf#lionne.>
+        ontolex:writtenRep  "lionne." .
+
+<http://restaure.limsi.fr/2017/rdf#autermint.>
+        ontolex:writtenRep  "autermint." .
+
+<http://restaure.limsi.fr/2017/rdf#ant%C3%A9niau,%20b%C3%A9dot.>
+        ontolex:writtenRep  "anténiau, bédot." .
+
+<http://restaure.limsi.fr/2017/rdf#alleumette,%20buhotte.>
+        ontolex:writtenRep  "alleumette, buhotte." .
+
+restaure:le_98  lexinfo:partOfSpeech  lexinfo:Verb ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#adoquer.> ;
+        ontolex:lexicalForm   <http://restaure.limsi.fr/2017/rdf#lf_atteindre%20> ;
+        ontolex:writtenRep    <http://restaure.limsi.fr/2017/rdf#atteindre%20(un%20but)> .
+
+<http://restaure.limsi.fr/2017/rdf#affiquo.>
+        ontolex:writtenRep  "affiquo." .
+
+restaure:le_77  lexinfo:Gender  lexinfo:Female ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#%20;%20arg%C3%A9ron,%20di%C3%A8ve.> ;
+        ontolex:lexicalForm   restaure:lf_argile ;
+        ontolex:writtenRep    restaure:argile .
+
+restaure:le_56  lexinfo:Gender  lexinfo:Female ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#gale,%20soufflette.> ;
+        ontolex:lexicalForm   <http://restaure.limsi.fr/2017/rdf#lf_ampoule%20> ;
+        ontolex:writtenRep    <http://restaure.limsi.fr/2017/rdf#ampoule%20(cloque)> .
+
+restaure:le_117  lexinfo:Gender  lexinfo:Masculine ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#%20;%20%C3%A0%20mon%20avis%20:%20%C3%A0%20m'%20mode,%20por%20mi.%20Proclamer%20un%20avis%20:%20arloter,%20bach%C3%A9ner,%20faire%20el%20cri%C3%A8re,%20tambourer.> ;
+        ontolex:lexicalForm   restaure:lf_avis ;
+        ontolex:writtenRep    restaure:avis .
+
+<http://restaure.limsi.fr/2017/rdf#cul-remuant,%20%C3%A9foufi%C3%A9,%20infoufi%C3%A9,%20vif-argint.>
+        ontolex:writtenRep  "cul-remuant, éfoufié, infoufié, vif-argint." .
+
+restaure:le_35  lexinfo:Gender  lexinfo:Masculine ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#m%C3%A9non,%20pleumette.> ;
+        ontolex:lexicalForm   restaure:lf_agrostis ;
+        ontolex:writtenRep    restaure:agrostis .
+
+<http://restaure.limsi.fr/2017/rdf#%C3%AAt'%20au%20co,%20au%20coi,%20%C3%A0%20l'%20co%C3%AFette.>
+        ontolex:writtenRep  "êt' au co, au coi, à l' coïette." .
+
+restaure:le_14  lexinfo:partOfSpeech  lexinfo:Verb ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#s'aginer,%20s'ajouquer,%20s'anicher,%20s'aniger%20;%20s'%20mett'%20%C3%A0%20croucrou,%20s'%20mett'%20%C3%A0%20croupettes.> ;
+        ontolex:lexicalForm   <http://restaure.limsi.fr/2017/rdf#lf_accroupir%20> ;
+        ontolex:writtenRep    <http://restaure.limsi.fr/2017/rdf#accroupir%20(s')> .
+
+<http://restaure.limsi.fr/2017/rdf#panasse%20(plante).>
+        ontolex:writtenRep  "panasse (plante)." .
+
+<http://restaure.limsi.fr/2017/rdf#Marie-Grognon.>
+        ontolex:writtenRep  "Marie-Grognon." .
+
+<http://restaure.limsi.fr/2017/rdf#raterrir.>
+        ontolex:writtenRep  "raterrir." .
+
+restaure:le_85  lexinfo:Gender  lexinfo:Female ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#dames.> ;
+        ontolex:lexicalForm   restaure:lf_arroche ;
+        ontolex:writtenRep    restaure:arroche .
+
+restaure:le_64  lexinfo:Gender  lexinfo:Female ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#arlache.> ;
+        ontolex:lexicalForm   restaure:lf_animation ;
+        ontolex:writtenRep    restaure:animation .
+
+restaure:le_43  restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#ainsin.> ;
+        ontolex:lexicalForm  restaure:lf_ainsi ;
+        ontolex:writtenRep   restaure:ainsi .
+
+restaure:le_104  lexinfo:partOfSpeech  lexinfo:Adjective ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#franc.> ;
+        ontolex:lexicalForm   restaure:lf_audacieux ;
+        ontolex:writtenRep    restaure:audacieux .
+
+<http://restaure.limsi.fr/2017/rdf#arm%C3%A9naque.>
+        ontolex:writtenRep  "arménaque." .
+
+restaure:le_22  lexinfo:Gender  lexinfo:Female ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#airage.> ;
+        ontolex:lexicalForm   <http://restaure.limsi.fr/2017/rdf#lf_a%C3%A9ration> ;
+        ontolex:writtenRep    <http://restaure.limsi.fr/2017/rdf#a%C3%A9ration> .
+
+<http://restaure.limsi.fr/2017/rdf#s'aginer,%20s'ajouquer,%20s'anicher,%20s'aniger%20;%20s'%20mett'%20%C3%A0%20croucrou,%20s'%20mett'%20%C3%A0%20croupettes.>
+        ontolex:writtenRep  "s'aginer, s'ajouquer, s'anicher, s'aniger ; s' mett' à croucrou, s' mett' à croupettes." .
+
+restaure:le_6  lexinfo:partOfSpeech  lexinfo:Verb ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#abeuvrer.> ;
+        ontolex:lexicalForm   restaure:lf_abreuver ;
+        ontolex:writtenRep    restaure:abreuver .
+
+<http://restaure.limsi.fr/2017/rdf#amitieux.>
+        ontolex:writtenRep  "amitieux." .
+
+restaure:le_93  lexinfo:partOfSpeech  lexinfo:Adjective ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#sorte%20%C3%A0%20sorte.> ;
+        ontolex:lexicalForm   restaure:lf_assorti ;
+        ontolex:writtenRep    restaure:assorti .
+
+restaure:le_72  lexinfo:Gender  lexinfo:Masculine ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#tchouc-tchouc.> ;
+        ontolex:lexicalForm   restaure:lf_arabe ;
+        ontolex:writtenRep    restaure:arabe .
+
+restaure:le_51  lexinfo:partOfSpeech  lexinfo:Verb ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#amicloter.> ;
+        ontolex:lexicalForm   restaure:lf_amadouer ;
+        ontolex:writtenRep    restaure:amadouer .
+
+<http://restaure.limsi.fr/2017/rdf#m%C3%A9non,%20pleumette.>
+        ontolex:writtenRep  "ménon, pleumette." .
+
+restaure:le_112  restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#autermint.> ;
+        ontolex:lexicalForm  restaure:lf_autrement ;
+        ontolex:writtenRep   restaure:autrement .
+
+restaure:le_30  lexinfo:Gender  lexinfo:Masculine ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#les%20%C3%A2g%C3%A9s.> ;
+        ontolex:lexicalForm   <http://restaure.limsi.fr/2017/rdf#lf_agencements%20> ;
+        ontolex:writtenRep    <http://restaure.limsi.fr/2017/rdf#agencements%20(d'une%20maison)> .
+
+<http://restaure.limsi.fr/2017/rdf#clifer%20d'%20faim.>
+        ontolex:writtenRep  "clifer d' faim." .
+
+restaure:le_80  lexinfo:Gender  lexinfo:Female ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#hierbe%20ed%20Saint-Jean.> ;
+        ontolex:lexicalForm   restaure:lf_armoise ;
+        ontolex:writtenRep    restaure:armoise .
+
+<http://restaure.limsi.fr/2017/rdf#aumaire,%20armoire.>
+        ontolex:writtenRep  "aumaire, armoire." .
+
+<http://restaure.limsi.fr/2017/rdf#s'imbrunquer,%20s'indronquer.>
+        ontolex:writtenRep  "s'imbrunquer, s'indronquer." .
+
+restaure:le_59  lexinfo:Gender  lexinfo:Masculine ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#ondaine.> ;
+        ontolex:lexicalForm   restaure:lf_andain ;
+        ontolex:writtenRep    restaure:andain .
+
+<http://restaure.limsi.fr/2017/rdf#assistance.>
+        ontolex:writtenRep  "assistance." .
+
+restaure:le_38  lexinfo:partOfSpeech  lexinfo:Verb ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#assister,%20tenir%20el%20r%C3%A9pondant.> ;
+        ontolex:lexicalForm   restaure:lf_aider ;
+        ontolex:writtenRep    restaure:aider .
+
+restaure:le_17  lexinfo:partOfSpeech  lexinfo:Verb ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#acater.> ;
+        ontolex:lexicalForm   restaure:lf_acheter ;
+        ontolex:writtenRep    restaure:acheter .
+
+<http://restaure.limsi.fr/2017/rdf#ravaler.>
+        ontolex:writtenRep  "ravaler." .
+
+<http://restaure.limsi.fr/2017/rdf#les%20%C3%A2g%C3%A9s.>
+        ontolex:writtenRep  "les âgés." .
+
+<http://restaure.limsi.fr/2017/rdf#raffal%C3%A9.>
+        ontolex:writtenRep  "raffalé." .
+
+<http://restaure.limsi.fr/2017/rdf#jurvir.>
+        ontolex:writtenRep  "jurvir." .
+
+restaure:le_1  lexinfo:partOfSpeech  lexinfo:Adjective ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#culbut%C3%A9,%20%C3%A0%20l'%20loque.> ;
+        ontolex:lexicalForm   restaure:lf_abattu ;
+        ontolex:writtenRep    restaure:abattu .
+
+<http://restaure.limsi.fr/2017/rdf#avoir%20el%20mo%C3%AFen.>
+        ontolex:writtenRep  "avoir el moïen." .
+
+<http://restaure.limsi.fr/2017/rdf#hierbe%20ed%20Saint-Jean.>
+        ontolex:writtenRep  "hierbe ed Saint-Jean." .
+
+restaure:le_88  lexinfo:Gender  lexinfo:Masculine ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#%C3%A9pamure.> ;
+        ontolex:lexicalForm   <http://restaure.limsi.fr/2017/rdf#lf_assemblage%20%C3%A0%20mi-bois> ;
+        ontolex:writtenRep    <http://restaure.limsi.fr/2017/rdf#assemblage%20%C3%A0%20mi-bois> .
+
+restaure:le_67  lexinfo:Gender  lexinfo:Female ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#coliques%20miserere.> ;
+        ontolex:lexicalForm   restaure:lf_appendicite ;
+        ontolex:writtenRep    restaure:appendicite .
+
+<http://restaure.limsi.fr/2017/rdf#abeyer.>
+        ontolex:writtenRep  "abeyer." .
+
+restaure:le_46  lexinfo:partOfSpeech  lexinfo:Verb ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#daller.> ;
+        ontolex:lexicalForm   restaure:lf_aller ;
+        ontolex:writtenRep    restaure:aller .
+
+restaure:le_107  lexinfo:Gender  lexinfo:Masculine ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#auniau.> ;
+        ontolex:lexicalForm   restaure:lf_aulne ;
+        ontolex:writtenRep    restaure:aulne .
+
+restaure:le_25  lexinfo:partOfSpeech  lexinfo:Adjective ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#raffal%C3%A9.> ;
+        ontolex:lexicalForm   <http://restaure.limsi.fr/2017/rdf#lf_affal%C3%A9> ;
+        ontolex:writtenRep    <http://restaure.limsi.fr/2017/rdf#affal%C3%A9> .
+
+<http://restaure.limsi.fr/2017/rdf#anwuille.>
+        ontolex:writtenRep  "anwuille." .
+
+<http://restaure.limsi.fr/2017/rdf#rapager,%20rapasier.>
+        ontolex:writtenRep  "rapager, rapasier." .
+
+<http://restaure.limsi.fr/2017/rdf#daquoire,%20doquoire,%20drache,%20hour%C3%A9e,%20rigod%C3%A9e.>
+        ontolex:writtenRep  "daquoire, doquoire, drache, hourée, rigodée." .
+
+restaure:le_9  lexinfo:Gender  lexinfo:Masculine ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#rados.> ;
+        ontolex:lexicalForm   <http://restaure.limsi.fr/2017/rdf#lf_abrit%C3%A9%20> ;
+        ontolex:writtenRep    <http://restaure.limsi.fr/2017/rdf#abrit%C3%A9%20(endroit)> .
+
+<http://restaure.limsi.fr/2017/rdf#assister,%20tenir%20el%20r%C3%A9pondant.>
+        ontolex:writtenRep  "assister, tenir el répondant." .
+
+<http://restaure.limsi.fr/2017/rdf#%C3%A9r%C3%A8que.>
+        ontolex:writtenRep  "érèque." .
+
+restaure:le_96  lexinfo:partOfSpeech  lexinfo:Verb ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#attiquer%20;%20(des%20chevaux)%20:%20alogner%20;%20(pour%20du%20lait)%20:%20s'acraper.> ;
+        ontolex:lexicalForm   restaure:lf_attacher ;
+        ontolex:writtenRep    restaure:attacher .
+
+<http://restaure.limsi.fr/2017/rdf#brunette%20(plante).>
+        ontolex:writtenRep  "brunette (plante)." .
+
+restaure:le_75  lexinfo:Gender  lexinfo:Female ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#%C3%A9r%C3%A8que.> ;
+        ontolex:lexicalForm   <http://restaure.limsi.fr/2017/rdf#lf_ar%C3%AAte%20> ;
+        ontolex:writtenRep    <http://restaure.limsi.fr/2017/rdf#ar%C3%AAte%20(de%20poisson)> .
+
+<http://restaure.limsi.fr/2017/rdf#aveule,%20macaveule.>
+        ontolex:writtenRep  "aveule, macaveule." .
+
+restaure:le_54  lexinfo:Gender  lexinfo:Masculine ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#amisses.> ;
+        ontolex:lexicalForm   restaure:lf_amis ;
+        ontolex:writtenRep    restaure:amis .
+
+restaure:le_115  lexinfo:Gender  lexinfo:Female ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#daquoire,%20doquoire,%20drache,%20hour%C3%A9e,%20rigod%C3%A9e.> ;
+        ontolex:lexicalForm   restaure:lf_averse ;
+        ontolex:writtenRep    restaure:averse .
+
+restaure:le_33  lexinfo:partOfSpeech  lexinfo:Verb ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#racatourner.> ;
+        ontolex:lexicalForm   <http://restaure.limsi.fr/2017/rdf#lf_agit%C3%A9%20> ;
+        ontolex:writtenRep    <http://restaure.limsi.fr/2017/rdf#agit%C3%A9%20(%C3%AAtre)> .
+
+<http://restaure.limsi.fr/2017/rdf#si.>
+        ontolex:writtenRep  "si." .
+
+<http://restaure.limsi.fr/2017/rdf#ratayonne.>
+        ontolex:writtenRep  "ratayonne." .
+
+restaure:le_12  lexinfo:partOfSpeech  lexinfo:Verb ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#abistoquer,%20affuler,%20agimoler,%20ostrouiller,%20ouster.> ;
+        ontolex:lexicalForm   restaure:lf_accoutrer ;
+        ontolex:writtenRep    restaure:accoutrer .
+
+<http://restaure.limsi.fr/2017/rdf#happer.>
+        ontolex:writtenRep  "happer." .
+
+<http://restaure.limsi.fr/2017/rdf#f%C3%A8le%20;%20homme%20arrogant%20:%20roda.>
+        ontolex:writtenRep  "fèle ; homme arrogant : roda." .
+
+<http://restaure.limsi.fr/2017/rdf#acater.>
+        ontolex:writtenRep  "acater." .
+
+<http://restaure.limsi.fr/2017/rdf#rados.>
+        ontolex:writtenRep  "rados." .
+
+restaure:le_83  lexinfo:Gender  lexinfo:Female ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#ratayonne.> ;
+        ontolex:lexicalForm   <http://restaure.limsi.fr/2017/rdf#lf_arri%C3%A8re-grand-m%C3%A8re> ;
+        ontolex:writtenRep    <http://restaure.limsi.fr/2017/rdf#arri%C3%A8re-grand-m%C3%A8re> .
+
+restaure:le_62  lexinfo:Gender  lexinfo:Female ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#angile.> ;
+        ontolex:lexicalForm   restaure:lf_angine ;
+        ontolex:writtenRep    restaure:angine .
+
+<http://restaure.limsi.fr/2017/rdf#airage.>
+        ontolex:writtenRep  "airage." .
+
+restaure:le_41  lexinfo:partOfSpeech  lexinfo:Verb ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#%C3%A9queucher,%20r%C3%A9wisier.> ;
+        ontolex:lexicalForm   restaure:lf_aiguiser ;
+        ontolex:writtenRep    restaure:aiguiser .
+
+restaure:le_102  lexinfo:Gender  lexinfo:Female ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#broquette%20du%20jour,%20pique%20ou%20piquette%20du%20jour.> ;
+        ontolex:lexicalForm   restaure:lf_aube ;
+        ontolex:writtenRep    restaure:aube .
+
+restaure:le_20  lexinfo:partOfSpeech  lexinfo:Verb ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#adercher.> ;
+        ontolex:lexicalForm   restaure:lf_adresser ;
+        ontolex:writtenRep    restaure:adresser .
+
+restaure:le_4  lexinfo:Gender  lexinfo:Masculine ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#moule-cuite.> ;
+        ontolex:lexicalForm   restaure:lf_aboulique ;
+        ontolex:writtenRep    restaure:aboulique .
+
+restaure:le_91  lexinfo:partOfSpeech  lexinfo:Verb ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#clifer%20d'%20so.> ;
+        ontolex:lexicalForm   <http://restaure.limsi.fr/2017/rdf#lf_assoiff%C3%A9%20> ;
+        ontolex:writtenRep    <http://restaure.limsi.fr/2017/rdf#assoiff%C3%A9%20(%C3%AAtre)> .
+
+restaure:le_70  lexinfo:partOfSpeech  lexinfo:Verb ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#ravaler.> ;
+        ontolex:lexicalForm   <http://restaure.limsi.fr/2017/rdf#lf_approfondir%20> ;
+        ontolex:writtenRep    <http://restaure.limsi.fr/2017/rdf#approfondir%20(un%20puits)> .
+
+restaure:le_49  lexinfo:Gender  lexinfo:Masculine ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#arm%C3%A9naque.> ;
+        ontolex:lexicalForm   restaure:lf_almanach ;
+        ontolex:writtenRep    restaure:almanach .
+
+restaure:le_110  restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#si.> ;
+        ontolex:lexicalForm  restaure:lf_aussi ;
+        ontolex:writtenRep   restaure:aussi .
+
+restaure:le_28  restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#amiteusemint.> ;
+        ontolex:lexicalForm  restaure:lf_affectueusement ;
+        ontolex:writtenRep   restaure:affectueusement .
+
+<http://restaure.limsi.fr/2017/rdf#audivi.>
+        ontolex:writtenRep  "audivi." .
+
+<http://restaure.limsi.fr/2017/rdf#dames.>
+        ontolex:writtenRep  "dames." .
+
+<http://restaure.limsi.fr/2017/rdf#clifer%20d'%20so.>
+        ontolex:writtenRep  "clifer d' so." .
+
+restaure:  ontolex:writtenRep  "" .
+
+restaure:le_99  lexinfo:Gender  lexinfo:Masculine ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#attel%C3%A9e.> ;
+        ontolex:lexicalForm   restaure:lf_attelage ;
+        ontolex:writtenRep    restaure:attelage .
+
+restaure:le_78  lexinfo:Gender  lexinfo:Masculine ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#amnistie.> ;
+        ontolex:lexicalForm   restaure:lf_armistice ;
+        ontolex:writtenRep    restaure:armistice .
+
+restaure:le_57  lexinfo:partOfSpeech  lexinfo:Verb ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#arluser%20;%20s'amuser%20:%20s'arlusier,%20s'erlusier,%20faire%20jeujeute,%20jingler,%20lusoter.> ;
+        ontolex:lexicalForm   <http://restaure.limsi.fr/2017/rdf#lf_amuser%20> ;
+        ontolex:writtenRep    <http://restaure.limsi.fr/2017/rdf#amuser%20(quelqu'un)> .
+
+restaure:le_118  lexinfo:Gender  lexinfo:Female ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#aveine.%20Folle%20avoine%20:%20havron.> ;
+        ontolex:lexicalForm   restaure:lf_avoine ;
+        ontolex:writtenRep    restaure:avoine .
+
+restaure:le_36  lexinfo:partOfSpeech  lexinfo:Adjective ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#h%C3%A9breux,%20na%C3%AFu.> ;
+        ontolex:lexicalForm   restaure:lf_ahuri ;
+        ontolex:writtenRep    restaure:ahuri .
+
+restaure:le_15  lexinfo:partOfSpeech  lexinfo:Verb ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#aduire,%20rattindre,%20raoucher%20;%20mal%20accueillir%20:%20d%C3%A9cacholer,%20rachafter.> ;
+        ontolex:lexicalForm   restaure:lf_accueillir ;
+        ontolex:writtenRep    restaure:accueillir .
+
+<http://restaure.limsi.fr/2017/rdf#fondaque.>
+        ontolex:writtenRep  "fondaque." .
+
+<http://restaure.limsi.fr/2017/rdf#%20;%20%C3%A0%20mon%20avis%20:%20%C3%A0%20m'%20mode,%20por%20mi.%20Proclamer%20un%20avis%20:%20arloter,%20bach%C3%A9ner,%20faire%20el%20cri%C3%A8re,%20tambourer.>
+        ontolex:writtenRep  " ; à mon avis : à m' mode, por mi. Proclamer un avis : arloter, bachéner, faire el crière, tambourer." .
+
+<http://restaure.limsi.fr/2017/rdf#amonne.>
+        ontolex:writtenRep  "amonne." .
+
+restaure:le_86  lexinfo:partOfSpeech  lexinfo:Adjective ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#f%C3%A8le%20;%20homme%20arrogant%20:%20roda.> ;
+        ontolex:lexicalForm   restaure:lf_arrogant ;
+        ontolex:writtenRep    restaure:arrogant .
+
+restaure:le_65  lexinfo:partOfSpeech  lexinfo:Verb ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#rapager,%20rapasier.> ;
+        ontolex:lexicalForm   restaure:lf_apaiser ;
+        ontolex:writtenRep    restaure:apaiser .
+
+<http://restaure.limsi.fr/2017/rdf#s'incarner.>
+        ontolex:writtenRep  "s'incarner." .
+
+restaure:le_44  lexinfo:partOfSpeech  lexinfo:Adjective ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#aisile.> ;
+        ontolex:lexicalForm   <http://restaure.limsi.fr/2017/rdf#lf_ais%C3%A9> ;
+        ontolex:writtenRep    <http://restaure.limsi.fr/2017/rdf#ais%C3%A9> .
+
+restaure:le_105  lexinfo:Gender  lexinfo:Female ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#aurmintation.> ;
+        ontolex:lexicalForm   restaure:lf_augmentation ;
+        ontolex:writtenRep    restaure:augmentation .
+
+<http://restaure.limsi.fr/2017/rdf#abeuvro,%20abuvro.>
+        ontolex:writtenRep  "abeuvro, abuvro." .
+
+restaure:le_23  lexinfo:partOfSpeech  lexinfo:Verb ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#d%C3%A9catir.> ;
+        ontolex:lexicalForm   <http://restaure.limsi.fr/2017/rdf#lf_affaiblir%20> ;
+        ontolex:writtenRep    <http://restaure.limsi.fr/2017/rdf#affaiblir%20(s')> .
+
+restaure:le_7  lexinfo:Gender  lexinfo:Masculine ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#abeuvro,%20abuvro.> ;
+        ontolex:lexicalForm   restaure:lf_abreuvoir ;
+        ontolex:writtenRep    restaure:abreuvoir .
+
+restaure:le_94  lexinfo:partOfSpeech  lexinfo:Verb ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#s'imbrunquer,%20s'indronquer.> ;
+        ontolex:lexicalForm   <http://restaure.limsi.fr/2017/rdf#lf_assoupir%20> ;
+        ontolex:writtenRep    <http://restaure.limsi.fr/2017/rdf#assoupir%20(s')> .
+
+<http://restaure.limsi.fr/2017/rdf#arri%C3%A9rances.>
+        ontolex:writtenRep  "arriérances." .
+
+<http://restaure.limsi.fr/2017/rdf#amisses.>
+        ontolex:writtenRep  "amisses." .
+
+restaure:le_73  lexinfo:Gender  lexinfo:Masculine ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#romarins.> ;
+        ontolex:lexicalForm   <http://restaure.limsi.fr/2017/rdf#lf_arabesques%20> ;
+        ontolex:writtenRep    <http://restaure.limsi.fr/2017/rdf#arabesques%20(dans%20le%20sable)> .
+
+restaure:le_52  restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#affinir.> ;
+        ontolex:lexicalForm  <http://restaure.limsi.fr/2017/rdf#lf_ameublir%20> ;
+        ontolex:writtenRep   <http://restaure.limsi.fr/2017/rdf#ameublir%20(une%20terre)> .
+
+restaure:le_113  lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#agrippard,%20%C3%A9chuch%C3%A9,%20happe-char,%20rassaque-norriture,%20r%C3%A9triqu%C3%A9,%20t'nant.> ;
+        ontolex:lexicalForm   restaure:lf_avare ;
+        ontolex:writtenRep    restaure:avare .
+
+restaure:le_31  lexinfo:partOfSpeech  lexinfo:Verb ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#s'agligner.> ;
+        ontolex:lexicalForm   <http://restaure.limsi.fr/2017/rdf#lf_agenouiller%20> ;
+        ontolex:writtenRep    <http://restaure.limsi.fr/2017/rdf#agenouiller%20(s')> .
+
+<http://restaure.limsi.fr/2017/rdf#hierbe%20%C3%A0%20z'aulx.>
+        ontolex:writtenRep  "hierbe à z'aulx." .
+
+<http://restaure.limsi.fr/2017/rdf#aurminter,%20raugminter.>
+        ontolex:writtenRep  "aurminter, raugminter." .
+
+restaure:le_10  lexinfo:Gender  lexinfo:Female ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#Marie-Grognon.> ;
+        ontolex:lexicalForm   <http://restaure.limsi.fr/2017/rdf#lf_acari%C3%A2tre%20> ;
+        ontolex:writtenRep    <http://restaure.limsi.fr/2017/rdf#acari%C3%A2tre%20(femme)> .
+
+<http://restaure.limsi.fr/2017/rdf#arlusette.>
+        ontolex:writtenRep  "arlusette." .
+
+<http://restaure.limsi.fr/2017/rdf#acateux.>
+        ontolex:writtenRep  "acateux." .
+
+<http://restaure.limsi.fr/2017/rdf#racatourner.>
+        ontolex:writtenRep  "racatourner." .
+
+<http://restaure.limsi.fr/2017/rdf#arluser%20;%20s'amuser%20:%20s'arlusier,%20s'erlusier,%20faire%20jeujeute,%20jingler,%20lusoter.>
+        ontolex:writtenRep  "arluser ; s'amuser : s'arlusier, s'erlusier, faire jeujeute, jingler, lusoter." .
+
+restaure:le_81  lexinfo:Gender  lexinfo:Masculine ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#arri%C3%A9rances.> ;
+        ontolex:lexicalForm   <http://restaure.limsi.fr/2017/rdf#lf_arr%C3%A9rages> ;
+        ontolex:writtenRep    <http://restaure.limsi.fr/2017/rdf#arr%C3%A9rages> .
+
+restaure:le_60  lexinfo:Gender  lexinfo:Female ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#sang%20d'%20pisson,%20sang%20d'%20naviau.> ;
+        ontolex:lexicalForm   <http://restaure.limsi.fr/2017/rdf#lf_an%C3%A9mie> ;
+        ontolex:writtenRep    <http://restaure.limsi.fr/2017/rdf#an%C3%A9mie> .
+
+<http://restaure.limsi.fr/2017/rdf#s'agligner.>
+        ontolex:writtenRep  "s'agligner." .
+
+restaure:le_39  lexinfo:Gender  lexinfo:Female ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#aiwuille.> ;
+        ontolex:lexicalForm   restaure:lf_aiguille ;
+        ontolex:writtenRep    restaure:aiguille .
+
+restaure:le_100  lexinfo:partOfSpeech  lexinfo:Verb ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#raterrir.> ;
+        ontolex:lexicalForm   restaure:lf_attendrir ;
+        ontolex:writtenRep    restaure:attendrir .
+
+<http://restaure.limsi.fr/2017/rdf#franc.>
+        ontolex:writtenRep  "franc." .
+
+restaure:le_18  lexinfo:Gender  lexinfo:Masculine ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#acateux.> ;
+        ontolex:lexicalForm   restaure:lf_acheteur ;
+        ontolex:writtenRep    restaure:acheteur .
+
+<http://restaure.limsi.fr/2017/rdf#attiquer%20;%20(des%20chevaux)%20:%20alogner%20;%20(pour%20du%20lait)%20:%20s'acraper.>
+        ontolex:writtenRep  "attiquer ; (des chevaux) : alogner ; (pour du lait) : s'acraper." .
+
+<http://restaure.limsi.fr/2017/rdf#d%C3%A9ro%C3%AFer.>
+        ontolex:writtenRep  "déroïer." .
+
+restaure:le_2  lexinfo:Gender  lexinfo:Masculine ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#crosette.> ;
+        ontolex:lexicalForm   <http://restaure.limsi.fr/2017/rdf#lf_ab%C3%A9c%C3%A9daire> ;
+        ontolex:writtenRep    <http://restaure.limsi.fr/2017/rdf#ab%C3%A9c%C3%A9daire> .
+
+<http://restaure.limsi.fr/2017/rdf#daller.>
+        ontolex:writtenRep  "daller." .
+
+<http://restaure.limsi.fr/2017/rdf#culbut%C3%A9,%20%C3%A0%20l'%20loque.>
+        ontolex:writtenRep  "culbuté, à l' loque." .
+
+<http://restaure.limsi.fr/2017/rdf#ratayon.>
+        ontolex:writtenRep  "ratayon." .
+
+restaure:le_89  lexinfo:partOfSpeech  lexinfo:Verb ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#assan.ner.> ;
+        ontolex:lexicalForm   restaure:lf_assembler ;
+        ontolex:writtenRep    restaure:assembler .
+
+<http://restaure.limsi.fr/2017/rdf#crosette.>
+        ontolex:writtenRep  "crosette." .
+
+<http://restaure.limsi.fr/2017/rdf#adoquer.>
+        ontolex:writtenRep  "adoquer." .
+
+restaure:le_68  lexinfo:Gender  lexinfo:Masculine ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#abattis,%20rabattu.> ;
+        ontolex:lexicalForm   restaure:lf_appentis ;
+        ontolex:writtenRep    restaure:appentis .
+
+<http://restaure.limsi.fr/2017/rdf#aduire,%20rattindre,%20raoucher%20;%20mal%20accueillir%20:%20d%C3%A9cacholer,%20rachafter.>
+        ontolex:writtenRep  "aduire, rattindre, raoucher ; mal accueillir : décacholer, rachafter." .
+
+restaure:le_47  lexinfo:Gender  lexinfo:Female ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#hierbe%20%C3%A0%20z'aulx.> ;
+        ontolex:lexicalForm   restaure:lf_alliaire ;
+        ontolex:writtenRep    restaure:alliaire .
+
+restaure:le_108  lexinfo:Gender  lexinfo:Female ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#amonne.> ;
+        ontolex:lexicalForm   <http://restaure.limsi.fr/2017/rdf#lf_aum%C3%B4ne> ;
+        ontolex:writtenRep    <http://restaure.limsi.fr/2017/rdf#aum%C3%B4ne> .
+
+restaure:le_26  lexinfo:partOfSpeech  lexinfo:Verb ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#clifer%20d'%20faim.> ;
+        ontolex:lexicalForm   <http://restaure.limsi.fr/2017/rdf#lf_affam%C3%A9%20> ;
+        ontolex:writtenRep    <http://restaure.limsi.fr/2017/rdf#affam%C3%A9%20(%C3%AAtre)> .
+
+<http://restaure.limsi.fr/2017/rdf#amicloter.>
+        ontolex:writtenRep  "amicloter." .
+
+<http://restaure.limsi.fr/2017/rdf#assazin,%20assassineux,%20mourdreux.>
+        ontolex:writtenRep  "assazin, assassineux, mourdreux." .
+
+restaure:le_97  lexinfo:partOfSpeech  lexinfo:Verb ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#s'%20carnicher,%20s'%20ratarger.> ;
+        ontolex:lexicalForm   <http://restaure.limsi.fr/2017/rdf#lf_attarder%20> ;
+        ontolex:writtenRep    <http://restaure.limsi.fr/2017/rdf#attarder%20(s')> .
+
+<http://restaure.limsi.fr/2017/rdf#agrinquer,%20ahoquer,%20ingrinquer.>
+        ontolex:writtenRep  "agrinquer, ahoquer, ingrinquer." .
+
+restaure:le_76  lexinfo:Gender  lexinfo:Masculine ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#argint,%20doupes,%20pexal%20;%20argent%20de%20poche%20:%20diminche.> ;
+        ontolex:lexicalForm   <http://restaure.limsi.fr/2017/rdf#lf_argent%20> ;
+        ontolex:writtenRep    <http://restaure.limsi.fr/2017/rdf#argent%20(monnaie)> .
+
+<http://restaure.limsi.fr/2017/rdf#aveine.%20Folle%20avoine%20:%20havron.>
+        ontolex:writtenRep  "aveine. Folle avoine : havron." .
+
+restaure:le_55  lexinfo:partOfSpeech  lexinfo:Verb ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#remonter%20l'%20horloge,%20biscoter,%20broqueter,%20broussier,%20cotronner,%20croquer%20l'%20pun%20d'%20capindu%20;%20faire%20:%20frisette,%20qu%C3%A9quette,%20touquette%20;%20juer%20:%20%C3%A0%20l'%20basse-danse,%20du%20bilbotiau,%20du%20bricotiau,%20du%20broquelet,%20d%C3%A9%20l'%20broquette,%20du%20carcaillou%20;%20secouer%20l'%20pronnier%20;%20tirer%20%C3%A0%20biec.> ;
+        ontolex:lexicalForm   <http://restaure.limsi.fr/2017/rdf#lf_amour%20> ;
+        ontolex:writtenRep    <http://restaure.limsi.fr/2017/rdf#amour%20(faire%20l')> .
+
+restaure:le_116  lexinfo:Gender  lexinfo:Masculine ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#aveule,%20macaveule.> ;
+        ontolex:lexicalForm   restaure:lf_aveugle ;
+        ontolex:writtenRep    restaure:aveugle .
+
+restaure:le_34  lexinfo:Gender  lexinfo:Masculine ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#ant%C3%A9niau,%20b%C3%A9dot.> ;
+        ontolex:lexicalForm   restaure:lf_agneau ;
+        ontolex:writtenRep    restaure:agneau .
+
+restaure:le_13  lexinfo:partOfSpeech  lexinfo:Verb ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#agrinquer,%20ahoquer,%20ingrinquer.> ;
+        ontolex:lexicalForm   restaure:lf_accrocher ;
+        ontolex:writtenRep    restaure:accrocher .
+
+<http://restaure.limsi.fr/2017/rdf#adrot,%20amani%C3%A9r%C3%A9,%20subtil.>
+        ontolex:writtenRep  "adrot, amaniéré, subtil." .
+
+<http://restaure.limsi.fr/2017/rdf#d%C3%A9catir.>
+        ontolex:writtenRep  "décatir." .
+
+<http://restaure.limsi.fr/2017/rdf#arlache.>
+        ontolex:writtenRep  "arlache." .
+
+<http://restaure.limsi.fr/2017/rdf#romarins.>
+        ontolex:writtenRep  "romarins." .
+
+<http://restaure.limsi.fr/2017/rdf#attel%C3%A9e.>
+        ontolex:writtenRep  "attelée." .
+
+<http://restaure.limsi.fr/2017/rdf#%C3%A9pamure.>
+        ontolex:writtenRep  "épamure." .
+
+<http://restaure.limsi.fr/2017/rdf#h%C3%A9breux,%20na%C3%AFu.>
+        ontolex:writtenRep  "hébreux, naïu." .
+
+<http://restaure.limsi.fr/2017/rdf#aurmintation.>
+        ontolex:writtenRep  "aurmintation." .
+
+restaure:le_84  lexinfo:partOfSpeech  lexinfo:Verb ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#jurvir.> ;
+        ontolex:lexicalForm   <http://restaure.limsi.fr/2017/rdf#lf_arriver%20> ;
+        ontolex:writtenRep    <http://restaure.limsi.fr/2017/rdf#arriver%20(y)> .
+
+<http://restaure.limsi.fr/2017/rdf#ainsin.>
+        ontolex:writtenRep  "ainsin." .
+
+<http://restaure.limsi.fr/2017/rdf#ad%C3%A8s.>
+        ontolex:writtenRep  "adès." .
+
+restaure:le_63  lexinfo:Gender  lexinfo:Female ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#anwuille.> ;
+        ontolex:lexicalForm   restaure:lf_anguille ;
+        ontolex:writtenRep    restaure:anguille .
+
+<http://restaure.limsi.fr/2017/rdf#argint,%20doupes,%20pexal%20;%20argent%20de%20poche%20:%20diminche.>
+        ontolex:writtenRep  "argint, doupes, pexal ; argent de poche : diminche." .
+
+<http://restaure.limsi.fr/2017/rdf#broquette%20du%20jour,%20pique%20ou%20piquette%20du%20jour.>
+        ontolex:writtenRep  "broquette du jour, pique ou piquette du jour." .
+
+restaure:le_42  lexinfo:partOfSpeech  lexinfo:Verb ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#avoir%20quer.> ;
+        ontolex:lexicalForm   restaure:lf_aimer ;
+        ontolex:writtenRep    restaure:aimer .
+
+<http://restaure.limsi.fr/2017/rdf#abeuvrer.>
+        ontolex:writtenRep  "abeuvrer." .
+
+restaure:le_103  lexinfo:Gender  lexinfo:Female ;
+        lexinfo:partOfSpeech  lexinfo:Noun ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#audivi.> ;
+        ontolex:lexicalForm   restaure:lf_audace ;
+        ontolex:writtenRep    restaure:audace .
+
+restaure:le_21  lexinfo:partOfSpeech  lexinfo:Adjective ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#adrot,%20amani%C3%A9r%C3%A9,%20subtil.> ;
+        ontolex:lexicalForm   restaure:lf_adroit ;
+        ontolex:writtenRep    restaure:adroit .
+
+<http://restaure.limsi.fr/2017/rdf#agrippard,%20%C3%A9chuch%C3%A9,%20happe-char,%20rassaque-norriture,%20r%C3%A9triqu%C3%A9,%20t'nant.>
+        ontolex:writtenRep  "agrippard, échuché, happe-char, rassaque-norriture, rétriqué, t'nant." .
+
+<http://restaure.limsi.fr/2017/rdf#adercher.>
+        ontolex:writtenRep  "adercher." .
+
+<http://restaure.limsi.fr/2017/rdf#aclopin,%20galibot.>
+        ontolex:writtenRep  "aclopin, galibot." .
+
+<http://restaure.limsi.fr/2017/rdf#auniau.>
+        ontolex:writtenRep  "auniau." .
+
+restaure:le_5  lexinfo:partOfSpeech  lexinfo:Verb ;
+        restaure:TranslatableAsBetweenForms
+                <http://restaure.limsi.fr/2017/rdf#abeyer.> ;
+        ontolex:lexicalForm   restaure:lf_aboyer ;
+        ontolex:writtenRep    restaure:aboyer .
+
+<http://restaure.limsi.fr/2017/rdf#assan.ner.>
+        ontolex:writtenRep  "assan.ner." .

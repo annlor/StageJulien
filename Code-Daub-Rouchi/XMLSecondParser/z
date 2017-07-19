@@ -4,7 +4,7 @@
         <Entrée>zizi</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>titi</LexieEntiere>
-        <Lexie><SousLexie>titi</SousLexie></Lexie>
+        <LexieEntiere>titi.</LexieEntiere>
+        <Lexie><SousLexie>titi.</SousLexie></Lexie>
       </ArticleDeDictionnaire>
       </Nomenclature>

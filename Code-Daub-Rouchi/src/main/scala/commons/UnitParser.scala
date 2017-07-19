@@ -46,5 +46,5 @@ class XMLUnitParser{
 
 
   val UP = new UnitParser
-  val XMLStructureGrammaticale = P(" ".? ~ (UP.LowerCaseLetter ~ ".").!.rep(min = 1) ~ " ".?)
+  val XMLStructureGrammaticale = P(" ".? ~ (UP.LowerCaseLetter ~ ".").!.rep(min = 1, sep =" ") ~ " ".?)
 }

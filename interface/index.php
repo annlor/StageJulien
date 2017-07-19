@@ -42,7 +42,7 @@
 /* ARC2 static class inclusion */ 
   include_once('semsol/ARC2.php'); 
 $dbpconfig = array(
-  "remote_store_endpoint" => "http://jarry:3030/restaure/sparql",
+  "remote_store_endpoint" => "http://vmrestaure:3030/restaure/sparql",
    );
 $store = ARC2::getRemoteStore($dbpconfig); 
 
@@ -77,7 +77,7 @@ foreach($rows as $row) {
 
 open: function(event,ui){
     var len = $('.ui-autocomplete > li').length;
-document.getElementById("IntroAndCount").innerHTML = 'Il y a '+len+' résultat(s) !'
+document.getElementById("IntroAndCount").innerHTML = 'Il y a '+len+' résultat(s)'
 
   }
     });

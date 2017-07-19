@@ -14,7 +14,7 @@ object mainRDF {
 
     println("Entrez l'emplacement du résultat RDF :")
     path=scala.io.StdIn.readLine()
-    /*/people/khamphousone/IdeaProjects/DictionnairePicard/RDFSecondParser/RDFresult.txt*/
+    /*/people/khamphousone/IdeaProjects/DictionnairePicard/RDFSecondParser/RDFresult.ttl*/
     ClassModele.dumpModel(path)
   }
 }

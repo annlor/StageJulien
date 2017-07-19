@@ -1,70 +1,107 @@
-package restaure.rdf;
+package restaure.rdf
 
 import java.io.FileWriter
 
 import commons.XMLUnitParser
 import org.apache.jena.rdf.model._
 
-import scala.xml.{Elem, XML}
+import scala.xml.{Elem, NodeSeq}
 import fastparse.all._
-import restaure.rdf.Voc.{uri}
+import org.apache.jena.util.URIref
+import restaure.rdf.Voc.uri
 
+/**
+  * URIref
+  * Label
+  */
 
 /**
   * Created by khamphousone on 7/12/17.
   */
 
 class ModelBuilder(xml : Elem){
-
   val XMLUP = new XMLUnitParser
+  val model:Model = ModelFactory.createDefaultModel()
 
-  val model = ModelFactory.createDefaultModel()
-  var id = 1
+  val articles:NodeSeq = xml \ "ArticleDeDictionnaire"
+  val UF = new UsefulFunction()
+  articles.zipWithIndex.foreach({case (a,i) => UF.RDFWriter(model,a,i)})/*
 
-  val articles = xml \ "ArticleDeDictionnaire"
-  for (article <- articles){
-    val leURI = uri + s"le_$id"
-    id += 1
-    val lexEntry = model.createResource(leURI)
-    val Entry = article \ "Entrée"
-    var FinalEntry = Entry.text.replace(' ','_')
-    if ((FinalEntry takeRight 1) == "_") {
-      FinalEntry = FinalEntry.dropRight(1)
+
+*/
+
+    def dumpModel(path: String): Unit = {
+      val fw = new FileWriter(path)
+      model.setNsPrefix("restaure", uri)
+      model.setNsPrefix("ontolex", Voc.ontolex)
+      model.setNsPrefix("lexinfo", Voc.lexinfo)
+      model.setNsPrefix("vartrans", Voc.vartrans)
+      model.write(fw, "Turtle")
+      fw.close()
     }
-    val fEntry = model.createResource(uri + s"le_$FinalEntry")
-    lexEntry.addProperty(Voc.lexicalForm, fEntry)
+  }
+
+
+class UsefulFunction {
+  def RDFWriter (m: Model, article: NodeSeq, id:Int): Unit = {
+    val leURI = uri + s"le_$id"
+    val lexEntry = m.createResource (leURI)
+    LexicalEntryWriter (lexEntry, article, leURI, m)
+    StructGramWriter(article,lexEntry,m)
+    LexieEntiereWriter(article,m, lexEntry)
+  }
+  def LexicalEntryWriter (lexEntry:Resource, article: NodeSeq, leURI: String, m: Model): Unit = {
+
+    val Entry = article \ "Entrée"
+    val fEntry = m.createResource (URIref.encode(uri + s"lf_${Entry.text}"))
+    lexEntry.addProperty (Voc.lexicalForm, fEntry)
+
+    val Complement = article \ "Complément"
+    fEntry.addProperty(Voc.writtenRep,s"${Entry.text} ${Complement.text}")
+  }
+
+  def StructGramWriter(article : NodeSeq, lexEntry : Resource, model: Model): Unit ={
+    val XMLUP = new XMLUnitParser
 
     val StructureGrammaticale = article \ "StructureGrammaticale"
 
     val resStruct = XMLUP.XMLStructureGrammaticale.parse(StructureGrammaticale.text) match {
       case Parsed.Success(seq,_) => seq
-      case f:Parsed.Failure => Nil
+      case _:Parsed.Failure => Nil
     }
     for (struct <- resStruct) {
+
       struct match {
         case "v." =>
-          val fStruct = model.createResource(uri + "le_verbe")
-          lexEntry.addProperty(Voc.lipartofspeech, fStruct)
-          lexEntry.addProperty(Voc.liverb, fStruct)
+          lexEntry.addProperty(Voc.liPartOfSpeech, Voc.liVerb)
 
         case "s." =>
-          val fStruct = model.createResource(uri + "le_substantif")
-          lexEntry.addProperty(Voc.lipartofspeech, fStruct)
-          lexEntry.addProperty(Voc.linoun, fStruct)
+          lexEntry.addProperty(Voc.liPartOfSpeech, Voc.liNoun)
+
+        case "adj." =>
+          lexEntry.addProperty(Voc.liPartOfSpeech,Voc.liAdj)
+
+        case "f." =>
+          lexEntry.addProperty(Voc.liGender,Voc.liGFemale)
+
+        case "m." =>
+          lexEntry.addProperty(Voc.liGender,Voc.liMasculine)
+
+        case "prép." =>
+          lexEntry.addProperty(Voc.liPartOfSpeech, Voc.liPreposition)
 
         case _ =>
       }
     }
-
   }
 
-  def dumpModel(path: String) = {
-    val fw = new FileWriter(path)
-    model.setNsPrefix("restaure", uri)
-    model.setNsPrefix("ontolex", Voc.ontolex)
-    model.setNsPrefix("lexinfo", Voc.lexinfo)
-    model.write(fw, "Turtle")
-    fw.close()
+  def LexieEntiereWriter(article: NodeSeq, model:Model, lexEntry:Resource):Unit={
+    val LexieEntière = article \ "LexieEntiere"
+    val fLexieEntière = model.createResource(URIref.encode(uri + s"${LexieEntière.text}"))
+    lexEntry.addProperty(Voc.TranslatableAsForm, fLexieEntière)
+    fLexieEntière.addProperty(Voc.writtenRep,LexieEntière.text)
   }
+
+
+
 }
-

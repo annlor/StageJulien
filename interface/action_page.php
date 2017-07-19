@@ -14,7 +14,7 @@
 
 <script src="https://unpkg.com/leaflet@1.1.0/dist/leaflet.js" integrity="sha512-mNqn2Wg7tSToJhvHcqfzLMU6J4mkOImSPTxVZAdo+lcPlk+GhZmYgACEe0x35K7YzW1zJ7XyJV/TT1MrdXvMcA==" crossorigin=""></script>
     <!-- Bootstrap core CSS -->
-    <link href="bootstrap/docs/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="bootstrap/docs/dist/css/bootstrap.css" rel="stylesheet">
 
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <link href="bootstrap/docs/assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
@@ -75,11 +75,15 @@ if (preg_match('/([a-zA-Z()\s\',]+)/',$output)<1){
 }
 echo $output;
 ?><br><br>
+<div class="btn-group" data-toggle="buttons">
+  <span onclick="changeOnglet(0)"><label class="btn btn-primary active">
+    <input type="radio" name="options" id="option1" autocomplete="off" checked>Traductions</span>
+  </label>
+<span onclick="changeOnglet(1)"><label class="btn btn-primary">
+    <input type="radio" name="options" id="option2" autocomplete="off">Carte</span>
+  </label>
 
-  <span onclick="changeOnglet(0)"><button type="button" class="btn btn-primary">Traductions</button></span>
-<span onclick="changeOnglet(1)"><button type="button" class="btn btn-info">Carte</button>
-</span>
-
+</div>
       
     </div>
 
@@ -91,7 +95,7 @@ echo $output;
   include_once('semsol/ARC2.php'); 
 
 $dbpconfig = array(
-  "remote_store_endpoint" => "http://jarry:3030/restaure/query",
+  "remote_store_endpoint" => "http://vmrestaure:3030/restaure/sparql",
    );
 $store = ARC2::getRemoteStore($dbpconfig); 
 if ($errs = $store->getErrors()) {

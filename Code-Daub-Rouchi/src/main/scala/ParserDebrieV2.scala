@@ -36,10 +36,10 @@ class ParserDebrieV2 {
       P(ArticleDeDictionnaire.map(a => ArticlePicard(a._1, a._2, a._3)).rep(min = 11)).log()
 
     ParserLexique.parse(str) match {
-      case Parsed.Success(seqresult: Seq[ArticlePicard],_) => {
+      case Parsed.Success(seqresult: Seq[ArticlePicard],_) =>
         println("Success")
         Dictionnaire(seqresult)
-      }
+
       case f:Parsed.Failure =>
         println("Failure")
         Dictionnaire(Seq(ArticlePicard(s"Failure $str \n ${f.extra.traced.trace}", s"${f.index}",Seq(""))))

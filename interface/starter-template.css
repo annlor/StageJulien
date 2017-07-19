@@ -25,18 +25,23 @@ border-color:#1a1a1a;
 }
 
 .btn-success:active {
-    background-color: black;
-color:black;
+    background-color: #191919;
+	color: #E6E6E6;
+}
+
+.btn-success:active:focus {
+  color:  #E6E6E6;
+  background-color: #191919; 
 }
 
 .btn-success:target {
-    background-color: black;
+    background-color:  #E6E6E6;
 color:black;
 }
 
 .btn-success:hover {
-    background-color: white;
-border-color: white;
+    background-color:  #E6E6E6;
+border-color:  #F2F2F2;
 color:black;
 }
 
@@ -50,6 +55,10 @@ height:700px;
 }
 #mpaparagraph {
 height: 100%
+}
+
+[type='radio'] {
+display: none; 
 }
 
 

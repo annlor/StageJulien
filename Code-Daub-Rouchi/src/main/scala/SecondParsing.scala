@@ -26,7 +26,7 @@ class SecondParsing {
     val ComplementMot = P(("(" ~ "'".? ~ UP.LowerCaseLetter.rep(sep = "'") ~ "'".? ~ ")").!)
 
     val DeuxiemeParser: Parser[(String,Option[String],String,Seq[String])] = P(MotFrançais.! ~ " ".? ~ ComplementMot.!.?
-      ~ ", ".? ~ UP.Abreviation.?.! ~ " : ".? ~ UP.Definitions.!.rep)
+      ~ ", ".? ~ UP.Abreviation.?.! ~ " : ".? ~ (UP.Definitions ~ UP.Ponctuation).!.rep)
 
 
 
