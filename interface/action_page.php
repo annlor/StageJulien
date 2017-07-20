@@ -110,7 +110,7 @@ SELECT ?object2
 WHERE {
     ?x ontolex:writtenRep \"${output}\" .
     ?y ontolex:lexicalForm ?x.
-  	?y restaure:TranslatableAsBetweenForms ?z.
+  	?y restaure:TranslatableAsForm ?z.
     ?z ontolex:writtenRep ?object2
 }";
 

@@ -74,11 +74,9 @@ foreach($rows as $row) {
 
 		    $( "#inputpicard" ).autocomplete({
       source: availableTags,
-
 open: function(event,ui){
     var len = $('.ui-autocomplete > li').length;
 document.getElementById("IntroAndCount").innerHTML = 'Il y a '+len+' résultat(s)'
-
   }
     });
   } );
