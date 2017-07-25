@@ -67,35 +67,14 @@
 <div class="container-fluid">
 
       <div class="starter-template">
-        <p class="lead">Vous avez cherché :</p><?php
-$output = $_GET["mot"];
-$output = htmlspecialchars($output, ENT_QUOTES);
-if (preg_match('/([a-zA-Z()\s\',]+)/',$output)<1){
-	$output = "Entrée invalide";
-}
-echo $output;
-?><br><br>
-<div class="btn-group" data-toggle="buttons">
-  <span onclick="changeOnglet(0)"><label class="btn btn-primary active">
-    <input type="radio" name="options" id="option1" autocomplete="off" checked>Traductions</span>
-  </label>
-<span onclick="changeOnglet(1)"><label class="btn btn-primary">
-    <input type="radio" name="options" id="option2" autocomplete="off">Carte</span>
-  </label>
-
-</div>
-      
-    </div>
-
-    <div id="contenuOnglet0" style="display:block;">
-	<ul style="list-style-type:circle">
-	<li>Picard : </li><p id = "output"><?php
+        <p class="lead">Vous avez cherché :</p>
+<?php
 /* ARC2 static class inclusion */ 
 
   include_once('semsol/ARC2.php'); 
 
 $dbpconfig = array(
-  "remote_store_endpoint" => "http://vmrestaure:3030/restaure/sparql",
+  "remote_store_endpoint" => "http://vmrestaure:3030/restaureallwords/query",
    );
 $store = ARC2::getRemoteStore($dbpconfig); 
 if ($errs = $store->getErrors()) {
@@ -103,15 +82,25 @@ if ($errs = $store->getErrors()) {
   }
 
 $output = $_GET["mot"];
-
+$output = htmlspecialchars($output, ENT_QUOTES);
+if (preg_match('/([a-zA-Z()\s\',]+)/',$output)<1){
+	$output = "Entrée invalide";
+}
 $query = "PREFIX ontolex: <http://www.w3.org/ns/lemon/ontolex#>
 PREFIX restaure: <http://restaure.limsi.fr/2017/rdf#>
-SELECT ?object2
+PREFIX lexinfo: <http://lexinfo.net/ontology/2.0/lexinfo#>
+
+SELECT ?object2 ?speech2 ?gender2
 WHERE {
-    ?x ontolex:writtenRep \"${output}\" .
+    ?x ontolex:writtenRep \"${output}\".
     ?y ontolex:lexicalForm ?x.
   	?y restaure:TranslatableAsForm ?z.
-    ?z ontolex:writtenRep ?object2
+    ?z ontolex:writtenRep ?object2.
+  OPTIONAL {?y lexinfo:partOfSpeech ?speech.
+  ?speech ontolex:writtenRep ?speech2}.
+    OPTIONAL{?y lexinfo:gender ?gender.
+  ?gender ontolex:writtenRep ?gender2}
+
 }";
 
 /* execute the query */
@@ -122,10 +111,31 @@ WHERE {
        print_r($errs);
     }
 foreach($rows as $row){
-	echo $row['object2'];
+	$object2[] = $row['object2'];
+	echo "{$output} <br> {$row['speech2']} {$row['gender2']} ";
+	
 }
+?><br><br>
+<div class="row">
+<div class="btn-group" data-toggle="buttons">
+  <span onclick="changeOnglet(0)"><label class="btn btn-primary active">
+    <input type="radio" name="options" id="option1" autocomplete="off" checked>Traductions</span>
+  </label>
+<span onclick="changeOnglet(1)"><label class="btn btn-primary">
+    <input type="radio" name="options" id="option2" autocomplete="off">Carte</span>
+  </label>
 
-?> </p>
+      </div>
+</div>
+    </div>
+
+    <div id="contenuOnglet0" style="display:block;">
+	<ul style="list-style-type:circle">
+	<li>Picard : </li><p id = "output"> <?php 
+	echo "{$object2[0]}";
+
+?>
+</p>
 	<li>Alsacien :</li>
 	<li>Occitan :</li>
 	</ul>

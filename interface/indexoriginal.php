@@ -18,8 +18,22 @@
     <link href="bootstrap/docs/assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="starter-template.css" rel="stylesheet">
+    <link href="./starter-template.css" rel="stylesheet">
 
+	<style>
+  .ui-autocomplete {
+    max-height: 50%;
+    overflow-y: auto;
+    /* prevent horizontal scrollbar */
+    overflow-x: hidden;
+  }
+  /* IE 6 doesn't support max-height
+   * we use height instead, but this forces the menu to always be this tall
+   */
+  * html .ui-autocomplete {
+    height: 50%;
+  }
+</style>
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
     <script src="bootstrap/docs/assets/js/ie-emulation-modes-warning.js"></script>
@@ -36,37 +50,74 @@
         <!-- load jquery ui js file -->
         <script src="./jQuery/jquery-ui.min.js"></script>
 
-     <script type="text/javascript">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<?php
+/* ARC2 static class inclusion */ 
+  include_once('semsol/ARC2.php'); 
+$dbpconfig = array(
+  "remote_store_endpoint" => "http://vmrestaure:3030/restaure/sparql",
+   );
+$store = ARC2::getRemoteStore($dbpconfig); 
+
+
+$query = 'PREFIX ontolex: <http://www.w3.org/ns/lemon/ontolex#>
+PREFIX restaure: <http://restaure.limsi.fr/2017/rdf#>
+SELECT ?object1
+WHERE {
+    ?x ontolex:writtenRep ?object1.
+    ?y ontolex:lexicalForm ?x
+}';
+
+/* execute the query */
+  $rows = $store->query($query, 'rows'); 
+ 
+
+$stack = [];
+
+foreach($rows as $row) {
+	$stack[] = $row['object1'];
+
+}
+
+
+?>
+     <script>
         $(function() {
-            var availableTags = ['abaisser', 'abattu', 'ablette', 'aboulique', 'aboyer', 'abreuver'];
-		alert(availableTags[2]);
-            $("#inputpicard").autocomplete({
-                source: availableTags,
-                autoFocus:true
-            });
-        });
-        </script>
+            var availableTags = <?php echo json_encode($stack); ?>;
+
+		    $( "#inputpicard" ).autocomplete({
+      source: availableTags,
+open: function(event,ui){
+    var len = $('.ui-autocomplete > li').length;
+if (len >= 100){
+document.getElementById("IntroAndCount").innerHTML = 'Il y a plus de 100 résultats';
+}
+else{
+document.getElementById("IntroAndCount").innerHTML = 'Il y a '+len+' résultat(s)';
+}
+  }
+    });
+  } );
+  </script>
 
 	
   </head>
 
 
   <body>
-<script>
-$('form').submit(function(){
-    var input = $('#inputpicard').val();
-    if(input == ''){
-         alert("Vous n'avez rien entré !");
-    }    
-});
-</script>
+
+
+
 <script>
    function changeValue(o){
      document.getElementById('inputpicard').value=o.innerHTML;
     }
+
 </script>
 <script type="text/javascript">
-var base= ['abaisser','abattu','abécédaire','ablette','aboulique','aboyer','abreuver','abreuvoir','abri ','abrité ','acariâtre ','accablé','accoutrer','accrocher','accroupir ','accueillir','acharner ','acheter','acheteur','adonis','adresser','adroit','aération','affaiblir ','affaissement','affalé','affamé ','affectueux','affectueusement','affiquet','agencements ','agenouiller ','agité','agité ','agneau','agrostis','ahuri','aide','aider','aiguille','aiguillon','aiguiser','aimer','ainsi','aisé','aisé ','aller','alliaire','allumette','almanach','alors','amadouer','ameublir ','amie','amis','amour ','ampoule ','amuser ','amusette','andain','anémie','angélique','angine','anguille','animation','apaiser','apparence','appendicite','appentis','apprenti','approfondir ','appui','arabe','arabesques ','arbre','arête ','argent ','argile','armistice','armoire','armoise','arrérages','arrière-grand-père','arrière-grand-mère','arriver ','arroche','arrogant','assassin','assemblage à mi-bois','assembler','asseoir ','assoiffé ','assolement ','assorti','assoupir ','assurément','attacher','attarder ','atteindre ','attelage','attendrir','attraper','aube','audace','audacieux','augmentation','augmenter','aulne','aumône','aunée','aussi','autrefois','autrement','avare','avenue','averse','aveugle','avis','avoine'];
+var base = <?php echo json_encode($stack); ?>;
+
 
 function check(field) {
   var name = field.value;
@@ -116,13 +167,14 @@ function check(field) {
       <div class="starter-template">
         <h1>Lexique des langues du projet RESTAURE</h1>
         <p class="lead">Vous cherchez comment se dit un mot en picard, occitan ou alsacien ?</p>
-      </div><center>
- 	<form action ="action_page.php" method="get">
-    Indiquez ce mot : <br><br>
-    <input type="text" id ="inputpicard" name="mot" value="Tapez un mot..." onKeyUp="check(this)" onChange="check(this)" onclick="changeValue(this)"><br>
-    <input type ="submit" value ="Soumettre"> <button type="reset" value="Reset">Effacer</button>
+      </div>
+ 	<form action ="action_page.php" method="get" id = "formulaire">
+    <p id ="IntroAndCount">Indiquez ce mot :</p><div class="ui-widget">
+<button type="reset" value="Reset" class="btn btn-secondary">Effacer</button>
+    <input type="text" id ="inputpicard" name="mot" required value="Tapez un mot..." onKeyUp="check(this)" onChange="check(this)" onclick="changeValue(this)" >
+    <button type ="submit" class="btn btn-success">Soumettre</button> </div>
   	</form>
-</center>
+
     </div><!-- /.container -->
 
 
@@ -131,7 +183,7 @@ function check(field) {
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
     <script>window.jQuery || document.write('<script src="bootstrap/docs/assets/js/vendor/jquery.min.js"><\/script>')</script>
     <script src="bootstrap/docs/dist/js/bootstrap.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->

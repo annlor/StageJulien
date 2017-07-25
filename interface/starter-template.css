@@ -59,7 +59,9 @@ height: 100%
 
 [type='radio'] {
 display: none; 
+width:100%;
 }
+
 
 .inputpicard {width:50%;}
 

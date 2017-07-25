@@ -20,6 +20,20 @@
     <!-- Custom styles for this template -->
     <link href="./starter-template.css" rel="stylesheet">
 
+	<style>
+  .ui-autocomplete {
+    max-height: 50%;
+    overflow-y: auto;
+    /* prevent horizontal scrollbar */
+    overflow-x: hidden;
+  }
+  /* IE 6 doesn't support max-height
+   * we use height instead, but this forces the menu to always be this tall
+   */
+  * html .ui-autocomplete {
+    height: 50%;
+  }
+</style>
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
     <script src="bootstrap/docs/assets/js/ie-emulation-modes-warning.js"></script>
@@ -42,7 +56,7 @@
 /* ARC2 static class inclusion */ 
   include_once('semsol/ARC2.php'); 
 $dbpconfig = array(
-  "remote_store_endpoint" => "http://vmrestaure:3030/restaure/sparql",
+  "remote_store_endpoint" => "http://vmrestaure:3030/restaureallwords/query",
    );
 $store = ARC2::getRemoteStore($dbpconfig); 
 
@@ -73,10 +87,19 @@ foreach($rows as $row) {
             var availableTags = <?php echo json_encode($stack); ?>;
 
 		    $( "#inputpicard" ).autocomplete({
-      source: availableTags,
+      source: function(request, response) {
+        var results = $.ui.autocomplete.filter(availableTags, request.term);
+
+        response(results.slice(0, 100));
+    },
 open: function(event,ui){
     var len = $('.ui-autocomplete > li').length;
-document.getElementById("IntroAndCount").innerHTML = 'Il y a '+len+' résultat(s)'
+if (len >= 100){
+document.getElementById("IntroAndCount").innerHTML = 'Il y a plus de 100 résultats';
+}
+else{
+document.getElementById("IntroAndCount").innerHTML = 'Il y a '+len+' résultat(s)';
+}
   }
     });
   } );
@@ -152,7 +175,7 @@ function check(field) {
  	<form action ="action_page.php" method="get" id = "formulaire">
     <p id ="IntroAndCount">Indiquez ce mot :</p><div class="ui-widget">
 <button type="reset" value="Reset" class="btn btn-secondary">Effacer</button>
-    <input type="text" id ="inputpicard" name="mot" required value="Tapez un mot..." onKeyUp="check(this)" onChange="check(this)" onclick="changeValue(this)" >
+    <input type="text" id ="inputpicard" name="mot" required value="Tapez un mot..." onKeyUp="check(this)" onChange="check(this)" onclick="changeValue(this)" size = "30">
     <button type ="submit" class="btn btn-success">Soumettre</button> </div>
   	</form>
 
