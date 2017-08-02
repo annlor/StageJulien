@@ -7,7 +7,7 @@
         <LexieEntiere>iau ; (de vaisselle), arlavage, arlavures ; (de lessive) lavage, lavurage, lessivage ; (de boudin) santée.</LexieEntiere>
         <Lexie><SousLexie>iau </SousLexie><SousLexie> (de vaisselle)</SousLexie><SousLexie> arlavage</SousLexie><SousLexie> arlavures </SousLexie><SousLexie> (de lessive) lavage</SousLexie><SousLexie> lavurage</SousLexie><SousLexie> lessivage </SousLexie><SousLexie> (de boudin) santée.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>efféminé </Entrée>
+        <Entrée>efféminé</Entrée>
         <Complément>(homme)</Complément>
         <StructureGrammaticale></StructureGrammaticale>
         <LexieEntiere>s, m. : cacoule, mécoule.</LexieEntiere>
@@ -31,7 +31,7 @@
         <LexieEntiere>riffeter, rifler.</LexieEntiere>
         <Lexie><SousLexie>riffeter</SousLexie><SousLexie> rifler.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>effranger </Entrée>
+        <Entrée>effranger</Entrée>
         <Complément>(s')</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
         <LexieEntiere>s' défrincher.</LexieEntiere>
@@ -45,9 +45,9 @@
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>effronté</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s. m. et adj.</StructureGrammaticale>
-        <LexieEntiere>affronté, franc-picard.</LexieEntiere>
-        <Lexie><SousLexie>affronté</SousLexie><SousLexie> franc-picard.</SousLexie></Lexie>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <LexieEntiere> et adj. : affronté, franc-picard.</LexieEntiere>
+        <Lexie><SousLexie> et adj. : affronté</SousLexie><SousLexie> franc-picard.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>effrontée</Entrée>
         <Complément></Complément>
@@ -97,11 +97,11 @@
         <LexieEntiere>touiller, imberlifiquer.</LexieEntiere>
         <Lexie><SousLexie>touiller</SousLexie><SousLexie> imberlifiquer.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>emmerder </Entrée>
+        <Entrée>emmerder</Entrée>
         <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(sens pr.), v. : imberner.</LexieEntiere>
+        <Lexie><SousLexie>(sens pr.)</SousLexie><SousLexie> v. : imberner.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>empiffrer</Entrée>
         <Complément></Complément>
@@ -115,11 +115,11 @@
         <LexieEntiere>rimpirer.</LexieEntiere>
         <Lexie><SousLexie>rimpirer.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>employé de bureau</Entrée>
+        <Entrée>employé</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>cut à l' laine.</LexieEntiere>
-        <Lexie><SousLexie>cut à l' laine.</SousLexie></Lexie>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>de bureau, s. m. : cut à l' laine.</LexieEntiere>
+        <Lexie><SousLexie>de bureau</SousLexie><SousLexie> s. m. : cut à l' laine.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>empoigner</Entrée>
         <Complément></Complément>
@@ -127,7 +127,7 @@
         <LexieEntiere>impogner.</LexieEntiere>
         <Lexie><SousLexie>impogner.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>empressée </Entrée>
+        <Entrée>empressée</Entrée>
         <Complément>(femme)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere>Marie-quat' bras, Marie-l'imblave.</LexieEntiere>
@@ -145,13 +145,13 @@
         <LexieEntiere>impuir.</LexieEntiere>
         <Lexie><SousLexie>impuir.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>enceinte </Entrée>
+        <Entrée>enceinte</Entrée>
         <Complément>(être)</Complément>
         <StructureGrammaticale></StructureGrammaticale>
         <LexieEntiere>avoir el ballon, faire s' bourse, s' faire un boursiau à s' panche, bâtir su l' dévant, mett' es gros écourchué gris, avoir mié des pos, avoir eine séquoi d'vant.</LexieEntiere>
         <Lexie><SousLexie>avoir el ballon</SousLexie><SousLexie> faire s' bourse</SousLexie><SousLexie> s' faire un boursiau à s' panche</SousLexie><SousLexie> bâtir su l' dévant</SousLexie><SousLexie> mett' es gros écourchué gris</SousLexie><SousLexie> avoir mié des pos</SousLexie><SousLexie> avoir eine séquoi d'vant.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>enchère </Entrée>
+        <Entrée>enchère</Entrée>
         <Complément>(décroissante)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere>rabaisse.</LexieEntiere>
@@ -181,7 +181,7 @@
         <LexieEntiere>acor, cor, incor.</LexieEntiere>
         <Lexie><SousLexie>acor</SousLexie><SousLexie> cor</SousLexie><SousLexie> incor.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>encrasser </Entrée>
+        <Entrée>encrasser</Entrée>
         <Complément>(s')</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
         <LexieEntiere>s'acrapir.</LexieEntiere>
@@ -193,7 +193,7 @@
         <LexieEntiere>dessipiter, rassotir, sipiter, souler.</LexieEntiere>
         <Lexie><SousLexie>dessipiter</SousLexie><SousLexie> rassotir</SousLexie><SousLexie> sipiter</SousLexie><SousLexie> souler.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>endive </Entrée>
+        <Entrée>endive</Entrée>
         <Complément>(witloof)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere>chicon.</LexieEntiere>
@@ -223,17 +223,17 @@
         <LexieEntiere>indurchir.</LexieEntiere>
         <Lexie><SousLexie>indurchir.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>enfance </Entrée>
-        <Complément>(tomber en)</Complément>
-        <StructureGrammaticale>loc. v.</StructureGrammaticale>
-        <LexieEntiere>rafantir.</LexieEntiere>
-        <Lexie><SousLexie>rafantir.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>enfant de choeur</Entrée>
+        <Entrée>enfance</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>garchon d' choeur, rouge-cotte, serveux.</LexieEntiere>
-        <Lexie><SousLexie>garchon d' choeur</SousLexie><SousLexie> rouge-cotte</SousLexie><SousLexie> serveux.</SousLexie></Lexie>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(tomber en), loc. v. : rafantir.</LexieEntiere>
+        <Lexie><SousLexie>(tomber en)</SousLexie><SousLexie> loc. v. : rafantir.</SousLexie></Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>enfant</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>de choeur, s. m. : garchon d' choeur, rouge-cotte, serveux.</LexieEntiere>
+        <Lexie><SousLexie>de choeur</SousLexie><SousLexie> s. m. : garchon d' choeur</SousLexie><SousLexie> rouge-cotte</SousLexie><SousLexie> serveux.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>enfermer</Entrée>
         <Complément></Complément>
@@ -295,11 +295,11 @@
         <LexieEntiere>inlacher.</LexieEntiere>
         <Lexie><SousLexie>inlacher.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>enlever </Entrée>
-        <Complément>(un vêtement)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>défaire, déroter ; (une épingle), détiquer.</LexieEntiere>
-        <Lexie><SousLexie>défaire</SousLexie><SousLexie> déroter </SousLexie><SousLexie> (une épingle)</SousLexie><SousLexie> détiquer.</SousLexie></Lexie>
+        <Entrée>enlever</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(un vêtement), v. : défaire, déroter ; (une épingle), détiquer.</LexieEntiere>
+        <Lexie><SousLexie>(un vêtement)</SousLexie><SousLexie> v. : défaire</SousLexie><SousLexie> déroter </SousLexie><SousLexie> (une épingle)</SousLexie><SousLexie> détiquer.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>enraciner</Entrée>
         <Complément></Complément>
@@ -487,11 +487,11 @@
         <LexieEntiere>cavain.</LexieEntiere>
         <Lexie><SousLexie>cavain.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>exciter </Entrée>
-        <Complément>(au vice)</Complément>
+        <Entrée>exciter</Entrée>
+        <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere>inhorter.</LexieEntiere>
-        <Lexie><SousLexie>inhorter.</SousLexie></Lexie>
+        <LexieEntiere>(au vice) : inhorter.</LexieEntiere>
+        <Lexie><SousLexie>(au vice) : inhorter.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>exploser</Entrée>
         <Complément></Complément>

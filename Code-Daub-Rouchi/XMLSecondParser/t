@@ -25,7 +25,7 @@
         <LexieEntiere>taque ; (de rousseur) brins de Judas ; taques d'antile.</LexieEntiere>
         <Lexie><SousLexie>taque </SousLexie><SousLexie> (de rousseur) brins de Judas </SousLexie><SousLexie> taques d'antile.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>taciturne </Entrée>
+        <Entrée>taciturne</Entrée>
         <Complément>(homme)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
         <LexieEntiere>mulâtre, mulet.</LexieEntiere>
@@ -34,14 +34,14 @@
         <Entrée>tailler</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(grossièrement) corbéter, esquetter ; (une plante) arpincher.</LexieEntiere>
+        <Lexie><SousLexie>(grossièrement) corbéter</SousLexie><SousLexie> esquetter </SousLexie><SousLexie> (une plante) arpincher.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>tailleur</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(d'habits) parmentier (vx) ; (de pierre) tailleux d' blancs.</LexieEntiere>
+        <Lexie><SousLexie>(d'habits) parmentier (vx) </SousLexie><SousLexie> (de pierre) tailleux d' blancs.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>taillis</Entrée>
         <Complément></Complément>
@@ -85,17 +85,17 @@
         <LexieEntiere>passe-temps.</LexieEntiere>
         <Lexie><SousLexie>passe-temps.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tape </Entrée>
-        <Complément>(sur les fesses)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>clique.</LexieEntiere>
-        <Lexie><SousLexie>clique.</SousLexie></Lexie>
+        <Entrée>tape</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(sur les fesses), s. f. : clique.</LexieEntiere>
+        <Lexie><SousLexie>(sur les fesses)</SousLexie><SousLexie> s. f. : clique.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>taper </Entrée>
-        <Complément>(à petits coups)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>tabioquer.</LexieEntiere>
-        <Lexie><SousLexie>tabioquer.</SousLexie></Lexie>
+        <Entrée>taper</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(à petits coups), v. : tabioquer.</LexieEntiere>
+        <Lexie><SousLexie>(à petits coups)</SousLexie><SousLexie> v. : tabioquer.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>targette</Entrée>
         <Complément></Complément>
@@ -103,17 +103,17 @@
         <LexieEntiere>cliquette.</LexieEntiere>
         <Lexie><SousLexie>cliquette.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tarin </Entrée>
+        <Entrée>tarin</Entrée>
         <Complément>(oiseau)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
         <LexieEntiere>vert-montant.</LexieEntiere>
         <Lexie><SousLexie>vert-montant.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tarte au fromage</Entrée>
+        <Entrée>tarte</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>goyère.</LexieEntiere>
-        <Lexie><SousLexie>goyère.</SousLexie></Lexie>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>au fromage, s. f. : goyère.</LexieEntiere>
+        <Lexie><SousLexie>au fromage</SousLexie><SousLexie> s. f. : goyère.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>tas</Entrée>
         <Complément></Complément>
@@ -129,9 +129,9 @@
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>tâtillon</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s. m. et adj.</StructureGrammaticale>
-        <LexieEntiere>bésin, nunu, nunuche, rénicteux, tatasse, tâte-mesglaines, tiquenard, tiqueneux, totin.</LexieEntiere>
-        <Lexie><SousLexie>bésin</SousLexie><SousLexie> nunu</SousLexie><SousLexie> nunuche</SousLexie><SousLexie> rénicteux</SousLexie><SousLexie> tatasse</SousLexie><SousLexie> tâte-mesglaines</SousLexie><SousLexie> tiquenard</SousLexie><SousLexie> tiqueneux</SousLexie><SousLexie> totin.</SousLexie></Lexie>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <LexieEntiere> et adj. : bésin, nunu, nunuche, rénicteux, tatasse, tâte-mesglaines, tiquenard, tiqueneux, totin.</LexieEntiere>
+        <Lexie><SousLexie> et adj. : bésin</SousLexie><SousLexie> nunu</SousLexie><SousLexie> nunuche</SousLexie><SousLexie> rénicteux</SousLexie><SousLexie> tatasse</SousLexie><SousLexie> tâte-mesglaines</SousLexie><SousLexie> tiquenard</SousLexie><SousLexie> tiqueneux</SousLexie><SousLexie> totin.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>taupe</Entrée>
         <Complément></Complément>
@@ -175,11 +175,11 @@
         <LexieEntiere>mirouler.</LexieEntiere>
         <Lexie><SousLexie>mirouler.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>terme </Entrée>
-        <Complément>(d'un marché)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>aghais (vx).</LexieEntiere>
-        <Lexie><SousLexie>aghais (vx).</SousLexie></Lexie>
+        <Entrée>terme</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(d'un marché), s. m. : aghais (vx).</LexieEntiere>
+        <Lexie><SousLexie>(d'un marché)</SousLexie><SousLexie> s. m. : aghais (vx).</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>terminer</Entrée>
         <Complément></Complément>
@@ -241,11 +241,11 @@
         <LexieEntiere>détiédir, détombir.</LexieEntiere>
         <Lexie><SousLexie>détiédir</SousLexie><SousLexie> détombir.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tiges </Entrée>
-        <Complément>(de pommes de terre)</Complément>
-        <StructureGrammaticale>s. f. pl.</StructureGrammaticale>
-        <LexieEntiere>aris (d' truches) : (sèches) ranques, ronques.</LexieEntiere>
-        <Lexie><SousLexie>aris (d' truches) : (sèches) ranques</SousLexie><SousLexie> ronques.</SousLexie></Lexie>
+        <Entrée>tiges</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(de pommes de terre), s. f. pl. : aris (d' truches) : (sèches) ranques, ronques.</LexieEntiere>
+        <Lexie><SousLexie>(de pommes de terre)</SousLexie><SousLexie> s. f. pl. : aris (d' truches) : (sèches) ranques</SousLexie><SousLexie> ronques.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>timide</Entrée>
         <Complément></Complément>
@@ -259,17 +259,17 @@
         <LexieEntiere>tintin.</LexieEntiere>
         <Lexie><SousLexie>tintin.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tirer </Entrée>
-        <Complément>(exercer une traction)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>saquer ; (d'un mauvais pas) : déhoter.</LexieEntiere>
-        <Lexie><SousLexie>saquer </SousLexie><SousLexie> (d'un mauvais pas) : déhoter.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tireur à l'arc</Entrée>
+        <Entrée>tirer</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>pique-à-l'osiau.</LexieEntiere>
-        <Lexie><SousLexie>pique-à-l'osiau.</SousLexie></Lexie>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(exercer une traction), v. : saquer ; (d'un mauvais pas) : déhoter.</LexieEntiere>
+        <Lexie><SousLexie>(exercer une traction)</SousLexie><SousLexie> v. : saquer </SousLexie><SousLexie> (d'un mauvais pas) : déhoter.</SousLexie></Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>tireur</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>à l'arc, s. m. : pique-à-l'osiau.</LexieEntiere>
+        <Lexie><SousLexie>à l'arc</SousLexie><SousLexie> s. m. : pique-à-l'osiau.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>tiroir</Entrée>
         <Complément></Complément>
@@ -286,8 +286,8 @@
         <Entrée>tisserand</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(en batiste) marquénier, mulquinier, murquénier ; (en toile) tellier (vx).</LexieEntiere>
+        <Lexie><SousLexie>(en batiste) marquénier</SousLexie><SousLexie> mulquinier</SousLexie><SousLexie> murquénier </SousLexie><SousLexie> (en toile) tellier (vx).</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>tituber</Entrée>
         <Complément></Complément>
@@ -301,11 +301,11 @@
         <LexieEntiere>ti.</LexieEntiere>
         <Lexie><SousLexie>ti.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>toile d'araignée</Entrée>
+        <Entrée>toile</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>arnitoile.</LexieEntiere>
-        <Lexie><SousLexie>arnitoile.</SousLexie></Lexie>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>d'araignée, s. f. : arnitoile.</LexieEntiere>
+        <Lexie><SousLexie>d'araignée</SousLexie><SousLexie> s. f. : arnitoile.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>toit</Entrée>
         <Complément></Complément>
@@ -349,7 +349,7 @@
         <LexieEntiere>bousin, paillotis ; mur de torchis : placage.</LexieEntiere>
         <Lexie><SousLexie>bousin</SousLexie><SousLexie> paillotis </SousLexie><SousLexie> mur de torchis : placage.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tordre </Entrée>
+        <Entrée>tordre</Entrée>
         <Complément>(se)</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
         <LexieEntiere>s' vériner, s' versiner, s' verténer ; (le pied) clambiner.</LexieEntiere>
@@ -373,11 +373,11 @@
         <LexieEntiere>timpe (tempre).</LexieEntiere>
         <Lexie><SousLexie>timpe (tempre).</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>touche </Entrée>
-        <Complément>(à la pêche)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>mordage.</LexieEntiere>
-        <Lexie><SousLexie>mordage.</SousLexie></Lexie>
+        <Entrée>touche</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(à la pêche), s. f. : mordage.</LexieEntiere>
+        <Lexie><SousLexie>(à la pêche)</SousLexie><SousLexie> s. f. : mordage.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>touffe</Entrée>
         <Complément></Complément>
@@ -403,23 +403,23 @@
         <LexieEntiere>tourbision.</LexieEntiere>
         <Lexie><SousLexie>tourbision.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tour de rein</Entrée>
+        <Entrée>tour</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>tapure.</LexieEntiere>
-        <Lexie><SousLexie>tapure.</SousLexie></Lexie>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>de rein, s. m. : tapure.</LexieEntiere>
+        <Lexie><SousLexie>de rein</SousLexie><SousLexie> s. m. : tapure.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tourneur </Entrée>
-        <Complément>(sur bois)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>fustailler.</LexieEntiere>
-        <Lexie><SousLexie>fustailler.</SousLexie></Lexie>
+        <Entrée>tourneur</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(sur bois), s. m. : fustailler.</LexieEntiere>
+        <Lexie><SousLexie>(sur bois)</SousLexie><SousLexie> s. m. : fustailler.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tournure </Entrée>
-        <Complément>(d'un événement)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>infilure.</LexieEntiere>
-        <Lexie><SousLexie>infilure.</SousLexie></Lexie>
+        <Entrée>tournure</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(d'un événement), s. f. : infilure.</LexieEntiere>
+        <Lexie><SousLexie>(d'un événement)</SousLexie><SousLexie> s. f. : infilure.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>tous</Entrée>
         <Complément></Complément>
@@ -451,7 +451,7 @@
         <LexieEntiere>rintassé.</LexieEntiere>
         <Lexie><SousLexie>rintassé.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>traquet </Entrée>
+        <Entrée>traquet</Entrée>
         <Complément>(passereau)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
         <LexieEntiere>cul-blanc.</LexieEntiere>
@@ -481,11 +481,11 @@
         <LexieEntiere>chanquier.</LexieEntiere>
         <Lexie><SousLexie>chanquier.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>trèfle </Entrée>
-        <Complément>(des prés)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>traleine, tranelle, trannène...</LexieEntiere>
-        <Lexie><SousLexie>traleine</SousLexie><SousLexie> tranelle</SousLexie><SousLexie> trannène...</SousLexie></Lexie>
+        <Entrée>trèfle</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(des prés), s. m. : traleine, tranelle, trannène...</LexieEntiere>
+        <Lexie><SousLexie>(des prés)</SousLexie><SousLexie> s. m. : traleine</SousLexie><SousLexie> tranelle</SousLexie><SousLexie> trannène...</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>tremble</Entrée>
         <Complément></Complément>
@@ -541,17 +541,17 @@
         <LexieEntiere>détricher, égluir.</LexieEntiere>
         <Lexie><SousLexie>détricher</SousLexie><SousLexie> égluir.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>trieur </Entrée>
-        <Complément>(de bûches)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>triquenaire, triquenelle.</LexieEntiere>
-        <Lexie><SousLexie>triquenaire</SousLexie><SousLexie> triquenelle.</SousLexie></Lexie>
+        <Entrée>trieur</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(de bûches), s. m. : triquenaire, triquenelle.</LexieEntiere>
+        <Lexie><SousLexie>(de bûches)</SousLexie><SousLexie> s. m. : triquenaire</SousLexie><SousLexie> triquenelle.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>trieuse </Entrée>
-        <Complément>(de charbon)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>cafu.</LexieEntiere>
-        <Lexie><SousLexie>cafu.</SousLexie></Lexie>
+        <Entrée>trieuse</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(de charbon), s. f. : cafu.</LexieEntiere>
+        <Lexie><SousLexie>(de charbon)</SousLexie><SousLexie> s. f. : cafu.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>trimer</Entrée>
         <Complément></Complément>
@@ -577,11 +577,11 @@
         <LexieEntiere>torchon, torseillon, turot.</LexieEntiere>
         <Lexie><SousLexie>torchon</SousLexie><SousLexie> torseillon</SousLexie><SousLexie> turot.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>trombone à coulisse</Entrée>
+        <Entrée>trombone</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>saque et pousse.</LexieEntiere>
-        <Lexie><SousLexie>saque et pousse.</SousLexie></Lexie>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>à coulisse, s. m. : saque et pousse.</LexieEntiere>
+        <Lexie><SousLexie>à coulisse</SousLexie><SousLexie> s. m. : saque et pousse.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>tromper</Entrée>
         <Complément></Complément>
@@ -637,11 +637,11 @@
         <LexieEntiere>estoquer.</LexieEntiere>
         <Lexie><SousLexie>estoquer.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tuile </Entrée>
-        <Complément>(de toit)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>panne.</LexieEntiere>
-        <Lexie><SousLexie>panne.</SousLexie></Lexie>
+        <Entrée>tuile</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(de toit), s. f. : panne.</LexieEntiere>
+        <Lexie><SousLexie>(de toit)</SousLexie><SousLexie> s. f. : panne.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>turbulent</Entrée>
         <Complément></Complément>

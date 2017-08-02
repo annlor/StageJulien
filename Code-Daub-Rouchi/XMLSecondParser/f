@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Nomenclature>
         <ArticleDeDictionnaire>
-        <Entrée>fâcher </Entrée>
+        <Entrée>fâcher</Entrée>
         <Complément>(se)</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
         <LexieEntiere>s' mett' in dondaine.</LexieEntiere>
@@ -19,7 +19,7 @@
         <LexieEntiere>abongé. (Voir: accoutrer).</LexieEntiere>
         <Lexie><SousLexie>abongé. (Voir: accoutrer).</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>faille </Entrée>
+        <Entrée>faille</Entrée>
         <Complément>(géologique)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere>rinfoncemint.</LexieEntiere>
@@ -43,7 +43,7 @@
         <LexieEntiere>alboder, arlander.</LexieEntiere>
         <Lexie><SousLexie>alboder</SousLexie><SousLexie> arlander.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fait </Entrée>
+        <Entrée>fait</Entrée>
         <Complément>(en)</Complément>
         <StructureGrammaticale>loc. adv.</StructureGrammaticale>
         <LexieEntiere>dès fut fait.</LexieEntiere>
@@ -73,11 +73,11 @@
         <LexieEntiere>rude.</LexieEntiere>
         <Lexie><SousLexie>rude.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>famille </Entrée>
-        <Complément>(à nourrir)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>péquée.</LexieEntiere>
-        <Lexie><SousLexie>péquée.</SousLexie></Lexie>
+        <Entrée>famille</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(à nourrir), s. f. : péquée.</LexieEntiere>
+        <Lexie><SousLexie>(à nourrir)</SousLexie><SousLexie> s. f. : péquée.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>fange</Entrée>
         <Complément></Complément>
@@ -85,7 +85,7 @@
         <LexieEntiere>breuque.</LexieEntiere>
         <Lexie><SousLexie>breuque.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fantastiques </Entrée>
+        <Entrée>fantastiques</Entrée>
         <Complément>(créatures)</Complément>
         <StructureGrammaticale></StructureGrammaticale>
         <LexieEntiere>galouche, gobelin, loripette, manu, sacadents.</LexieEntiere>
@@ -127,7 +127,7 @@
         <LexieEntiere>fauque ; (courte) : piquet, sape.</LexieEntiere>
         <Lexie><SousLexie>fauque </SousLexie><SousLexie> (courte) : piquet</SousLexie><SousLexie> sape.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fécale </Entrée>
+        <Entrée>fécale</Entrée>
         <Complément>(matière)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere>bren, brin.</LexieEntiere>
@@ -199,9 +199,9 @@
         <LexieEntiere> pl : badou, cantiaux (pl.) pète, pays-bas (pl.), drère.</LexieEntiere>
         <Lexie><SousLexie> pl : badou</SousLexie><SousLexie> cantiaux (pl.) pète</SousLexie><SousLexie> pays-bas (pl.)</SousLexie><SousLexie> drère.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fête </Entrée>
-        <Complément>(jour de)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <Entrée>fête</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
         <LexieEntiere></LexieEntiere>
         
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
@@ -247,23 +247,23 @@
         <LexieEntiere>éton, fi ; (de cordonnier) coeute-fi, queute-fi ; (de haricot) fichon.</LexieEntiere>
         <Lexie><SousLexie>éton</SousLexie><SousLexie> fi </SousLexie><SousLexie> (de cordonnier) coeute-fi</SousLexie><SousLexie> queute-fi </SousLexie><SousLexie> (de haricot) fichon.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fil d'eau</Entrée>
+        <Entrée>fil</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>gulot.</LexieEntiere>
-        <Lexie><SousLexie>gulot.</SousLexie></Lexie>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>d'eau, s. m. : gulot.</LexieEntiere>
+        <Lexie><SousLexie>d'eau</SousLexie><SousLexie> s. m. : gulot.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>filet </Entrée>
-        <Complément>(de pêche)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>aploute.</LexieEntiere>
-        <Lexie><SousLexie>aploute.</SousLexie></Lexie>
+        <Entrée>filet</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(de pêche), s. m. : aploute.</LexieEntiere>
+        <Lexie><SousLexie>(de pêche)</SousLexie><SousLexie> s. m. : aploute.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>fille</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(jeune) bachelette, camusette, chabourlette, frisquette, gadrouillette, galuriette, garlousette, gaudinette ; (garçonnière) garchon bachelette ou falli ou findu ; (petite) ninette ; (naïve) porée ; (vive) sautériau d'août ; (hargneuse) pie-grette ; (frivole) involée ; (mijaurée) chichette ; (de mauvaise vie) droule, fille ed corps dé garde, lostière, marie-salope, péoule, putaine, troule, wandroule.</LexieEntiere>
+        <Lexie><SousLexie>(jeune) bachelette</SousLexie><SousLexie> camusette</SousLexie><SousLexie> chabourlette</SousLexie><SousLexie> frisquette</SousLexie><SousLexie> gadrouillette</SousLexie><SousLexie> galuriette</SousLexie><SousLexie> garlousette</SousLexie><SousLexie> gaudinette </SousLexie><SousLexie> (garçonnière) garchon bachelette ou falli ou findu </SousLexie><SousLexie> (petite) ninette </SousLexie><SousLexie> (naïve) porée </SousLexie><SousLexie> (vive) sautériau d'août </SousLexie><SousLexie> (hargneuse) pie-grette </SousLexie><SousLexie> (frivole) involée </SousLexie><SousLexie> (mijaurée) chichette </SousLexie><SousLexie> (de mauvaise vie) droule</SousLexie><SousLexie> fille ed corps dé garde</SousLexie><SousLexie> lostière</SousLexie><SousLexie> marie-salope</SousLexie><SousLexie> péoule</SousLexie><SousLexie> putaine</SousLexie><SousLexie> troule</SousLexie><SousLexie> wandroule.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>filou</Entrée>
         <Complément></Complément>
@@ -280,8 +280,8 @@
         <Entrée>filtre</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(à lait) couloi.</LexieEntiere>
+        <Lexie><SousLexie>(à lait) couloi.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>fin</Entrée>
         <Complément></Complément>
@@ -289,7 +289,7 @@
         <LexieEntiere>finissemint.</LexieEntiere>
         <Lexie><SousLexie>finissemint.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>finale </Entrée>
+        <Entrée>finale</Entrée>
         <Complément>(sportive)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere>définition.</LexieEntiere>
@@ -303,9 +303,9 @@
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>flamand</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s. m. et adj.</StructureGrammaticale>
-        <LexieEntiere>flahute, flaming.</LexieEntiere>
-        <Lexie><SousLexie>flahute</SousLexie><SousLexie> flaming.</SousLexie></Lexie>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <LexieEntiere> et adj. : flahute, flaming.</LexieEntiere>
+        <Lexie><SousLexie> et adj. : flahute</SousLexie><SousLexie> flaming.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>flammèche</Entrée>
         <Complément></Complément>
@@ -337,11 +337,11 @@
         <LexieEntiere>astiquette.</LexieEntiere>
         <Lexie><SousLexie>astiquette.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fléchir </Entrée>
-        <Complément>(sur ses jambes)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>fonflir.</LexieEntiere>
-        <Lexie><SousLexie>fonflir.</SousLexie></Lexie>
+        <Entrée>fléchir</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(sur ses jambes), v. : fonflir.</LexieEntiere>
+        <Lexie><SousLexie>(sur ses jambes)</SousLexie><SousLexie> v. : fonflir.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>flétan</Entrée>
         <Complément></Complément>
@@ -355,19 +355,19 @@
         <LexieEntiere>flanir.</LexieEntiere>
         <Lexie><SousLexie>flanir.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>flocon </Entrée>
+        <Entrée>flocon</Entrée>
         <Complément>(petit)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
         <LexieEntiere>pluquette, plurette.</LexieEntiere>
         <Lexie><SousLexie>pluquette</SousLexie><SousLexie> plurette.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fluxion </Entrée>
+        <Entrée>fluxion</Entrée>
         <Complément>(dentaire)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere>chique.</LexieEntiere>
         <Lexie><SousLexie>chique.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>foison </Entrée>
+        <Entrée>foison</Entrée>
         <Complément>(à)</Complément>
         <StructureGrammaticale>loc. adv.</StructureGrammaticale>
         <LexieEntiere>à plenté, à ploute.</LexieEntiere>
@@ -385,7 +385,7 @@
         <LexieEntiere>boulan, errion.</LexieEntiere>
         <Lexie><SousLexie>boulan</SousLexie><SousLexie> errion.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>forces </Entrée>
+        <Entrée>forces</Entrée>
         <Complément>(ciseaux)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere> pl : éforches.</LexieEntiere>
@@ -399,9 +399,9 @@
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>fou</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s. m. et adj.</StructureGrammaticale>
-        <LexieEntiere>seut, sot ; fou à lier : raide-seut.</LexieEntiere>
-        <Lexie><SousLexie>seut</SousLexie><SousLexie> sot </SousLexie><SousLexie> fou à lier : raide-seut.</SousLexie></Lexie>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <LexieEntiere> et adj. : seut, sot ; fou à lier : raide-seut.</LexieEntiere>
+        <Lexie><SousLexie> et adj. : seut</SousLexie><SousLexie> sot </SousLexie><SousLexie> fou à lier : raide-seut.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>fouet</Entrée>
         <Complément></Complément>
@@ -433,11 +433,11 @@
         <LexieEntiere>séquesse.</LexieEntiere>
         <Lexie><SousLexie>séquesse.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>four à chaux</Entrée>
+        <Entrée>four</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>caufour.</LexieEntiere>
-        <Lexie><SousLexie>caufour.</SousLexie></Lexie>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>à chaux, s. m. : caufour.</LexieEntiere>
+        <Lexie><SousLexie>à chaux</SousLexie><SousLexie> s. m. : caufour.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>fourche</Entrée>
         <Complément></Complément>
@@ -457,11 +457,11 @@
         <LexieEntiere>fourmisse.</LexieEntiere>
         <Lexie><SousLexie>fourmisse.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fournée </Entrée>
-        <Complément>(de pain)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>cuitie.</LexieEntiere>
-        <Lexie><SousLexie>cuitie.</SousLexie></Lexie>
+        <Entrée>fournée</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(de pain), s. f. : cuitie.</LexieEntiere>
+        <Lexie><SousLexie>(de pain)</SousLexie><SousLexie> s. f. : cuitie.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>fourrage</Entrée>
         <Complément></Complément>
@@ -481,11 +481,11 @@
         <LexieEntiere>casuel.</LexieEntiere>
         <Lexie><SousLexie>casuel.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>frai </Entrée>
-        <Complément>(de poisson)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>foursin.</LexieEntiere>
-        <Lexie><SousLexie>foursin.</SousLexie></Lexie>
+        <Entrée>frai</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(de poisson), s. m. : foursin.</LexieEntiere>
+        <Lexie><SousLexie>(de poisson)</SousLexie><SousLexie> s. m. : foursin.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>fraisil</Entrée>
         <Complément></Complément>
@@ -505,11 +505,11 @@
         <LexieEntiere></LexieEntiere>
         
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fressure </Entrée>
-        <Complément>(de veau)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>fresse ; (de porc) frigalette.</LexieEntiere>
-        <Lexie><SousLexie>fresse </SousLexie><SousLexie> (de porc) frigalette.</SousLexie></Lexie>
+        <Entrée>fressure</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(de veau), s. f. : fresse ; (de porc) frigalette.</LexieEntiere>
+        <Lexie><SousLexie>(de veau)</SousLexie><SousLexie> s. f. : fresse </SousLexie><SousLexie> (de porc) frigalette.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>fricassée</Entrée>
         <Complément></Complément>
@@ -547,7 +547,7 @@
         <LexieEntiere>ferchonner.</LexieEntiere>
         <Lexie><SousLexie>ferchonner.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>frivole </Entrée>
+        <Entrée>frivole</Entrée>
         <Complément>(personne)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere>amusette, arlusette, involée.</LexieEntiere>
@@ -555,9 +555,9 @@
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>froid</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s. m. et adj.</StructureGrammaticale>
-        <LexieEntiere>frod.</LexieEntiere>
-        <Lexie><SousLexie>frod.</SousLexie></Lexie>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <LexieEntiere> et adj. : frod.</LexieEntiere>
+        <Lexie><SousLexie> et adj. : frod.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>frôler</Entrée>
         <Complément></Complément>
@@ -565,7 +565,7 @@
         <LexieEntiere>estriquer. (Voir : effleurer).</LexieEntiere>
         <Lexie><SousLexie>estriquer. (Voir : effleurer).</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fromages </Entrée>
+        <Entrée>fromages</Entrée>
         <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
         <LexieEntiere></LexieEntiere>
@@ -601,11 +601,11 @@
         <LexieEntiere>fien.</LexieEntiere>
         <Lexie><SousLexie>fien.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fur et à mesure </Entrée>
-        <Complément>(au)</Complément>
-        <StructureGrammaticale>loc. adv.</StructureGrammaticale>
-        <LexieEntiere>fait à fait.</LexieEntiere>
-        <Lexie><SousLexie>fait à fait.</SousLexie></Lexie>
+        <Entrée>fur</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>et à mesure (au), loc. adv. : fait à fait.</LexieEntiere>
+        <Lexie><SousLexie>et à mesure (au)</SousLexie><SousLexie> loc. adv. : fait à fait.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>fureter</Entrée>
         <Complément></Complément>
@@ -613,10 +613,10 @@
         <LexieEntiere>ernaquer, fournaquer.</LexieEntiere>
         <Lexie><SousLexie>ernaquer</SousLexie><SousLexie> fournaquer.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fuseau </Entrée>
-        <Complément>(de dentellière)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>broquelet.</LexieEntiere>
-        <Lexie><SousLexie>broquelet.</SousLexie></Lexie>
+        <Entrée>fuseau</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(de dentellière), s. m. : broquelet.</LexieEntiere>
+        <Lexie><SousLexie>(de dentellière)</SousLexie><SousLexie> s. m. : broquelet.</SousLexie></Lexie>
       </ArticleDeDictionnaire>
       </Nomenclature>

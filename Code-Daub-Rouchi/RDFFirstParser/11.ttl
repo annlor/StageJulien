@@ -1,0 +1,34 @@
+@prefix restaure: <http://restaure.limsi.fr/2017/rdf#> .
+@prefix vartrans: <https://www.w3.org/ns/lemon/vartrans#> .
+@prefix lime:  <http://www.w3.org/ns/lemon/lime#> .
+@prefix ontolex: <http://www.w3.org/ns/lemon/ontolex#> .
+@prefix lexinfo: <http://lexinfo.net/ontology/2.0/lexinfo#> .
+
+<http://restaure.limsi.fr/2017/rdf#la%20Geste%20d'Aliscans,%20XIIIe).%20>
+        ontolex:writtenRep  "la Geste d'Aliscans, XIIIe). " .
+
+restaure:le11PicardVersFrançais_1
+        restaure:TranslatableAsDef  restaure: ;
+        restaure:oldInformation     restaure: ;
+        ontolex:lexicalForm         restaure:lf_K .
+
+lime:Lexion  lime:entry  restaure:le11PicardVersFrançais_1 , restaure:le11PicardVersFrançais_0 .
+
+restaure:  ontolex:writtenRep  "" .
+
+restaure:lf_K  ontolex:writtenRep  "K" .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Me%20vela%20tout%20crot%C3%A9,%20mouill%C3%A9,%20flauh%C3%A9,%20wandi%20%22%20(Fl,%20H,%201654)%20=%20fourbu.%20On%20trouve,%20en%20all.%20flau,%20et%20en%20n%C3%A9erl.%20flauw%20(faible).>
+        ontolex:writtenRep  "\" Me vela tout croté, mouillé, flauhé, wandi \" (Fl, H, 1654) = fourbu. On trouve, en all. flau, et en néerl. flauw (faible)." .
+
+restaure:lf_Kent  ontolex:writtenRep  "Kent" .
+
+<http://restaure.limsi.fr/2017/rdf#la%20Geste%20d'Aliscans,%20XIIIe).%20%22%20Me%20vela%20tout%20crot%C3%A9,%20mouill%C3%A9,%20flauh%C3%A9,%20wandi%20%22%20(Fl,%20H,%201654)%20=%20fourbu.%20On%20trouve,%20en%20all.%20flau,%20et%20en%20n%C3%A9erl.%20flauw%20(faible).>
+        ontolex:writtenRep  "la Geste d'Aliscans, XIIIe). \" Me vela tout croté, mouillé, flauhé, wandi \" (Fl, H, 1654) = fourbu. On trouve, en all. flau, et en néerl. flauw (faible)." .
+
+restaure:le11PicardVersFrançais_0
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Me%20vela%20tout%20crot%C3%A9,%20mouill%C3%A9,%20flauh%C3%A9,%20wandi%20%22%20(Fl,%20H,%201654)%20=%20fourbu.%20On%20trouve,%20en%20all.%20flau,%20et%20en%20n%C3%A9erl.%20flauw%20(faible).> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#la%20Geste%20d'Aliscans,%20XIIIe).%20%22%20Me%20vela%20tout%20crot%C3%A9,%20mouill%C3%A9,%20flauh%C3%A9,%20wandi%20%22%20(Fl,%20H,%201654)%20=%20fourbu.%20On%20trouve,%20en%20all.%20flau,%20et%20en%20n%C3%A9erl.%20flauw%20(faible).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#la%20Geste%20d'Aliscans,%20XIIIe).%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_Kent .

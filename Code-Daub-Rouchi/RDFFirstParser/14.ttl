@@ -1,0 +1,1957 @@
+@prefix restaure: <http://restaure.limsi.fr/2017/rdf#> .
+@prefix vartrans: <https://www.w3.org/ns/lemon/vartrans#> .
+@prefix lime:  <http://www.w3.org/ns/lemon/lime#> .
+@prefix ontolex: <http://www.w3.org/ns/lemon/ontolex#> .
+@prefix lexinfo: <http://lexinfo.net/ontology/2.0/lexinfo#> .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Neuf%20cent%20mille%20b%C3%A9b%C3%A9s%20lum'chons%20!%20Ma%20m%C3%A8r',%20vous%20parlez%20d'ein%20nit%C3%A9e%20!%20%22%20(EM).%20>
+        ontolex:writtenRep  "\" Neuf cent mille bébés lum'chons ! Ma mèr', vous parlez d'ein nitée ! \" (EM). " .
+
+<http://restaure.limsi.fr/2017/rdf#lf_Non%20fait%20>
+        ontolex:writtenRep  "Non fait " .
+
+restaure:lf_NOM  ontolex:writtenRep  "NOM" .
+
+restaure:lf_Noirchure
+        ontolex:writtenRep  "Noirchure" .
+
+<http://restaure.limsi.fr/2017/rdf#1%20-%20morveux,%20qui%20a%20une%20niflette.%20%22%20J'ai%20essay%C3%A9%20d'espliquer%20qu'ein%20patois,%20ein%20nifiou%20ch'%20est%20ein%20qui%20avot%20toudi%20l'%20niflette%20%22%20(RD).%202%20-%20vaurien,%20homme%20peu%20sympathique%20(voir%20:%20bafiou).%20%22%20Ah%20!%20l'%20grand%20nifiou%20!%20Ah%20!%20l'%20grand%20salaud%20!%20%22%20(GF).>
+        ontolex:writtenRep  "1 - morveux, qui a une niflette. \" J'ai essayé d'espliquer qu'ein patois, ein nifiou ch' est ein qui avot toudi l' niflette \" (RD). 2 - vaurien, homme peu sympathique (voir : bafiou). \" Ah ! l' grand nifiou ! Ah ! l' grand salaud ! \" (GF)." .
+
+<http://restaure.limsi.fr/2017/rdf#1%20-%20cachette.%202%20-%20nid%20pr%C3%A9par%C3%A9%20pour%20la%20ponte%20dans%20les%20poulaillers,%20les%20colombiers.%20%22%20In%20t'%20dorlote%20(le%20pigeon)%20sit%C3%B4t%20l'%20premier%20%C3%A2ge,%20/%20T'%20douch'%20nichett'%20dins%20les%20meilleurs%20coins%20%22%20(JM).>
+        ontolex:writtenRep  "1 - cachette. 2 - nid préparé pour la ponte dans les poulaillers, les colombiers. \" In t' dorlote (le pigeon) sitôt l' premier âge, / T' douch' nichett' dins les meilleurs coins \" (JM)." .
+
+<http://restaure.limsi.fr/2017/rdf#%20et%20adj.%20:%20qui%20fait%20le%20d%C3%A9go%C3%BBt%C3%A9%20devant%20la%20nourriture%20(qu'il%20flaire%20avec%20suspicion).%20%22%20Un%20vieux%20notaire,%20un%20vieux%20garchon,%20/%20Pourtant%20nactieux%20pus%20qu%C3%A9%20d'%20raison,%20/%20Apprivoisot%20un%20jeun'%20miss'ron%20=%20(GF).>
+        ontolex:writtenRep  " et adj. : qui fait le dégoûté devant la nourriture (qu'il flaire avec suspicion). \" Un vieux notaire, un vieux garchon, / Pourtant nactieux pus qué d' raison, / Apprivoisot un jeun' miss'ron = (GF)." .
+
+restaure:le14PicardVersFrançais_23
+        lexinfo:gender                 lexinfo:Female ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20D%C3%A9%20l'%20neinche%20d'sus%20du%20brouet,%20ch'est%20d%C3%A9%20l'%20g%C3%A9l%C3%A9e%20dins%20les%20tros%20jours%20%22%20(GLec).> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#neige%20(Onnaing).%20%22%20D%C3%A9%20l'%20neinche%20d'sus%20du%20brouet,%20ch'est%20d%C3%A9%20l'%20g%C3%A9l%C3%A9e%20dins%20les%20tros%20jours%20%22%20(GLec).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#neige%20(Onnaing).%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_NEINCHE .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20S'n%20arm%C3%A8d',%20ch'est%20un%20cataplasse%20/%20Avec%20des%20p'lures%20d'%20naviau%20%22%20(JM).%20>
+        ontolex:writtenRep  "\" S'n armèd', ch'est un cataplasse / Avec des p'lures d' naviau \" (JM). " .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Eune%20tarte%20%C3%A0%20neppes,%20un%20plat%20d'%20bos%20d'%20moules%20%22%20(AD).>
+        ontolex:writtenRep  "\" Eune tarte à neppes, un plat d' bos d' moules \" (AD)." .
+
+<http://restaure.limsi.fr/2017/rdf#nigeois,%20s.%20m.%20:%20nid,%20nichoir.%20>
+        ontolex:writtenRep  "nigeois, s. m. : nid, nichoir. " .
+
+restaure:lf_Nouviau  ontolex:writtenRep
+                "Nouviau" .
+
+<http://restaure.limsi.fr/2017/rdf#=%20mais%20non%20(opp.%20%C3%A0%20si%20fait%20=%20mais%20oui).%20>
+        ontolex:writtenRep  "= mais non (opp. à si fait = mais oui). " .
+
+<http://restaure.limsi.fr/2017/rdf#nettoyage.%20>
+        ontolex:writtenRep  "nettoyage. " .
+
+<http://restaure.limsi.fr/2017/rdf#nu%C3%A9e.%20%22%20Les%20bell%C3%A9s%20neu%C3%A9es%20i%20sont%20in%20route%20%22%20(GD)%20=%20il%20fait%20beau,%20le%20temps%20incite%20%C3%A0%20la%20promenade.>
+        ontolex:writtenRep  "nuée. \" Les bellés neuées i sont in route \" (GD) = il fait beau, le temps incite à la promenade." .
+
+<http://restaure.limsi.fr/2017/rdf#babioles,%20choses%20sans%20importance.%20>
+        ontolex:writtenRep  "babioles, choses sans importance. " .
+
+restaure:le14PicardVersFrançais_95
+        lexinfo:gender                 lexinfo:Masculine ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Vous%20savez%20qu'%20ch'est%20ein%20nunu%20!%20I%20crie%20d'j%C3%A0%20qu'i%20va%20morir%20!%20%22%20(RD).> , <http://restaure.limsi.fr/2017/rdf#%22%20J'%20vous%20d%C3%A9manderai%20d'%C3%AAt'%20minutieux,%20d'%C3%AAt'%20nunu,%20quoi%20!%20%22%20(RD).%20> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#%20et%20adj.%20:%201%20-%20minutieux,%20t%C3%A2tillon.%20%22%20J'%20vous%20d%C3%A9manderai%20d'%C3%AAt'%20minutieux,%20d'%C3%AAt'%20nunu,%20quoi%20!%20%22%20(RD).%202%20-%20douillet.%20%22%20Vous%20savez%20qu'%20ch'est%20ein%20nunu%20!%20I%20crie%20d'j%C3%A0%20qu'i%20va%20morir%20!%20%22%20(RD).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#2%20-%20douillet.%20> , <http://restaure.limsi.fr/2017/rdf#1%20-%20minutieux,%20t%C3%A2tillon.%20> , <http://restaure.limsi.fr/2017/rdf#%20et%20adj.%20:%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_NUNU .
+
+<http://restaure.limsi.fr/2017/rdf#nuage.%20>
+        ontolex:writtenRep  "nuage. " .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Eun'%20nu%C3%A8v'%20d%C3%A9poulle%20ou%20bin%20un%20nu%C3%A9%20capiau%20%22%20(JM).%20>
+        ontolex:writtenRep  "\" Eun' nuèv' dépoulle ou bin un nué capiau \" (JM). " .
+
+<http://restaure.limsi.fr/2017/rdf#,%20f%C3%A9m.%20de%20nu.%20Alle%20est%20toute%20nute.%20>
+        ontolex:writtenRep  ", fém. de nu. Alle est toute nute. " .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Hinri%20du%20P%C3%AAqueux,%20cha%20tot%20in%20nom%20j't%C3%A9%20pasque%20i%20%C3%A9tot%20toudis%20%C3%A0%20l'p%C3%AAque%20%22%20(ALec).>
+        ontolex:writtenRep  "\" Hinri du Pêqueux, cha tot in nom j'té pasque i étot toudis à l'pêque \" (ALec)." .
+
+<http://restaure.limsi.fr/2017/rdf#,%20noirglas,%20s.%20m.,%20noirte-glache,%20s.%20f.%20:%20verglas%20:%20>
+        ontolex:writtenRep  ", noirglas, s. m., noirte-glache, s. f. : verglas : " .
+
+<http://restaure.limsi.fr/2017/rdf#n%C3%A8fle.%20%22%20Eune%20tarte%20%C3%A0%20neppes,%20un%20plat%20d'%20bos%20d'%20moules%20%22%20(AD).>
+        ontolex:writtenRep  "nèfle. \" Eune tarte à neppes, un plat d' bos d' moules \" (AD)." .
+
+<http://restaure.limsi.fr/2017/rdf#ANC.%20:%20%22%20Y%20n'y%20a%20boco%20d'%20lieu%20d%C3%A9zonnette%20%22%20(Fl,%20F,%20XVIIe).ANC.%20:%20%22%20Y%20n'y%20a%20boco%20d'%20lieu%20d%C3%A9zonnette%20%22%20(Fl,%20F,%20XVIIe).ANC.%20:%20%22%20Y%20n'y%20a%20boco%20d'%20lieu%20d%C3%A9zonnette%20%22%20(Fl,%20F,%20XVIIe).ANC.%20:%20%22%20Y%20n'y%20a%20boco%20d'%20lieu%20d%C3%A9zonnette%20%22%20(Fl,%20F,%20XVIIe).>
+        ontolex:writtenRep  "ANC. : \" Y n'y a boco d' lieu dézonnette \" (Fl, F, XVIIe).ANC. : \" Y n'y a boco d' lieu dézonnette \" (Fl, F, XVIIe).ANC. : \" Y n'y a boco d' lieu dézonnette \" (Fl, F, XVIIe).ANC. : \" Y n'y a boco d' lieu dézonnette \" (Fl, F, XVIIe)." .
+
+<http://restaure.limsi.fr/2017/rdf#:%20consonne%20euphonique.%20>
+        ontolex:writtenRep  ": consonne euphonique. " .
+
+restaure:le14PicardVersFrançais_65
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#:%20cr%C3%A9puscule,%20moment%20entre%20chien%20et%20loup,%20o%C3%B9%20l'on%20reste,%20dans%20la> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#:%20cr%C3%A9puscule,%20moment%20entre%20chien%20et%20loup,%20o%C3%B9%20l'on%20reste,%20dans%20la> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_Noir%20quart%20d'heure%20> .
+
+<http://restaure.limsi.fr/2017/rdf#NEYER,%20v.%20:%20noyer.%20%22%20A%20chaqu'%20fos%20qu'in%20sort%20d%C3%A9%20s'%20baraqu',%20/%20In%20s'artrouve%20%C3%A0%20moti%C3%A9%20no%C3%AF%C3%A9%20%22%20(PM).%20%22%20Afin%20d'%20n%C3%A9yer%20ses%20peines%20%22%20(GF).%20ANC.%20:%20nier,%20neier,%20noier%20(Herman%20de%20Val.,%20Xe).%20%22%20Il%20cuida%20neier%20en%20la%20mer%20%22%20(Florimont,%20XIIe).>
+        ontolex:writtenRep  "NEYER, v. : noyer. \" A chaqu' fos qu'in sort dé s' baraqu', / In s'artrouve à motié noïé \" (PM). \" Afin d' néyer ses peines \" (GF). ANC. : nier, neier, noier (Herman de Val., Xe). \" Il cuida neier en la mer \" (Florimont, XIIe)." .
+
+restaure:lf_NIX  ontolex:writtenRep  "NIX" .
+
+<http://restaure.limsi.fr/2017/rdf#1%20-%20femme%20brune%20(de%20cheveux%20ou%20de%20peau).%202%20-%20vache%20au%20pelage%20plus%20noir%20que%20blanc.>
+        ontolex:writtenRep  "1 - femme brune (de cheveux ou de peau). 2 - vache au pelage plus noir que blanc." .
+
+<http://restaure.limsi.fr/2017/rdf#ANC.%20:%20norir%20(Vie%20de%20St%20L%C3%A9ger,%20Xe)%20du%20lat.%20nutrire.>
+        ontolex:writtenRep  "ANC. : norir (Vie de St Léger, Xe) du lat. nutrire." .
+
+restaure:lf_NIEULE  ontolex:writtenRep  "NIEULE" .
+
+restaure:le14PicardVersFrançais_35
+        lexinfo:partOfSpeech           lexinfo:Verb ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Quand%20i%20fait%20des%20frodures%20parelles,%20i%20preind%20ein%20life%20et%20i%20niche%20el%20po%C3%AAle%20%22.> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#nicher%20l'%20po%C3%AAle%20(RD)%20:%20se%20blottir%20au%20coin%20du%20feu.%20%22%20Quand%20i%20fait%20des%20frodures%20parelles,%20i%20preind%20ein%20life%20et%20i%20niche%20el%20po%C3%AAle%20%22.> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#nicher%20l'%20po%C3%AAle%20(RD)%20:%20se%20blottir%20au%20coin%20du%20feu.%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_NICHER .
+
+restaure:lf_NOTE  ontolex:writtenRep  "NOTE" .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20I%20n'%20d'%C3%A0%20un%20%22%20=%20il%20en%20a%20un.%20>
+        ontolex:writtenRep  "\" I n' d'à un \" = il en a un. " .
+
+<http://restaure.limsi.fr/2017/rdf#conter%20%C3%A0%20l'%20basse%20note%20(GH)%20:%20rabaisser%20le%20ton,%20se%20montrer%20moins%20orgueilleux.>
+        ontolex:writtenRep  "conter à l' basse note (GH) : rabaisser le ton, se montrer moins orgueilleux." .
+
+restaure:lf_NOEUD  ontolex:writtenRep  "NOEUD" .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Au%20soir,%20ch'est%20tous%20tiens%20courants%20;%20au%20matin,%20ch'est%20tout%20tiens%20couchants%20=%20couche-tard,%20l%C3%A8ve-tard.%20%22%20>
+        ontolex:writtenRep  "\" Au soir, ch'est tous tiens courants ; au matin, ch'est tout tiens couchants = couche-tard, lève-tard. \" " .
+
+<http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20ni%C3%A9).>
+        ontolex:writtenRep  ": (voir : nié)." .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Quand%20i%20fait%20des%20frodures%20parelles,%20i%20preind%20ein%20life%20et%20i%20niche%20el%20po%C3%AAle%20%22.>
+        ontolex:writtenRep  "\" Quand i fait des frodures parelles, i preind ein life et i niche el poêle \"." .
+
+restaure:le14PicardVersFrançais_77
+        lexinfo:gender                 lexinfo:Female ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20%C3%87'%20ch%C3%A9rubin%20du%20bon%20Dieu,%20/%20In%20fermant%20ses%20nonottes,%20/%20Prind%20du%20r'pos%20tant%20qui%20peut%20%22%20(JM).> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#menotte,%20petite%20main%20(lang.%20enf.).%20%22%20%C3%87'%20ch%C3%A9rubin%20du%20bon%20Dieu,%20/%20In%20fermant%20ses%20nonottes,%20/%20Prind%20du%20r'pos%20tant%20qui%20peut%20%22%20(JM).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#menotte,%20petite%20main%20(lang.%20enf.).%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_NONOTTE .
+
+restaure:le14PicardVersFrançais_1
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#:%20deux%20mots%20de%20formation%20pop.%20r%C3%A9cente,%20adopt%C3%A9s%20par%20JM.> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#:%20deux%20mots%20de%20formation%20pop.%20r%C3%A9cente,%20adopt%C3%A9s%20par%20JM.> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_Note%20> .
+
+restaure:lf_NASI  ontolex:writtenRep  "NASI" .
+
+restaure:  ontolex:writtenRep  "" .
+
+<http://restaure.limsi.fr/2017/rdf#lf_*%20NOUNOU>
+        ontolex:writtenRep  "* NOUNOU" .
+
+restaure:le14PicardVersFrançais_47
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Viens%20!%20nos%20allons%20aller%20chi%20eun'%20nioche%20pus%20lon%20%22%20(Cambr%C3%A9sien).> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#un%20peu.%20%22%20Viens%20!%20nos%20allons%20aller%20chi%20eun'%20nioche%20pus%20lon%20%22%20(Cambr%C3%A9sien).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#un%20peu.%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_NIOCHE%20(EUNE)%20(GL)> .
+
+restaure:lf_NANAN  ontolex:writtenRep  "NANAN" .
+
+<http://restaure.limsi.fr/2017/rdf#ANC.%20:%20nuef%20:%20neuf,%20nouveau%20(Passion,%20980).>
+        ontolex:writtenRep  "ANC. : nuef : neuf, nouveau (Passion, 980)." .
+
+<http://restaure.limsi.fr/2017/rdf#:%20In%20va%20vir%20queu%20nouvelle%20!%20=%20vous%20aurez%20de%20mes%20nouvelles%20!%20(menace).%20>
+        ontolex:writtenRep  ": In va vir queu nouvelle ! = vous aurez de mes nouvelles ! (menace). " .
+
+<http://restaure.limsi.fr/2017/rdf#1%20-%20cachette.%20>
+        ontolex:writtenRep  "1 - cachette. " .
+
+<http://restaure.limsi.fr/2017/rdf#menotte,%20petite%20main%20(lang.%20enf.).%20>
+        ontolex:writtenRep  "menotte, petite main (lang. enf.). " .
+
+restaure:le14PicardVersFrançais_17
+        lexinfo:partOfSpeech           lexinfo:Adjective ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#fatigu%C3%A9%20(voir%20:%20asi).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#fatigu%C3%A9%20(voir%20:%20asi).> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_NASI .
+
+<http://restaure.limsi.fr/2017/rdf#fatigu%C3%A9%20(voir%20:%20asi).>
+        ontolex:writtenRep  "fatigué (voir : asi)." .
+
+<http://restaure.limsi.fr/2017/rdf#dit-on%20des%20personnes%20t%C3%AAtues.%20>
+        ontolex:writtenRep  "dit-on des personnes têtues. " .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Quante%20alle%20a%20eune%20id%C3%A9e%20dins%20s'%20ti%C3%AAte,%20alle%20l'a%20point%20nurpart%20%22%20(PP).>
+        ontolex:writtenRep  "\" Quante alle a eune idée dins s' tiête, alle l'a point nurpart \" (PP)." .
+
+<http://restaure.limsi.fr/2017/rdf#2%20-%20minuscule%20biscuit%20sec%20orn%C3%A9%20d'une%20goutte%20de%20sucre%20color%C3%A9.%20>
+        ontolex:writtenRep  "2 - minuscule biscuit sec orné d'une goutte de sucre coloré. " .
+
+restaure:le14PicardVersFrançais_89
+        lexinfo:partOfSpeech           lexinfo:Adjective ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#nouveau.> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#nouveau.> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_Nouviau .
+
+restaure:lf_NEF  ontolex:writtenRep  "NEF" .
+
+restaure:lf_NEUACHE  ontolex:writtenRep
+                "NEUACHE" .
+
+<http://restaure.limsi.fr/2017/rdf#%20de%20n%C3%A9g.%20;%20appartient%20%C3%A0%20l'Aves->
+        ontolex:writtenRep  " de nég. ; appartient à l'Aves-" .
+
+restaure:le14PicardVersFrançais_59
+        lexinfo:partOfSpeech           lexinfo:Verb ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20In%20n'est%20noirchi%20qu'%20par%20un%20noir%20pot%20%22%20=%20on%20n'est%20calomni%C3%A9%20que%20par%20de%20mauvaises%20gens.> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#noircir.%20%22%20In%20n'est%20noirchi%20qu'%20par%20un%20noir%20pot%20%22%20=%20on%20n'est%20calomni%C3%A9%20que%20par%20de%20mauvaises%20gens.> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#noircir.%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_NOIRCHIR .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20In%20t'%20dorlote%20(le%20pigeon)%20sit%C3%B4t%20l'%20premier%20%C3%A2ge,%20/%20T'%20douch'%20nichett'%20dins%20les%20meilleurs%20coins%20%22%20(JM).>
+        ontolex:writtenRep  "\" In t' dorlote (le pigeon) sitôt l' premier âge, / T' douch' nichett' dins les meilleurs coins \" (JM)." .
+
+restaure:le14PicardVersFrançais_29
+        lexinfo:gender                 lexinfo:Masculine ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Quaind%20l'%20solel%20pourpraint%20les%20neuaches%20%22%20(GF).> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#nuage.%20%22%20Quaind%20l'%20solel%20pourpraint%20les%20neuaches%20%22%20(GF).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#nuage.%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_NEUACHE .
+
+restaure:le14PicardVersFrançais_90
+        lexinfo:partOfSpeech           lexinfo:Adjective ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#,%20f%C3%A9m.%20de%20nu.%20Alle%20est%20toute%20nute.%20ANC.%20:%20lat.%20nudus%20(nu).%20(Cf.%20nudit%C3%A9,%20nudisme,%20etc.).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#,%20f%C3%A9m.%20de%20nu.%20Alle%20est%20toute%20nute.%20> ;
+        restaure:oldInformation        <http://restaure.limsi.fr/2017/rdf#ANC.%20:%20lat.%20nudus%20(nu).%20(Cf.%20nudit%C3%A9,%20nudisme,%20etc.).> ;
+        ontolex:lexicalForm            restaure:lf_NUDE .
+
+restaure:lf_NASIAU  ontolex:writtenRep  "NASIAU" .
+
+restaure:le14PicardVersFrançais_60
+        lexinfo:gender                 lexinfo:Female ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20On%20a%20d'j%C3%A0%20obli%C3%A9%20l'%20noirchure%20/%20Des%20sombers%20jours%20%22%20(GF).> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#obscurit%C3%A9.%20%22%20On%20a%20d'j%C3%A0%20obli%C3%A9%20l'%20noirchure%20/%20Des%20sombers%20jours%20%22%20(GF).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#obscurit%C3%A9.%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_Noirchure .
+
+<http://restaure.limsi.fr/2017/rdf#lf_Note%20>
+        ontolex:writtenRep  "Note " .
+
+restaure:lf_Nangeux  ontolex:writtenRep
+                "Nangeux" .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20I%20les%20nettchi'%20(les%20pigeons),%20les%20norrit,%20les%20caresse%20%22%20(JM).%20>
+        ontolex:writtenRep  "\" I les nettchi' (les pigeons), les norrit, les caresse \" (JM). " .
+
+<http://restaure.limsi.fr/2017/rdf#nageur.%20%22%20Les%20concurrents,%20binde%20ed%20fameux%20nangeux,%20/%20Fr%C3%A9till'nt%20tout%20nus%20comme%20eun'%20p%C3%AAqu%C3%A9'%20d'anguilles%20%22%20(JM).>
+        ontolex:writtenRep  "nageur. \" Les concurrents, binde ed fameux nangeux, / Frétill'nt tout nus comme eun' pêqué' d'anguilles \" (JM)." .
+
+restaure:le14PicardVersFrançais_30
+        lexinfo:gender                 lexinfo:Female ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Les%20bell%C3%A9s%20neu%C3%A9es%20i%20sont%20in%20route%20%22%20(GD)%20=%20il%20fait%20beau,%20le%20temps%20incite%20%C3%A0%20la%20promenade.> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#nu%C3%A9e.%20%22%20Les%20bell%C3%A9s%20neu%C3%A9es%20i%20sont%20in%20route%20%22%20(GD)%20=%20il%20fait%20beau,%20le%20temps%20incite%20%C3%A0%20la%20promenade.> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#nu%C3%A9e.%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_Neu%C3%A9e> .
+
+<http://restaure.limsi.fr/2017/rdf#neige%20(Onnaing).%20>
+        ontolex:writtenRep  "neige (Onnaing). " .
+
+<http://restaure.limsi.fr/2017/rdf#lf_NOB(L)E-%C3%89P%C3%88NE%20(GH)>
+        ontolex:writtenRep  "NOB(L)E-ÉPÈNE (GH)" .
+
+<http://restaure.limsi.fr/2017/rdf#ANC.%20:%20norreture%20(Lois%20de%20Guillaume%20le>
+        ontolex:writtenRep  "ANC. : norreture (Lois de Guillaume le" .
+
+<http://restaure.limsi.fr/2017/rdf#:%20sobriquet.%20%22%20Jacques%20l'Boquion%20quanja%20d'baptist%C3%A8re.%20Un%20n%C3%A9%20l'connaissot%20pus%20qu'sous%20l'nom%20d'bert%C3%A8que%20d'Jacques%20el%20Cliqu%C3%A9%20%22%20(BD).>
+        ontolex:writtenRep  ": sobriquet. \" Jacques l'Boquion quanja d'baptistère. Un né l'connaissot pus qu'sous l'nom d'bertèque d'Jacques el Cliqué \" (BD)." .
+
+<http://restaure.limsi.fr/2017/rdf#n%C3%A9flier.%20>
+        ontolex:writtenRep  "néflier. " .
+
+<http://restaure.limsi.fr/2017/rdf#obscurit%C3%A9.%20>
+        ontolex:writtenRep  "obscurité. " .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Les%20concurrents,%20binde%20ed%20fameux%20nangeux,%20/%20Fr%C3%A9till'nt%20tout%20nus%20comme%20eun'%20p%C3%AAqu%C3%A9'%20d'anguilles%20%22%20(JM).>
+        ontolex:writtenRep  "\" Les concurrents, binde ed fameux nangeux, / Frétill'nt tout nus comme eun' pêqué' d'anguilles \" (JM)." .
+
+restaure:le14PicardVersFrançais_72
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Hinri%20du%20P%C3%AAqueux,%20cha%20tot%20in%20nom%20j't%C3%A9%20pasque%20i%20%C3%A9tot%20toudis%20%C3%A0%20l'p%C3%AAque%20%22%20(ALec).> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#:%20sobriquet.%20%22%20Hinri%20du%20P%C3%AAqueux,%20cha%20tot%20in%20nom%20j't%C3%A9%20pasque%20i%20%C3%A9tot%20toudis%20%C3%A0%20l'p%C3%AAque%20%22%20(ALec).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#:%20sobriquet.%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_Nom%20j't%C3%A9%20> .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20S'nom%20n'est%20point%20in%20si%20bon%20naque%20%22.>
+        ontolex:writtenRep  "\" S'nom n'est point in si bon naque \"." .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Qu'est-%C3%A7'%20t'as%20l%C3%A0%20?%20-%20Ch'est%20des%20nonuches,%20du%20brin%20(ou%20:%20des%20machins)%20qu'in%20chuche%20%22%20(r%C3%A9ponse%20%C3%A0%20un%20curieux).%20Chez%20RD,%20nonuche,%20adj.%20=%20douillet.%20>
+        ontolex:writtenRep  "\" Qu'est-ç' t'as là ? - Ch'est des nonuches, du brin (ou : des machins) qu'in chuche \" (réponse à un curieux). Chez RD, nonuche, adj. = douillet. " .
+
+<http://restaure.limsi.fr/2017/rdf#%20ou%20f.%20:%201%20-%20odorat.%20%22%20Si%20ch'est%20cha%20t'%20vinaique%20!%20J'ai%20quand%20m%C3%AAme%20del%20naque%20!%20%22%20(PP).%202%20-%20r%C3%A9putation.%20%22%20S'nom%20n'est%20point%20in%20si%20bon%20naque%20%22.>
+        ontolex:writtenRep  " ou f. : 1 - odorat. \" Si ch'est cha t' vinaique ! J'ai quand même del naque ! \" (PP). 2 - réputation. \" S'nom n'est point in si bon naque \"." .
+
+restaure:le14PicardVersFrançais_42
+        lexinfo:gender                 lexinfo:Masculine ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Ah%20!%20l'%20grand%20nifiou%20!%20Ah%20!%20l'%20grand%20salaud%20!%20%22%20(GF).> , <http://restaure.limsi.fr/2017/rdf#%22%20J'ai%20essay%C3%A9%20d'espliquer%20qu'ein%20patois,%20ein%20nifiou%20ch'%20est%20ein%20qui%20avot%20toudi%20l'%20niflette%20%22%20(RD).%20> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#1%20-%20morveux,%20qui%20a%20une%20niflette.%20%22%20J'ai%20essay%C3%A9%20d'espliquer%20qu'ein%20patois,%20ein%20nifiou%20ch'%20est%20ein%20qui%20avot%20toudi%20l'%20niflette%20%22%20(RD).%202%20-%20vaurien,%20homme%20peu%20sympathique%20(voir%20:%20bafiou).%20%22%20Ah%20!%20l'%20grand%20nifiou%20!%20Ah%20!%20l'%20grand%20salaud%20!%20%22%20(GF).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#2%20-%20vaurien,%20homme%20peu%20sympathique%20(voir%20:%20bafiou).%20> , <http://restaure.limsi.fr/2017/rdf#1%20-%20morveux,%20qui%20a%20une%20niflette.%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_NIFIOU .
+
+restaure:le14PicardVersFrançais_7
+        lexinfo:partOfSpeech           lexinfo:Adjective ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#na%C3%AFf,%20ahuri.%20ANC.%20:%20%22%20Quand%20je%20penche%20%C3%A0%20chela,%20je%20devien%20so%20n%C3%A9yu%20%22%20(Fl,%20H,%201654)%20(=%20sot,%20na%C3%AFf).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#na%C3%AFf,%20ahuri.%20> ;
+        restaure:oldInformation        <http://restaure.limsi.fr/2017/rdf#ANC.%20:%20%22%20Quand%20je%20penche%20%C3%A0%20chela,%20je%20devien%20so%20n%C3%A9yu%20%22%20(Fl,%20H,%201654)%20(=%20sot,%20na%C3%AFf).> ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_NA%C3%8FU> .
+
+<http://restaure.limsi.fr/2017/rdf#%20ou%20f.%20:%20>
+        ontolex:writtenRep  " ou f. : " .
+
+<http://restaure.limsi.fr/2017/rdf#,%20f%C3%A9m.%20NU%C3%88VE%20(pron.%20nw%C3%A9,%20nwef)%20:%20neuf,%20neuve%20;%20nouveau,%20nouvelle.%20%22%20In%20met%20m'n%20ossature%20/%20Dins%20un%20nuef%20cercueul%20%22%20(GT).%20%22%20Baptisant%20eun'%20nu%C3%A8ve%20amiti%C3%A9%20%22%20(JM).%20%22%20Eun'%20nu%C3%A8v'%20d%C3%A9poulle%20ou%20bin%20un%20nu%C3%A9%20capiau%20%22%20(JM).%20ANC.%20:%20nuef%20:%20neuf,%20nouveau%20(Passion,%20980).>
+        ontolex:writtenRep  ", fém. NUÈVE (pron. nwé, nwef) : neuf, neuve ; nouveau, nouvelle. \" In met m'n ossature / Dins un nuef cercueul \" (GT). \" Baptisant eun' nuève amitié \" (JM). \" Eun' nuèv' dépoulle ou bin un nué capiau \" (JM). ANC. : nuef : neuf, nouveau (Passion, 980)." .
+
+restaure:le14PicardVersFrançais_12
+        lexinfo:partOfSpeech           lexinfo:Verb ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#flairer%20;%20chercher%20en%20flairant%20;%20se%20m%C3%AAler%20de%20tout.%20ANC.%20:%20naquer%20;%20flairer%20(XIIIe),%20peut-%C3%AAtre%20du%20lat.%20pop.%20nasicare,%20de%20nasus%20(nez).%20%22%20...%20un%20les%20v%C3%B4%20diminche%20et%20fiette%20/.../%20Toudi%20nacquez%20%C3%A0%20tous%20cottez%20%22%20(Fl,%20F,%20XVIIe).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#flairer%20;%20chercher%20en%20flairant%20;%20se%20m%C3%AAler%20de%20tout.%20> ;
+        restaure:oldInformation        <http://restaure.limsi.fr/2017/rdf#ANC.%20:%20naquer%20;%20flairer%20(XIIIe),%20peut-%C3%AAtre%20du%20lat.%20pop.%20nasicare,%20de%20nasus%20(nez).%20%22%20...%20un%20les%20v%C3%B4%20diminche%20et%20fiette%20/.../%20Toudi%20nacquez%20%C3%A0%20tous%20cottez%20%22%20(Fl,%20F,%20XVIIe).> ;
+        ontolex:lexicalForm            restaure:lf_Naquer .
+
+<http://restaure.limsi.fr/2017/rdf#morveux.%20ANC.%20:%20lat.%20nasus%20:%20nez.%20Nasillier%20:%20se%20moucher,%20renifler%20(Gautier%20de%20Coincy,%201220).>
+        ontolex:writtenRep  "morveux. ANC. : lat. nasus : nez. Nasillier : se moucher, renifler (Gautier de Coincy, 1220)." .
+
+<http://restaure.limsi.fr/2017/rdf#1%20-%20chat%20(lang.%20enf.).%20(Voir%20:%20minou).%20>
+        ontolex:writtenRep  "1 - chat (lang. enf.). (Voir : minou). " .
+
+<http://restaure.limsi.fr/2017/rdf#1%20-%20innocent,%20simple%20d'esprit%20(un-innochint).%20>
+        ontolex:writtenRep  "1 - innocent, simple d'esprit (un-innochint). " .
+
+<http://restaure.limsi.fr/2017/rdf#ANC.%20:%20de%20l'all,%20nicht,%20nichts.%20Ce%20n'est%20pas%20un%20apport%20de%20l'occupation%20de%2014-18,%20puisque%20attest%C3%A9%20par%20GH%20(>
+        ontolex:writtenRep  "ANC. : de l'all, nicht, nichts. Ce n'est pas un apport de l'occupation de 14-18, puisque attesté par GH (" .
+
+restaure:le14PicardVersFrançais_84
+        lexinfo:gender                 lexinfo:Masculine ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#noisetier.> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#noisetier.> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_Nos(e)tier> .
+
+<http://restaure.limsi.fr/2017/rdf#NOU,%20adj.%20poss.%20:%20notre,%20nos.%20%22%20I%20s'%20lass'rotent%20d'%20no%20nourriture,%20/%20D'%20no%20bi%C3%A8re%20et%20d'%20no%20vin%20trafiqu%C3%A9s%20%22%20(PB).%20%22%20A%20brair',%20nou%20temps%20est%20perdu%20%22%20(JQ).>
+        ontolex:writtenRep  "NOU, adj. poss. : notre, nos. \" I s' lass'rotent d' no nourriture, / D' no bière et d' no vin trafiqués \" (PB). \" A brair', nou temps est perdu \" (JQ)." .
+
+<http://restaure.limsi.fr/2017/rdf#3%20-%20dans%20la%20construction%20>
+        ontolex:writtenRep  "3 - dans la construction " .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20I%20s'%20lass'rotent%20d'%20no%20nourriture,%20/%20D'%20no%20bi%C3%A8re%20et%20d'%20no%20vin%20trafiqu%C3%A9s%20%22%20(PB).%20>
+        ontolex:writtenRep  "\" I s' lass'rotent d' no nourriture, / D' no bière et d' no vin trafiqués \" (PB). " .
+
+<http://restaure.limsi.fr/2017/rdf#2%20-%20pas,%20particule%20n%C3%A9g.%20de%20renforcement%20(chez%20GF%20:%20contamination%20due%20%C3%A0%20ses%20attaches%20sambriennes).%20>
+        ontolex:writtenRep  "2 - pas, particule nég. de renforcement (chez GF : contamination due à ses attaches sambriennes). " .
+
+<http://restaure.limsi.fr/2017/rdf#nettoyage.%20%22%20Du%20grand%20nettiach'%20du%20sam'di,%20/%20Les%20cahut's%20sont%20bin%20r'luisantes%20%22%20(JM).%20ANC.%20:%20nestiage%20est%20attest%C3%A9%20en%20Normandie%20en%201420.>
+        ontolex:writtenRep  "nettoyage. \" Du grand nettiach' du sam'di, / Les cahut's sont bin r'luisantes \" (JM). ANC. : nestiage est attesté en Normandie en 1420." .
+
+restaure:le14PicardVersFrançais_54
+        lexinfo:gender                 lexinfo:Female ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#%C3%A9pine-vinette.> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#%C3%A9pine-vinette.> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_NOB(L)E-%C3%89P%C3%88NE%20(GH)> .
+
+<http://restaure.limsi.fr/2017/rdf#NAN.NAN%20(FAIRE)%20;%20(lang.%20enf.)%20:%20faire%20dodo.%20%22%20Fais%20nanan%20%C3%A0%20m%C3%A8re,%20/%20Quand%20t'%20dors,%20t'es%20si%20biau%20!%20%22%20(JM).>
+        ontolex:writtenRep  "NAN.NAN (FAIRE) ; (lang. enf.) : faire dodo. \" Fais nanan à mère, / Quand t' dors, t'es si biau ! \" (JM)." .
+
+restaure:lf_NON  ontolex:writtenRep  "NON" .
+
+restaure:le14PicardVersFrançais_100
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#%C3%A0%20Val.,%2056,%20rue%20de%20Paris,%20l'h%C3%B4tel%20(class%C3%A9)%20du%20Greffier%20des%20Werps.%20ANC.%20:%20francique%20werpjan%20:%20guerpir,%20abandonner.%20Werp%20:%20cession,%20vente%20(Archives%20de%20Tournai,%201243).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#%C3%A0%20Val.,%2056,%20rue%20de%20Paris,%20l'h%C3%B4tel%20(class%C3%A9)%20du%20Greffier%20des%20Werps.%20> ;
+        restaure:oldInformation        <http://restaure.limsi.fr/2017/rdf#ANC.%20:%20francique%20werpjan%20:%20guerpir,%20abandonner.%20Werp%20:%20cession,%20vente%20(Archives%20de%20Tournai,%201243).> ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_Nous%20signalons%20ces%20mots%20(dont%20le%20fr.%20a%20gard%C3%A9%20d%C3%A9guerpir)%20parce%20qu'il%20y%20a%20toujours> .
+
+<http://restaure.limsi.fr/2017/rdf#noiraud%20;%20n%C3%A8gre.%20%22%20Ces%20artiss's%20ont%20donn%C3%A9%20des%20saquois%20dign's%20d'un%20prince%20/%20Au%20noiroux%20d'%20carbonnier%20%22%20(JM).>
+        ontolex:writtenRep  "noiraud ; nègre. \" Ces artiss's ont donné des saquois dign's d'un prince / Au noiroux d' carbonnier \" (JM)." .
+
+restaure:le14PicardVersFrançais_24
+        lexinfo:gender                 lexinfo:Female ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Eune%20tarte%20%C3%A0%20neppes,%20un%20plat%20d'%20bos%20d'%20moules%20%22%20(AD).> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#n%C3%A8fle.%20%22%20Eune%20tarte%20%C3%A0%20neppes,%20un%20plat%20d'%20bos%20d'%20moules%20%22%20(AD).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#n%C3%A8fle.%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_NEPPE .
+
+<http://restaure.limsi.fr/2017/rdf#ANC.%20:%20nier,%20neier,%20noier%20(Herman%20de%20Val.,%20Xe).%20%22%20Il%20cuida%20neier%20en%20la%20mer%20%22%20(Florimont,%20XIIe).>
+        ontolex:writtenRep  "ANC. : nier, neier, noier (Herman de Val., Xe). \" Il cuida neier en la mer \" (Florimont, XIIe)." .
+
+restaure:lf_NIQUET  ontolex:writtenRep  "NIQUET" .
+
+<http://restaure.limsi.fr/2017/rdf#1%20-%20femme%20brune%20(de%20cheveux%20ou%20de%20peau).%20>
+        ontolex:writtenRep  "1 - femme brune (de cheveux ou de peau). " .
+
+restaure:le14PicardVersFrançais_96
+        lexinfo:partOfSpeech           lexinfo:Verb ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#fignoler,%20peaufiner.> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#fignoler,%20peaufiner.> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_Nunuter .
+
+restaure:lf_NIN  ontolex:writtenRep  "NIN" .
+
+<http://restaure.limsi.fr/2017/rdf#1%20-%20chat%20(lang.%20enf.).%20(Voir%20:%20minou).%202%20-%20terme%20d'affection.%20%22%20Bonjour,%20petit%20p%C3%A8re%20!%20-%20Bonjour,%20em'%20p%C3%A9tiot%20nounou%20!%20%22%20(JM).%203%20-%20flocon%20de%20poussi%C3%A8re%20sous%20un%20meuble,%20chaton,%20mouton.>
+        ontolex:writtenRep  "1 - chat (lang. enf.). (Voir : minou). 2 - terme d'affection. \" Bonjour, petit père ! - Bonjour, em' pétiot nounou ! \" (JM). 3 - flocon de poussière sous un meuble, chaton, mouton." .
+
+<http://restaure.limsi.fr/2017/rdf#neige%20(Onnaing).%20%22%20D%C3%A9%20l'%20neinche%20d'sus%20du%20brouet,%20ch'est%20d%C3%A9%20l'%20g%C3%A9l%C3%A9e%20dins%20les%20tros%20jours%20%22%20(GLec).>
+        ontolex:writtenRep  "neige (Onnaing). \" Dé l' neinche d'sus du brouet, ch'est dé l' gélée dins les tros jours \" (GLec)." .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Quand%20j'arai%20din%C3%A9,%20j'vas%20faire%20un%20tiot%20niqu%C3%A9%20%22%20(RD).%20>
+        ontolex:writtenRep  "\" Quand j'arai diné, j'vas faire un tiot niqué \" (RD). " .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Jou%20qu'%20t%C3%A9%20cros%20qu'%20nous%20n'%20d'allons%20nin%20juer%20?%20%22>
+        ontolex:writtenRep  "\" Jou qu' té cros qu' nous n' d'allons nin juer ? \"" .
+
+restaure:le14PicardVersFrançais_66
+        restaure:TranslatableAsDef  restaure: ;
+        restaure:oldInformation     restaure: ;
+        ontolex:lexicalForm         <http://restaure.limsi.fr/2017/rdf#lf_NOI%20> .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20T'as%20pins%C3%A9%20%C3%A0%20l'%20fair'%20?%20B%C3%A9%20nan%20nan%20!%20%22%20(RP).>
+        ontolex:writtenRep  "\" T'as pinsé à l' fair' ? Bé nan nan ! \" (RP)." .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Mi,%20j'%20veux%20bin%20morir,%20mais,%20v'l%C3%A0%20l'%20noeud,%20dit%20l'%20soyeux,%20ej'%20veux%20pas%20m'ein%20aperchevoir%20%22%20(FP).%20>
+        ontolex:writtenRep  "\" Mi, j' veux bin morir, mais, v'là l' noeud, dit l' soyeux, ej' veux pas m'ein aperchevoir \" (FP). " .
+
+restaure:le14PicardVersFrançais_36
+        lexinfo:gender                 lexinfo:Female ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20In%20t'%20dorlote%20(le%20pigeon)%20sit%C3%B4t%20l'%20premier%20%C3%A2ge,%20/%20T'%20douch'%20nichett'%20dins%20les%20meilleurs%20coins%20%22%20(JM).> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#1%20-%20cachette.%202%20-%20nid%20pr%C3%A9par%C3%A9%20pour%20la%20ponte%20dans%20les%20poulaillers,%20les%20colombiers.%20%22%20In%20t'%20dorlote%20(le%20pigeon)%20sit%C3%B4t%20l'%20premier%20%C3%A2ge,%20/%20T'%20douch'%20nichett'%20dins%20les%20meilleurs%20coins%20%22%20(JM).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#2%20-%20nid%20pr%C3%A9par%C3%A9%20pour%20la%20ponte%20dans%20les%20poulaillers,%20les%20colombiers.%20> , <http://restaure.limsi.fr/2017/rdf#1%20-%20cachette.%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_NICHETTE .
+
+restaure:lf_NORRIR  ontolex:writtenRep  "NORRIR" .
+
+<http://restaure.limsi.fr/2017/rdf#Eh%20ben%20!%20queu%20nouvelle%20!%20=%20voulez-vous%20rester%20tranquilles%20!%20(adress%C3%A9%20%C3%A0%20des%20enfants%20turbulents).>
+        ontolex:writtenRep  "Eh ben ! queu nouvelle ! = voulez-vous rester tranquilles ! (adressé à des enfants turbulents)." .
+
+<http://restaure.limsi.fr/2017/rdf#V'l%C3%A0%20l'%20noeud,%20dit%20l'%20so%C3%AFeux%20=%20voil%C3%A0%20la%20difficult%C3%A9.%20>
+        ontolex:writtenRep  "V'là l' noeud, dit l' soïeux = voilà la difficulté. " .
+
+<http://restaure.limsi.fr/2017/rdf#ANC.%20:%20lat.%20nasus%20:%20nez.%20Nasillier%20:%20se%20moucher,%20renifler%20(Gautier%20de%20Coincy,%201220).>
+        ontolex:writtenRep  "ANC. : lat. nasus : nez. Nasillier : se moucher, renifler (Gautier de Coincy, 1220)." .
+
+<http://restaure.limsi.fr/2017/rdf#1%20-%20nich%C3%A9e.%20%22%20Les%20bl%C3%A9s%20d'alentour%20m%C3%BBrs%20avant%20que%20la%20nit%C3%A9e%20/%20Se%20trouv%C3%A2t%20assez%20forte%20encore%20%22%20(La%20Fontaine,%20qui%20%C3%A9tait%20un%20Picard%20du%20Sud).%20%22%20Neuf%20cent%20mille%20b%C3%A9b%C3%A9s%20lum'chons%20!%20Ma%20m%C3%A8r',%20vous%20parlez%20d'ein%20nit%C3%A9e%20!%20%22%20(EM).%202%20-%20enfants>
+        ontolex:writtenRep  "1 - nichée. \" Les blés d'alentour mûrs avant que la nitée / Se trouvât assez forte encore \" (La Fontaine, qui était un Picard du Sud). \" Neuf cent mille bébés lum'chons ! Ma mèr', vous parlez d'ein nitée ! \" (EM). 2 - enfants" .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Et%20sans%20m%C3%AAm'%20preinte%20l'%20temps%20d'%20faire%20un%20pauf'%20Nom%20du%20P%C3%A8re%20%22%20(PB).>
+        ontolex:writtenRep  "\" Et sans mêm' preinte l' temps d' faire un pauf' Nom du Père \" (PB)." .
+
+<http://restaure.limsi.fr/2017/rdf#:%20deux%20mots%20de%20formation%20pop.%20r%C3%A9cente,%20adopt%C3%A9s%20par%20JM.>
+        ontolex:writtenRep  ": deux mots de formation pop. récente, adoptés par JM." .
+
+restaure:le14PicardVersFrançais_78
+        lexinfo:gender                 lexinfo:Female ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Mais%20qu'%20ch'est%20nonuche,%20les%20hommes%20!%20%22%20(Voir%20:%20nunu).> , <http://restaure.limsi.fr/2017/rdf#%22%20Qu'est-%C3%A7'%20t'as%20l%C3%A0%20?%20-%20Ch'est%20des%20nonuches,%20du%20brin%20(ou%20:%20des%20machins)%20qu'in%20chuche%20%22%20(r%C3%A9ponse%20%C3%A0%20un%20curieux).%20Chez%20RD,%20nonuche,%20adj.%20=%20douillet.%20> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#babioles,%20choses%20sans%20importance.%20%22%20Qu'est-%C3%A7'%20t'as%20l%C3%A0%20?%20-%20Ch'est%20des%20nonuches,%20du%20brin%20(ou%20:%20des%20machins)%20qu'in%20chuche%20%22%20(r%C3%A9ponse%20%C3%A0%20un%20curieux).%20Chez%20RD,%20nonuche,%20adj.%20=%20douillet.%20%22%20Mais%20qu'%20ch'est%20nonuche,%20les%20hommes%20!%20%22%20(Voir%20:%20nunu).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#babioles,%20choses%20sans%20importance.%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_NONUCHES .
+
+<http://restaure.limsi.fr/2017/rdf#petite%20fille.%20>
+        ontolex:writtenRep  "petite fille. " .
+
+restaure:le14PicardVersFrançais_2
+        restaure:TranslatableAsDef  restaure: ;
+        restaure:oldInformation     restaure: ;
+        ontolex:lexicalForm         <http://restaure.limsi.fr/2017/rdf#lf_NAI%20> .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Viens%20!%20nos%20allons%20aller%20chi%20eun'%20nioche%20pus%20lon%20%22%20(Cambr%C3%A9sien).>
+        ontolex:writtenRep  "\" Viens ! nos allons aller chi eun' nioche pus lon \" (Cambrésien)." .
+
+<http://restaure.limsi.fr/2017/rdf#lf_Nom%20d'bert%C3%A8que%20>
+        ontolex:writtenRep  "Nom d'bertèque " .
+
+restaure:le14PicardVersFrançais_48
+        lexinfo:gender                 lexinfo:Masculine ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Quand%20j'arai%20din%C3%A9,%20j'vas%20faire%20un%20tiot%20niqu%C3%A9%20%22%20(RD).%20> , <http://restaure.limsi.fr/2017/rdf#%22%20S'%20femm'%20n'a%20qu%C3%A9%20l'%20temps%20d'%20rascoute%20s'%20pipe%20/%20Qu'i%20laissot%20kaire%20in%20f'sant%20s'%20niquet%20%22%20(JM).%20> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#petit%20somme,%20sieste.%20%22%20S'%20femm'%20n'a%20qu%C3%A9%20l'%20temps%20d'%20rascoute%20s'%20pipe%20/%20Qu'i%20laissot%20kaire%20in%20f'sant%20s'%20niquet%20%22%20(JM).%20%22%20Quand%20j'arai%20din%C3%A9,%20j'vas%20faire%20un%20tiot%20niqu%C3%A9%20%22%20(RD).%20ANC.%20:%20Faire%20le%20niquet%20:%20s'assoupir%20(God.),%20de%20niquier%20(Charles%20le%20Chauve,%201330)%20:%20remuer%20la%20t%C3%AAte.%20(Cf.%20all.%20nicken%20;%20incliner%20la%20t%C3%AAte%20;%20Nickerchen%20:%20petit%20somme).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#petit%20somme,%20sieste.%20> ;
+        restaure:oldInformation        <http://restaure.limsi.fr/2017/rdf#ANC.%20:%20Faire%20le%20niquet%20:%20s'assoupir%20(God.),%20de%20niquier%20(Charles%20le%20Chauve,%201330)%20:%20remuer%20la%20t%C3%AAte.%20(Cf.%20all.%20nicken%20;%20incliner%20la%20t%C3%AAte%20;%20Nickerchen%20:%20petit%20somme).> ;
+        ontolex:lexicalForm            restaure:lf_NIQUET .
+
+<http://restaure.limsi.fr/2017/rdf#petit%20somme,%20sieste.%20>
+        ontolex:writtenRep  "petit somme, sieste. " .
+
+<http://restaure.limsi.fr/2017/rdf#nurpart,%20nurvart%20:%20nulle%20part.%20%22%20Je%20n'en%20ai%20trouv%C3%A9%20nulwart,%20nurvart%20si%20vous%20m'entendez%20mieux%20;%20quand%20je%20m'aparle,%20je%20dis%20nulle%20part%20%22%20(EM).%20%22%20Quante%20alle%20a%20eune%20id%C3%A9e%20dins%20s'%20ti%C3%AAte,%20alle%20l'a%20point%20nurpart%20%22%20(PP).>
+        ontolex:writtenRep  "nurpart, nurvart : nulle part. \" Je n'en ai trouvé nulwart, nurvart si vous m'entendez mieux ; quand je m'aparle, je dis nulle part \" (EM). \" Quante alle a eune idée dins s' tiête, alle l'a point nurpart \" (PP)." .
+
+restaure:le14PicardVersFrançais_18
+        lexinfo:gender                 lexinfo:Masculine ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#naseau.> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#naseau.> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_NASIAU .
+
+<http://restaure.limsi.fr/2017/rdf#obscurit%C3%A9,%20nuit.%20%22%20Si%20vieux%20qu'all'%20s%C3%A9%20perd%20dins%20l'%20noirt%C3%A9%20des%20temps%20%22%20(EM).>
+        ontolex:writtenRep  "obscurité, nuit. \" Si vieux qu'all' sé perd dins l' noirté des temps \" (EM)." .
+
+<http://restaure.limsi.fr/2017/rdf#noircir.%20%22%20In%20n'est%20noirchi%20qu'%20par%20un%20noir%20pot%20%22%20=%20on%20n'est%20calomni%C3%A9%20que%20par%20de%20mauvaises%20gens.>
+        ontolex:writtenRep  "noircir. \" In n'est noirchi qu' par un noir pot \" = on n'est calomnié que par de mauvaises gens." .
+
+restaure:lf_Nunuter  ontolex:writtenRep
+                "Nunuter" .
+
+<http://restaure.limsi.fr/2017/rdf#lf_NOBEL%20>
+        ontolex:writtenRep  "NOBEL " .
+
+<http://restaure.limsi.fr/2017/rdf#1%20-%20navet.%20%22%20S'n%20arm%C3%A8d',%20ch'est%20un%20cataplasse%20/%20Avec%20des%20p'lures%20d'%20naviau%20%22%20(JM).%202%20-%20nez%20:%20%22%20Fi%C3%A9vreux%20jusqu'au>
+        ontolex:writtenRep  "1 - navet. \" S'n armèd', ch'est un cataplasse / Avec des p'lures d' naviau \" (JM). 2 - nez : \" Fiévreux jusqu'au" .
+
+<http://restaure.limsi.fr/2017/rdf#lf_NOUVELLE%20!%20(QUEU)%20>
+        ontolex:writtenRep  "NOUVELLE ! (QUEU) " .
+
+restaure:lf_NOSETTE  ontolex:writtenRep
+                "NOSETTE" .
+
+<http://restaure.limsi.fr/2017/rdf#na%C3%AFf,%20ahuri.%20ANC.%20:%20%22%20Quand%20je%20penche%20%C3%A0%20chela,%20je%20devien%20so%20n%C3%A9yu%20%22%20(Fl,%20H,%201654)%20(=%20sot,%20na%C3%AFf).>
+        ontolex:writtenRep  "naïf, ahuri. ANC. : \" Quand je penche à chela, je devien so néyu \" (Fl, H, 1654) (= sot, naïf)." .
+
+<http://restaure.limsi.fr/2017/rdf#n%C3%A9flier.%20ANC.%20:%20nesple%20(XIIe)%20du%20lat.%20mespila%20(le%20n%20est%20d%C3%BB%20%C3%A0%20une%20dissim.)%20;%20nesplier%20:%20n%C3%A9flier%20(Roman%20de%20Renart,%201250).>
+        ontolex:writtenRep  "néflier. ANC. : nesple (XIIe) du lat. mespila (le n est dû à une dissim.) ; nesplier : néflier (Roman de Renart, 1250)." .
+
+<http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20gueux).>
+        ontolex:writtenRep  ": (voir : gueux)." .
+
+restaure:le14PicardVersFrançais_91
+        lexinfo:partOfSpeech           lexinfo:Adjective ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Eun'%20nu%C3%A8v'%20d%C3%A9poulle%20ou%20bin%20un%20nu%C3%A9%20capiau%20%22%20(JM).%20> , <http://restaure.limsi.fr/2017/rdf#%22%20Baptisant%20eun'%20nu%C3%A8ve%20amiti%C3%A9%20%22%20(JM).%20> , <http://restaure.limsi.fr/2017/rdf#%22%20In%20met%20m'n%20ossature%20/%20Dins%20un%20nuef%20cercueul%20%22%20(GT).%20> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#,%20f%C3%A9m.%20NU%C3%88VE%20(pron.%20nw%C3%A9,%20nwef)%20:%20neuf,%20neuve%20;%20nouveau,%20nouvelle.%20%22%20In%20met%20m'n%20ossature%20/%20Dins%20un%20nuef%20cercueul%20%22%20(GT).%20%22%20Baptisant%20eun'%20nu%C3%A8ve%20amiti%C3%A9%20%22%20(JM).%20%22%20Eun'%20nu%C3%A8v'%20d%C3%A9poulle%20ou%20bin%20un%20nu%C3%A9%20capiau%20%22%20(JM).%20ANC.%20:%20nuef%20:%20neuf,%20nouveau%20(Passion,%20980).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#,%20f%C3%A9m.%20NU%C3%88VE%20(pron.%20nw%C3%A9,%20nwef)%20:%20neuf,%20neuve%20;%20nouveau,%20nouvelle.%20> ;
+        restaure:oldInformation        <http://restaure.limsi.fr/2017/rdf#ANC.%20:%20nuef%20:%20neuf,%20nouveau%20(Passion,%20980).> ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_NUE(F)> .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Dodo,%20Ninette,%20/%20Racachez%20Babette.%20/%20Babette%20all'%20n'est%20point%20ichi,%20/%20Alle%20est%20d'all%C3%A9e%20%C3%A0%20no%20courtil%20/%20Ramasser%20des%20poms%20pourris.%20Pou%20ti%C3%A8ce%20?%20/%20Ch'est%20pou%20l'infant%20qui%20dort%20ichi%20%22%20(vieille%20berceuse).>
+        ontolex:writtenRep  "\" Dodo, Ninette, / Racachez Babette. / Babette all' n'est point ichi, / Alle est d'allée à no courtil / Ramasser des poms pourris. Pou tièce ? / Ch'est pou l'infant qui dort ichi \" (vieille berceuse)." .
+
+restaure:lf_NICHE  ontolex:writtenRep  "NICHE" .
+
+<http://restaure.limsi.fr/2017/rdf#nu%C3%A9e.%20>
+        ontolex:writtenRep  "nuée. " .
+
+restaure:le14PicardVersFrançais_61
+        lexinfo:gender                 lexinfo:Female ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#bourdaine%20(arbrisseau).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#bourdaine%20(arbrisseau).> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_Noir(e)-femme> .
+
+<http://restaure.limsi.fr/2017/rdf#lf_N'%20>
+        ontolex:writtenRep  "N' " .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20In%20met%20m'n%20ossature%20/%20Dins%20un%20nuef%20cercueul%20%22%20(GT).%20>
+        ontolex:writtenRep  "\" In met m'n ossature / Dins un nuef cercueul \" (GT). " .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20(Le%20Mar%C3%A9chal%20Villars)%20a%20toudis%20continu%C3%A9%20la%20guerre%20/%20S'%20gamb'%20maillot%C3%A9'%20dins%20eun'%20noch%C3%A8re%20%22%20(JM).%20>
+        ontolex:writtenRep  "\" (Le Maréchal Villars) a toudis continué la guerre / S' gamb' mailloté' dins eun' nochère \" (JM). " .
+
+<http://restaure.limsi.fr/2017/rdf#2%20-%20apr%C3%A8s%20l'adj.%20d%C3%A9m.%20:%20>
+        ontolex:writtenRep  "2 - après l'adj. dém. : " .
+
+<http://restaure.limsi.fr/2017/rdf#nuage.%20%22%20Quaind%20l'%20solel%20pourpraint%20les%20neuaches%20%22%20(GF).>
+        ontolex:writtenRep  "nuage. \" Quaind l' solel pourpraint les neuaches \" (GF)." .
+
+<http://restaure.limsi.fr/2017/rdf#un%20peu.%20>
+        ontolex:writtenRep  "un peu. " .
+
+restaure:le14PicardVersFrançais_31
+        lexinfo:gender                 lexinfo:Female ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Il%20avot%20arlo%C3%AF%C3%A9%20Charlotte%20/%20In%20faisant%20%C3%A0%20s'%20maison%20ein'%20neuvaine%20ed%20ribotte%20%22%20(PB).> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#faire%20eine%20neuvaine%20:%20faire%20la%20f%C3%AAte%20(%C3%A0%20boire)%20pendant%20plusieurs%20jours,%20sinon%20neuf.%20%22%20Il%20avot%20arlo%C3%AF%C3%A9%20Charlotte%20/%20In%20faisant%20%C3%A0%20s'%20maison%20ein'%20neuvaine%20ed%20ribotte%20%22%20(PB).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#faire%20eine%20neuvaine%20:%20faire%20la%20f%C3%AAte%20(%C3%A0%20boire)%20pendant%20plusieurs%20jours,%20sinon%20neuf.%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_*%20NEUVAINE> .
+
+<http://restaure.limsi.fr/2017/rdf#1%20-%20non%20(GT).%20%22%20Nin,%20n'%20fais%20pas%20cha%20!%20%22%202%20-%20pas,%20particule%20n%C3%A9g.%20de%20renforcement%20(chez%20GF%20:%20contamination%20due%20%C3%A0%20ses%20attaches%20sambriennes).%20%22%20Jou%20qu'%20t%C3%A9%20cros%20qu'%20nous%20n'%20d'allons%20nin%20juer%20?%20%22>
+        ontolex:writtenRep  "1 - non (GT). \" Nin, n' fais pas cha ! \" 2 - pas, particule nég. de renforcement (chez GF : contamination due à ses attaches sambriennes). \" Jou qu' té cros qu' nous n' d'allons nin juer ? \"" .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20S%C3%BBr%20qui%20n'a%20pas%20vo%20n'%20instruction%20%22%20(JD).%20>
+        ontolex:writtenRep  "\" Sûr qui n'a pas vo n' instruction \" (JD). " .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20D%C3%A9%20l'%20neinche%20d'sus%20du%20brouet,%20ch'est%20d%C3%A9%20l'%20g%C3%A9l%C3%A9e%20dins%20les%20tros%20jours%20%22%20(GLec).>
+        ontolex:writtenRep  "\" Dé l' neinche d'sus du brouet, ch'est dé l' gélée dins les tros jours \" (GLec)." .
+
+<http://restaure.limsi.fr/2017/rdf#3%20-%20tuyau%20de%20descente%20d'eau%20pluviale%20;%20par%20extension%20:%20tout%20tuyau.%20>
+        ontolex:writtenRep  "3 - tuyau de descente d'eau pluviale ; par extension : tout tuyau. " .
+
+<http://restaure.limsi.fr/2017/rdf#%C3%A9leveur%20de%20b%C3%A9tail.%20Patronyme%20:%20%C3%A9crit%20Nortier.%20ANC.%20:%20norrecier%20:%20celui%20qui%20%C3%A9l%C3%A8ve%20un%20enfant%20:%20%C3%A9leveur%20de%20b%C3%A9tail,%20de%20moutons%20en%20part.%20(Dialogue%20de%20St%20Gr%C3%A9goire,%20XIIe).>
+        ontolex:writtenRep  "éleveur de bétail. Patronyme : écrit Nortier. ANC. : norrecier : celui qui élève un enfant : éleveur de bétail, de moutons en part. (Dialogue de St Grégoire, XIIe)." .
+
+restaure:le14PicardVersFrançais_73
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Et%20sans%20m%C3%AAm'%20preinte%20l'%20temps%20d'%20faire%20un%20pauf'%20Nom%20du%20P%C3%A8re%20%22%20(PB).> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#:%20signe%20de%20la%20croix.%20%22%20Et%20sans%20m%C3%AAm'%20preinte%20l'%20temps%20d'%20faire%20un%20pauf'%20Nom%20du%20P%C3%A8re%20%22%20(PB).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#:%20signe%20de%20la%20croix.%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_Nom%20du%20p%C3%A8re%20> .
+
+<http://restaure.limsi.fr/2017/rdf#lf_NA%C3%8FU>
+        ontolex:writtenRep  "NAÏU" .
+
+<http://restaure.limsi.fr/2017/rdf#lf_NOU%20>
+        ontolex:writtenRep  "NOU " .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20L'%20Bon%20Dieu%20invoe%20des%20nosettes%20%C3%A0%20cheux%20qui%20n'%20s%C3%A8tent%20point%20les%20croquer%20%22%20(GH)%20=%20les%20biens%20de%20ce%20monde%20sont%20mal%20r%C3%A9partis.%20>
+        ontolex:writtenRep  "\" L' Bon Dieu invoe des nosettes à cheux qui n' sètent point les croquer \" (GH) = les biens de ce monde sont mal répartis. " .
+
+<http://restaure.limsi.fr/2017/rdf#lf_*%20NEUVAINE>
+        ontolex:writtenRep  "* NEUVAINE" .
+
+<http://restaure.limsi.fr/2017/rdf#lf_Neu%C3%A9e>
+        ontolex:writtenRep  "Neuée" .
+
+restaure:le14PicardVersFrançais_43
+        lexinfo:gender                 lexinfo:Female ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Non,%20j%C3%A9%20n'%20brais%20point,%20j'arnif',%20ch'est%20parc'%20qu%C3%A9%20j'ai%20l'niflette%20%22%20(RP).%20> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#morve%20(humeur%20nasale).%20%22%20Non,%20j%C3%A9%20n'%20brais%20point,%20j'arnif',%20ch'est%20parc'%20qu%C3%A9%20j'ai%20l'niflette%20%22%20(RP).%20ANC.%20:%20nifler,%20d'orig.%20onomat.%20(Saint%20Gr%C3%A9goire,%20fin%20XIIe).%20A%20donn%C3%A9%20le%20fr.%20renifler%20en%201530.> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#morve%20(humeur%20nasale).%20> ;
+        restaure:oldInformation        <http://restaure.limsi.fr/2017/rdf#ANC.%20:%20nifler,%20d'orig.%20onomat.%20(Saint%20Gr%C3%A9goire,%20fin%20XIIe).%20A%20donn%C3%A9%20le%20fr.%20renifler%20en%201530.> ;
+        ontolex:lexicalForm            restaure:lf_Niflette .
+
+restaure:le14PicardVersFrançais_8
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Fais%20nanan%20%C3%A0%20m%C3%A8re,%20/%20Quand%20t'%20dors,%20t'es%20si%20biau%20!%20%22%20(JM).> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#NAN.NAN%20(FAIRE)%20;%20(lang.%20enf.)%20:%20faire%20dodo.%20%22%20Fais%20nanan%20%C3%A0%20m%C3%A8re,%20/%20Quand%20t'%20dors,%20t'es%20si%20biau%20!%20%22%20(JM).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#NAN.NAN%20(FAIRE)%20;%20(lang.%20enf.)%20:%20faire%20dodo.%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_NANAN .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Sapr%C3%A9%20nom%20d%C3%A9%20zo%20d'%20blanc%20bonnet%20/%20T%C3%A9%20n'%20vas%20pas%20d'j%C3%A0%20t'%20mett'%20in%20foufielle%20!%20%22%20(PM).%20>
+        ontolex:writtenRep  "\" Sapré nom dé zo d' blanc bonnet / Té n' vas pas d'jà t' mett' in foufielle ! \" (PM). " .
+
+restaure:le14PicardVersFrançais_13
+        lexinfo:gender                 lexinfo:Masculine ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#%20et%20adj.%20:%20qui%20fait%20le%20d%C3%A9go%C3%BBt%C3%A9%20devant%20la%20nourriture%20(qu'il%20flaire%20avec%20suspicion).%20%22%20Un%20vieux%20notaire,%20un%20vieux%20garchon,%20/%20Pourtant%20nactieux%20pus%20qu%C3%A9%20d'%20raison,%20/%20Apprivoisot%20un%20jeun'%20miss'ron%20=%20(GF).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#%20et%20adj.%20:%20qui%20fait%20le%20d%C3%A9go%C3%BBt%C3%A9%20devant%20la%20nourriture%20(qu'il%20flaire%20avec%20suspicion).%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_Naqu(e)tieux> .
+
+<http://restaure.limsi.fr/2017/rdf#femme%20aux%20yeux%20noirs%20et%20effront%C3%A9s%20(p%C3%A9j.).>
+        ontolex:writtenRep  "femme aux yeux noirs et effrontés (péj.)." .
+
+<http://restaure.limsi.fr/2017/rdf#%C3%A0%20Val.,%2056,%20rue%20de%20Paris,%20l'h%C3%B4tel%20(class%C3%A9)%20du%20Greffier%20des%20Werps.%20>
+        ontolex:writtenRep  "à Val., 56, rue de Paris, l'hôtel (classé) du Greffier des Werps. " .
+
+restaure:le14PicardVersFrançais_85
+        lexinfo:gender                 lexinfo:Female ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#conter%20%C3%A0%20l'%20basse%20note%20(GH)%20:%20rabaisser%20le%20ton,%20se%20montrer%20moins%20orgueilleux.> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#conter%20%C3%A0%20l'%20basse%20note%20(GH)%20:%20rabaisser%20le%20ton,%20se%20montrer%20moins%20orgueilleux.> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_NOTE .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20%C3%87'%20ch%C3%A9rubin%20du%20bon%20Dieu,%20/%20In%20fermant%20ses%20nonottes,%20/%20Prind%20du%20r'pos%20tant%20qui%20peut%20%22%20(JM).>
+        ontolex:writtenRep  "\" Ç' chérubin du bon Dieu, / In fermant ses nonottes, / Prind du r'pos tant qui peut \" (JM)." .
+
+<http://restaure.limsi.fr/2017/rdf#%C3%A9l%C3%A9ment%20de%20plusieurs%20jurons.%20Vingt%20noms%20!%20nom%20d%C3%A9%20cul%20!%20Plus%20fr%C3%A9quent%20:%20Nom%20d%C3%A9%20Zo%20!%20(attest%C3%A9%20chez%20JQ,%20FP,%20EM,%20JM,%20RPL,%20PM,%20etc.,%20avec%20diverses%20graphies).%20%22%20Sapr%C3%A9%20nom%20d%C3%A9%20zo%20d'%20blanc%20bonnet%20/%20T%C3%A9%20n'%20vas%20pas%20d'j%C3%A0%20t'%20mett'%20in%20foufielle%20!%20%22%20(PM).%20L'orig.%20doit%20%C3%AAtre%20:%20Nom%20des%20os%20!%20(du%20Christ).%20Autres%20jurons%20courants%20:%20Nom%20d%C3%A9%20nom%20!%20ou,%20avec%20une%20d%C3%A9form.%20du%20mot%20Dieu%20:%20Nom%20d%C3%A9%20Diu%20!%20de%20Diou%20!%20d%C3%A9%20Dious'%20!>
+        ontolex:writtenRep  "élément de plusieurs jurons. Vingt noms ! nom dé cul ! Plus fréquent : Nom dé Zo ! (attesté chez JQ, FP, EM, JM, RPL, PM, etc., avec diverses graphies). \" Sapré nom dé zo d' blanc bonnet / Té n' vas pas d'jà t' mett' in foufielle ! \" (PM). L'orig. doit être : Nom des os ! (du Christ). Autres jurons courants : Nom dé nom ! ou, avec une déform. du mot Dieu : Nom dé Diu ! de Diou ! dé Dious' !" .
+
+restaure:lf_NINETTE  ontolex:writtenRep
+                "NINETTE" .
+
+<http://restaure.limsi.fr/2017/rdf#fignoler,%20peaufiner.>
+        ontolex:writtenRep  "fignoler, peaufiner." .
+
+<http://restaure.limsi.fr/2017/rdf#lf_NUE(F)>
+        ontolex:writtenRep  "NUE(F)" .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Fais%20l'%20pus%20gros,%20hein%20!%20Point%20cor%20ed%20nunuteries%20!%20-%20Comme%20si%20j'avos%20l'%20temps%20d'%20nunuter%20!%20%22%20(RD).>
+        ontolex:writtenRep  "\" Fais l' pus gros, hein ! Point cor ed nunuteries ! - Comme si j'avos l' temps d' nunuter ! \" (RD)." .
+
+<http://restaure.limsi.fr/2017/rdf#querelleur.%20ANC.%20:%20noise%20:%20querelle.>
+        ontolex:writtenRep  "querelleur. ANC. : noise : querelle." .
+
+<http://restaure.limsi.fr/2017/rdf#lf_N'>
+        ontolex:writtenRep  "N'" .
+
+<http://restaure.limsi.fr/2017/rdf#lf_NO%C3%89>
+        ontolex:writtenRep  "NOÉ" .
+
+restaure:le14PicardVersFrançais_55
+        lexinfo:gender                 lexinfo:Female ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20(Le%20Mar%C3%A9chal%20Villars)%20a%20toudis%20continu%C3%A9%20la%20guerre%20/%20S'%20gamb'%20maillot%C3%A9'%20dins%20eun'%20noch%C3%A8re%20%22%20(JM).%20> , <http://restaure.limsi.fr/2017/rdf#%22%20L'%20tirloteux%20cri'%20dins%20s'%20noch%C3%A8re%20(=%20porte-voix)%20/%20V'l%C3%A0%20l'%20gros%20lot%20!%20%22%20(JM).%20> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#1%20-%20goutti%C3%A8re%20(de%20toit).%20Un%20cat%20d'%20noch%C3%A8re,%202%20-%20goutti%C3%A8re%20(chirurgicale).%20%22%20(Le%20Mar%C3%A9chal%20Villars)%20a%20toudis%20continu%C3%A9%20la%20guerre%20/%20S'%20gamb'%20maillot%C3%A9'%20dins%20eun'%20noch%C3%A8re%20%22%20(JM).%203%20-%20tuyau%20de%20descente%20d'eau%20pluviale%20;%20par%20extension%20:%20tout%20tuyau.%20%22%20L'%20tirloteux%20cri'%20dins%20s'%20noch%C3%A8re%20(=%20porte-voix)%20/%20V'l%C3%A0%20l'%20gros%20lot%20!%20%22%20(JM).%20ANC.%20:%20noc%20:%20conduite%20d'eau%20(1220)%20;%20noche%20(1339),%20nockierete%20(1323)%20:%20goutti%C3%A8re.> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#2%20-%20goutti%C3%A8re%20(chirurgicale).%20> , <http://restaure.limsi.fr/2017/rdf#1%20-%20goutti%C3%A8re%20(de%20toit).%20Un%20cat%20d'%20noch%C3%A8re,%20> , <http://restaure.limsi.fr/2017/rdf#3%20-%20tuyau%20de%20descente%20d'eau%20pluviale%20;%20par%20extension%20:%20tout%20tuyau.%20> ;
+        restaure:oldInformation        <http://restaure.limsi.fr/2017/rdf#ANC.%20:%20noc%20:%20conduite%20d'eau%20(1220)%20;%20noche%20(1339),%20nockierete%20(1323)%20:%20goutti%C3%A8re.ANC.%20:%20noc%20:%20conduite%20d'eau%20(1220)%20;%20noche%20(1339),%20nockierete%20(1323)%20:%20goutti%C3%A8re.ANC.%20:%20noc%20:%20conduite%20d'eau%20(1220)%20;%20noche%20(1339),%20nockierete%20(1323)%20:%20goutti%C3%A8re.> ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_NOCH%C3%88RE> .
+
+<http://restaure.limsi.fr/2017/rdf#lf_NIT%C3%89E>
+        ontolex:writtenRep  "NITÉE" .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Il%20est%20foutu%20pou%20pissier%20du%20noirglache%20dins%20l'%20canicule%20%22%20(GH)%20=%20c'est%20un%20homme%20tr%C3%A8s%20froid.>
+        ontolex:writtenRep  "\" Il est foutu pou pissier du noirglache dins l' canicule \" (GH) = c'est un homme très froid." .
+
+<http://restaure.limsi.fr/2017/rdf#%C3%A9pine-vinette.>
+        ontolex:writtenRep  "épine-vinette." .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20T%C3%A2cher%20d'%20gangner%20leu's%20croutes%20/%20Pou%20norrir%20tous%20ches%20tiots%20%22%20(GF).%20>
+        ontolex:writtenRep  "\" Tâcher d' gangner leu's croutes / Pou norrir tous ches tiots \" (GF). " .
+
+restaure:le14PicardVersFrançais_25
+        lexinfo:gender                 lexinfo:Masculine ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#n%C3%A9flier.%20ANC.%20:%20nesple%20(XIIe)%20du%20lat.%20mespila%20(le%20n%20est%20d%C3%BB%20%C3%A0%20une%20dissim.)%20;%20nesplier%20:%20n%C3%A9flier%20(Roman%20de%20Renart,%201250).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#n%C3%A9flier.%20> ;
+        restaure:oldInformation        <http://restaure.limsi.fr/2017/rdf#ANC.%20:%20nesple%20(XIIe)%20du%20lat.%20mespila%20(le%20n%20est%20d%C3%BB%20%C3%A0%20une%20dissim.)%20;%20nesplier%20:%20n%C3%A9flier%20(Roman%20de%20Renart,%201250).> ;
+        ontolex:lexicalForm            restaure:lf_Neppier .
+
+restaure:lf_NIC-NAC  ontolex:writtenRep
+                "NIC-NAC" .
+
+restaure:lf_Norriture
+        ontolex:writtenRep  "Norriture" .
+
+<http://restaure.limsi.fr/2017/rdf#,%20noirglas,%20s.%20m.,%20noirte-glache,%20s.%20f.%20:%20verglas%20:%20%22%20All'%20risqu'%20d%C3%A9'%20s'%20r%C3%A9vernir%20in%20glichant%20d'sus%20l'%20noirglas%20%22%20(JM).%20%22%20Il%20est%20foutu%20pou%20pissier%20du%20noirglache%20dins%20l'%20canicule%20%22%20(GH)%20=%20c'est%20un%20homme%20tr%C3%A8s%20froid.>
+        ontolex:writtenRep  ", noirglas, s. m., noirte-glache, s. f. : verglas : \" All' risqu' dé' s' révernir in glichant d'sus l' noirglas \" (JM). \" Il est foutu pou pissier du noirglache dins l' canicule \" (GH) = c'est un homme très froid." .
+
+<http://restaure.limsi.fr/2017/rdf#2%20-%20r%C3%A9putation.%20>
+        ontolex:writtenRep  "2 - réputation. " .
+
+<http://restaure.limsi.fr/2017/rdf#,%20f%C3%A9m.%20de%20noir%20(voir%20:%20glaine).>
+        ontolex:writtenRep  ", fém. de noir (voir : glaine)." .
+
+<http://restaure.limsi.fr/2017/rdf#flairer%20;%20chercher%20en%20flairant%20;%20se%20m%C3%AAler%20de%20tout.%20>
+        ontolex:writtenRep  "flairer ; chercher en flairant ; se mêler de tout. " .
+
+restaure:le14PicardVersFrançais_97
+        lexinfo:gender                 lexinfo:Female ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Fais%20l'%20pus%20gros,%20hein%20!%20Point%20cor%20ed%20nunuteries%20!%20-%20Comme%20si%20j'avos%20l'%20temps%20d'%20nunuter%20!%20%22%20(RD).> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#fignolage.%20%22%20Fais%20l'%20pus%20gros,%20hein%20!%20Point%20cor%20ed%20nunuteries%20!%20-%20Comme%20si%20j'avos%20l'%20temps%20d'%20nunuter%20!%20%22%20(RD).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#fignolage.%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_Nunut(e)rie> .
+
+<http://restaure.limsi.fr/2017/rdf#:%20cr%C3%A9puscule,%20moment%20entre%20chien%20et%20loup,%20o%C3%B9%20l'on%20reste,%20dans%20la>
+        ontolex:writtenRep  ": crépuscule, moment entre chien et loup, où l'on reste, dans la" .
+
+restaure:le14PicardVersFrançais_67
+        lexinfo:gender                 lexinfo:Masculine ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#femme%20aux%20yeux%20noirs%20et%20effront%C3%A9s%20(p%C3%A9j.).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#femme%20aux%20yeux%20noirs%20et%20effront%C3%A9s%20(p%C3%A9j.).> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_Noir-z'yeux> .
+
+<http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20noter).>
+        ontolex:writtenRep  ": (voir : noter)." .
+
+restaure:le14PicardVersFrançais_37
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Alle%20n'oblie%20l'%20nichot%20%C3%A0%20z'uefs%20%22%20(PP).> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#nigeois,%20s.%20m.%20:%20nid,%20nichoir.%20%22%20Alle%20n'oblie%20l'%20nichot%20%C3%A0%20z'uefs%20%22%20(PP).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#nigeois,%20s.%20m.%20:%20nid,%20nichoir.%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_Nichot .
+
+<http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20atal).>
+        ontolex:writtenRep  ": (voir : atal)." .
+
+<http://restaure.limsi.fr/2017/rdf#2%20-%20terme%20d'affection.%20>
+        ontolex:writtenRep  "2 - terme d'affection. " .
+
+<http://restaure.limsi.fr/2017/rdf#1%20-%20nettoyer.%20>
+        ontolex:writtenRep  "1 - nettoyer. " .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Si%20vieux%20qu'all'%20s%C3%A9%20perd%20dins%20l'%20noirt%C3%A9%20des%20temps%20%22%20(EM).>
+        ontolex:writtenRep  "\" Si vieux qu'all' sé perd dins l' noirté des temps \" (EM)." .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Si%20ch'est%20cha%20t'%20vinaique%20!%20J'ai%20quand%20m%C3%AAme%20del%20naque%20!%20%22%20(PP).%20>
+        ontolex:writtenRep  "\" Si ch'est cha t' vinaique ! J'ai quand même del naque ! \" (PP). " .
+
+<http://restaure.limsi.fr/2017/rdf#cuvier%20rond,%20%C3%A9vas%C3%A9%20et%20plat%20o%C3%B9%20l'on%20savonnait%20les%20batistes%20dans%20les%20blanchisseries.%20>
+        ontolex:writtenRep  "cuvier rond, évasé et plat où l'on savonnait les batistes dans les blanchisseries. " .
+
+<http://restaure.limsi.fr/2017/rdf#1%20-%20nich%C3%A9e.%20>
+        ontolex:writtenRep  "1 - nichée. " .
+
+restaure:lf_NAQUE  ontolex:writtenRep  "NAQUE" .
+
+restaure:le14PicardVersFrançais_79
+        lexinfo:partOfSpeech           lexinfo:Verb ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20T%C3%A2cher%20d'%20gangner%20leu's%20croutes%20/%20Pou%20norrir%20tous%20ches%20tiots%20%22%20(GF).%20> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#nourrir.%20%22%20T%C3%A2cher%20d'%20gangner%20leu's%20croutes%20/%20Pou%20norrir%20tous%20ches%20tiots%20%22%20(GF).%20ANC.%20:%20norir%20(Vie%20de%20St%20L%C3%A9ger,%20Xe)%20du%20lat.%20nutrire.> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#nourrir.%20> ;
+        restaure:oldInformation        <http://restaure.limsi.fr/2017/rdf#ANC.%20:%20norir%20(Vie%20de%20St%20L%C3%A9ger,%20Xe)%20du%20lat.%20nutrire.> ;
+        ontolex:lexicalForm            restaure:lf_NORRIR .
+
+restaure:le14PicardVersFrançais_3
+        restaure:TranslatableAsDef  restaure: ;
+        restaure:oldInformation     restaure: ;
+        ontolex:lexicalForm         restaure:lf_N .
+
+restaure:lf_NUNU  ontolex:writtenRep  "NUNU" .
+
+restaure:le14PicardVersFrançais_49
+        lexinfo:gender                 lexinfo:Female ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Neuf%20cent%20mille%20b%C3%A9b%C3%A9s%20lum'chons%20!%20Ma%20m%C3%A8r',%20vous%20parlez%20d'ein%20nit%C3%A9e%20!%20%22%20(EM).%20> , <http://restaure.limsi.fr/2017/rdf#%22%20Les%20bl%C3%A9s%20d'alentour%20m%C3%BBrs%20avant%20que%20la%20nit%C3%A9e%20/%20Se%20trouv%C3%A2t%20assez%20forte%20encore%20%22%20(La%20Fontaine,%20qui%20%C3%A9tait%20un%20Picard%20du%20Sud).%20> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#1%20-%20nich%C3%A9e.%20%22%20Les%20bl%C3%A9s%20d'alentour%20m%C3%BBrs%20avant%20que%20la%20nit%C3%A9e%20/%20Se%20trouv%C3%A2t%20assez%20forte%20encore%20%22%20(La%20Fontaine,%20qui%20%C3%A9tait%20un%20Picard%20du%20Sud).%20%22%20Neuf%20cent%20mille%20b%C3%A9b%C3%A9s%20lum'chons%20!%20Ma%20m%C3%A8r',%20vous%20parlez%20d'ein%20nit%C3%A9e%20!%20%22%20(EM).%202%20-%20enfants> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#2%20-%20enfants> , <http://restaure.limsi.fr/2017/rdf#1%20-%20nich%C3%A9e.%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_NIT%C3%89E> .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20On%20s'amuse%20%C3%A0%20d%C3%A9pioch'ter%20s'niche%20%22%20(AD).>
+        ontolex:writtenRep  "\" On s'amuse à dépioch'ter s'niche \" (AD)." .
+
+restaure:lf_NEINCHE  ontolex:writtenRep
+                "NEINCHE" .
+
+restaure:le14PicardVersFrançais_19
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20atal).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20atal).> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_NATAUX%20> .
+
+restaure:le14PicardVersFrançais_80
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#s%20f.%20:%20vache%20qui%20nourrit%20son%20veau.> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#s%20f.%20:%20vache%20qui%20nourrit%20son%20veau.> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_Norre%20(GH)> .
+
+<http://restaure.limsi.fr/2017/rdf#morve%20(humeur%20nasale).%20%22%20Non,%20j%C3%A9%20n'%20brais%20point,%20j'arnif',%20ch'est%20parc'%20qu%C3%A9%20j'ai%20l'niflette%20%22%20(RP).%20ANC.%20:%20nifler,%20d'orig.%20onomat.%20(Saint%20Gr%C3%A9goire,%20fin%20XIIe).%20A%20donn%C3%A9%20le%20fr.%20renifler%20en%201530.>
+        ontolex:writtenRep  "morve (humeur nasale). \" Non, jé n' brais point, j'arnif', ch'est parc' qué j'ai l'niflette \" (RP). ANC. : nifler, d'orig. onomat. (Saint Grégoire, fin XIIe). A donné le fr. renifler en 1530." .
+
+<http://restaure.limsi.fr/2017/rdf#naseau.>
+        ontolex:writtenRep  "naseau." .
+
+<http://restaure.limsi.fr/2017/rdf#%20de%20n%C3%A9g.%20B%C3%A9%20non%20non%20!%20(graphies%20:%20b%C3%A9%20nin%20nin%20!,%20b%C3%A9%20nan%20nan%20!)%20=%20mais%20non%20!%20%22%20T'as%20pins%C3%A9%20%C3%A0%20l'%20fair'%20?%20B%C3%A9%20nan%20nan%20!%20%22%20(RP).>
+        ontolex:writtenRep  " de nég. Bé non non ! (graphies : bé nin nin !, bé nan nan !) = mais non ! \" T'as pinsé à l' fair' ? Bé nan nan ! \" (RP)." .
+
+<http://restaure.limsi.fr/2017/rdf#quatre-vingt-dix.%20(Voir%20:%20gram.).>
+        ontolex:writtenRep  "quatre-vingt-dix. (Voir : gram.)." .
+
+<http://restaure.limsi.fr/2017/rdf#A%20nul%20%C3%A2ge%20:%20tout%20jeune%20;%20avant%20l'%C3%A2ge%20pr%C3%A9vu%20pour%20faire%20telle%20ou%20telle%20chose.%20>
+        ontolex:writtenRep  "A nul âge : tout jeune ; avant l'âge prévu pour faire telle ou telle chose. " .
+
+<http://restaure.limsi.fr/2017/rdf#1%20-%20odorat.%20>
+        ontolex:writtenRep  "1 - odorat. " .
+
+restaure:le14PicardVersFrançais_50
+        lexinfo:gender                 lexinfo:Masculine ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#g%C3%A9om%C3%A8tre%20du%20fond%20(mines).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#g%C3%A9om%C3%A8tre%20du%20fond%20(mines).> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_NIV(E)LEUX> .
+
+<http://restaure.limsi.fr/2017/rdf#NOU,%20adj.%20poss.%20:%20notre,%20nos.%20>
+        ontolex:writtenRep  "NOU, adj. poss. : notre, nos. " .
+
+<http://restaure.limsi.fr/2017/rdf#ANC.%20:%20Faire%20le%20niquet%20:%20s'assoupir%20(God.),%20de%20niquier%20(Charles%20le%20Chauve,%201330)%20:%20remuer%20la%20t%C3%AAte.%20(Cf.%20all.%20nicken%20;%20incliner%20la%20t%C3%AAte%20;%20Nickerchen%20:%20petit%20somme).>
+        ontolex:writtenRep  "ANC. : Faire le niquet : s'assoupir (God.), de niquier (Charles le Chauve, 1330) : remuer la tête. (Cf. all. nicken ; incliner la tête ; Nickerchen : petit somme)." .
+
+<http://restaure.limsi.fr/2017/rdf#lf_Nul(le)vart>
+        ontolex:writtenRep  "Nul(le)vart" .
+
+<http://restaure.limsi.fr/2017/rdf#lf_Nos(e)tier>
+        ontolex:writtenRep  "Nos(e)tier" .
+
+<http://restaure.limsi.fr/2017/rdf#nourriture.%20>
+        ontolex:writtenRep  "nourriture. " .
+
+<http://restaure.limsi.fr/2017/rdf#menotte,%20petite%20main%20(lang.%20enf.).%20%22%20%C3%87'%20ch%C3%A9rubin%20du%20bon%20Dieu,%20/%20In%20fermant%20ses%20nonottes,%20/%20Prind%20du%20r'pos%20tant%20qui%20peut%20%22%20(JM).>
+        ontolex:writtenRep  "menotte, petite main (lang. enf.). \" Ç' chérubin du bon Dieu, / In fermant ses nonottes, / Prind du r'pos tant qui peut \" (JM)." .
+
+restaure:le14PicardVersFrançais_20
+        lexinfo:gender                 lexinfo:Masculine ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20S'n%20arm%C3%A8d',%20ch'est%20un%20cataplasse%20/%20Avec%20des%20p'lures%20d'%20naviau%20%22%20(JM).%20> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#1%20-%20navet.%20%22%20S'n%20arm%C3%A8d',%20ch'est%20un%20cataplasse%20/%20Avec%20des%20p'lures%20d'%20naviau%20%22%20(JM).%202%20-%20nez%20:%20%22%20Fi%C3%A9vreux%20jusqu'au> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#2%20-%20nez%20:%20> , <http://restaure.limsi.fr/2017/rdf#1%20-%20navet.%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_NAVIAU .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20All'%20les%20brissaute,%20in%20vraie%20ninoche%20%22%20(PB).%20>
+        ontolex:writtenRep  "\" All' les brissaute, in vraie ninoche \" (PB). " .
+
+<http://restaure.limsi.fr/2017/rdf#,%20f%C3%A9m.%20de%20nu.%20Alle%20est%20toute%20nute.%20ANC.%20:%20lat.%20nudus%20(nu).%20(Cf.%20nudit%C3%A9,%20nudisme,%20etc.).>
+        ontolex:writtenRep  ", fém. de nu. Alle est toute nute. ANC. : lat. nudus (nu). (Cf. nudité, nudisme, etc.)." .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20S'%20femm'%20n'a%20qu%C3%A9%20l'%20temps%20d'%20rascoute%20s'%20pipe%20/%20Qu'i%20laissot%20kaire%20in%20f'sant%20s'%20niquet%20%22%20(JM).%20>
+        ontolex:writtenRep  "\" S' femm' n'a qué l' temps d' rascoute s' pipe / Qu'i laissot kaire in f'sant s' niquet \" (JM). " .
+
+<http://restaure.limsi.fr/2017/rdf#fignolage.%20>
+        ontolex:writtenRep  "fignolage. " .
+
+restaure:le14PicardVersFrançais_92
+        lexinfo:gender              lexinfo:Female ;
+        lexinfo:partOfSpeech        lexinfo:Noun ;
+        restaure:TranslatableAsDef  <http://restaure.limsi.fr/2017/rdf#%22%20Bonne%20nuit%20d'%20carpintier,%20l'%20qu%C3%A9ville%20au%20tro%20%22%20(GH)%20:%20sens%20%C3%A9rot.> ;
+        restaure:oldInformation     restaure: ;
+        ontolex:lexicalForm         restaure:lf_NUIT .
+
+<http://restaure.limsi.fr/2017/rdf#lf_Nous%20signalons%20ces%20mots%20(dont%20le%20fr.%20a%20gard%C3%A9%20d%C3%A9guerpir)%20parce%20qu'il%20y%20a%20toujours>
+        ontolex:writtenRep  "Nous signalons ces mots (dont le fr. a gardé déguerpir) parce qu'il y a toujours" .
+
+<http://restaure.limsi.fr/2017/rdf#un%20peu.%20%22%20Viens%20!%20nos%20allons%20aller%20chi%20eun'%20nioche%20pus%20lon%20%22%20(Cambr%C3%A9sien).>
+        ontolex:writtenRep  "un peu. \" Viens ! nos allons aller chi eun' nioche pus lon \" (Cambrésien)." .
+
+restaure:le14PicardVersFrançais_62
+        lexinfo:gender                 lexinfo:Female ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#1%20-%20femme%20brune%20(de%20cheveux%20ou%20de%20peau).%202%20-%20vache%20au%20pelage%20plus%20noir%20que%20blanc.> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#2%20-%20vache%20au%20pelage%20plus%20noir%20que%20blanc.> , <http://restaure.limsi.fr/2017/rdf#1%20-%20femme%20brune%20(de%20cheveux%20ou%20de%20peau).%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_Noirette .
+
+<http://restaure.limsi.fr/2017/rdf#lf_Noirt%C3%A9>
+        ontolex:writtenRep  "Noirté" .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Je%20n'en%20ai%20trouv%C3%A9%20nulwart,%20nurvart%20si%20vous%20m'entendez%20mieux%20;%20quand%20je%20m'aparle,%20je%20dis%20nulle%20part%20%22%20(EM).%20>
+        ontolex:writtenRep  "\" Je n'en ai trouvé nulwart, nurvart si vous m'entendez mieux ; quand je m'aparle, je dis nulle part \" (EM). " .
+
+restaure:le14PicardVersFrançais_32
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20noter).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20noter).> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_NEYER%20> .
+
+<http://restaure.limsi.fr/2017/rdf#lf_Nunut(e)rie>
+        ontolex:writtenRep  "Nunut(e)rie" .
+
+<http://restaure.limsi.fr/2017/rdf#NEYER,%20v.%20:%20noyer.%20>
+        ontolex:writtenRep  "NEYER, v. : noyer. " .
+
+<http://restaure.limsi.fr/2017/rdf#1%20-%20non%20(GT).%20>
+        ontolex:writtenRep  "1 - non (GT). " .
+
+<http://restaure.limsi.fr/2017/rdf#cuvier%20rond,%20%C3%A9vas%C3%A9%20et%20plat%20o%C3%B9%20l'on%20savonnait%20les%20batistes%20dans%20les%20blanchisseries.%20ANC.%20:%20lat.%20navis%20:%20vaisseau.>
+        ontolex:writtenRep  "cuvier rond, évasé et plat où l'on savonnait les batistes dans les blanchisseries. ANC. : lat. navis : vaisseau." .
+
+restaure:le14PicardVersFrançais_74
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20T'as%20pins%C3%A9%20%C3%A0%20l'%20fair'%20?%20B%C3%A9%20nan%20nan%20!%20%22%20(RP).> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#%20de%20n%C3%A9g.%20B%C3%A9%20non%20non%20!%20(graphies%20:%20b%C3%A9%20nin%20nin%20!,%20b%C3%A9%20nan%20nan%20!)%20=%20mais%20non%20!%20%22%20T'as%20pins%C3%A9%20%C3%A0%20l'%20fair'%20?%20B%C3%A9%20nan%20nan%20!%20%22%20(RP).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#%20de%20n%C3%A9g.%20B%C3%A9%20non%20non%20!%20(graphies%20:%20b%C3%A9%20nin%20nin%20!,%20b%C3%A9%20nan%20nan%20!)%20=%20mais%20non%20!%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_NON .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Vous%20savez%20qu'%20ch'est%20ein%20nunu%20!%20I%20crie%20d'j%C3%A0%20qu'i%20va%20morir%20!%20%22%20(RD).>
+        ontolex:writtenRep  "\" Vous savez qu' ch'est ein nunu ! I crie d'jà qu'i va morir ! \" (RD)." .
+
+<http://restaure.limsi.fr/2017/rdf#nourrir.%20>
+        ontolex:writtenRep  "nourrir. " .
+
+<http://restaure.limsi.fr/2017/rdf#lf_NOI%20>
+        ontolex:writtenRep  "NOI " .
+
+<http://restaure.limsi.fr/2017/rdf#ANC.%20:%20%22%20Quand%20je%20penche%20%C3%A0%20chela,%20je%20devien%20so%20n%C3%A9yu%20%22%20(Fl,%20H,%201654)%20(=%20sot,%20na%C3%AFf).>
+        ontolex:writtenRep  "ANC. : \" Quand je penche à chela, je devien so néyu \" (Fl, H, 1654) (= sot, naïf)." .
+
+<http://restaure.limsi.fr/2017/rdf#lf_NAI%20>
+        ontolex:writtenRep  "NAI " .
+
+restaure:le14PicardVersFrançais_44
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Jou%20qu'%20t%C3%A9%20cros%20qu'%20nous%20n'%20d'allons%20nin%20juer%20?%20%22> , <http://restaure.limsi.fr/2017/rdf#%22%20Nin,%20n'%20fais%20pas%20cha%20!%20%22%20> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#1%20-%20non%20(GT).%20%22%20Nin,%20n'%20fais%20pas%20cha%20!%20%22%202%20-%20pas,%20particule%20n%C3%A9g.%20de%20renforcement%20(chez%20GF%20:%20contamination%20due%20%C3%A0%20ses%20attaches%20sambriennes).%20%22%20Jou%20qu'%20t%C3%A9%20cros%20qu'%20nous%20n'%20d'allons%20nin%20juer%20?%20%22> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#2%20-%20pas,%20particule%20n%C3%A9g.%20de%20renforcement%20(chez%20GF%20:%20contamination%20due%20%C3%A0%20ses%20attaches%20sambriennes).%20> , <http://restaure.limsi.fr/2017/rdf#1%20-%20non%20(GT).%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_NIN .
+
+<http://restaure.limsi.fr/2017/rdf#1%20-%20petits%20cubes%20de%20p%C3%A2te%20cuits%20%C3%A0%20m%C3%AAme%20la%20plaque%20du%20po%C3%AAle.%202%20-%20minuscule%20biscuit%20sec%20orn%C3%A9%20d'une%20goutte%20de%20sucre%20color%C3%A9.%20%22%20Et%20les%20nic-nacs%20in%20forme%20d'%20lettres,%20/%20G%C3%A2teaux%20%C3%A0%20pein'%20si%20gros%20qu'un%20d%C3%A9%20%22%20(JM)%20(sp%C3%A9cialit%C3%A9%20belge).>
+        ontolex:writtenRep  "1 - petits cubes de pâte cuits à même la plaque du poêle. 2 - minuscule biscuit sec orné d'une goutte de sucre coloré. \" Et les nic-nacs in forme d' lettres, / Gâteaux à pein' si gros qu'un dé \" (JM) (spécialité belge)." .
+
+restaure:le14PicardVersFrançais_9
+        lexinfo:partOfSpeech           lexinfo:Verb ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Ej%20t%C3%A9%20d%C3%A9feinds%20d'eintrer%20dins%20l'iau%20avant%20qu%C3%A9%20t'%20saches%20nanger%20!%20%22%20(FP).> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#nager.%20%22%20Ej%20t%C3%A9%20d%C3%A9feinds%20d'eintrer%20dins%20l'iau%20avant%20qu%C3%A9%20t'%20saches%20nanger%20!%20%22%20(FP).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#nager.%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_NANGER .
+
+<http://restaure.limsi.fr/2017/rdf#nettoyeur.>
+        ontolex:writtenRep  "nettoyeur." .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Les%20bell%C3%A9s%20neu%C3%A9es%20i%20sont%20in%20route%20%22%20(GD)%20=%20il%20fait%20beau,%20le%20temps%20incite%20%C3%A0%20la%20promenade.>
+        ontolex:writtenRep  "\" Les bellés neuées i sont in route \" (GD) = il fait beau, le temps incite à la promenade." .
+
+<http://restaure.limsi.fr/2017/rdf#1%20-%20petits%20cubes%20de%20p%C3%A2te%20cuits%20%C3%A0%20m%C3%AAme%20la%20plaque%20du%20po%C3%AAle.%20>
+        ontolex:writtenRep  "1 - petits cubes de pâte cuits à même la plaque du poêle. " .
+
+<http://restaure.limsi.fr/2017/rdf#na%C3%AFf,%20ahuri.%20>
+        ontolex:writtenRep  "naïf, ahuri. " .
+
+<http://restaure.limsi.fr/2017/rdf#3%20-%20flocon%20de%20poussi%C3%A8re%20sous%20un%20meuble,%20chaton,%20mouton.>
+        ontolex:writtenRep  "3 - flocon de poussière sous un meuble, chaton, mouton." .
+
+<http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20no).>
+        ontolex:writtenRep  ": (voir : no)." .
+
+<http://restaure.limsi.fr/2017/rdf#ANC.%20:%20noise%20:%20querelle.>
+        ontolex:writtenRep  "ANC. : noise : querelle." .
+
+restaure:le14PicardVersFrançais_14
+        lexinfo:gender                 lexinfo:Masculine ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#m%C3%AAle-tout,%20qui%20ne%20trouve%20rien%20de%20bien%20%C3%A0%20ce%20que%20les%20autres%20font.> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#m%C3%AAle-tout,%20qui%20ne%20trouve%20rien%20de%20bien%20%C3%A0%20ce%20que%20les%20autres%20font.> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_Naqu(e)-tout> .
+
+restaure:lf_Neppier  ontolex:writtenRep
+                "Neppier" .
+
+restaure:le14PicardVersFrançais_86
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20no).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20no).> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_NOU%20> .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20All'%20risqu'%20d%C3%A9'%20s'%20r%C3%A9vernir%20in%20glichant%20d'sus%20l'%20noirglas%20%22%20(JM).%20>
+        ontolex:writtenRep  "\" All' risqu' dé' s' révernir in glichant d'sus l' noirglas \" (JM). " .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20A%20nul%20%C3%A2ge,%20cha%20feume%20d%C3%A9j%C3%A0%20des%20chigarettes%20!%20%22.%20>
+        ontolex:writtenRep  "\" A nul âge, cha feume déjà des chigarettes ! \". " .
+
+restaure:lf_Nasieux  ontolex:writtenRep
+                "Nasieux" .
+
+restaure:le14PicardVersFrançais_56
+        lexinfo:gender                 lexinfo:Masculine ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:TranslatableAsDef     restaure:No ;
+        restaure:TranslatableInFrench  restaure:No ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_NO%C3%89> .
+
+restaure:lf_Naquer  ontolex:writtenRep  "Naquer" .
+
+restaure:le14PicardVersFrançais_26
+        lexinfo:partOfSpeech           lexinfo:Verb ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Pou%20l'%20fin%20d%C3%A9%20%C3%A7'%20l'ann%C3%A9e%20chi,%20y%20z'aront%20netti%C3%A9%20tous%20les%20forts%20%22%20(JQ).%20> , <http://restaure.limsi.fr/2017/rdf#%22%20I%20les%20nettchi'%20(les%20pigeons),%20les%20norrit,%20les%20caresse%20%22%20(JM).%20> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#1%20-%20nettoyer.%20%22%20I%20les%20nettchi'%20(les%20pigeons),%20les%20norrit,%20les%20caresse%20%22%20(JM).%202%20-%20d%C3%A9molir,%20%C3%A9liminer.%20%22%20Pou%20l'%20fin%20d%C3%A9%20%C3%A7'%20l'ann%C3%A9e%20chi,%20y%20z'aront%20netti%C3%A9%20tous%20les%20forts%20%22%20(JQ).%20ANC.%20:%20neteier%20:%20nettoyer%20(Chr%C3%A9tien%20de%20Troyes,%201175),%20de%20net.> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#2%20-%20d%C3%A9molir,%20%C3%A9liminer.%20> , <http://restaure.limsi.fr/2017/rdf#1%20-%20nettoyer.%20> ;
+        restaure:oldInformation        <http://restaure.limsi.fr/2017/rdf#ANC.%20:%20neteier%20:%20nettoyer%20(Chr%C3%A9tien%20de%20Troyes,%201175),%20de%20net.ANC.%20:%20neteier%20:%20nettoyer%20(Chr%C3%A9tien%20de%20Troyes,%201175),%20de%20net.> ;
+        ontolex:lexicalForm            restaure:lf_NETTIER .
+
+<http://restaure.limsi.fr/2017/rdf#blouse%20de%20paysan,%20de%20hiche%20(devenu%20niche%20par%20liaison%20:%20eune-hiche).%20>
+        ontolex:writtenRep  "blouse de paysan, de hiche (devenu niche par liaison : eune-hiche). " .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Queu%20nouvelles%20?%20-%20I%20n'%20d'a%20pus,%20in%20raccommode%20des%20vielles%20!%20%22%20(RD).%20>
+        ontolex:writtenRep  "\" Queu nouvelles ? - I n' d'a pus, in raccommode des vielles ! \" (RD). " .
+
+<http://restaure.limsi.fr/2017/rdf#JD,%20RD,%20JM,%20PP,%20JQ%20;%20tien%20chez%20GH,%20JM,%20GT%20;%20thien%20(GF)%20;%20tiein%20(JQ)%20:%20la%20prononciation%20%C3%A9tant%20toujours%20tchin.%20Quien,%20chez%20EC,%20AH,%20RP,%20JM,%20FP%20avec%20une%20graphie%20kien%20chez%20EM.%20Expr.%20not%C3%A9es%20par%20GH%20:%20>
+        ontolex:writtenRep  "JD, RD, JM, PP, JQ ; tien chez GH, JM, GT ; thien (GF) ; tiein (JQ) : la prononciation étant toujours tchin. Quien, chez EC, AH, RP, JM, FP avec une graphie kien chez EM. Expr. notées par GH : " .
+
+<http://restaure.limsi.fr/2017/rdf#lf_Nom%20du%20p%C3%A8re%20>
+        ontolex:writtenRep  "Nom du père " .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Forche%20ed%20li%20in%20dire,%20/%20L'tiot%20ninoch'%20s'indort%20%22%20(JM).>
+        ontolex:writtenRep  "\" Forche ed li in dire, / L'tiot ninoch' s'indort \" (JM)." .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20J'ai%20essay%C3%A9%20d'espliquer%20qu'ein%20patois,%20ein%20nifiou%20ch'%20est%20ein%20qui%20avot%20toudi%20l'%20niflette%20%22%20(RD).%20>
+        ontolex:writtenRep  "\" J'ai essayé d'espliquer qu'ein patois, ein nifiou ch' est ein qui avot toudi l' niflette \" (RD). " .
+
+<http://restaure.limsi.fr/2017/rdf#JD,%20RD,%20JM,%20PP,%20JQ%20;%20tien%20chez%20GH,%20JM,%20GT%20;%20thien%20(GF)%20;%20tiein%20(JQ)%20:%20la%20prononciation%20%C3%A9tant%20toujours%20tchin.%20Quien,%20chez%20EC,%20AH,%20RP,%20JM,%20FP%20avec%20une%20graphie%20kien%20chez%20EM.%20Expr.%20not%C3%A9es%20par%20GH%20:%20%22%20Au%20soir,%20ch'est%20tous%20tiens%20courants%20;%20au%20matin,%20ch'est%20tout%20tiens%20couchants%20=%20couche-tard,%20l%C3%A8ve-tard.%20%22%20Un%20tien%20noir%20keurt%20aussi%20vite%20qu'un%20blanc%20%22%20:%20r%C3%A9ponse%20de%20quelqu'un%20%C3%A0%20qui%20on%20reproche%20d'%C3%AAtre%20sale.%20%22%20I%20fait%20comme%20les%20grands%20tiens,%20i%20pisse%20contr'%20l'%20mur%20%22,%20dit-on%20d'un%20enfant%20qui%20veut%20faire%20comme%20les%20grands.%20%22%20Qui%20vot%20l'%20tien%20vot%20l'%20ma%C3%AEtre%20%22%20=%20tel%20ma%C3%AEtre,%20tel%20valet.%20%22%20Mett'%20les%20quiens%20au%20beus%20%22%20(EC)%20=%20lancer%20une%20affaire,%20une%20discussion...,%20puis%20s'en%20d%C3%A9sint%C3%A9resser.%20%22%20Les%20quiens%20vont%20crier%20d'%20leus%20pattes%20%22%20(AH)%20=%20il%20fait%20une%20sacr%C3%A9e%20chaleur%20(au%20point%20que%20les%20chiens%20vont%20souffrir%20en%20posant%20leurs%20pattes%20sur%20le%20sol%20br%C3%BBlant).%20%22%20S'%20disputer%20pou%20un%20brin%20d'tchien%20%22%20=%20pour%20une%20chose%20sans%20importance.%20(Voir%20:%20cat,%20St%20Roch,%20sol%C3%A9.)>
+        ontolex:writtenRep  "JD, RD, JM, PP, JQ ; tien chez GH, JM, GT ; thien (GF) ; tiein (JQ) : la prononciation étant toujours tchin. Quien, chez EC, AH, RP, JM, FP avec une graphie kien chez EM. Expr. notées par GH : \" Au soir, ch'est tous tiens courants ; au matin, ch'est tout tiens couchants = couche-tard, lève-tard. \" Un tien noir keurt aussi vite qu'un blanc \" : réponse de quelqu'un à qui on reproche d'être sale. \" I fait comme les grands tiens, i pisse contr' l' mur \", dit-on d'un enfant qui veut faire comme les grands. \" Qui vot l' tien vot l' maître \" = tel maître, tel valet. \" Mett' les quiens au beus \" (EC) = lancer une affaire, une discussion..., puis s'en désintéresser. \" Les quiens vont crier d' leus pattes \" (AH) = il fait une sacrée chaleur (au point que les chiens vont souffrir en posant leurs pattes sur le sol brûlant). \" S' disputer pou un brin d'tchien \" = pour une chose sans importance. (Voir : cat, St Roch, solé.)" .
+
+restaure:le14PicardVersFrançais_98
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#:%20le%20mot%20appara%C3%AEt%20sous%20des%20formes> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#:%20le%20mot%20appara%C3%AEt%20sous%20des%20formes> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_Note%20> .
+
+<http://restaure.limsi.fr/2017/rdf#nageur.%20>
+        ontolex:writtenRep  "nageur. " .
+
+<http://restaure.limsi.fr/2017/rdf#lf_Naqu(e)-tout>
+        ontolex:writtenRep  "Naqu(e)-tout" .
+
+<http://restaure.limsi.fr/2017/rdf#ANC.%20:%20%22%20I%20n'dia%20eu%20toudi%20d'den%20no%20ville%20(Fl,%20F,%20XVIIe).>
+        ontolex:writtenRep  "ANC. : \" I n'dia eu toudi d'den no ville (Fl, F, XVIIe)." .
+
+<http://restaure.limsi.fr/2017/rdf#V'l%C3%A0%20l'%20noeud,%20dit%20l'%20so%C3%AFeux%20=%20voil%C3%A0%20la%20difficult%C3%A9.%20%22%20Mi,%20j'%20veux%20bin%20morir,%20mais,%20v'l%C3%A0%20l'%20noeud,%20dit%20l'%20soyeux,%20ej'%20veux%20pas%20m'ein%20aperchevoir%20%22%20(FP).%20Noeud%20d'%20panche%20:%20gras%20double.>
+        ontolex:writtenRep  "V'là l' noeud, dit l' soïeux = voilà la difficulté. \" Mi, j' veux bin morir, mais, v'là l' noeud, dit l' soyeux, ej' veux pas m'ein aperchevoir \" (FP). Noeud d' panche : gras double." .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20On%20a%20d'j%C3%A0%20obli%C3%A9%20l'%20noirchure%20/%20Des%20sombers%20jours%20%22%20(GF).>
+        ontolex:writtenRep  "\" On a d'jà oblié l' noirchure / Des sombers jours \" (GF)." .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Ej%20t%C3%A9%20d%C3%A9feinds%20d'eintrer%20dins%20l'iau%20avant%20qu%C3%A9%20t'%20saches%20nanger%20!%20%22%20(FP).>
+        ontolex:writtenRep  "\" Ej té défeinds d'eintrer dins l'iau avant qué t' saches nanger ! \" (FP)." .
+
+restaure:le14PicardVersFrançais_68
+        lexinfo:partOfSpeech           lexinfo:Adjective ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#,%20f%C3%A9m.%20de%20noir%20(voir%20:%20glaine).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#,%20f%C3%A9m.%20de%20noir%20(voir%20:%20glaine).> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_Noirte .
+
+<http://restaure.limsi.fr/2017/rdf#=%20mais%20non%20(opp.%20%C3%A0%20si%20fait%20=%20mais%20oui).%20%22%20Nous%20irons%20demander%20la%20caristade%20-%20Non%20fait%20!%20C'est%20un%20vilain%20m%C3%A9tier%20que%20de%20faire%20aboyer%20les%20chiens%20de%20ferme%20%22%20(CD).>
+        ontolex:writtenRep  "= mais non (opp. à si fait = mais oui). \" Nous irons demander la caristade - Non fait ! C'est un vilain métier que de faire aboyer les chiens de ferme \" (CD)." .
+
+<http://restaure.limsi.fr/2017/rdf#ANC.%20:%20nesple%20(XIIe)%20du%20lat.%20mespila%20(le%20n%20est%20d%C3%BB%20%C3%A0%20une%20dissim.)%20;%20nesplier%20:%20n%C3%A9flier%20(Roman%20de%20Renart,%201250).>
+        ontolex:writtenRep  "ANC. : nesple (XIIe) du lat. mespila (le n est dû à une dissim.) ; nesplier : néflier (Roman de Renart, 1250)." .
+
+<http://restaure.limsi.fr/2017/rdf#babioles,%20choses%20sans%20importance.%20%22%20Qu'est-%C3%A7'%20t'as%20l%C3%A0%20?%20-%20Ch'est%20des%20nonuches,%20du%20brin%20(ou%20:%20des%20machins)%20qu'in%20chuche%20%22%20(r%C3%A9ponse%20%C3%A0%20un%20curieux).%20Chez%20RD,%20nonuche,%20adj.%20=%20douillet.%20%22%20Mais%20qu'%20ch'est%20nonuche,%20les%20hommes%20!%20%22%20(Voir%20:%20nunu).>
+        ontolex:writtenRep  "babioles, choses sans importance. \" Qu'est-ç' t'as là ? - Ch'est des nonuches, du brin (ou : des machins) qu'in chuche \" (réponse à un curieux). Chez RD, nonuche, adj. = douillet. \" Mais qu' ch'est nonuche, les hommes ! \" (Voir : nunu)." .
+
+<http://restaure.limsi.fr/2017/rdf#flairer%20;%20chercher%20en%20flairant%20;%20se%20m%C3%AAler%20de%20tout.%20ANC.%20:%20naquer%20;%20flairer%20(XIIIe),%20peut-%C3%AAtre%20du%20lat.%20pop.%20nasicare,%20de%20nasus%20(nez).%20%22%20...%20un%20les%20v%C3%B4%20diminche%20et%20fiette%20/.../%20Toudi%20nacquez%20%C3%A0%20tous%20cottez%20%22%20(Fl,%20F,%20XVIIe).>
+        ontolex:writtenRep  "flairer ; chercher en flairant ; se mêler de tout. ANC. : naquer ; flairer (XIIIe), peut-être du lat. pop. nasicare, de nasus (nez). \" ... un les vô diminche et fiette /.../ Toudi nacquez à tous cottez \" (Fl, F, XVIIe)." .
+
+restaure:le14PicardVersFrançais_38
+        lexinfo:gender                 lexinfo:Masculine ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Et%20les%20nic-nacs%20in%20forme%20d'%20lettres,%20/%20G%C3%A2teaux%20%C3%A0%20pein'%20si%20gros%20qu'un%20d%C3%A9%20%22%20(JM)%20(sp%C3%A9cialit%C3%A9%20belge).> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#1%20-%20petits%20cubes%20de%20p%C3%A2te%20cuits%20%C3%A0%20m%C3%AAme%20la%20plaque%20du%20po%C3%AAle.%202%20-%20minuscule%20biscuit%20sec%20orn%C3%A9%20d'une%20goutte%20de%20sucre%20color%C3%A9.%20%22%20Et%20les%20nic-nacs%20in%20forme%20d'%20lettres,%20/%20G%C3%A2teaux%20%C3%A0%20pein'%20si%20gros%20qu'un%20d%C3%A9%20%22%20(JM)%20(sp%C3%A9cialit%C3%A9%20belge).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#2%20-%20minuscule%20biscuit%20sec%20orn%C3%A9%20d'une%20goutte%20de%20sucre%20color%C3%A9.%20> , <http://restaure.limsi.fr/2017/rdf#1%20-%20petits%20cubes%20de%20p%C3%A2te%20cuits%20%C3%A0%20m%C3%AAme%20la%20plaque%20du%20po%C3%AAle.%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_NIC-NAC .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Mais%20qu'%20ch'est%20nonuche,%20les%20hommes%20!%20%22%20(Voir%20:%20nunu).>
+        ontolex:writtenRep  "\" Mais qu' ch'est nonuche, les hommes ! \" (Voir : nunu)." .
+
+<http://restaure.limsi.fr/2017/rdf#nourriture.%20%22%20Un%20baudet%20qui%20fait%20%C3%A0%20s'%20ti%C3%AAte,%20ch'est%20l'%20d%C3%A9moti%C3%A9%20d'%20ses%20norritures%20%22%20dit-on%20des%20personnes%20t%C3%AAtues.%20ANC.%20:%20norreture%20(Lois%20de%20Guillaume%20le>
+        ontolex:writtenRep  "nourriture. \" Un baudet qui fait à s' tiête, ch'est l' démotié d' ses norritures \" dit-on des personnes têtues. ANC. : norreture (Lois de Guillaume le" .
+
+<http://restaure.limsi.fr/2017/rdf#bourdaine%20(arbrisseau).>
+        ontolex:writtenRep  "bourdaine (arbrisseau)." .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20i%20n'y%20a%20%22%20(%C3%A0%20ne%20pas%20confondre%20avec%20une%20n%C3%A9gation.%20>
+        ontolex:writtenRep  "\" i n'y a \" (à ne pas confondre avec une négation. " .
+
+<http://restaure.limsi.fr/2017/rdf#fignolage.%20%22%20Fais%20l'%20pus%20gros,%20hein%20!%20Point%20cor%20ed%20nunuteries%20!%20-%20Comme%20si%20j'avos%20l'%20temps%20d'%20nunuter%20!%20%22%20(RD).>
+        ontolex:writtenRep  "fignolage. \" Fais l' pus gros, hein ! Point cor ed nunuteries ! - Comme si j'avos l' temps d' nunuter ! \" (RD)." .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20El%20visain',%20Toutoull'%20Delpanate%20/%20In%20veyant%20cha%20n'%20d'%C3%A9tot%20malate%20%22%20(EM).%20>
+        ontolex:writtenRep  "\" El visain', Toutoull' Delpanate / In veyant cha n' d'étot malate \" (EM). " .
+
+restaure:lf_Nettiage  ontolex:writtenRep
+                "Nettiage" .
+
+<http://restaure.limsi.fr/2017/rdf#:%20sobriquet.%20%22%20Hinri%20du%20P%C3%AAqueux,%20cha%20tot%20in%20nom%20j't%C3%A9%20pasque%20i%20%C3%A9tot%20toudis%20%C3%A0%20l'p%C3%AAque%20%22%20(ALec).>
+        ontolex:writtenRep  ": sobriquet. \" Hinri du Pêqueux, cha tot in nom j'té pasque i étot toudis à l'pêque \" (ALec)." .
+
+<http://restaure.limsi.fr/2017/rdf#lf_Noir%20quart%20d'heure%20>
+        ontolex:writtenRep  "Noir quart d'heure " .
+
+<http://restaure.limsi.fr/2017/rdf#nouveau.>
+        ontolex:writtenRep  "nouveau." .
+
+restaure:le14PicardVersFrançais_4
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20El%20visain',%20Toutoull'%20Delpanate%20/%20In%20veyant%20cha%20n'%20d'%C3%A9tot%20malate%20%22%20(EM).%20> , <http://restaure.limsi.fr/2017/rdf#%22%20I%20n'%20d'y%20a%20un%20%22%20=%20il%20y%20en%20a%20un.%20> , <http://restaure.limsi.fr/2017/rdf#%22%20I%20n'%20d'%C3%A0%20un%20%22%20=%20il%20en%20a%20un.%20> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#aph%C3%A9r%C3%A8s%20de%20en,%20pr.%20pers.%20:%20%22%20I%20n'%20d'%C3%A0%20un%20%22%20=%20il%20en%20a%20un.%20%22%20I%20n'%20d'y%20a%20un%20%22%20=%20il%20y%20en%20a%20un.%20%22%20El%20visain',%20Toutoull'%20Delpanate%20/%20In%20veyant%20cha%20n'%20d'%C3%A9tot%20malate%20%22%20(EM).%20ANC.%20:%20%22%20I%20n'dia%20eu%20toudi%20d'den%20no%20ville%20(Fl,%20F,%20XVIIe).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#aph%C3%A9r%C3%A8s%20de%20en,%20pr.%20pers.%20:%20> ;
+        restaure:oldInformation        <http://restaure.limsi.fr/2017/rdf#ANC.%20:%20%22%20I%20n'dia%20eu%20toudi%20d'den%20no%20ville%20(Fl,%20F,%20XVIIe).> ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_N'> .
+
+<http://restaure.limsi.fr/2017/rdf#%C3%A0%20Val.,%2056,%20rue%20de%20Paris,%20l'h%C3%B4tel%20(class%C3%A9)%20du%20Greffier%20des%20Werps.%20ANC.%20:%20francique%20werpjan%20:%20guerpir,%20abandonner.%20Werp%20:%20cession,%20vente%20(Archives%20de%20Tournai,%201243).>
+        ontolex:writtenRep  "à Val., 56, rue de Paris, l'hôtel (classé) du Greffier des Werps. ANC. : francique werpjan : guerpir, abandonner. Werp : cession, vente (Archives de Tournai, 1243)." .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Ah%20!%20l'%20grand%20nifiou%20!%20Ah%20!%20l'%20grand%20salaud%20!%20%22%20(GF).>
+        ontolex:writtenRep  "\" Ah ! l' grand nifiou ! Ah ! l' grand salaud ! \" (GF)." .
+
+<http://restaure.limsi.fr/2017/rdf#:%20le%20mot%20appara%C3%AEt%20sous%20des%20formes>
+        ontolex:writtenRep  ": le mot apparaît sous des formes" .
+
+restaure:lf_Noirette  ontolex:writtenRep
+                "Noirette" .
+
+<http://restaure.limsi.fr/2017/rdf#2%20-%20petit%20enfant.%20>
+        ontolex:writtenRep  "2 - petit enfant. " .
+
+<http://restaure.limsi.fr/2017/rdf#lf_NASE%20(GH)>
+        ontolex:writtenRep  "NASE (GH)" .
+
+<http://restaure.limsi.fr/2017/rdf#ni%C3%A8ce.%20>
+        ontolex:writtenRep  "nièce. " .
+
+<http://restaure.limsi.fr/2017/rdf#obscurit%C3%A9.%20%22%20On%20a%20d'j%C3%A0%20obli%C3%A9%20l'%20noirchure%20/%20Des%20sombers%20jours%20%22%20(GF).>
+        ontolex:writtenRep  "obscurité. \" On a d'jà oblié l' noirchure / Des sombers jours \" (GF)." .
+
+restaure:le14PicardVersFrançais_81
+        lexinfo:gender                 lexinfo:Masculine ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#%C3%A9leveur%20de%20b%C3%A9tail.%20Patronyme%20:%20%C3%A9crit%20Nortier.%20ANC.%20:%20norrecier%20:%20celui%20qui%20%C3%A9l%C3%A8ve%20un%20enfant%20:%20%C3%A9leveur%20de%20b%C3%A9tail,%20de%20moutons%20en%20part.%20(Dialogue%20de%20St%20Gr%C3%A9goire,%20XIIe).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#%C3%A9leveur%20de%20b%C3%A9tail.%20Patronyme%20:%20%C3%A9crit%20Nortier.%20> ;
+        restaure:oldInformation        <http://restaure.limsi.fr/2017/rdf#ANC.%20:%20norrecier%20:%20celui%20qui%20%C3%A9l%C3%A8ve%20un%20enfant%20:%20%C3%A9leveur%20de%20b%C3%A9tail,%20de%20moutons%20en%20part.%20(Dialogue%20de%20St%20Gr%C3%A9goire,%20XIIe).> ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_Nor(re)tier> .
+
+<http://restaure.limsi.fr/2017/rdf#nicher%20l'%20po%C3%AAle%20(RD)%20:%20se%20blottir%20au%20coin%20du%20feu.%20>
+        ontolex:writtenRep  "nicher l' poêle (RD) : se blottir au coin du feu. " .
+
+<http://restaure.limsi.fr/2017/rdf#1%20-%20goutti%C3%A8re%20(de%20toit).%20Un%20cat%20d'%20noch%C3%A8re,%20>
+        ontolex:writtenRep  "1 - gouttière (de toit). Un cat d' nochère, " .
+
+restaure:le14PicardVersFrançais_51
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#non.%20ANC.%20:%20de%20l'all,%20nicht,%20nichts.%20Ce%20n'est%20pas%20un%20apport%20de%20l'occupation%20de%2014-18,%20puisque%20attest%C3%A9%20par%20GH%20(> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#non.%20> ;
+        restaure:oldInformation        <http://restaure.limsi.fr/2017/rdf#ANC.%20:%20de%20l'all,%20nicht,%20nichts.%20Ce%20n'est%20pas%20un%20apport%20de%20l'occupation%20de%2014-18,%20puisque%20attest%C3%A9%20par%20GH%20(> ;
+        ontolex:lexicalForm            restaure:lf_NIX .
+
+<http://restaure.limsi.fr/2017/rdf#A%20nul%20%C3%A2ge%20:%20tout%20jeune%20;%20avant%20l'%C3%A2ge%20pr%C3%A9vu%20pour%20faire%20telle%20ou%20telle%20chose.%20%22%20A%20nul%20%C3%A2ge,%20cha%20feume%20d%C3%A9j%C3%A0%20des%20chigarettes%20!%20%22.%20%22%20A%20nul%20%C3%A2che,%20chus%20qu'in%20m'disot%20:%20Attinds%20l'%20martinet%20!%20%22%20(PP)%20=%20quand%20j'%C3%A9tais%20petit.%20J'%20sus%20%C3%A0%20nul%20pas%20=%20j'ai%20des%20soucis,%20je%20ne%20sais%20o%C3%B9%20donner%20de%20la%20t%C3%AAte.%20%22%20Tiens,%20c'est%20toi%20?%20Mais%20il%20n'est%20nulle%20heure%20!%20%22%20(A.S.)%20=%20il%20est%20tr%C3%A8s%20t%C3%B4t.>
+        ontolex:writtenRep  "A nul âge : tout jeune ; avant l'âge prévu pour faire telle ou telle chose. \" A nul âge, cha feume déjà des chigarettes ! \". \" A nul âche, chus qu'in m'disot : Attinds l' martinet ! \" (PP) = quand j'étais petit. J' sus à nul pas = j'ai des soucis, je ne sais où donner de la tête. \" Tiens, c'est toi ? Mais il n'est nulle heure ! \" (A.S.) = il est très tôt." .
+
+<http://restaure.limsi.fr/2017/rdf#lf_NI%C3%88CHE>
+        ontolex:writtenRep  "NIÈCHE" .
+
+<http://restaure.limsi.fr/2017/rdf#nager.%20%22%20Ej%20t%C3%A9%20d%C3%A9feinds%20d'eintrer%20dins%20l'iau%20avant%20qu%C3%A9%20t'%20saches%20nanger%20!%20%22%20(FP).>
+        ontolex:writtenRep  "nager. \" Ej té défeinds d'eintrer dins l'iau avant qué t' saches nanger ! \" (FP)." .
+
+<http://restaure.limsi.fr/2017/rdf#lf_NATAUX%20>
+        ontolex:writtenRep  "NATAUX " .
+
+<http://restaure.limsi.fr/2017/rdf#ni%C3%A8ce.%20%22%20D'puis%20hier,%20j'%20cach'%20din%20tous%20les%20coins%20/%20M'%20ni%C3%A8che%20ed%20Paris%20%22%20(JM).>
+        ontolex:writtenRep  "nièce. \" D'puis hier, j' cach' din tous les coins / M' nièche ed Paris \" (JM)." .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Non,%20j%C3%A9%20n'%20brais%20point,%20j'arnif',%20ch'est%20parc'%20qu%C3%A9%20j'ai%20l'niflette%20%22%20(RP).%20>
+        ontolex:writtenRep  "\" Non, jé n' brais point, j'arnif', ch'est parc' qué j'ai l'niflette \" (RP). " .
+
+restaure:le14PicardVersFrançais_21
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20ni%C3%A9).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20ni%C3%A9).> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_N%C3%89%20> .
+
+<http://restaure.limsi.fr/2017/rdf#ANC.%20:%20norrecier%20:%20celui%20qui%20%C3%A9l%C3%A8ve%20un%20enfant%20:%20%C3%A9leveur%20de%20b%C3%A9tail,%20de%20moutons%20en%20part.%20(Dialogue%20de%20St%20Gr%C3%A9goire,%20XIIe).>
+        ontolex:writtenRep  "ANC. : norrecier : celui qui élève un enfant : éleveur de bétail, de moutons en part. (Dialogue de St Grégoire, XIIe)." .
+
+<http://restaure.limsi.fr/2017/rdf#lf_NACTIEUX%20>
+        ontolex:writtenRep  "NACTIEUX " .
+
+<http://restaure.limsi.fr/2017/rdf#lf_Naqu(e)tieux>
+        ontolex:writtenRep  "Naqu(e)tieux" .
+
+<http://restaure.limsi.fr/2017/rdf#nurpart,%20nurvart%20:%20nulle%20part.%20>
+        ontolex:writtenRep  "nurpart, nurvart : nulle part. " .
+
+restaure:le14PicardVersFrançais_93
+        lexinfo:partOfSpeech           lexinfo:Adjective ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Tiens,%20c'est%20toi%20?%20Mais%20il%20n'est%20nulle%20heure%20!%20%22%20(A.S.)%20=%20il%20est%20tr%C3%A8s%20t%C3%B4t.> , <http://restaure.limsi.fr/2017/rdf#%22%20A%20nul%20%C3%A2che,%20chus%20qu'in%20m'disot%20:%20Attinds%20l'%20martinet%20!%20%22%20(PP)%20=%20quand%20j'%C3%A9tais%20petit.%20J'%20sus%20%C3%A0%20nul%20pas%20=%20j'ai%20des%20soucis,%20je%20ne%20sais%20o%C3%B9%20donner%20de%20la%20t%C3%AAte.%20> , <http://restaure.limsi.fr/2017/rdf#%22%20A%20nul%20%C3%A2ge,%20cha%20feume%20d%C3%A9j%C3%A0%20des%20chigarettes%20!%20%22.%20> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#A%20nul%20%C3%A2ge%20:%20tout%20jeune%20;%20avant%20l'%C3%A2ge%20pr%C3%A9vu%20pour%20faire%20telle%20ou%20telle%20chose.%20%22%20A%20nul%20%C3%A2ge,%20cha%20feume%20d%C3%A9j%C3%A0%20des%20chigarettes%20!%20%22.%20%22%20A%20nul%20%C3%A2che,%20chus%20qu'in%20m'disot%20:%20Attinds%20l'%20martinet%20!%20%22%20(PP)%20=%20quand%20j'%C3%A9tais%20petit.%20J'%20sus%20%C3%A0%20nul%20pas%20=%20j'ai%20des%20soucis,%20je%20ne%20sais%20o%C3%B9%20donner%20de%20la%20t%C3%AAte.%20%22%20Tiens,%20c'est%20toi%20?%20Mais%20il%20n'est%20nulle%20heure%20!%20%22%20(A.S.)%20=%20il%20est%20tr%C3%A8s%20t%C3%B4t.> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#A%20nul%20%C3%A2ge%20:%20tout%20jeune%20;%20avant%20l'%C3%A2ge%20pr%C3%A9vu%20pour%20faire%20telle%20ou%20telle%20chose.%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_NUL .
+
+<http://restaure.limsi.fr/2017/rdf#1%20-%20nettoyer.%20%22%20I%20les%20nettchi'%20(les%20pigeons),%20les%20norrit,%20les%20caresse%20%22%20(JM).%202%20-%20d%C3%A9molir,%20%C3%A9liminer.%20%22%20Pou%20l'%20fin%20d%C3%A9%20%C3%A7'%20l'ann%C3%A9e%20chi,%20y%20z'aront%20netti%C3%A9%20tous%20les%20forts%20%22%20(JQ).%20ANC.%20:%20neteier%20:%20nettoyer%20(Chr%C3%A9tien%20de%20Troyes,%201175),%20de%20net.>
+        ontolex:writtenRep  "1 - nettoyer. \" I les nettchi' (les pigeons), les norrit, les caresse \" (JM). 2 - démolir, éliminer. \" Pou l' fin dé ç' l'année chi, y z'aront nettié tous les forts \" (JQ). ANC. : neteier : nettoyer (Chrétien de Troyes, 1175), de net." .
+
+<http://restaure.limsi.fr/2017/rdf#morveux.%20>
+        ontolex:writtenRep  "morveux. " .
+
+restaure:lf_Noirglache
+        ontolex:writtenRep  "Noirglache" .
+
+<http://restaure.limsi.fr/2017/rdf#2%20-%20nid%20pr%C3%A9par%C3%A9%20pour%20la%20ponte%20dans%20les%20poulaillers,%20les%20colombiers.%20>
+        ontolex:writtenRep  "2 - nid préparé pour la ponte dans les poulaillers, les colombiers. " .
+
+restaure:lf_NICHER  ontolex:writtenRep  "NICHER" .
+
+<http://restaure.limsi.fr/2017/rdf#ANC.%20:%20g%C3%A2teau%20de%20p%C3%A2te%20feuillet%C3%A9e.%20%22%20Ces%20escueles%20emplies%20et%20rases...%20de%20niueles%20et%20de%20obleies%20%22%20(Chanson%20de%20Guillaume,%20d%C3%A9but%20XIIIe).%20(Cf.%20la%20F%C3%AAte%20des%20Nieulles,%20%C3%A0%20Armenti%C3%A8res,%20au%20cours%20de%20laquelle%20on%20jette%20des%20biscuits%20%C3%A0%20la%20foule%20du%20haut%20de%20l'H%C3%B4tel%20de%20Ville.ANC.%20:%20g%C3%A2teau%20de%20p%C3%A2te%20feuillet%C3%A9e.%20%22%20Ces%20escueles%20emplies%20et%20rases...%20de%20niueles%20et%20de%20obleies%20%22%20(Chanson%20de%20Guillaume,%20d%C3%A9but%20XIIIe).%20(Cf.%20la%20F%C3%AAte%20des%20Nieulles,%20%C3%A0%20Armenti%C3%A8res,%20au%20cours%20de%20laquelle%20on%20jette%20des%20biscuits%20%C3%A0%20la%20foule%20du%20haut%20de%20l'H%C3%B4tel%20de%20Ville.>
+        ontolex:writtenRep  "ANC. : gâteau de pâte feuilletée. \" Ces escueles emplies et rases... de niueles et de obleies \" (Chanson de Guillaume, début XIIIe). (Cf. la Fête des Nieulles, à Armentières, au cours de laquelle on jette des biscuits à la foule du haut de l'Hôtel de Ville.ANC. : gâteau de pâte feuilletée. \" Ces escueles emplies et rases... de niueles et de obleies \" (Chanson de Guillaume, début XIIIe). (Cf. la Fête des Nieulles, à Armentières, au cours de laquelle on jette des biscuits à la foule du haut de l'Hôtel de Ville." .
+
+restaure:lf_Nettieux  ontolex:writtenRep
+                "Nettieux" .
+
+<http://restaure.limsi.fr/2017/rdf#nicher%20l'%20po%C3%AAle%20(RD)%20:%20se%20blottir%20au%20coin%20du%20feu.%20%22%20Quand%20i%20fait%20des%20frodures%20parelles,%20i%20preind%20ein%20life%20et%20i%20niche%20el%20po%C3%AAle%20%22.>
+        ontolex:writtenRep  "nicher l' poêle (RD) : se blottir au coin du feu. \" Quand i fait des frodures parelles, i preind ein life et i niche el poêle \"." .
+
+<http://restaure.limsi.fr/2017/rdf#:%20consonne%20euphonique.%201%20-%20entre%20l'adj.%20poss.%20et%20le%20nom%20commen%C3%A7ant%20par%20une%20voyelle.%20%22%20S%C3%BBr%20qui%20n'a%20pas%20vo%20n'%20instruction%20%22%20(JD).%20%22%20Ch'est%20leu%20n'%20amour%20qu'on%20dot%20invier%20su%20tierre%20%22%20(GF).%202%20-%20apr%C3%A8s%20l'adj.%20d%C3%A9m.%20:%20%22%20A%20%C3%A7'%20n'%20heure-chi%20%22.%203%20-%20dans%20la%20construction%20%22%20i%20n'y%20a%20%22%20(%C3%A0%20ne%20pas%20confondre%20avec%20une%20n%C3%A9gation.%20%22%20I%20n'y-a%20du%20chuque%20au%20bout%20%22%20=%20il%20y%20a%20du%20sucre...%20ANC.%20:%20%22%20Y%20n'y%20a%20boco%20d'%20lieu%20d%C3%A9zonnette%20%22%20(Fl,%20F,%20XVIIe).>
+        ontolex:writtenRep  ": consonne euphonique. 1 - entre l'adj. poss. et le nom commençant par une voyelle. \" Sûr qui n'a pas vo n' instruction \" (JD). \" Ch'est leu n' amour qu'on dot invier su tierre \" (GF). 2 - après l'adj. dém. : \" A ç' n' heure-chi \". 3 - dans la construction \" i n'y a \" (à ne pas confondre avec une négation. \" I n'y-a du chuque au bout \" = il y a du sucre... ANC. : \" Y n'y a boco d' lieu dézonnette \" (Fl, F, XVIIe)." .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Nin,%20n'%20fais%20pas%20cha%20!%20%22%20>
+        ontolex:writtenRep  "\" Nin, n' fais pas cha ! \" " .
+
+<http://restaure.limsi.fr/2017/rdf#1%20-%20minutieux,%20t%C3%A2tillon.%20>
+        ontolex:writtenRep  "1 - minutieux, tâtillon. " .
+
+restaure:le14PicardVersFrançais_63
+        lexinfo:gender                 lexinfo:Masculine ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Il%20est%20foutu%20pou%20pissier%20du%20noirglache%20dins%20l'%20canicule%20%22%20(GH)%20=%20c'est%20un%20homme%20tr%C3%A8s%20froid.> , <http://restaure.limsi.fr/2017/rdf#%22%20All'%20risqu'%20d%C3%A9'%20s'%20r%C3%A9vernir%20in%20glichant%20d'sus%20l'%20noirglas%20%22%20(JM).%20> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#,%20noirglas,%20s.%20m.,%20noirte-glache,%20s.%20f.%20:%20verglas%20:%20%22%20All'%20risqu'%20d%C3%A9'%20s'%20r%C3%A9vernir%20in%20glichant%20d'sus%20l'%20noirglas%20%22%20(JM).%20%22%20Il%20est%20foutu%20pou%20pissier%20du%20noirglache%20dins%20l'%20canicule%20%22%20(GH)%20=%20c'est%20un%20homme%20tr%C3%A8s%20froid.> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#,%20noirglas,%20s.%20m.,%20noirte-glache,%20s.%20f.%20:%20verglas%20:%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_Noirglache .
+
+restaure:lf_NO  ontolex:writtenRep  "NO" .
+
+restaure:lf_NONOTTE  ontolex:writtenRep
+                "NONOTTE" .
+
+<http://restaure.limsi.fr/2017/rdf#lf_NI%C3%89>
+        ontolex:writtenRep  "NIÉ" .
+
+restaure:le14PicardVersFrançais_33
+        lexinfo:gender              lexinfo:Masculine ;
+        lexinfo:partOfSpeech        lexinfo:Noun ;
+        restaure:TranslatableAsDef  <http://restaure.limsi.fr/2017/rdf#%22%20I%20met%20toudis%20sin%20nez%20d%C3%BB%20l'%20cat%20qu'i%20n'%20vorot%20pos%20mett'%20es'%20patte%20%22%20(GL)%20=%20il%20se%20m%C3%AAle%20de%20tout.> ;
+        restaure:oldInformation     restaure: ;
+        ontolex:lexicalForm         restaure:lf_NEZ .
+
+<http://restaure.limsi.fr/2017/rdf#1%20-%20entre%20l'adj.%20poss.%20et%20le%20nom%20commen%C3%A7ant%20par%20une%20voyelle.%20>
+        ontolex:writtenRep  "1 - entre l'adj. poss. et le nom commençant par une voyelle. " .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20I%20met%20toudis%20sin%20nez%20d%C3%BB%20l'%20cat%20qu'i%20n'%20vorot%20pos%20mett'%20es'%20patte%20%22%20(GL)%20=%20il%20se%20m%C3%AAle%20de%20tout.>
+        ontolex:writtenRep  "\" I met toudis sin nez dû l' cat qu'i n' vorot pos mett' es' patte \" (GL) = il se mêle de tout." .
+
+<http://restaure.limsi.fr/2017/rdf#2%20-%20vaurien,%20homme%20peu%20sympathique%20(voir%20:%20bafiou).%20>
+        ontolex:writtenRep  "2 - vaurien, homme peu sympathique (voir : bafiou). " .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20L'%20tirloteux%20cri'%20dins%20s'%20noch%C3%A8re%20(=%20porte-voix)%20/%20V'l%C3%A0%20l'%20gros%20lot%20!%20%22%20(JM).%20>
+        ontolex:writtenRep  "\" L' tirloteux cri' dins s' nochère (= porte-voix) / V'là l' gros lot ! \" (JM). " .
+
+<http://restaure.limsi.fr/2017/rdf#aph%C3%A9r%C3%A8s%20de%20en,%20pr.%20pers.%20:%20>
+        ontolex:writtenRep  "aphérès de en, pr. pers. : " .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20A%20chaqu'%20fos%20qu'in%20sort%20d%C3%A9%20s'%20baraqu',%20/%20In%20s'artrouve%20%C3%A0%20moti%C3%A9%20no%C3%AF%C3%A9%20%22%20(PM).%20>
+        ontolex:writtenRep  "\" A chaqu' fos qu'in sort dé s' baraqu', / In s'artrouve à motié noïé \" (PM). " .
+
+restaure:le14PicardVersFrançais_75
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Nous%20irons%20demander%20la%20caristade%20-%20Non%20fait%20!%20C'est%20un%20vilain%20m%C3%A9tier%20que%20de%20faire%20aboyer%20les%20chiens%20de%20ferme%20%22%20(CD).> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#=%20mais%20non%20(opp.%20%C3%A0%20si%20fait%20=%20mais%20oui).%20%22%20Nous%20irons%20demander%20la%20caristade%20-%20Non%20fait%20!%20C'est%20un%20vilain%20m%C3%A9tier%20que%20de%20faire%20aboyer%20les%20chiens%20de%20ferme%20%22%20(CD).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#=%20mais%20non%20(opp.%20%C3%A0%20si%20fait%20=%20mais%20oui).%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_Non%20fait%20> .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Il%20avot%20arlo%C3%AF%C3%A9%20Charlotte%20/%20In%20faisant%20%C3%A0%20s'%20maison%20ein'%20neuvaine%20ed%20ribotte%20%22%20(PB).>
+        ontolex:writtenRep  "\" Il avot arloïé Charlotte / In faisant à s' maison ein' neuvaine ed ribotte \" (PB)." .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20In%20n'est%20noirchi%20qu'%20par%20un%20noir%20pot%20%22%20=%20on%20n'est%20calomni%C3%A9%20que%20par%20de%20mauvaises%20gens.>
+        ontolex:writtenRep  "\" In n'est noirchi qu' par un noir pot \" = on n'est calomnié que par de mauvaises gens." .
+
+<http://restaure.limsi.fr/2017/rdf#lf_Noir-z'yeux>
+        ontolex:writtenRep  "Noir-z'yeux" .
+
+<http://restaure.limsi.fr/2017/rdf#noiraud%20;%20n%C3%A8gre.%20>
+        ontolex:writtenRep  "noiraud ; nègre. " .
+
+restaure:le14PicardVersFrançais_45
+        lexinfo:gender                 lexinfo:Female ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Dodo,%20Ninette,%20/%20Racachez%20Babette.%20/%20Babette%20all'%20n'est%20point%20ichi,%20/%20Alle%20est%20d'all%C3%A9e%20%C3%A0%20no%20courtil%20/%20Ramasser%20des%20poms%20pourris.%20Pou%20ti%C3%A8ce%20?%20/%20Ch'est%20pou%20l'infant%20qui%20dort%20ichi%20%22%20(vieille%20berceuse).> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#petite%20fille.%20%22%20Dodo,%20Ninette,%20/%20Racachez%20Babette.%20/%20Babette%20all'%20n'est%20point%20ichi,%20/%20Alle%20est%20d'all%C3%A9e%20%C3%A0%20no%20courtil%20/%20Ramasser%20des%20poms%20pourris.%20Pou%20ti%C3%A8ce%20?%20/%20Ch'est%20pou%20l'infant%20qui%20dort%20ichi%20%22%20(vieille%20berceuse).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#petite%20fille.%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_NINETTE .
+
+<http://restaure.limsi.fr/2017/rdf#ANC.%20:%20lat.%20navis%20:%20vaisseau.>
+        ontolex:writtenRep  "ANC. : lat. navis : vaisseau." .
+
+<http://restaure.limsi.fr/2017/rdf#lf_N%C3%89%20>
+        ontolex:writtenRep  "NÉ " .
+
+<http://restaure.limsi.fr/2017/rdf#nourrir.%20%22%20T%C3%A2cher%20d'%20gangner%20leu's%20croutes%20/%20Pou%20norrir%20tous%20ches%20tiots%20%22%20(GF).%20ANC.%20:%20norir%20(Vie%20de%20St%20L%C3%A9ger,%20Xe)%20du%20lat.%20nutrire.>
+        ontolex:writtenRep  "nourrir. \" Tâcher d' gangner leu's croutes / Pou norrir tous ches tiots \" (GF). ANC. : norir (Vie de St Léger, Xe) du lat. nutrire." .
+
+<http://restaure.limsi.fr/2017/rdf#Un%20tien%20noir%20keurt%20aussi%20vite%20qu'un%20blanc%20>
+        ontolex:writtenRep  "Un tien noir keurt aussi vite qu'un blanc " .
+
+restaure:le14PicardVersFrançais_15
+        lexinfo:gender                 lexinfo:Female ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#morve.> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#morve.> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_NASE%20(GH)> .
+
+restaure:le14PicardVersFrançais_87
+        lexinfo:gender                 lexinfo:Masculine ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Bonjour,%20petit%20p%C3%A8re%20!%20-%20Bonjour,%20em'%20p%C3%A9tiot%20nounou%20!%20%22%20(JM).%20> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#1%20-%20chat%20(lang.%20enf.).%20(Voir%20:%20minou).%202%20-%20terme%20d'affection.%20%22%20Bonjour,%20petit%20p%C3%A8re%20!%20-%20Bonjour,%20em'%20p%C3%A9tiot%20nounou%20!%20%22%20(JM).%203%20-%20flocon%20de%20poussi%C3%A8re%20sous%20un%20meuble,%20chaton,%20mouton.> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#3%20-%20flocon%20de%20poussi%C3%A8re%20sous%20un%20meuble,%20chaton,%20mouton.> , <http://restaure.limsi.fr/2017/rdf#2%20-%20terme%20d'affection.%20> , <http://restaure.limsi.fr/2017/rdf#1%20-%20chat%20(lang.%20enf.).%20(Voir%20:%20minou).%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_*%20NOUNOU> .
+
+<http://restaure.limsi.fr/2017/rdf#lf_Nous%20avons%20relev%C3%A9%20tchien%20chez%20PB>
+        ontolex:writtenRep  "Nous avons relevé tchien chez PB" .
+
+<http://restaure.limsi.fr/2017/rdf#L'orig.%20doit%20%C3%AAtre%20:%20Nom%20des%20os%20!%20(du%20Christ).%20Autres%20jurons%20courants%20:%20Nom%20d%C3%A9%20nom%20!%20ou,%20avec%20une%20d%C3%A9form.%20du%20mot%20Dieu%20:%20Nom%20d%C3%A9%20Diu%20!%20de%20Diou%20!%20d%C3%A9%20Dious'%20!>
+        ontolex:writtenRep  "L'orig. doit être : Nom des os ! (du Christ). Autres jurons courants : Nom dé nom ! ou, avec une déform. du mot Dieu : Nom dé Diu ! de Diou ! dé Dious' !" .
+
+<http://restaure.limsi.fr/2017/rdf#nager.%20>
+        ontolex:writtenRep  "nager. " .
+
+<http://restaure.limsi.fr/2017/rdf#noisetier.>
+        ontolex:writtenRep  "noisetier." .
+
+restaure:lf_Noiroux  ontolex:writtenRep
+                "Noiroux" .
+
+<http://restaure.limsi.fr/2017/rdf#%C3%A9l%C3%A9ment%20de%20plusieurs%20jurons.%20Vingt%20noms%20!%20nom%20d%C3%A9%20cul%20!%20Plus%20fr%C3%A9quent%20:%20Nom%20d%C3%A9%20Zo%20!%20(attest%C3%A9%20chez%20JQ,%20FP,%20EM,%20JM,%20RPL,%20PM,%20etc.,%20avec%20diverses%20graphies).%20>
+        ontolex:writtenRep  "élément de plusieurs jurons. Vingt noms ! nom dé cul ! Plus fréquent : Nom dé Zo ! (attesté chez JQ, FP, EM, JM, RPL, PM, etc., avec diverses graphies). " .
+
+restaure:le14PicardVersFrançais_57
+        lexinfo:gender                 lexinfo:Masculine ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Mi,%20j'%20veux%20bin%20morir,%20mais,%20v'l%C3%A0%20l'%20noeud,%20dit%20l'%20soyeux,%20ej'%20veux%20pas%20m'ein%20aperchevoir%20%22%20(FP).%20> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#V'l%C3%A0%20l'%20noeud,%20dit%20l'%20so%C3%AFeux%20=%20voil%C3%A0%20la%20difficult%C3%A9.%20%22%20Mi,%20j'%20veux%20bin%20morir,%20mais,%20v'l%C3%A0%20l'%20noeud,%20dit%20l'%20soyeux,%20ej'%20veux%20pas%20m'ein%20aperchevoir%20%22%20(FP).%20Noeud%20d'%20panche%20:%20gras%20double.> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#Noeud%20d'%20panche%20:%20gras%20double.> , <http://restaure.limsi.fr/2017/rdf#V'l%C3%A0%20l'%20noeud,%20dit%20l'%20so%C3%AFeux%20=%20voil%C3%A0%20la%20difficult%C3%A9.%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_NOEUD .
+
+<http://restaure.limsi.fr/2017/rdf#non.%20>
+        ontolex:writtenRep  "non. " .
+
+restaure:lf_Nichot  ontolex:writtenRep  "Nichot" .
+
+<http://restaure.limsi.fr/2017/rdf#ANC.%20:%20nestiage%20est%20attest%C3%A9%20en%20Normandie%20en%201420.>
+        ontolex:writtenRep  "ANC. : nestiage est attesté en Normandie en 1420." .
+
+<http://restaure.limsi.fr/2017/rdf#I%20fait%20comme%20les%20grands%20tiens,%20i%20pisse%20contr'%20l'%20mur%20>
+        ontolex:writtenRep  "I fait comme les grands tiens, i pisse contr' l' mur " .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Ch'est%20leu%20n'%20amour%20qu'on%20dot%20invier%20su%20tierre%20%22%20(GF).%20>
+        ontolex:writtenRep  "\" Ch'est leu n' amour qu'on dot invier su tierre \" (GF). " .
+
+restaure:le14PicardVersFrançais_27
+        lexinfo:gender                 lexinfo:Masculine ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Du%20grand%20nettiach'%20du%20sam'di,%20/%20Les%20cahut's%20sont%20bin%20r'luisantes%20%22%20(JM).%20> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#nettoyage.%20%22%20Du%20grand%20nettiach'%20du%20sam'di,%20/%20Les%20cahut's%20sont%20bin%20r'luisantes%20%22%20(JM).%20ANC.%20:%20nestiage%20est%20attest%C3%A9%20en%20Normandie%20en%201420.> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#nettoyage.%20> ;
+        restaure:oldInformation        <http://restaure.limsi.fr/2017/rdf#ANC.%20:%20nestiage%20est%20attest%C3%A9%20en%20Normandie%20en%201420.> ;
+        ontolex:lexicalForm            restaure:lf_Nettiage .
+
+restaure:lf_NEZ  ontolex:writtenRep  "NEZ" .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Les%20bl%C3%A9s%20d'alentour%20m%C3%BBrs%20avant%20que%20la%20nit%C3%A9e%20/%20Se%20trouv%C3%A2t%20assez%20forte%20encore%20%22%20(La%20Fontaine,%20qui%20%C3%A9tait%20un%20Picard%20du%20Sud).%20>
+        ontolex:writtenRep  "\" Les blés d'alentour mûrs avant que la nitée / Se trouvât assez forte encore \" (La Fontaine, qui était un Picard du Sud). " .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20A%20%C3%A7'%20n'%20heure-chi%20%22.%20>
+        ontolex:writtenRep  "\" A ç' n' heure-chi \". " .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Bonjour,%20petit%20p%C3%A8re%20!%20-%20Bonjour,%20em'%20p%C3%A9tiot%20nounou%20!%20%22%20(JM).%20>
+        ontolex:writtenRep  "\" Bonjour, petit père ! - Bonjour, em' pétiot nounou ! \" (JM). " .
+
+restaure:le14PicardVersFrançais_99
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20:%20r%C3%A9ponse%20de%20quelqu'un%20%C3%A0%20qui%20on%20reproche%20d'%C3%AAtre%20sale.%20%22%20> , <http://restaure.limsi.fr/2017/rdf#%22%20Au%20soir,%20ch'est%20tous%20tiens%20courants%20;%20au%20matin,%20ch'est%20tout%20tiens%20couchants%20=%20couche-tard,%20l%C3%A8ve-tard.%20%22%20> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#JD,%20RD,%20JM,%20PP,%20JQ%20;%20tien%20chez%20GH,%20JM,%20GT%20;%20thien%20(GF)%20;%20tiein%20(JQ)%20:%20la%20prononciation%20%C3%A9tant%20toujours%20tchin.%20Quien,%20chez%20EC,%20AH,%20RP,%20JM,%20FP%20avec%20une%20graphie%20kien%20chez%20EM.%20Expr.%20not%C3%A9es%20par%20GH%20:%20%22%20Au%20soir,%20ch'est%20tous%20tiens%20courants%20;%20au%20matin,%20ch'est%20tout%20tiens%20couchants%20=%20couche-tard,%20l%C3%A8ve-tard.%20%22%20Un%20tien%20noir%20keurt%20aussi%20vite%20qu'un%20blanc%20%22%20:%20r%C3%A9ponse%20de%20quelqu'un%20%C3%A0%20qui%20on%20reproche%20d'%C3%AAtre%20sale.%20%22%20I%20fait%20comme%20les%20grands%20tiens,%20i%20pisse%20contr'%20l'%20mur%20%22,%20dit-on%20d'un%20enfant%20qui%20veut%20faire%20comme%20les%20grands.%20%22%20Qui%20vot%20l'%20tien%20vot%20l'%20ma%C3%AEtre%20%22%20=%20tel%20ma%C3%AEtre,%20tel%20valet.%20%22%20Mett'%20les%20quiens%20au%20beus%20%22%20(EC)%20=%20lancer%20une%20affaire,%20une%20discussion...,%20puis%20s'en%20d%C3%A9sint%C3%A9resser.%20%22%20Les%20quiens%20vont%20crier%20d'%20leus%20pattes%20%22%20(AH)%20=%20il%20fait%20une%20sacr%C3%A9e%20chaleur%20(au%20point%20que%20les%20chiens%20vont%20souffrir%20en%20posant%20leurs%20pattes%20sur%20le%20sol%20br%C3%BBlant).%20%22%20S'%20disputer%20pou%20un%20brin%20d'tchien%20%22%20=%20pour%20une%20chose%20sans%20importance.%20(Voir%20:%20cat,%20St%20Roch,%20sol%C3%A9.)> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#I%20fait%20comme%20les%20grands%20tiens,%20i%20pisse%20contr'%20l'%20mur%20> , <http://restaure.limsi.fr/2017/rdf#Un%20tien%20noir%20keurt%20aussi%20vite%20qu'un%20blanc%20> , <http://restaure.limsi.fr/2017/rdf#JD,%20RD,%20JM,%20PP,%20JQ%20;%20tien%20chez%20GH,%20JM,%20GT%20;%20thien%20(GF)%20;%20tiein%20(JQ)%20:%20la%20prononciation%20%C3%A9tant%20toujours%20tchin.%20Quien,%20chez%20EC,%20AH,%20RP,%20JM,%20FP%20avec%20une%20graphie%20kien%20chez%20EM.%20Expr.%20not%C3%A9es%20par%20GH%20:%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_Nous%20avons%20relev%C3%A9%20tchien%20chez%20PB> .
+
+<http://restaure.limsi.fr/2017/rdf#lf_NOCH%C3%88RE>
+        ontolex:writtenRep  "NOCHÈRE" .
+
+restaure:lf_NONUCHES  ontolex:writtenRep
+                "NONUCHES" .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20A%20nul%20%C3%A2che,%20chus%20qu'in%20m'disot%20:%20Attinds%20l'%20martinet%20!%20%22%20(PP)%20=%20quand%20j'%C3%A9tais%20petit.%20J'%20sus%20%C3%A0%20nul%20pas%20=%20j'ai%20des%20soucis,%20je%20ne%20sais%20o%C3%B9%20donner%20de%20la%20t%C3%AAte.%20>
+        ontolex:writtenRep  "\" A nul âche, chus qu'in m'disot : Attinds l' martinet ! \" (PP) = quand j'étais petit. J' sus à nul pas = j'ai des soucis, je ne sais où donner de la tête. " .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Ton%20p%C3%A8re%20avait%20raison%20de%20dire%20que%20tu%20ne%20serais%20jamais%20qu'un%20ninoche%20%22%20(CD).%20>
+        ontolex:writtenRep  "\" Ton père avait raison de dire que tu ne serais jamais qu'un ninoche \" (CD). " .
+
+restaure:le14PicardVersFrançais_69
+        lexinfo:gender                 lexinfo:Female ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Si%20vieux%20qu'all'%20s%C3%A9%20perd%20dins%20l'%20noirt%C3%A9%20des%20temps%20%22%20(EM).> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#obscurit%C3%A9,%20nuit.%20%22%20Si%20vieux%20qu'all'%20s%C3%A9%20perd%20dins%20l'%20noirt%C3%A9%20des%20temps%20%22%20(EM).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#obscurit%C3%A9,%20nuit.%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_Noirt%C3%A9> .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Tiens,%20c'est%20toi%20?%20Mais%20il%20n'est%20nulle%20heure%20!%20%22%20(A.S.)%20=%20il%20est%20tr%C3%A8s%20t%C3%B4t.>
+        ontolex:writtenRep  "\" Tiens, c'est toi ? Mais il n'est nulle heure ! \" (A.S.) = il est très tôt." .
+
+<http://restaure.limsi.fr/2017/rdf#1%20-%20hostie%20non%20consacr%C3%A9e%20;%20pain%20%C3%A0%20cacheter%20(GH)%20;%20>
+        ontolex:writtenRep  "1 - hostie non consacrée ; pain à cacheter (GH) ; " .
+
+<http://restaure.limsi.fr/2017/rdf#noircir.%20>
+        ontolex:writtenRep  "noircir. " .
+
+restaure:lf_NONANTE  ontolex:writtenRep
+                "NONANTE" .
+
+restaure:le14PicardVersFrançais_39
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#%20de%20n%C3%A9g.%20;%20appartient%20%C3%A0%20l'Aves-> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#%20de%20n%C3%A9g.%20;%20appartient%20%C3%A0%20l'Aves-> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_NI%C3%89> .
+
+<http://restaure.limsi.fr/2017/rdf#ANC.%20:%20neteier%20:%20nettoyer%20(Chr%C3%A9tien%20de%20Troyes,%201175),%20de%20net.ANC.%20:%20neteier%20:%20nettoyer%20(Chr%C3%A9tien%20de%20Troyes,%201175),%20de%20net.>
+        ontolex:writtenRep  "ANC. : neteier : nettoyer (Chrétien de Troyes, 1175), de net.ANC. : neteier : nettoyer (Chrétien de Troyes, 1175), de net." .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20A%20brair',%20nou%20temps%20est%20perdu%20%22%20(JQ).>
+        ontolex:writtenRep  "\" A brair', nou temps est perdu \" (JQ)." .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Et%20les%20nic-nacs%20in%20forme%20d'%20lettres,%20/%20G%C3%A2teaux%20%C3%A0%20pein'%20si%20gros%20qu'un%20d%C3%A9%20%22%20(JM)%20(sp%C3%A9cialit%C3%A9%20belge).>
+        ontolex:writtenRep  "\" Et les nic-nacs in forme d' lettres, / Gâteaux à pein' si gros qu'un dé \" (JM) (spécialité belge)." .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20D'puis%20hier,%20j'%20cach'%20din%20tous%20les%20coins%20/%20M'%20ni%C3%A8che%20ed%20Paris%20%22%20(JM).>
+        ontolex:writtenRep  "\" D'puis hier, j' cach' din tous les coins / M' nièche ed Paris \" (JM)." .
+
+<http://restaure.limsi.fr/2017/rdf#lf_NOISEUX%20(GH)>
+        ontolex:writtenRep  "NOISEUX (GH)" .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Bonne%20nuit%20d'%20carpintier,%20l'%20qu%C3%A9ville%20au%20tro%20%22%20(GH)%20:%20sens%20%C3%A9rot.>
+        ontolex:writtenRep  "\" Bonne nuit d' carpintier, l' quéville au tro \" (GH) : sens érot." .
+
+restaure:le14PicardVersFrançais_70
+        lexinfo:partOfSpeech           lexinfo:Adjective ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#querelleur.%20ANC.%20:%20noise%20:%20querelle.> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#querelleur.%20> ;
+        restaure:oldInformation        <http://restaure.limsi.fr/2017/rdf#ANC.%20:%20noise%20:%20querelle.> ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_NOISEUX%20(GH)> .
+
+<http://restaure.limsi.fr/2017/rdf#lf_NO%C3%8FER>
+        ontolex:writtenRep  "NOÏER" .
+
+<http://restaure.limsi.fr/2017/rdf#m%C3%AAle-tout,%20qui%20ne%20trouve%20rien%20de%20bien%20%C3%A0%20ce%20que%20les%20autres%20font.>
+        ontolex:writtenRep  "mêle-tout, qui ne trouve rien de bien à ce que les autres font." .
+
+<http://restaure.limsi.fr/2017/rdf#morve%20(humeur%20nasale).%20>
+        ontolex:writtenRep  "morve (humeur nasale). " .
+
+<http://restaure.limsi.fr/2017/rdf#aph%C3%A9r%C3%A8s%20de%20en,%20pr.%20pers.%20:%20%22%20I%20n'%20d'%C3%A0%20un%20%22%20=%20il%20en%20a%20un.%20%22%20I%20n'%20d'y%20a%20un%20%22%20=%20il%20y%20en%20a%20un.%20%22%20El%20visain',%20Toutoull'%20Delpanate%20/%20In%20veyant%20cha%20n'%20d'%C3%A9tot%20malate%20%22%20(EM).%20ANC.%20:%20%22%20I%20n'dia%20eu%20toudi%20d'den%20no%20ville%20(Fl,%20F,%20XVIIe).>
+        ontolex:writtenRep  "aphérès de en, pr. pers. : \" I n' d'à un \" = il en a un. \" I n' d'y a un \" = il y en a un. \" El visain', Toutoull' Delpanate / In veyant cha n' d'étot malate \" (EM). ANC. : \" I n'dia eu toudi d'den no ville (Fl, F, XVIIe)." .
+
+restaure:le14PicardVersFrançais_40
+        lexinfo:gender                 lexinfo:Female ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20D'puis%20hier,%20j'%20cach'%20din%20tous%20les%20coins%20/%20M'%20ni%C3%A8che%20ed%20Paris%20%22%20(JM).> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#ni%C3%A8ce.%20%22%20D'puis%20hier,%20j'%20cach'%20din%20tous%20les%20coins%20/%20M'%20ni%C3%A8che%20ed%20Paris%20%22%20(JM).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#ni%C3%A8ce.%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_NI%C3%88CHE> .
+
+restaure:le14PicardVersFrançais_5
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20S%C3%BBr%20qui%20n'a%20pas%20vo%20n'%20instruction%20%22%20(JD).%20> , <http://restaure.limsi.fr/2017/rdf#%22%20I%20n'y-a%20du%20chuque%20au%20bout%20%22%20=%20il%20y%20a%20du%20sucre...%20> , <http://restaure.limsi.fr/2017/rdf#%22%20A%20%C3%A7'%20n'%20heure-chi%20%22.%20> , <http://restaure.limsi.fr/2017/rdf#%22%20i%20n'y%20a%20%22%20(%C3%A0%20ne%20pas%20confondre%20avec%20une%20n%C3%A9gation.%20> , <http://restaure.limsi.fr/2017/rdf#%22%20Ch'est%20leu%20n'%20amour%20qu'on%20dot%20invier%20su%20tierre%20%22%20(GF).%20> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#:%20consonne%20euphonique.%201%20-%20entre%20l'adj.%20poss.%20et%20le%20nom%20commen%C3%A7ant%20par%20une%20voyelle.%20%22%20S%C3%BBr%20qui%20n'a%20pas%20vo%20n'%20instruction%20%22%20(JD).%20%22%20Ch'est%20leu%20n'%20amour%20qu'on%20dot%20invier%20su%20tierre%20%22%20(GF).%202%20-%20apr%C3%A8s%20l'adj.%20d%C3%A9m.%20:%20%22%20A%20%C3%A7'%20n'%20heure-chi%20%22.%203%20-%20dans%20la%20construction%20%22%20i%20n'y%20a%20%22%20(%C3%A0%20ne%20pas%20confondre%20avec%20une%20n%C3%A9gation.%20%22%20I%20n'y-a%20du%20chuque%20au%20bout%20%22%20=%20il%20y%20a%20du%20sucre...%20ANC.%20:%20%22%20Y%20n'y%20a%20boco%20d'%20lieu%20d%C3%A9zonnette%20%22%20(Fl,%20F,%20XVIIe).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#1%20-%20entre%20l'adj.%20poss.%20et%20le%20nom%20commen%C3%A7ant%20par%20une%20voyelle.%20> , <http://restaure.limsi.fr/2017/rdf#3%20-%20dans%20la%20construction%20> , <http://restaure.limsi.fr/2017/rdf#:%20consonne%20euphonique.%20> , <http://restaure.limsi.fr/2017/rdf#2%20-%20apr%C3%A8s%20l'adj.%20d%C3%A9m.%20:%20> ;
+        restaure:oldInformation        <http://restaure.limsi.fr/2017/rdf#ANC.%20:%20%22%20Y%20n'y%20a%20boco%20d'%20lieu%20d%C3%A9zonnette%20%22%20(Fl,%20F,%20XVIIe).ANC.%20:%20%22%20Y%20n'y%20a%20boco%20d'%20lieu%20d%C3%A9zonnette%20%22%20(Fl,%20F,%20XVIIe).ANC.%20:%20%22%20Y%20n'y%20a%20boco%20d'%20lieu%20d%C3%A9zonnette%20%22%20(Fl,%20F,%20XVIIe).ANC.%20:%20%22%20Y%20n'y%20a%20boco%20d'%20lieu%20d%C3%A9zonnette%20%22%20(Fl,%20F,%20XVIIe).> ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_N'%20> .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Alle%20a%20croqu%C3%A9%20s'%20nosette%20%22%20(GH)%20=%20elle%20a%20perdu%20son%20pucelage.>
+        ontolex:writtenRep  "\" Alle a croqué s' nosette \" (GH) = elle a perdu son pucelage." .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Un%20baudet%20qui%20fait%20%C3%A0%20s'%20ti%C3%AAte,%20ch'est%20l'%20d%C3%A9moti%C3%A9%20d'%20ses%20norritures%20%22%20>
+        ontolex:writtenRep  "\" Un baudet qui fait à s' tiête, ch'est l' démotié d' ses norritures \" " .
+
+restaure:le14PicardVersFrançais_10
+        lexinfo:gender                 lexinfo:Masculine ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Les%20concurrents,%20binde%20ed%20fameux%20nangeux,%20/%20Fr%C3%A9till'nt%20tout%20nus%20comme%20eun'%20p%C3%AAqu%C3%A9'%20d'anguilles%20%22%20(JM).> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#nageur.%20%22%20Les%20concurrents,%20binde%20ed%20fameux%20nangeux,%20/%20Fr%C3%A9till'nt%20tout%20nus%20comme%20eun'%20p%C3%AAqu%C3%A9'%20d'anguilles%20%22%20(JM).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#nageur.%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_Nangeux .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Pou%20l'%20fin%20d%C3%A9%20%C3%A7'%20l'ann%C3%A9e%20chi,%20y%20z'aront%20netti%C3%A9%20tous%20les%20forts%20%22%20(JQ).%20>
+        ontolex:writtenRep  "\" Pou l' fin dé ç' l'année chi, y z'aront nettié tous les forts \" (JQ). " .
+
+restaure:lf_NUL  ontolex:writtenRep  "NUL" .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20J'%20l'approche.%20I%20m'%20d%C3%A9mand'%20:%20queu%20nouvelles%20?%20%22%20(JM)%20=%20comment%20allez-vous%20?%20>
+        ontolex:writtenRep  "\" J' l'approche. I m' démand' : queu nouvelles ? \" (JM) = comment allez-vous ? " .
+
+<http://restaure.limsi.fr/2017/rdf#lf_Norre%20(GH)>
+        ontolex:writtenRep  "Norre (GH)" .
+
+restaure:lf_NEPPE  ontolex:writtenRep  "NEPPE" .
+
+restaure:lf_NINOCHE  ontolex:writtenRep
+                "NINOCHE" .
+
+<http://restaure.limsi.fr/2017/rdf#nigeois,%20s.%20m.%20:%20nid,%20nichoir.%20%22%20Alle%20n'oblie%20l'%20nichot%20%C3%A0%20z'uefs%20%22%20(PP).>
+        ontolex:writtenRep  "nigeois, s. m. : nid, nichoir. \" Alle n'oblie l' nichot à z'uefs \" (PP)." .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Baptisant%20eun'%20nu%C3%A8ve%20amiti%C3%A9%20%22%20(JM).%20>
+        ontolex:writtenRep  "\" Baptisant eun' nuève amitié \" (JM). " .
+
+<http://restaure.limsi.fr/2017/rdf#:%20In%20va%20vir%20queu%20nouvelle%20!%20=%20vous%20aurez%20de%20mes%20nouvelles%20!%20(menace).%20%22%20J'%20l'approche.%20I%20m'%20d%C3%A9mand'%20:%20queu%20nouvelles%20?%20%22%20(JM)%20=%20comment%20allez-vous%20?%20%22%20Queu%20nouvelles%20?%20-%20I%20n'%20d'a%20pus,%20in%20raccommode%20des%20vielles%20!%20%22%20(RD).%20Eh%20ben%20!%20queu%20nouvelle%20!%20=%20voulez-vous%20rester%20tranquilles%20!%20(adress%C3%A9%20%C3%A0%20des%20enfants%20turbulents).>
+        ontolex:writtenRep  ": In va vir queu nouvelle ! = vous aurez de mes nouvelles ! (menace). \" J' l'approche. I m' démand' : queu nouvelles ? \" (JM) = comment allez-vous ? \" Queu nouvelles ? - I n' d'a pus, in raccommode des vielles ! \" (RD). Eh ben ! queu nouvelle ! = voulez-vous rester tranquilles ! (adressé à des enfants turbulents)." .
+
+<http://restaure.limsi.fr/2017/rdf#ANC.%20:%20nifler,%20d'orig.%20onomat.%20(Saint%20Gr%C3%A9goire,%20fin%20XIIe).%20A%20donn%C3%A9%20le%20fr.%20renifler%20en%201530.>
+        ontolex:writtenRep  "ANC. : nifler, d'orig. onomat. (Saint Grégoire, fin XIIe). A donné le fr. renifler en 1530." .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Du%20grand%20nettiach'%20du%20sam'di,%20/%20Les%20cahut's%20sont%20bin%20r'luisantes%20%22%20(JM).%20>
+        ontolex:writtenRep  "\" Du grand nettiach' du sam'di, / Les cahut's sont bin r'luisantes \" (JM). " .
+
+restaure:le14PicardVersFrançais_82
+        lexinfo:gender                 lexinfo:Female ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Un%20baudet%20qui%20fait%20%C3%A0%20s'%20ti%C3%AAte,%20ch'est%20l'%20d%C3%A9moti%C3%A9%20d'%20ses%20norritures%20%22%20> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#nourriture.%20%22%20Un%20baudet%20qui%20fait%20%C3%A0%20s'%20ti%C3%AAte,%20ch'est%20l'%20d%C3%A9moti%C3%A9%20d'%20ses%20norritures%20%22%20dit-on%20des%20personnes%20t%C3%AAtues.%20ANC.%20:%20norreture%20(Lois%20de%20Guillaume%20le> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#dit-on%20des%20personnes%20t%C3%AAtues.%20> , <http://restaure.limsi.fr/2017/rdf#nourriture.%20> ;
+        restaure:oldInformation        <http://restaure.limsi.fr/2017/rdf#ANC.%20:%20norreture%20(Lois%20de%20Guillaume%20le> ;
+        ontolex:lexicalForm            restaure:lf_Norriture .
+
+restaure:lf_NAVIAU  ontolex:writtenRep  "NAVIAU" .
+
+<http://restaure.limsi.fr/2017/rdf#noisette.%20>
+        ontolex:writtenRep  "noisette. " .
+
+restaure:le14PicardVersFrançais_52
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20A%20brair',%20nou%20temps%20est%20perdu%20%22%20(JQ).> , <http://restaure.limsi.fr/2017/rdf#%22%20I%20s'%20lass'rotent%20d'%20no%20nourriture,%20/%20D'%20no%20bi%C3%A8re%20et%20d'%20no%20vin%20trafiqu%C3%A9s%20%22%20(PB).%20> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#NOU,%20adj.%20poss.%20:%20notre,%20nos.%20%22%20I%20s'%20lass'rotent%20d'%20no%20nourriture,%20/%20D'%20no%20bi%C3%A8re%20et%20d'%20no%20vin%20trafiqu%C3%A9s%20%22%20(PB).%20%22%20A%20brair',%20nou%20temps%20est%20perdu%20%22%20(JQ).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#NOU,%20adj.%20poss.%20:%20notre,%20nos.%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_NO .
+
+<http://restaure.limsi.fr/2017/rdf#ANC.%20:%20noc%20:%20conduite%20d'eau%20(1220)%20;%20noche%20(1339),%20nockierete%20(1323)%20:%20goutti%C3%A8re.ANC.%20:%20noc%20:%20conduite%20d'eau%20(1220)%20;%20noche%20(1339),%20nockierete%20(1323)%20:%20goutti%C3%A8re.ANC.%20:%20noc%20:%20conduite%20d'eau%20(1220)%20;%20noche%20(1339),%20nockierete%20(1323)%20:%20goutti%C3%A8re.>
+        ontolex:writtenRep  "ANC. : noc : conduite d'eau (1220) ; noche (1339), nockierete (1323) : gouttière.ANC. : noc : conduite d'eau (1220) ; noche (1339), nockierete (1323) : gouttière.ANC. : noc : conduite d'eau (1220) ; noche (1339), nockierete (1323) : gouttière." .
+
+<http://restaure.limsi.fr/2017/rdf#%20et%20adj.%20:%201%20-%20innocent,%20simple%20d'esprit%20(un-innochint).%20%22%20Ton%20p%C3%A8re%20avait%20raison%20de%20dire%20que%20tu%20ne%20serais%20jamais%20qu'un%20ninoche%20%22%20(CD).%20%22%20All'%20les%20brissaute,%20in%20vraie%20ninoche%20%22%20(PB).%202%20-%20petit%20enfant.%20%22%20Forche%20ed%20li%20in%20dire,%20/%20L'tiot%20ninoch'%20s'indort%20%22%20(JM).>
+        ontolex:writtenRep  " et adj. : 1 - innocent, simple d'esprit (un-innochint). \" Ton père avait raison de dire que tu ne serais jamais qu'un ninoche \" (CD). \" All' les brissaute, in vraie ninoche \" (PB). 2 - petit enfant. \" Forche ed li in dire, / L'tiot ninoch' s'indort \" (JM)." .
+
+restaure:le14PicardVersFrançais_22
+        lexinfo:gender                 lexinfo:Female ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#cuvier%20rond,%20%C3%A9vas%C3%A9%20et%20plat%20o%C3%B9%20l'on%20savonnait%20les%20batistes%20dans%20les%20blanchisseries.%20ANC.%20:%20lat.%20navis%20:%20vaisseau.> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#cuvier%20rond,%20%C3%A9vas%C3%A9%20et%20plat%20o%C3%B9%20l'on%20savonnait%20les%20batistes%20dans%20les%20blanchisseries.%20> ;
+        restaure:oldInformation        <http://restaure.limsi.fr/2017/rdf#ANC.%20:%20lat.%20navis%20:%20vaisseau.> ;
+        ontolex:lexicalForm            restaure:lf_NEF .
+
+<http://restaure.limsi.fr/2017/rdf#2%20-%20gifle%20(BD).%20>
+        ontolex:writtenRep  "2 - gifle (BD). " .
+
+<http://restaure.limsi.fr/2017/rdf#lf_NIOCHE%20(EUNE)%20(GL)>
+        ontolex:writtenRep  "NIOCHE (EUNE) (GL)" .
+
+<http://restaure.limsi.fr/2017/rdf#2%20-%20vache%20au%20pelage%20plus%20noir%20que%20blanc.>
+        ontolex:writtenRep  "2 - vache au pelage plus noir que blanc." .
+
+<http://restaure.limsi.fr/2017/rdf#%20et%20adj.%20:%20>
+        ontolex:writtenRep  " et adj. : " .
+
+restaure:lf_NOIRCHIR  ontolex:writtenRep
+                "NOIRCHIR" .
+
+restaure:lf_Niflette  ontolex:writtenRep
+                "Niflette" .
+
+restaure:le14PicardVersFrançais_94
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Quante%20alle%20a%20eune%20id%C3%A9e%20dins%20s'%20ti%C3%AAte,%20alle%20l'a%20point%20nurpart%20%22%20(PP).> , <http://restaure.limsi.fr/2017/rdf#%22%20Je%20n'en%20ai%20trouv%C3%A9%20nulwart,%20nurvart%20si%20vous%20m'entendez%20mieux%20;%20quand%20je%20m'aparle,%20je%20dis%20nulle%20part%20%22%20(EM).%20> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#nurpart,%20nurvart%20:%20nulle%20part.%20%22%20Je%20n'en%20ai%20trouv%C3%A9%20nulwart,%20nurvart%20si%20vous%20m'entendez%20mieux%20;%20quand%20je%20m'aparle,%20je%20dis%20nulle%20part%20%22%20(EM).%20%22%20Quante%20alle%20a%20eune%20id%C3%A9e%20dins%20s'%20ti%C3%AAte,%20alle%20l'a%20point%20nurpart%20%22%20(PP).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#nurpart,%20nurvart%20:%20nulle%20part.%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_Nul(le)vart> .
+
+<http://restaure.limsi.fr/2017/rdf#1%20-%20navet.%20>
+        ontolex:writtenRep  "1 - navet. " .
+
+<http://restaure.limsi.fr/2017/rdf#:%20signe%20de%20la%20croix.%20>
+        ontolex:writtenRep  ": signe de la croix. " .
+
+<http://restaure.limsi.fr/2017/rdf#1%20-%20hostie%20non%20consacr%C3%A9e%20;%20pain%20%C3%A0%20cacheter%20(GH)%20;%202%20-%20gifle%20(BD).%20%22%20Il%20arot%20e%C3%BC,%20d'sus%20s'%20guife,%20l'%20pus%20belle%20nieule%20qui%20n'avot%20jamais%20e%C3%BCe%20d'sa%20vie%20%22.%20ANC.%20:%20g%C3%A2teau%20de%20p%C3%A2te%20feuillet%C3%A9e.%20%22%20Ces%20escueles%20emplies%20et%20rases...%20de%20niueles%20et%20de%20obleies%20%22%20(Chanson%20de%20Guillaume,%20d%C3%A9but%20XIIIe).%20(Cf.%20la%20F%C3%AAte%20des%20Nieulles,%20%C3%A0%20Armenti%C3%A8res,%20au%20cours%20de%20laquelle%20on%20jette%20des%20biscuits%20%C3%A0%20la%20foule%20du%20haut%20de%20l'H%C3%B4tel%20de%20Ville.>
+        ontolex:writtenRep  "1 - hostie non consacrée ; pain à cacheter (GH) ; 2 - gifle (BD). \" Il arot eü, d'sus s' guife, l' pus belle nieule qui n'avot jamais eüe d'sa vie \". ANC. : gâteau de pâte feuilletée. \" Ces escueles emplies et rases... de niueles et de obleies \" (Chanson de Guillaume, début XIIIe). (Cf. la Fête des Nieulles, à Armentières, au cours de laquelle on jette des biscuits à la foule du haut de l'Hôtel de Ville." .
+
+<http://restaure.limsi.fr/2017/rdf#2%20-%20enfants>
+        ontolex:writtenRep  "2 - enfants" .
+
+<http://restaure.limsi.fr/2017/rdf#g%C3%A9om%C3%A8tre%20du%20fond%20(mines).>
+        ontolex:writtenRep  "géomètre du fond (mines)." .
+
+restaure:le14PicardVersFrançais_64
+        lexinfo:gender                 lexinfo:Masculine ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Ces%20artiss's%20ont%20donn%C3%A9%20des%20saquois%20dign's%20d'un%20prince%20/%20Au%20noiroux%20d'%20carbonnier%20%22%20(JM).> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#noiraud%20;%20n%C3%A8gre.%20%22%20Ces%20artiss's%20ont%20donn%C3%A9%20des%20saquois%20dign's%20d'un%20prince%20/%20Au%20noiroux%20d'%20carbonnier%20%22%20(JM).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#noiraud%20;%20n%C3%A8gre.%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_Noiroux .
+
+restaure:lf_N  ontolex:writtenRep  "N" .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20J'%20vous%20d%C3%A9manderai%20d'%C3%AAt'%20minutieux,%20d'%C3%AAt'%20nunu,%20quoi%20!%20%22%20(RD).%20>
+        ontolex:writtenRep  "\" J' vous démanderai d'êt' minutieux, d'êt' nunu, quoi ! \" (RD). " .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Fais%20nanan%20%C3%A0%20m%C3%A8re,%20/%20Quand%20t'%20dors,%20t'es%20si%20biau%20!%20%22%20(JM).>
+        ontolex:writtenRep  "\" Fais nanan à mère, / Quand t' dors, t'es si biau ! \" (JM)." .
+
+<http://restaure.limsi.fr/2017/rdf#1%20-%20goutti%C3%A8re%20(de%20toit).%20Un%20cat%20d'%20noch%C3%A8re,%202%20-%20goutti%C3%A8re%20(chirurgicale).%20%22%20(Le%20Mar%C3%A9chal%20Villars)%20a%20toudis%20continu%C3%A9%20la%20guerre%20/%20S'%20gamb'%20maillot%C3%A9'%20dins%20eun'%20noch%C3%A8re%20%22%20(JM).%203%20-%20tuyau%20de%20descente%20d'eau%20pluviale%20;%20par%20extension%20:%20tout%20tuyau.%20%22%20L'%20tirloteux%20cri'%20dins%20s'%20noch%C3%A8re%20(=%20porte-voix)%20/%20V'l%C3%A0%20l'%20gros%20lot%20!%20%22%20(JM).%20ANC.%20:%20noc%20:%20conduite%20d'eau%20(1220)%20;%20noche%20(1339),%20nockierete%20(1323)%20:%20goutti%C3%A8re.>
+        ontolex:writtenRep  "1 - gouttière (de toit). Un cat d' nochère, 2 - gouttière (chirurgicale). \" (Le Maréchal Villars) a toudis continué la guerre / S' gamb' mailloté' dins eun' nochère \" (JM). 3 - tuyau de descente d'eau pluviale ; par extension : tout tuyau. \" L' tirloteux cri' dins s' nochère (= porte-voix) / V'là l' gros lot ! \" (JM). ANC. : noc : conduite d'eau (1220) ; noche (1339), nockierete (1323) : gouttière." .
+
+restaure:le14PicardVersFrançais_34
+        lexinfo:gender                 lexinfo:Female ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20On%20s'amuse%20%C3%A0%20d%C3%A9pioch'ter%20s'niche%20%22%20(AD).> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#blouse%20de%20paysan,%20de%20hiche%20(devenu%20niche%20par%20liaison%20:%20eune-hiche).%20%22%20On%20s'amuse%20%C3%A0%20d%C3%A9pioch'ter%20s'niche%20%22%20(AD).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#blouse%20de%20paysan,%20de%20hiche%20(devenu%20niche%20par%20liaison%20:%20eune-hiche).%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_NICHE .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Quaind%20l'%20solel%20pourpraint%20les%20neuaches%20%22%20(GF).>
+        ontolex:writtenRep  "\" Quaind l' solel pourpraint les neuaches \" (GF)." .
+
+<http://restaure.limsi.fr/2017/rdf#non.%20ANC.%20:%20de%20l'all,%20nicht,%20nichts.%20Ce%20n'est%20pas%20un%20apport%20de%20l'occupation%20de%2014-18,%20puisque%20attest%C3%A9%20par%20GH%20(>
+        ontolex:writtenRep  "non. ANC. : de l'all, nicht, nichts. Ce n'est pas un apport de l'occupation de 14-18, puisque attesté par GH (" .
+
+restaure:lf_Noirte  ontolex:writtenRep  "Noirte" .
+
+restaure:lf_NETTIER  ontolex:writtenRep
+                "NETTIER" .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Il%20arot%20e%C3%BC,%20d'sus%20s'%20guife,%20l'%20pus%20belle%20nieule%20qui%20n'avot%20jamais%20e%C3%BCe%20d'sa%20vie%20%22.%20>
+        ontolex:writtenRep  "\" Il arot eü, d'sus s' guife, l' pus belle nieule qui n'avot jamais eüe d'sa vie \". " .
+
+<http://restaure.limsi.fr/2017/rdf#:%20signe%20de%20la%20croix.%20%22%20Et%20sans%20m%C3%AAm'%20preinte%20l'%20temps%20d'%20faire%20un%20pauf'%20Nom%20du%20P%C3%A8re%20%22%20(PB).>
+        ontolex:writtenRep  ": signe de la croix. \" Et sans mêm' preinte l' temps d' faire un pauf' Nom du Père \" (PB)." .
+
+<http://restaure.limsi.fr/2017/rdf#ANC.%20:%20lat.%20nudus%20(nu).%20(Cf.%20nudit%C3%A9,%20nudisme,%20etc.).>
+        ontolex:writtenRep  "ANC. : lat. nudus (nu). (Cf. nudité, nudisme, etc.)." .
+
+restaure:lf_NUDE  ontolex:writtenRep  "NUDE" .
+
+<http://restaure.limsi.fr/2017/rdf#%20et%20adj.%20:%20qui%20fait%20le%20d%C3%A9go%C3%BBt%C3%A9%20devant%20la%20nourriture%20(qu'il%20flaire%20avec%20suspicion).%20>
+        ontolex:writtenRep  " et adj. : qui fait le dégoûté devant la nourriture (qu'il flaire avec suspicion). " .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Alle%20n'oblie%20l'%20nichot%20%C3%A0%20z'uefs%20%22%20(PP).>
+        ontolex:writtenRep  "\" Alle n'oblie l' nichot à z'uefs \" (PP)." .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Afin%20d'%20n%C3%A9yer%20ses%20peines%20%22%20(GF).%20>
+        ontolex:writtenRep  "\" Afin d' néyer ses peines \" (GF). " .
+
+restaure:No  ontolex:writtenRep  "No" .
+
+<http://restaure.limsi.fr/2017/rdf#faire%20eine%20neuvaine%20:%20faire%20la%20f%C3%AAte%20(%C3%A0%20boire)%20pendant%20plusieurs%20jours,%20sinon%20neuf.%20>
+        ontolex:writtenRep  "faire eine neuvaine : faire la fête (à boire) pendant plusieurs jours, sinon neuf. " .
+
+lime:Lexion  lime:entry  restaure:le14PicardVersFrançais_79 , restaure:le14PicardVersFrançais_74 , restaure:le14PicardVersFrançais_40 , restaure:le14PicardVersFrançais_3 , restaure:le14PicardVersFrançais_38 , restaure:le14PicardVersFrançais_83 , restaure:le14PicardVersFrançais_22 , restaure:le14PicardVersFrançais_35 , restaure:le14PicardVersFrançais_30 , restaure:le14PicardVersFrançais_98 , restaure:le14PicardVersFrançais_64 , restaure:le14PicardVersFrançais_46 , restaure:le14PicardVersFrançais_54 , restaure:le14PicardVersFrançais_28 , restaure:le14PicardVersFrançais_80 , restaure:le14PicardVersFrançais_8 , restaure:le14PicardVersFrançais_18 , restaure:le14PicardVersFrançais_49 , restaure:le14PicardVersFrançais_70 , restaure:le14PicardVersFrançais_20 , restaure:le14PicardVersFrançais_85 , restaure:le14PicardVersFrançais_10 , restaure:le14PicardVersFrançais_56 , restaure:le14PicardVersFrançais_41 , restaure:le14PicardVersFrançais_59 , restaure:le14PicardVersFrançais_94 , restaure:le14PicardVersFrançais_60 , restaure:le14PicardVersFrançais_95 , restaure:le14PicardVersFrançais_12 , restaure:le14PicardVersFrançais_77 , restaure:le14PicardVersFrançais_50 , restaure:le14PicardVersFrançais_65 , restaure:le14PicardVersFrançais_51 , restaure:le14PicardVersFrançais_4 , restaure:le14PicardVersFrançais_29 , restaure:le14PicardVersFrançais_15 , restaure:le14PicardVersFrançais_81 , restaure:le14PicardVersFrançais_9 , restaure:le14PicardVersFrançais_33 , restaure:le14PicardVersFrançais_36 , restaure:le14PicardVersFrançais_21 , restaure:le14PicardVersFrançais_67 , restaure:le14PicardVersFrançais_62 , restaure:le14PicardVersFrançais_75 , restaure:le14PicardVersFrançais_57 , restaure:le14PicardVersFrançais_26 , restaure:le14PicardVersFrançais_39 , restaure:le14PicardVersFrançais_6 , restaure:le14PicardVersFrançais_91 , restaure:le14PicardVersFrançais_23 , restaure:le14PicardVersFrançais_61 , restaure:le14PicardVersFrançais_31 , restaure:le14PicardVersFrançais_86 , restaure:le14PicardVersFrançais_13 , restaure:le14PicardVersFrançais_47 , restaure:le14PicardVersFrançais_42 , restaure:le14PicardVersFrançais_5 , restaure:le14PicardVersFrançais_88 , restaure:le14PicardVersFrançais_71 , restaure:le14PicardVersFrançais_96 , restaure:le14PicardVersFrançais_78 , restaure:le14PicardVersFrançais_44 , restaure:le14PicardVersFrançais_2 , restaure:le14PicardVersFrançais_52 , restaure:le14PicardVersFrançais_16 , restaure:le14PicardVersFrançais_82 , restaure:le14PicardVersFrançais_90 , restaure:le14PicardVersFrançais_34 , restaure:le14PicardVersFrançais_68 , restaure:le14PicardVersFrançais_73 , restaure:le14PicardVersFrançais_76 , restaure:le14PicardVersFrançais_58 , restaure:le14PicardVersFrançais_0 , restaure:le14PicardVersFrançais_37 , restaure:le14PicardVersFrançais_92 , restaure:le14PicardVersFrançais_24 , restaure:le14PicardVersFrançais_89 , restaure:le14PicardVersFrançais_32 , restaure:le14PicardVersFrançais_97 , restaure:le14PicardVersFrançais_63 , restaure:le14PicardVersFrançais_14 , restaure:le14PicardVersFrançais_45 , restaure:le14PicardVersFrançais_53 , restaure:le14PicardVersFrançais_27 , restaure:le14PicardVersFrançais_7 , restaure:le14PicardVersFrançais_17 , restaure:le14PicardVersFrançais_99 , restaure:le14PicardVersFrançais_72 , restaure:le14PicardVersFrançais_87 , restaure:le14PicardVersFrançais_100 , restaure:le14PicardVersFrançais_69 , restaure:le14PicardVersFrançais_55 , restaure:le14PicardVersFrançais_43 , restaure:le14PicardVersFrançais_1 , restaure:le14PicardVersFrançais_19 , restaure:le14PicardVersFrançais_48 , restaure:le14PicardVersFrançais_93 , restaure:le14PicardVersFrançais_25 , restaure:le14PicardVersFrançais_84 , restaure:le14PicardVersFrançais_11 , restaure:le14PicardVersFrançais_66 .
+
+restaure:lf_NIFIOU  ontolex:writtenRep  "NIFIOU" .
+
+<http://restaure.limsi.fr/2017/rdf#2%20-%20goutti%C3%A8re%20(chirurgicale).%20>
+        ontolex:writtenRep  "2 - gouttière (chirurgicale). " .
+
+restaure:le14PicardVersFrançais_76
+        lexinfo:partOfSpeech           lexinfo:Adjective ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#quatre-vingt-dix.%20(Voir%20:%20gram.).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#quatre-vingt-dix.%20(Voir%20:%20gram.).> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_NONANTE .
+
+restaure:le14PicardVersFrançais_0
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Jacques%20l'Boquion%20quanja%20d'baptist%C3%A8re.%20Un%20n%C3%A9%20l'connaissot%20pus%20qu'sous%20l'nom%20d'bert%C3%A8que%20d'Jacques%20el%20Cliqu%C3%A9%20%22%20(BD).> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#:%20sobriquet.%20%22%20Jacques%20l'Boquion%20quanja%20d'baptist%C3%A8re.%20Un%20n%C3%A9%20l'connaissot%20pus%20qu'sous%20l'nom%20d'bert%C3%A8que%20d'Jacques%20el%20Cliqu%C3%A9%20%22%20(BD).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#:%20sobriquet.%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_Nom%20d'bert%C3%A8que%20> .
+
+<http://restaure.limsi.fr/2017/rdf#%20de%20n%C3%A9g.%20B%C3%A9%20non%20non%20!%20(graphies%20:%20b%C3%A9%20nin%20nin%20!,%20b%C3%A9%20nan%20nan%20!)%20=%20mais%20non%20!%20>
+        ontolex:writtenRep  " de nég. Bé non non ! (graphies : bé nin nin !, bé nan nan !) = mais non ! " .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20I%20n'%20d'y%20a%20un%20%22%20=%20il%20y%20en%20a%20un.%20>
+        ontolex:writtenRep  "\" I n' d'y a un \" = il y en a un. " .
+
+<http://restaure.limsi.fr/2017/rdf#%C3%A9leveur%20de%20b%C3%A9tail.%20Patronyme%20:%20%C3%A9crit%20Nortier.%20>
+        ontolex:writtenRep  "éleveur de bétail. Patronyme : écrit Nortier. " .
+
+restaure:le14PicardVersFrançais_46
+        lexinfo:gender                 lexinfo:Masculine ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20All'%20les%20brissaute,%20in%20vraie%20ninoche%20%22%20(PB).%20> , <http://restaure.limsi.fr/2017/rdf#%22%20Forche%20ed%20li%20in%20dire,%20/%20L'tiot%20ninoch'%20s'indort%20%22%20(JM).> , <http://restaure.limsi.fr/2017/rdf#%22%20Ton%20p%C3%A8re%20avait%20raison%20de%20dire%20que%20tu%20ne%20serais%20jamais%20qu'un%20ninoche%20%22%20(CD).%20> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#%20et%20adj.%20:%201%20-%20innocent,%20simple%20d'esprit%20(un-innochint).%20%22%20Ton%20p%C3%A8re%20avait%20raison%20de%20dire%20que%20tu%20ne%20serais%20jamais%20qu'un%20ninoche%20%22%20(CD).%20%22%20All'%20les%20brissaute,%20in%20vraie%20ninoche%20%22%20(PB).%202%20-%20petit%20enfant.%20%22%20Forche%20ed%20li%20in%20dire,%20/%20L'tiot%20ninoch'%20s'indort%20%22%20(JM).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#%20et%20adj.%20:%20> , <http://restaure.limsi.fr/2017/rdf#2%20-%20petit%20enfant.%20> , <http://restaure.limsi.fr/2017/rdf#1%20-%20innocent,%20simple%20d'esprit%20(un-innochint).%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_NINOCHE .
+
+<http://restaure.limsi.fr/2017/rdf#:%20sobriquet.%20>
+        ontolex:writtenRep  ": sobriquet. " .
+
+<http://restaure.limsi.fr/2017/rdf#petite%20fille.%20%22%20Dodo,%20Ninette,%20/%20Racachez%20Babette.%20/%20Babette%20all'%20n'est%20point%20ichi,%20/%20Alle%20est%20d'all%C3%A9e%20%C3%A0%20no%20courtil%20/%20Ramasser%20des%20poms%20pourris.%20Pou%20ti%C3%A8ce%20?%20/%20Ch'est%20pou%20l'infant%20qui%20dort%20ichi%20%22%20(vieille%20berceuse).>
+        ontolex:writtenRep  "petite fille. \" Dodo, Ninette, / Racachez Babette. / Babette all' n'est point ichi, / Alle est d'allée à no courtil / Ramasser des poms pourris. Pou tièce ? / Ch'est pou l'infant qui dort ichi \" (vieille berceuse)." .
+
+<http://restaure.limsi.fr/2017/rdf#lf_Nor(re)tier>
+        ontolex:writtenRep  "Nor(re)tier" .
+
+<http://restaure.limsi.fr/2017/rdf#lf_Noir(e)-femme>
+        ontolex:writtenRep  "Noir(e)-femme" .
+
+restaure:le14PicardVersFrançais_16
+        lexinfo:partOfSpeech           lexinfo:Adjective ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#morveux.%20ANC.%20:%20lat.%20nasus%20:%20nez.%20Nasillier%20:%20se%20moucher,%20renifler%20(Gautier%20de%20Coincy,%201220).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#morveux.%20> ;
+        restaure:oldInformation        <http://restaure.limsi.fr/2017/rdf#ANC.%20:%20lat.%20nasus%20:%20nez.%20Nasillier%20:%20se%20moucher,%20renifler%20(Gautier%20de%20Coincy,%201220).> ;
+        ontolex:lexicalForm            restaure:lf_Nasieux .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Nous%20irons%20demander%20la%20caristade%20-%20Non%20fait%20!%20C'est%20un%20vilain%20m%C3%A9tier%20que%20de%20faire%20aboyer%20les%20chiens%20de%20ferme%20%22%20(CD).>
+        ontolex:writtenRep  "\" Nous irons demander la caristade - Non fait ! C'est un vilain métier que de faire aboyer les chiens de ferme \" (CD)." .
+
+<http://restaure.limsi.fr/2017/rdf#%20et%20adj.%20:%201%20-%20minutieux,%20t%C3%A2tillon.%20%22%20J'%20vous%20d%C3%A9manderai%20d'%C3%AAt'%20minutieux,%20d'%C3%AAt'%20nunu,%20quoi%20!%20%22%20(RD).%202%20-%20douillet.%20%22%20Vous%20savez%20qu'%20ch'est%20ein%20nunu%20!%20I%20crie%20d'j%C3%A0%20qu'i%20va%20morir%20!%20%22%20(RD).>
+        ontolex:writtenRep  " et adj. : 1 - minutieux, tâtillon. \" J' vous démanderai d'êt' minutieux, d'êt' nunu, quoi ! \" (RD). 2 - douillet. \" Vous savez qu' ch'est ein nunu ! I crie d'jà qu'i va morir ! \" (RD)." .
+
+restaure:lf_NICHETTE  ontolex:writtenRep
+                "NICHETTE" .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Jacques%20l'Boquion%20quanja%20d'baptist%C3%A8re.%20Un%20n%C3%A9%20l'connaissot%20pus%20qu'sous%20l'nom%20d'bert%C3%A8que%20d'Jacques%20el%20Cliqu%C3%A9%20%22%20(BD).>
+        ontolex:writtenRep  "\" Jacques l'Boquion quanja d'baptistère. Un né l'connaissot pus qu'sous l'nom d'bertèque d'Jacques el Cliqué \" (BD)." .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Ces%20artiss's%20ont%20donn%C3%A9%20des%20saquois%20dign's%20d'un%20prince%20/%20Au%20noiroux%20d'%20carbonnier%20%22%20(JM).>
+        ontolex:writtenRep  "\" Ces artiss's ont donné des saquois dign's d'un prince / Au noiroux d' carbonnier \" (JM)." .
+
+restaure:le14PicardVersFrançais_88
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Queu%20nouvelles%20?%20-%20I%20n'%20d'a%20pus,%20in%20raccommode%20des%20vielles%20!%20%22%20(RD).%20> , <http://restaure.limsi.fr/2017/rdf#%22%20J'%20l'approche.%20I%20m'%20d%C3%A9mand'%20:%20queu%20nouvelles%20?%20%22%20(JM)%20=%20comment%20allez-vous%20?%20> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#:%20In%20va%20vir%20queu%20nouvelle%20!%20=%20vous%20aurez%20de%20mes%20nouvelles%20!%20(menace).%20%22%20J'%20l'approche.%20I%20m'%20d%C3%A9mand'%20:%20queu%20nouvelles%20?%20%22%20(JM)%20=%20comment%20allez-vous%20?%20%22%20Queu%20nouvelles%20?%20-%20I%20n'%20d'a%20pus,%20in%20raccommode%20des%20vielles%20!%20%22%20(RD).%20Eh%20ben%20!%20queu%20nouvelle%20!%20=%20voulez-vous%20rester%20tranquilles%20!%20(adress%C3%A9%20%C3%A0%20des%20enfants%20turbulents).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#Eh%20ben%20!%20queu%20nouvelle%20!%20=%20voulez-vous%20rester%20tranquilles%20!%20(adress%C3%A9%20%C3%A0%20des%20enfants%20turbulents).> , <http://restaure.limsi.fr/2017/rdf#:%20In%20va%20vir%20queu%20nouvelle%20!%20=%20vous%20aurez%20de%20mes%20nouvelles%20!%20(menace).%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_NOUVELLE%20!%20(QUEU)%20> .
+
+<http://restaure.limsi.fr/2017/rdf#2%20-%20douillet.%20>
+        ontolex:writtenRep  "2 - douillet. " .
+
+restaure:le14PicardVersFrançais_58
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Afin%20d'%20n%C3%A9yer%20ses%20peines%20%22%20(GF).%20> , <http://restaure.limsi.fr/2017/rdf#%22%20A%20chaqu'%20fos%20qu'in%20sort%20d%C3%A9%20s'%20baraqu',%20/%20In%20s'artrouve%20%C3%A0%20moti%C3%A9%20no%C3%AF%C3%A9%20%22%20(PM).%20> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#NEYER,%20v.%20:%20noyer.%20%22%20A%20chaqu'%20fos%20qu'in%20sort%20d%C3%A9%20s'%20baraqu',%20/%20In%20s'artrouve%20%C3%A0%20moti%C3%A9%20no%C3%AF%C3%A9%20%22%20(PM).%20%22%20Afin%20d'%20n%C3%A9yer%20ses%20peines%20%22%20(GF).%20ANC.%20:%20nier,%20neier,%20noier%20(Herman%20de%20Val.,%20Xe).%20%22%20Il%20cuida%20neier%20en%20la%20mer%20%22%20(Florimont,%20XIIe).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#NEYER,%20v.%20:%20noyer.%20> ;
+        restaure:oldInformation        <http://restaure.limsi.fr/2017/rdf#ANC.%20:%20nier,%20neier,%20noier%20(Herman%20de%20Val.,%20Xe).%20%22%20Il%20cuida%20neier%20en%20la%20mer%20%22%20(Florimont,%20XIIe).> ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_NO%C3%8FER> .
+
+<http://restaure.limsi.fr/2017/rdf#petit%20somme,%20sieste.%20%22%20S'%20femm'%20n'a%20qu%C3%A9%20l'%20temps%20d'%20rascoute%20s'%20pipe%20/%20Qu'i%20laissot%20kaire%20in%20f'sant%20s'%20niquet%20%22%20(JM).%20%22%20Quand%20j'arai%20din%C3%A9,%20j'vas%20faire%20un%20tiot%20niqu%C3%A9%20%22%20(RD).%20ANC.%20:%20Faire%20le%20niquet%20:%20s'assoupir%20(God.),%20de%20niquier%20(Charles%20le%20Chauve,%201330)%20:%20remuer%20la%20t%C3%AAte.%20(Cf.%20all.%20nicken%20;%20incliner%20la%20t%C3%AAte%20;%20Nickerchen%20:%20petit%20somme).>
+        ontolex:writtenRep  "petit somme, sieste. \" S' femm' n'a qué l' temps d' rascoute s' pipe / Qu'i laissot kaire in f'sant s' niquet \" (JM). \" Quand j'arai diné, j'vas faire un tiot niqué \" (RD). ANC. : Faire le niquet : s'assoupir (God.), de niquier (Charles le Chauve, 1330) : remuer la tête. (Cf. all. nicken ; incliner la tête ; Nickerchen : petit somme)." .
+
+<http://restaure.limsi.fr/2017/rdf#s%20f.%20:%20vache%20qui%20nourrit%20son%20veau.>
+        ontolex:writtenRep  "s f. : vache qui nourrit son veau." .
+
+<http://restaure.limsi.fr/2017/rdf#querelleur.%20>
+        ontolex:writtenRep  "querelleur. " .
+
+restaure:le14PicardVersFrançais_28
+        lexinfo:gender                 lexinfo:Masculine ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#nettoyeur.> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#nettoyeur.> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_Nettieux .
+
+<http://restaure.limsi.fr/2017/rdf#lf_Nom%20j't%C3%A9%20>
+        ontolex:writtenRep  "Nom j'té " .
+
+restaure:lf_NUIT  ontolex:writtenRep  "NUIT" .
+
+<http://restaure.limsi.fr/2017/rdf#,%20f%C3%A9m.%20NU%C3%88VE%20(pron.%20nw%C3%A9,%20nwef)%20:%20neuf,%20neuve%20;%20nouveau,%20nouvelle.%20>
+        ontolex:writtenRep  ", fém. NUÈVE (pron. nwé, nwef) : neuf, neuve ; nouveau, nouvelle. " .
+
+<http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20naquetieux).>
+        ontolex:writtenRep  ": (voir : naquetieux)." .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20I%20n'y-a%20du%20chuque%20au%20bout%20%22%20=%20il%20y%20a%20du%20sucre...%20>
+        ontolex:writtenRep  "\" I n'y-a du chuque au bout \" = il y a du sucre... " .
+
+<http://restaure.limsi.fr/2017/rdf#faire%20eine%20neuvaine%20:%20faire%20la%20f%C3%AAte%20(%C3%A0%20boire)%20pendant%20plusieurs%20jours,%20sinon%20neuf.%20%22%20Il%20avot%20arlo%C3%AF%C3%A9%20Charlotte%20/%20In%20faisant%20%C3%A0%20s'%20maison%20ein'%20neuvaine%20ed%20ribotte%20%22%20(PB).>
+        ontolex:writtenRep  "faire eine neuvaine : faire la fête (à boire) pendant plusieurs jours, sinon neuf. \" Il avot arloïé Charlotte / In faisant à s' maison ein' neuvaine ed ribotte \" (PB)." .
+
+<http://restaure.limsi.fr/2017/rdf#1%20-%20morveux,%20qui%20a%20une%20niflette.%20>
+        ontolex:writtenRep  "1 - morveux, qui a une niflette. " .
+
+<http://restaure.limsi.fr/2017/rdf#2%20-%20d%C3%A9molir,%20%C3%A9liminer.%20>
+        ontolex:writtenRep  "2 - démolir, éliminer. " .
+
+<http://restaure.limsi.fr/2017/rdf#noisette.%20%22%20L'%20Bon%20Dieu%20invoe%20des%20nosettes%20%C3%A0%20cheux%20qui%20n'%20s%C3%A8tent%20point%20les%20croquer%20%22%20(GH)%20=%20les%20biens%20de%20ce%20monde%20sont%20mal%20r%C3%A9partis.%20%22%20Alle%20a%20croqu%C3%A9%20s'%20nosette%20%22%20(GH)%20=%20elle%20a%20perdu%20son%20pucelage.>
+        ontolex:writtenRep  "noisette. \" L' Bon Dieu invoe des nosettes à cheux qui n' sètent point les croquer \" (GH) = les biens de ce monde sont mal répartis. \" Alle a croqué s' nosette \" (GH) = elle a perdu son pucelage." .
+
+restaure:le14PicardVersFrançais_71
+        lexinfo:gender                 lexinfo:Masculine ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Sapr%C3%A9%20nom%20d%C3%A9%20zo%20d'%20blanc%20bonnet%20/%20T%C3%A9%20n'%20vas%20pas%20d'j%C3%A0%20t'%20mett'%20in%20foufielle%20!%20%22%20(PM).%20> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#%C3%A9l%C3%A9ment%20de%20plusieurs%20jurons.%20Vingt%20noms%20!%20nom%20d%C3%A9%20cul%20!%20Plus%20fr%C3%A9quent%20:%20Nom%20d%C3%A9%20Zo%20!%20(attest%C3%A9%20chez%20JQ,%20FP,%20EM,%20JM,%20RPL,%20PM,%20etc.,%20avec%20diverses%20graphies).%20%22%20Sapr%C3%A9%20nom%20d%C3%A9%20zo%20d'%20blanc%20bonnet%20/%20T%C3%A9%20n'%20vas%20pas%20d'j%C3%A0%20t'%20mett'%20in%20foufielle%20!%20%22%20(PM).%20L'orig.%20doit%20%C3%AAtre%20:%20Nom%20des%20os%20!%20(du%20Christ).%20Autres%20jurons%20courants%20:%20Nom%20d%C3%A9%20nom%20!%20ou,%20avec%20une%20d%C3%A9form.%20du%20mot%20Dieu%20:%20Nom%20d%C3%A9%20Diu%20!%20de%20Diou%20!%20d%C3%A9%20Dious'%20!> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#L'orig.%20doit%20%C3%AAtre%20:%20Nom%20des%20os%20!%20(du%20Christ).%20Autres%20jurons%20courants%20:%20Nom%20d%C3%A9%20nom%20!%20ou,%20avec%20une%20d%C3%A9form.%20du%20mot%20Dieu%20:%20Nom%20d%C3%A9%20Diu%20!%20de%20Diou%20!%20d%C3%A9%20Dious'%20!> , <http://restaure.limsi.fr/2017/rdf#%C3%A9l%C3%A9ment%20de%20plusieurs%20jurons.%20Vingt%20noms%20!%20nom%20d%C3%A9%20cul%20!%20Plus%20fr%C3%A9quent%20:%20Nom%20d%C3%A9%20Zo%20!%20(attest%C3%A9%20chez%20JQ,%20FP,%20EM,%20JM,%20RPL,%20PM,%20etc.,%20avec%20diverses%20graphies).%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_NOM .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20:%20r%C3%A9ponse%20de%20quelqu'un%20%C3%A0%20qui%20on%20reproche%20d'%C3%AAtre%20sale.%20%22%20>
+        ontolex:writtenRep  "\" : réponse de quelqu'un à qui on reproche d'être sale. \" " .
+
+<http://restaure.limsi.fr/2017/rdf#NAN.NAN%20(FAIRE)%20;%20(lang.%20enf.)%20:%20faire%20dodo.%20>
+        ontolex:writtenRep  "NAN.NAN (FAIRE) ; (lang. enf.) : faire dodo. " .
+
+<http://restaure.limsi.fr/2017/rdf#blouse%20de%20paysan,%20de%20hiche%20(devenu%20niche%20par%20liaison%20:%20eune-hiche).%20%22%20On%20s'amuse%20%C3%A0%20d%C3%A9pioch'ter%20s'niche%20%22%20(AD).>
+        ontolex:writtenRep  "blouse de paysan, de hiche (devenu niche par liaison : eune-hiche). \" On s'amuse à dépioch'ter s'niche \" (AD)." .
+
+restaure:le14PicardVersFrançais_41
+        lexinfo:gender                 lexinfo:Female ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Il%20arot%20e%C3%BC,%20d'sus%20s'%20guife,%20l'%20pus%20belle%20nieule%20qui%20n'avot%20jamais%20e%C3%BCe%20d'sa%20vie%20%22.%20> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#1%20-%20hostie%20non%20consacr%C3%A9e%20;%20pain%20%C3%A0%20cacheter%20(GH)%20;%202%20-%20gifle%20(BD).%20%22%20Il%20arot%20e%C3%BC,%20d'sus%20s'%20guife,%20l'%20pus%20belle%20nieule%20qui%20n'avot%20jamais%20e%C3%BCe%20d'sa%20vie%20%22.%20ANC.%20:%20g%C3%A2teau%20de%20p%C3%A2te%20feuillet%C3%A9e.%20%22%20Ces%20escueles%20emplies%20et%20rases...%20de%20niueles%20et%20de%20obleies%20%22%20(Chanson%20de%20Guillaume,%20d%C3%A9but%20XIIIe).%20(Cf.%20la%20F%C3%AAte%20des%20Nieulles,%20%C3%A0%20Armenti%C3%A8res,%20au%20cours%20de%20laquelle%20on%20jette%20des%20biscuits%20%C3%A0%20la%20foule%20du%20haut%20de%20l'H%C3%B4tel%20de%20Ville.> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#2%20-%20gifle%20(BD).%20> , <http://restaure.limsi.fr/2017/rdf#1%20-%20hostie%20non%20consacr%C3%A9e%20;%20pain%20%C3%A0%20cacheter%20(GH)%20;%20> ;
+        restaure:oldInformation        <http://restaure.limsi.fr/2017/rdf#ANC.%20:%20g%C3%A2teau%20de%20p%C3%A2te%20feuillet%C3%A9e.%20%22%20Ces%20escueles%20emplies%20et%20rases...%20de%20niueles%20et%20de%20obleies%20%22%20(Chanson%20de%20Guillaume,%20d%C3%A9but%20XIIIe).%20(Cf.%20la%20F%C3%AAte%20des%20Nieulles,%20%C3%A0%20Armenti%C3%A8res,%20au%20cours%20de%20laquelle%20on%20jette%20des%20biscuits%20%C3%A0%20la%20foule%20du%20haut%20de%20l'H%C3%B4tel%20de%20Ville.ANC.%20:%20g%C3%A2teau%20de%20p%C3%A2te%20feuillet%C3%A9e.%20%22%20Ces%20escueles%20emplies%20et%20rases...%20de%20niueles%20et%20de%20obleies%20%22%20(Chanson%20de%20Guillaume,%20d%C3%A9but%20XIIIe).%20(Cf.%20la%20F%C3%AAte%20des%20Nieulles,%20%C3%A0%20Armenti%C3%A8res,%20au%20cours%20de%20laquelle%20on%20jette%20des%20biscuits%20%C3%A0%20la%20foule%20du%20haut%20de%20l'H%C3%B4tel%20de%20Ville.> ;
+        ontolex:lexicalForm            restaure:lf_NIEULE .
+
+restaure:le14PicardVersFrançais_6
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20naquetieux).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20naquetieux).> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_NACTIEUX%20> .
+
+restaure:lf_NANGER  ontolex:writtenRep  "NANGER" .
+
+<http://restaure.limsi.fr/2017/rdf#ANC.%20:%20francique%20werpjan%20:%20guerpir,%20abandonner.%20Werp%20:%20cession,%20vente%20(Archives%20de%20Tournai,%201243).>
+        ontolex:writtenRep  "ANC. : francique werpjan : guerpir, abandonner. Werp : cession, vente (Archives de Tournai, 1243)." .
+
+<http://restaure.limsi.fr/2017/rdf#lf_NIV(E)LEUX>
+        ontolex:writtenRep  "NIV(E)LEUX" .
+
+restaure:le14PicardVersFrançais_11
+        lexinfo:gender                 lexinfo:Masculine ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Si%20ch'est%20cha%20t'%20vinaique%20!%20J'ai%20quand%20m%C3%AAme%20del%20naque%20!%20%22%20(PP).%20> , <http://restaure.limsi.fr/2017/rdf#%22%20S'nom%20n'est%20point%20in%20si%20bon%20naque%20%22.> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#%20ou%20f.%20:%201%20-%20odorat.%20%22%20Si%20ch'est%20cha%20t'%20vinaique%20!%20J'ai%20quand%20m%C3%AAme%20del%20naque%20!%20%22%20(PP).%202%20-%20r%C3%A9putation.%20%22%20S'nom%20n'est%20point%20in%20si%20bon%20naque%20%22.> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#2%20-%20r%C3%A9putation.%20> , <http://restaure.limsi.fr/2017/rdf#1%20-%20odorat.%20> , <http://restaure.limsi.fr/2017/rdf#%20ou%20f.%20:%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_NAQUE .
+
+<http://restaure.limsi.fr/2017/rdf#2%20-%20nez%20:%20>
+        ontolex:writtenRep  "2 - nez : " .
+
+<http://restaure.limsi.fr/2017/rdf#obscurit%C3%A9,%20nuit.%20>
+        ontolex:writtenRep  "obscurité, nuit. " .
+
+restaure:le14PicardVersFrançais_83
+        lexinfo:gender                 lexinfo:Female ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Alle%20a%20croqu%C3%A9%20s'%20nosette%20%22%20(GH)%20=%20elle%20a%20perdu%20son%20pucelage.> , <http://restaure.limsi.fr/2017/rdf#%22%20L'%20Bon%20Dieu%20invoe%20des%20nosettes%20%C3%A0%20cheux%20qui%20n'%20s%C3%A8tent%20point%20les%20croquer%20%22%20(GH)%20=%20les%20biens%20de%20ce%20monde%20sont%20mal%20r%C3%A9partis.%20> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#noisette.%20%22%20L'%20Bon%20Dieu%20invoe%20des%20nosettes%20%C3%A0%20cheux%20qui%20n'%20s%C3%A8tent%20point%20les%20croquer%20%22%20(GH)%20=%20les%20biens%20de%20ce%20monde%20sont%20mal%20r%C3%A9partis.%20%22%20Alle%20a%20croqu%C3%A9%20s'%20nosette%20%22%20(GH)%20=%20elle%20a%20perdu%20son%20pucelage.> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#noisette.%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_NOSETTE .
+
+<http://restaure.limsi.fr/2017/rdf#Noeud%20d'%20panche%20:%20gras%20double.>
+        ontolex:writtenRep  "Noeud d' panche : gras double." .
+
+<http://restaure.limsi.fr/2017/rdf#lf_NEYER%20>
+        ontolex:writtenRep  "NEYER " .
+
+<http://restaure.limsi.fr/2017/rdf#ANC.%20:%20naquer%20;%20flairer%20(XIIIe),%20peut-%C3%AAtre%20du%20lat.%20pop.%20nasicare,%20de%20nasus%20(nez).%20%22%20...%20un%20les%20v%C3%B4%20diminche%20et%20fiette%20/.../%20Toudi%20nacquez%20%C3%A0%20tous%20cottez%20%22%20(Fl,%20F,%20XVIIe).>
+        ontolex:writtenRep  "ANC. : naquer ; flairer (XIIIe), peut-être du lat. pop. nasicare, de nasus (nez). \" ... un les vô diminche et fiette /.../ Toudi nacquez à tous cottez \" (Fl, F, XVIIe)." .
+
+<http://restaure.limsi.fr/2017/rdf#n%C3%A8fle.%20>
+        ontolex:writtenRep  "nèfle. " .
+
+<http://restaure.limsi.fr/2017/rdf#morve.>
+        ontolex:writtenRep  "morve." .
+
+restaure:le14PicardVersFrançais_53
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20gueux).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20gueux).> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_NOBEL%20> .

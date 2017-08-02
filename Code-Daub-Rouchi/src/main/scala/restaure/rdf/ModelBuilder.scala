@@ -8,7 +8,7 @@ import org.apache.jena.rdf.model._
 import scala.xml.{Elem, NodeSeq}
 import fastparse.all._
 import org.apache.jena.util.URIref
-import restaure.rdf.Voc.uri
+import restaure.rdf.Voc._
 
 /**
   * URIref
@@ -25,10 +25,9 @@ class ModelBuilder(xml : Elem){
 
   val articles:NodeSeq = xml \ "ArticleDeDictionnaire"
   val UF = new UsefulFunction()
-  articles.zipWithIndex.foreach({case (a,i) => UF.RDFWriter(model,a,i)})/*
+  articles.zipWithIndex.foreach({case (a,i) => UF.RDFWriter(model,a,i)})
 
 
-*/
 
     def dumpModel(path: String): Unit = {
       val fw = new FileWriter(path)
@@ -36,6 +35,7 @@ class ModelBuilder(xml : Elem){
       model.setNsPrefix("ontolex", Voc.ontolex)
       model.setNsPrefix("lexinfo", Voc.lexinfo)
       model.setNsPrefix("vartrans", Voc.vartrans)
+      model.setNsPrefix("lime", Voc.LInguisticMEtadata)
       model.write(fw, "Turtle")
       fw.close()
     }
@@ -43,13 +43,20 @@ class ModelBuilder(xml : Elem){
 
 
 class UsefulFunction {
+
+
   def RDFWriter (m: Model, article: NodeSeq, id:Int): Unit = {
+
+
     val leURI = uri + s"le_$id"
+    val lexicon = m.createResource(Voc.LInguisticMEtadata + "Lexion")
     val lexEntry = m.createResource (leURI)
+    lexicon.addProperty(Voc.Entry,lexEntry)
     LexicalEntryWriter (lexEntry, article, leURI, m)
     StructGramWriter(article,lexEntry,m)
     LexieEntiereWriter(article,m, lexEntry)
   }
+
   def LexicalEntryWriter (lexEntry:Resource, article: NodeSeq, leURI: String, m: Model): Unit = {
 
     val Entry = article \ "Entrée"
@@ -60,7 +67,7 @@ class UsefulFunction {
     fEntry.addProperty(Voc.writtenRep,s"${Entry.text} ${Complement.text}")
   }
 
-  def StructGramWriter(article : NodeSeq, lexEntry : Resource, model: Model): Unit ={
+  def StructGramWriter(article : NodeSeq, lexEntry : Resource, m: Model): Unit ={
     val XMLUP = new XMLUnitParser
 
     val StructureGrammaticale = article \ "StructureGrammaticale"
@@ -69,26 +76,28 @@ class UsefulFunction {
       case Parsed.Success(seq,_) => seq
       case _:Parsed.Failure => Nil
     }
+
+
     for (struct <- resStruct) {
 
       struct match {
         case "v." =>
-          lexEntry.addProperty(Voc.liPartOfSpeech, Voc.liVerb)
+          lexEntry.addProperty(Voc.liPartOfSpeech, liVerb)
 
         case "s." =>
-          lexEntry.addProperty(Voc.liPartOfSpeech, Voc.liNoun)
+          lexEntry.addProperty(Voc.liPartOfSpeech, liNoun)
 
         case "adj." =>
-          lexEntry.addProperty(Voc.liPartOfSpeech,Voc.liAdj)
+          lexEntry.addProperty(Voc.liPartOfSpeech,liAdj)
 
         case "f." =>
-          lexEntry.addProperty(Voc.liGender,Voc.liGFemale)
+          lexEntry.addProperty(Voc.liGender, liFemale)
 
         case "m." =>
-          lexEntry.addProperty(Voc.liGender,Voc.liMasculine)
+          lexEntry.addProperty(Voc.liGender, liMasculine)
 
         case "prép." =>
-          lexEntry.addProperty(Voc.liPartOfSpeech, Voc.liPreposition)
+          lexEntry.addProperty(Voc.liPartOfSpeech, liPreposition)
 
         case _ =>
       }
@@ -101,6 +110,8 @@ class UsefulFunction {
     lexEntry.addProperty(Voc.TranslatableAsForm, fLexieEntière)
     fLexieEntière.addProperty(Voc.writtenRep,LexieEntière.text)
   }
+
+
 
 
 

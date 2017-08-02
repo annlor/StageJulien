@@ -1,0 +1,162 @@
+@prefix restaure: <http://restaure.limsi.fr/2017/rdf#> .
+@prefix vartrans: <https://www.w3.org/ns/lemon/vartrans#> .
+@prefix lime:  <http://www.w3.org/ns/lemon/lime#> .
+@prefix ontolex: <http://www.w3.org/ns/lemon/ontolex#> .
+@prefix lexinfo: <http://lexinfo.net/ontology/2.0/lexinfo#> .
+
+restaure:le26PicardVersFrançais_0
+        restaure:TranslatableAsDef  restaure: ;
+        restaure:oldInformation     restaure: ;
+        ontolex:lexicalForm         restaure:lf_Z .
+
+<http://restaure.limsi.fr/2017/rdf#d%C3%A9form.%20pour%20huissier.%20%22%20L'%20zussier%20y%20avanche%20au%20juche%20des%20paperasses%20%22%20(GF).%20(Voir%20:%20lussier).>
+        ontolex:writtenRep  "déform. pour huissier. \" L' zussier y avanche au juche des paperasses \" (GF). (Voir : lussier)." .
+
+restaure:  ontolex:writtenRep  "" .
+
+<http://restaure.limsi.fr/2017/rdf#Pas%20eine%20zique%20:%20pas%20du%20tout.%20>
+        ontolex:writtenRep  "Pas eine zique : pas du tout. " .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Queun'%20zinn'%20qui%20li%20a%20pris%20...%20ed%20mette%20ses%20chabots%20tout%20findus%20d'vant%20l'%20qu%C3%A9m%C3%A9n%C3%A9e%20?%20%22%20(PP).%20>
+        ontolex:writtenRep  "\" Queun' zinn' qui li a pris ... ed mette ses chabots tout findus d'vant l' quéménée ? \" (PP). " .
+
+<http://restaure.limsi.fr/2017/rdf#2%20-%20id%C3%A9e%20bizarre,%20caprice.%20>
+        ontolex:writtenRep  "2 - idée bizarre, caprice. " .
+
+restaure:le26PicardVersFrançais_5
+        lexinfo:gender                 lexinfo:Female ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Elle%20n'oubliait%20pas%20la%20ziquette%20de%20sel%20et%20trois%20u%C3%A9s%20bien%20touill%C3%A9s%20%22%20(EM).> , <http://restaure.limsi.fr/2017/rdf#%22%20Cha%20n'%20fait%20point%20enne%20ziquette%20ed%20doute%20!%20%22%20(RD).%20> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#dim.%20de%20zique.%20%22%20Cha%20n'%20fait%20point%20enne%20ziquette%20ed%20doute%20!%20%22%20(RD).%20%22%20Elle%20n'oubliait%20pas%20la%20ziquette%20de%20sel%20et%20trois%20u%C3%A9s%20bien%20touill%C3%A9s%20%22%20(EM).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#dim.%20de%20zique.%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_Ziquette .
+
+<http://restaure.limsi.fr/2017/rdf#d%C3%A9form.%20pour%20huissier.%20>
+        ontolex:writtenRep  "déform. pour huissier. " .
+
+lime:Lexion  lime:entry  restaure:le26PicardVersFrançais_7 , restaure:le26PicardVersFrançais_6 , restaure:le26PicardVersFrançais_5 , restaure:le26PicardVersFrançais_4 , restaure:le26PicardVersFrançais_3 , restaure:le26PicardVersFrançais_2 , restaure:le26PicardVersFrançais_1 , restaure:le26PicardVersFrançais_0 .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20J'%20connos%20des%20f%C3%A8mes%20qu'alles%20ont%20l'%20zinn'%20des%20fleurs%20%22%20(PP)%20(voir%20:%20quint,%20dadale),%20>
+        ontolex:writtenRep  "\" J' connos des fèmes qu'alles ont l' zinn' des fleurs \" (PP) (voir : quint, dadale), " .
+
+<http://restaure.limsi.fr/2017/rdf#eine%20zique%20:%20petite%20quantit%C3%A9.%20%22%20Pis%20in%20n'%20va%20pas%20faire%20eune%20histoire%20/%20Pou%20eun'%20tiot'%20zique%20ed'%20mar%C3%A9e%20noire%20!%20%22%20(PM).%20Pas%20eine%20zique%20:%20pas%20du%20tout.%20%22%20Du%20pinard,%20pas%20ein'%20zique%20!%20%22%20(EM).>
+        ontolex:writtenRep  "eine zique : petite quantité. \" Pis in n' va pas faire eune histoire / Pou eun' tiot' zique ed' marée noire ! \" (PM). Pas eine zique : pas du tout. \" Du pinard, pas ein' zique ! \" (EM)." .
+
+restaure:le26PicardVersFrançais_4
+        lexinfo:gender                 lexinfo:Female ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Du%20pinard,%20pas%20ein'%20zique%20!%20%22%20(EM).> , <http://restaure.limsi.fr/2017/rdf#%22%20Pis%20in%20n'%20va%20pas%20faire%20eune%20histoire%20/%20Pou%20eun'%20tiot'%20zique%20ed'%20mar%C3%A9e%20noire%20!%20%22%20(PM).%20> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#eine%20zique%20:%20petite%20quantit%C3%A9.%20%22%20Pis%20in%20n'%20va%20pas%20faire%20eune%20histoire%20/%20Pou%20eun'%20tiot'%20zique%20ed'%20mar%C3%A9e%20noire%20!%20%22%20(PM).%20Pas%20eine%20zique%20:%20pas%20du%20tout.%20%22%20Du%20pinard,%20pas%20ein'%20zique%20!%20%22%20(EM).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#Pas%20eine%20zique%20:%20pas%20du%20tout.%20> , <http://restaure.limsi.fr/2017/rdf#eine%20zique%20:%20petite%20quantit%C3%A9.%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_ZIQUE .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20L'%20zussier%20y%20avanche%20au%20juche%20des%20paperasses%20%22%20(GF).%20(>
+        ontolex:writtenRep  "\" L' zussier y avanche au juche des paperasses \" (GF). (" .
+
+<http://restaure.limsi.fr/2017/rdf#1%20-%20ivresse,%20cuite.%20%22%20Quand%20i%20s'in%20r'va%20avec%20enn'%20zine,%20/%20Su%20s'%20feimme,%20i%20bat%20core%20l'%20tambour%20%22%20(PB).%202%20-%20id%C3%A9e%20bizarre,%20caprice.%20%22%20Queun'%20zinn'%20qui%20li%20a%20pris%20...%20ed%20mette%20ses%20chabots%20tout%20findus%20d'vant%20l'%20qu%C3%A9m%C3%A9n%C3%A9e%20?%20%22%20(PP).%203%20-%20passion.%20%22%20J'%20connos%20des%20f%C3%A8mes%20qu'alles%20ont%20l'%20zinn'%20des%20fleurs%20%22%20(PP)%20(voir%20:%20quint,%20dadale),%204%20-%20donner%20eune%20zine%20:%20rosser%20(GH).>
+        ontolex:writtenRep  "1 - ivresse, cuite. \" Quand i s'in r'va avec enn' zine, / Su s' feimme, i bat core l' tambour \" (PB). 2 - idée bizarre, caprice. \" Queun' zinn' qui li a pris ... ed mette ses chabots tout findus d'vant l' quéménée ? \" (PP). 3 - passion. \" J' connos des fèmes qu'alles ont l' zinn' des fleurs \" (PP) (voir : quint, dadale), 4 - donner eune zine : rosser (GH)." .
+
+<http://restaure.limsi.fr/2017/rdf#dim.%20de%20zique.%20>
+        ontolex:writtenRep  "dim. de zique. " .
+
+<http://restaure.limsi.fr/2017/rdf#eine%20zique%20:%20petite%20quantit%C3%A9.%20>
+        ontolex:writtenRep  "eine zique : petite quantité. " .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Du%20pinard,%20pas%20ein'%20zique%20!%20%22%20(EM).>
+        ontolex:writtenRep  "\" Du pinard, pas ein' zique ! \" (EM)." .
+
+<http://restaure.limsi.fr/2017/rdf#:%20dim.%20d'Alexandre.%20Pr%C3%A9nom%20du%20h%C3%A9ros%20de%20RD%20:%20l'%20Zante%20Boursiau.>
+        ontolex:writtenRep  ": dim. d'Alexandre. Prénom du héros de RD : l' Zante Boursiau." .
+
+restaure:lf_ZIQUE  ontolex:writtenRep  "ZIQUE" .
+
+<http://restaure.limsi.fr/2017/rdf#lf_ZEPH%20>
+        ontolex:writtenRep  "ZEPH " .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Quand%20i%20s'in%20r'va%20avec%20enn'%20zine,%20/%20Su%20s'%20feimme,%20i%20bat%20core%20l'%20tambour%20%22%20(PB).%20>
+        ontolex:writtenRep  "\" Quand i s'in r'va avec enn' zine, / Su s' feimme, i bat core l' tambour \" (PB). " .
+
+restaure:le26PicardVersFrançais_3
+        lexinfo:gender                 lexinfo:Female ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20J'%20connos%20des%20f%C3%A8mes%20qu'alles%20ont%20l'%20zinn'%20des%20fleurs%20%22%20(PP)%20(voir%20:%20quint,%20dadale),%20> , <http://restaure.limsi.fr/2017/rdf#%22%20Queun'%20zinn'%20qui%20li%20a%20pris%20...%20ed%20mette%20ses%20chabots%20tout%20findus%20d'vant%20l'%20qu%C3%A9m%C3%A9n%C3%A9e%20?%20%22%20(PP).%20> , <http://restaure.limsi.fr/2017/rdf#%22%20Quand%20i%20s'in%20r'va%20avec%20enn'%20zine,%20/%20Su%20s'%20feimme,%20i%20bat%20core%20l'%20tambour%20%22%20(PB).%20> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#1%20-%20ivresse,%20cuite.%20%22%20Quand%20i%20s'in%20r'va%20avec%20enn'%20zine,%20/%20Su%20s'%20feimme,%20i%20bat%20core%20l'%20tambour%20%22%20(PB).%202%20-%20id%C3%A9e%20bizarre,%20caprice.%20%22%20Queun'%20zinn'%20qui%20li%20a%20pris%20...%20ed%20mette%20ses%20chabots%20tout%20findus%20d'vant%20l'%20qu%C3%A9m%C3%A9n%C3%A9e%20?%20%22%20(PP).%203%20-%20passion.%20%22%20J'%20connos%20des%20f%C3%A8mes%20qu'alles%20ont%20l'%20zinn'%20des%20fleurs%20%22%20(PP)%20(voir%20:%20quint,%20dadale),%204%20-%20donner%20eune%20zine%20:%20rosser%20(GH).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#3%20-%20passion.%20> , <http://restaure.limsi.fr/2017/rdf#2%20-%20id%C3%A9e%20bizarre,%20caprice.%20> , <http://restaure.limsi.fr/2017/rdf#1%20-%20ivresse,%20cuite.%20> , <http://restaure.limsi.fr/2017/rdf#4%20-%20donner%20eune%20zine%20:%20rosser%20(GH).> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_ZINE .
+
+restaure:lf_Z  ontolex:writtenRep  "Z" .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Elle%20n'oubliait%20pas%20la%20ziquette%20de%20sel%20et%20trois%20u%C3%A9s%20bien%20touill%C3%A9s%20%22%20(EM).>
+        ontolex:writtenRep  "\" Elle n'oubliait pas la ziquette de sel et trois ués bien touillés \" (EM)." .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Pis%20in%20n'%20va%20pas%20faire%20eune%20histoire%20/%20Pou%20eun'%20tiot'%20zique%20ed'%20mar%C3%A9e%20noire%20!%20%22%20(PM).%20>
+        ontolex:writtenRep  "\" Pis in n' va pas faire eune histoire / Pou eun' tiot' zique ed' marée noire ! \" (PM). " .
+
+<http://restaure.limsi.fr/2017/rdf#lf_ZANTE%20>
+        ontolex:writtenRep  "ZANTE " .
+
+<http://restaure.limsi.fr/2017/rdf#:%20dim.%20de%20Joseph.%20Pr%C3%A9nom%20du%20h%C3%A9ros%20de%20JM%20:%20l'%20Zeph%20Cafougnette.>
+        ontolex:writtenRep  ": dim. de Joseph. Prénom du héros de JM : l' Zeph Cafougnette." .
+
+restaure:lf_Ziquette  ontolex:writtenRep
+                "Ziquette" .
+
+<http://restaure.limsi.fr/2017/rdf#3%20-%20passion.%20>
+        ontolex:writtenRep  "3 - passion. " .
+
+<http://restaure.limsi.fr/2017/rdf#dim.%20de%20zique.%20%22%20Cha%20n'%20fait%20point%20enne%20ziquette%20ed%20doute%20!%20%22%20(RD).%20%22%20Elle%20n'oubliait%20pas%20la%20ziquette%20de%20sel%20et%20trois%20u%C3%A9s%20bien%20touill%C3%A9s%20%22%20(EM).>
+        ontolex:writtenRep  "dim. de zique. \" Cha n' fait point enne ziquette ed doute ! \" (RD). \" Elle n'oubliait pas la ziquette de sel et trois ués bien touillés \" (EM)." .
+
+restaure:le26PicardVersFrançais_2
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#:%20dim.%20de%20Joseph.%20Pr%C3%A9nom%20du%20h%C3%A9ros%20de%20JM%20:%20l'%20Zeph%20Cafougnette.> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#:%20dim.%20de%20Joseph.%20Pr%C3%A9nom%20du%20h%C3%A9ros%20de%20JM%20:%20l'%20Zeph%20Cafougnette.> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_ZEPH%20> .
+
+<http://restaure.limsi.fr/2017/rdf#%22%20Cha%20n'%20fait%20point%20enne%20ziquette%20ed%20doute%20!%20%22%20(RD).%20>
+        ontolex:writtenRep  "\" Cha n' fait point enne ziquette ed doute ! \" (RD). " .
+
+<http://restaure.limsi.fr/2017/rdf#Voir%20:%20lussier).>
+        ontolex:writtenRep  "Voir : lussier)." .
+
+restaure:lf_ZINE  ontolex:writtenRep  "ZINE" .
+
+<http://restaure.limsi.fr/2017/rdf#1%20-%20ivresse,%20cuite.%20>
+        ontolex:writtenRep  "1 - ivresse, cuite. " .
+
+restaure:le26PicardVersFrançais_7
+        lexinfo:gender                 lexinfo:Masculine ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20L'%20zussier%20y%20avanche%20au%20juche%20des%20paperasses%20%22%20(GF).%20(> ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#d%C3%A9form.%20pour%20huissier.%20%22%20L'%20zussier%20y%20avanche%20au%20juche%20des%20paperasses%20%22%20(GF).%20(Voir%20:%20lussier).> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#Voir%20:%20lussier).> , <http://restaure.limsi.fr/2017/rdf#d%C3%A9form.%20pour%20huissier.%20> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_ZUSSIER .
+
+<http://restaure.limsi.fr/2017/rdf#4%20-%20donner%20eune%20zine%20:%20rosser%20(GH).>
+        ontolex:writtenRep  "4 - donner eune zine : rosser (GH)." .
+
+restaure:le26PicardVersFrançais_1
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#:%20dim.%20d'Alexandre.%20Pr%C3%A9nom%20du%20h%C3%A9ros%20de%20RD%20:%20l'%20Zante%20Boursiau.> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#:%20dim.%20d'Alexandre.%20Pr%C3%A9nom%20du%20h%C3%A9ros%20de%20RD%20:%20l'%20Zante%20Boursiau.> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_ZANTE%20> .
+
+restaure:lf_ZUITE  ontolex:writtenRep  "ZUITE" .
+
+restaure:lf_ZUSSIER  ontolex:writtenRep
+                "ZUSSIER" .
+
+restaure:le26PicardVersFrançais_6
+        lexinfo:gender                 lexinfo:Female ;
+        lexinfo:partOfSpeech           lexinfo:Noun ;
+        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#crachat%20gras.%20Peut-%C3%AAtre%20de%20hu%C3%AEtre,%20par%20analogie%20d'aspect.> ;
+        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#crachat%20gras.%20Peut-%C3%AAtre%20de%20hu%C3%AEtre,%20par%20analogie%20d'aspect.> ;
+        restaure:oldInformation        restaure: ;
+        ontolex:lexicalForm            restaure:lf_ZUITE .
+
+<http://restaure.limsi.fr/2017/rdf#crachat%20gras.%20Peut-%C3%AAtre%20de%20hu%C3%AEtre,%20par%20analogie%20d'aspect.>
+        ontolex:writtenRep  "crachat gras. Peut-être de huître, par analogie d'aspect." .

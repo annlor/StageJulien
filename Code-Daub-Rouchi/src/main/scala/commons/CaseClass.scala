@@ -1,8 +1,8 @@
 package commons
 
 
-case class TraductionPicard(mot: String, abreviation: String, definitions: Seq[String])
-
+case class TraductionPicard(mot: String, abreviation: String, definitions: Seq[String], defentiere : Seq[String])
+case class CCLexie(seq : Seq[(Option[String], String,Seq[String])])
 case class ListTraductionPicard(ListTraductions: List[TraductionPicard])
 
 case class TraductionFrançaise(mot: String, complement: Option[String],

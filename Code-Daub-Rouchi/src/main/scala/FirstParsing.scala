@@ -16,6 +16,11 @@ import scala.xml._
 import scala.collection.JavaConverters._
 */
 
+/*
+Chemin du dictionnaire : (pour Julien)
+/people/khamphousone/Documents/Dictionnaires/daub_rouchi_197S_CU.txt
+*/
+
 /**
   * Cette case classe contriendra les éléments de chaque ligne
   */
@@ -47,15 +52,15 @@ class FirstParsing {
 
 
    Debut.parse(str) match {
-     case Parsed.Success(("",_,_),_) => TraductionPicard("","",Seq(""))
+     case Parsed.Success(("",_,_),_) => TraductionPicard("","",Seq(""),Seq(""))
      case Parsed.Success((str1: String, str2: String, seq: Seq[String]), _) =>
-       TraductionPicard(str1, str2, seq)
+       TraductionPicard(str1, str2, seq,seq)
 
      case f: Parsed.Failure =>
-       TraductionPicard(s"Failure $str \n ${f.extra.traced.trace}", s"${f.index}", Seq(""))
+       TraductionPicard(s"Failure $str \n ${f.extra.traced.trace}", s"${f.index}", Seq(""),Seq(""))
        /**TraductionPicard("","",Seq(""))*/
 
-     case Parsed.Success(_,_) => TraductionPicard("Error","",Seq(""))
+     case Parsed.Success(_,_) => TraductionPicard("Error","",Seq(""),Seq(""))
 
    }
 
@@ -63,6 +68,33 @@ class FirstParsing {
 
 }
 
+class ParsingDefinition {
+
+  def ANCParser (str:String) : Seq[(String,Option[String])]={
+    val UP = new UnitParser
+    val parsertoutsaufancien = P((!"ANC." ~ AnyChar).rep(min = 1).!)
+    val parserANC = P(parsertoutsaufancien.! ~ ("ANC. :" ~ AnyChar.rep).! |
+      parsertoutsaufancien.! ~ "".!)
+    parserANC.parse(str) match {
+      case Parsed.Success((str1, ""),_) => Seq((str1,Option("")))
+      case Parsed.Success((str1, str2),_) => Seq((str1, Option(str2)))
+      case f:Parsed.Failure => Seq((s"Failure $str \n ${f.extra.traced.trace}",Option("")))
+
+    }
+  }
+
+  def ParserDef (str: String): CCLexie ={
+    val IP = new intermediateParser
+    val UP = new UnitParser
+    val parserlexie = P((IP.ExemplePicard.!.? ~ IP.Definitions.! ~ IP.ExemplePicard.!.rep).rep)
+    parserlexie.parse(str) match {
+
+      case Parsed.Success((seq: Seq[(Option[String],String,Seq[String])]),_) => CCLexie(seq)
+      case f:Parsed.Failure => CCLexie(Seq((None,s"Failure $str \n ${f.extra.traced.trace}",Seq(""))))
+      case Parsed.Success(_,_) => CCLexie(Seq((None,"ERROR",Seq(""))))
+    }
+  }
+}
 
 object FirstParsing {
 
@@ -70,12 +102,15 @@ object FirstParsing {
   def main(args: Array[String]): Unit = {
 
     println("Entrez le chemin du dictionnaire Dauby-Rouchi")
+    /*
+    /people/khamphousone/Documents/Dictionnaires/daub_rouchi_197S_CU.txt
+    */
     val path = scala.io.StdIn.readLine()
     val buff: Source = Source.fromFile(path)
     val Parsing = new FirstParsing()
     val UP = new UnitParser()
     val tradtoxml = new toXML()
-
+    val SubParsing = new ParsingDefinition()
     val liste1 = for (line <- buff.getLines.slice(1213, 7446)) yield {
       Parsing.Parser(line)
     }
@@ -85,7 +120,14 @@ object FirstParsing {
 
       val listTrad = for (trad <- liste2 if
       List(s"$elements", s"* $elements").exists(trad.mot.startsWith)) yield {
-           val Traduction = new tradtoxml.Trad(trad.mot, trad.abreviation, trad.definitions)
+        val tuple = (for(defs <- trad.definitions) yield {
+          SubParsing.ParserDef(SubParsing.ANCParser(defs).head._1)
+        },for(defs <- trad.definitions) yield {
+          SubParsing.ANCParser(defs).head._2
+        })
+
+           val Traduction = new tradtoxml.Trad(trad.mot, trad.abreviation,
+             tuple._1 ,tuple._2, trad.defentiere)
            Traduction.toXml
          }
 

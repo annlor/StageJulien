@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Nomenclature>
-          <ArticleDeDictionnaire>
-        <Entrée>Kent</Entrée>
-        <StructureGrammaticale></StructureGrammaticale>
-        <Lexie>
-        la Geste d'Aliscans, XIIIe). &quot; Me vela tout croté, mouillé, flauhé, wandi &quot; (Fl, H, 1654) = fourbu. On trouve, en all. flau, et en néerl. flauw (faible).
-      </Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>K</Entrée>
-        <StructureGrammaticale></StructureGrammaticale>
-        
-      </ArticleDeDictionnaire>
+          <Entrée>
+        <Vocable>Kent</Vocable>
+        <CatégorieGrammaticale></CatégorieGrammaticale>
+        <Définition><DéfinitionEntiere>la Geste d'Aliscans, XIIIe). &quot; Me vela tout croté, mouillé, flauhé, wandi &quot; (Fl, H, 1654) = fourbu. On trouve, en all. flau, et en néerl. flauw (faible).</DéfinitionEntiere>
+          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">la Geste d'Aliscans, XIIIe). </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Me vela tout croté, mouillé, flauhé, wandi &quot; (Fl, H, 1654) = fourbu. On trouve, en all. flau, et en néerl. flauw (faible).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
+      </Entrée><Entrée>
+        <Vocable>K</Vocable>
+        <CatégorieGrammaticale></CatégorieGrammaticale>
+        <Définition>
+          <DéfinitionDétaillée></DéfinitionDétaillée></Définition>
+      </Entrée>
         </Nomenclature>

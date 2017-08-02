@@ -4,7 +4,7 @@
         <Entrée>kiosque</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(à journaux) aubette, hobette.</LexieEntiere>
+        <Lexie><SousLexie>(à journaux) aubette</SousLexie><SousLexie> hobette.</SousLexie></Lexie>
       </ArticleDeDictionnaire>
       </Nomenclature>

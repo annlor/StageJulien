@@ -1,3 +1,4 @@
+
 /**
   * Created by khamphousone on 6/28/17.
   *
@@ -37,12 +38,12 @@ class ParserDebrie {
       (DefinitionDebrie | (Numerotation ~ DefinitionDebrie)).!.rep)
 
     ParserLexique.parse(str) match {
-      case Parsed.Success(("",_,_),_) => TraductionPicard("","",Seq(""))
+      case Parsed.Success(("",_,_),_) => TraductionPicard("","",Seq(""),Seq(""))
       case Parsed.Success((str1: String, str2: String, seq: Seq[String]), _) =>
-        TraductionPicard(str1, str2, seq)
+        TraductionPicard(str1, str2, seq,Seq(""))
 
       case f: Parsed.Failure =>
-        TraductionPicard(s"Failure $str \n ${f.extra.traced.trace}", s"${f.index}", Seq(""))
+        TraductionPicard(s"Failure $str \n ${f.extra.traced.trace}", s"${f.index}", Seq(""),Seq(""))
       /**TraductionPicard("","",Seq(""))*/
 
 
@@ -74,7 +75,7 @@ object ParserDebrie {
 
       val listTrad = for (trad <- liste2 if
       List(s"$elements").exists(trad.mot.startsWith)) yield {
-        val Traduction = new tradtoxml.Trad(trad.mot, trad.abreviation, trad.definitions)
+        val Traduction = new tradtoxml.Trad(trad.mot, trad.abreviation, Seq(CCLexie(Seq((None,"",trad.definitions)))), Seq(Option("")),Seq(""))
         Traduction.toXml
       }
 

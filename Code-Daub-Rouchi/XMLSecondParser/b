@@ -79,11 +79,11 @@
         <LexieEntiere>ramonette, ramounette.</LexieEntiere>
         <Lexie><SousLexie>ramonette</SousLexie><SousLexie> ramounette.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>balle </Entrée>
-        <Complément>(du jeu de crosse)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>cholette.</LexieEntiere>
-        <Lexie><SousLexie>cholette.</SousLexie></Lexie>
+        <Entrée>balle</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(du jeu de crosse), s. f. : cholette.</LexieEntiere>
+        <Lexie><SousLexie>(du jeu de crosse)</SousLexie><SousLexie> s. f. : cholette.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>baragouiner</Entrée>
         <Complément></Complément>
@@ -97,7 +97,7 @@
         <LexieEntiere>chéraine, sérenne, tournoire, moussier.</LexieEntiere>
         <Lexie><SousLexie>chéraine</SousLexie><SousLexie> sérenne</SousLexie><SousLexie> tournoire</SousLexie><SousLexie> moussier.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>barbeau </Entrée>
+        <Entrée>barbeau</Entrée>
         <Complément>(poisson)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
         <LexieEntiere>écalot.</LexieEntiere>
@@ -121,23 +121,23 @@
         <LexieEntiere>gaïolé, macoté, mitaclé.</LexieEntiere>
         <Lexie><SousLexie>gaïolé</SousLexie><SousLexie> macoté</SousLexie><SousLexie> mitaclé.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>barrage </Entrée>
-        <Complément>(à la mine)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>estoupe.</LexieEntiere>
-        <Lexie><SousLexie>estoupe.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>barre à mine</Entrée>
+        <Entrée>barrage</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>barre batroulle.</LexieEntiere>
-        <Lexie><SousLexie>barre batroulle.</SousLexie></Lexie>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(à la mine), s. m. : estoupe.</LexieEntiere>
+        <Lexie><SousLexie>(à la mine)</SousLexie><SousLexie> s. m. : estoupe.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>barreau </Entrée>
-        <Complément>(de chaise)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>bougeon.</LexieEntiere>
-        <Lexie><SousLexie>bougeon.</SousLexie></Lexie>
+        <Entrée>barre</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>à mine, s. f. : barre batroulle.</LexieEntiere>
+        <Lexie><SousLexie>à mine</SousLexie><SousLexie> s. f. : barre batroulle.</SousLexie></Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>barreau</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(de chaise), s. m. : bougeon.</LexieEntiere>
+        <Lexie><SousLexie>(de chaise)</SousLexie><SousLexie> s. m. : bougeon.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>barrière</Entrée>
         <Complément></Complément>
@@ -145,17 +145,17 @@
         <LexieEntiere>baille, baillage, baise-cul.</LexieEntiere>
         <Lexie><SousLexie>baille</SousLexie><SousLexie> baillage</SousLexie><SousLexie> baise-cul.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bas </Entrée>
+        <Entrée>bas</Entrée>
         <Complément>(à)</Complément>
         <StructureGrammaticale>loc. adv.</StructureGrammaticale>
         <LexieEntiere>jus.</LexieEntiere>
         <Lexie><SousLexie>jus.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bassin de lit</Entrée>
+        <Entrée>bassin</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>tubin.</LexieEntiere>
-        <Lexie><SousLexie>tubin.</SousLexie></Lexie>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>de lit, s. m. : tubin.</LexieEntiere>
+        <Lexie><SousLexie>de lit</SousLexie><SousLexie> s. m. : tubin.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>bassiner</Entrée>
         <Complément></Complément>
@@ -181,11 +181,11 @@
         <LexieEntiere>rouffe.</LexieEntiere>
         <Lexie><SousLexie>rouffe.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bateau </Entrée>
-        <Complément>(de rivière)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>baquet.</LexieEntiere>
-        <Lexie><SousLexie>baquet.</SousLexie></Lexie>
+        <Entrée>bateau</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(de rivière), s. m. : baquet.</LexieEntiere>
+        <Lexie><SousLexie>(de rivière)</SousLexie><SousLexie> s. m. : baquet.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>batelier</Entrée>
         <Complément></Complément>
@@ -193,43 +193,43 @@
         <LexieEntiere>baqueteux.</LexieEntiere>
         <Lexie><SousLexie>baqueteux.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>batellerie </Entrée>
+        <Entrée>batellerie</Entrée>
         <Complément>(chantier)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere>baqueterie.</LexieEntiere>
         <Lexie><SousLexie>baqueterie.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bâtonnet </Entrée>
+        <Entrée>bâtonnet</Entrée>
         <Complément>(jeu)</Complément>
         <StructureGrammaticale></StructureGrammaticale>
         <LexieEntiere>biblot, guise, taillette, tardoite, voïandise.</LexieEntiere>
         <Lexie><SousLexie>biblot</SousLexie><SousLexie> guise</SousLexie><SousLexie> taillette</SousLexie><SousLexie> tardoite</SousLexie><SousLexie> voïandise.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>battant de cloche</Entrée>
+        <Entrée>battant</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>clipotiau.</LexieEntiere>
-        <Lexie><SousLexie>clipotiau.</SousLexie></Lexie>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>de cloche, s. m. : clipotiau.</LexieEntiere>
+        <Lexie><SousLexie>de cloche</SousLexie><SousLexie> s. m. : clipotiau.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>batterie de cuisine</Entrée>
+        <Entrée>batterie</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>bidons, cauderlats, hanas.</LexieEntiere>
-        <Lexie><SousLexie>bidons</SousLexie><SousLexie> cauderlats</SousLexie><SousLexie> hanas.</SousLexie></Lexie>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>de cuisine, s. f. : bidons, cauderlats, hanas.</LexieEntiere>
+        <Lexie><SousLexie>de cuisine</SousLexie><SousLexie> s. f. : bidons</SousLexie><SousLexie> cauderlats</SousLexie><SousLexie> hanas.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>batteuse à blé</Entrée>
+        <Entrée>batteuse</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>battoire.</LexieEntiere>
-        <Lexie><SousLexie>battoire.</SousLexie></Lexie>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>à blé, s. f. : battoire.</LexieEntiere>
+        <Lexie><SousLexie>à blé</SousLexie><SousLexie> s. f. : battoire.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>battre </Entrée>
+        <Entrée>battre</Entrée>
         <Complément>(se)</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
         <LexieEntiere>s' crapougner.</LexieEntiere>
         <Lexie><SousLexie>s' crapougner.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bavarde </Entrée>
+        <Entrée>bavarde</Entrée>
         <Complément>(femme)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere>berlingue, canlette, caquetoire, Marie-bonne langue, Marie-quater-langues, Marie-tia-tia, papoire, quéquette dé rat, régalette, tout-in-langue.</LexieEntiere>
@@ -361,7 +361,7 @@
         <LexieEntiere>berche.</LexieEntiere>
         <Lexie><SousLexie>berche.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>berger </Entrée>
+        <Entrée>berger</Entrée>
         <Complément>(petit)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
         <LexieEntiere>bergeolin.</LexieEntiere>
@@ -415,41 +415,41 @@
         <LexieEntiere>bigleux, s. m. et adj. : berlou, bigornieux, bornibus, gognat (fém. gognette), macaveule.</LexieEntiere>
         <Lexie><SousLexie>bigleux</SousLexie><SousLexie> s. m. et adj. : berlou</SousLexie><SousLexie> bigornieux</SousLexie><SousLexie> bornibus</SousLexie><SousLexie> gognat (fém. gognette)</SousLexie><SousLexie> macaveule.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bile </Entrée>
+        <Entrée>bile</Entrée>
         <Complément>(sécrétion)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere>amer.</LexieEntiere>
         <Lexie><SousLexie>amer.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bille </Entrée>
-        <Complément>(pour jouer)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>agate (en verre), bonque, dosse, mape, quénéque, quénique.</LexieEntiere>
-        <Lexie><SousLexie>agate (en verre)</SousLexie><SousLexie> bonque</SousLexie><SousLexie> dosse</SousLexie><SousLexie> mape</SousLexie><SousLexie> quénéque</SousLexie><SousLexie> quénique.</SousLexie></Lexie>
+        <Entrée>bille</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(pour jouer), s. f. : agate (en verre), bonque, dosse, mape, quénéque, quénique.</LexieEntiere>
+        <Lexie><SousLexie>(pour jouer)</SousLexie><SousLexie> s. f. : agate (en verre)</SousLexie><SousLexie> bonque</SousLexie><SousLexie> dosse</SousLexie><SousLexie> mape</SousLexie><SousLexie> quénéque</SousLexie><SousLexie> quénique.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>billon </Entrée>
+        <Entrée>billon</Entrée>
         <Complément>(jeu)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
         <LexieEntiere>bilbotiau, bricotiau.</LexieEntiere>
         <Lexie><SousLexie>bilbotiau</SousLexie><SousLexie> bricotiau.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>binette </Entrée>
+        <Entrée>binette</Entrée>
         <Complément>(outil)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere>poussette (que l'on pousse), rasette (que l'on tire).</LexieEntiere>
         <Lexie><SousLexie>poussette (que l'on pousse)</SousLexie><SousLexie> rasette (que l'on tire).</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>biscuit </Entrée>
+        <Entrée>biscuit</Entrée>
         <Complément>(petit)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
         <LexieEntiere>nic-nac.</LexieEntiere>
         <Lexie><SousLexie>nic-nac.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>blanchir </Entrée>
-        <Complément>(le linge au soleil)</Complément>
+        <Entrée>blanchir</Entrée>
+        <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere>curer.</LexieEntiere>
-        <Lexie><SousLexie>curer.</SousLexie></Lexie>
+        <LexieEntiere>(le linge au soleil) : curer.</LexieEntiere>
+        <Lexie><SousLexie>(le linge au soleil) : curer.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>blanchisserie</Entrée>
         <Complément></Complément>
@@ -505,17 +505,17 @@
         <LexieEntiere>abloquo, arroïo.</LexieEntiere>
         <Lexie><SousLexie>abloquo</SousLexie><SousLexie> arroïo.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>blottir </Entrée>
+        <Entrée>blottir</Entrée>
         <Complément>(se)</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
         <LexieEntiere>s' ranicher, s' rapouchéner.</LexieEntiere>
         <Lexie><SousLexie>s' ranicher</SousLexie><SousLexie> s' rapouchéner.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>blouse de mineur</Entrée>
+        <Entrée>blouse</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>jupon ; bl. de paysan : niche.</LexieEntiere>
-        <Lexie><SousLexie>jupon </SousLexie><SousLexie> bl. de paysan : niche.</SousLexie></Lexie>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>de mineur, s. f. : jupon ; bl. de paysan : niche.</LexieEntiere>
+        <Lexie><SousLexie>de mineur</SousLexie><SousLexie> s. f. : jupon </SousLexie><SousLexie> bl. de paysan : niche.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>bluter</Entrée>
         <Complément></Complément>
@@ -583,11 +583,11 @@
         <LexieEntiere>bonquer, bonqueter.</LexieEntiere>
         <Lexie><SousLexie>bonquer</SousLexie><SousLexie> bonqueter.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bonnet de bébé</Entrée>
+        <Entrée>bonnet</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s .</StructureGrammaticale>
-        <LexieEntiere>m. : achemette, béguinet.</LexieEntiere>
-        <Lexie><SousLexie>m. : achemette</SousLexie><SousLexie> béguinet.</SousLexie></Lexie>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>de bébé, s .m. : achemette, béguinet.</LexieEntiere>
+        <Lexie><SousLexie>de bébé</SousLexie><SousLexie> s .m. : achemette</SousLexie><SousLexie> béguinet.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>bord</Entrée>
         <Complément></Complément>
@@ -601,7 +601,7 @@
         <LexieEntiere>bourdel.</LexieEntiere>
         <Lexie><SousLexie>bourdel.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>borgne </Entrée>
+        <Entrée>borgne</Entrée>
         <Complément>(femme)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere>borgnette.</LexieEntiere>
@@ -619,11 +619,11 @@
         <LexieEntiere>boche, boursiau.</LexieEntiere>
         <Lexie><SousLexie>boche</SousLexie><SousLexie> boursiau.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>botte </Entrée>
+        <Entrée>botte</Entrée>
         <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(de légumes...), s. f. : facheau, hardélée, manoque, manotte, marotte.</LexieEntiere>
+        <Lexie><SousLexie>(de légumes...)</SousLexie><SousLexie> s. f. : facheau</SousLexie><SousLexie> hardélée</SousLexie><SousLexie> manoque</SousLexie><SousLexie> manotte</SousLexie><SousLexie> marotte.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>bouche</Entrée>
         <Complément></Complément>
@@ -643,11 +643,11 @@
         <LexieEntiere>mazeau (vx).</LexieEntiere>
         <Lexie><SousLexie>mazeau (vx).</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bouchon </Entrée>
-        <Complément>(de paille)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>bousée, bousin.</LexieEntiere>
-        <Lexie><SousLexie>bousée</SousLexie><SousLexie> bousin.</SousLexie></Lexie>
+        <Entrée>bouchon</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(de paille), s. m. : bousée, bousin.</LexieEntiere>
+        <Lexie><SousLexie>(de paille)</SousLexie><SousLexie> s. m. : bousée</SousLexie><SousLexie> bousin.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>boucle</Entrée>
         <Complément></Complément>
@@ -733,7 +733,7 @@
         <LexieEntiere>brin d' cat, noire-femme.</LexieEntiere>
         <Lexie><SousLexie>brin d' cat</SousLexie><SousLexie> noire-femme.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bourdon </Entrée>
+        <Entrée>bourdon</Entrée>
         <Complément>(insecte)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
         <LexieEntiere>malo, pipi-malo.</LexieEntiere>
@@ -808,8 +808,8 @@
         <Entrée>branler</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(voir : secouer).</LexieEntiere>
+        <Lexie><SousLexie>(voir : secouer).</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>brassée</Entrée>
         <Complément></Complément>
@@ -847,13 +847,13 @@
         <LexieEntiere>bertielle.</LexieEntiere>
         <Lexie><SousLexie>bertielle.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>brigand </Entrée>
-        <Complément>(de grand chemin)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>rattindeux d' quémin.</LexieEntiere>
-        <Lexie><SousLexie>rattindeux d' quémin.</SousLexie></Lexie>
+        <Entrée>brigand</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(de grand chemin), s. m. : rattindeux d' quémin.</LexieEntiere>
+        <Lexie><SousLexie>(de grand chemin)</SousLexie><SousLexie> s. m. : rattindeux d' quémin.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>brioche </Entrée>
+        <Entrée>brioche</Entrée>
         <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
         <LexieEntiere></LexieEntiere>
@@ -871,11 +871,11 @@
         <LexieEntiere>brisaque.</LexieEntiere>
         <Lexie><SousLexie>brisaque.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>broche </Entrée>
-        <Complément>(à rôtir)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>haste.</LexieEntiere>
-        <Lexie><SousLexie>haste.</SousLexie></Lexie>
+        <Entrée>broche</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(à rôtir), s. f. : haste.</LexieEntiere>
+        <Lexie><SousLexie>(à rôtir)</SousLexie><SousLexie> s. f. : haste.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>brosser</Entrée>
         <Complément></Complément>
@@ -913,11 +913,11 @@
         <LexieEntiere>arder, ardre, asir.</LexieEntiere>
         <Lexie><SousLexie>arder</SousLexie><SousLexie> ardre</SousLexie><SousLexie> asir.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>brûlures d'estomac</Entrée>
+        <Entrée>brûlures</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s. f. pl.</StructureGrammaticale>
-        <LexieEntiere>brûlant.</LexieEntiere>
-        <Lexie><SousLexie>brûlant.</SousLexie></Lexie>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>d'estomac, s. f. pl. : brûlant.</LexieEntiere>
+        <Lexie><SousLexie>d'estomac</SousLexie><SousLexie> s. f. pl. : brûlant.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>brume</Entrée>
         <Complément></Complément>
@@ -943,29 +943,29 @@
         <LexieEntiere>boquélion, boquillon, carrieux-quêne.</LexieEntiere>
         <Lexie><SousLexie>boquélion</SousLexie><SousLexie> boquillon</SousLexie><SousLexie> carrieux-quêne.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>buis </Entrée>
+        <Entrée>buis</Entrée>
         <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(des Rameaux), s. m. : pâque.</LexieEntiere>
+        <Lexie><SousLexie>(des Rameaux)</SousLexie><SousLexie> s. m. : pâque.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>buissonnière </Entrée>
-        <Complément>(faire l'école)</Complément>
-        <StructureGrammaticale>loc. v.</StructureGrammaticale>
-        <LexieEntiere>faire : flinque, freusse, guinse, queuette.</LexieEntiere>
-        <Lexie><SousLexie>faire : flinque</SousLexie><SousLexie> freusse</SousLexie><SousLexie> guinse</SousLexie><SousLexie> queuette.</SousLexie></Lexie>
+        <Entrée>buissonnière</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(faire l'école), loc. v. : faire : flinque, freusse, guinse, queuette.</LexieEntiere>
+        <Lexie><SousLexie>(faire l'école)</SousLexie><SousLexie> loc. v. : faire : flinque</SousLexie><SousLexie> freusse</SousLexie><SousLexie> guinse</SousLexie><SousLexie> queuette.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>buter </Entrée>
+        <Entrée>buter</Entrée>
         <Complément>(se)</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
         <LexieEntiere>s'ardoquer, cacholer, doquer, rédoquer, rétoquer.</LexieEntiere>
         <Lexie><SousLexie>s'ardoquer</SousLexie><SousLexie> cacholer</SousLexie><SousLexie> doquer</SousLexie><SousLexie> rédoquer</SousLexie><SousLexie> rétoquer.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>butter </Entrée>
-        <Complément>(des pommes de terre)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>ramotteter.</LexieEntiere>
-        <Lexie><SousLexie>ramotteter.</SousLexie></Lexie>
+        <Entrée>butter</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(des pommes de terre), v. : ramotteter.</LexieEntiere>
+        <Lexie><SousLexie>(des pommes de terre)</SousLexie><SousLexie> v. : ramotteter.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>buveur</Entrée>
         <Complément></Complément>

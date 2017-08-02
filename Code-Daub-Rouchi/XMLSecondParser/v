@@ -55,11 +55,11 @@
         <LexieEntiere>hierbe Noter-Dame.</LexieEntiere>
         <Lexie><SousLexie>hierbe Noter-Dame.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>valet </Entrée>
-        <Complément>(de ferme)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>goujard, parcour, parmason, pisse-quien, trousse-dale, varlet.</LexieEntiere>
-        <Lexie><SousLexie>goujard</SousLexie><SousLexie> parcour</SousLexie><SousLexie> parmason</SousLexie><SousLexie> pisse-quien</SousLexie><SousLexie> trousse-dale</SousLexie><SousLexie> varlet.</SousLexie></Lexie>
+        <Entrée>valet</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(de ferme), s. m. : goujard, parcour, parmason, pisse-quien, trousse-dale, varlet.</LexieEntiere>
+        <Lexie><SousLexie>(de ferme)</SousLexie><SousLexie> s. m. : goujard</SousLexie><SousLexie> parcour</SousLexie><SousLexie> parmason</SousLexie><SousLexie> pisse-quien</SousLexie><SousLexie> trousse-dale</SousLexie><SousLexie> varlet.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>vanne</Entrée>
         <Complément></Complément>
@@ -97,11 +97,11 @@
         <LexieEntiere>warlope.</LexieEntiere>
         <Lexie><SousLexie>warlope.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>vase </Entrée>
-        <Complément>(boue puante)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>puterie.</LexieEntiere>
-        <Lexie><SousLexie>puterie.</SousLexie></Lexie>
+        <Entrée>vase</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(boue puante), s. f. : puterie.</LexieEntiere>
+        <Lexie><SousLexie>(boue puante)</SousLexie><SousLexie> s. f. : puterie.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>vaurien</Entrée>
         <Complément></Complément>
@@ -121,17 +121,17 @@
         <LexieEntiere>lapider.</LexieEntiere>
         <Lexie><SousLexie>lapider.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>veillée </Entrée>
-        <Complément>(des fileuses)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>écriène.</LexieEntiere>
-        <Lexie><SousLexie>écriène.</SousLexie></Lexie>
+        <Entrée>veillée</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(des fileuses), s. f. : écriène.</LexieEntiere>
+        <Lexie><SousLexie>(des fileuses)</SousLexie><SousLexie> s. f. : écriène.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>veine </Entrée>
-        <Complément>(de charbon)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <Entrée>veine</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(de charbon), s. f. : (verticale) dressant ; (horizontale) : plateur ; (oblique) à demi-pindage.</LexieEntiere>
+        <Lexie><SousLexie>(de charbon)</SousLexie><SousLexie> s. f. : (verticale) dressant </SousLexie><SousLexie> (horizontale) : plateur </SousLexie><SousLexie> (oblique) à demi-pindage.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>vendredi</Entrée>
         <Complément></Complément>
@@ -163,7 +163,7 @@
         <LexieEntiere>panche.</LexieEntiere>
         <Lexie><SousLexie>panche.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>venue </Entrée>
+        <Entrée>venue</Entrée>
         <Complément>(croissance)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere>vénure.</LexieEntiere>
@@ -205,7 +205,7 @@
         <LexieEntiere>vertiau.</LexieEntiere>
         <Lexie><SousLexie>vertiau.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>vérole </Entrée>
+        <Entrée>vérole</Entrée>
         <Complément>(petite)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere>poquettes.</LexieEntiere>
@@ -214,8 +214,8 @@
         <Entrée>verre</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(à genièvre) maquet ; (de genièvre) veilleuse ; (petit) verquin.</LexieEntiere>
+        <Lexie><SousLexie>(à genièvre) maquet </SousLexie><SousLexie> (de genièvre) veilleuse </SousLexie><SousLexie> (petit) verquin.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>verrou</Entrée>
         <Complément></Complément>
@@ -229,11 +229,11 @@
         <LexieEntiere>porgeon.</LexieEntiere>
         <Lexie><SousLexie>porgeon.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>verse </Entrée>
-        <Complément>(pleuvoir à)</Complément>
-        <StructureGrammaticale>loc. v.</StructureGrammaticale>
-        <LexieEntiere>pluvoir à dic et dac, à yeux d' vaque, à souflettes.</LexieEntiere>
-        <Lexie><SousLexie>pluvoir à dic et dac</SousLexie><SousLexie> à yeux d' vaque</SousLexie><SousLexie> à souflettes.</SousLexie></Lexie>
+        <Entrée>verse</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(pleuvoir à), loc. v. : pluvoir à dic et dac, à yeux d' vaque, à souflettes.</LexieEntiere>
+        <Lexie><SousLexie>(pleuvoir à)</SousLexie><SousLexie> loc. v. : pluvoir à dic et dac</SousLexie><SousLexie> à yeux d' vaque</SousLexie><SousLexie> à souflettes.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>vertiges</Entrée>
         <Complément></Complément>
@@ -259,11 +259,11 @@
         <LexieEntiere>cocron (voir : tâtillon).</LexieEntiere>
         <Lexie><SousLexie>cocron (voir : tâtillon).</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>vidanger </Entrée>
-        <Complément>(pour fumer le jardin)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>purler.</LexieEntiere>
-        <Lexie><SousLexie>purler.</SousLexie></Lexie>
+        <Entrée>vidanger</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(pour fumer le jardin), v. : purler.</LexieEntiere>
+        <Lexie><SousLexie>(pour fumer le jardin)</SousLexie><SousLexie> v. : purler.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>vidangeur</Entrée>
         <Complément></Complément>
@@ -283,11 +283,11 @@
         <LexieEntiere>widier, wuidier.</LexieEntiere>
         <Lexie><SousLexie>widier</SousLexie><SousLexie> wuidier.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>vie </Entrée>
-        <Complément>(façon de vivre)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>vivage.</LexieEntiere>
-        <Lexie><SousLexie>vivage.</SousLexie></Lexie>
+        <Entrée>vie</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(façon de vivre), s. f. : vivage.</LexieEntiere>
+        <Lexie><SousLexie>(façon de vivre)</SousLexie><SousLexie> s. f. : vivage.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>vieilleries</Entrée>
         <Complément></Complément>
@@ -301,11 +301,11 @@
         <LexieEntiere>vieusir.</LexieEntiere>
         <Lexie><SousLexie>vieusir.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>vieux beau</Entrée>
+        <Entrée>vieux</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>vieux roudoudou.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>beau, vieux roudoudou.</LexieEntiere>
+        <Lexie><SousLexie>beau</SousLexie><SousLexie> vieux roudoudou.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>vif</Entrée>
         <Complément></Complément>
@@ -331,11 +331,11 @@
         <LexieEntiere>guistemeux, râcleux d' boïau, rinchinchin.</LexieEntiere>
         <Lexie><SousLexie>guistemeux</SousLexie><SousLexie> râcleux d' boïau</SousLexie><SousLexie> rinchinchin.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>viorne obier</Entrée>
+        <Entrée>viorne</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>mo-fromage.</LexieEntiere>
-        <Lexie><SousLexie>mo-fromage.</SousLexie></Lexie>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>obier, s. f. : mo-fromage.</LexieEntiere>
+        <Lexie><SousLexie>obier</SousLexie><SousLexie> s. f. : mo-fromage.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>visage</Entrée>
         <Complément></Complément>
@@ -343,17 +343,17 @@
         <LexieEntiere>guive.</LexieEntiere>
         <Lexie><SousLexie>guive.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>viscères </Entrée>
-        <Complément>(du thorax)</Complément>
-        <StructureGrammaticale>s. m. pl.</StructureGrammaticale>
-        <LexieEntiere>corée.</LexieEntiere>
-        <Lexie><SousLexie>corée.</SousLexie></Lexie>
+        <Entrée>viscères</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(du thorax), s. m. pl. : corée.</LexieEntiere>
+        <Lexie><SousLexie>(du thorax)</SousLexie><SousLexie> s. m. pl. : corée.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>visière </Entrée>
-        <Complément>(de casquette)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>brochon, palette.</LexieEntiere>
-        <Lexie><SousLexie>brochon</SousLexie><SousLexie> palette.</SousLexie></Lexie>
+        <Entrée>visière</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(de casquette), s. f. : brochon, palette.</LexieEntiere>
+        <Lexie><SousLexie>(de casquette)</SousLexie><SousLexie> s. f. : brochon</SousLexie><SousLexie> palette.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>vite</Entrée>
         <Complément></Complément>
@@ -373,13 +373,13 @@
         <LexieEntiere>friand-battant.</LexieEntiere>
         <Lexie><SousLexie>friand-battant.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>voeux </Entrée>
-        <Complément>(présenter ses)</Complément>
+        <Entrée>voeux</Entrée>
+        <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere>atrinner, étrenner, mett' in bon-an.</LexieEntiere>
-        <Lexie><SousLexie>atrinner</SousLexie><SousLexie> étrenner</SousLexie><SousLexie> mett' in bon-an.</SousLexie></Lexie>
+        <LexieEntiere>(présenter ses) : atrinner, étrenner, mett' in bon-an.</LexieEntiere>
+        <Lexie><SousLexie>(présenter ses) : atrinner</SousLexie><SousLexie> étrenner</SousLexie><SousLexie> mett' in bon-an.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>voie </Entrée>
+        <Entrée>voie</Entrée>
         <Complément>(mines)</Complément>
         <StructureGrammaticale></StructureGrammaticale>
         <LexieEntiere>bowette, voée.</LexieEntiere>
@@ -409,17 +409,17 @@
         <LexieEntiere>clipet.</LexieEntiere>
         <Lexie><SousLexie>clipet.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>volée </Entrée>
+        <Entrée>volée</Entrée>
         <Complément>(attelage)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere>batenière, landon.</LexieEntiere>
         <Lexie><SousLexie>batenière</SousLexie><SousLexie> landon.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>volée </Entrée>
-        <Complément>(à toute)</Complément>
+        <Entrée>volée</Entrée>
+        <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere> ; à doubel-tour.</LexieEntiere>
-        <Lexie><SousLexie> </SousLexie><SousLexie> à doubel-tour.</SousLexie></Lexie>
+        <LexieEntiere>(à toute) ; à doubel-tour.</LexieEntiere>
+        <Lexie><SousLexie>(à toute) </SousLexie><SousLexie> à doubel-tour.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>voleur</Entrée>
         <Complément></Complément>

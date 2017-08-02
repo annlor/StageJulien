@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Nomenclature>
         <ArticleDeDictionnaire>
-        <Entrée>jabot </Entrée>
-        <Complément>(de volaille)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>gave, malle.</LexieEntiere>
-        <Lexie><SousLexie>gave</SousLexie><SousLexie> malle.</SousLexie></Lexie>
+        <Entrée>jabot</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(de volaille), s. m. : gave, malle.</LexieEntiere>
+        <Lexie><SousLexie>(de volaille)</SousLexie><SousLexie> s. m. : gave</SousLexie><SousLexie> malle.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>jachère</Entrée>
         <Complément></Complément>
@@ -13,11 +13,11 @@
         <LexieEntiere>gaquière, ghesquière, guettière, jaquière, waquière.</LexieEntiere>
         <Lexie><SousLexie>gaquière</SousLexie><SousLexie> ghesquière</SousLexie><SousLexie> guettière</SousLexie><SousLexie> jaquière</SousLexie><SousLexie> waquière.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>jacinthe </Entrée>
-        <Complément>(des bois)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>cul-tourné.</LexieEntiere>
-        <Lexie><SousLexie>cul-tourné.</SousLexie></Lexie>
+        <Entrée>jacinthe</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(des bois), s. f. : cul-tourné.</LexieEntiere>
+        <Lexie><SousLexie>(des bois)</SousLexie><SousLexie> s. f. : cul-tourné.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>jacobée</Entrée>
         <Complément></Complément>
@@ -55,7 +55,7 @@
         <LexieEntiere>gaviau.</LexieEntiere>
         <Lexie><SousLexie>gaviau.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>javelot </Entrée>
+        <Entrée>javelot</Entrée>
         <Complément>(jeu)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
         <LexieEntiere>diale volant.</LexieEntiere>
@@ -85,17 +85,17 @@
         <LexieEntiere>laris.</LexieEntiere>
         <Lexie><SousLexie>laris.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>jeu </Entrée>
+        <Entrée>jeu</Entrée>
         <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(poursuite, chat perché, etc.), s. m. : aza ; mettre en jeu (la balle) : livrer.</LexieEntiere>
+        <Lexie><SousLexie>(poursuite</SousLexie><SousLexie> chat perché</SousLexie><SousLexie> etc.)</SousLexie><SousLexie> s. m. : aza </SousLexie><SousLexie> mettre en jeu (la balle) : livrer.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>jeune</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s. m. et adj.</StructureGrammaticale>
-        <LexieEntiere>jonne.</LexieEntiere>
-        <Lexie><SousLexie>jonne.</SousLexie></Lexie>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <LexieEntiere> et adj. : jonne.</LexieEntiere>
+        <Lexie><SousLexie> et adj. : jonne.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>jonchée</Entrée>
         <Complément></Complément>
@@ -139,11 +139,11 @@
         <LexieEntiere>jouissemint.</LexieEntiere>
         <Lexie><SousLexie>jouissemint.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>jour </Entrée>
-        <Complément>(mettre au)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>décafourer.</LexieEntiere>
-        <Lexie><SousLexie>décafourer.</SousLexie></Lexie>
+        <Entrée>jour</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(mettre au), v. : décafourer.</LexieEntiere>
+        <Lexie><SousLexie>(mettre au)</SousLexie><SousLexie> v. : décafourer.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>jubé</Entrée>
         <Complément></Complément>

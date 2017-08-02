@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Nomenclature>
         <ArticleDeDictionnaire>
-        <Entrée>cabinet </Entrée>
+        <Entrée>cabinet</Entrée>
         <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(W.C.), s. m. : basse-campe, basse-cam.me.</LexieEntiere>
+        <Lexie><SousLexie>(W.C.)</SousLexie><SousLexie> s. m. : basse-campe</SousLexie><SousLexie> basse-cam.me.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>câble </Entrée>
-        <Complément>(sur un chariot)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>comble, combiau.</LexieEntiere>
-        <Lexie><SousLexie>comble</SousLexie><SousLexie> combiau.</SousLexie></Lexie>
+        <Entrée>câble</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(sur un chariot), s. m. : comble, combiau.</LexieEntiere>
+        <Lexie><SousLexie>(sur un chariot)</SousLexie><SousLexie> s. m. : comble</SousLexie><SousLexie> combiau.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>cabriole</Entrée>
         <Complément></Complément>
@@ -19,11 +19,11 @@
         <LexieEntiere>cabériole, camberleau, couturmette, cubériau, cuberniau, cul-torgneau, cutourniau, tchupoirier, tombériau, tourmariot, tourmériau...</LexieEntiere>
         <Lexie><SousLexie>cabériole</SousLexie><SousLexie> camberleau</SousLexie><SousLexie> couturmette</SousLexie><SousLexie> cubériau</SousLexie><SousLexie> cuberniau</SousLexie><SousLexie> cul-torgneau</SousLexie><SousLexie> cutourniau</SousLexie><SousLexie> tchupoirier</SousLexie><SousLexie> tombériau</SousLexie><SousLexie> tourmariot</SousLexie><SousLexie> tourmériau...</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cache-cache </Entrée>
-        <Complément>(jouer à)</Complément>
-        <StructureGrammaticale>loc. v.</StructureGrammaticale>
-        <LexieEntiere>juer au picard, juer à mucher.</LexieEntiere>
-        <Lexie><SousLexie>juer au picard</SousLexie><SousLexie> juer à mucher.</SousLexie></Lexie>
+        <Entrée>cache-cache</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(jouer à), loc. v. : juer au picard, juer à mucher.</LexieEntiere>
+        <Lexie><SousLexie>(jouer à)</SousLexie><SousLexie> loc. v. : juer au picard</SousLexie><SousLexie> juer à mucher.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>cacher</Entrée>
         <Complément></Complément>
@@ -43,19 +43,19 @@
         <LexieEntiere>gadran.</LexieEntiere>
         <Lexie><SousLexie>gadran.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cafard </Entrée>
+        <Entrée>cafard</Entrée>
         <Complément>(insecte)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
         <LexieEntiere>marissiau.</LexieEntiere>
         <Lexie><SousLexie>marissiau.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cafard </Entrée>
+        <Entrée>cafard</Entrée>
         <Complément>(tristesse)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
         <LexieEntiere>tine.</LexieEntiere>
         <Lexie><SousLexie>tine.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>café </Entrée>
+        <Entrée>café</Entrée>
         <Complément>(mauvais)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
         <LexieEntiere>armis d'sus, arpassage, chirloute.</LexieEntiere>
@@ -64,8 +64,8 @@
         <Entrée>cage</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(à oiseaux) guéiote, guiole ; (à poussins) ravache.</LexieEntiere>
+        <Lexie><SousLexie>(à oiseaux) guéiote</SousLexie><SousLexie> guiole </SousLexie><SousLexie> (à poussins) ravache.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>caille</Entrée>
         <Complément></Complément>
@@ -109,7 +109,7 @@
         <LexieEntiere>abloquer, acclaper.</LexieEntiere>
         <Lexie><SousLexie>abloquer</SousLexie><SousLexie> acclaper.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>califourchon </Entrée>
+        <Entrée>califourchon</Entrée>
         <Complément>(à)</Complément>
         <StructureGrammaticale>loc. adv.</StructureGrammaticale>
         <LexieEntiere>à gambes raides, à gambettes.</LexieEntiere>
@@ -145,13 +145,13 @@
         <LexieEntiere>broque, cloquette.</LexieEntiere>
         <Lexie><SousLexie>broque</SousLexie><SousLexie> cloquette.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>canal d'assèchement</Entrée>
+        <Entrée>canal</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>traitoire.</LexieEntiere>
-        <Lexie><SousLexie>traitoire.</SousLexie></Lexie>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>d'assèchement, s. m. : traitoire.</LexieEntiere>
+        <Lexie><SousLexie>d'assèchement</SousLexie><SousLexie> s. m. : traitoire.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>canard </Entrée>
+        <Entrée>canard</Entrée>
         <Complément>(mâle)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
         <LexieEntiere>massou.</LexieEntiere>
@@ -169,11 +169,11 @@
         <LexieEntiere>anette.</LexieEntiere>
         <Lexie><SousLexie>anette.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>canne à pêche</Entrée>
+        <Entrée>canne</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>pèque.</LexieEntiere>
-        <Lexie><SousLexie>pèque.</SousLexie></Lexie>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>à pêche, s. f. : pèque.</LexieEntiere>
+        <Lexie><SousLexie>à pêche</SousLexie><SousLexie> s. f. : pèque.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>canonnier</Entrée>
         <Complément></Complément>
@@ -181,7 +181,7 @@
         <LexieEntiere>calonnier.</LexieEntiere>
         <Lexie><SousLexie>calonnier.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>canotier </Entrée>
+        <Entrée>canotier</Entrée>
         <Complément>(chapeau)</Complément>
         <StructureGrammaticale>s.</StructureGrammaticale>
         <LexieEntiere>m . : capiau d' palle.</LexieEntiere>
@@ -247,11 +247,11 @@
         <LexieEntiere>carnéval.</LexieEntiere>
         <Lexie><SousLexie>carnéval.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>caroncule </Entrée>
-        <Complément>(de dindon)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>roupie.</LexieEntiere>
-        <Lexie><SousLexie>roupie.</SousLexie></Lexie>
+        <Entrée>caroncule</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(de dindon), s. f. : roupie.</LexieEntiere>
+        <Lexie><SousLexie>(de dindon)</SousLexie><SousLexie> s. f. : roupie.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>cartable</Entrée>
         <Complément></Complément>
@@ -259,11 +259,11 @@
         <LexieEntiere>carnasse.</LexieEntiere>
         <Lexie><SousLexie>carnasse.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cartes </Entrée>
-        <Complément>(distribuer les)</Complément>
-        <StructureGrammaticale>loc. v.</StructureGrammaticale>
-        <LexieEntiere>carter.</LexieEntiere>
-        <Lexie><SousLexie>carter.</SousLexie></Lexie>
+        <Entrée>cartes</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(distribuer les), loc. v. : carter.</LexieEntiere>
+        <Lexie><SousLexie>(distribuer les)</SousLexie><SousLexie> loc. v. : carter.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>casse-pieds</Entrée>
         <Complément></Complément>
@@ -277,7 +277,7 @@
         <LexieEntiere>bidon, castrole, couet.</LexieEntiere>
         <Lexie><SousLexie>bidon</SousLexie><SousLexie> castrole</SousLexie><SousLexie> couet.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cassis </Entrée>
+        <Entrée>cassis</Entrée>
         <Complément>(groseilles)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
         <LexieEntiere>grusielles noirtes.</LexieEntiere>
@@ -355,13 +355,13 @@
         <LexieEntiere>les cheux.</LexieEntiere>
         <Lexie><SousLexie>les cheux.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>ch- </Entrée>
+        <Entrée>ch-</Entrée>
         <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
         <LexieEntiere></LexieEntiere>
         
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chaîne </Entrée>
+        <Entrée>chaîne</Entrée>
         <Complément>(d'attelage)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere>traile.</LexieEntiere>
@@ -373,7 +373,7 @@
         <LexieEntiere>char.</LexieEntiere>
         <Lexie><SousLexie>char.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chaire </Entrée>
+        <Entrée>chaire</Entrée>
         <Complément>(d'église)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere>benniot, cayère-préchoire, préchoir.</LexieEntiere>
@@ -397,7 +397,7 @@
         <LexieEntiere>mouquo.</LexieEntiere>
         <Lexie><SousLexie>mouquo.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chaleur </Entrée>
+        <Entrée>chaleur</Entrée>
         <Complément>(lourde)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere>mat'té.</LexieEntiere>
@@ -415,7 +415,7 @@
         <LexieEntiere>candier.</LexieEntiere>
         <Lexie><SousLexie>candier.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>changer </Entrée>
+        <Entrée>changer</Entrée>
         <Complément>(se)</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
         <LexieEntiere>s'arcanger.</LexieEntiere>
@@ -463,7 +463,7 @@
         <LexieEntiere>caplier (vx).</LexieEntiere>
         <Lexie><SousLexie>caplier (vx).</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>charbon </Entrée>
+        <Entrée>charbon</Entrée>
         <Complément>(mauvais)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
         <LexieEntiere>escaillage.</LexieEntiere>
@@ -499,7 +499,7 @@
         <LexieEntiere>caristale.</LexieEntiere>
         <Lexie><SousLexie>caristale.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>charme </Entrée>
+        <Entrée>charme</Entrée>
         <Complément>(arbre)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
         <LexieEntiere>carne.</LexieEntiere>
@@ -559,7 +559,7 @@
         <LexieEntiere>câtiau.</LexieEntiere>
         <Lexie><SousLexie>câtiau.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>châton </Entrée>
+        <Entrée>châton</Entrée>
         <Complément>(d'arbre)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
         <LexieEntiere>biloubin.</LexieEntiere>
@@ -670,10 +670,10 @@
         <Entrée>chercher</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(quérir) : querre ; (faire des recherches) : cacher, racacher ; (en flairant) souquer.</LexieEntiere>
+        <Lexie><SousLexie>(quérir) : querre </SousLexie><SousLexie> (faire des recherches) : cacher</SousLexie><SousLexie> racacher </SousLexie><SousLexie> (en flairant) souquer.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chère </Entrée>
+        <Entrée>chère</Entrée>
         <Complément>(bonne)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere>guinse.</LexieEntiere>
@@ -694,14 +694,14 @@
         <Entrée>cheveux</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m. pl.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(péj.) : piennes.</LexieEntiere>
+        <Lexie><SousLexie>(péj.) : piennes.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>cheville</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(en bois) biblot, broque, broquette, quéville.</LexieEntiere>
+        <Lexie><SousLexie>(en bois) biblot</SousLexie><SousLexie> broque</SousLexie><SousLexie> broquette</SousLexie><SousLexie> quéville.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>chèvre</Entrée>
         <Complément></Complément>
@@ -715,7 +715,7 @@
         <LexieEntiere>chuchot, papalolo.</LexieEntiere>
         <Lexie><SousLexie>chuchot</SousLexie><SousLexie> papalolo.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chevron </Entrée>
+        <Entrée>chevron</Entrée>
         <Complément>(charpente)</Complément>
         <StructureGrammaticale></StructureGrammaticale>
         <LexieEntiere>comble.</LexieEntiere>
@@ -727,13 +727,13 @@
         <LexieEntiere>à l' mon.</LexieEntiere>
         <Lexie><SousLexie>à l' mon.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chicorée </Entrée>
+        <Entrée>chicorée</Entrée>
         <Complément>(frisée)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere>indive.</LexieEntiere>
         <Lexie><SousLexie>indive.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chicorée </Entrée>
+        <Entrée>chicorée</Entrée>
         <Complément>(infusion)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere>cossiau.</LexieEntiere>
@@ -745,7 +745,7 @@
         <LexieEntiere>quien, tchien.</LexieEntiere>
         <Lexie><SousLexie>quien</SousLexie><SousLexie> tchien.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chiendent </Entrée>
+        <Entrée>chiendent</Entrée>
         <Complément>(plante)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
         <LexieEntiere>cuelles (pl.)</LexieEntiere>
@@ -757,11 +757,11 @@
         <LexieEntiere>quier, tchier.</LexieEntiere>
         <Lexie><SousLexie>quier</SousLexie><SousLexie> tchier.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chiffon </Entrée>
-        <Complément>(à épousseter)</Complément>
+        <Entrée>chiffon</Entrée>
+        <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere>loque à dépourrer ; (au pl.) fouffes.</LexieEntiere>
-        <Lexie><SousLexie>loque à dépourrer </SousLexie><SousLexie> (au pl.) fouffes.</SousLexie></Lexie>
+        <LexieEntiere>(à épousseter) : loque à dépourrer ; (au pl.) fouffes.</LexieEntiere>
+        <Lexie><SousLexie>(à épousseter) : loque à dépourrer </SousLexie><SousLexie> (au pl.) fouffes.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>chiffonner</Entrée>
         <Complément></Complément>
@@ -769,7 +769,7 @@
         <LexieEntiere>rafrogner, querchir.</LexieEntiere>
         <Lexie><SousLexie>rafrogner</SousLexie><SousLexie> querchir.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chiffonnier </Entrée>
+        <Entrée>chiffonnier</Entrée>
         <Complément>(personne)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
         <LexieEntiere>fouffetier, marchand d' loques.</LexieEntiere>
@@ -802,14 +802,14 @@
         <Entrée>chou</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(fourrager) cavalier, chou d' vaque ; (de Bruxelles) chousprote, chouproute, esprotes.</LexieEntiere>
+        <Lexie><SousLexie>(fourrager) cavalier</SousLexie><SousLexie> chou d' vaque </SousLexie><SousLexie> (de Bruxelles) chousprote</SousLexie><SousLexie> chouproute</SousLexie><SousLexie> esprotes.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chute </Entrée>
-        <Complément>(de tissu)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>évasure.</LexieEntiere>
-        <Lexie><SousLexie>évasure.</SousLexie></Lexie>
+        <Entrée>chute</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(de tissu), s. f. : évasure.</LexieEntiere>
+        <Lexie><SousLexie>(de tissu)</SousLexie><SousLexie> s. f. : évasure.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>ciboulette</Entrée>
         <Complément></Complément>
@@ -820,8 +820,8 @@
         <Entrée>cierge</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(petit) chiron ; (long) soignie, songnie.</LexieEntiere>
+        <Lexie><SousLexie>(petit) chiron </SousLexie><SousLexie> (long) soignie</SousLexie><SousLexie> songnie.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>cime</Entrée>
         <Complément></Complément>
@@ -859,11 +859,11 @@
         <LexieEntiere>cisiau, écisiau.</LexieEntiere>
         <Lexie><SousLexie>cisiau</SousLexie><SousLexie> écisiau.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>claie </Entrée>
-        <Complément>(à fourrage)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>fourrière.</LexieEntiere>
-        <Lexie><SousLexie>fourrière.</SousLexie></Lexie>
+        <Entrée>claie</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(à fourrage), s. f. : fourrière.</LexieEntiere>
+        <Lexie><SousLexie>(à fourrage)</SousLexie><SousLexie> s. f. : fourrière.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>clapier</Entrée>
         <Complément></Complément>
@@ -883,11 +883,11 @@
         <LexieEntiere>clégner.</LexieEntiere>
         <Lexie><SousLexie>clégner.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>clin d'oeil</Entrée>
+        <Entrée>clin</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>coin d'oeul.</LexieEntiere>
-        <Lexie><SousLexie>coin d'oeul.</SousLexie></Lexie>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>d'oeil, s. m. : coin d'oeul.</LexieEntiere>
+        <Lexie><SousLexie>d'oeil</SousLexie><SousLexie> s. m. : coin d'oeul.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>clôturer</Entrée>
         <Complément></Complément>
@@ -919,11 +919,11 @@
         <LexieEntiere> (voir : porc) ; cochon de lait : bédon.</LexieEntiere>
         <Lexie><SousLexie> (voir : porc) </SousLexie><SousLexie> cochon de lait : bédon.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cochonnet </Entrée>
-        <Complément>(au jeu de boules)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>mouton.</LexieEntiere>
-        <Lexie><SousLexie>mouton.</SousLexie></Lexie>
+        <Entrée>cochonnet</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(au jeu de boules), s. m. : mouton.</LexieEntiere>
+        <Lexie><SousLexie>(au jeu de boules)</SousLexie><SousLexie> s. m. : mouton.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>cocorico</Entrée>
         <Complément></Complément>
@@ -952,38 +952,38 @@
         <Entrée>coin</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(outil en bois) cougnet ; (en fer) ardi.</LexieEntiere>
+        <Lexie><SousLexie>(outil en bois) cougnet </SousLexie><SousLexie> (en fer) ardi.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>col </Entrée>
-        <Complément>(de chemise)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>gorgère.</LexieEntiere>
-        <Lexie><SousLexie>gorgère.</SousLexie></Lexie>
+        <Entrée>col</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(de chemise), s. m. : gorgère.</LexieEntiere>
+        <Lexie><SousLexie>(de chemise)</SousLexie><SousLexie> s. m. : gorgère.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>colère </Entrée>
-        <Complément>(dire avec)</Complément>
-        <StructureGrammaticale>loc. v.</StructureGrammaticale>
-        <LexieEntiere>déclaquer.</LexieEntiere>
-        <Lexie><SousLexie>déclaquer.</SousLexie></Lexie>
+        <Entrée>colère</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(dire avec), loc. v. : déclaquer.</LexieEntiere>
+        <Lexie><SousLexie>(dire avec)</SousLexie><SousLexie> loc. v. : déclaquer.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>colimaçon </Entrée>
+        <Entrée>colimaçon</Entrée>
         <Complément>(en)</Complément>
         <StructureGrammaticale>loc. adv.</StructureGrammaticale>
         <LexieEntiere>viroulé.</LexieEntiere>
         <Lexie><SousLexie>viroulé.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>coller </Entrée>
+        <Entrée>coller</Entrée>
         <Complément>(s'y)</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
         <LexieEntiere> (à un jeu) : bouter, guiller.</LexieEntiere>
         <Lexie><SousLexie> (à un jeu) : bouter</SousLexie><SousLexie> guiller.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>collier </Entrée>
-        <Complément>(de cheval)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>goriau ; enlever le collier : dégorler.</LexieEntiere>
-        <Lexie><SousLexie>goriau </SousLexie><SousLexie> enlever le collier : dégorler.</SousLexie></Lexie>
+        <Entrée>collier</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(de cheval), s. m. : goriau ; enlever le collier : dégorler.</LexieEntiere>
+        <Lexie><SousLexie>(de cheval)</SousLexie><SousLexie> s. m. : goriau </SousLexie><SousLexie> enlever le collier : dégorler.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>colombophile</Entrée>
         <Complément></Complément>
@@ -1033,11 +1033,11 @@
         <LexieEntiere>récomparer.</LexieEntiere>
         <Lexie><SousLexie>récomparer.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>compote </Entrée>
-        <Complément>(de pommes)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>tripot.</LexieEntiere>
-        <Lexie><SousLexie>tripot.</SousLexie></Lexie>
+        <Entrée>compote</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(de pommes), s. f. : tripot.</LexieEntiere>
+        <Lexie><SousLexie>(de pommes)</SousLexie><SousLexie> s. f. : tripot.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>compresse</Entrée>
         <Complément></Complément>
@@ -1057,7 +1057,7 @@
         <LexieEntiere> ; fiate.</LexieEntiere>
         <Lexie><SousLexie> </SousLexie><SousLexie> fiate.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>confortable </Entrée>
+        <Entrée>confortable</Entrée>
         <Complément>(rendre)</Complément>
         <StructureGrammaticale>loc. v.</StructureGrammaticale>
         <LexieEntiere>acoiter.</LexieEntiere>
@@ -1075,11 +1075,11 @@
         <LexieEntiere>imbroulle, infrouillage.</LexieEntiere>
         <Lexie><SousLexie>imbroulle</SousLexie><SousLexie> infrouillage.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>conseil de révision</Entrée>
+        <Entrée>conseil</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>passage-consel.</LexieEntiere>
-        <Lexie><SousLexie>passage-consel.</SousLexie></Lexie>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>de révision, s. m. : passage-consel.</LexieEntiere>
+        <Lexie><SousLexie>de révision</SousLexie><SousLexie> s. m. : passage-consel.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>consoler</Entrée>
         <Complément></Complément>
@@ -1095,9 +1095,9 @@
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>constipé</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s. m. et adj.</StructureGrammaticale>
-        <LexieEntiere>cul-cousu.</LexieEntiere>
-        <Lexie><SousLexie>cul-cousu.</SousLexie></Lexie>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <LexieEntiere> et adj. : cul-cousu.</LexieEntiere>
+        <Lexie><SousLexie> et adj. : cul-cousu.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>consumer</Entrée>
         <Complément></Complément>
@@ -1123,19 +1123,19 @@
         <LexieEntiere>conterbindier.</LexieEntiere>
         <Lexie><SousLexie>conterbindier.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>contrecoeur </Entrée>
-        <Complément>(de cheminée)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>murtiau.</LexieEntiere>
-        <Lexie><SousLexie>murtiau.</SousLexie></Lexie>
+        <Entrée>contrecoeur</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(de cheminée), s. m. : murtiau.</LexieEntiere>
+        <Lexie><SousLexie>(de cheminée)</SousLexie><SousLexie> s. m. : murtiau.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>contrefait </Entrée>
-        <Complément>(mal bâti)</Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>berquinaud, surjeté.</LexieEntiere>
-        <Lexie><SousLexie>berquinaud</SousLexie><SousLexie> surjeté.</SousLexie></Lexie>
+        <Entrée>contrefait</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(mal bâti), adj. : berquinaud, surjeté.</LexieEntiere>
+        <Lexie><SousLexie>(mal bâti)</SousLexie><SousLexie> adj. : berquinaud</SousLexie><SousLexie> surjeté.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>contremaître </Entrée>
+        <Entrée>contremaître</Entrée>
         <Complément>(mines)</Complément>
         <StructureGrammaticale></StructureGrammaticale>
         <LexieEntiere>porion.</LexieEntiere>
@@ -1201,17 +1201,17 @@
         <LexieEntiere>quinte-tousse, quinne-tousse.</LexieEntiere>
         <Lexie><SousLexie>quinte-tousse</SousLexie><SousLexie> quinne-tousse.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>coquille </Entrée>
+        <Entrée>coquille</Entrée>
         <Complément>(d'oeuf)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere>écale.</LexieEntiere>
         <Lexie><SousLexie>écale.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cor </Entrée>
-        <Complément>(au pied)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>nid d'agache.</LexieEntiere>
-        <Lexie><SousLexie>nid d'agache.</SousLexie></Lexie>
+        <Entrée>cor</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(au pied), s. m. : nid d'agache.</LexieEntiere>
+        <Lexie><SousLexie>(au pied)</SousLexie><SousLexie> s. m. : nid d'agache.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>cordon</Entrée>
         <Complément></Complément>
@@ -1261,29 +1261,29 @@
         <LexieEntiere>corier.</LexieEntiere>
         <Lexie><SousLexie>corier.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>couler </Entrée>
-        <Complément>(comme un sirop)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere> ; guiler.</LexieEntiere>
-        <Lexie><SousLexie> </SousLexie><SousLexie> guiler.</SousLexie></Lexie>
+        <Entrée>couler</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(comme un sirop), v. ; guiler.</LexieEntiere>
+        <Lexie><SousLexie>(comme un sirop)</SousLexie><SousLexie> v. </SousLexie><SousLexie> guiler.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>coup </Entrée>
+        <Entrée>coup</Entrée>
         <Complément>(ecchymose)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
         <LexieEntiere>beurre, borgnon, boursiau, cop, coeup, machuque, magonion, pioque, poque ; coup mortel : estafe ; coup de pied au cul : rinfonchemint.</LexieEntiere>
         <Lexie><SousLexie>beurre</SousLexie><SousLexie> borgnon</SousLexie><SousLexie> boursiau</SousLexie><SousLexie> cop</SousLexie><SousLexie> coeup</SousLexie><SousLexie> machuque</SousLexie><SousLexie> magonion</SousLexie><SousLexie> pioque</SousLexie><SousLexie> poque </SousLexie><SousLexie> coup mortel : estafe </SousLexie><SousLexie> coup de pied au cul : rinfonchemint.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>couper v</Entrée>
+        <Entrée>couper</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <LexieEntiere>coper, hachepéter.</LexieEntiere>
+        <Lexie><SousLexie>coper</SousLexie><SousLexie> hachepéter.</SousLexie></Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>couperosé</Entrée>
         <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>couperosé </Entrée>
-        <Complément>(par le froid)</Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>imbisié.</LexieEntiere>
-        <Lexie><SousLexie>imbisié.</SousLexie></Lexie>
+        <LexieEntiere>(par le froid), adj. : imbisié.</LexieEntiere>
+        <Lexie><SousLexie>(par le froid)</SousLexie><SousLexie> adj. : imbisié.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>courage</Entrée>
         <Complément></Complément>
@@ -1321,11 +1321,11 @@
         <LexieEntiere>couvieppe.</LexieEntiere>
         <Lexie><SousLexie>couvieppe.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>couverture </Entrée>
-        <Complément>(de lit)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>couverte.</LexieEntiere>
-        <Lexie><SousLexie>couverte.</SousLexie></Lexie>
+        <Entrée>couverture</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(de lit), s. f. : couverte.</LexieEntiere>
+        <Lexie><SousLexie>(de lit)</SousLexie><SousLexie> s. f. : couverte.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>couvrir</Entrée>
         <Complément></Complément>
@@ -1345,11 +1345,11 @@
         <LexieEntiere>raquer.</LexieEntiere>
         <Lexie><SousLexie>raquer.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>craie </Entrée>
-        <Complément>(à marquer)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>cra blanc.</LexieEntiere>
-        <Lexie><SousLexie>cra blanc.</SousLexie></Lexie>
+        <Entrée>craie</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(à marquer), s. f. : cra blanc.</LexieEntiere>
+        <Lexie><SousLexie>(à marquer)</SousLexie><SousLexie> s. f. : cra blanc.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>crampe</Entrée>
         <Complément></Complément>
@@ -1360,8 +1360,8 @@
         <Entrée>craque</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(voir : mensonge).</LexieEntiere>
+        <Lexie><SousLexie>(voir : mensonge).</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>crasse</Entrée>
         <Complément></Complément>
@@ -1371,15 +1371,15 @@
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>crasseux</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s. m. et adj.</StructureGrammaticale>
-        <LexieEntiere>crapé, crapeux.</LexieEntiere>
-        <Lexie><SousLexie>crapé</SousLexie><SousLexie> crapeux.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>crassier </Entrée>
-        <Complément>(de mine)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>terri.</LexieEntiere>
-        <Lexie><SousLexie>terri.</SousLexie></Lexie>
+        <LexieEntiere> et adj. : crapé, crapeux.</LexieEntiere>
+        <Lexie><SousLexie> et adj. : crapé</SousLexie><SousLexie> crapeux.</SousLexie></Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>crassier</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(de mine), s. m. : terri.</LexieEntiere>
+        <Lexie><SousLexie>(de mine)</SousLexie><SousLexie> s. m. : terri.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>cravate</Entrée>
         <Complément></Complément>
@@ -1399,13 +1399,13 @@
         <LexieEntiere>cramelie.</LexieEntiere>
         <Lexie><SousLexie>cramelie.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>crème </Entrée>
+        <Entrée>crème</Entrée>
         <Complément>(pâtissière)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere>lait-bouli, li-bouli, papin.</LexieEntiere>
         <Lexie><SousLexie>lait-bouli</SousLexie><SousLexie> li-bouli</SousLexie><SousLexie> papin.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>crêpe </Entrée>
+        <Entrée>crêpe</Entrée>
         <Complément>(pâtisserie)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere>aliette, couque-baque, raton.</LexieEntiere>
@@ -1423,11 +1423,11 @@
         <LexieEntiere>quennesson, santé du corps.</LexieEntiere>
         <Lexie><SousLexie>quennesson</SousLexie><SousLexie> santé du corps.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>crête </Entrée>
-        <Complément>(de terrain)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>frète.</LexieEntiere>
-        <Lexie><SousLexie>frète.</SousLexie></Lexie>
+        <Entrée>crête</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(de terrain), s. f. : frète.</LexieEntiere>
+        <Lexie><SousLexie>(de terrain)</SousLexie><SousLexie> s. f. : frète.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>creuser</Entrée>
         <Complément></Complément>
@@ -1438,14 +1438,14 @@
         <Entrée>creux</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(de terrain) : rinfond.</LexieEntiere>
+        <Lexie><SousLexie>(de terrain) : rinfond.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>creux</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(légume) outré.</LexieEntiere>
+        <Lexie><SousLexie>(légume) outré.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>crevasse</Entrée>
         <Complément></Complément>
@@ -1474,8 +1474,8 @@
         <Entrée>croc</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(outil) hé, hauwé.</LexieEntiere>
+        <Lexie><SousLexie>(outil) hé</SousLexie><SousLexie> hauwé.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>croc-en-jambe</Entrée>
         <Complément></Complément>
@@ -1486,8 +1486,8 @@
         <Entrée>crochet</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(de faucheur) arcoresse, ercoïéresse, havet ; (de chariot) hardière ; (de puits) cat d' puche, hoc.</LexieEntiere>
+        <Lexie><SousLexie>(de faucheur) arcoresse</SousLexie><SousLexie> ercoïéresse</SousLexie><SousLexie> havet </SousLexie><SousLexie> (de chariot) hardière </SousLexie><SousLexie> (de puits) cat d' puche</SousLexie><SousLexie> hoc.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>croix</Entrée>
         <Complément></Complément>
@@ -1498,8 +1498,8 @@
         <Entrée>crosse</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(pour le jeu du même nom) cambot.</LexieEntiere>
+        <Lexie><SousLexie>(pour le jeu du même nom) cambot.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>crottin</Entrée>
         <Complément></Complément>
@@ -1513,11 +1513,11 @@
         <LexieEntiere>crupière.</LexieEntiere>
         <Lexie><SousLexie>crupière.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>croûton </Entrée>
-        <Complément>(d'un pain)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>coeugnet, cognet.</LexieEntiere>
-        <Lexie><SousLexie>coeugnet</SousLexie><SousLexie> cognet.</SousLexie></Lexie>
+        <Entrée>croûton</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(d'un pain), s. m. : coeugnet, cognet.</LexieEntiere>
+        <Lexie><SousLexie>(d'un pain)</SousLexie><SousLexie> s. m. : coeugnet</SousLexie><SousLexie> cognet.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>cruche</Entrée>
         <Complément></Complément>
@@ -1543,7 +1543,7 @@
         <LexieEntiere>cuisage.</LexieEntiere>
         <Lexie><SousLexie>cuisage.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cuite </Entrée>
+        <Entrée>cuite</Entrée>
         <Complément>(ivresse)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere>pronne, quervaison, zine. (Voir : ivre).</LexieEntiere>
@@ -1552,8 +1552,8 @@
         <Entrée>culbute</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(voir : cabriole).</LexieEntiere>
+        <Lexie><SousLexie>(voir : cabriole).</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>culotte</Entrée>
         <Complément></Complément>
@@ -1567,7 +1567,7 @@
         <LexieEntiere> pl : avêtis.</LexieEntiere>
         <Lexie><SousLexie> pl : avêtis.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>curieuse </Entrée>
+        <Entrée>curieuse</Entrée>
         <Complément>(femme)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere>marluette, merluette.</LexieEntiere>

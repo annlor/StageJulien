@@ -43,11 +43,11 @@
         <LexieEntiere>minguerlot.</LexieEntiere>
         <Lexie><SousLexie>minguerlot.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>maillet </Entrée>
-        <Complément>(jeu de crosse)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>cambot, crosse.</LexieEntiere>
-        <Lexie><SousLexie>cambot</SousLexie><SousLexie> crosse.</SousLexie></Lexie>
+        <Entrée>maillet</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(jeu de crosse), s. m. : cambot, crosse.</LexieEntiere>
+        <Lexie><SousLexie>(jeu de crosse)</SousLexie><SousLexie> s. m. : cambot</SousLexie><SousLexie> crosse.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>main-courante</Entrée>
         <Complément></Complément>
@@ -97,11 +97,11 @@
         <LexieEntiere>mau, pronne.</LexieEntiere>
         <Lexie><SousLexie>mau</SousLexie><SousLexie> pronne.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>maladif adj</Entrée>
+        <Entrée>maladif</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <StructureGrammaticale>adj.</StructureGrammaticale>
+        <LexieEntiere>langreux, maladieux, tchiou, vert-vessou.</LexieEntiere>
+        <Lexie><SousLexie>langreux</SousLexie><SousLexie> maladieux</SousLexie><SousLexie> tchiou</SousLexie><SousLexie> vert-vessou.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>maladroit</Entrée>
         <Complément></Complément>
@@ -121,7 +121,7 @@
         <LexieEntiere>margré, maugré.</LexieEntiere>
         <Lexie><SousLexie>margré</SousLexie><SousLexie> maugré.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>malheur </Entrée>
+        <Entrée>malheur</Entrée>
         <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
         <LexieEntiere></LexieEntiere>
@@ -133,11 +133,11 @@
         <LexieEntiere>manman (au vocatif)</LexieEntiere>
         <Lexie><SousLexie>manman (au vocatif)</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>manche de faux</Entrée>
+        <Entrée>manche</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>fauquart.</LexieEntiere>
-        <Lexie><SousLexie>fauquart.</SousLexie></Lexie>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>de faux, s. m. : fauquart.</LexieEntiere>
+        <Lexie><SousLexie>de faux</SousLexie><SousLexie> s. m. : fauquart.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>manchot</Entrée>
         <Complément></Complément>
@@ -145,11 +145,11 @@
         <LexieEntiere>manchou.</LexieEntiere>
         <Lexie><SousLexie>manchou.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>manège </Entrée>
-        <Complément>(de chevaux de bois)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>cheval marin, qu'vaux d' bos, rougaillous, tourniquet.</LexieEntiere>
-        <Lexie><SousLexie>cheval marin</SousLexie><SousLexie> qu'vaux d' bos</SousLexie><SousLexie> rougaillous</SousLexie><SousLexie> tourniquet.</SousLexie></Lexie>
+        <Entrée>manège</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(de chevaux de bois), s. m. : cheval marin, qu'vaux d' bos, rougaillous, tourniquet.</LexieEntiere>
+        <Lexie><SousLexie>(de chevaux de bois)</SousLexie><SousLexie> s. m. : cheval marin</SousLexie><SousLexie> qu'vaux d' bos</SousLexie><SousLexie> rougaillous</SousLexie><SousLexie> tourniquet.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>mangeoire</Entrée>
         <Complément></Complément>
@@ -163,7 +163,7 @@
         <LexieEntiere>décarcasser, décoller, décrotter, mier, minger.</LexieEntiere>
         <Lexie><SousLexie>décarcasser</SousLexie><SousLexie> décoller</SousLexie><SousLexie> décrotter</SousLexie><SousLexie> mier</SousLexie><SousLexie> minger.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>manier </Entrée>
+        <Entrée>manier</Entrée>
         <Complément>(salement)</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
         <LexieEntiere>gadouiller, patriquer, patrouquer.</LexieEntiere>
@@ -175,11 +175,11 @@
         <LexieEntiere>manoïelle.</LexieEntiere>
         <Lexie><SousLexie>manoïelle.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>manteau de cheminée</Entrée>
+        <Entrée>manteau</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>rabatiau.</LexieEntiere>
-        <Lexie><SousLexie>rabatiau.</SousLexie></Lexie>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>de cheminée, s. m. : rabatiau.</LexieEntiere>
+        <Lexie><SousLexie>de cheminée</SousLexie><SousLexie> s. m. : rabatiau.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>maquignon</Entrée>
         <Complément></Complément>
@@ -229,11 +229,11 @@
         <LexieEntiere>magrite.</LexieEntiere>
         <Lexie><SousLexie>magrite.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>marionnettes </Entrée>
-        <Complément>(théâtre de)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>tirélires.</LexieEntiere>
-        <Lexie><SousLexie>tirélires.</SousLexie></Lexie>
+        <Entrée>marionnettes</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(théâtre de), s. m. : tirélires.</LexieEntiere>
+        <Lexie><SousLexie>(théâtre de)</SousLexie><SousLexie> s. m. : tirélires.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>marmelade</Entrée>
         <Complément></Complément>
@@ -253,11 +253,11 @@
         <LexieEntiere>marle, marlette.</LexieEntiere>
         <Lexie><SousLexie>marle</SousLexie><SousLexie> marlette.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>masque </Entrée>
-        <Complément>(personne masquée)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>moumeux, roux-coucou.</LexieEntiere>
-        <Lexie><SousLexie>moumeux</SousLexie><SousLexie> roux-coucou.</SousLexie></Lexie>
+        <Entrée>masque</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(personne masquée), s. m. : moumeux, roux-coucou.</LexieEntiere>
+        <Lexie><SousLexie>(personne masquée)</SousLexie><SousLexie> s. m. : moumeux</SousLexie><SousLexie> roux-coucou.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>m'as-tu-vu</Entrée>
         <Complément></Complément>
@@ -274,22 +274,22 @@
         <Entrée>mécanicien</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(mines) machineux.</LexieEntiere>
+        <Lexie><SousLexie>(mines) machineux.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>méchante </Entrée>
+        <Entrée>méchante</Entrée>
         <Complément>(femme)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere>gripette, Marie-bonne biête, Marie-grauette, Marie-magrau.</LexieEntiere>
         <Lexie><SousLexie>gripette</SousLexie><SousLexie> Marie-bonne biête</SousLexie><SousLexie> Marie-grauette</SousLexie><SousLexie> Marie-magrau.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>mèche </Entrée>
-        <Complément>(de fouet)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>cachiron, cachoire, claquoire, écachoire.</LexieEntiere>
-        <Lexie><SousLexie>cachiron</SousLexie><SousLexie> cachoire</SousLexie><SousLexie> claquoire</SousLexie><SousLexie> écachoire.</SousLexie></Lexie>
+        <Entrée>mèche</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(de fouet), s. f. : cachiron, cachoire, claquoire, écachoire.</LexieEntiere>
+        <Lexie><SousLexie>(de fouet)</SousLexie><SousLexie> s. f. : cachiron</SousLexie><SousLexie> cachoire</SousLexie><SousLexie> claquoire</SousLexie><SousLexie> écachoire.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>médaille </Entrée>
+        <Entrée>médaille</Entrée>
         <Complément>(romaine)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere>mahomet (vx).</LexieEntiere>
@@ -301,13 +301,13 @@
         <LexieEntiere>déméfiance.</LexieEntiere>
         <Lexie><SousLexie>déméfiance.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>méfier </Entrée>
+        <Entrée>méfier</Entrée>
         <Complément>(se)</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
         <LexieEntiere>s' déméfier.</LexieEntiere>
         <Lexie><SousLexie>s' déméfier.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>mélasse </Entrée>
+        <Entrée>mélasse</Entrée>
         <Complément>(sirop)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere>tache.</LexieEntiere>
@@ -328,8 +328,8 @@
         <Entrée>menotte</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(petite main) nonotte ; (entraves), manottes.</LexieEntiere>
+        <Lexie><SousLexie>(petite main) nonotte </SousLexie><SousLexie> (entraves)</SousLexie><SousLexie> manottes.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>mensonge</Entrée>
         <Complément></Complément>
@@ -367,11 +367,11 @@
         <LexieEntiere>albodeux ; (épicier), arcopeux.</LexieEntiere>
         <Lexie><SousLexie>albodeux </SousLexie><SousLexie> (épicier)</SousLexie><SousLexie> arcopeux.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>mère </Entrée>
-        <Complément>(trop faible)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>mérotte.</LexieEntiere>
-        <Lexie><SousLexie>mérotte.</SousLexie></Lexie>
+        <Entrée>mère</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(trop faible), s. f. : mérotte.</LexieEntiere>
+        <Lexie><SousLexie>(trop faible)</SousLexie><SousLexie> s. f. : mérotte.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>merle</Entrée>
         <Complément></Complément>
@@ -391,35 +391,35 @@
         <LexieEntiere>malintinte.</LexieEntiere>
         <Lexie><SousLexie>malintinte.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>mesures agraires</Entrée>
+        <Entrée>mesures</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale>agraires.</StructureGrammaticale>
+        <LexieEntiere> Voir boiteau, bonnier, carreau, cent, coupe, journel, mencaudée, mésure, muid, pinte, quarantaine, quartéron, quartier, rasière, tiers-cheval, verge carrée.</LexieEntiere>
+        <Lexie><SousLexie> Voir boiteau</SousLexie><SousLexie> bonnier</SousLexie><SousLexie> carreau</SousLexie><SousLexie> cent</SousLexie><SousLexie> coupe</SousLexie><SousLexie> journel</SousLexie><SousLexie> mencaudée</SousLexie><SousLexie> mésure</SousLexie><SousLexie> muid</SousLexie><SousLexie> pinte</SousLexie><SousLexie> quarantaine</SousLexie><SousLexie> quartéron</SousLexie><SousLexie> quartier</SousLexie><SousLexie> rasière</SousLexie><SousLexie> tiers-cheval</SousLexie><SousLexie> verge carrée.</SousLexie></Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>métier</Entrée>
         <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>à tisser, s. m. : étil, otil.</LexieEntiere>
+        <Lexie><SousLexie>à tisser</SousLexie><SousLexie> s. m. : étil</SousLexie><SousLexie> otil.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>métier à tisser</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>étil, otil.</LexieEntiere>
-        <Lexie><SousLexie>étil</SousLexie><SousLexie> otil.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>meuble </Entrée>
+        <Entrée>meuble</Entrée>
         <Complément>(sol)</Complément>
         <StructureGrammaticale>adj.</StructureGrammaticale>
         <LexieEntiere>mublé.</LexieEntiere>
         <Lexie><SousLexie>mublé.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>meubles </Entrée>
+        <Entrée>meubles</Entrée>
         <Complément>(mobilier)</Complément>
         <StructureGrammaticale>s. m. pl.</StructureGrammaticale>
         <LexieEntiere>bidons.</LexieEntiere>
         <Lexie><SousLexie>bidons.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>meule </Entrée>
+        <Entrée>meule</Entrée>
         <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(de blé, de foin...), s. f. : mofle, mouée, moye.</LexieEntiere>
+        <Lexie><SousLexie>(de blé</SousLexie><SousLexie> de foin...)</SousLexie><SousLexie> s. f. : mofle</SousLexie><SousLexie> mouée</SousLexie><SousLexie> moye.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>meunier</Entrée>
         <Complément></Complément>
@@ -433,17 +433,17 @@
         <LexieEntiere>mourdrir.</LexieEntiere>
         <Lexie><SousLexie>mourdrir.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>midi </Entrée>
+        <Entrée>midi</Entrée>
         <Complément>(pause)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
         <LexieEntiere>inter-lé-midi.</LexieEntiere>
         <Lexie><SousLexie>inter-lé-midi.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>mie </Entrée>
-        <Complément>(de pain)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>mioche.</LexieEntiere>
-        <Lexie><SousLexie>mioche.</SousLexie></Lexie>
+        <Entrée>mie</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(de pain), s. f. : mioche.</LexieEntiere>
+        <Lexie><SousLexie>(de pain)</SousLexie><SousLexie> s. f. : mioche.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>miette</Entrée>
         <Complément></Complément>
@@ -577,17 +577,17 @@
         <LexieEntiere>monne.</LexieEntiere>
         <Lexie><SousLexie>monne.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>monter </Entrée>
-        <Complément>(en graine)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>filer.</LexieEntiere>
-        <Lexie><SousLexie>filer.</SousLexie></Lexie>
+        <Entrée>monter</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(en graine), v. : filer.</LexieEntiere>
+        <Lexie><SousLexie>(en graine)</SousLexie><SousLexie> v. : filer.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>monsieur </Entrée>
-        <Complément>(qui joue l'important)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>menheer.</LexieEntiere>
-        <Lexie><SousLexie>menheer.</SousLexie></Lexie>
+        <Entrée>monsieur</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(qui joue l'important), s. m. : menheer.</LexieEntiere>
+        <Lexie><SousLexie>(qui joue l'important)</SousLexie><SousLexie> s. m. : menheer.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>monstrueux</Entrée>
         <Complément></Complément>
@@ -607,11 +607,11 @@
         <LexieEntiere>gaber.</LexieEntiere>
         <Lexie><SousLexie>gaber.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>morceau </Entrée>
-        <Complément>(de pain)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>cantiau, chiquet, neuche.</LexieEntiere>
-        <Lexie><SousLexie>cantiau</SousLexie><SousLexie> chiquet</SousLexie><SousLexie> neuche.</SousLexie></Lexie>
+        <Entrée>morceau</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(de pain), s. m. : cantiau, chiquet, neuche.</LexieEntiere>
+        <Lexie><SousLexie>(de pain)</SousLexie><SousLexie> s. m. : cantiau</SousLexie><SousLexie> chiquet</SousLexie><SousLexie> neuche.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>mordiller</Entrée>
         <Complément></Complément>
@@ -625,13 +625,13 @@
         <LexieEntiere>hagner.</LexieEntiere>
         <Lexie><SousLexie>hagner.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>morelle tue-chiens</Entrée>
+        <Entrée>morelle</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>poison noir.</LexieEntiere>
-        <Lexie><SousLexie>poison noir.</SousLexie></Lexie>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>tue-chiens, s. f. : poison noir.</LexieEntiere>
+        <Lexie><SousLexie>tue-chiens</SousLexie><SousLexie> s. f. : poison noir.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>morgue </Entrée>
+        <Entrée>morgue</Entrée>
         <Complément>(d'hôpital)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere>réfrodio.</LexieEntiere>
@@ -655,7 +655,7 @@
         <LexieEntiere>mortaise.</LexieEntiere>
         <Lexie><SousLexie>mortaise.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>morve </Entrée>
+        <Entrée>morve</Entrée>
         <Complément>(nasale)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere>goguette, mouquelle, nase, niflette.</LexieEntiere>
@@ -667,17 +667,17 @@
         <LexieEntiere>bafiou, nifiou.</LexieEntiere>
         <Lexie><SousLexie>bafiou</SousLexie><SousLexie> nifiou.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>motte </Entrée>
-        <Complément>(de terre)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>maroque, waroque ; briser les mottes : déwaroquer.</LexieEntiere>
-        <Lexie><SousLexie>maroque</SousLexie><SousLexie> waroque </SousLexie><SousLexie> briser les mottes : déwaroquer.</SousLexie></Lexie>
+        <Entrée>motte</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(de terre), s. f. : maroque, waroque ; briser les mottes : déwaroquer.</LexieEntiere>
+        <Lexie><SousLexie>(de terre)</SousLexie><SousLexie> s. f. : maroque</SousLexie><SousLexie> waroque </SousLexie><SousLexie> briser les mottes : déwaroquer.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>mou </Entrée>
-        <Complément>(sans énergie)</Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>pataflaque.</LexieEntiere>
-        <Lexie><SousLexie>pataflaque.</SousLexie></Lexie>
+        <Entrée>mou</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(sans énergie), adj. : pataflaque.</LexieEntiere>
+        <Lexie><SousLexie>(sans énergie)</SousLexie><SousLexie> adj. : pataflaque.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>mouchard</Entrée>
         <Complément></Complément>
@@ -691,7 +691,7 @@
         <LexieEntiere>mouque.</LexieEntiere>
         <Lexie><SousLexie>mouque.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>moucher </Entrée>
+        <Entrée>moucher</Entrée>
         <Complément>(se)</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
         <LexieEntiere>s' mouquer, souffler s' nez.</LexieEntiere>
@@ -727,7 +727,7 @@
         <LexieEntiere>touquette.</LexieEntiere>
         <Lexie><SousLexie>touquette.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>moule </Entrée>
+        <Entrée>moule</Entrée>
         <Complément>(mollusque)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere>mourmoulette.</LexieEntiere>
@@ -751,29 +751,29 @@
         <LexieEntiere>moron.</LexieEntiere>
         <Lexie><SousLexie>moron.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>mousqueton </Entrée>
+        <Entrée>mousqueton</Entrée>
         <Complément>(attache)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
         <LexieEntiere>métin.</LexieEntiere>
         <Lexie><SousLexie>métin.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>mousse </Entrée>
+        <Entrée>mousse</Entrée>
         <Complément>(plante)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere>mousset.</LexieEntiere>
         <Lexie><SousLexie>mousset.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>moutarde </Entrée>
-        <Complément>(des champs)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
+        <Entrée>moutarde</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
         <LexieEntiere></LexieEntiere>
         
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>mouton</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(animal) bédot ; (flocon de poussière) minou, nounou, pleumion.</LexieEntiere>
+        <Lexie><SousLexie>(animal) bédot </SousLexie><SousLexie> (flocon de poussière) minou</SousLexie><SousLexie> nounou</SousLexie><SousLexie> pleumion.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>mouture</Entrée>
         <Complément></Complément>
@@ -796,8 +796,8 @@
         <Entrée>muguet</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(fleur) passerolle ; (maladie) : ramette.</LexieEntiere>
+        <Lexie><SousLexie>(fleur) passerolle </SousLexie><SousLexie> (maladie) : ramette.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>mûr</Entrée>
         <Complément></Complément>
@@ -805,23 +805,23 @@
         <LexieEntiere>meur ; (fém.) meurte ; trop mûr : dessévré.</LexieEntiere>
         <Lexie><SousLexie>meur </SousLexie><SousLexie> (fém.) meurte </SousLexie><SousLexie> trop mûr : dessévré.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>mûre </Entrée>
-        <Complément>(des ronces)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>caclaine, cathelène, meure, meuron.</LexieEntiere>
-        <Lexie><SousLexie>caclaine</SousLexie><SousLexie> cathelène</SousLexie><SousLexie> meure</SousLexie><SousLexie> meuron.</SousLexie></Lexie>
+        <Entrée>mûre</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(des ronces), s. f. : caclaine, cathelène, meure, meuron.</LexieEntiere>
+        <Lexie><SousLexie>(des ronces)</SousLexie><SousLexie> s. f. : caclaine</SousLexie><SousLexie> cathelène</SousLexie><SousLexie> meure</SousLexie><SousLexie> meuron.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>mûrir</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(pour un fruit) parer.</LexieEntiere>
+        <Lexie><SousLexie>(pour un fruit) parer.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>musard</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s. m. et adj.</StructureGrammaticale>
-        <LexieEntiere>jingleux, lusot, luseux, lusoteux.</LexieEntiere>
-        <Lexie><SousLexie>jingleux</SousLexie><SousLexie> lusot</SousLexie><SousLexie> luseux</SousLexie><SousLexie> lusoteux.</SousLexie></Lexie>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <LexieEntiere> et adj. : jingleux, lusot, luseux, lusoteux.</LexieEntiere>
+        <Lexie><SousLexie> et adj. : jingleux</SousLexie><SousLexie> lusot</SousLexie><SousLexie> luseux</SousLexie><SousLexie> lusoteux.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>myope</Entrée>
         <Complément></Complément>

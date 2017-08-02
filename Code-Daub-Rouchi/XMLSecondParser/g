@@ -7,29 +7,29 @@
         <LexieEntiere>wanepain (vx).</LexieEntiere>
         <Lexie><SousLexie>wanepain (vx).</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>gagner </Entrée>
-        <Complément>(aux cartes)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>effacer.</LexieEntiere>
-        <Lexie><SousLexie>effacer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>gaillet gratteron</Entrée>
+        <Entrée>gagner</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>rèle.</LexieEntiere>
-        <Lexie><SousLexie>rèle.</SousLexie></Lexie>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(aux cartes), v. : effacer.</LexieEntiere>
+        <Lexie><SousLexie>(aux cartes)</SousLexie><SousLexie> v. : effacer.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>gale </Entrée>
-        <Complément>(des chats)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>ripe.</LexieEntiere>
-        <Lexie><SousLexie>ripe.</SousLexie></Lexie>
+        <Entrée>gaillet</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>gratteron, s. m. : rèle.</LexieEntiere>
+        <Lexie><SousLexie>gratteron</SousLexie><SousLexie> s. m. : rèle.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>galerie </Entrée>
-        <Complément>(de mine)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>bowette, bouviau.</LexieEntiere>
-        <Lexie><SousLexie>bowette</SousLexie><SousLexie> bouviau.</SousLexie></Lexie>
+        <Entrée>gale</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(des chats), s. f. : ripe.</LexieEntiere>
+        <Lexie><SousLexie>(des chats)</SousLexie><SousLexie> s. f. : ripe.</SousLexie></Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>galerie</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(de mine), s. f. : bowette, bouviau.</LexieEntiere>
+        <Lexie><SousLexie>(de mine)</SousLexie><SousLexie> s. f. : bowette</SousLexie><SousLexie> bouviau.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>galette</Entrée>
         <Complément></Complément>
@@ -70,8 +70,8 @@
         <Entrée>garçon</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(voir : gamin).</LexieEntiere>
+        <Lexie><SousLexie>(voir : gamin).</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>garde-champêtre</Entrée>
         <Complément></Complément>
@@ -151,11 +151,11 @@
         <LexieEntiere>ingaver.</LexieEntiere>
         <Lexie><SousLexie>ingaver.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>gaz carbonique</Entrée>
+        <Entrée>gaz</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>puteux.</LexieEntiere>
-        <Lexie><SousLexie>puteux.</SousLexie></Lexie>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>carbonique, s. m. : puteux.</LexieEntiere>
+        <Lexie><SousLexie>carbonique</SousLexie><SousLexie> s. m. : puteux.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>gazon</Entrée>
         <Complément></Complément>
@@ -163,11 +163,11 @@
         <LexieEntiere>wazon (vx).</LexieEntiere>
         <Lexie><SousLexie>wazon (vx).</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>gazouiller v</Entrée>
+        <Entrée>gazouiller</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <StructureGrammaticale>v.</StructureGrammaticale>
+        <LexieEntiere>chichouiter, mulotter, rablablater.</LexieEntiere>
+        <Lexie><SousLexie>chichouiter</SousLexie><SousLexie> mulotter</SousLexie><SousLexie> rablablater.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>geai</Entrée>
         <Complément></Complément>
@@ -175,11 +175,11 @@
         <LexieEntiere>colas.</LexieEntiere>
         <Lexie><SousLexie>colas.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>gelée </Entrée>
-        <Complément>(de pâté)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>glaire.</LexieEntiere>
-        <Lexie><SousLexie>glaire.</SousLexie></Lexie>
+        <Entrée>gelée</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(de pâté), s. f. : glaire.</LexieEntiere>
+        <Lexie><SousLexie>(de pâté)</SousLexie><SousLexie> s. f. : glaire.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>gencive</Entrée>
         <Complément></Complément>
@@ -214,8 +214,8 @@
         <Entrée>géomètre</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(mines) niveleux.</LexieEntiere>
+        <Lexie><SousLexie>(mines) niveleux.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>germe</Entrée>
         <Complément></Complément>
@@ -313,11 +313,11 @@
         <LexieEntiere>galuriau ; (fém.) galuriette.</LexieEntiere>
         <Lexie><SousLexie>galuriau </SousLexie><SousLexie> (fém.) galuriette.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>gomme </Entrée>
-        <Complément>(des arbres)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>brin d'agache.</LexieEntiere>
-        <Lexie><SousLexie>brin d'agache.</SousLexie></Lexie>
+        <Entrée>gomme</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(des arbres), s. f. : brin d'agache.</LexieEntiere>
+        <Lexie><SousLexie>(des arbres)</SousLexie><SousLexie> s. f. : brin d'agache.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>gonflé</Entrée>
         <Complément></Complément>
@@ -355,17 +355,17 @@
         <LexieEntiere>gorgeon, gorgère.</LexieEntiere>
         <Lexie><SousLexie>gorgeon</SousLexie><SousLexie> gorgère.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>gourmand </Entrée>
-        <Complément>(de fraisier)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>fichon.</LexieEntiere>
-        <Lexie><SousLexie>fichon.</SousLexie></Lexie>
+        <Entrée>gourmand</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(de fraisier), s. m. : fichon.</LexieEntiere>
+        <Lexie><SousLexie>(de fraisier)</SousLexie><SousLexie> s. m. : fichon.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>gourmand</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s. m. et adj.</StructureGrammaticale>
-        <LexieEntiere>avalant, à s' bouque, à s' gueule, gueulard, maca. (Voir : glouton).</LexieEntiere>
-        <Lexie><SousLexie>avalant</SousLexie><SousLexie> à s' bouque</SousLexie><SousLexie> à s' gueule</SousLexie><SousLexie> gueulard</SousLexie><SousLexie> maca. (Voir : glouton).</SousLexie></Lexie>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <LexieEntiere> et adj. : avalant, à s' bouque, à s' gueule, gueulard, maca. (Voir : glouton).</LexieEntiere>
+        <Lexie><SousLexie> et adj. : avalant</SousLexie><SousLexie> à s' bouque</SousLexie><SousLexie> à s' gueule</SousLexie><SousLexie> gueulard</SousLexie><SousLexie> maca. (Voir : glouton).</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>gourmet</Entrée>
         <Complément></Complément>
@@ -376,14 +376,14 @@
         <Entrée>gousse</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(de pois) cossiau ; (d'ail) dosse, éclette.</LexieEntiere>
+        <Lexie><SousLexie>(de pois) cossiau </SousLexie><SousLexie> (d'ail) dosse</SousLexie><SousLexie> éclette.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>goûter </Entrée>
-        <Complément>(collation de l'après-midi)</Complément>
-        <StructureGrammaticale>v. et s. m.</StructureGrammaticale>
-        <LexieEntiere>archéner.</LexieEntiere>
-        <Lexie><SousLexie>archéner.</SousLexie></Lexie>
+        <Entrée>goûter</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(collation de l'après-midi), v. et s. m. : archéner.</LexieEntiere>
+        <Lexie><SousLexie>(collation de l'après-midi)</SousLexie><SousLexie> v. et s. m. : archéner.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>gouttière</Entrée>
         <Complément></Complément>
@@ -391,11 +391,11 @@
         <LexieEntiere>nochère.</LexieEntiere>
         <Lexie><SousLexie>nochère.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>grain </Entrée>
-        <Complément>(de folie)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>touque.</LexieEntiere>
-        <Lexie><SousLexie>touque.</SousLexie></Lexie>
+        <Entrée>grain</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(de folie), s. m. : touque.</LexieEntiere>
+        <Lexie><SousLexie>(de folie)</SousLexie><SousLexie> s. m. : touque.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>grand-père</Entrée>
         <Complément></Complément>
@@ -403,11 +403,11 @@
         <LexieEntiere>taïon ; grand-mère, s. f. : taïonne.</LexieEntiere>
         <Lexie><SousLexie>taïon </SousLexie><SousLexie> grand-mère</SousLexie><SousLexie> s. f. : taïonne.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>grappiller </Entrée>
-        <Complément>(du charbon)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>rachener.</LexieEntiere>
-        <Lexie><SousLexie>rachener.</SousLexie></Lexie>
+        <Entrée>grappiller</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(du charbon), v. : rachener.</LexieEntiere>
+        <Lexie><SousLexie>(du charbon)</SousLexie><SousLexie> v. : rachener.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>gras</Entrée>
         <Complément></Complément>
@@ -433,7 +433,7 @@
         <LexieEntiere>armênaches, erménaches.</LexieEntiere>
         <Lexie><SousLexie>armênaches</SousLexie><SousLexie> erménaches.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>gré </Entrée>
+        <Entrée>gré</Entrée>
         <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
         <LexieEntiere></LexieEntiere>
@@ -508,8 +508,8 @@
         <Entrée>grippe-sous</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(voir : avare).</LexieEntiere>
+        <Lexie><SousLexie>(voir : avare).</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>grognon</Entrée>
         <Complément></Complément>
@@ -547,7 +547,7 @@
         <LexieEntiere>grusier.</LexieEntiere>
         <Lexie><SousLexie>grusier.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>grossièrement </Entrée>
+        <Entrée>grossièrement</Entrée>
         <Complément>(fait)</Complément>
         <StructureGrammaticale>loc. adv.</StructureGrammaticale>
         <LexieEntiere>à l' grosse morbleute.</LexieEntiere>

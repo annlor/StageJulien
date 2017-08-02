@@ -37,23 +37,23 @@
         <LexieEntiere>neppier.</LexieEntiere>
         <Lexie><SousLexie>neppier.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>négligé </Entrée>
+        <Entrée>négligé</Entrée>
         <Complément>(homme)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
         <LexieEntiere>blatier ; femme négligée : founiousse.</LexieEntiere>
         <Lexie><SousLexie>blatier </SousLexie><SousLexie> femme négligée : founiousse.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>nettoyage hebdomadaire</Entrée>
+        <Entrée>nettoyage</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>samedi.</LexieEntiere>
-        <Lexie><SousLexie>samedi.</SousLexie></Lexie>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>hebdomadaire, s. m. : samedi.</LexieEntiere>
+        <Lexie><SousLexie>hebdomadaire</SousLexie><SousLexie> s. m. : samedi.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>nettoyer </Entrée>
-        <Complément>(la maison)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>arloqueter, arnettier, déberner, loqueter, nettier, rapproprier, wassinguer. Nettoyer sommairement : faire catiau belle-moute.</LexieEntiere>
-        <Lexie><SousLexie>arloqueter</SousLexie><SousLexie> arnettier</SousLexie><SousLexie> déberner</SousLexie><SousLexie> loqueter</SousLexie><SousLexie> nettier</SousLexie><SousLexie> rapproprier</SousLexie><SousLexie> wassinguer. Nettoyer sommairement : faire catiau belle-moute.</SousLexie></Lexie>
+        <Entrée>nettoyer</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(la maison), v. : arloqueter, arnettier, déberner, loqueter, nettier, rapproprier, wassinguer. Nettoyer sommairement : faire catiau belle-moute.</LexieEntiere>
+        <Lexie><SousLexie>(la maison)</SousLexie><SousLexie> v. : arloqueter</SousLexie><SousLexie> arnettier</SousLexie><SousLexie> déberner</SousLexie><SousLexie> loqueter</SousLexie><SousLexie> nettier</SousLexie><SousLexie> rapproprier</SousLexie><SousLexie> wassinguer. Nettoyer sommairement : faire catiau belle-moute.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>neuf</Entrée>
         <Complément></Complément>
@@ -64,22 +64,22 @@
         <Entrée>niais</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(voir : imbécile).</LexieEntiere>
+        <Lexie><SousLexie>(voir : imbécile).</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>niche </Entrée>
-        <Complément>(à chien)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>baraque ou cadolette ou gahutte à tchien (ou : à quien).</LexieEntiere>
-        <Lexie><SousLexie>baraque ou cadolette ou gahutte à tchien (ou : à quien).</SousLexie></Lexie>
+        <Entrée>niche</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(à chien), s. f. : baraque ou cadolette ou gahutte à tchien (ou : à quien).</LexieEntiere>
+        <Lexie><SousLexie>(à chien)</SousLexie><SousLexie> s. f. : baraque ou cadolette ou gahutte à tchien (ou : à quien).</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>nichée</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(d'animaux) nitée ; (d'enfants) péquée.</LexieEntiere>
+        <Lexie><SousLexie>(d'animaux) nitée </SousLexie><SousLexie> (d'enfants) péquée.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>nielle </Entrée>
+        <Entrée>nielle</Entrée>
         <Complément>(plante)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere>baron, brousure.</LexieEntiere>
@@ -91,11 +91,11 @@
         <LexieEntiere>arnipper.</LexieEntiere>
         <Lexie><SousLexie>arnipper.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>noeud </Entrée>
-        <Complément>(de fil)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>maquion.</LexieEntiere>
-        <Lexie><SousLexie>maquion.</SousLexie></Lexie>
+        <Entrée>noeud</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(de fil), s. m. : maquion.</LexieEntiere>
+        <Lexie><SousLexie>(de fil)</SousLexie><SousLexie> s. m. : maquion.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>noiraud</Entrée>
         <Complément></Complément>
@@ -133,7 +133,7 @@
         <LexieEntiere>no, nou.</LexieEntiere>
         <Lexie><SousLexie>no</SousLexie><SousLexie> nou.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>noue </Entrée>
+        <Entrée>noue</Entrée>
         <Complément>(gouttière)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere>anau.</LexieEntiere>
@@ -163,11 +163,11 @@
         <LexieEntiere>nos.</LexieEntiere>
         <Lexie><SousLexie>nos.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>noyau </Entrée>
-        <Complément>(de fruit)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>pierrette.</LexieEntiere>
-        <Lexie><SousLexie>pierrette.</SousLexie></Lexie>
+        <Entrée>noyau</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(de fruit), s. m. : pierrette.</LexieEntiere>
+        <Lexie><SousLexie>(de fruit)</SousLexie><SousLexie> s. m. : pierrette.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>nuage</Entrée>
         <Complément></Complément>

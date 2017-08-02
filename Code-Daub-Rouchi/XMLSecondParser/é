@@ -43,7 +43,7 @@
         <LexieEntiere>amusette, tourniole.</LexieEntiere>
         <Lexie><SousLexie>amusette</SousLexie><SousLexie> tourniole.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>échapper </Entrée>
+        <Entrée>échapper</Entrée>
         <Complément>(s')</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
         <LexieEntiere>dévoler.</LexieEntiere>
@@ -55,11 +55,11 @@
         <LexieEntiere>piquion.</LexieEntiere>
         <Lexie><SousLexie>piquion.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>échauffement </Entrée>
-        <Complément>(des cuisses)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>frognon, froïon.</LexieEntiere>
-        <Lexie><SousLexie>frognon</SousLexie><SousLexie> froïon.</SousLexie></Lexie>
+        <Entrée>échauffement</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(des cuisses), s. m. : frognon, froïon.</LexieEntiere>
+        <Lexie><SousLexie>(des cuisses)</SousLexie><SousLexie> s. m. : frognon</SousLexie><SousLexie> froïon.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>échelon</Entrée>
         <Complément></Complément>
@@ -97,7 +97,7 @@
         <LexieEntiere>écappée.</LexieEntiere>
         <Lexie><SousLexie>écappée.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>éclaire </Entrée>
+        <Entrée>éclaire</Entrée>
         <Complément>(grande)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere>hierbe d'arondielle.</LexieEntiere>
@@ -187,17 +187,17 @@
         <LexieEntiere>régayir.</LexieEntiere>
         <Lexie><SousLexie>régayir.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>égosiller </Entrée>
+        <Entrée>égosiller</Entrée>
         <Complément>(s')</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
         <LexieEntiere>s'agosiller, s'égasioter.</LexieEntiere>
         <Lexie><SousLexie>s'agosiller</SousLexie><SousLexie> s'égasioter.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>égrener </Entrée>
-        <Complément>(le lin)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>éboucheler.</LexieEntiere>
-        <Lexie><SousLexie>éboucheler.</SousLexie></Lexie>
+        <Entrée>égrener</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(le lin), v. : éboucheler.</LexieEntiere>
+        <Lexie><SousLexie>(le lin)</SousLexie><SousLexie> v. : éboucheler.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>égreneuse</Entrée>
         <Complément></Complément>
@@ -211,13 +211,13 @@
         <LexieEntiere>débranquer.</LexieEntiere>
         <Lexie><SousLexie>débranquer.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>élancement </Entrée>
+        <Entrée>élancement</Entrée>
         <Complément>(douleur)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
         <LexieEntiere>lanchure.</LexieEntiere>
         <Lexie><SousLexie>lanchure.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>élancer </Entrée>
+        <Entrée>élancer</Entrée>
         <Complément>(douleur)</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
         <LexieEntiere>lancer.</LexieEntiere>
@@ -247,7 +247,7 @@
         <LexieEntiere>décarpiller, démiocher, démioler, épiller, miletter.</LexieEntiere>
         <Lexie><SousLexie>décarpiller</SousLexie><SousLexie> démiocher</SousLexie><SousLexie> démioler</SousLexie><SousLexie> épiller</SousLexie><SousLexie> miletter.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>émoi </Entrée>
+        <Entrée>émoi</Entrée>
         <Complément>(en)</Complément>
         <StructureGrammaticale></StructureGrammaticale>
         <LexieEntiere>in ameur, à l' foufielle.</LexieEntiere>
@@ -265,17 +265,17 @@
         <LexieEntiere>mouquet.</LexieEntiere>
         <Lexie><SousLexie>mouquet.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>émouvoir </Entrée>
+        <Entrée>émouvoir</Entrée>
         <Complément>(s')</Complément>
         <StructureGrammaticale></StructureGrammaticale>
         <LexieEntiere>v : avoir el coeur poché, avoir el coeur à l' loque.</LexieEntiere>
         <Lexie><SousLexie>v : avoir el coeur poché</SousLexie><SousLexie> avoir el coeur à l' loque.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>épaisseur </Entrée>
-        <Complément>(d'un mur)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>interfin.</LexieEntiere>
-        <Lexie><SousLexie>interfin.</SousLexie></Lexie>
+        <Entrée>épaisseur</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(d'un mur), s. f. : interfin.</LexieEntiere>
+        <Lexie><SousLexie>(d'un mur)</SousLexie><SousLexie> s. f. : interfin.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>épandre</Entrée>
         <Complément></Complément>
@@ -292,14 +292,14 @@
         <Entrée>épices</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f. pl.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(voir : pain).</LexieEntiere>
+        <Lexie><SousLexie>(voir : pain).</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>épier</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(voir : guigner).</LexieEntiere>
+        <Lexie><SousLexie>(voir : guigner).</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>épilepsie</Entrée>
         <Complément></Complément>
@@ -307,7 +307,7 @@
         <LexieEntiere>mal caduque.</LexieEntiere>
         <Lexie><SousLexie>mal caduque.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>épi </Entrée>
+        <Entrée>épi</Entrée>
         <Complément>(cassé)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
         <LexieEntiere>écrapin.</LexieEntiere>
@@ -349,13 +349,13 @@
         <LexieEntiere>archuquer.</LexieEntiere>
         <Lexie><SousLexie>archuquer.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>éplucher </Entrée>
-        <Complément>(des légumes)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>alire, pleumer.</LexieEntiere>
-        <Lexie><SousLexie>alire</SousLexie><SousLexie> pleumer.</SousLexie></Lexie>
+        <Entrée>éplucher</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(des légumes), v. : alire, pleumer.</LexieEntiere>
+        <Lexie><SousLexie>(des légumes)</SousLexie><SousLexie> v. : alire</SousLexie><SousLexie> pleumer.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>éponte </Entrée>
+        <Entrée>éponte</Entrée>
         <Complément>(inférieure)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere>meur.</LexieEntiere>
@@ -457,7 +457,7 @@
         <LexieEntiere>pette ed feu.</LexieEntiere>
         <Lexie><SousLexie>pette ed feu.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>étoffe </Entrée>
+        <Entrée>étoffe</Entrée>
         <Complément>(mince)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere>pélade.</LexieEntiere>
@@ -499,7 +499,7 @@
         <LexieEntiere>porée.</LexieEntiere>
         <Lexie><SousLexie>porée.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>évanouir </Entrée>
+        <Entrée>évanouir</Entrée>
         <Complément>(s')</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
         <LexieEntiere>quéir faible ou favelotte.</LexieEntiere>

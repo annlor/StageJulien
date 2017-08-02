@@ -36,8 +36,30 @@
       }
 
  </script>
+<style>
+.nav-pills > li.active > a, .nav-pills > li.active > a:focus {
+    color: #f8f8f8;
+    background-color: #2d2d2d;
+    border-color: #000000;
+    }
 
+        .nav-pills > li.active > a:hover {
+    color: #222222;
+    background-color: #f7f7f7;
+    border-color: #d3d3d3;
+        }
 
+.nav-pills > li > a, .nav-pills > li > a:focus {
+    color: #000000;
+    background-color: #ffffff;
+    border-color: #d3d3d3;
+}
+        .nav-pills > li > a:hover {
+    color: #222222;
+    background-color: #f7f7f7;
+    border-color: #d3d3d3;
+}
+</style>
 
 </head>
 <body>
@@ -67,7 +89,7 @@
 <div class="container-fluid">
 
       <div class="starter-template">
-        <p class="lead">Vous avez cherché :</p>
+        <h2>Vous avez cherché :</h2>
 <?php
 /* ARC2 static class inclusion */ 
 
@@ -82,24 +104,52 @@ if ($errs = $store->getErrors()) {
   }
 
 $output = $_GET["mot"];
-$output = htmlspecialchars($output, ENT_QUOTES);
+
 if (preg_match('/([a-zA-Z()\s\',]+)/',$output)<1){
 	$output = "Entrée invalide";
 }
+
 $query = "PREFIX ontolex: <http://www.w3.org/ns/lemon/ontolex#>
 PREFIX restaure: <http://restaure.limsi.fr/2017/rdf#>
 PREFIX lexinfo: <http://lexinfo.net/ontology/2.0/lexinfo#>
+PREFIX lex: <http://purl.org/lex#>
 
-SELECT ?object2 ?speech2 ?gender2
+
+SELECT ?wr1 ?wr2 ?wr3 ?wr4 ?ANC ?speech2 ?gender2
 WHERE {
-    ?x ontolex:writtenRep \"${output}\".
-    ?y ontolex:lexicalForm ?x.
-  	?y restaure:TranslatableAsForm ?z.
-    ?z ontolex:writtenRep ?object2.
+  ?x ontolex:writtenRep \"$output\".
+  ?y ontolex:lexicalForm ?x.
+  
+  {
+    ?y restaure:TranslatableAsForm ?z1.
+      ?z1 ontolex:writtenRep ?wr1.
+  }
+  UNION
+  {
+   ?y restaure:TranslatableAsDef ?z2.
+      ?z2 ontolex:writtenRep ?wr2.
+  }
+  UNION
+  {
+   ?y restaure:ExampleInPicard ?z3.
+      ?z3 ontolex:writtenRep ?wr3.
+  }
+  UNION
+  {
+   ?y restaure:TranslatableInFrench ?z4.
+      ?z4 ontolex:writtenRep ?wr4.
+  }
+  UNION
+  {
+    ?y restaure:oldInformation ?z5.
+    ?z5 ontolex:writtenRep ?ANC.
+  }
+
   OPTIONAL {?y lexinfo:partOfSpeech ?speech.
   ?speech ontolex:writtenRep ?speech2}.
     OPTIONAL{?y lexinfo:gender ?gender.
   ?gender ontolex:writtenRep ?gender2}
+
 
 }";
 
@@ -111,40 +161,64 @@ WHERE {
        print_r($errs);
     }
 foreach($rows as $row){
-	$object2[] = $row['object2'];
-	echo "{$output} <br> {$row['speech2']} {$row['gender2']} ";
-	
+	$wr1[] = $row['wr1'];
+	$wr2[] = $row['wr2'];
+	$wr3[] = $row['wr3'];
+	$wr4[] = $row['wr4'];
+	$ANC[] = $row['ANC'];
+	$speech[] = $row['speech2'];
+	$gender[] = $row['gender2'];
 }
+if (count(array_filter($wr1)) > 0){
+	$str = "(français)";
+	$str2 = "Traduction picarde :";
+}
+
+if (count(array_filter($wr4)) >0 ||count(array_filter($wr2)) >0){
+
+	$str = "(picard)";
+	$str2 = "Traduction française :";
+}
+
+
+if (count(array_filter($wr3)) >0){
+	$str3 = "Exemple picard :";
+}
+
+if(count(array_filter($ANC)) >0){
+	$str4 = "Ancienne Étymologie :";
+}
+
+echo "{$output} ${str}<br> {$speech[0]} {$gender[0]}";
 ?><br><br>
-<div class="row">
-<div class="btn-group" data-toggle="buttons">
-  <span onclick="changeOnglet(0)"><label class="btn btn-primary active">
-    <input type="radio" name="options" id="option1" autocomplete="off" checked>Traductions</span>
-  </label>
-<span onclick="changeOnglet(1)"><label class="btn btn-primary">
-    <input type="radio" name="options" id="option2" autocomplete="off">Carte</span>
-  </label>
 
-      </div>
-</div>
-    </div>
 
-    <div id="contenuOnglet0" style="display:block;">
-	<ul style="list-style-type:circle">
-	<li>Picard : </li><p id = "output"> <?php 
-	echo "{$object2[0]}";
+<div class="container">
+  <ul class="nav nav-pills">
+    <li class="active"><a data-toggle="pill" href="#home">Traductions</a></li>
+    <li><a data-toggle="pill" href="#contenuOnglet1">Carte</a></li>
+  </ul>
+  
+  <div class="tab-content">
+    <div id="home" class="tab-pane fade in active">
+      <ul class="list-group" style="list-style-type:circle">
+	<li class="list-group-item" style="text-align:left;"><p> <?php
+
+	echo "<p style=\"font-weight:bold;\"> ${str2} </p>"."<p id = \"output\">".implode($wr1).implode($wr4)."</p>"."<p style=\"font-weight:bold;\"> ${str3} </p>".implode($wr3)."<p style = \"font-weight:bold;\"><br>${str4} </p>".implode($ANC);
 
 ?>
-</p>
-	<li>Alsacien :</li>
-	<li>Occitan :</li>
+
+</p></li>
+	<li class="list-group-item" style="text-align:left;">Alsacien :</li>
+	<li class="list-group-item" style="text-align:left;">Occitan :</li>
 	</ul>
     </div>
-    <div id="contenuOnglet1" style="display:block;">
-
-            <div id="map">
+    <div id="contenuOnglet1" class="tab-pane fade" style="display:block;">
+<div id="map">
 </div>
+    </div>
 
+  </div>
 </div> <br>
 
     </div><!-- /.container -->

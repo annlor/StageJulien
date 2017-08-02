@@ -7,11 +7,11 @@
         <LexieEntiere>dégaine.</LexieEntiere>
         <Lexie><SousLexie>dégaine.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>habiller </Entrée>
+        <Entrée>habiller</Entrée>
         <Complément>(mal)</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(voir : accoutrer).</LexieEntiere>
+        <Lexie><SousLexie>(voir : accoutrer).</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>habiter</Entrée>
         <Complément></Complément>
@@ -79,7 +79,7 @@
         <LexieEntiere>harniquer.</LexieEntiere>
         <Lexie><SousLexie>harniquer.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>hâter </Entrée>
+        <Entrée>hâter</Entrée>
         <Complément>(se)</Complément>
         <StructureGrammaticale></StructureGrammaticale>
         <LexieEntiere>tracer.</LexieEntiere>
@@ -145,7 +145,7 @@
         <LexieEntiere>arondielle.</LexieEntiere>
         <Lexie><SousLexie>arondielle.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>histoire </Entrée>
+        <Entrée>histoire</Entrée>
         <Complément>(vieille)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere>viellé-preute.</LexieEntiere>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Nomenclature>
         <ArticleDeDictionnaire>
-        <Entrée>objet </Entrée>
+        <Entrée>objet</Entrée>
         <Complément>(indéfini)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
         <LexieEntiere>agobile, argal, saquoi, séquoi.</LexieEntiere>
@@ -43,11 +43,11 @@
         <LexieEntiere>naque.</LexieEntiere>
         <Lexie><SousLexie>naque.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>oeillet des </Entrée>
+        <Entrée>oeillet</Entrée>
         <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere>Chartreux, s. m. : erbut.</LexieEntiere>
-        <Lexie><SousLexie>Chartreux</SousLexie><SousLexie> s. m. : erbut.</SousLexie></Lexie>
+        <LexieEntiere>des Chartreux, s. m. : erbut.</LexieEntiere>
+        <Lexie><SousLexie>des Chartreux</SousLexie><SousLexie> s. m. : erbut.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>oeuf</Entrée>
         <Complément></Complément>
@@ -61,7 +61,7 @@
         <LexieEntiere>offerre.</LexieEntiere>
         <Lexie><SousLexie>offerre.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>oh la la </Entrée>
+        <Entrée>oh</Entrée>
         <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
         <LexieEntiere></LexieEntiere>
@@ -133,11 +133,11 @@
         <LexieEntiere>ortile.</LexieEntiere>
         <Lexie><SousLexie>ortile.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>orvet s</Entrée>
+        <Entrée>orvet</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <LexieEntiere>quaterpièches.</LexieEntiere>
+        <Lexie><SousLexie>quaterpièches.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>os</Entrée>
         <Complément></Complément>
@@ -165,15 +165,15 @@
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>ou</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>conj. de coord.</StructureGrammaticale>
-        <LexieEntiere>o bin.</LexieEntiere>
-        <Lexie><SousLexie>o bin.</SousLexie></Lexie>
+        <StructureGrammaticale>conj.</StructureGrammaticale>
+        <LexieEntiere> de coord. : o bin.</LexieEntiere>
+        <Lexie><SousLexie> de coord. : o bin.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>où</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>pr. rel. et conj. de sub.</StructureGrammaticale>
-        <LexieEntiere>aduss, duss, d'ù, eduss, ù.</LexieEntiere>
-        <Lexie><SousLexie>aduss</SousLexie><SousLexie> duss</SousLexie><SousLexie> d'ù</SousLexie><SousLexie> eduss</SousLexie><SousLexie> ù.</SousLexie></Lexie>
+        <StructureGrammaticale>pr. rel.</StructureGrammaticale>
+        <LexieEntiere> et conj. de sub. : aduss, duss, d'ù, eduss, ù.</LexieEntiere>
+        <Lexie><SousLexie> et conj. de sub. : aduss</SousLexie><SousLexie> duss</SousLexie><SousLexie> d'ù</SousLexie><SousLexie> eduss</SousLexie><SousLexie> ù.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>oublier</Entrée>
         <Complément></Complément>
@@ -193,7 +193,7 @@
         <LexieEntiere>bondi.</LexieEntiere>
         <Lexie><SousLexie>bondi.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>ourse </Entrée>
+        <Entrée>ourse</Entrée>
         <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
         <LexieEntiere></LexieEntiere>
@@ -207,9 +207,9 @@
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>outre</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>prép. et adv.</StructureGrammaticale>
-        <LexieEntiere>oute, éoute.</LexieEntiere>
-        <Lexie><SousLexie>oute</SousLexie><SousLexie> éoute.</SousLexie></Lexie>
+        <StructureGrammaticale>prép.</StructureGrammaticale>
+        <LexieEntiere> et adv. : oute, éoute.</LexieEntiere>
+        <Lexie><SousLexie> et adv. : oute</SousLexie><SousLexie> éoute.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>ouvrier</Entrée>
         <Complément></Complément>

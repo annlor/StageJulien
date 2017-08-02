@@ -80,18 +80,26 @@ foreach($rows as $row) {
 
 }
 
-
 ?>
      <script>
         $(function() {
             var availableTags = <?php echo json_encode($stack); ?>;
+	availableTags.sort();
 
 		    $( "#inputpicard" ).autocomplete({
-      source: function(request, response) {
-        var results = $.ui.autocomplete.filter(availableTags, request.term);
+autoFocus: true,
 
-        response(results.slice(0, 100));
+      source: function(request, response) {
+
+var matches = $.map(availableTags, function (acItem) {
+            if (acItem.toUpperCase().indexOf(request.term.toUpperCase()) === 0) {
+                return acItem;
+            }
+        });
+        response(matches.slice(0,100));	
+
     },
+
 open: function(event,ui){
     var len = $('.ui-autocomplete > li').length;
 if (len >= 100){
@@ -104,6 +112,17 @@ document.getElementById("IntroAndCount").innerHTML = 'Il y a '+len+' résultat(s
     });
   } );
   </script>
+<script>
+function validateForm() {
+	var availableTags = <?php echo json_encode($stack); ?>;
+
+    var x = document.forms["myForm"]["mot"].value;
+    if (availableTags.indexOf(x) < 0) {
+document.getElementById('errors').innerHTML="Le mot entré n'est pas présent dans notre liste";
+        return false;
+    }
+}
+</script>
 
 	
   </head>
@@ -118,32 +137,7 @@ document.getElementById("IntroAndCount").innerHTML = 'Il y a '+len+' résultat(s
      document.getElementById('inputpicard').value=o.innerHTML;
     }
 
-</script>
-<script type="text/javascript">
-var base = <?php echo json_encode($stack); ?>;
 
-
-function check(field) {
-  var name = field.value;
-  var l = name.length;
-  var last = name;
-  function AC_indexOf()
-  {
-    var ctr=0;
-    for(var i = 0; i < base.length; i++)
-    {
-      var next = base[i];
-      if(name==next) return 1;
-      if(name==next.substr(0, l)) { last=next; ctr++;}
-    }
-    return ctr;
-  }
-  var ctr = AC_indexOf();
-  if(ctr != 1) return;
-  field.value = last;
-  var content = last + " trouvé.";
-  document.getElementById("storage").innerHTML=content;
-}
 </script>
     <nav class="navbar navbar-inverse navbar-fixed-top">
       <div class="container">
@@ -168,14 +162,15 @@ function check(field) {
 
     <div class="container">
 
-      <div class="starter-template">
+      <div style ="center"class="starter-template">
         <h1>Lexique des langues du projet RESTAURE</h1>
         <p class="lead">Vous cherchez comment se dit un mot en picard, occitan ou alsacien ?</p>
       </div>
- 	<form action ="action_page.php" method="get" id = "formulaire">
+<div id ="errors" style ="text-align:center"><br></div>
+ 	<form action ="action_page.php" method="get" id = "formulaire" name="myForm" onsubmit="return validateForm()">
     <p id ="IntroAndCount">Indiquez ce mot :</p><div class="ui-widget">
 <button type="reset" value="Reset" class="btn btn-secondary">Effacer</button>
-    <input type="text" id ="inputpicard" name="mot" required value="Tapez un mot..." onKeyUp="check(this)" onChange="check(this)" onclick="changeValue(this)" size = "30">
+    <input type="text" id ="inputpicard" name="mot" required value="Tapez un mot..." onclick="changeValue(this)" size = "30">
     <button type ="submit" class="btn btn-success">Soumettre</button> </div>
   	</form>
 

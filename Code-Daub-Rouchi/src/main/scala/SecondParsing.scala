@@ -26,7 +26,7 @@ class SecondParsing {
     val ComplementMot = P(("(" ~ "'".? ~ UP.LowerCaseLetter.rep(sep = "'") ~ "'".? ~ ")").!)
 
     val DeuxiemeParser: Parser[(String,Option[String],String,Seq[String])] = P(MotFrançais.! ~ " ".? ~ ComplementMot.!.?
-      ~ ", ".? ~ UP.Abreviation.?.! ~ " : ".? ~ (UP.Definitions ~ UP.Ponctuation).!.rep)
+      ~ ", ".? ~ UP.Abreviation.?.! ~ " : ".? ~ ("(".? ~ UP.Definitions ~ UP.Ponctuation).!.rep)
 
 
 
@@ -55,7 +55,9 @@ object SecondParsing {
 
 
   def main(args: Array[String]): Unit = {
-/*/people/khamphousone/Documents/Dictionnaires/daub_rouchi_197S_CU.txt*/
+/*
+/people/khamphousone/Documents/Dictionnaires/daub_rouchi_197S_CU.txt
+*/
     println("Entrez le chemin du dictionnaire Dauby Rouchi")
     val path = scala.io.StdIn.readLine()
     val buff: Source = Source.fromFile(path)

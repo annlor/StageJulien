@@ -19,7 +19,7 @@
         <LexieEntiere>imbrodio.</LexieEntiere>
         <Lexie><SousLexie>imbrodio.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>inactif </Entrée>
+        <Entrée>inactif</Entrée>
         <Complément>(être)</Complément>
         <StructureGrammaticale></StructureGrammaticale>
         <LexieEntiere>joquer.</LexieEntiere>
@@ -31,11 +31,11 @@
         <LexieEntiere>metteux d' feu.</LexieEntiere>
         <Lexie><SousLexie>metteux d' feu.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>incliner </Entrée>
-        <Complément>(manque d'aplomb)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>cléner.</LexieEntiere>
-        <Lexie><SousLexie>cléner.</SousLexie></Lexie>
+        <Entrée>incliner</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(manque d'aplomb), v. : cléner.</LexieEntiere>
+        <Lexie><SousLexie>(manque d'aplomb)</SousLexie><SousLexie> v. : cléner.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>incommode</Entrée>
         <Complément></Complément>
@@ -43,13 +43,13 @@
         <LexieEntiere>mal commode.</LexieEntiere>
         <Lexie><SousLexie>mal commode.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>inculte </Entrée>
+        <Entrée>inculte</Entrée>
         <Complément>(terre)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere>sars, sart. (Voir : friche, jachère).</LexieEntiere>
         <Lexie><SousLexie>sars</SousLexie><SousLexie> sart. (Voir : friche</SousLexie><SousLexie> jachère).</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>index </Entrée>
+        <Entrée>index</Entrée>
         <Complément>(doigt)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
         <LexieEntiere>Jean-laridé.</LexieEntiere>
@@ -57,9 +57,9 @@
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>indiscret</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s. m. et adj.</StructureGrammaticale>
-        <LexieEntiere>mêle-tout, métreux.</LexieEntiere>
-        <Lexie><SousLexie>mêle-tout</SousLexie><SousLexie> métreux.</SousLexie></Lexie>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <LexieEntiere> et adj. : mêle-tout, métreux.</LexieEntiere>
+        <Lexie><SousLexie> et adj. : mêle-tout</SousLexie><SousLexie> métreux.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>indisposé</Entrée>
         <Complément></Complément>
@@ -73,7 +73,7 @@
         <LexieEntiere>mal aisile.</LexieEntiere>
         <Lexie><SousLexie>mal aisile.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>infatigable </Entrée>
+        <Entrée>infatigable</Entrée>
         <Complément>(femme)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere>archelle, sara.</LexieEntiere>
@@ -91,19 +91,19 @@
         <LexieEntiere>poquet.</LexieEntiere>
         <Lexie><SousLexie>poquet.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>innocent </Entrée>
+        <Entrée>innocent</Entrée>
         <Complément>(simplet)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
         <LexieEntiere>innochint, ninoche.</LexieEntiere>
         <Lexie><SousLexie>innochint</SousLexie><SousLexie> ninoche.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>inquiéter </Entrée>
+        <Entrée>inquiéter</Entrée>
         <Complément>(s')</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
         <LexieEntiere>s' marmouser, s' trimousser.</LexieEntiere>
         <Lexie><SousLexie>s' marmouser</SousLexie><SousLexie> s' trimousser.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>insérer </Entrée>
+        <Entrée>insérer</Entrée>
         <Complément>(s')</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
         <LexieEntiere>s'incerner.</LexieEntiere>
@@ -115,11 +115,11 @@
         <LexieEntiere>esward, reward (vx).</LexieEntiere>
         <Lexie><SousLexie>esward</SousLexie><SousLexie> reward (vx).</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>instable </Entrée>
-        <Complément>(être en équilibre)</Complément>
+        <Entrée>instable</Entrée>
+        <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere>marchander.</LexieEntiere>
-        <Lexie><SousLexie>marchander.</SousLexie></Lexie>
+        <LexieEntiere>(être en équilibre) : marchander.</LexieEntiere>
+        <Lexie><SousLexie>(être en équilibre) : marchander.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>insulter</Entrée>
         <Complément></Complément>
@@ -145,17 +145,17 @@
         <LexieEntiere>interdeux.</LexieEntiere>
         <Lexie><SousLexie>interdeux.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>intestin </Entrée>
+        <Entrée>intestin</Entrée>
         <Complément>(gros)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
         <LexieEntiere>cras-boïau, maît'-boïau.</LexieEntiere>
         <Lexie><SousLexie>cras-boïau</SousLexie><SousLexie> maît'-boïau.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>iris faux-acore</Entrée>
+        <Entrée>iris</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>bié.</LexieEntiere>
-        <Lexie><SousLexie>bié.</SousLexie></Lexie>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>faux-acore, s. m. : bié.</LexieEntiere>
+        <Lexie><SousLexie>faux-acore</SousLexie><SousLexie> s. m. : bié.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>ivre</Entrée>
         <Complément></Complément>

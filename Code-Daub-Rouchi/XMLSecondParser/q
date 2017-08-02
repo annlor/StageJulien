@@ -4,8 +4,8 @@
         <Entrée>quantité</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(petite) chuchée ; (grande) raflée, travelée.</LexieEntiere>
+        <Lexie><SousLexie>(petite) chuchée </SousLexie><SousLexie> (grande) raflée</SousLexie><SousLexie> travelée.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>quel</Entrée>
         <Complément></Complément>
@@ -13,11 +13,11 @@
         <LexieEntiere>quelle, adj. : queu, queulle.</LexieEntiere>
         <Lexie><SousLexie>quelle</SousLexie><SousLexie> adj. : queu</SousLexie><SousLexie> queulle.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>quelque part</Entrée>
+        <Entrée>quelque</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>loc. adv.</StructureGrammaticale>
-        <LexieEntiere>quéque part, quête part.</LexieEntiere>
-        <Lexie><SousLexie>quéque part</SousLexie><SousLexie> quête part.</SousLexie></Lexie>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>part, loc. adv. : quéque part, quête part.</LexieEntiere>
+        <Lexie><SousLexie>part</SousLexie><SousLexie> loc. adv. : quéque part</SousLexie><SousLexie> quête part.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>quelques</Entrée>
         <Complément></Complément>
@@ -37,7 +37,7 @@
         <LexieEntiere>castille.</LexieEntiere>
         <Lexie><SousLexie>castille.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>quereller </Entrée>
+        <Entrée>quereller</Entrée>
         <Complément>(se)</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
         <LexieEntiere>estriver, s' piailler.</LexieEntiere>
@@ -45,17 +45,17 @@
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>querelleur</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s. m. et adj.</StructureGrammaticale>
-        <LexieEntiere>estriveux, noiseux.</LexieEntiere>
-        <Lexie><SousLexie>estriveux</SousLexie><SousLexie> noiseux.</SousLexie></Lexie>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <LexieEntiere> et adj. : estriveux, noiseux.</LexieEntiere>
+        <Lexie><SousLexie> et adj. : estriveux</SousLexie><SousLexie> noiseux.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>qu'est-ce-que </Entrée>
+        <Entrée>qu'est-ce-que</Entrée>
         <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
         <LexieEntiere></LexieEntiere>
         
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>qui </Entrée>
+        <Entrée>qui</Entrée>
         <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
         <LexieEntiere></LexieEntiere>
@@ -67,7 +67,7 @@
         <LexieEntiere>guille.</LexieEntiere>
         <Lexie><SousLexie>guille.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>quoi </Entrée>
+        <Entrée>quoi</Entrée>
         <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
         <LexieEntiere></LexieEntiere>

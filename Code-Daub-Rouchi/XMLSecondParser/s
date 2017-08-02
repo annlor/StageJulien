@@ -49,11 +49,11 @@
         <LexieEntiere>san.ner, sonner.</LexieEntiere>
         <Lexie><SousLexie>san.ner</SousLexie><SousLexie> sonner.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>saillir </Entrée>
-        <Complément>(être en saillie)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>biquer.</LexieEntiere>
-        <Lexie><SousLexie>biquer.</SousLexie></Lexie>
+        <Entrée>saillir</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(être en saillie), v. : biquer.</LexieEntiere>
+        <Lexie><SousLexie>(être en saillie)</SousLexie><SousLexie> v. : biquer.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>salaire</Entrée>
         <Complément></Complément>
@@ -85,7 +85,7 @@
         <LexieEntiere>briquet, pain fourré.</LexieEntiere>
         <Lexie><SousLexie>briquet</SousLexie><SousLexie> pain fourré.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sanglier </Entrée>
+        <Entrée>sanglier</Entrée>
         <Complément></Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
         <LexieEntiere>chingler, pourcheau-singler, singler.</LexieEntiere>
@@ -115,11 +115,11 @@
         <LexieEntiere>albute, arbute, buquo, busette.</LexieEntiere>
         <Lexie><SousLexie>albute</SousLexie><SousLexie> arbute</SousLexie><SousLexie> buquo</SousLexie><SousLexie> busette.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sarclage </Entrée>
-        <Complément>(des betteraves)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>ertaillage.</LexieEntiere>
-        <Lexie><SousLexie>ertaillage.</SousLexie></Lexie>
+        <Entrée>sarclage</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(des betteraves), s. m. : ertaillage.</LexieEntiere>
+        <Lexie><SousLexie>(des betteraves)</SousLexie><SousLexie> s. m. : ertaillage.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>sarcler</Entrée>
         <Complément></Complément>
@@ -139,7 +139,7 @@
         <LexieEntiere>écruaudo.</LexieEntiere>
         <Lexie><SousLexie>écruaudo.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sarrasin </Entrée>
+        <Entrée>sarrasin</Entrée>
         <Complément>(céréale)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
         <LexieEntiere>bouquette.</LexieEntiere>
@@ -175,7 +175,7 @@
         <LexieEntiere></LexieEntiere>
         
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sauvé </Entrée>
+        <Entrée>sauvé</Entrée>
         <Complément>(être)</Complément>
         <StructureGrammaticale>loc. v.</StructureGrammaticale>
         <LexieEntiere>récapper.</LexieEntiere>
@@ -229,7 +229,7 @@
         <LexieEntiere>sèque ; bouche sèche : bouque essapie.</LexieEntiere>
         <Lexie><SousLexie>sèque </SousLexie><SousLexie> bouche sèche : bouque essapie.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>séchoir </Entrée>
+        <Entrée>séchoir</Entrée>
         <Complément>(agricole)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
         <LexieEntiere>tourelle.</LexieEntiere>
@@ -241,11 +241,11 @@
         <LexieEntiere>alloter, anginer, arlocher, arloter, brandeler, bronner, escoeute, hochéner, hochiner, warloquer ; être secoué (sur une route) : bonqueter.</LexieEntiere>
         <Lexie><SousLexie>alloter</SousLexie><SousLexie> anginer</SousLexie><SousLexie> arlocher</SousLexie><SousLexie> arloter</SousLexie><SousLexie> brandeler</SousLexie><SousLexie> bronner</SousLexie><SousLexie> escoeute</SousLexie><SousLexie> hochéner</SousLexie><SousLexie> hochiner</SousLexie><SousLexie> warloquer </SousLexie><SousLexie> être secoué (sur une route) : bonqueter.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>secrétaire de mairie</Entrée>
+        <Entrée>secrétaire</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>greffier.</LexieEntiere>
-        <Lexie><SousLexie>greffier.</SousLexie></Lexie>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>de mairie, s. m. : greffier.</LexieEntiere>
+        <Lexie><SousLexie>de mairie</SousLexie><SousLexie> s. m. : greffier.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>séducteur</Entrée>
         <Complément></Complément>
@@ -277,7 +277,7 @@
         <LexieEntiere>aan, couvrennes.</LexieEntiere>
         <Lexie><SousLexie>aan</SousLexie><SousLexie> couvrennes.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>semblant </Entrée>
+        <Entrée>semblant</Entrée>
         <Complément>(faire)</Complément>
         <StructureGrammaticale>loc. v.</StructureGrammaticale>
         <LexieEntiere>faire l'essenne.</LexieEntiere>
@@ -337,11 +337,11 @@
         <LexieEntiere>corbet, courbet.</LexieEntiere>
         <Lexie><SousLexie>corbet</SousLexie><SousLexie> courbet.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>serpent </Entrée>
+        <Entrée>serpent</Entrée>
         <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(instr. de musique), s. m. : cron-cornet.</LexieEntiere>
+        <Lexie><SousLexie>(instr. de musique)</SousLexie><SousLexie> s. m. : cron-cornet.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>serpillière</Entrée>
         <Complément></Complément>
@@ -361,7 +361,7 @@
         <LexieEntiere>méquenne.</LexieEntiere>
         <Lexie><SousLexie>méquenne.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>service </Entrée>
+        <Entrée>service</Entrée>
         <Complément>(ex-militaire)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
         <LexieEntiere>congé.</LexieEntiere>
@@ -379,17 +379,17 @@
         <LexieEntiere>foque.</LexieEntiere>
         <Lexie><SousLexie>foque.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>si bien que</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>loc. conj.</StructureGrammaticale>
-        <LexieEntiere>tant qu' si bin.</LexieEntiere>
-        <Lexie><SousLexie>tant qu' si bin.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>si ce n'est que </Entrée>
+        <Entrée>si</Entrée>
         <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>bien que, loc. conj. : tant qu' si bin.</LexieEntiere>
+        <Lexie><SousLexie>bien que</SousLexie><SousLexie> loc. conj. : tant qu' si bin.</SousLexie></Lexie>
+      </ArticleDeDictionnaire><ArticleDeDictionnaire>
+        <Entrée>si</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>ce n'est que : si non bin.</LexieEntiere>
+        <Lexie><SousLexie>ce n'est que : si non bin.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>sieste</Entrée>
         <Complément></Complément>
@@ -415,13 +415,13 @@
         <LexieEntiere>chifflot.</LexieEntiere>
         <Lexie><SousLexie>chifflot.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>signe de croix</Entrée>
+        <Entrée>signe</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>nom du père.</LexieEntiere>
-        <Lexie><SousLexie>nom du père.</SousLexie></Lexie>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>de croix, s. m. : nom du père.</LexieEntiere>
+        <Lexie><SousLexie>de croix</SousLexie><SousLexie> s. m. : nom du père.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>signer </Entrée>
+        <Entrée>signer</Entrée>
         <Complément>(se)</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
         <LexieEntiere>faire au nom du père, incacher les mouques.</LexieEntiere>
@@ -523,11 +523,11 @@
         <LexieEntiere>solé.</LexieEntiere>
         <Lexie><SousLexie>solé.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>solidité </Entrée>
+        <Entrée>solidité</Entrée>
         <Complément></Complément>
         <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <LexieEntiere>(d'un tissu, etc.), s. f. : usance.</LexieEntiere>
+        <Lexie><SousLexie>(d'un tissu</SousLexie><SousLexie> etc.)</SousLexie><SousLexie> s. f. : usance.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>sommeil</Entrée>
         <Complément></Complément>
@@ -535,17 +535,17 @@
         <LexieEntiere>dormage.</LexieEntiere>
         <Lexie><SousLexie>dormage.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sommet </Entrée>
-        <Complément>(de la tête)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>som.</LexieEntiere>
-        <Lexie><SousLexie>som.</SousLexie></Lexie>
+        <Entrée>sommet</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(de la tête), s. m. : som.</LexieEntiere>
+        <Lexie><SousLexie>(de la tête)</SousLexie><SousLexie> s. m. : som.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>son </Entrée>
-        <Complément>(de farine)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>artrait.</LexieEntiere>
-        <Lexie><SousLexie>artrait.</SousLexie></Lexie>
+        <Entrée>son</Entrée>
+        <Complément></Complément>
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>(de farine), s. m. : artrait.</LexieEntiere>
+        <Lexie><SousLexie>(de farine)</SousLexie><SousLexie> s. m. : artrait.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>son</Entrée>
         <Complément></Complément>
@@ -583,7 +583,7 @@
         <LexieEntiere>arjon.</LexieEntiere>
         <Lexie><SousLexie>arjon.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>souche </Entrée>
+        <Entrée>souche</Entrée>
         <Complément>(d'arbre)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere>choque, culas.</LexieEntiere>
@@ -615,9 +615,9 @@
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>souillon</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s. m. ou f.</StructureGrammaticale>
-        <LexieEntiere>Marie-graillon, sandrouillon.</LexieEntiere>
-        <Lexie><SousLexie>Marie-graillon</SousLexie><SousLexie> sandrouillon.</SousLexie></Lexie>
+        <StructureGrammaticale>s. m.</StructureGrammaticale>
+        <LexieEntiere> ou f. : Marie-graillon, sandrouillon.</LexieEntiere>
+        <Lexie><SousLexie> ou f. : Marie-graillon</SousLexie><SousLexie> sandrouillon.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>soulier</Entrée>
         <Complément></Complément>
@@ -625,7 +625,7 @@
         <LexieEntiere>scrler.</LexieEntiere>
         <Lexie><SousLexie>scrler.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>soupe </Entrée>
+        <Entrée>soupe</Entrée>
         <Complément>(mauvaise)</Complément>
         <StructureGrammaticale>s. f.</StructureGrammaticale>
         <LexieEntiere>quiquisse.</LexieEntiere>
@@ -661,13 +661,13 @@
         <LexieEntiere>cotte.</LexieEntiere>
         <Lexie><SousLexie>cotte.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>souteneur </Entrée>
+        <Entrée>souteneur</Entrée>
         <Complément>(proxénète)</Complément>
         <StructureGrammaticale>s. m.</StructureGrammaticale>
         <LexieEntiere>mingeux d' blanc.</LexieEntiere>
         <Lexie><SousLexie>mingeux d' blanc.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>souvenir </Entrée>
+        <Entrée>souvenir</Entrée>
         <Complément>(se)</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
         <LexieEntiere>s' ramintuver, s' rapinser.</LexieEntiere>
@@ -753,9 +753,9 @@
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>sucrerie</Entrée>
         <Complément></Complément>
-        <StructureGrammaticale>s f.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
-        
+        <StructureGrammaticale></StructureGrammaticale>
+        <LexieEntiere>s f. : (fabrique) chuquerie ; (bonbon) chucarte.</LexieEntiere>
+        <Lexie><SousLexie>s f. : (fabrique) chuquerie </SousLexie><SousLexie> (bonbon) chucarte.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
         <Entrée>suffoquer</Entrée>
         <Complément></Complément>
@@ -775,7 +775,7 @@
         <LexieEntiere>suire.</LexieEntiere>
         <Lexie><SousLexie>suire.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>supporter </Entrée>
+        <Entrée>supporter</Entrée>
         <Complément>(endurer)</Complément>
         <StructureGrammaticale>v.</StructureGrammaticale>
         <LexieEntiere>indurer.</LexieEntiere>
@@ -799,7 +799,7 @@
         <LexieEntiere>supernant.</LexieEntiere>
         <Lexie><SousLexie>supernant.</SousLexie></Lexie>
       </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>surpris </Entrée>
+        <Entrée>surpris</Entrée>
         <Complément>(être)</Complément>
         <StructureGrammaticale>loc. v.</StructureGrammaticale>
         <LexieEntiere>rester paf.</LexieEntiere>
