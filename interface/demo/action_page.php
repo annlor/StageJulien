@@ -113,11 +113,10 @@ if (preg_match('/([a-zA-Z()\s\',]+)/',$output)<1){
 $query = "PREFIX ontolex: <http://www.w3.org/ns/lemon/ontolex#>
 PREFIX restaure: <http://restaure.limsi.fr/2017/rdf#>
 PREFIX lexinfo: <http://lexinfo.net/ontology/2.0/lexinfo#>
-PREFIX lex: <http://purl.org/lex#>
 PREFIX LIME:<http://www.w3.org/ns/lemon/lime#>
 
 
-SELECT DISTINCT ?xcoord ?ycoord ?wrTraductionForm ?wrDef ?wrExPicard ?wrTraductionFrancaise ?ANC ?speech2 ?gender2 ?CoordinateWR ?wrLink
+SELECT DISTINCT ?xcoord ?ycoord ?wrTraductionForm ?wrDef ?wrExPicard ?wrTraductionFrancaise ?ANC ?speech2 ?gender2 ?CoordinateWR
 WHERE {
   ?x ontolex:writtenRep \"$output\".
   ?y ontolex:lexicalForm ?x.
@@ -172,16 +171,32 @@ UNION
     ?cAmiens restaure:xAmiens ?xcoord.
     ?cAmiens restaure:yAmiens ?ycoord.
   }
-  OPTIONAL {
-    	?y restaure:TranslatableInFrenchOneWord ?o.
+
+}";
+
+
+$querySeeAlso = "PREFIX ontolex: <http://www.w3.org/ns/lemon/ontolex#>
+PREFIX restaure: <http://restaure.limsi.fr/2017/rdf#>
+PREFIX lexinfo: <http://lexinfo.net/ontology/2.0/lexinfo#>
+PREFIX LIME:<http://www.w3.org/ns/lemon/lime#>
+
+SELECT DISTINCT ?wrLink
+WHERE {
+  ?x ontolex:writtenRep \"$output\".
+  ?y ontolex:lexicalForm ?x.
+{
+?y restaure:TranslatableInFrenchOneWord ?o.
   ?o ontolex:writtenRep ?wrLink.
   ?o2 ontolex:writtenRep ?wrLink.
   ?s ontolex:lexicalForm ?o2
-  }
+  } UNION {
+       ?y restaure:TranslatableInPicardOneWord ?opcd.
+      ?opcd ontolex:writtenRep ?wrLink.
+      ?o2pcd ontolex:writtenRep ?wrLink.
+  ?spcd ontolex:lexicalForm ?o2pcd     
+	}
 
-}
-";
-
+}";
 /* execute the query */
   $rows = $store->query($query, 'rows'); 
  
@@ -189,12 +204,12 @@ UNION
        echo "Query errors" ;
        print_r($errs);
     }
+
 foreach($rows as $row){
 	$wrTraductionForm[] = $row['wrTraductionForm'];
 	$wrDef[] = $row['wrDef'];
 	$wrExPicard[] = $row['wrExPicard'];
 	$wrTraductionFrancaise[] = $row['wrTraductionFrancaise'];
-	$wrLink[] = $row['wrLink'];
 	$ANC[] = $row['ANC'];
 	$speech[] = $row['speech2'];
 	$gender[] = $row['gender2'];
@@ -203,7 +218,13 @@ foreach($rows as $row){
 	$ycoord[] = $row['ycoord'];
 	$CoordinateWR[] = $row['CoordinateWR'];
 }
-$wrLinkkeys = array_combine($CoordinateWR,$wrLink);
+ $rowsSeeAlso = $store->query($querySeeAlso, 'rows'); 
+
+
+foreach($rowsSeeAlso as $row){
+	$wrLink[] = $row['wrLink'];
+}
+
 $wrTraductionFrancaisekeys = array_combine($wrTraductionFrancaise,$CoordinateWR);
 unset($wrTraductionFrancaisekeys[null]);
 $xcoordkeys = array_combine($CoordinateWR,$xcoord);
@@ -287,7 +308,7 @@ if ($cWRar == 'Amiens'){
 		echo implode('<br>',array_filter($wrExPicard));
 	}
 	echo "<p style = \"font-weight:bold;\">${str4} </p>".implode($ANC);
-	echo "<p style = \"font-weight:bold;\">${strLink} </p>".implode($wrLinkkeys);
+	echo "<p style = \"font-weight:bold;\">${strLink} </p>".implode(', ',$wrLink);
 }
 
 
