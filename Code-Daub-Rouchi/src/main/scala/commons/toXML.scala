@@ -8,7 +8,7 @@ import scala.xml._
 class toXML {
   def SeqtoXml(seq: Seq[String]): Seq[Elem] = {
     val res = for (elements <- seq) yield {
-      <Lexie>{elements}</Lexie>
+      <Traduction>{elements}</Traduction>
     }
     res
   }
@@ -71,7 +71,7 @@ class toXML {
 
     def toXml : Elem =
       <ArticleDeDictionnaire>
-        <Entrée>{mot}</Entrée>
+        <Entrée>{mot.trim}</Entrée>
         <Complément>{complement.getOrElse("")}</Complément>
         <StructureGrammaticale>{abreviation}</StructureGrammaticale>
         <LexieEntiere>{lexie}</LexieEntiere>
@@ -83,10 +83,10 @@ class toXML {
   class TradDebrie(article : ArticlePicard) {
 
     def toXml : Elem =
-      <ArticleDeDictionnaire>
-        <Entrée>{article.Entrée}</Entrée>
-        <StructureGrammaticale>{article.StructureGrammaticale}</StructureGrammaticale>
+      <Entrée>
+        <Vocable>{article.Entrée.trim}</Vocable>
+        <CatégorieGrammaticale>{article.StructureGrammaticale}</CatégorieGrammaticale>
         {SeqtoXml(article.Lexies)}
-      </ArticleDeDictionnaire>
+      </Entrée>
   }
 }

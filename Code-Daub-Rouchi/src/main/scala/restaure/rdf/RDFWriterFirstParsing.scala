@@ -1,6 +1,7 @@
 package restaure.rdf
 
 import java.io.FileWriter
+import java.lang._
 
 import commons.XMLUnitParser
 import org.apache.jena.rdf.model._
@@ -9,6 +10,8 @@ import scala.xml.{Elem, NodeSeq}
 import fastparse.all._
 import org.apache.jena.util.URIref
 import restaure.rdf.Voc._
+import org.apache.jena.vocabulary.RDF
+
 
 /**
   * URIref
@@ -23,19 +26,30 @@ class RDFWriterFirstParsing(xml : Elem, indice : Int){
   val XMLUP = new XMLUnitParser
   val model:Model = ModelFactory.createDefaultModel()
 
+  val lexicon:Resource = model.createResource(uri + "LexiqueDaubyRouchiPicard")
+
+  val lexiconcoordinate:Resource = model.createResource(uri + "coordinate")
+  lexicon.addProperty(Voc.coordinate, lexiconcoordinate)
+  val xcoordinateAmiens:Property = model.createProperty(uri + "xAmiens")
+  val ycoordinateAmiens:Property = model.createProperty(uri + "yAmiens")
+  xcoordinateAmiens.addProperty(Voc.writtenRep,model.createLiteral("Amiens","fra"))
+  ycoordinateAmiens.addProperty(Voc.writtenRep,model.createLiteral("Amiens","fra"))
+  lexiconcoordinate.addProperty(xcoordinateAmiens,model.createTypedLiteral(new java.lang.Double(49.895)))
+  lexiconcoordinate.addProperty(ycoordinateAmiens,model.createTypedLiteral(new java.lang.Double(2.3022)))
+
   val articles:NodeSeq = xml \\ "Entrée"
   val UF = new UsefulFunctionFirstParsing
-  articles.zipWithIndex.foreach({case (a,i) => UF.RDFWriter(model,a,i,indice)})
+  articles.zipWithIndex.foreach({case (a,i) => UF.RDFWriter(model,a,i,indice,lexicon)})
 
 
 
   def dumpModel(path : String): Unit = {
     val fw = new FileWriter(path)
     model.setNsPrefix("restaure", uri)
-    model.setNsPrefix("ontolex", Voc.ontolex)
-    model.setNsPrefix("lexinfo", Voc.lexinfo)
-    model.setNsPrefix("vartrans", Voc.vartrans)
-    model.setNsPrefix("lime", Voc.LInguisticMEtadata)
+    model.setNsPrefix("ontolex", Voc.ontolex.getURI)
+    model.setNsPrefix("lexinfo", Voc.lexinfo.getURI)
+    model.setNsPrefix("vartrans", Voc.vartrans.getURI)
+    model.setNsPrefix("lime", Voc.LInguisticMEtadata.getURI)
     model.write(fw, "Turtle")
     fw.close()
   }
@@ -45,13 +59,13 @@ class RDFWriterFirstParsing(xml : Elem, indice : Int){
 class UsefulFunctionFirstParsing  {
 
 
-  def RDFWriter (m: Model, article: NodeSeq, id:Int, indice : Int): Unit = {
+  def RDFWriter (m: Model, article: NodeSeq, id:Int, indice : Int, lexicon:Resource): Unit = {
 
 
     val leURI = uri + s"le${indice}PicardVersFrançais_$id"
-    val lexicon = m.createResource(Voc.LInguisticMEtadata + "Lexion")
     val lexEntry = m.createResource (leURI)
     lexicon.addProperty(Voc.Entry,lexEntry)
+    lexEntry.addProperty(RDF.`type`,LexicalEntry)
     LexicalEntryWriter (lexEntry, article, leURI, m)
     StructGramWriter(article,lexEntry,m)
     LexieEntiereWriter(article,m, lexEntry)
@@ -61,13 +75,17 @@ class UsefulFunctionFirstParsing  {
 
     val Entry = article \ "Vocable"
     val fEntry = m.createResource (URIref.encode(uri + s"lf_${Entry.text}"))
+
     lexEntry.addProperty (Voc.lexicalForm, fEntry)
-    fEntry.addProperty(Voc.writtenRep,s"${Entry.text}")
+    fEntry.addProperty(Voc.writtenRep,s"${Entry.text.toLowerCase}")
+    fEntry.addProperty(RDF.`type`,Form)
 
   }
 
   def StructGramWriter(article : NodeSeq, lexEntry : Resource, m: Model): Unit ={
     val XMLUP = new XMLUnitParser
+
+
 
     val CatégorieGrammaticale = article \ "CatégorieGrammaticale"
 
@@ -76,7 +94,19 @@ class UsefulFunctionFirstParsing  {
       case _:Parsed.Failure => Nil
     }
 
+    val liFemale:Resource = m.createResource(lexinfo + "Female")
+    liFemale.addProperty(Voc.writtenRep,m.createLiteral("Féminin","fra"))
+    val liMasculine:Resource = m.createResource(lexinfo + "Masculine")
 
+    liMasculine.addProperty(Voc.writtenRep,m.createLiteral("Masculin","fra"))
+    val liVerb:Resource = m.createResource(lexinfo + "Verb")
+    liVerb.addProperty(Voc.writtenRep, m.createLiteral("Verbe","fra"))
+    val liNoun:Resource = m.createResource(lexinfo + "Noun")
+    liNoun.addProperty(Voc.writtenRep,m.createLiteral("Nom","fra"))
+    val liAdj:Resource = m.createResource(lexinfo + "Adjective")
+    liAdj.addProperty(Voc.writtenRep,m.createLiteral("Adjectif","fra"))
+    val liPreposition:Resource = m.createResource(lexinfo + "Preposition")
+    liPreposition.addProperty(Voc.writtenRep,m.createLiteral("Préposition","fra"))
 
     for (struct <- resStruct) {
 
@@ -87,17 +117,21 @@ class UsefulFunctionFirstParsing  {
         case "s." =>
           lexEntry.addProperty(Voc.liPartOfSpeech, liNoun)
 
+
         case "adj." =>
           lexEntry.addProperty(Voc.liPartOfSpeech,liAdj)
 
         case "f." =>
           lexEntry.addProperty(Voc.liGender, liFemale)
 
+
         case "m." =>
           lexEntry.addProperty(Voc.liGender, liMasculine)
 
+
         case "prép." =>
           lexEntry.addProperty(Voc.liPartOfSpeech, liPreposition)
+
 
         case _ =>
       }
@@ -120,12 +154,22 @@ class UsefulFunctionFirstParsing  {
       RessourceDefinitionFrançaise.addProperty(Voc.writtenRep,elem.text)
     }
 
+    val Traduction = Définition \ "DéfinitionDétaillée" \ "DéfinitionFrançaise"  \ "df" \ "Trad" \ "Traduction"
+    for (elem <- Traduction){
+      val RessourceTraduction =
+        model.createResource(URIref.encode(uri + s"Traduction${elem.text}"))
+      lexEntry.addProperty(Voc.TranslatableInFrenchOneWord, RessourceTraduction)
+      RessourceTraduction.addProperty(RDF.`type`,Form)
+      RessourceTraduction.addProperty(Voc.writtenRep,elem.text)
+    }
+
 
     val Exemples = Définition \\ "Exemples" \ "ExemplePicard"
     for (elem <- Exemples) {
       val RessourceExemplePicard =
         model.createResource(URIref.encode(uri + s"${elem.text}"))
       lexEntry.addProperty(Voc.ExampleInPicard, RessourceExemplePicard)
+      RessourceExemplePicard.addProperty(RDF.`type`,Form)
       RessourceExemplePicard.addProperty(Voc.writtenRep, elem.text)
     }
 

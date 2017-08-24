@@ -111,7 +111,9 @@ object FirstParsing {
     val UP = new UnitParser()
     val tradtoxml = new toXML()
     val SubParsing = new ParsingDefinition()
-    val liste1 = for (line <- buff.getLines.slice(1213, 7446)) yield {
+    val liste1 = for (line <- buff
+      .getLines.slice(1213, 7446)
+      .filter(_.count(_.equals(' ')) >= 3)) yield {
       Parsing.Parser(line)
     }
 

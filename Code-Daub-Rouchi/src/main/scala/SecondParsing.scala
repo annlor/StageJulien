@@ -22,8 +22,8 @@ class SecondParsing {
   def Parser2(str: String): TraductionFrançaise = {
     val UP = new UnitParser()
 
-    val MotFrançais = P(UP.LowerCaseLetter.rep(sep = "'").!)
-    val ComplementMot = P(("(" ~ "'".? ~ UP.LowerCaseLetter.rep(sep = "'") ~ "'".? ~ ")").!)
+    val MotFrançais = P(UP.LowerCaseLetter.rep(sep = "'"| " ").!)
+    val ComplementMot = P(("(" ~ "'".? ~ UP.LowerCaseLetter.rep(sep = "'" | " " | " : ") ~ "'".? ~ ")").!)
 
     val DeuxiemeParser: Parser[(String,Option[String],String,Seq[String])] = P(MotFrançais.! ~ " ".? ~ ComplementMot.!.?
       ~ ", ".? ~ UP.Abreviation.?.! ~ " : ".? ~ ("(".? ~ UP.Definitions ~ UP.Ponctuation).!.rep)
@@ -62,11 +62,11 @@ object SecondParsing {
     val path = scala.io.StdIn.readLine()
     val buff: Source = Source.fromFile(path)
     val Parsing = new SecondParsing()
-
     val tradtoxml = new toXML()
 
 
-    val liste1 = for (line <- buff.getLines.slice(7456, 9650)) yield {
+    val liste1 = for (line <- buff
+      .getLines.slice(7456, 9650).filter(_.count(_.equals(' ')) >= 3)) yield {
       Parsing.Parser2(line)
     }
 

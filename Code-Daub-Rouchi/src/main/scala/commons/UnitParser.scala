@@ -18,7 +18,7 @@ class UnitParser() {
 
   /**Lettres minuscules*/
   val LowerCaseLetter = P(CharIn('a' to 'z'
-    , "-", "é", "à", "ù", "ç", "è", "ê", "â", "û", "ï", "î", "ü", "ô").rep(min = 1).!)
+    , "-", "é", "à", "ù", "ç", "è", "ê", "â", "û", "ï", "î", "ü", "ô","ë").rep(min = 1).!)
   val Letters = P((UpperCaseLetter | LowerCaseLetter | " ").rep(min = 1).!)
 
   /**Chiffre de 1 à 9*/
@@ -46,18 +46,19 @@ class XMLUnitParser{
 
 
   val UP = new UnitParser
-  val XMLStructureGrammaticale = P(" ".? ~ (UP.LowerCaseLetter ~ ".").!.rep(min = 1, sep =" ") ~ " ".?)
+  val XMLStructureGrammaticale = P(" ".? ~ (UP.LowerCaseLetter ~ ".").!.rep(min = 1, sep =" ".?) ~ " ".?)
 }
 
 class intermediateParser {
   val UP = new UnitParser
   val PonctuationNoQuotes = P(("'" | "." | "-" | "," | "(" | ")" | "/" | ";" | ":" | ")." | "=" | "!" | "?").rep(min = 1).!)
+  val PonctuationNoQuotesNoParenthesis = P(("'" | "." | "-" | ","  | "/" | ";" | ":" | "=" | "!" | "?").rep(min = 1).!)
   val Definitions = P((PonctuationNoQuotes.? ~ UP.NumbersDef.? ~ PonctuationNoQuotes.? ~
     UP.Letters.rep(min = 1, sep = (PonctuationNoQuotes | UP.Date).rep) ~
     (PonctuationNoQuotes | UP.Date | " ").rep).!)
   val Auteur = P(("(" ~ UP.UpperCaseLetter ~ ")").!)
-  val ExemplePicard = P((("ANC. : " | PonctuationNoQuotes).? ~ "\"" ~ UP.Letters.rep(sep = PonctuationNoQuotes) ~
+  val ExemplePicard = P((("ANC. : " | PonctuationNoQuotes).? ~ "\"" ~ " ".? ~ UP.Letters.rep(sep = PonctuationNoQuotes) ~
     "\"" ~ " ".? ~ Auteur.? ~ " ".? ~ (("="|":") ~ Definitions).? ~
-    ("(" ~ UP.Letters.rep(sep = PonctuationNoQuotes | UP.Date ~ ")")).? ~
+    (" ".? ~ "(" ~ UP.Letters.rep(sep = (PonctuationNoQuotesNoParenthesis | UP.Date).?) ~ ")").? ~
     (PonctuationNoQuotes | " ").rep).!)
 }

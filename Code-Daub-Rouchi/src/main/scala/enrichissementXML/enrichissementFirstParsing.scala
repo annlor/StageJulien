@@ -29,30 +29,11 @@ class enrichissementFirstParsing {
 
     val str1 = strinput.split("([;,.](?=(?:[^()]*[()][^()]*[()])*[^()]*$))+")
   for (elements <- str1) yield {
-      stripAll(elements, ",;").trim
+      stripAll(elements, ",;:").trim
     }
   }
 
-  def fromXML(xml : Elem):Unit= {
-    /*
-    var articles = xml \ "ArticlesDeDictionnaire"
-    <Découpage>
-      {for (elements <- articles) yield {
-      val defs = elements \ "LexieFrançaise"
 
-      for (elementsdef <- defs) yield {
-        val xmlenrich = XMLenrichment(elementsdef.text)
-
-        for (elementsenrich <- xmlenrich) yield {
-          <DécoupageDef>
-            {elementsenrich}
-          </DécoupageDef>
-        }
-      }
-    }}</Découpage>
-    */
-
-  }
   def updateVersion( node : Node ) : Node = {
     def updateElements( seq : Seq[Node]) : Seq[Node] =
       for( subNode <- seq ) yield updateVersion( subNode )
@@ -65,6 +46,43 @@ class enrichissementFirstParsing {
       case <DéfinitionFrançaise>{ch @ _*}</DéfinitionFrançaise> => <DéfinitionFrançaise>{ updateElements( ch ) }</DéfinitionFrançaise>
       case <df>{contents}</df> => <df><dfEntière>{contents}</dfEntière>{for (elements<-XMLenrichment(contents.text)) yield {<CandidatTraduction>{elements}</CandidatTraduction>}}</df>
       case other @ _ => other
+    }
+  }
+
+
+  def createSynonym (node : Node, set : Set[String]) : Node = {
+
+    def updateElements( seq : Seq[Node]) : Seq[Node] =
+      for( subNode <- seq ) yield createSynonym( subNode, set )
+
+    def containsallwords(str: String) : (String,Boolean) = {
+      if (set.contains(str) & str.length > 1){
+        (str,true)
+      }
+      else{
+        ("",false)
+      }
+    }
+
+
+
+
+    node match {
+      case <Nomenclature>{ ch @ _* }</Nomenclature> => <Nomenclature>{ updateElements( ch ) }</Nomenclature>
+      case <Entrée>{ ch @ _* }</Entrée> => <Entrée>{ updateElements( ch ) }</Entrée>
+      case <Définition>{ ch @ _* }</Définition> => <Définition>{ updateElements( ch ) }</Définition>
+      case <DéfinitionDétaillée>{ ch @ _* }</DéfinitionDétaillée> => <DéfinitionDétaillée>{ updateElements( ch ) }</DéfinitionDétaillée>
+      case <DéfinitionFrançaise>{ch @ _*}</DéfinitionFrançaise> => <DéfinitionFrançaise>{ updateElements( ch ) }</DéfinitionFrançaise>
+      case <df>{ch @ _*}</df> => <df>{ updateElements( ch ) }</df>
+      case <CandidatTraduction>{contents}</CandidatTraduction> =>
+      val couple = containsallwords(s"$contents")
+        if (couple._2 == false){
+          <Trad><CandidatTraduction>{contents}</CandidatTraduction></Trad>
+        }
+        else {
+          <Trad><CandidatTraduction>{contents}</CandidatTraduction><Traduction>{couple._1}</Traduction></Trad>
+        }
+        case other @ _ => other
     }
   }
 }
@@ -86,12 +104,16 @@ object FirstParsing {
     /*
     /people/khamphousone/IdeaProjects/DictionnairePicard/XMLFirstParser/
     */
+    val allWords = Source
+      .fromFile("/people/khamphousone/Documents/Dictionnaires/results2.txt")
+      .getLines.map(_.trim)
+      .toSet
     val path = scala.io.StdIn.readLine()
     val files = getListOfFiles(s"$path")
     for (file <- files.zipWithIndex) {
       val xml = XML.loadFile(file._1)
       val classenrich = new enrichissementFirstParsing
-      val nodexml = classenrich.updateVersion(xml)
+      val nodexml = classenrich.createSynonym(classenrich.updateVersion(xml), allWords)
       XML.save(s"./XMLFirstParser/Enrichment/Enrichmentresults_${file._2}.xml", nodexml, "utf-8", true, null)
 
     }

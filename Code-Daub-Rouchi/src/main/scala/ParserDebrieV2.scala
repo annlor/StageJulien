@@ -15,36 +15,68 @@ import commons._
 
 
 class ParserDebrieV2 {
-  def ParserDV2(str: String): Dictionnaire = {
+
+  def ParserDV2(str: String): ArticlePicard = {
     val UP = new UnitParser()
 
     val EntréePicarde = P(UP.Ponctuation.? ~ (UP.Letters.rep(sep = "'" | " ") ~ ")".? ~
       " ".? ~ ("(".? ~ UP.Letters ~ "'".? ~ ")".?).?).!)
 
-    val StructGrammaticaleDebrie = P((UP.LowerCaseLetter ~ ".").rep(min = 1, sep = " ".?).! ~ ",".?)
-    val Nombre = P(UP.Numbers.rep(min = 1, max = 2).!)
+    val StructGrammaticaleDebrie = P((UP.LowerCaseLetter.rep(sep=" ") ~" ".? ~ ".").rep(min = 1, sep = (" "|"'").?).!)
+    val Nombre = P(UP.Numbers.rep(min = 1) ~ !")".!)
     val Numerotation = P((UP.Numbers ~ ")").!)
-    val DefinitionDebrie = P(UP.Letters.rep(min = 1, sep = UP.Ponctuation | Nombre ~ UP.Ponctuation.?).! ~
-      (UP.Ponctuation | Nombre).rep).log()
+    val DefinitionDebrie = P((UP.Letters|Nombre).rep(min = 1, sep = UP.Ponctuation | Nombre ~ UP.Ponctuation.?).! ~
+      (UP.Ponctuation | Nombre).rep)
 
     val ArticleDeDictionnaire :P[(String, String, Seq[String])]
-    = P("\n\n" ~ " ".? ~ EntréePicarde.! ~ " ".? ~
-      "," ~ " ".? ~ StructGrammaticaleDebrie.! ~ " ".? ~
-      (DefinitionDebrie | (Numerotation ~ DefinitionDebrie)).!.rep(sep = "\n" ~ !"\n"))
+    = P(" ".rep ~ EntréePicarde.! ~ " ".? ~
+      ",".? ~ " ".? ~ StructGrammaticaleDebrie.! ~ (","|" "|";").rep ~
+      (Numerotation ~ DefinitionDebrie | DefinitionDebrie ).!.rep(min = 1))
 
-    val ParserLexique :P[Seq[ArticlePicard]] =
-      P(ArticleDeDictionnaire.map(a => ArticlePicard(a._1, a._2, a._3)).rep(min = 11)).log()
+    val ParserLexique :P[ArticlePicard] =
+      P(ArticleDeDictionnaire.map(a => ArticlePicard(a._1, a._2, a._3)))
+
+    val SousArticleDeDictionnaire : P[(String, Option[String], Option[String], String)] =
+      P(" ".rep ~ EntréePicarde.! ~ " ".? ~ ",".? ~ " ".? ~
+        ("dans l'exp." ~ " ".?).!.? ~ StructGrammaticaleDebrie.!.? ~
+        (","|" "|";").rep ~ AnyChar.rep.!)
+
+    val SousParserLexique :P[ArticlePicard] =
+      P(SousArticleDeDictionnaire.map(a =>
+        if (a._3.mkString == "dans l'exp."){
+          ArticlePicard(a._1,"",Seq(a._2.mkString + a._3.mkString + a._4))
+        }
+        else {
+        ArticlePicard(a._1,a._3.mkString,Seq(a._2.mkString + a._4))
+        }))
 
     ParserLexique.parse(str) match {
-      case Parsed.Success(seqresult: Seq[ArticlePicard],_) =>
+      case Parsed.Success(seqarticle: ArticlePicard,_) =>
+
         println("Success")
-        Dictionnaire(seqresult)
+        seqarticle
 
       case f:Parsed.Failure =>
+
         println("Failure")
-        Dictionnaire(Seq(ArticlePicard(s"Failure $str \n ${f.extra.traced.trace}", s"${f.index}",Seq(""))))
+
+        SousParserLexique.parse(str) match {
+          case Parsed.Success(seqarticle:ArticlePicard,_) =>
+            println("SECONDSuccess")
+            seqarticle
+          case f:Parsed.Failure =>
+            println("SECONDFailure")
+            ArticlePicard(s"Failure $str \n ${f.extra.traced.trace}", s"${f.index}",Seq(""))
+        }
 
     }
+  }
+  def replaceAllBreaklines(str : String): String = {
+    var resstr = str.replaceAll("\n\n\n","BREAKLINES")
+    resstr = resstr.replaceAll("\n\n","BREAKLINES")
+    resstr = resstr.replaceAll("\n","")
+    resstr = resstr.replaceAll("BREAKLINES","\n")
+    resstr
   }
 }
 
@@ -53,15 +85,29 @@ object ParserDebrieV2 {
 
   def main(args: Array[String]): Unit = {
     println("Entrez le chemin du dictionnaire Debrie")
+/*
+/people/khamphousone/Documents/Dictionnaires/a_debr_oues_84S_A_utf8.txt
+ */
     val path = scala.io.StdIn.readLine()
-    val buff: Source = Source.fromFile("path")
+    val buff: Source = Source.fromFile(path)
     val Parsing = new ParserDebrieV2()
     val tradtoxml = new toXML()
+    var str = buff.getLines.slice(10,21708).mkString("\n").replaceAll("\t"," ")
+    str = Parsing.replaceAllBreaklines(str)
+    val file = new File("/people/khamphousone/Documents/ParsersScala/XML/ParserDebrie/Version 2.0/DebrieModif.txt")
+    val bw = new BufferedWriter(new FileWriter(file))
+    bw.write(str)
+    val Dict = for (line <- Source.fromFile(file).getLines.filter(_.count(_.equals(' ')) >= 3)) yield {
+      if (line.length <= 7){
+        ArticlePicard("","",Seq(""))
+      }
+      else {
+        Parsing.ParserDV2(line)
+      }
+    }
+    val DictionnaireSeq = Dictionnaire(Dict.toSeq)
 
-    val Dict = Parsing.ParserDV2(buff.getLines.slice(0,21708).mkString("\n").replaceAll("\t"," "))
-
-
-    val DictXML = for(elements <- Dict.Article) yield {
+    val DictXML = for(elements <- DictionnaireSeq.Article) yield {
       val Traduction = new tradtoxml.TradDebrie(elements)
       Traduction.toXml
     }
@@ -69,6 +115,10 @@ object ParserDebrieV2 {
     val listXml = <Nomenclature>{DictXML}</Nomenclature>
 
     XML.save(s"/people/khamphousone/Documents/ParsersScala/XML/ParserDebrie/Version 2.0/ResultDebrie", listXml, "utf-8", true, null)
+
+
+
     println("Parser Debrie Version 2.0 DONE")
+
   }
 }
