@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI PUBLIC "-//TEI P5//DTD Main Document Type//EN" "tei_all.dtd">
+<TEI  xml:lang="fr"  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><!-- supply a title --></title>
+      </titleStmt>
+      <publicationStmt>
+        <p><!-- supply publication information --></p>
+      </publicationStmt>
+      <sourceDesc>
+        <p><!-- supply information about the source --></p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+ <div xml:lang="pcd"><!-- mis à ce niveau pour le moment-->
+  <head>Picard-Français</head>
+
+  <entry>
+   <form>
+    <orth>A</orth>
+   </form>
+<gramGrp>
+<pos>prép.</pos>
+</gramGrp>
+<def>parfois employée seule au lieu de l'art, déf. contr. &quot; Tout in juant à cartes &quot; (EM). &quot; Va-t-in dire cha à les gins.</def>
+  </entry>
+  
+    <entry>
+   <form>
+    <orth>A'</orth>
+   </form>
+<gramGrp>
+<pos>pr. pers. suj.</pos>
+</gramGrp>
+<def>elle (apocope de alle, devant une forme nég., un verbe pronom., etc. &quot; A' n' vot pus clair &quot;, &quot; A' s'met à rire in t'nant s' panche à deux mains &quot; (JD).</def>
+  </entry>
+  
+  
+     <entry>
+   <form>
+    <orth>ABANGÉ</orth>
+   </form>
+<def>(voir : abongé)</def>
+  </entry>
+  
+  
+  
+  <entry>
+   <form>
+    <orth>ABASSIER (S')</orth>
+   </form>
+<gramGrp>
+<pos>v.</pos>
+</gramGrp>
+<def>se baisser, s'abaisser. &quot; Quand el pauv' vieux i s'abasse, / S' tiête all' tourne comme un moulin &quot; (JM). &quot; On croyot oui n'y avot qu'à s'abassier pou l'zé cueuyer &quot; (JQ) = on croyait que tout serait facile.</def>
+  </entry>  
+  
+    
+  
+  
+  
+    </div>
+
+    </body>
+  </text>
+</TEI>
