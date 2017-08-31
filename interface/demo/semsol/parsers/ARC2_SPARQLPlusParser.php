@@ -38,10 +38,10 @@ class ARC2_SPARQLPlusParser extends ARC2_SPARQLParser {
   function xResultVar($v) {
     $aggregate = '';
     /* aggregate */
-    if ($sub_r = $this->x('\(?(AVG|COUNT|MAX|MIN|SUM)\s*\(\s*([^\)]+)\)\s+AS\s+([^\s\)]+)\)?', $v)) {
+    if ($sub_r = $this->x('\(?(AVG|COUNT|GROUP_CONCAT|MAX|MIN|SAMPLE|SUM)\s*\(\s*(DISTINCT)?\s*([^\);]+)(;SEPARATOR=.{1,6})?\)\s+AS\s+([^\s\)]+)\)?', $v)) {
       $aggregate = $sub_r[1];
-      $result_var = $sub_r[3];
-      $v = $sub_r[2] . $sub_r[4];
+      $result_var = $sub_r[5];
+      $v = $sub_r[3] . $sub_r[6];
     }
     if ($sub_r && (list($sub_r, $sub_v) = $this->xVar($result_var)) && $sub_r) {
       $result_var = $sub_r['value'];

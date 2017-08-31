@@ -91,170 +91,11 @@
 
       <div class="starter-template">
         <h2>Vous avez cherché :</h2>
-<?php
-/* ARC2 static class inclusion */ 
 
-  include_once('semsol/ARC2.php'); 
-
-$dbpconfig = array(
-  "remote_store_endpoint" => "http://vmrestaure:3030/restaureallwords/query",
-   );
-$store = ARC2::getRemoteStore($dbpconfig); 
-if ($errs = $store->getErrors()) {
-     echo "<h1>getRemoteSotre error<h1>" ;
-  }
-
-$output = $_POST["mot"];
-
-if (preg_match('/([a-zA-Z()\s\',]+)/',$output)<1){
-	$output = "Entrée invalide";
-}
-
-$query = "PREFIX ontolex: <http://www.w3.org/ns/lemon/ontolex#>
-PREFIX restaure: <http://restaure.limsi.fr/2017/rdf#>
-PREFIX lexinfo: <http://lexinfo.net/ontology/2.0/lexinfo#>
-PREFIX LIME:<http://www.w3.org/ns/lemon/lime#>
+<?php include 'SPARQLQueries.php'; ?>
 
 
-SELECT DISTINCT ?xcoord ?ycoord ?wrTraductionForm ?wrDef ?wrExPicard ?wrTraductionFrancaise ?ANC ?speech2 ?gender2 ?CoordinateWR
-WHERE {
-  ?x ontolex:writtenRep \"$output\".
-  ?y ontolex:lexicalForm ?x.
-{
-    ?y restaure:TranslatableAsForm ?z1.
-      ?z1 ontolex:writtenRep ?wrTraductionForm.
-  }
-  UNION
-  {
-   ?y restaure:TranslatableAsDef ?z2.
-      ?z2 ontolex:writtenRep ?wrDef.
-  }
-  UNION
-  {
-   ?y restaure:ExampleInPicard ?z3.
-      ?z3 ontolex:writtenRep ?wrExPicard.
-  }
-  UNION
-  {
-   ?y restaure:TranslatableInFrench ?z4.
-      ?z4 ontolex:writtenRep ?wrTraductionFrancaise.
-  }
-  UNION
-  {
-    ?y restaure:oldInformation ?z5.
-    ?z5 ontolex:writtenRep ?ANC.
-  }
-
-  OPTIONAL {?y lexinfo:partOfSpeech ?speech.
-  ?speech ontolex:writtenRep ?speech2}.
-    OPTIONAL{?y lexinfo:gender ?gender.
-  ?gender ontolex:writtenRep ?gender2}
- 
-  OPTIONAL {
-          restaure:LexiqueDebrie LIME:entry ?y.
-    restaure:LexiqueDebrie restaure:Coordinate ?coordinateValenciennes.
-      restaure:xValenciennes ontolex:writtenRep ?CoordinateWR.
-    ?coordinateValenciennes restaure:xValenciennes ?xcoord.
-    ?coordinateValenciennes restaure:yValenciennes ?ycoord.
-  }
-  OPTIONAL {
-{
-      restaure:LexiqueDaubyRouchiFra LIME:entry ?y.
-  	restaure:LexiqueDaubyRouchiFra restaure:Coordinate ?cAmiens.
-}
-UNION
-{
-      restaure:LexiqueDaubyRouchiPicard LIME:entry ?y.
-  	restaure:LexiqueDaubyRouchiPicard restaure:Coordinate ?cAmiens.
-}
-     restaure:xAmiens ontolex:writtenRep ?CoordinateWR.
-    ?cAmiens restaure:xAmiens ?xcoord.
-    ?cAmiens restaure:yAmiens ?ycoord.
-  }
-
-}";
-
-
-$querySeeAlso = "PREFIX ontolex: <http://www.w3.org/ns/lemon/ontolex#>
-PREFIX restaure: <http://restaure.limsi.fr/2017/rdf#>
-PREFIX lexinfo: <http://lexinfo.net/ontology/2.0/lexinfo#>
-PREFIX LIME:<http://www.w3.org/ns/lemon/lime#>
-
-SELECT DISTINCT ?wrLink
-WHERE {
-  ?x ontolex:writtenRep \"$output\".
-  ?y ontolex:lexicalForm ?x.
-{
-?y restaure:TranslatableInFrenchOneWord ?o.
-  ?o ontolex:writtenRep ?wrLink.
-  ?o2 ontolex:writtenRep ?wrLink.
-  ?s ontolex:lexicalForm ?o2
-  } UNION {
-       ?y restaure:TranslatableInPicardOneWord ?opcd.
-      ?opcd ontolex:writtenRep ?wrLink.
-      ?o2pcd ontolex:writtenRep ?wrLink.
-  ?spcd ontolex:lexicalForm ?o2pcd     
-	}
-
-}";
-/* execute the query */
-  $rows = $store->query($query, 'rows'); 
- 
-    if ($errs = $store->getErrors()) {
-       echo "Query errors" ;
-       print_r($errs);
-    }
-
-foreach($rows as $row){
-	$wrTraductionForm[] = $row['wrTraductionForm'];
-	$wrDef[] = $row['wrDef'];
-	$wrExPicard[] = $row['wrExPicard'];
-	$wrTraductionFrancaise[] = $row['wrTraductionFrancaise'];
-	$ANC[] = $row['ANC'];
-	$speech[] = $row['speech2'];
-	$gender[] = $row['gender2'];
-
-	$xcoord[] = $row['xcoord'];
-	$ycoord[] = $row['ycoord'];
-	$CoordinateWR[] = $row['CoordinateWR'];
-}
- $rowsSeeAlso = $store->query($querySeeAlso, 'rows'); 
-
-
-foreach($rowsSeeAlso as $row){
-	$wrLink[] = $row['wrLink'];
-}
-
-$wrTraductionFrancaisekeys = array_combine($wrTraductionFrancaise,$CoordinateWR);
-unset($wrTraductionFrancaisekeys[null]);
-$xcoordkeys = array_combine($CoordinateWR,$xcoord);
-$ycoordkeys = array_combine($CoordinateWR,$ycoord);
-if (count(array_filter($wrTraductionForm)) > 0){
-	$str = "(français)";
-	$str2 = "Traduction picarde :";
-}
-
-if (count(array_filter($wrTraductionFrancaise)) >0 ||count(array_filter($wrDef)) >0){
-
-	$str = "(picard)";
-	$str2 = "Traduction française :";
-}
-
-if (count(array_filter($wrLink)) >0){
-	$strLink = "Recherchez aussi :<br>";
-}
-
-
-if (count(array_filter($wrExPicard)) >0){
-	$str3 = "Exemple picard :";
-}
-
-if(count(array_filter($ANC)) >0){
-	$str4 = "Ancienne étymologie : <br>";
-}
-
-echo "{$output} ${str}<br> {$speech[0]} {$gender[0]}";
-?><br><br>
+<br><br>
 </div>
 
 <div class="container-fullwidth">
@@ -262,67 +103,12 @@ echo "{$output} ${str}<br> {$speech[0]} {$gender[0]}";
   
 <div class="row">
 	<div class="col-md-6">
-<ul><li class="list-group-item" style="text-align:left;">
-<?php
-$traductions=array();
+<?php include './action_page_print_picard.php'; ?>
 
 
 
-foreach (array_unique($CoordinateWR) as $cWRar){
-	echo "<div id = \"$cWRar\"><p style = \"font-weight:bold;font-size:150%;\">${cWRar} </p>";
-		if (count(array_filter($wrTraductionForm)) > 0 && $cWRar =='Amiens')  {
-	echo "<p style=\"font-weight:bold;\"> ${str2} </p>";
-			foreach($wrTraductionForm as $value){
-				$content = "<p class =\"Amiens\"> $value<br></p>";
-				echo $content;
-				$traductions['Amiens'].= $content;
-			}
-		}	
+
 	
-if (count(array_filter($wrTraductionFrancaisekeys)) > 0){
-echo "<p style=\"font-weight:bold;\"> ${str2} </p>";
-	foreach (array_filter($wrTraductionFrancaisekeys) as $key => $value) {
-		if ($value == $cWRar){
-			if (strlen($value) > 2 && !empty($key) && strlen($key) > 3){
-				
-				if(!array_key_exists($value,$traductions))
-					$traductions[$value]="";
-				$content="<p class =\"$value\"> $key <br></p>";
-				echo $content;
-				$traductions[$value].=$content;
-			}
-		}		
-	}
-}
-else if (count(array_filter($wrDef)) > 0){
-	echo implode($wrDef);
-}
-if ($cWRar == 'Amiens'){
-	echo "<p style=\"font-weight:bold;\"> ${str3} </p>";
-	if(count(array_filter($wrExPicard))>1){
-		echo '<ul>';
-		echo '<li>' . implode( '</li><li>', array_filter($wrExPicard)) . '</li>';
-		echo '</ul>';
-	}
-	else{
-		echo implode('<br>',array_filter($wrExPicard));
-	}
-	echo "<p style = \"font-weight:bold;\">${str4} </p>".implode($ANC);
-	echo "<p style = \"font-weight:bold;\">${strLink} </p>".implode(', ',$wrLink);
-}
-
-
-
-echo '</div>';
-
-}
-?>
-
-
-</li>
-	<li class="list-group-item" style="text-align:left;">Alsacien :</li>
-	<li class="list-group-item" style="text-align:left;">Occitan :</li>
-	</ul>
 </div>
     <div id="contenuOnglet1" class ="col-md-6"  style="display:block;">
 <div id="map">
@@ -374,8 +160,12 @@ return y.nodeValue;
 	var yAmiens=<?php echo json_encode($ycoordkeys["Amiens"]); ?>;
 	var xValenciennes=<?php echo json_encode($xcoordkeys["Valenciennes"]); ?>;
 	var yValenciennes=<?php echo json_encode($ycoordkeys["Valenciennes"]); ?>;
+	xAmiens = xAmiens == null ? <?php echo json_encode($dataCoordx["Amiens"]); ?> : xAmiens;
+	yAmiens = yAmiens == null ? <?php echo json_encode($dataCoordy["Amiens"]); ?> : yAmiens;
+	xValenciennes = xValenciennes == null ? <?php echo json_encode($dataCoordx["Valenciennes"]); ?> : xValenciennes;
+	yValenciennes = yValenciennes == null ? <?php echo json_encode($dataCoordy["Valenciennes"]); ?> : yValenciennes;
 	xAmiens = xAmiens == null ? xValenciennes : xAmiens;
-	yAmiens = yAmiens == null ? yValenciennes : yAmiens;
+	yAmiens = yAmiens == null ? yValenciennes: yAmiens;
 	// création de la carte, centrée autour d'Amiens pour le moment²
 
 	var amiens=[xAmiens, yAmiens];

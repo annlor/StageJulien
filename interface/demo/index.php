@@ -146,9 +146,9 @@ foreach($rows as $row) {
  	<form action ="action_page.php" method="post" id = "formulaire" name="myForm" onsubmit="return validateForm()">
     <p id ="IntroAndCount">Indiquez ce mot :</p><div class="ui-widget">
 <select class="selectpicker show-menu-arrow" data-width="fit" onchange="getval(this);">
-  <option value="1">Français</option>
+  <option value="1" selected="selected">Français</option>
   <option data-divider="true"></option>
-  <option value="2" selected="selected">Picard</option>
+  <option value="2">Picard</option>
   <option value="3">Occitan</option>
   <option value="4">Alsacien</option>
 </select>
@@ -163,7 +163,7 @@ foreach($rows as $row) {
 function getval(sel){
 var availableTags = [];
 if (sel == "load"){
-    availableTags = <?php echo json_encode(array_merge(array_filter($stackfr),array_filter($stackpcd))); ?>;
+    availableTags = <?php echo json_encode(array_filter($stackfr)); ?>;
 }
 else if (sel.value == "1"){
 	availableTags = <?php echo json_encode(array_filter($stackfr)); ?>;
