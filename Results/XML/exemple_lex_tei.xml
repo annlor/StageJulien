@@ -1,123 +1,123 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI PUBLIC "-//TEI P5//DTD Main Document Type//EN" "tei_all.dtd">
 <TEI  xml:lang="fr"  xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Lexique issu de l'ouvrage Le livre du "Rouchi" parler picard de Valenciennes, de Jean  Dauby</title>
-      </titleStmt>
-      <publicationStmt>
-				<publisher>
-					<orgName>LIMSI, CNRS, France</orgName>
-					</publisher>
-				<date>09/2017</date>
-				<availability>
-					<licence>licence LGPL-LR</licence>
-				</availability>      
-				</publicationStmt>
-      <sourceDesc>
-<biblFull xml:id="rouchi-pcd">
-				<titleStmt>
-					<title>Lexique du Rouchi</title>
-				</titleStmt>
-				<publicationStmt>
-					<authority>LIMSI, CNRS</authority>
-				</publicationStmt>
-			</biblFull>
-      </sourceDesc>
-    </fileDesc>
-  </teiHeader>
-  <text>
-    <body>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Lexique issu de l'ouvrage Le livre du "Rouchi" parler picard de Valenciennes, de Jean  Dauby</title>
+    </titleStmt>
+    <publicationStmt>
+      <publisher>
+	<orgName>LIMSI, CNRS, France</orgName>
+      </publisher>
+      <date>09/2017</date>
+      <availability>
+	<licence>licence LGPL-LR</licence>
+      </availability>      
+    </publicationStmt>
+    <sourceDesc>
+      <biblFull xml:id="rouchi-pcd">
+	<titleStmt>
+	  <title>Lexique du Rouchi</title>
+	</titleStmt>
+	<publicationStmt>
+	  <authority>LIMSI, CNRS</authority>
+	</publicationStmt>
+      </biblFull>
+    </sourceDesc>
+  </fileDesc>
+</teiHeader>
+<text>
+  <body>
 
-     <div xml:lang="pcd"><!-- mis à ce niveau pour le moment-->
-  <head>Picard-Français</head>
+    <div xml:lang="pcd"><!-- mis à ce niveau pour le moment-->
+      <head>Picard-Français</head>
 
-  <entry>
-   <form>
-    <orth>A</orth>
-   </form>
-<gramGrp>
-<pos>prép.</pos>
-</gramGrp>
-<def>parfois employée seule au lieu de l'art, déf. contr. &quot; Tout in juant à cartes &quot; (EM). &quot; Va-t-in dire cha à les gins.</def>
-  </entry>
-  
-    <entry>
-   <form>
-    <orth>A'</orth>
-   </form>
-<gramGrp>
-<pos>pr. pers. suj.</pos>
-</gramGrp>
-<def>elle (apocope de alle, devant une forme nég., un verbe pronom., etc. &quot; A' n' vot pus clair &quot;, &quot; A' s'met à rire in t'nant s' panche à deux mains &quot; (JD).</def>
-  </entry>
-  
-  
-     <entry>
-   <form>
-    <orth>ABANGÉ</orth>
-   </form>
- <re>
-  <form>
-   <orth>abongé</orth>
-  </form>
- </re>
-  </entry>
-  
-  
-    <entry>
-   <form>
-    <orth>ABASSIER (S')</orth>
-   </form>
-<gramGrp>
-<pos>v.</pos>
-</gramGrp>
-   <cit type="translation" xml:lang="fr">
-    <quote>se baisser</quote>
-    <quote>s'abaisser</quote>
-    </cit>
-     <cit type="example">
-  <quote>Quand el pauv' vieux i s'abasse, / S' tiête all' tourne comme un moulin</quote>
-  <bibl>
-   <author>JM</author>
-  </bibl>
- </cit>
-     <cit type="example">
-  <quote>On croyot oui n'y avot qu'à s'abassier pou l'zé cueuyer </quote>
-  <bibl>
-   <author>JQ</author>
-  </bibl> 
-   <cit type="translation" xml:lang="fr">
-   <quote>on croyait que tout serait facile</quote>
-  </cit>
- </cit>
-  </entry>  
-  
-  
-  
-    <entry>
-   <form>
-    <orth>ABISTOQUER</orth>
-   </form>
-<gramGrp>
-<pos>v.</pos>
-</gramGrp>
- <sense n="1">
-   <cit type="translation" xml:lang="fr">
-    <quote>accoutrer</quote>
-    <quote>fagoter</quote>
-    </cit>
-     <xr>  voir: <ref>abistoquer</ref></xr>
-      </sense>
-  <sense n="2">
-<def>effectuer un travail sommaire; ex. : faire un boisage provisoire (mines)</def>  
- </sense>
+      <entry>
+	<form>
+	  <orth>A</orth>
+	</form>
+	<gramGrp>
+	  <pos>prép.</pos>
+	</gramGrp>
+	<def>parfois employée seule au lieu de l'art, déf. contr. &quot; Tout in juant à cartes &quot; (EM). &quot; Va-t-in dire cha à les gins.</def>
       </entry>
-  
-  
+      
+      <entry>
+	<form>
+	  <orth>A'</orth>
+	</form>
+	<gramGrp>
+	  <pos>pr. pers. suj.</pos>
+	</gramGrp>
+	<def>elle (apocope de alle, devant une forme nég., un verbe pronom., etc. &quot; A' n' vot pus clair &quot;, &quot; A' s'met à rire in t'nant s' panche à deux mains &quot; (JD).</def>
+      </entry>
+      
+      
+      <entry>
+	<form>
+	  <orth>ABANGÉ</orth>
+	</form>
+	<re>
+	  <form>
+	    <orth>abongé</orth>
+	  </form>
+	</re>
+      </entry>
+      
+      
+      <entry>
+	<form>
+	  <orth>ABASSIER (S')</orth>
+	</form>
+	<gramGrp>
+	  <pos>v.</pos>
+	</gramGrp>
+	<cit type="translation" xml:lang="fr">
+	  <quote>se baisser</quote>
+	  <quote>s'abaisser</quote>
+	</cit>
+	<cit type="example">
+	  <quote>Quand el pauv' vieux i s'abasse, / S' tiête all' tourne comme un moulin</quote>
+	  <bibl>
+	    <author>JM</author>
+	  </bibl>
+	</cit>
+	<cit type="example">
+	  <quote>On croyot oui n'y avot qu'à s'abassier pou l'zé cueuyer </quote>
+	  <bibl>
+	    <author>JQ</author>
+	  </bibl> 
+	  <cit type="translation" xml:lang="fr">
+	    <quote>on croyait que tout serait facile</quote>
+	  </cit>
+	</cit>
+      </entry>  
+      
+      
+      
+      <entry>
+	<form>
+	  <orth>ABISTOQUER</orth>
+	</form>
+	<gramGrp>
+	  <pos>v.</pos>
+	</gramGrp>
+	<sense n="1">
+	  <cit type="translation" xml:lang="fr">
+	    <quote>accoutrer</quote>
+	    <quote>fagoter</quote>
+	  </cit>
+	  <xr>  voir: <ref>abistoquer</ref></xr>
+	</sense>
+	<sense n="2">
+	  <def>effectuer un travail sommaire; ex. : faire un boisage provisoire (mines)</def>  
+	</sense>
+      </entry>
+      
+      
     </div>
 
-    </body>
-  </text>
+  </body>
+</text>
 </TEI>
