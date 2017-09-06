@@ -1,0 +1,3477 @@
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+  <entry>
+    <form>
+      <orth>Lochier (Raoul de Cambrai</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim"/>
+  </entry>
+  <entry>
+    <form>
+      <orth>L' bien des pauvres</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : les fonds pour les secours aux indigents. &quot; In veut m'aruiner. J' vas d'aller su l'bien des paufes &quot; (PP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>: les fonds pour les secours aux indigents. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; In veut m'aruiner. J' vas d'aller su l'bien des paufes &quot; (PP).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Les mots suivants</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        de capelain à capote, ont tous pour orig. le lat. cappa, capuchon, puis cape.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        de capelain à capote, ont tous pour orig. le lat. cappa, capuchon, puis cape.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">capuchon</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Les cops d' martiau</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        = les Cambrésiens (JQ) ; les cops d'aile = les Lillois. &quot; I s' vantot, Cachamoule, i-avot déjà l' cop d'aile &quot; (JD) = il était fichu.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>= les Cambrésiens (JQ) ; les cops d'aile = les Lillois. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I s' vantot, Cachamoule, i-avot déjà l' cop d'aile &quot; (JD) = il était fichu.
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Les copeux d' dogts</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>= les Condéens.</quote>
+    </def>
+    <def label="française">
+      <quote>= les Condéens.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>L'occlusive sourde k ne figure</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        en français, que dans des mots de formation savante ou empruntés à des langues étrangères. Il en est de même en picard. Les mots commençant phonétiquement par cette consonne sont classés soit à la lettre c, soir à la lettre q. Il faut pourtant signaler que la transcription de l'occlusive sourde vélaire par le signe k est pratique et s'impose dans tous les cas (!), en écriture phonétique.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        en français, que dans des mots de formation savante ou empruntés à des langues étrangères. Il en est de même en picard. Les mots commençant phonétiquement par cette consonne sont classés soit à la lettre c, soir à la lettre q. Il faut pourtant signaler que la transcription de l'occlusive sourde vélaire par le signe k est pratique et s'impose dans tous les cas (!), en écriture phonétique.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* LABEUR</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        labour. &quot; Pour li pus facil'mint courir dins les labeurs &quot; (JM). Le v. labourer se conjugue norm. labeure auprés, de l'ind. ANC. : &quot; Je labeure a mi de troi quérue &quot; (Fl, S, 1648).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>labour. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">labour</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Le v. labourer se conjugue norm. labeure auprés, de l'ind. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Pour li pus facil'mint courir dins les labeurs &quot; (JM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : &quot; Je labeure a mi de troi quérue &quot; (Fl, S, 1648).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Labourés</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m. pl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        , terres labourées, labours. &quot; In a caché dins les labourés &quot;.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>, terres labourées, labours. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">labours</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; In a caché dins les labourés &quot;.</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* LACHE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - lacet (piège). &quot; J' coeuros dins l' bos... et j' perdos m' gampe dins un lache &quot; (PP). Et' pris au lache : se faire piéger. &quot; Viv' mariache ! / Core un ménache / Ed pris au lache ! &quot; (JM).
+      </quote>
+      <quote>2 - boucle au milieu d'un fil de lisse (tissage) (GL).</quote>
+    </def>
+    <def label="française">
+      <quote>1 - lacet (piège). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Et' pris au lache : se faire piéger. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J' coeuros dins l' bos... et j' perdos m' gampe dins un lache &quot; (PP).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Viv' mariache ! / Core un ménache / Ed pris au lache ! &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>2 - boucle au milieu d'un fil de lisse (tissage) (GL).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LACH(E)RON</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>laiteron (plante de la famille des composées, à suc laiteux).</quote>
+    </def>
+    <def label="française">
+      <quote>laiteron (plante de la famille des composées, à suc laiteux).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LACHET</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>1 - lacet (de chaussure). </quote>
+      <quote>
+        2 - fil de salive, de bave. &quot; Comm' cha sint bon ! J' vas in fair' des lachets &quot; (JD) = ça me met l'eau à la bouche.
+      </quote>
+      <quote>
+        3 - chiendent (plante adventice). &quot; J'ein profiterai pour netchier l'z' haricots ; ej' sus sûr qu'i sont pleins d' lachets &quot; (RD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - lacet (de chaussure). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>2 - fil de salive, de bave. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Comm' cha sint bon ! J' vas in fair' des lachets &quot; (JD) = ça me met l'eau à la bouche.
+      </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>3 - chiendent (plante adventice). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J'ein profiterai pour netchier l'z' haricots ; ej' sus sûr qu'i sont pleins d' lachets &quot; (RD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LACS (METT' IN)</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : mettre en baquets : bêchage profond fait avant l'hiver de façon à favoriser l'action nettoyante du gel. Syn. : bras d' fouriaux.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        : mettre en baquets : bêchage profond fait avant l'hiver de façon à favoriser l'action nettoyante du gel. Syn. : bras d' fouriaux.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LAFAYAU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        au XIXe, surnom des Orphéonistes valenciennois. &quot; Et aveuc un clipet d'bon Lafayau, / Y nous ont régalé d'un grand morciau &quot; (JQ).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>au XIXe, surnom des Orphéonistes valenciennois. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Et aveuc un clipet d'bon Lafayau, / Y nous ont régalé d'un grand morciau &quot; (JQ).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LAIT</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>lait burré : </quote>
+      <quote>1 - babeurre ; </quote>
+      <quote>2 - cardamine des prés. Lait d' bé : </quote>
+      <quote>1 - lait d'une vache qui vient de vêler ; </quote>
+      <quote>
+        2 - chéli-doine ou grande éclaire, qui laisse échapper un latex orangé. Lait-bouli (parfois : libouli), crème pâtissière dont on couvre les tartes. Ce mot apparaît dans le sud de notre zone : à Val., on dit du papin.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>lait burré : </quote>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>1 - babeurre ; </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>2 - cardamine des prés. Lait d' bé : </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>1 - lait d'une vache qui vient de vêler ; </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>
+        2 - chéli-doine ou grande éclaire, qui laisse échapper un latex orangé. Lait-bouli (parfois : libouli), crème pâtissière dont on couvre les tartes. Ce mot apparaît dans le sud de notre zone : à Val., on dit du papin.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LAÏTE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : dimin. d'Adélaïde, prénom jadis pop. (c'était celui de la grand' mère et de l'épouse de JM). Loute et Laïte : les géants du Rôleur ; à Valenciennes, créés après la dernière guerre.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        : dimin. d'Adélaïde, prénom jadis pop. (c'était celui de la grand' mère et de l'épouse de JM). Loute et Laïte : les géants du Rôleur ; à Valenciennes, créés après la dernière guerre.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LAITISON</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        pissenlit. &quot; Attendre raison de celle-là, c'est cacher à létizons su du macadam &quot; (FP). &quot; ... bintôt, j' ming'rai pa l' racheine / Des létisons &quot; (GF).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>pissenlit. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">pissenlit</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Attendre raison de celle-là, c'est cacher à létizons su du macadam &quot; (FP).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LAITRON</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>poulain à la mamelle.</quote>
+    </def>
+    <def label="française">
+      <quote>poulain à la mamelle.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LAMBIC</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: cafetière (L. Loriau, Vx Condé). Aphér. de alambic.</quote>
+    </def>
+    <def label="française">
+      <quote>: cafetière (L. Loriau, Vx Condé). Aphér. de alambic.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LAMIAU</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>LEUMIAU, s. m. : </quote>
+      <quote>
+        1 - palonnier ; trait, muni d'une petite pièce de bois et de chaînes, et qui vient se rattacher aux avant-traits (GD).
+      </quote>
+      <quote>
+        2 - au pl. : baguettes horizontales entre lesquelles on tend les lisses d'un métier à tisser (GL).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>LEUMIAU, s. m. : </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>
+        1 - palonnier ; trait, muni d'une petite pièce de bois et de chaînes, et qui vient se rattacher aux avant-traits (GD).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">trait</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>
+        2 - au pl. : baguettes horizontales entre lesquelles on tend les lisses d'un métier à tisser (GL).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LAMPAS</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        luette, palais, gosier. Arrouser l' lampas (GH) : bien boire. &quot; El seule ruse qu'i z'ont, ch'est, à l' pause, d'aller arroser leu lampas fourséqué &quot; (PP). ANC. : lampas : gosier (Rendus de Moiliens, fin XIIe) &quot; ... je crois qu'en vos repas, / Vous humectez volontiers le lampas &quot; (La Fontaine, XVIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>luette, palais, gosier. Arrouser l' lampas (GH) : bien boire. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">luette</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">palais</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">gosier</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; El seule ruse qu'i z'ont, ch'est, à l' pause, d'aller arroser leu lampas fourséqué &quot; (PP).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : lampas : gosier (Rendus de Moiliens, fin XIIe) &quot; ... je crois qu'en vos repas, / Vous humectez volontiers le lampas &quot; (La Fontaine, XVIIe).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LAMPÉRIAU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>chandelier de fer à bobèche (Vx).</quote>
+    </def>
+    <def label="française">
+      <quote>chandelier de fer à bobèche (Vx).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LANCER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        élancer, causer des élancements douloureux. &quot; J' m'ai écrasé m'n ortelle et cha m' lance ! &quot;.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>élancer, causer des élancements douloureux. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">élancer</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; J' m'ai écrasé m'n ortelle et cha m' lance ! &quot;.</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* Lancette (AH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>fronde.</quote>
+    </def>
+    <def label="française">
+      <quote>fronde.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fronde</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Lanchure (BD)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        élancement, douleur. &quot; Vos vos sintez des lanchures dins tout vo tiête &quot;.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>élancement, douleur. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">élancement</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">douleur</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Vos vos sintez des lanchures dins tout vo tiête &quot;.</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LANDON</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        volée, grand palonnier, pièce de bois perpendic. au timon, pour les attelages à plusieurs chevaux (voir : plarna).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        volée, grand palonnier, pièce de bois perpendic. au timon, pour les attelages à plusieurs chevaux (voir : plarna).
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">volée</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Landonner</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>coupler deux attelages.</quote>
+    </def>
+    <def label="française">
+      <quote>coupler deux attelages.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LANGREUX</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        maladif, qui languit. &quot; Langreux comme un infant accablé pa l'hiver &quot; (JD). ANC. : langoros : languissant, malade (Poème de St Alexis, XIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>maladif, qui languit. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">maladif</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Langreux comme un infant accablé pa l'hiver &quot; (JD). </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : langoros : languissant, malade (Poème de St Alexis, XIe).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LANGUE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>mord' es' langue = se retenir de parler. Ravaler s' langue : </quote>
+      <quote>1 - se taire ; </quote>
+      <quote>
+        2 - mourir. &quot; I n'a pas s' langue dins s' satiau &quot; = il n'a pas la langue dans sa poche. &quot; T' langue all' s'ra usée, tes bras s'ront cor tout nuefs &quot; = tu es plus fort en paroles qu'en actes. &quot; Zélie, Docteur, al a eune langue qu'a n' d' est pas maît' &quot; (PP) = elle ne peut s'empêcher de parler. &quot; T' langue all' dépass' tes dints, faudra mett' un grès d'sus ! &quot; (GV) = tu parles trop.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>mord' es' langue = se retenir de parler. Ravaler s' langue : </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>1 - se taire ; </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>2 - mourir. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I n'a pas s' langue dins s' satiau &quot; = il n'a pas la langue dans sa poche.
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; T' langue all' s'ra usée, tes bras s'ront cor tout nuefs &quot; = tu es plus fort en paroles qu'en actes.
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Zélie, Docteur, al a eune langue qu'a n' d' est pas maît' &quot; (PP) = elle ne peut s'empêcher de parler.
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; T' langue all' dépass' tes dints, faudra mett' un grès d'sus ! &quot; (GV) = tu parles trop.
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Languette</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>grande langue, bavarde.</quote>
+    </def>
+    <def label="française">
+      <quote>grande langue, bavarde.</quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">bavarde</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LANSART (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        pièce de bois, à l'arrière d'un chariot, où se fixe le câble maintenant le chargement (voir : comble, combiau).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        pièce de bois, à l'arrière d'un chariot, où se fixe le câble maintenant le chargement (voir : comble, combiau).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LAPETTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        êt' à l'lapette : être en pans de chemise. &quot; Des femm's in qu' miss', d'z homm's à l'lapette &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>êt' à l'lapette : être en pans de chemise. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Des femm's in qu' miss', d'z homm's à l'lapette &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* LAPIDER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - végéter en se tuant au travail ; éprouver des difficultés dans un travail. &quot; Pauf' Zante. Il a lapidé tout sa vie ! &quot; (EM).
+      </quote>
+      <quote>
+        2 - mal traiter. &quot; N'y a pas d' bon sins / D' lapider s' fille ainsi tout l' teimps &quot; (GF).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        1 - végéter en se tuant au travail ; éprouver des difficultés dans un travail.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Pauf' Zante. Il a lapidé tout sa vie ! &quot; (EM). </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>2 - mal traiter. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; N'y a pas d' bon sins / D' lapider s' fille ainsi tout l' teimps &quot; (GF).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Lapide</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        ouvrier laborieux mais malchanceux et misérable. &quot; Va, brav' lapite ! artourne el tierre ! &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>ouvrier laborieux mais malchanceux et misérable. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Va, brav' lapite ! artourne el tierre ! &quot; (JM).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* LAPIN</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - Ch'est un lapin d'hiver (EC) = c'est un enfant souffreteux ; un animal faible.
+      </quote>
+      <quote>2 - il a fait des lapins = il a vomi.</quote>
+    </def>
+    <def label="française">
+      <quote>
+        1 - Ch'est un lapin d'hiver (EC) = c'est un enfant souffreteux ; un animal faible.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>2 - il a fait des lapins = il a vomi.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LARGUÈCHE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - feu vif mais qui ne dure pas. &quot; Un tas d' bidons et d' viés'ries qu'on volot s' débarrasser et interténir ç' larguèche &quot; (JQ) (il s'agit d'un feu de la St Jean).
+      </quote>
+      <quote>
+        2 - liaison passionnée mais courte. &quot; Leu coeur i flamb' comm' eun' larguèche / Dins un bon fier par un temps fro &quot; (JQ).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - feu vif mais qui ne dure pas. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Un tas d' bidons et d' viés'ries qu'on volot s' débarrasser et interténir ç' larguèche &quot; (JQ) (il s'agit d'un feu de la St Jean).
+      </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>2 - liaison passionnée mais courte. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Leu coeur i flamb' comm' eun' larguèche / Dins un bon fier par un temps fro &quot; (JQ).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LARGUÉTRUE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>âtre Gertrude (voir ce mot).</quote>
+    </def>
+    <def label="française">
+      <quote>âtre Gertrude (voir ce mot).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LARIDÉ (Jean)</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: l'index (doigt) (lang. enf.).</quote>
+    </def>
+    <def label="française">
+      <quote>: l'index (doigt) (lang. enf.).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LARIS (FAIRE DES)</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : faire un joyeux tapage, un charivari (AH). &quot; N' comminche point cor. Té fais toudis des larries du diape pour rein du tout &quot; (RD) = des jérémiades. GH donne lari : confusion, tumulte, joie bruyante ; lari bori : désordre dans la maison.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>: faire un joyeux tapage, un charivari (AH). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; N' comminche point cor. Té fais toudis des larries du diape pour rein du tout &quot; (RD) = des jérémiades. GH donne lari : confusion, tumulte, joie bruyante ; lari bori : désordre dans la maison.
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LASTIQUE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        cordon élastique, caoutchouc. &quot; L'homm' li prind s' bague in lastique &quot; (au pigeon) (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>cordon élastique, caoutchouc. </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">caoutchouc</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>JM).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; L'homm' li prind s' bague in lastique &quot; (au pigeon) (
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LATTIAU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>assemblage de lattes sur lesquelles on plâtre.</quote>
+    </def>
+    <def label="française">
+      <quote>assemblage de lattes sur lesquelles on plâtre.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* LAVAGE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>eau savonneuse pour la lessive.</quote>
+    </def>
+    <def label="française">
+      <quote>eau savonneuse pour la lessive.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LA-VAU</orth>
+    </form>
+    <gramGrp>
+      <pos>adv.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        là-bas (opp. à ichi). &quot; Va-t-in vir là-vau, dins l'éteule à viaux &quot; (JD). &quot; T' nas pas dû souvint t'imbêter / Quand j' brayos là-vau, pauv' lapite &quot; (PM). ANC. : laval (là
+      </quote>
+    </def>
+    <def label="française">
+      <quote>là-bas (opp. à ichi). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Va-t-in vir là-vau, dins l'éteule à viaux &quot; (JD). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; T' nas pas dû souvint t'imbêter / Quand j' brayos là-vau, pauv' lapite &quot; (PM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : laval (là </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LAV(E)TÉE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        giclée. &quot; I m'a foutu ein' lav'tée d' moutarde su m' viande &quot; (voir : berlafe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>giclée. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">giclée</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I m'a foutu ein' lav'tée d' moutarde su m' viande &quot; (voir : berlafe).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LAVURER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>1 - laver le linge (malproprement, ajoute GH). </quote>
+      <quote>2 - boire.</quote>
+    </def>
+    <def label="française">
+      <quote>1 - laver le linge (malproprement, ajoute GH). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>2 - boire.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Lavurage</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>eau sale provenant du lessivage.</quote>
+    </def>
+    <def label="française">
+      <quote>eau sale provenant du lessivage.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LAYER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        laisser. &quot; Il a fini pa ramasser ses loqu', in layant ses ossiaux à s' vill'
+      </quote>
+    </def>
+    <def label="française">
+      <quote>laisser. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">laisser</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LAZARE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        misérable, pauvre diable. &quot; Mais, mourant d' faim et d' soif, ces pauv' lazar's, / I n'avott'nt rien à prétindr' des barbares &quot; (JM). ANC. : à l'orig., lépreux (lazaron, fin XIIe). puis malade contagieux mis dans un lazaret.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>misérable, pauvre diable. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">misérable</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">pauvre diable</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Mais, mourant d' faim et d' soif, ces pauv' lazar's, / I n'avott'nt rien à prétindr' des barbares &quot; (JM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : à l'orig., lépreux (lazaron, fin XIIe). puis malade contagieux mis dans un lazaret.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LÉGUEUME</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>légume. Des p'tiotes légueumes : des herbes à soupe.</quote>
+    </def>
+    <def label="française">
+      <quote>légume. Des p'tiotes légueumes : des herbes à soupe.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">légume</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LÉHU (PP)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        herbe utilisée pour la litière des animaux (voir : luis). &quot; Un faix d' léhu pou réternir el maguette &quot;.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>herbe utilisée pour la litière des animaux (voir : luis). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Un faix d' léhu pou réternir el maguette &quot;.</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LEIGNE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>bois de chauffage (vx) (du lat. Ligna/orum).</quote>
+    </def>
+    <def label="française">
+      <quote>bois de chauffage (vx) (du lat. Ligna/orum).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Leigner</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>marchand de bois de chauffage (vx). Du lat. lignarius.</quote>
+    </def>
+    <def label="française">
+      <quote>marchand de bois de chauffage (vx). Du lat. lignarius.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LÉNIER</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote> longues rênes (syn. d'afilée) (GD).</quote>
+    </def>
+    <def label="française">
+      <quote> longues rênes (syn. d'afilée) (GD).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LÉQUER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        lécher. &quot; Ch'ti qu'i s'in va i lèque, ch'ti qui resse i sèque &quot; = qui sort de chez soi a des occasions de se régaler.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>lécher. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">lécher</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ch'ti qu'i s'in va i lèque, ch'ti qui resse i sèque &quot; = qui sort de chez soi a des occasions de se régaler.
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Léquée</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        ce qu'on lèche, qu'on peut lécher. &quot; Alle avot r'chu toute eine léquée d' papin dins les tros d' nez &quot; (JD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>ce qu'on lèche, qu'on peut lécher. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Alle avot r'chu toute eine léquée d' papin dins les tros d' nez &quot; (JD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Léquette</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>lichette, fine tranche de pain, de fromage, de viande...</quote>
+    </def>
+    <def label="française">
+      <quote>lichette, fine tranche de pain, de fromage, de viande...</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">lichette</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* LESSIVAGE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>eau de lessive (voir : lavage, lavurage).</quote>
+    </def>
+    <def label="française">
+      <quote>eau de lessive (voir : lavage, lavurage).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LEU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - loup. L' gris leu : &quot; Et, dé s' lanque, in avot pus peur qué du gris leu &quot; (PB). &quot; Il est moutré du dogt comm' s'il étot l' gris-leu &quot; (EM).
+      </quote>
+      <quote>
+        2 - misanthrope, homme farouche et solitaire (EC). ANC. : leu (Ch. de Roland, 1080). &quot; Il est ensy comme ly leux / Quy de mengier est désireux &quot; (Gligois, XIIIe). &quot; Ché leu qui, son parmi ché can &quot; (Fl, B, XVIIe) Le fr. a gardé le mot ancien dans &quot; à la queue leu-leu &quot;. (Voir : seu).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - loup. L' gris leu : </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Et, dé s' lanque, in avot pus peur qué du gris leu &quot; (PB).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Il est moutré du dogt comm' s'il étot l' gris-leu &quot; (EM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : leu (Ch. de Roland, 1080). &quot; Il est ensy comme ly leux / Quy de mengier est désireux &quot; (Gligois, XIIIe). &quot; Ché leu qui, son parmi ché can &quot; (Fl, B, XVIIe) Le fr. a gardé le mot ancien dans &quot; à la queue leu-leu &quot;. (Voir : seu).
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>2 - misanthrope, homme farouche et solitaire (EC). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : leu (Ch. de Roland, 1080). &quot; Il est ensy comme ly leux / Quy de mengier est désireux &quot; (Gligois, XIIIe). &quot; Ché leu qui, son parmi ché can &quot; (Fl, B, XVIIe) Le fr. a gardé le mot ancien dans &quot; à la queue leu-leu &quot;. (Voir : seu).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LEU</orth>
+    </form>
+    <gramGrp>
+      <pos>adj. poss.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        leur. &quot; ... al port' leu bonheur den leu manche &quot; (Fl, F, XVIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>leur. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">leur</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LEU ou LIEU</orth>
+    </form>
+    <gramGrp>
+      <pos>pr. pers. compl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        leur, se. &quot; All' leu z'arcommande ed leu taire, / Dé n' pas ouvrir leu bouque &quot; (GF). Dis lieu qu' bintôt aussi j' vas printe el bon essor &quot; (EM). &quot; Faut qu'i lieu warde un morciau d' pain &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>leur, se. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">leur</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">se</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Dis lieu qu' bintôt aussi j' vas printe el bon essor </quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; All' leu z'arcommande ed leu taire, / Dé n' pas ouvrir leu bouque &quot; (GF).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LEUM(E)CHON</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        LUM(E)CHON, s. m. : limaçon. &quot; Des p'tits gosses / Frottant leux nez conte l' ferniette / Font des traces com' des leum'chons &quot; (PB). &quot; El' lum'chon, ch' n'est pas eun' moule ! &quot; (JM). &quot; Ein n' sarot point faire croquer des nosettes à un lumechon &quot; (RD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>LUM(E)CHON, s. m. : limaçon. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Des p'tits gosses / Frottant leux nez conte l' ferniette / Font des traces com' des leum'chons &quot; (PB).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; El' lum'chon, ch' n'est pas eun' moule ! &quot; (JM). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ein n' sarot point faire croquer des nosettes à un lumechon &quot; (RD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LEUMER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        éclairer quelqu'un, lui tenir la lumière. &quot; V'nez chi m' leumer qué j' vous puniche &quot; (JM), disait le chef-porion au mineur en défaut. Leumer des uefs : mirer des oeufs.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>éclairer quelqu'un, lui tenir la lumière. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        disait le chef-porion au mineur en défaut. Leumer des uefs : mirer des oeufs.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; V'nez chi m' leumer qué j' vous puniche &quot; (JM), </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Leum(e)rotte</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        lumignon. &quot; I f' sot des yeux comm' des leum'rottes &quot; (GF). Feufollet. &quot; C'étaient de très beaux yeux verts..., ils brillaient autant que les lumerotes du marais de Vicq &quot; (CD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>lumignon. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">lumignon</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Feufollet. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; I f' sot des yeux comm' des leum'rottes &quot; (GF). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; C'étaient de très beaux yeux verts..., ils brillaient autant que les lumerotes du marais de Vicq &quot; (CD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Leumière</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        lumière. &quot; L' solel eddins les branqu's i fait glicher s' leumière &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>lumière. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">lumière</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; L' solel eddins les branqu's i fait glicher s' leumière &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LEUNE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        lune (voir : belle). Avoir eun' leune : avoir un caprice, une fantaisie (GD). Avoir ses leunes : avoir ses règles.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        lune (voir : belle). Avoir eun' leune : avoir un caprice, une fantaisie (GD). Avoir ses leunes : avoir ses règles.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Leunette</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        lunette. &quot; M'n infirmité, a s' vot fauque avec des leunettes &quot; (FP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>lunette. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">lunette</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; M'n infirmité, a s' vot fauque avec des leunettes &quot; (FP).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LEUSSE (GF)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>1 - pou. </quote>
+      <quote>
+        2 - coup donné à une toupie par la toupie de l'adversaire. &quot; Mais l' torpie d' Mimile a des puches / Des poux, des leuss's à fair' frémir &quot;. ANC. : lat. lens : oeuf de pou. Cf. all. Laus, néerl. luis, angl. : louse.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - pou. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : lat. lens : oeuf de pou. Cf. all. Laus, néerl. luis, angl. : louse.
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>2 - coup donné à une toupie par la toupie de l'adversaire. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Mais l' torpie d' Mimile a des puches / Des poux, des leuss's à fair' frémir &quot;.
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : lat. lens : oeuf de pou. Cf. all. Laus, néerl. luis, angl. : louse.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LÉVIER</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        déform. pour : évier. &quot; Qu'est-ce qu'i n'y avot à faire - El robinet du lévier qui coulot &quot; (RD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>déform. pour : évier. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Qu'est-ce qu'i n'y avot à faire - El robinet du lévier qui coulot &quot; (RD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LI</orth>
+    </form>
+    <gramGrp>
+      <pos>pr. pers. compl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        lui. Il est employé au fém. dans l'Est de l'arrondissement. &quot; J' té dis qu' ch'est li, l' fame Arthur ! Ch'est li qu'al tient tous mes paperasses &quot; (RD). &quot; Ch'ti-chi ch'est tout l' portrait d' sin père... / Comm' ch'est li, mon Dieu, comm' ch'est li ! &quot; (JM) = comme il lui ressemble ! ANC. : au XIIe, on trouve li aux deux genres (parfois lie au fém.).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>lui. Il est employé au fém. dans l'Est de l'arrondissement. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">lui</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J' té dis qu' ch'est li, l' fame Arthur ! Ch'est li qu'al tient tous mes paperasses &quot; (RD).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ch'ti-chi ch'est tout l' portrait d' sin père... / Comm' ch'est li, mon Dieu, comm' ch'est li ! &quot; (JM) = comme il lui ressemble !
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : au XIIe, on trouve li aux deux genres (parfois lie au fém.).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LIBERQUIN</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>(voir : aberquin).</quote>
+    </def>
+    <def label="française">
+      <quote>(voir : aberquin).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LICHER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        lécher (n'est pas part, au rouchi). &quot; Il appelot &quot;licher l' fin verre&quot; / Quand i buvot eun' grand' jatt' d'iau &quot; (JM). ANC. : lichier ou lechier (Psautier de Cambridge, déb. XIIe) s'applique aux plaisirs de la table comme à ceux de la chair.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>lécher (n'est pas part, au rouchi). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>licher l' fin verre</quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Il appelot &quot;</quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : lichier ou lechier (Psautier de Cambridge, déb. XIIe) s'applique aux plaisirs de la table comme à ceux de la chair.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LICO</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        licol, licou. &quot; ... l' chaîne / Qui glich' su l'anniau du licot &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>licol, licou. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">licol</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">licou</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LIEU</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir leu, pr. pers.).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir leu, pr. pers.).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LIEUR (JQ)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        lieue. &quot; On l' veyot au moins à n' eun' demi-lieur à l' rond' &quot;.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>lieue. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">lieue</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; On l' veyot au moins à n' eun' demi-lieur à l' rond' &quot;.
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LIÈV(R)E</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        &quot; T'as p't-être un lièv' dins t' carnassière ? &quot; (GF) = tu es peut-être enceinte ? &quot; Ch't un vrai liève à l'afilée &quot; (Glec) = c'est un sot.
+      </quote>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LIME</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        ligne (pour la pêche). &quot; Tous les ustensil's du péqueux : / Lim's, puisett', filet à friture &quot; (JM). &quot; L' jone de brame et l' péqueux à l' lime &quot; (BD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>ligne (pour la pêche). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Tous les ustensil's du péqueux : / Lim's, puisett', filet à friture &quot; (JM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; L' jone de brame et l' péqueux à l' lime &quot; (BD).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LIMÉRO</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        S. m., déform. pour : numéro. &quot; Cha a comminché par un fascicule avec un liméro &quot; (EM). &quot; In a saqué des liméros &quot; (à la loterie) (RP). &quot; All' connot l' liméro ! &quot; (GH) = cette jeune fille n'a plus rien à apprendre ! Au premier liméro : de première qualité. &quot; Et l' ménuisier m'a fabriqué dins ç' bos / Eun' gardé-rope au premier liméro ! &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>S. m., déform. pour : numéro. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>RP). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Cha a comminché par un fascicule avec un liméro &quot; (EM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; In a saqué des liméros &quot; (à la loterie) (</quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; All' connot l' liméro ! &quot; (GH) = cette jeune fille n'a plus rien à apprendre ! Au premier liméro : de première qualité.
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Et l' ménuisier m'a fabriqué dins ç' bos / Eun' gardé-rope au premier liméro ! &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LINCHUÉ</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - drap de lit &quot; ô fais widier l' diale d'ém' linchwé &quot; (PMa).
+      </quote>
+      <quote>
+        2 - linceul. ANC. : linsuel : drap de lit (Poème de St Alexis, XIe). En fr. linceul a gardé ce sens jusqu'au XVIIe.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - drap de lit </quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; ô fais widier l' diale d'ém' linchwé &quot; (PMa). </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : linsuel : drap de lit (Poème de St Alexis, XIe). En fr. linceul a gardé ce sens jusqu'au XVIIe.
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>2 - linceul. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : linsuel : drap de lit (Poème de St Alexis, XIe). En fr. linceul a gardé ce sens jusqu'au XVIIe.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LINUISE (GD)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>graine de lin.</quote>
+    </def>
+    <def label="française">
+      <quote>graine de lin.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LIONNE (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        aunée (composacée, plante méd. à racine amère et aromatique). Tablettes ed lionne : tablettes que l'on faisait avec du sucre blanc et du suc de racine d'aunée.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        aunée (composacée, plante méd. à racine amère et aromatique). Tablettes ed lionne : tablettes que l'on faisait avec du sucre blanc et du suc de racine d'aunée.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* LIVRER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>mettre la balle en jeu (au jeu de balle au gant, ou à main nue).</quote>
+    </def>
+    <def label="française">
+      <quote>mettre la balle en jeu (au jeu de balle au gant, ou à main nue).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* Livrée</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        correspond au service du tennis. &quot; Y n'y avot Prosper et Mineur pou l' livrée ; Cordier, Dor et Dupont pou l' rachat &quot; (JQ).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>correspond au service du tennis. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Y n'y avot Prosper et Mineur pou l' livrée ; Cordier, Dor et Dupont pou l' rachat &quot; (JQ).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Livreux</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>joueur au service.</quote>
+    </def>
+    <def label="française">
+      <quote>joueur au service.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LIVRETTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        moule à beurre contenant une demi-livre ; palette gravée en creux servant à imprimer une marque sur les pièces de beurre.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        moule à beurre contenant une demi-livre ; palette gravée en creux servant à imprimer une marque sur les pièces de beurre.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LOG(E)MINT</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>logement.</quote>
+    </def>
+    <def label="française">
+      <quote>logement.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">logement</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* Logeux</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        ouvrier célibataire logeant, prenant pension chez un particulier. &quot; Ses logeux ch'étot s' seul' ressource... / Ch' tot toudis les mêm's pinsionnaires &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        ouvrier célibataire logeant, prenant pension chez un particulier.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ses logeux ch'étot s' seul' ressource... / Ch' tot toudis les mêm's pinsionnaires &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LOÏER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        lier. &quot; L' bonnet mal loyé su l' tignasse &quot; (JM). ANC. : loier (Vie de St Léger, Xe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>lier. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">lier</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; L' bonnet mal loyé su l' tignasse &quot; (JM). </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : loier (Vie de St Léger, Xe).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Loïen</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        lien, formé de deux poignées de longue paille de seigle nouées ensemble et servant à lier une gerbe ; paille torsadée, branche flexible, etc., servant à lier les fagots ; bouquet d'aulx dont on a tressé ensemble les queues : un loïen d'ails. ANC. : loien (XIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        lien, formé de deux poignées de longue paille de seigle nouées ensemble et servant à lier une gerbe ; paille torsadée, branche flexible, etc., servant à lier les fagots ; bouquet d'aulx dont on a tressé ensemble les queues : un loïen d'ails.
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">lien</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">etc</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : loien (XIIe).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Loïure</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>ligature.</quote>
+    </def>
+    <def label="française">
+      <quote>ligature.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">ligature</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LOMONT (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        petite butte sur laquelle on place la cholette, au jeu de crosse.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        petite butte sur laquelle on place la cholette, au jeu de crosse.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LONG</orth>
+    </form>
+    <gramGrp>
+      <pos>adv.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        loin. &quot; Aussi long qu' jé m' rappelle &quot; (JD). &quot; Ch'est bin lon d' payer à boire ! &quot; (GF). &quot; Ed lon, in dirot, j' vous l' jure, / Qu'i sortent du grand faiseur &quot; (EM). &quot; In peut t'imm'ner lon, bin lon, / D'zeur les mers, au d'sus des monts &quot; (JM). &quot; D'ichi qué l' tchien alle à les glennes, i n'y a pas long &quot; (RD). ANC. : lonc : loin. &quot; Lonc de sa gent aloit pensant &quot; Wace, XIIe) du lat. longe.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>loin. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">loin</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Aussi long qu' jé m' rappelle &quot; (JD). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Ch'est bin lon d' payer à boire ! &quot; (GF). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ed lon, in dirot, j' vous l' jure, / Qu'i sortent du grand faiseur &quot; (EM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; In peut t'imm'ner lon, bin lon, / D'zeur les mers, au d'sus des monts &quot; (JM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; D'ichi qué l' tchien alle à les glennes, i n'y a pas long &quot; (RD).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : lonc : loin. &quot; Lonc de sa gent aloit pensant &quot; Wace, XIIe) du lat. longe.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LONG</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        &quot; Long mingeux, long ouvreux &quot; (prov.) = qui mange lentement travaille de même. &quot; (Ils) Ont fait la queue tros heures d' long &quot; (EM) = pendant trois heures. &quot; Il a tout un côté d' pierdu ; i né l' f'ra pus longue &quot; (RD) = il n'a plus longtemps à vivre. &quot; A r'voir ! A l'occasion / Nous l' f'rons pus longue &quot; (JM) = nous resterons plus longtemps une autre fois.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>prov.) = qui mange lentement travaille de même. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Long mingeux, long ouvreux &quot; (</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Longin ou long'j'y-vas</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        lambin. &quot; L'infant buque es sou su l' vitrine / Pour app'ler l' marchand long-j'y-vas &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>lambin. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">lambin</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; L'infant buque es sou su l' vitrine / Pour app'ler l' marchand long-j'y-vas &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Longiner</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>agir avec lenteur ; temporiser.</quote>
+    </def>
+    <def label="française">
+      <quote>agir avec lenteur ; temporiser.</quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">temporiser</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Longeon</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        longue perche destinée à maintenir l'écartement des bois de soutènement (mines) (AL).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        longue perche destinée à maintenir l'écartement des bois de soutènement (mines) (AL).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Longueur</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - coupon de batiste que l'on retranchait d'une pièce trop longue (GH).
+      </quote>
+      <quote>2 - longueur ed fier: rail de </quote>
+    </def>
+    <def label="française">
+      <quote>
+        1 - coupon de batiste que l'on retranchait d'une pièce trop longue (GH).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>2 - longueur ed fier: rail de </quote>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Long-tour</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        cheval de droite dans un attelage à plusieurs chevaux de front (GL). Faire l' long tour : prendre le chemin le plus long.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        cheval de droite dans un attelage à plusieurs chevaux de front (GL). Faire l' long tour : prendre le chemin le plus long.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Longue</orth>
+    </form>
+    <gramGrp>
+      <pos>prép.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>le long de, près de. &quot; On</quote>
+    </def>
+    <def label="française">
+      <quote>le long de, près de. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">le long de</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">près de</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LONTAINE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>vache qui ne donne plus de lait.</quote>
+    </def>
+    <def label="française">
+      <quote>vache qui ne donne plus de lait.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* LOPIN</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        morceau d'une chose quelconque. &quot; Les lopins, pou ces gross's pièches, / Cauff'nt dins l' four qui lanc' des flamèches &quot; (JM) (il s'agit ici de lopins de fonte). ANC. : lopin : morceau, coup (Hugues Capet, 1330).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>morceau d'une chose quelconque. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Les lopins, pou ces gross's pièches, / Cauff'nt dins l' four qui lanc' des flamèches &quot; (JM) (il s'agit ici de lopins de fonte).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : lopin : morceau, coup (Hugues Capet, 1330).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LOQUE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>le mot a beaucoup plus de sens qu'en fr. </quote>
+      <quote>
+        1 - vêtements. &quot; S' mère l'amiclote dins des loques ed cul bin propes &quot; (JD) (= langes). &quot; In loques d' fosse ej' m'habille &quot; / Pour réciter mes productions (JM) (= vêtements de mineur). &quot; Toi, té mets tes pus viellés-loques &quot; (EM) (= vieux vêtements). &quot; Mets tes bellés-loques (= beaux vêtements), t'aras d' l'esprit &quot; (GH), dit-on à un sot. &quot; Il avot ses loqu's des diminches (= vêtements de dimanche) / Capote à pans, souliers qui crinchent &quot; (JM).
+      </quote>
+      <quote>
+        2 - tissus de ménage. &quot; Et' quémisse alle n'est pus foque bonne à faire eine loque à dépourrer &quot; (= chiffon à épousseter). Loque à loqueter ou loqueteau : serpillière. &quot; S' nez, su l' débout, est gonflé d' feu / Comme el bourlett' d'eun' loque au bleu &quot; (JM) (= Petit chiffon contenant la boule de poudre d'indigo à blanchir le linge - naguère).
+      </quote>
+      <quote>
+        3 - chiffon sans usage. &quot; Vous vous souv'nez d' Bleu, l' marchand d' loques, (= chiffonnier) / L' marchand d' piaux d' lièvr's et d' piaux d' lapins &quot; (GF).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>le mot a beaucoup plus de sens qu'en fr. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>1 - vêtements. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>langes). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Pour réciter mes productions (JM) (= vêtements de mineur). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>vieux vêtements). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>dit-on à un sot. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; S' mère l'amiclote dins des loques ed cul bin propes &quot; (JD) (=
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; In loques d' fosse ej' m'habille &quot; / </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Toi, té mets tes pus viellés-loques &quot; (EM) (= </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Mets tes bellés-loques (= beaux vêtements), t'aras d' l'esprit &quot; (GH),
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Il avot ses loqu's des diminches (= vêtements de dimanche) / Capote à pans, souliers qui crinchent &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>2 - tissus de ménage. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        chiffon à épousseter). Loque à loqueter ou loqueteau : serpillière.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        Petit chiffon contenant la boule de poudre d'indigo à blanchir le linge - naguère).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Et' quémisse alle n'est pus foque bonne à faire eine loque à dépourrer &quot; (=
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; S' nez, su l' débout, est gonflé d' feu / Comme el bourlett' d'eun' loque au bleu &quot; (JM) (=
+      </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>3 - chiffon sans usage. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Vous vous souv'nez d' Bleu, l' marchand d' loques, (= chiffonnier) / L' marchand d' piaux d' lièvr's et d' piaux d' lapins &quot; (GF).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Laver les loques</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : faire la lessive. &quot; On lave toutes ses loques plutôt deux fois qu'une (AS).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>: faire la lessive. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Loqu(e)ter</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        (laver le carrelage) figure dans le Lar. Univ. Mais le verbe est d'un emploi plus commun ici que dans le reste de la francophonie !
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        (laver le carrelage) figure dans le Lar. Univ. Mais le verbe est d'un emploi plus commun ici que dans le reste de la francophonie !
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Loqu(e)tois</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        serpillière. &quot; I m' faut deux locquetois, du savon noir et d' l'huile &quot; (RD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>serpillière. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">serpillière</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I m' faut deux locquetois, du savon noir et d' l'huile &quot; (RD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* LOQUET</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>hoquet. Il a l' loquet.</quote>
+    </def>
+    <def label="française">
+      <quote>hoquet. Il a l' loquet.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">hoquet</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LORIE (LORIPE à Onnaing</orth>
+    </form>
+    <gramGrp>
+      <pos>etc.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>), s. f. : mercuriale (plante adventice, euphorbiacée).</quote>
+    </def>
+    <def label="française">
+      <quote>), s. f. : mercuriale (plante adventice, euphorbiacée).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LORIPE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        animal répugnant. &quot; I n'y a des méduses, des crabes, et pis enne sorte ed sale loripe toute verdélote &quot; (RD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>animal répugnant. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I n'y a des méduses, des crabes, et pis enne sorte ed sale loripe toute verdélote &quot; (RD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Loripette</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        personnage fantastique dont on effraie les enfants qui s'attardent le soir (EC).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        personnage fantastique dont on effraie les enfants qui s'attardent le soir (EC).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LOSSE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        LOSTE ou ALOSSE, s. m. : paresseux, mauvais sujet, miséreux, &quot; Les garchons d' Condé ch'est des losses, / Des trompeux d' filles, des pas grand choses &quot; (AD). Losse (ou loste) del Crox : oisif qui stationnait jadis sur la place de la Croix aux Ceps (extrémité Nord de la Place d'Armes actuelle, à Val.), dans l'attente d'un travail temporaire. &quot; Les loss' del Crox sont des vauriens, / Des wiseux et des propr's à rien &quot; (GF). &quot; On ne rencontrait partout que des &quot;célébrités&quot; comme le sourd Taquet, Grosse Tête Chopin, Paie la Goutte et autres losses del Crox &quot; (FP). &quot; Parlons du tondélier Popo, l' ro d'z alosses et des wiseux &quot; (JQ). (Voir : Ost del Crox).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>LOSTE ou ALOSSE, s. m. : paresseux, mauvais sujet, miséreux, </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">miséreux</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        Losse (ou loste) del Crox : oisif qui stationnait jadis sur la place de la Croix aux Ceps (extrémité Nord de la Place d'Armes actuelle, à Val.), dans l'attente d'un travail temporaire.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>célébrités</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">célébrités</cit>
+      </cit>
+    </def>
+    <def label="française">
+      <quote>Voir : Ost del Crox).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Les garchons d' Condé ch'est des losses, / Des trompeux d' filles, des pas grand choses &quot; (AD).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Les loss' del Crox sont des vauriens, / Des wiseux et des propr's à rien &quot; (GF).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; On ne rencontrait partout que des &quot;</quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; comme le sourd Taquet, Grosse Tête Chopin, Paie la Goutte et autres losses del Crox &quot; (FP).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Parlons du tondélier Popo, l' ro d'z alosses et des wiseux &quot; (JQ). (
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Lost(e)rie</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>tromperie, polissonnerie ; chose de peu de valeur.</quote>
+    </def>
+    <def label="française">
+      <quote>tromperie, polissonnerie ; chose de peu de valeur.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">tromperie</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">polissonnerie</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Lostière</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        , dér. de loste : fille de mauvaise vie : &quot; Et j' té l' dis : j'ai chen fôs pu quière / Dé m' passé d' pain qué t' fuch' lostière &quot; (Fl, F, XVIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>, dér. de loste : fille de mauvaise vie : </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Et j' té l' dis : j'ai chen fôs pu quière / Dé m' passé d' pain qué t' fuch' lostière &quot; (Fl, F, XVIIe).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Lostron</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        vaurien, polisson. ANC. : on trouve : los : misérable (Aiol, fin XIIe). &quot; Cis garchons vint en France povres et los &quot; ; méchant (Baudouin de Condé, fin XIIIe). L'adj. et adv. néerl. los a de multiples sens et dérivés tel : losbandig : libertin, déréglé.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>vaurien, polisson. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">vaurien</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">polisson</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : on trouve : los : misérable (Aiol, fin XIIe). &quot; Cis garchons vint en France povres et los &quot; ; méchant (Baudouin de Condé, fin XIIIe). L'adj. et adv. néerl. los a de multiples sens et dérivés tel : losbandig : libertin, déréglé.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LOT</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        ancienne mesure de capacité (au nord de la Loire), valant génér. quatre pintes. Lot de Lille :
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        ancienne mesure de capacité (au nord de la Loire), valant génér. quatre pintes. Lot de Lille :
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LOUCH(E)-POT</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        LOUCH(E)-PEUT, s. m. : louche. &quot; L'vant l' chaudière ed' trent'-mill' kilos / Comme eun' femme élève un louch'-pot &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>LOUCH(E)-PEUT, s. m. : louche. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; L'vant l' chaudière ed' trent'-mill' kilos / Comme eun' femme élève un louch'-pot &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LOUCHET</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        le terme est employé en fr. surtout pour certaines techniques. En rouchi, c'est la bêche du jardinier. &quot; Ces gins font des mâchoires / Comm' des lames d' louchet &quot; (JM). Louchet à coulisses ou louchet à six coins : bêche dont le fer se termine par une langue étroite pour nettoyer les rails du tramway. &quot; J' l' ai vu, pa l' temps d' neige qu'il a fait, / Portant un louchet à coulisses... / I nettiot les rails pleins d' poussière. In poussant s' louchet à six coins &quot; (JM). I sint l' louchet (EC) = il n'en a plus pour longtemps ; le fossoyeur va bientôt creuser sa tombe. ANC. : dérivé de louche (
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        le terme est employé en fr. surtout pour certaines techniques. En rouchi, c'est la bêche du jardinier.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        Louchet à coulisses ou louchet à six coins : bêche dont le fer se termine par une langue étroite pour nettoyer les rails du tramway.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        I sint l' louchet (EC) = il n'en a plus pour longtemps ; le fossoyeur va bientôt creuser sa tombe.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ces gins font des mâchoires / Comm' des lames d' louchet &quot; (JM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J' l' ai vu, pa l' temps d' neige qu'il a fait, / Portant un louchet à coulisses... / I nettiot les rails pleins d' poussière. In poussant s' louchet à six coins &quot; (JM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : dérivé de louche (</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LOUGNER (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>lorgner, regarder sournoisement.</quote>
+    </def>
+    <def label="française">
+      <quote>lorgner, regarder sournoisement.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">lorgner</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Lougnard ou lourgneux (AH)</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: sournois.</quote>
+    </def>
+    <def label="française">
+      <quote>: sournois.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LOUIS</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>&quot; In n'est pas louis d'or,</quote>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LOUQUER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>frapper fortement avec un marteau (AL). (Voir : arlouquer).</quote>
+    </def>
+    <def label="française">
+      <quote>frapper fortement avec un marteau (AL). (Voir : arlouquer).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LOURMIE (AH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>personne nonchalante.</quote>
+    </def>
+    <def label="française">
+      <quote>personne nonchalante.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LUIS</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m. pl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        longues herbes destinées aux litières des lapins, des chèvres, etc. (B. Debrabant, Raismes). (Voir : églui ; léhu).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        longues herbes destinées aux litières des lapins, des chèvres, etc. (B. Debrabant, Raismes). (Voir : églui ; léhu).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">etc</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LUM(E)CHON</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : leum'chon).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : leum'chon).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LUNE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>avant-train d'un chariot.</quote>
+    </def>
+    <def label="française">
+      <quote>avant-train d'un chariot.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LUSEUX</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : lusot).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : lusot).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>LUSIAU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        cercueil. &quot; Ah ! si m' grand père d' bos blanc povot sortir dé s' lusiau pou quéqu'minut' seul'mint, comm' i fes'rot des yeux ! &quot; (JQ). &quot; Les clos d' lusiau i pouss'tent &quot; (GL) = il vieillit. ANC. : lusel, luisel ou lucel : cercueil (Chevalier au Cygne, XIIe) du lat. locellum : compartiment.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>cercueil. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">cercueil</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ah ! si m' grand père d' bos blanc povot sortir dé s' lusiau pou quéqu'minut' seul'mint, comm' i fes'rot des yeux ! &quot; (JQ).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Les clos d' lusiau i pouss'tent &quot; (GL) = il vieillit.
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : lusel, luisel ou lucel : cercueil (Chevalier au Cygne, XIIe) du lat. locellum : compartiment.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LUSOTER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>s'amuser à des riens ; tourner beaucoup pour ne rien faire.</quote>
+    </def>
+    <def label="française">
+      <quote>s'amuser à des riens ; tourner beaucoup pour ne rien faire.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Lusot</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        lusoteux, luseux, s. m. : musard. ANC. : Lat. ludere : jouer ; lusorius : qu'on fait par jeu ; peu sérieux.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>lusoteux, luseux, s. m. : musard. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : Lat. ludere : jouer ; lusorius : qu'on fait par jeu ; peu sérieux.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LUSSIER</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        déform. de huissier. &quot; T'as l' habitude d'avoir el lussier à tes guêtes &quot; (EM). &quot; El lussier qui est foutu l' camp avec les sous des geins &quot; (RD). Chez GT, on trouve zussier.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>déform. de huissier. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Chez GT, on trouve zussier.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; T'as l' habitude d'avoir el lussier à tes guêtes &quot; (EM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; El lussier qui est foutu l' camp avec les sous des geins &quot; (RD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>L'ZÉS</orth>
+    </form>
+    <gramGrp>
+      <pos>pr. pers. compl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        les. &quot; Ramassez l'zés, v'là l' marchand d' piaux d' lapins &quot; (GF). &quot; Acoutons l'zés, i d' vis'nt ed jardinache &quot; (JM). &quot; Nos l'zés vindons tros francs pièche &quot;.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>les. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">les</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ramassez l'zés, v'là l' marchand d' piaux d' lapins &quot; (GF).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Acoutons l'zés, i d' vis'nt ed jardinache &quot; (JM). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Nos l'zés vindons tros francs pièche &quot;.</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Les marlettes</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: jadis, surnom des habitants de Marly (JQ).</quote>
+    </def>
+    <def label="française">
+      <quote>: jadis, surnom des habitants de Marly (JQ).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>
+        L'origine la plus plausible est que c'est le patois parlé dans le pays de drouchi (de par ici)
+      </orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        avec aphérèse du d : pays d' rouchi (voir : Introduction). Le terme est pratique, bien que peu euphonique et aujourd'hui sujet à contestation. La question est posée de savoir si le rouchi a droit à son &quot; autonomie interne &quot; au sein du domaine picard. Ce livre essaie, sans conclure, de donner des éléments de réponse. Le rouchi est, sans conteste, le picard du Valenciennois. Cependant, l'importance du vocabulaire persistant, la multitude des expressions à sens figuré, de nombreux témoignages écrits, comme son implantation à la frontière du picard et du wallon, sont autant de facteurs intéressants.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        avec aphérèse du d : pays d' rouchi (voir : Introduction). Le terme est pratique, bien que peu euphonique et aujourd'hui sujet à contestation. La question est posée de savoir si le rouchi a droit à son
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        au sein du domaine picard. Ce livre essaie, sans conclure, de donner des éléments de réponse. Le rouchi est, sans conteste, le picard du Valenciennois. Cependant, l'importance du vocabulaire persistant, la multitude des expressions à sens figuré, de nombreux témoignages écrits, comme son implantation à la frontière du picard et du wallon, sont autant de facteurs intéressants.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">sans conteste</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; autonomie interne &quot; </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>La charte de</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim"/>
+  </entry>
+</TEI>

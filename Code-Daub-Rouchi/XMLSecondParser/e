@@ -1,508 +1,424 @@
 <?xml version='1.0' encoding='utf-8'?>
-<Nomenclature>
-        <ArticleDeDictionnaire>
-        <Entrée>eau</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>iau ; (de vaisselle), arlavage, arlavures ; (de lessive) lavage, lavurage, lessivage ; (de boudin) santée.</LexieEntiere>
-        <Lexie><SousLexie>iau </SousLexie><SousLexie> (de vaisselle)</SousLexie><SousLexie> arlavage</SousLexie><SousLexie> arlavures </SousLexie><SousLexie> (de lessive) lavage</SousLexie><SousLexie> lavurage</SousLexie><SousLexie> lessivage </SousLexie><SousLexie> (de boudin) santée.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>efféminé</Entrée>
-        <Complément>(homme)</Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere>s, m. : cacoule, mécoule.</LexieEntiere>
-        <Lexie><SousLexie>s</SousLexie><SousLexie> m. : cacoule</SousLexie><SousLexie> mécoule.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>effilocher</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>défilocher.</LexieEntiere>
-        <Lexie><SousLexie>défilocher.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>effilanqué</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>aflandré, déhanqué.</LexieEntiere>
-        <Lexie><SousLexie>aflandré</SousLexie><SousLexie> déhanqué.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>effleurer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>riffeter, rifler.</LexieEntiere>
-        <Lexie><SousLexie>riffeter</SousLexie><SousLexie> rifler.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>effranger</Entrée>
-        <Complément>(s')</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>s' défrincher.</LexieEntiere>
-        <Lexie><SousLexie>s' défrincher.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>effrayer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>épanter.</LexieEntiere>
-        <Lexie><SousLexie>épanter.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>effronté</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere> et adj. : affronté, franc-picard.</LexieEntiere>
-        <Lexie><SousLexie> et adj. : affronté</SousLexie><SousLexie> franc-picard.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>effrontée</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>ajouque, noirs-yeux.</LexieEntiere>
-        <Lexie><SousLexie>ajouque</SousLexie><SousLexie> noirs-yeux.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>elle</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>pr. suj.</StructureGrammaticale>
-        <LexieEntiere>alle.</LexieEntiere>
-        <Lexie><SousLexie>alle.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>embarras</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>ablais ; about, papin.</LexieEntiere>
-        <Lexie><SousLexie>ablais </SousLexie><SousLexie> about</SousLexie><SousLexie> papin.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>embarrassé</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>imbonché, inchepé, infenouillé, réteulé, au réus.</LexieEntiere>
-        <Lexie><SousLexie>imbonché</SousLexie><SousLexie> inchepé</SousLexie><SousLexie> infenouillé</SousLexie><SousLexie> réteulé</SousLexie><SousLexie> au réus.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>embourbé</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>inraqué, resté in raque.</LexieEntiere>
-        <Lexie><SousLexie>inraqué</SousLexie><SousLexie> resté in raque.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>embrasser</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>basier, flouquer, imbrasser.</LexieEntiere>
-        <Lexie><SousLexie>basier</SousLexie><SousLexie> flouquer</SousLexie><SousLexie> imbrasser.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>emmancher</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>infûter.</LexieEntiere>
-        <Lexie><SousLexie>infûter.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>emmêler</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>touiller, imberlifiquer.</LexieEntiere>
-        <Lexie><SousLexie>touiller</SousLexie><SousLexie> imberlifiquer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>emmerder</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere>(sens pr.), v. : imberner.</LexieEntiere>
-        <Lexie><SousLexie>(sens pr.)</SousLexie><SousLexie> v. : imberner.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>empiffrer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>impaffer.</LexieEntiere>
-        <Lexie><SousLexie>impaffer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>empirer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>rimpirer.</LexieEntiere>
-        <Lexie><SousLexie>rimpirer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>employé de bureau</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>cut à l' laine.</LexieEntiere>
-        <Lexie><SousLexie>cut à l' laine.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>empoigner</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>impogner.</LexieEntiere>
-        <Lexie><SousLexie>impogner.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>empressée</Entrée>
-        <Complément>(femme)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>Marie-quat' bras, Marie-l'imblave.</LexieEntiere>
-        <Lexie><SousLexie>Marie-quat' bras</SousLexie><SousLexie> Marie-l'imblave.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>empressement</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>prousse.</LexieEntiere>
-        <Lexie><SousLexie>prousse.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>empuantir</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>impuir.</LexieEntiere>
-        <Lexie><SousLexie>impuir.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>enceinte</Entrée>
-        <Complément>(être)</Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere>avoir el ballon, faire s' bourse, s' faire un boursiau à s' panche, bâtir su l' dévant, mett' es gros écourchué gris, avoir mié des pos, avoir eine séquoi d'vant.</LexieEntiere>
-        <Lexie><SousLexie>avoir el ballon</SousLexie><SousLexie> faire s' bourse</SousLexie><SousLexie> s' faire un boursiau à s' panche</SousLexie><SousLexie> bâtir su l' dévant</SousLexie><SousLexie> mett' es gros écourchué gris</SousLexie><SousLexie> avoir mié des pos</SousLexie><SousLexie> avoir eine séquoi d'vant.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>enchère</Entrée>
-        <Complément>(décroissante)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>rabaisse.</LexieEntiere>
-        <Lexie><SousLexie>rabaisse.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>enchifrené</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>inchiferné.</LexieEntiere>
-        <Lexie><SousLexie>inchiferné.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>enclume</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>ingleume ; (petite) : ingleumiau.</LexieEntiere>
-        <Lexie><SousLexie>ingleume </SousLexie><SousLexie> (petite) : ingleumiau.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>encoller</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere> ; impapiner.</LexieEntiere>
-        <Lexie><SousLexie> </SousLexie><SousLexie> impapiner.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>encore</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adv.</StructureGrammaticale>
-        <LexieEntiere>acor, cor, incor.</LexieEntiere>
-        <Lexie><SousLexie>acor</SousLexie><SousLexie> cor</SousLexie><SousLexie> incor.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>encrasser</Entrée>
-        <Complément>(s')</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>s'acrapir.</LexieEntiere>
-        <Lexie><SousLexie>s'acrapir.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>endéver</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>dessipiter, rassotir, sipiter, souler.</LexieEntiere>
-        <Lexie><SousLexie>dessipiter</SousLexie><SousLexie> rassotir</SousLexie><SousLexie> sipiter</SousLexie><SousLexie> souler.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>endive</Entrée>
-        <Complément>(witloof)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>chicon.</LexieEntiere>
-        <Lexie><SousLexie>chicon.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>endroit</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>indrot.</LexieEntiere>
-        <Lexie><SousLexie>indrot.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>enduire</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere>v : dabouser.</LexieEntiere>
-        <Lexie><SousLexie>v : dabouser.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>endurance</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>durance.</LexieEntiere>
-        <Lexie><SousLexie>durance.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>endurcir</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>indurchir.</LexieEntiere>
-        <Lexie><SousLexie>indurchir.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>enfance</Entrée>
-        <Complément>(tomber en)</Complément>
-        <StructureGrammaticale>loc. v.</StructureGrammaticale>
-        <LexieEntiere>rafantir.</LexieEntiere>
-        <Lexie><SousLexie>rafantir.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>enfant de choeur</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>garchon d' choeur, rouge-cotte, serveux.</LexieEntiere>
-        <Lexie><SousLexie>garchon d' choeur</SousLexie><SousLexie> rouge-cotte</SousLexie><SousLexie> serveux.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>enfermer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>infremer, rinfremer, rinquester, rinserrer.</LexieEntiere>
-        <Lexie><SousLexie>infremer</SousLexie><SousLexie> rinfremer</SousLexie><SousLexie> rinquester</SousLexie><SousLexie> rinserrer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>enfoncer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>astiquer, estiquer, infournaquer, instiquer, intasser, intiquer.</LexieEntiere>
-        <Lexie><SousLexie>astiquer</SousLexie><SousLexie> estiquer</SousLexie><SousLexie> infournaquer</SousLexie><SousLexie> instiquer</SousLexie><SousLexie> intasser</SousLexie><SousLexie> intiquer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>enfumer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>infunquer.</LexieEntiere>
-        <Lexie><SousLexie>infunquer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>engoncé</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>imbonché, ingonché.</LexieEntiere>
-        <Lexie><SousLexie>imbonché</SousLexie><SousLexie> ingonché.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>engourdi</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>crampi, écrampi, étombi, indormi, rétombi.</LexieEntiere>
-        <Lexie><SousLexie>crampi</SousLexie><SousLexie> écrampi</SousLexie><SousLexie> étombi</SousLexie><SousLexie> indormi</SousLexie><SousLexie> rétombi.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>engrener</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>inguerner.</LexieEntiere>
-        <Lexie><SousLexie>inguerner.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>enivré</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>inrosté.</LexieEntiere>
-        <Lexie><SousLexie>inrosté.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>enjamber</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>agamber, égamber, ingamber.</LexieEntiere>
-        <Lexie><SousLexie>agamber</SousLexie><SousLexie> égamber</SousLexie><SousLexie> ingamber.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>enjambée</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>agambée, ingambiée.</LexieEntiere>
-        <Lexie><SousLexie>agambée</SousLexie><SousLexie> ingambiée.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>enlacer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>inlacher.</LexieEntiere>
-        <Lexie><SousLexie>inlacher.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>enlever</Entrée>
-        <Complément>(un vêtement)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>défaire, déroter ; (une épingle), détiquer.</LexieEntiere>
-        <Lexie><SousLexie>défaire</SousLexie><SousLexie> déroter </SousLexie><SousLexie> (une épingle)</SousLexie><SousLexie> détiquer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>enraciner</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere>v : inrachéner.</LexieEntiere>
-        <Lexie><SousLexie>v : inrachéner.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>enrager</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>immarvoïer.</LexieEntiere>
-        <Lexie><SousLexie>immarvoïer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>enrhulé</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>im.maquerné.</LexieEntiere>
-        <Lexie><SousLexie>im.maquerné.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>ensemble</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adv.</StructureGrammaticale>
-        <LexieEntiere>insanne (Denain), insenne (St-Amand), insonne (Val.).</LexieEntiere>
-        <Lexie><SousLexie>insanne (Denain)</SousLexie><SousLexie> insenne (St-Amand)</SousLexie><SousLexie> insonne (Val.).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>ensouple</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>inserolle, insuelle, inseruelle.</LexieEntiere>
-        <Lexie><SousLexie>inserolle</SousLexie><SousLexie> insuelle</SousLexie><SousLexie> inseruelle.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>entamer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>adamer.</LexieEntiere>
-        <Lexie><SousLexie>adamer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>entendement</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>intindo.</LexieEntiere>
-        <Lexie><SousLexie>intindo.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>entendre</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>aouïr, intindre.</LexieEntiere>
-        <Lexie><SousLexie>aouïr</SousLexie><SousLexie> intindre.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>entortiller</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>intorténer.</LexieEntiere>
-        <Lexie><SousLexie>intorténer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>entrait</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>intravelure.</LexieEntiere>
-        <Lexie><SousLexie>intravelure.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>entraver</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere> ; incheper.</LexieEntiere>
-        <Lexie><SousLexie> </SousLexie><SousLexie> incheper.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>entrechoquer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>interchuquer.</LexieEntiere>
-        <Lexie><SousLexie>interchuquer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>entreprenant</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>intrépide.</LexieEntiere>
-        <Lexie><SousLexie>intrépide.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>entrer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>rintrer.</LexieEntiere>
-        <Lexie><SousLexie>rintrer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>entr'ouvert</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>un crin ou un creux ouvert.</LexieEntiere>
-        <Lexie><SousLexie>un crin ou un creux ouvert.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>envelopper</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>infardéler ; s'envelopper : s' raffuler.</LexieEntiere>
-        <Lexie><SousLexie>infardéler </SousLexie><SousLexie> s'envelopper : s' raffuler.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>envenimer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>invelimer ; s'envenimer : maisier.</LexieEntiere>
-        <Lexie><SousLexie>invelimer </SousLexie><SousLexie> s'envenimer : maisier.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>escalier</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>émontées, montées.</LexieEntiere>
-        <Lexie><SousLexie>émontées</SousLexie><SousLexie> montées.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>escarbille</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>écabile.</LexieEntiere>
-        <Lexie><SousLexie>écabile.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>escargot</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>caracole.</LexieEntiere>
-        <Lexie><SousLexie>caracole.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>escompte</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>discompte.</LexieEntiere>
-        <Lexie><SousLexie>discompte.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>espiègle</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>branque, tige.</LexieEntiere>
-        <Lexie><SousLexie>branque</SousLexie><SousLexie> tige.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>essayer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>aprouver, assaier.</LexieEntiere>
-        <Lexie><SousLexie>aprouver</SousLexie><SousLexie> assaier.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>esse</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>euche.</LexieEntiere>
-        <Lexie><SousLexie>euche.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>essieu</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>assi.</LexieEntiere>
-        <Lexie><SousLexie>assi.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>essoufflé</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>éhancé, hansé.</LexieEntiere>
-        <Lexie><SousLexie>éhancé</SousLexie><SousLexie> hansé.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>essuyer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>ressuer.</LexieEntiere>
-        <Lexie><SousLexie>ressuer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>estomac</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>as.</LexieEntiere>
-        <Lexie><SousLexie>as.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>estragon</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>aragonne, taragonne.</LexieEntiere>
-        <Lexie><SousLexie>aragonne</SousLexie><SousLexie> taragonne.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>euphorbe</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>hierbe ed tonnerre.</LexieEntiere>
-        <Lexie><SousLexie>hierbe ed tonnerre.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>excavation</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>cavain.</LexieEntiere>
-        <Lexie><SousLexie>cavain.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>exciter</Entrée>
-        <Complément>(au vice)</Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere>inhorter.</LexieEntiere>
-        <Lexie><SousLexie>inhorter.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>exploser</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>buquer, camper.</LexieEntiere>
-        <Lexie><SousLexie>buquer</SousLexie><SousLexie> camper.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>extirpateur</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>infernal.</LexieEntiere>
-        <Lexie><SousLexie>infernal.</SousLexie></Lexie>
-      </ArticleDeDictionnaire>
-      </Nomenclature>
+<TEI>
+        <entry>
+        <form><orth>eau</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>iau ; (de vaisselle), arlavage, arlavures ; (de lessive) lavage, lavurage, lessivage ; (de boudin) santée.</quote></def>
+        <cit type="translation"><quote>iau </quote><quote> (de vaisselle)</quote><quote> arlavage</quote><quote> arlavures </quote><quote> (de lessive) lavage</quote><quote> lavurage</quote><quote> lessivage </quote><quote> (de boudin) santée.</quote></cit>
+      </entry><entry>
+        <form><orth>efféminé</orth><Complément>(homme)</Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote>s, m. : cacoule, mécoule.</quote></def>
+        <cit type="translation"><quote>s</quote><quote> m. : cacoule</quote><quote> mécoule.</quote></cit>
+      </entry><entry>
+        <form><orth>effilocher</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>défilocher.</quote></def>
+        <cit type="translation"><quote>défilocher.</quote></cit>
+      </entry><entry>
+        <form><orth>effilanqué</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>aflandré, déhanqué.</quote></def>
+        <cit type="translation"><quote>aflandré</quote><quote> déhanqué.</quote></cit>
+      </entry><entry>
+        <form><orth>effleurer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>riffeter, rifler.</quote></def>
+        <cit type="translation"><quote>riffeter</quote><quote> rifler.</quote></cit>
+      </entry><entry>
+        <form><orth>effranger</orth><Complément>(s')</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>s' défrincher.</quote></def>
+        <cit type="translation"><quote>s' défrincher.</quote></cit>
+      </entry><entry>
+        <form><orth>effrayer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>épanter.</quote></def>
+        <cit type="translation"><quote>épanter.</quote></cit>
+      </entry><entry>
+        <form><orth>effronté</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote> et adj. : affronté, franc-picard.</quote></def>
+        <cit type="translation"><quote> et adj. : affronté</quote><quote> franc-picard.</quote></cit>
+      </entry><entry>
+        <form><orth>effrontée</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>ajouque, noirs-yeux.</quote></def>
+        <cit type="translation"><quote>ajouque</quote><quote> noirs-yeux.</quote></cit>
+      </entry><entry>
+        <form><orth>elle</orth><Complément></Complément></form>
+        <gramGrp><pos>pr. suj.</pos></gramGrp>
+        <def><quote>alle.</quote></def>
+        <cit type="translation"><quote>alle.</quote></cit>
+      </entry><entry>
+        <form><orth>embarras</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>ablais ; about, papin.</quote></def>
+        <cit type="translation"><quote>ablais </quote><quote> about</quote><quote> papin.</quote></cit>
+      </entry><entry>
+        <form><orth>embarrassé</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>imbonché, inchepé, infenouillé, réteulé, au réus.</quote></def>
+        <cit type="translation"><quote>imbonché</quote><quote> inchepé</quote><quote> infenouillé</quote><quote> réteulé</quote><quote> au réus.</quote></cit>
+      </entry><entry>
+        <form><orth>embourbé</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>inraqué, resté in raque.</quote></def>
+        <cit type="translation"><quote>inraqué</quote><quote> resté in raque.</quote></cit>
+      </entry><entry>
+        <form><orth>embrasser</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>basier, flouquer, imbrasser.</quote></def>
+        <cit type="translation"><quote>basier</quote><quote> flouquer</quote><quote> imbrasser.</quote></cit>
+      </entry><entry>
+        <form><orth>emmancher</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>infûter.</quote></def>
+        <cit type="translation"><quote>infûter.</quote></cit>
+      </entry><entry>
+        <form><orth>emmêler</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>touiller, imberlifiquer.</quote></def>
+        <cit type="translation"><quote>touiller</quote><quote> imberlifiquer.</quote></cit>
+      </entry><entry>
+        <form><orth>emmerder</orth><Complément></Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote>(sens pr.), v. : imberner.</quote></def>
+        <cit type="translation"><quote>(sens pr.)</quote><quote> v. : imberner.</quote></cit>
+      </entry><entry>
+        <form><orth>empiffrer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>impaffer.</quote></def>
+        <cit type="translation"><quote>impaffer.</quote></cit>
+      </entry><entry>
+        <form><orth>empirer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>rimpirer.</quote></def>
+        <cit type="translation"><quote>rimpirer.</quote></cit>
+      </entry><entry>
+        <form><orth>employé de bureau</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>cut à l' laine.</quote></def>
+        <cit type="translation"><quote>cut à l' laine.</quote></cit>
+      </entry><entry>
+        <form><orth>empoigner</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>impogner.</quote></def>
+        <cit type="translation"><quote>impogner.</quote></cit>
+      </entry><entry>
+        <form><orth>empressée</orth><Complément>(femme)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>Marie-quat' bras, Marie-l'imblave.</quote></def>
+        <cit type="translation"><quote>Marie-quat' bras</quote><quote> Marie-l'imblave.</quote></cit>
+      </entry><entry>
+        <form><orth>empressement</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>prousse.</quote></def>
+        <cit type="translation"><quote>prousse.</quote></cit>
+      </entry><entry>
+        <form><orth>empuantir</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>impuir.</quote></def>
+        <cit type="translation"><quote>impuir.</quote></cit>
+      </entry><entry>
+        <form><orth>enceinte</orth><Complément>(être)</Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote>avoir el ballon, faire s' bourse, s' faire un boursiau à s' panche, bâtir su l' dévant, mett' es gros écourchué gris, avoir mié des pos, avoir eine séquoi d'vant.</quote></def>
+        <cit type="translation"><quote>avoir el ballon</quote><quote> faire s' bourse</quote><quote> s' faire un boursiau à s' panche</quote><quote> bâtir su l' dévant</quote><quote> mett' es gros écourchué gris</quote><quote> avoir mié des pos</quote><quote> avoir eine séquoi d'vant.</quote></cit>
+      </entry><entry>
+        <form><orth>enchère</orth><Complément>(décroissante)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>rabaisse.</quote></def>
+        <cit type="translation"><quote>rabaisse.</quote></cit>
+      </entry><entry>
+        <form><orth>enchifrené</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>inchiferné.</quote></def>
+        <cit type="translation"><quote>inchiferné.</quote></cit>
+      </entry><entry>
+        <form><orth>enclume</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>ingleume ; (petite) : ingleumiau.</quote></def>
+        <cit type="translation"><quote>ingleume </quote><quote> (petite) : ingleumiau.</quote></cit>
+      </entry><entry>
+        <form><orth>encoller</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote> ; impapiner.</quote></def>
+        <cit type="translation"><quote> </quote><quote> impapiner.</quote></cit>
+      </entry><entry>
+        <form><orth>encore</orth><Complément></Complément></form>
+        <gramGrp><pos>adv.</pos></gramGrp>
+        <def><quote>acor, cor, incor.</quote></def>
+        <cit type="translation"><quote>acor</quote><quote> cor</quote><quote> incor.</quote></cit>
+      </entry><entry>
+        <form><orth>encrasser</orth><Complément>(s')</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>s'acrapir.</quote></def>
+        <cit type="translation"><quote>s'acrapir.</quote></cit>
+      </entry><entry>
+        <form><orth>endéver</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>dessipiter, rassotir, sipiter, souler.</quote></def>
+        <cit type="translation"><quote>dessipiter</quote><quote> rassotir</quote><quote> sipiter</quote><quote> souler.</quote></cit>
+      </entry><entry>
+        <form><orth>endive</orth><Complément>(witloof)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>chicon.</quote></def>
+        <cit type="translation"><quote>chicon.</quote></cit>
+      </entry><entry>
+        <form><orth>endroit</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>indrot.</quote></def>
+        <cit type="translation"><quote>indrot.</quote></cit>
+      </entry><entry>
+        <form><orth>enduire</orth><Complément></Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote>v : dabouser.</quote></def>
+        <cit type="translation"><quote>v : dabouser.</quote></cit>
+      </entry><entry>
+        <form><orth>endurance</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>durance.</quote></def>
+        <cit type="translation"><quote>durance.</quote></cit>
+      </entry><entry>
+        <form><orth>endurcir</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>indurchir.</quote></def>
+        <cit type="translation"><quote>indurchir.</quote></cit>
+      </entry><entry>
+        <form><orth>enfance</orth><Complément>(tomber en)</Complément></form>
+        <gramGrp><pos>loc. v.</pos></gramGrp>
+        <def><quote>rafantir.</quote></def>
+        <cit type="translation"><quote>rafantir.</quote></cit>
+      </entry><entry>
+        <form><orth>enfant de choeur</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>garchon d' choeur, rouge-cotte, serveux.</quote></def>
+        <cit type="translation"><quote>garchon d' choeur</quote><quote> rouge-cotte</quote><quote> serveux.</quote></cit>
+      </entry><entry>
+        <form><orth>enfermer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>infremer, rinfremer, rinquester, rinserrer.</quote></def>
+        <cit type="translation"><quote>infremer</quote><quote> rinfremer</quote><quote> rinquester</quote><quote> rinserrer.</quote></cit>
+      </entry><entry>
+        <form><orth>enfoncer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>astiquer, estiquer, infournaquer, instiquer, intasser, intiquer.</quote></def>
+        <cit type="translation"><quote>astiquer</quote><quote> estiquer</quote><quote> infournaquer</quote><quote> instiquer</quote><quote> intasser</quote><quote> intiquer.</quote></cit>
+      </entry><entry>
+        <form><orth>enfumer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>infunquer.</quote></def>
+        <cit type="translation"><quote>infunquer.</quote></cit>
+      </entry><entry>
+        <form><orth>engoncé</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>imbonché, ingonché.</quote></def>
+        <cit type="translation"><quote>imbonché</quote><quote> ingonché.</quote></cit>
+      </entry><entry>
+        <form><orth>engourdi</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>crampi, écrampi, étombi, indormi, rétombi.</quote></def>
+        <cit type="translation"><quote>crampi</quote><quote> écrampi</quote><quote> étombi</quote><quote> indormi</quote><quote> rétombi.</quote></cit>
+      </entry><entry>
+        <form><orth>engrener</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>inguerner.</quote></def>
+        <cit type="translation"><quote>inguerner.</quote></cit>
+      </entry><entry>
+        <form><orth>enivré</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>inrosté.</quote></def>
+        <cit type="translation"><quote>inrosté.</quote></cit>
+      </entry><entry>
+        <form><orth>enjamber</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>agamber, égamber, ingamber.</quote></def>
+        <cit type="translation"><quote>agamber</quote><quote> égamber</quote><quote> ingamber.</quote></cit>
+      </entry><entry>
+        <form><orth>enjambée</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>agambée, ingambiée.</quote></def>
+        <cit type="translation"><quote>agambée</quote><quote> ingambiée.</quote></cit>
+      </entry><entry>
+        <form><orth>enlacer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>inlacher.</quote></def>
+        <cit type="translation"><quote>inlacher.</quote></cit>
+      </entry><entry>
+        <form><orth>enlever</orth><Complément>(un vêtement)</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>défaire, déroter ; (une épingle), détiquer.</quote></def>
+        <cit type="translation"><quote>défaire</quote><quote> déroter </quote><quote> (une épingle)</quote><quote> détiquer.</quote></cit>
+      </entry><entry>
+        <form><orth>enraciner</orth><Complément></Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote>v : inrachéner.</quote></def>
+        <cit type="translation"><quote>v : inrachéner.</quote></cit>
+      </entry><entry>
+        <form><orth>enrager</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>immarvoïer.</quote></def>
+        <cit type="translation"><quote>immarvoïer.</quote></cit>
+      </entry><entry>
+        <form><orth>enrhulé</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>im.maquerné.</quote></def>
+        <cit type="translation"><quote>im.maquerné.</quote></cit>
+      </entry><entry>
+        <form><orth>ensemble</orth><Complément></Complément></form>
+        <gramGrp><pos>adv.</pos></gramGrp>
+        <def><quote>insanne (Denain), insenne (St-Amand), insonne (Val.).</quote></def>
+        <cit type="translation"><quote>insanne (Denain)</quote><quote> insenne (St-Amand)</quote><quote> insonne (Val.).</quote></cit>
+      </entry><entry>
+        <form><orth>ensouple</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>inserolle, insuelle, inseruelle.</quote></def>
+        <cit type="translation"><quote>inserolle</quote><quote> insuelle</quote><quote> inseruelle.</quote></cit>
+      </entry><entry>
+        <form><orth>entamer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>adamer.</quote></def>
+        <cit type="translation"><quote>adamer.</quote></cit>
+      </entry><entry>
+        <form><orth>entendement</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>intindo.</quote></def>
+        <cit type="translation"><quote>intindo.</quote></cit>
+      </entry><entry>
+        <form><orth>entendre</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>aouïr, intindre.</quote></def>
+        <cit type="translation"><quote>aouïr</quote><quote> intindre.</quote></cit>
+      </entry><entry>
+        <form><orth>entortiller</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>intorténer.</quote></def>
+        <cit type="translation"><quote>intorténer.</quote></cit>
+      </entry><entry>
+        <form><orth>entrait</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>intravelure.</quote></def>
+        <cit type="translation"><quote>intravelure.</quote></cit>
+      </entry><entry>
+        <form><orth>entraver</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote> ; incheper.</quote></def>
+        <cit type="translation"><quote> </quote><quote> incheper.</quote></cit>
+      </entry><entry>
+        <form><orth>entrechoquer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>interchuquer.</quote></def>
+        <cit type="translation"><quote>interchuquer.</quote></cit>
+      </entry><entry>
+        <form><orth>entreprenant</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>intrépide.</quote></def>
+        <cit type="translation"><quote>intrépide.</quote></cit>
+      </entry><entry>
+        <form><orth>entrer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>rintrer.</quote></def>
+        <cit type="translation"><quote>rintrer.</quote></cit>
+      </entry><entry>
+        <form><orth>entr'ouvert</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>un crin ou un creux ouvert.</quote></def>
+        <cit type="translation"><quote>un crin ou un creux ouvert.</quote></cit>
+      </entry><entry>
+        <form><orth>envelopper</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>infardéler ; s'envelopper : s' raffuler.</quote></def>
+        <cit type="translation"><quote>infardéler </quote><quote> s'envelopper : s' raffuler.</quote></cit>
+      </entry><entry>
+        <form><orth>envenimer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>invelimer ; s'envenimer : maisier.</quote></def>
+        <cit type="translation"><quote>invelimer </quote><quote> s'envenimer : maisier.</quote></cit>
+      </entry><entry>
+        <form><orth>escalier</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>émontées, montées.</quote></def>
+        <cit type="translation"><quote>émontées</quote><quote> montées.</quote></cit>
+      </entry><entry>
+        <form><orth>escarbille</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>écabile.</quote></def>
+        <cit type="translation"><quote>écabile.</quote></cit>
+      </entry><entry>
+        <form><orth>escargot</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>caracole.</quote></def>
+        <cit type="translation"><quote>caracole.</quote></cit>
+      </entry><entry>
+        <form><orth>escompte</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>discompte.</quote></def>
+        <cit type="translation"><quote>discompte.</quote></cit>
+      </entry><entry>
+        <form><orth>espiègle</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>branque, tige.</quote></def>
+        <cit type="translation"><quote>branque</quote><quote> tige.</quote></cit>
+      </entry><entry>
+        <form><orth>essayer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>aprouver, assaier.</quote></def>
+        <cit type="translation"><quote>aprouver</quote><quote> assaier.</quote></cit>
+      </entry><entry>
+        <form><orth>esse</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>euche.</quote></def>
+        <cit type="translation"><quote>euche.</quote></cit>
+      </entry><entry>
+        <form><orth>essieu</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>assi.</quote></def>
+        <cit type="translation"><quote>assi.</quote></cit>
+      </entry><entry>
+        <form><orth>essoufflé</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>éhancé, hansé.</quote></def>
+        <cit type="translation"><quote>éhancé</quote><quote> hansé.</quote></cit>
+      </entry><entry>
+        <form><orth>essuyer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>ressuer.</quote></def>
+        <cit type="translation"><quote>ressuer.</quote></cit>
+      </entry><entry>
+        <form><orth>estomac</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>as.</quote></def>
+        <cit type="translation"><quote>as.</quote></cit>
+      </entry><entry>
+        <form><orth>estragon</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>aragonne, taragonne.</quote></def>
+        <cit type="translation"><quote>aragonne</quote><quote> taragonne.</quote></cit>
+      </entry><entry>
+        <form><orth>euphorbe</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>hierbe ed tonnerre.</quote></def>
+        <cit type="translation"><quote>hierbe ed tonnerre.</quote></cit>
+      </entry><entry>
+        <form><orth>excavation</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>cavain.</quote></def>
+        <cit type="translation"><quote>cavain.</quote></cit>
+      </entry><entry>
+        <form><orth>exciter</orth><Complément>(au vice)</Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote>inhorter.</quote></def>
+        <cit type="translation"><quote>inhorter.</quote></cit>
+      </entry><entry>
+        <form><orth>exploser</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>buquer, camper.</quote></def>
+        <cit type="translation"><quote>buquer</quote><quote> camper.</quote></cit>
+      </entry><entry>
+        <form><orth>extirpateur</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>infernal.</quote></def>
+        <cit type="translation"><quote>infernal.</quote></cit>
+      </entry>
+      </TEI>

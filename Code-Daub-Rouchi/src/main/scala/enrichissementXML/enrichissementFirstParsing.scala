@@ -1,14 +1,17 @@
 package enrichissementXML
 
-import java.io.File
+import java.io.{File, FileWriter}
 import java.nio.file.Paths
 
 import commons.{UnitParser, toXML}
 import fastparse.all._
+import Config.Configuration
+
 import scala.io.Source
 import scala.xml.{Elem, Node, NodeSeq, XML}
 
 class enrichissementFirstParsing {
+
   def stripAll(s: String, bad: String): String = {
 
     @scala.annotation.tailrec def start(n: Int): String =
@@ -26,8 +29,7 @@ class enrichissementFirstParsing {
 
 
   def XMLenrichment(strinput : String):Array[String] = {
-
-    val str1 = strinput.split("([;,.](?=(?:[^()]*[()][^()]*[()])*[^()]*$))+")
+    val str1 = strinput.split("([=;,.](?=(?:[^()]*[()][^()]*[()])*[^()]*$))+")
   for (elements <- str1) yield {
       stripAll(elements, ",;:").trim
     }
@@ -35,17 +37,29 @@ class enrichissementFirstParsing {
 
 
   def updateVersion( node : Node ) : Node = {
+
     def updateElements( seq : Seq[Node]) : Seq[Node] =
       for( subNode <- seq ) yield updateVersion( subNode )
-
     node match {
-      case <Nomenclature>{ ch @ _* }</Nomenclature> => <Nomenclature>{ updateElements( ch ) }</Nomenclature>
-      case <Entrée>{ ch @ _* }</Entrée> => <Entrée>{ updateElements( ch ) }</Entrée>
-      case <Définition>{ ch @ _* }</Définition> => <Définition>{ updateElements( ch ) }</Définition>
-      case <DéfinitionDétaillée>{ ch @ _* }</DéfinitionDétaillée> => <DéfinitionDétaillée>{ updateElements( ch ) }</DéfinitionDétaillée>
-      case <DéfinitionFrançaise>{ch @ _*}</DéfinitionFrançaise> => <DéfinitionFrançaise>{ updateElements( ch ) }</DéfinitionFrançaise>
-      case <df>{contents}</df> => <df><dfEntière>{contents}</dfEntière>{for (elements<-XMLenrichment(contents.text)) yield {<CandidatTraduction>{elements}</CandidatTraduction>}}</df>
-      case other @ _ => other
+      case Elem(pfx, "TEI", attrs, ns, ch @ _*) =>
+        Elem(pfx, "TEI", attrs, ns, true, updateElements(ch):_*)
+      case Elem(pfx, "entry", attrs, ns, ch @ _*) =>
+        Elem(pfx, "entry", attrs, ns, true, updateElements(ch):_*)
+      case Elem(pfx, "gramGrp", attrs, ns, ch @ _*) =>
+        Elem(pfx, "gramGrp", attrs, ns, true, updateElements(ch):_*)
+
+     /* case c @ <def>{ ch @ _* }</def>  if c.label == "def" && (c \ "@label").text.trim == "française" =>
+        <def>{c.child}{for (elements<-XMLenrichment(c.child.text)) yield {<cit xml:lang="fr" type="translation">{elements}</cit>}}</def>
+    */
+      case Elem(pfx, "def", attrs, ns, ch @ _*) if attrs.get("label").exists(_.text == "française") =>
+
+        Elem(pfx, "def",attrs, ns, true, ch ++ {for (elements<-XMLenrichment(ch.text)) yield {
+          <cit type="translation">{elements}</cit>}}:_*)
+      case Elem(pfx, "def", attrs, ns, ch @ _*) =>
+        Elem(pfx, "def", attrs, ns, true, updateElements(ch):_*)
+      case Elem(p, l, a, n, ch @ _*) =>
+        Elem(p, l, a, n, true, ch : _*)
+      case t: xml.Text => t
     }
   }
 
@@ -68,24 +82,44 @@ class enrichissementFirstParsing {
 
 
     node match {
-      case <Nomenclature>{ ch @ _* }</Nomenclature> => <Nomenclature>{ updateElements( ch ) }</Nomenclature>
-      case <Entrée>{ ch @ _* }</Entrée> => <Entrée>{ updateElements( ch ) }</Entrée>
-      case <Définition>{ ch @ _* }</Définition> => <Définition>{ updateElements( ch ) }</Définition>
-      case <DéfinitionDétaillée>{ ch @ _* }</DéfinitionDétaillée> => <DéfinitionDétaillée>{ updateElements( ch ) }</DéfinitionDétaillée>
-      case <DéfinitionFrançaise>{ch @ _*}</DéfinitionFrançaise> => <DéfinitionFrançaise>{ updateElements( ch ) }</DéfinitionFrançaise>
-      case <df>{ch @ _*}</df> => <df>{ updateElements( ch ) }</df>
-      case <CandidatTraduction>{contents}</CandidatTraduction> =>
-      val couple = containsallwords(s"$contents")
-        if (couple._2 == false){
-          <Trad><CandidatTraduction>{contents}</CandidatTraduction></Trad>
+
+      case Elem(pfx, "TEI", attrs, ns, ch @ _*) =>
+        Elem(pfx, "TEI", attrs, ns, true, updateElements(ch):_*)
+      case Elem(pfx, "entry", attrs, ns, ch @ _*) =>
+        Elem(pfx, "entry", attrs, ns, true, updateElements(ch):_*)
+      case Elem(pfx, "gramGrp", attrs, ns, ch @ _*) =>
+        Elem(pfx, "gramGrp", attrs, ns, true, updateElements(ch):_*)
+      case Elem(pfx, "def", attrs, ns, ch @ _*) =>
+        Elem(pfx, "def", attrs, ns, true, updateElements(ch):_*)
+      case Elem(pfx, "quote", attrs, ns, ch @ _*) =>
+        Elem(pfx, "quote", attrs, ns, true, updateElements(ch):_*)
+        /*
+      case contents @ <cit>{ ch @ _* }</cit> if (contents \ "@type").text == "translation" =>
+
+          val couple = containsallwords(s"${contents.text}")
+          if (couple._2 == false) {
+              <cit/>
+          }
+          else {
+
+          }*/
+      case Elem(pfx,"cit",attrs,ns,ch @ _*) if attrs.get("type").exists(_.text == "translation") =>
+        val couple = containsallwords(s"${ch.text}")
+        if (couple._2 == false) {
+            Elem(pfx,"cit",attrs,ns,true)
         }
         else {
-          <Trad><CandidatTraduction>{contents}</CandidatTraduction><Traduction>{couple._1}</Traduction></Trad>
+          val pic = <cit xml:lang="fr" type="translation">{couple._1}</cit>
+          Elem(pfx,"cit",attrs,ns,true,pic)
         }
-        case other @ _ => other
+      case Elem(p, l, a, n, ch @ _*) =>
+        Elem(p, l, a, n, true, ch : _*)
+      case t: xml.Text => t
+      }
+
     }
   }
-}
+
 
 object FirstParsing {
 
@@ -99,22 +133,26 @@ object FirstParsing {
   }
 
   def main(args: Array[String]): Unit = {
+    val classpath = new Configuration()
 
-    println("Entrez le chemin du dossier contenant le XML")
-    /*
-    /people/khamphousone/IdeaProjects/DictionnairePicard/XMLFirstParser/
-    */
     val allWords = Source
-      .fromFile("/people/khamphousone/Documents/Dictionnaires/results2.txt")
+      .fromFile(classpath.pathGLAWI)
       .getLines.map(_.trim)
       .toSet
-    val path = scala.io.StdIn.readLine()
-    val files = getListOfFiles(s"$path")
+
+    val files = getListOfFiles(classpath.pathOutputFirstParsing)
+
     for (file <- files.zipWithIndex) {
       val xml = XML.loadFile(file._1)
       val classenrich = new enrichissementFirstParsing
       val nodexml = classenrich.createSynonym(classenrich.updateVersion(xml), allWords)
-      XML.save(s"./XMLFirstParser/Enrichment/Enrichmentresults_${file._2}.xml", nodexml, "utf-8", true, null)
+     /* XML.save(s"./XMLFirstParser/Enrichment/TEI/TEIEnrichmentresults_${file._2}.xml", nodexml, "utf-8", true, null)*/
+
+      val printer = new scala.xml.PrettyPrinter(80,2)
+      val str = printer.format(nodexml)
+      val fw = new FileWriter(s"./XMLFirstParser/Enrichment/TEI/TEIEnrichmentresults_${file._2}.xml")
+      fw.write(str)
+      fw.close()
 
     }
     println("Enrichissement First Parsing DONE")

@@ -1,0 +1,5968 @@
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+  <entry>
+    <form>
+      <orth>Faut-il le rapprocher du fr.</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: ahan ?</quote>
+    </def>
+    <def label="française">
+      <quote>: ahan ?</quote>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Fém.</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: amisse : &quot; M' pauv' amisse ! j' té</quote>
+    </def>
+    <def label="française">
+      <quote>: amisse : </quote>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Faire eune brette</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: faire un petit travail.</quote>
+    </def>
+    <def label="française">
+      <quote>: faire un petit travail.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FACHEAU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>petite botte de légumes (faisceau).</quote>
+    </def>
+    <def label="française">
+      <quote>petite botte de légumes (faisceau).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* FACHER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : fascier).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : fascier).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FACHON</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        façon. A fachon : convenablement (GH). ANC. : &quot; Les gen n' sont point à fachon &quot; (Fl, F, XVIIe) = les gens ne sont pas comme il faut.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>façon. A fachon : convenablement (GH). </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">façon</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : &quot; Les gen n' sont point à fachon &quot; (Fl, F, XVIIe) = les gens ne sont pas comme il faut.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FACHUÉ (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        tête de boeuf (boucherie). ANC. : peut-être : fache-bué (face de boeuf), avec syncope du b.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>tête de boeuf (boucherie). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : peut-être : fache-bué (face de boeuf), avec syncope du b.</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FACON (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>flammèche ; ce qui reste de la paille brûlée.</quote>
+    </def>
+    <def label="française">
+      <quote>flammèche ; ce qui reste de la paille brûlée.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">flammèche</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* FADA (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        avoir l' fada : être indisposé par la chaleur. (Voir : fat). ANC. : fade : sans vigueur, languissant. &quot; Encor en a le cuer tot fade &quot; (Amadis et Idoine, XIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>avoir l' fada : être indisposé par la chaleur. (Voir : fat). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : fade : sans vigueur, languissant. &quot; Encor en a le cuer tot fade &quot; (Amadis et Idoine, XIIe).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FAFIER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        FAFIÉLER ou FARFIÉLER, v. : parler avec difficulté à cause d'une abondance de salive. &quot; Ses lèv's machuré's s' rabourlottent / Su ses dints d' dévant qui allotent ; / Aussi, i farfielle in parlant &quot; (JM). (Voir : farfouiller).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        FAFIÉLER ou FARFIÉLER, v. : parler avec difficulté à cause d'une abondance de salive.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Voir : farfouiller).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ses lèv's machuré's s' rabourlottent / Su ses dints d' dévant qui allotent ; / Aussi, i farfielle in parlant &quot; (JM). (
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Fafiou</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        homme qui ne sait pas et ne comprend pas ce qu'il dit (Léon Faux, Bruay).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        homme qui ne sait pas et ne comprend pas ce qu'il dit (Léon Faux, Bruay).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FAIRE</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        (voir : gram, conjug.). &quot; Faire et défaire, ch'est toudis d' l'ouvrage. &quot; A faire et défaire, el temps passe &quot; (GH). &quot; Alle f'rot mieux cha sans qu'misse qu'mi sans otieu &quot; (GH) = c'est une belle femme ! &quot; Va t' faire faire un habit pou l'hiver ! &quot; = Va te promener !
+      </quote>
+    </def>
+    <def label="française">
+      <quote>(voir : gram, conjug.). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>A faire et défaire, el temps passe </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Faire et défaire, ch'est toudis d' l'ouvrage. &quot; </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Faiseux</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        faiseur. Faiseux d' jeux : saltimbanque. Faiseux d' grimaces : hypocrite. Faiseux d'imbarras ou faiseux d'airs : prétentieux. Faiseux d' sorts : sorcier. &quot; I faut cacher bin long pou trouver un faiseux d' mariaches comm' mi ! &quot; (JD). &quot; Si j'étos un faiseu d' canchons / Ej té diros des biell's foutaisses &quot; (GF).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        faiseur. Faiseux d' jeux : saltimbanque. Faiseux d' grimaces : hypocrite. Faiseux d'imbarras ou faiseux d'airs : prétentieux. Faiseux d' sorts : sorcier.
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">faiseur</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I faut cacher bin long pou trouver un faiseux d' mariaches comm' mi ! &quot; (JD).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Si j'étos un faiseu d' canchons / Ej té diros des biell's foutaisses &quot; (GF).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Fait-à-fait (phon. fétafé)</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: au fur et à mesure</quote>
+    </def>
+    <def label="française">
+      <quote>: au fur et à mesure</quote>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FAITISSURE ou FIAITISSURE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        faîtière (tuiles de faîte d'un toit). Et' à l' fiaitissure : être au faîte (des honneurs, etc.).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        faîtière (tuiles de faîte d'un toit). Et' à l' fiaitissure : être au faîte (des honneurs, etc.).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* FALLIR</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        (terme de jeu), faire une faute éliminatoire. J'ai falli = je sors du jeu. &quot; T'as falli fin tout &quot; = tu es éliminé(e) (à la marelle, par ex.). ANC. : c'est une spécialis. de faillir (manquer, faire une faute). Du lat. fallere. &quot; (Il) vit le cop venir, si le douta et baisa le corps, et cil fali à lui... &quot; (La Fille du comte de Pontieu, XIIIe). &quot; Je vo va tout conté mo à mot san falir &quot; (Fl, H, 1654) = sans faire de faute.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        (terme de jeu), faire une faute éliminatoire. J'ai falli = je sors du jeu.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; T'as falli fin tout &quot; = tu es éliminé(e) (à la marelle, par ex.).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : c'est une spécialis. de faillir (manquer, faire une faute). Du lat. fallere. &quot; (Il) vit le cop venir, si le douta et baisa le corps, et cil fali à lui... &quot; (La Fille du comte de Pontieu, XIIIe). &quot; Je vo va tout conté mo à mot san falir &quot; (Fl, H, 1654) = sans faire de faute.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FANFERLUCHES ou FINFERLUCHES</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f. pl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>fanfreluches.</quote>
+    </def>
+    <def label="française">
+      <quote>fanfreluches.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fanfreluches</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* FARCE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        T'aras la farce ! : (menace, mise en garde) : cela t' arrivera ! &quot; N' t'avise pus d'arcommeincher ç' jeu-là ; pasqué t'aras la farce : j'irai t'arkère ! &quot; (RD). &quot; Ch'est mes deints (qui me font mal) ; j'ai meingé dé l' confiture après l' souper. Tous les jours, j'ai l' farce ! &quot; (RD). Le rouchi a conservé farce, adj. = drôle, ridicule (vieilli en fr.). &quot; Ch'étot farce à vir ! &quot; (PP). &quot; T'es farce avec ç' capiau là ! &quot;
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        T'aras la farce ! : (menace, mise en garde) : cela t' arrivera !
+      </quote>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        Le rouchi a conservé farce, adj. = drôle, ridicule (vieilli en fr.).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">adj</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">drôle</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; N' t'avise pus d'arcommeincher ç' jeu-là ; pasqué t'aras la farce : j'irai t'arkère ! &quot; (RD).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ch'est mes deints (qui me font mal) ; j'ai meingé dé l' confiture après l' souper. Tous les jours, j'ai l' farce ! &quot; (RD).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Ch'étot farce à vir ! &quot; (PP). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; T'es farce avec ç' capiau là ! &quot;</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Farcer</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        faire une farce. Et' farcé : ne pas s'éveiller à temps, et arriver en retard à son travail. &quot; I-étot souvint farce, l' pauv', / Malgré qu'au mur, j' buquos l' matin &quot; (JM). &quot; Ein s'ra farcé tous les coups avec ess' maudit rével-là &quot; (RD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        faire une farce. Et' farcé : ne pas s'éveiller à temps, et arriver en retard à son travail.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I-étot souvint farce, l' pauv', / Malgré qu'au mur, j' buquos l' matin &quot; (JM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ein s'ra farcé tous les coups avec ess' maudit rével-là &quot; (RD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FARDAINE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : ferdaine).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : ferdaine).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FARDIAU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        fardeau. &quot; El vie qu' té m' fais, ch't' in lourd fardiau &quot; (PB).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>fardeau. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fardeau</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; El vie qu' té m' fais, ch't' in lourd fardiau &quot; (PB).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FARÈNE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        farine. &quot; Tout fait farène au molin &quot; = tout profite quand on mange de bon appétit. &quot; In n' sarot tirer d' farène d'un sa à carbon &quot; (GH) = on n'a rien à attendre d'un homme sans éducation.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>farine. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">farine</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Tout fait farène au molin &quot; = tout profite quand on mange de bon appétit.
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; In n' sarot tirer d' farène d'un sa à carbon &quot; (GH) = on n'a rien à attendre d'un homme sans éducation.
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* FARFOUILLER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        bredouiller, balbutier. &quot; L' père i farfoull' : Pardon ! &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>bredouiller, balbutier. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">bredouiller</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">balbutier</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; L' père i farfoull' : Pardon ! &quot; (JM).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FASC(E)LOT</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        (GH), s. m., petit faisceau de bois de chauffage. (Voir : facheau).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        (GH), s. m., petit faisceau de bois de chauffage. (Voir : facheau).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FASCIER ou FACHER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>langer, emmailloter.</quote>
+    </def>
+    <def label="française">
+      <quote>langer, emmailloter.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">langer</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">emmailloter</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Fasces</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        ou fasciaux, s. m. : langes. &quot; Elle ne dit pas &quot; langer &quot;, mais &quot; fâcher &quot;, mettre dans les &quot; fâches &quot; (AS). ANC. : Lat. fascia, bande, maillot de nouveau-né.
+      </quote>
+    </def>
+    <def label="française">
+      <quote> ou fasciaux, s. m. : langes. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>langer </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">langer</cit>
+      </cit>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Elle ne dit pas &quot; </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : Lat. fascia, bande, maillot de nouveau-né.</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FASI(L)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        poussière de charbon de bois, fraisil. ANC. : faisil : résidu de charbon brûlé (Livre des Métiers, Et. Boileau, 1268), du lat. pop. facilem, de fax (tison).
+      </quote>
+    </def>
+    <def label="française">
+      <quote> poussière de charbon de bois, fraisil. </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fraisil</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : faisil : résidu de charbon brûlé (Livre des Métiers, Et. Boileau, 1268), du lat. pop. facilem, de fax (tison).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>* FAT (le t se prononce)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>ouvrier</quote>
+    </def>
+    <def label="française">
+      <quote>ouvrier</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">ouvrier</cit>
+      </cit>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FAU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        hêtre (arbre). &quot; Je suis las de vivre comme un lérot qui dort dans le creux d'un fau &quot; (CD). Carbon d' fau : charbon de bois. ANC. : fou ou fau (XIIe) du lat. fagus. A donné, en fr., fouet (baguette de hêtre) qui a éliminé escourgée, d'où nous avons tiré écourite. A noter que le GLL donne fau comme &quot; nom méridional du hêtre &quot; !
+      </quote>
+    </def>
+    <def label="française">
+      <quote>hêtre (arbre). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Carbon d' fau : charbon de bois. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Je suis las de vivre comme un lérot qui dort dans le creux d'un fau &quot; (CD).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : fou ou fau (XIIe) du lat. fagus. A donné, en fr., fouet (baguette de hêtre) qui a éliminé escourgée, d'où nous avons tiré écourite. A noter que le GLL donne fau comme &quot; nom méridional du hêtre &quot; !
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Faudreux</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>charbonnier, qui fait du carbon d' fau.</quote>
+    </def>
+    <def label="française">
+      <quote>charbonnier, qui fait du carbon d' fau.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">charbonnier</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FAUCHIL(L)E</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>faucille.</quote>
+    </def>
+    <def label="française">
+      <quote>faucille.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">faucille</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FAULLOIR ou FOLLOIR</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        falloir. &quot; I m'a follu au moins tros jours avant d' povoir ouvrer &quot; (JQ). &quot; Aujourd'hui, j' sus tout patraque, et hier i n' mé faullot rien &quot; = j'étais très bien. ANC. : &quot; I t' forô faire eune erligieuse &quot; (Fl, F, XVIIe) = il faudrait que tu te fasses religieuse.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>falloir. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">falloir</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I m'a follu au moins tros jours avant d' povoir ouvrer &quot; (JQ).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Aujourd'hui, j' sus tout patraque, et hier i n' mé faullot rien &quot; = j'étais très bien.
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : &quot; I t' forô faire eune erligieuse &quot; (Fl, F, XVIIe) = il faudrait que tu te fasses religieuse.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FAUQUER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>faucher.</quote>
+    </def>
+    <def label="française">
+      <quote>faucher.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">faucher</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* Fauquart</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        manche de faux (et non, comme en fr., faucart : faux à long manche).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        manche de faux (et non, comme en fr., faucart : faux à long manche).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Fauque</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>faux.</quote>
+    </def>
+    <def label="française">
+      <quote>faux.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">faux</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Fauquette</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>petite faux (voir : piquet).</quote>
+    </def>
+    <def label="française">
+      <quote>petite faux (voir : piquet).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Fauqueux</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        faucheur ; araignée à longues pattes. ANC. : du lat. pop. falcare, de falx : faux.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>faucheur ; araignée à longues pattes. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">faucheur</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : du lat. pop. falcare, de falx : faux.</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FAUQUE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : foque).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : foque).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FAUSS(E)TRIE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote> fausseté, tromperie.</quote>
+    </def>
+    <def label="française">
+      <quote> fausseté, tromperie.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fausseté</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">tromperie</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FAUTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        ch'est mi la faute : c'est ma faute. &quot; Ch' n'est pas ti la faute &quot; (RP) = ce n'est pas ta faute.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>ch'est mi la faute : c'est ma faute. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ch' n'est pas ti la faute &quot; (RP) = ce n'est pas ta faute.
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FAV(E)LOTTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>féverole, faverole (plante).</quote>
+    </def>
+    <def label="française">
+      <quote>féverole, faverole (plante).</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">féverole</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FAYEUX</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>indisposé. &quot; Sin tiot coeur est tout fayeux &quot; (GF).</quote>
+    </def>
+    <def label="française">
+      <quote>indisposé. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">indisposé</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Sin tiot coeur est tout fayeux &quot; (GF).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FÈLE</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - arrogant, impatient. &quot; I suffirot d' ein' ritournelle / Pou qué l' méchant déviench' moins fèle (JD).
+      </quote>
+      <quote>
+        2 - rapide : &quot; I va aussi fel qu'ein' fusée &quot; (EM). &quot; Presqu'aussi fell' qu'un cop d' mine / Joyeus'mint tout s'illumine &quot; (JM).
+      </quote>
+      <quote>
+        3 - adv. : brusquement, vivement. &quot; J' voudros bé vir cha, qu'alle arprind aussi fel' &quot; (PP). ANC. : le francique filljo, puis fillo (celui qui fouette un esclave) a donné en bas-lat. (IXe), fello qui a pris, en fr., divers sens péjor. : rebelle, cruel, furieux, impie, pervers... et nous a laissé, en fr. mod. : félon. Le mot rouchi garde, du francique, l'idée de mouvement vif (coup de fouet) et d'impatience arrogante.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - arrogant, impatient. </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">impatient</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : le francique filljo, puis fillo (celui qui fouette un esclave) a donné en bas-lat. (IXe), fello qui a pris, en fr., divers sens péjor. : rebelle, cruel, furieux, impie, pervers... et nous a laissé, en fr. mod. : félon. Le mot rouchi garde, du francique, l'idée de mouvement vif (coup de fouet) et d'impatience arrogante.
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>2 - rapide : </quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; I va aussi fel qu'ein' fusée &quot; (EM). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Presqu'aussi fell' qu'un cop d' mine / Joyeus'mint tout s'illumine &quot; (JM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : le francique filljo, puis fillo (celui qui fouette un esclave) a donné en bas-lat. (IXe), fello qui a pris, en fr., divers sens péjor. : rebelle, cruel, furieux, impie, pervers... et nous a laissé, en fr. mod. : félon. Le mot rouchi garde, du francique, l'idée de mouvement vif (coup de fouet) et d'impatience arrogante.
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>3 - adv. : brusquement, vivement. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">vivement</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J' voudros bé vir cha, qu'alle arprind aussi fel' &quot; (PP).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : le francique filljo, puis fillo (celui qui fouette un esclave) a donné en bas-lat. (IXe), fello qui a pris, en fr., divers sens péjor. : rebelle, cruel, furieux, impie, pervers... et nous a laissé, en fr. mod. : félon. Le mot rouchi garde, du francique, l'idée de mouvement vif (coup de fouet) et d'impatience arrogante.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Fél(e)té</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        brusquerie, rapidité. &quot; L' Commissaire ed Police / Arrife à tout' felté &quot;
+      </quote>
+    </def>
+    <def label="française">
+      <quote>brusquerie, rapidité. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">brusquerie</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">rapidité</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; L' Commissaire ed Police / Arrife à tout' felté &quot;</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FEMME</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        se prononce comme flemme, gemme, dilemme, avec, souvent, une nas. fim.me (d'où les graphies fème, feimme, faime... Dans les villages où la pron. est celle du fr., les patoisants écrivent : fame).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        se prononce comme flemme, gemme, dilemme, avec, souvent, une nas. fim.me (d'où les graphies fème, feimme, faime... Dans les villages où la pron. est celle du fr., les patoisants écrivent : fame).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">gemme</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">dilemme</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">avec</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">souvent</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>F(E)NER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        faner, faire sécher l'herbe. &quot; On ondaine, on buriaute, on fène &quot; (GF). ANC. : fener (XIIe) du lat. pop. fenare (le fr. a gardé le e dans fenaison).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>faner, faire sécher l'herbe. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">faner</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; On ondaine, on buriaute, on fène &quot; (GF). </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : fener (XIIe) du lat. pop. fenare (le fr. a gardé le e dans fenaison).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FÉNIESSE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        porte d'aération au fond de la mine. &quot; Un train d' berlin's a foncé deux féniesses / Pou s'écraser su les murs du bougniou &quot; (JM). ANC. : du lat. fenestra comme fenêtre.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>porte d'aération au fond de la mine. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Un train d' berlin's a foncé deux féniesses / Pou s'écraser su les murs du bougniou &quot; (JM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : du lat. fenestra comme fenêtre.</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FERCHONNER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        frissonner. &quot; Au ciel, l' dernière étoil' ferchonne &quot; (JD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>frissonner. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">frissonner</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Au ciel, l' dernière étoil' ferchonne &quot; (JD).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FERDAINE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        FARDAINE, s. f. : fredaine. &quot; I li faudrot (au curé), acouter les ferdaine des Vitelots et lieu donner el pardon du Bon Dieu &quot; (PP). I-est in ferdaine = il n'est pas dans son état normal.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>FARDAINE, s. f. : fredaine. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>I-est in ferdaine = il n'est pas dans son état normal.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I li faudrot (au curé), acouter les ferdaine des Vitelots et lieu donner el pardon du Bon Dieu &quot; (PP).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FERDONNER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        fredonner. &quot; ... l'maison / Dûss qué m' maîtress' m'attind in ferdonnant m' canchon &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>fredonner. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fredonner</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FERLUQUET</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>freluquet.</quote>
+    </def>
+    <def label="française">
+      <quote>freluquet.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">freluquet</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FERMINTER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>fermenter (voir : brassin).</quote>
+    </def>
+    <def label="française">
+      <quote>fermenter (voir : brassin).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FERNIÊTE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        FEURNIÊTE, s. f. : fenêtre. &quot; Ch'est d'main fiête, les singes sont à l' ferniête &quot;, dit-on pour se moquer de ceux qui passent leur temps à leurs croisées. &quot; All' sognot un fluxia installé à l' ferniette &quot; (PB).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>FEURNIÊTE, s. f. : fenêtre. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        dit-on pour se moquer de ceux qui passent leur temps à leurs croisées.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ch'est d'main fiête, les singes sont à l' ferniête &quot;,
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; All' sognot un fluxia installé à l' ferniette &quot; (PB).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FER(RE)MINT ou FIERR(E)MINT</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>serpe (GD) ; ferrement, objet en fer.</quote>
+    </def>
+    <def label="française">
+      <quote>serpe (GD) ; ferrement, objet en fer.</quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">ferrement</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FERTIÈRE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : flétière).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : flétière).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FERTILLER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        frétiller. &quot; Fertillant's comme eun' ruch' d'abeilles &quot; (JM). Chez GF : fertouiller, fertouillemint.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>frétiller. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">frétiller</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Chez GF : fertouiller, fertouillemint.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Fertillant's comme eun' ruch' d'abeilles &quot; (JM). </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FEU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        &quot; I courra jusqu'à la fin d' ses jours comme s'i i-avot l' feu au cul d' Bayeux (EM). (voir : fu ; metteux d' feu).
+      </quote>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FEUMER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>fumer, dégager de la fumée.</quote>
+    </def>
+    <def label="française">
+      <quote>fumer, dégager de la fumée.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fumer</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Feumeux</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>fumeur.</quote>
+    </def>
+    <def label="française">
+      <quote>fumeur.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fumeur</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Feumière</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - fumée. &quot; I-avot vu l' jour sous un ciel plein d' feumière &quot; (PM) / L' Ville-feumière (JM) : Denain.
+      </quote>
+      <quote>
+        2 - vapeurs d'alcool. &quot; L' feumièr' du vin passée, i busie à s'n ami &quot; (JM). ANC. : lat. fumare.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - fumée. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>L' Ville-feumière (JM) : Denain. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I-avot vu l' jour sous un ciel plein d' feumière &quot; (PM) /
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : lat. fumare.</quote>
+    </etym>
+    <def label="française">
+      <quote>2 - vapeurs d'alcool. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; L' feumièr' du vin passée, i busie à s'n ami &quot; (JM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : lat. fumare.</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FEUMER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        fumer, épandre du fumier. ANC. : Lat pop. femare ; femer (L'Escouffle, 1204).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>fumer, épandre du fumier. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fumer</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : Lat pop. femare ; femer (L'Escouffle, 1204).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Feumier</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - fumier. &quot; S'il avot dé l' palle, i f'rot du feumier &quot; (GH) =
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - fumier. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; S'il avot dé l' palle, i f'rot du feumier &quot; (GH) =</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FÉVÉRIER (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        FÉVIER (GLec), s. m. : février. &quot; Si févier il avot autant d' pouvoor qué d' vouloor, i f'rot ingéler les marmites d' sus l' feu &quot; (GLec).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>FÉVIER (GLec), s. m. : février. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Si févier il avot autant d' pouvoor qué d' vouloor, i f'rot ingéler les marmites d' sus l' feu &quot; (GLec).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FI</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        fil. Et' sogné au fi d'or = être très bien soigné. &quot; Y-a pont un fi d'invergué &quot; (GL) = rien ne va (inverguer : croiser les fils d'une chaîne).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>fil. Et' sogné au fi d'or = être très bien soigné. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fil</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Y-a pont un fi d'invergué &quot; (GL) = rien ne va (inverguer : croiser les fils d'une chaîne).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* FIAC(RE) (PP)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        lit. &quot; El meilleux, ch'est cor el fiaque : quand in dort, in n' busie mie pus à ses peines &quot; (douteux).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>lit. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">lit</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; El meilleux, ch'est cor el fiaque : quand in dort, in n' busie mie pus à ses peines &quot; (douteux).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FIAITISSURE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : faitissure).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : faitissure).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FIAT ! (BD)</orth>
+    </form>
+    <gramGrp>
+      <pos>excl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        Soit ! bon ! Correspond au &quot; d'accord ! &quot; de notre époque. &quot; Fiat ! no dame ! qu'i dit. &quot;
+      </quote>
+    </def>
+    <def label="française">
+      <quote>Soit ! bon ! Correspond au </quote>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>de notre époque. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; d'accord ! &quot; </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Fiat ! no dame ! qu'i dit. &quot;</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FIATE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        confiance. Y-a pas d' fiate à avoir = il ne faut pas s'y fier ; on ne peut avoir confiance. &quot; Vos povez avoir del' fiatt' à chu qué j' racont' &quot; (JQ). ANC. : vient de : se fier : faire confiance.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        confiance. Y-a pas d' fiate à avoir = il ne faut pas s'y fier ; on ne peut avoir confiance.
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">confiance</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Vos povez avoir del' fiatt' à chu qué j' racont' &quot; (JQ).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : vient de : se fier : faire confiance.</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FICHELLE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>ficelle.</quote>
+    </def>
+    <def label="française">
+      <quote>ficelle.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">ficelle</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FICHON (RD)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - gourmand (de fraisier). &quot; Et pus, j'ai einlevé les fichons d' mes fraisiers. &quot;
+      </quote>
+      <quote>
+        2 - fil (de haricot vert). &quot; T'as chi des haricots qui sont pleins d' fichons. &quot;
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - gourmand (de fraisier). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Et pus, j'ai einlevé les fichons d' mes fraisiers. &quot;
+      </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>2 - fil (de haricot vert). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; T'as chi des haricots qui sont pleins d' fichons. &quot;</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FIEN</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        fumier. Car à fien : chariot à fumier. Carrier fien : transporter du fumier. Répar' fien : épandre du fumier sur un champ. ANC. : fient, fien (XIIe) du lat. fimus, m. sens. &quot; Por la chaleur du fiens, qu'ele ot sentie &quot; (Audigier, fin XIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        fumier. Car à fien : chariot à fumier. Carrier fien : transporter du fumier. Répar' fien : épandre du fumier sur un champ.
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fumier</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : fient, fien (XIIe) du lat. fimus, m. sens. &quot; Por la chaleur du fiens, qu'ele ot sentie &quot; (Audigier, fin XIIe).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FIER</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        fer (voir blanc-fier). Soc de charrue. Fier à z'auflettes : moule à gaufrettes. &quot; I n' vaut point les quat' fiers d'un tchien &quot; (GH) = il ne vaut rien.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        fer (voir blanc-fier). Soc de charrue. Fier à z'auflettes : moule à gaufrettes.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I n' vaut point les quat' fiers d'un tchien &quot; (GH) = il ne vaut rien.
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Fierrer</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        ferrer (voir sautériau). &quot; Il est fierrê à r'vers &quot; = il a l'esprit de contradiction.
+      </quote>
+    </def>
+    <def label="française">
+      <quote> ferrer (voir sautériau). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Il est fierrê à r'vers &quot; = il a l'esprit de contradiction.
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Fierr(e)mint</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : ferremint).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : ferremint).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Fierrure</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>ferrure.</quote>
+    </def>
+    <def label="française">
+      <quote>ferrure.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">ferrure</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FIER</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        &quot; Fier comme un brin ingélé &quot; ou &quot; fier comme un étron d' Suisse &quot; (GH).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>ou </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">ou</cit>
+      </cit>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; fier comme un étron d' Suisse &quot; (GH).</quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Fier comme un brin ingélé &quot; </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FIERTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        châsse, reliquaire (mot normanno-picard). ANC. : fiertre, fierte, m. sens (Voyage de Charlemagne, XIIe), du lat. feretrum : brancard.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>châsse, reliquaire (mot normanno-picard). </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">châsse</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : fiertre, fierte, m. sens (Voyage de Charlemagne, XIIe), du lat. feretrum : brancard.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FIÊTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        fête. &quot; In vous faisot monter, à l' fiête, / A gamb' raites d'sus les qu'vaux d' bos &quot; (PB). ANC. : &quot; Jus soit et fieste necaudent &quot; (Le Jeu St Nicolas, J. Bodel, 1190). &quot; ... in les vô diminche et fiette &quot; (Fl, F, XVIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>fête. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fête</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; In vous faisot monter, à l' fiête, / A gamb' raites d'sus les qu'vaux d' bos &quot; (PB).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : &quot; Jus soit et fieste necaudent &quot; (Le Jeu St Nicolas, J. Bodel, 1190). &quot; ... in les vô diminche et fiette &quot; (Fl, F, XVIIe).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FIEU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        fils, garçon, enfant. Un bon fieu, m' pétit fieu. &quot; Ah ! fieu, j'avais oublié le proverbe ! &quot; (CD). &quot; Ses fill's et ses garchons, bons fieux, / Sont pleins d' soins pou maman Mémène &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>fils, garçon, enfant. Un bon fieu, m' pétit fieu. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fils</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">garçon</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">enfant</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Ah ! fieu, j'avais oublié le proverbe ! &quot; (CD). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ses fill's et ses garchons, bons fieux, / Sont pleins d' soins pou maman Mémène &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FIÈV(R)E</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        à noter, chez JM, dans un poème humor. (L' docteur Boudenne), plusieurs sortes de fièvre : fièv' maguette, fiève ed leup, fièv' moqueuse, et, ailleurs &quot; Ç' voyach' li donnot les fièvr's sottes &quot;.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        à noter, chez JM, dans un poème humor. (L' docteur Boudenne), plusieurs sortes de fièvre : fièv' maguette, fiève ed leup, fièv' moqueuse, et, ailleurs
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">et</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">ailleurs</cit>
+      </cit>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Ç' voyach' li donnot les fièvr's sottes &quot;.</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FIFI</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        , serin élevé en cage. &quot; Avec eun' voix d' catré, eun' voix d' fifi voleur &quot; (GF).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>, serin élevé en cage. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Avec eun' voix d' catré, eun' voix d' fifi voleur &quot; (GF).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FIGOTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - tranche de pomme séchée au four. Tarte à figotes. (Voir : tarte). &quot; Des caramels ed figote incore ! sans même eune odeur ed chocolat &quot; (JD). &quot; Du pain plat comme eune figote et dur comme du bos &quot; (RD).
+      </quote>
+      <quote>2 - pâte de pomme (présentée en plaquettes). </quote>
+      <quote>
+        3 - Insulte : &quot; Tiens ! viell' figot', rétal' cha su t' cantiau &quot; (GF).
+      </quote>
+      <quote>4 - tache brune sur la peau. ANC. : orig. : figue.</quote>
+    </def>
+    <def label="française">
+      <quote>
+        1 - tranche de pomme séchée au four. Tarte à figotes. (Voir : tarte).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Des caramels ed figote incore ! sans même eune odeur ed chocolat &quot; (JD).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Du pain plat comme eune figote et dur comme du bos &quot; (RD).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : orig. : figue.</quote>
+    </etym>
+    <def label="française">
+      <quote>2 - pâte de pomme (présentée en plaquettes). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : orig. : figue.</quote>
+    </etym>
+    <def label="française">
+      <quote>3 - Insulte : </quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Tiens ! viell' figot', rétal' cha su t' cantiau &quot; (GF).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : orig. : figue.</quote>
+    </etym>
+    <def label="française">
+      <quote>4 - tache brune sur la peau. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : orig. : figue.</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FILER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>monter (en parlant des légumes).</quote>
+    </def>
+    <def label="française">
+      <quote>monter (en parlant des légumes).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FILET</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        fil à coudre. Dans le sens &quot; filet de la langue &quot;, quelques expr. à noter : &quot; Celui qui t'a coupé l' filet n'a pas volé ses quatre doubles &quot; (FP) ou &quot; L' ceu qui li a copé l' filet n'a point perdu s' journée &quot; (PP) = c'est un bavard. &quot; Cha n'arriv'ra pus, j'in raque em filet &quot; (JQ) = j'en crache mon filet, je le jure.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>fil à coudre. Dans le sens </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>quelques expr. à noter : </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>ou </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">ou</cit>
+      </cit>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; filet de la langue &quot;, </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Celui qui t'a coupé l' filet n'a pas volé ses quatre doubles &quot; (FP)
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; L' ceu qui li a copé l' filet n'a point perdu s' journée &quot; (PP) = c'est un bavard.
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Cha n'arriv'ra pus, j'in raque em filet &quot; (JQ) = j'en crache mon filet, je le jure.
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FIL(L)E</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        &quot; Fille à main crochue, fille foutue &quot; (GH). &quot; Quand l' fille est mariée, tout l' monde l' démande &quot; (GH).
+      </quote>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FILLEUX</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        , FILLEURE, s. f. : filleul, filleule. &quot; Ch'est mi qué j' sus s' parrain, / M' filleur' passe avant tout &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>, FILLEURE, s. f. : filleul, filleule. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">filleule</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ch'est mi qué j' sus s' parrain, / M' filleur' passe avant tout &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FILOIRE (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>fileuse.</quote>
+    </def>
+    <def label="française">
+      <quote>fileuse.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fileuse</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FILOUSTEUX</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        filou, tricheur. &quot; Des filousteux causant d' l'imbroulle et du souci &quot; (PB).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>filou, tricheur. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">filou</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">tricheur</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Des filousteux causant d' l'imbroulle et du souci &quot; (PB).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FIN</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        ch'n'est pas du fin : ce ne sont pas des gens convenables. &quot; Cha n'étot pas grand cosse ed fin &quot; (PB). &quot; Fin conter fin, cha n'a jamés rien valu comme doublure &quot; (BD) = à malin, malin et demi ; on trouve toujours son maître. Adv. : très. Fin bin : très bien, parfaitement. &quot; Cafougnette i f'ra l'ours fin bin &quot; (JM). &quot; Bras d'sus bras d'sous et fin bénaches &quot; (JM). &quot; J' rinscontr' par là des gins fin comme i faut &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>ch'n'est pas du fin : ce ne sont pas des gens convenables. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Cha n'étot pas grand cosse ed fin &quot; (PB). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Fin conter fin, cha n'a jamés rien valu comme doublure &quot; (BD) = à malin, malin et demi ; on trouve toujours son maître. Adv. : très. Fin bin : très bien, parfaitement.
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Cafougnette i f'ra l'ours fin bin &quot; (JM). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Bras d'sus bras d'sous et fin bénaches &quot; (JM). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J' rinscontr' par là des gins fin comme i faut &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FINDILLER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>fendiller.</quote>
+    </def>
+    <def label="française">
+      <quote>fendiller.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fendiller</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FIND(R)E</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        fendre. &quot; Ch'est du bon bos quand i find au mitan &quot; = il vaut mieux s'arranger à l'amiable (en partageant les frais) que de plaider. &quot; I faut dir' qu'i gèle à pierr' finte &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>fendre. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fendre</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ch'est du bon bos quand i find au mitan &quot; = il vaut mieux s'arranger à l'amiable (en partageant les frais) que de plaider.
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; I faut dir' qu'i gèle à pierr' finte &quot; (JM).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FINE</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>l'air alle est fine = il fait frais.</quote>
+    </def>
+    <def label="française">
+      <quote>l'air alle est fine = il fait frais.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FINISS(E)MINT</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        fin, achèvement. &quot; Gar' les cops d' bourlots d' neiche au finiss'mint d' l'école &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>fin, achèvement. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fin</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">achèvement</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Gar' les cops d' bourlots d' neiche au finiss'mint d' l'école &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FINTE (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>planche de </quote>
+    </def>
+    <def label="française">
+      <quote>planche de </quote>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FISCUIT</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        fichu, perdu, foutu. &quot; In est bintôt fiscuit / Quand in s'imbarqu' sans biscuit ! &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>fichu, perdu, foutu. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fichu</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">perdu</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">foutu</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; In est bintôt fiscuit / Quand in s'imbarqu' sans biscuit ! &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FLAG(E)LÉE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>laitue pommée (voir : cabusette) marquée de taches brunes.</quote>
+    </def>
+    <def label="française">
+      <quote>laitue pommée (voir : cabusette) marquée de taches brunes.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FLAHUTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote> et f. : </quote>
+      <quote>1 - flamand. </quote>
+      <quote>
+        2 - grande femme sans force : &quot; Ch't'eune grande flahute &quot; ; paresseux : &quot; Quéqu'fos, quand i fait l' flahute... &quot; (EM).
+      </quote>
+      <quote>
+        3 - haute tige d'angélique sauvage (GH). ANC. : peut-être une agglut. de flamand et de flûtes (grandes jambes).
+      </quote>
+    </def>
+    <def label="française">
+      <quote> et f. : </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : peut-être une agglut. de flamand et de flûtes (grandes jambes).
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>1 - flamand. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : peut-être une agglut. de flamand et de flûtes (grandes jambes).
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>2 - grande femme sans force : </quote>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>paresseux : </quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Ch't'eune grande flahute &quot; ; </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Quéqu'fos, quand i fait l' flahute... &quot; (EM). </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : peut-être une agglut. de flamand et de flûtes (grandes jambes).
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>3 - haute tige d'angélique sauvage (GH). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : peut-être une agglut. de flamand et de flûtes (grandes jambes).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FLAÏAU ou FLEÏAU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        fléau (à battre le blé). &quot; I's s'in r'vont vers les granch's, dus l's attind'nt les flâiaux &quot; (GF). ANC. : flaiel ; fouet, fléau (Vie de St Léger, Xe) du lat. flagellum (fouet).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>fléau (à battre le blé). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I's s'in r'vont vers les granch's, dus l's attind'nt les flâiaux &quot; (GF).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : flaiel ; fouet, fléau (Vie de St Léger, Xe) du lat. flagellum (fouet).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>* FLAIR</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        odeur. &quot; L' bon flair du burre aiguisot l'z appétits &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>odeur. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">odeur</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; L' bon flair du burre aiguisot l'z appétits &quot; (JM).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FLAMING</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        Flamand. &quot; Avanche, fiske, qu'i répond l' Flaming &quot; (PP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>Flamand. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">Flamand</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Avanche, fiske, qu'i répond l' Flaming &quot; (PP).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Flaminguer</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        parler flamand ; parler un langage incompréhensible. &quot; Sans un seul étranger flaminguant tout près d' nous &quot; (EM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>parler flamand ; parler un langage incompréhensible. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Sans un seul étranger flaminguant tout près d' nous &quot; (EM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Flamingache</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        baragouin. &quot; Ch'est d' l'hébreu pour mi, jé n' saisis point et' flamingache &quot; (PP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>baragouin. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">baragouin</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ch'est d' l'hébreu pour mi, jé n' saisis point et' flamingache &quot; (PP).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FLAMIQUE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        gâteau de farine et d'oeufs que l'on mange chaud en le tartinant de beurre et de cassonade ; galette. &quot; L' pain fraîche, avant la guerre, tot pus mou qu' dé l' flamique. &quot; La flamique à porions s'appelle, à Valenciennes, tourton à porions. ANC. : flamiche : espèce de galette flamande (Roman de Renart, 1250) du flamand vlaming.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        gâteau de farine et d'oeufs que l'on mange chaud en le tartinant de beurre et de cassonade ; galette.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">galette</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        La flamique à porions s'appelle, à Valenciennes, tourton à porions.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; L' pain fraîche, avant la guerre, tot pus mou qu' dé l' flamique. &quot;
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : flamiche : espèce de galette flamande (Roman de Renart, 1250) du flamand vlaming.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FLANIR ; FLON.NIR</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        (GD), v. : flétrir. &quot; Eun' rose à moitié flanie / Près d'un p'tit morciau d' miroir &quot; (JM). ANC. : peut-être m. orig. que flau ? ou, peut-être du lat. flavere : se décolorer, se flétrir (feuillage).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>(GD), v. : flétrir. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Eun' rose à moitié flanie / Près d'un p'tit morciau d' miroir &quot; (JM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : peut-être m. orig. que flau ? ou, peut-être du lat. flavere : se décolorer, se flétrir (feuillage).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FLAQUÉ (GD)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>flaque d'eau.</quote>
+    </def>
+    <def label="française">
+      <quote>flaque d'eau.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">flaque d'eau</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FLASSOU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>flatteur ; qui désire se faire caresser (chat).</quote>
+    </def>
+    <def label="française">
+      <quote>flatteur ; qui désire se faire caresser (chat).</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">flatteur</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FLATRÉ (GLec)</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>couché, sans courage, à cause de la chaleur par ex.</quote>
+    </def>
+    <def label="française">
+      <quote>couché, sans courage, à cause de la chaleur par ex.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">couché</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FLATTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        bouse de vache : &quot; Dins l' flatt' qui sort du cul d' tes vaques &quot; (GF). ANC. : germ. flado qui a donné l'all. Fladen = bouse. Cf. aussi le francique flat (plat) qui passera en angl. et donnera en fr. flatter, etc.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>bouse de vache : </quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Dins l' flatt' qui sort du cul d' tes vaques &quot; (GF).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : germ. flado qui a donné l'all. Fladen = bouse. Cf. aussi le francique flat (plat) qui passera en angl. et donnera en fr. flatter, etc.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FLATTER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        &quot; I n' faut pas s' flatter d'un biau jour avant qu'i n' fuche vénu &quot; = il ne faut pas vendre la peau de l'ours avant de l'avoir tué.
+      </quote>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FLAU</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        flasque, faible, lâche, mou. Et' flau : être accablé par la chaleur (voir : flâtré). Marcher à flau garret (AH) : marcher en traînant la jambe. Epi flau : épi qui ne contient presque pas de grain (GD). ANC. : fluet faible languissant, fané
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        flasque, faible, lâche, mou. Et' flau : être accablé par la chaleur (voir : flâtré). Marcher à flau garret (AH) : marcher en traînant la jambe. Epi flau : épi qui ne contient presque pas de grain (GD).
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">flasque</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">faible</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">lâche</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">mou</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : fluet faible languissant, fané</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FLÉTIÈRE ou FERTIÈRE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>fougère.</quote>
+    </def>
+    <def label="française">
+      <quote>fougère.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fougère</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FLEUR</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        D'aller à fleurs : aller faire la cueillette des fleurs de guimauve (voir : althéa). Fleurs d'orage : petits nuages moutonnés qui se forment à l'approche d'un orage (GD). (Voir : cul).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        D'aller à fleurs : aller faire la cueillette des fleurs de guimauve (voir : althéa). Fleurs d'orage : petits nuages moutonnés qui se forment à l'approche d'un orage (GD). (Voir : cul).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FLINQUE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>1 - tranche (de viande, etc.). </quote>
+      <quote>2 - bande étroite de terrain (AH). </quote>
+      <quote>3 - petite épaisseur de charbon (AL).</quote>
+    </def>
+    <def label="française">
+      <quote>1 - tranche (de viande, etc.). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>2 - bande étroite de terrain (AH). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>3 - petite épaisseur de charbon (AL).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FLINQUE (FAIRE)</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: faire l'école buissonnière.</quote>
+    </def>
+    <def label="française">
+      <quote>: faire l'école buissonnière.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FLOBI (PMa)</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>affaibli. &quot; Flobi d'èn' pus y croire &quot;.</quote>
+    </def>
+    <def label="française">
+      <quote>affaibli. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">affaibli</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Flobi d'èn' pus y croire &quot;.</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FLOCHER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        battre. &quot; L' femm' tranne incor, sin coeur i floche &quot; (JM). ANC. : flochier : battre (en parlant des flots) (God.).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>battre. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">battre</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; L' femm' tranne incor, sin coeur i floche &quot; (JM). </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : flochier : battre (en parlant des flots) (God.).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FLOÈNE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        FLORÈNE (GH), s. f. : fouine. &quot; In mettra du bren d' florène dins l' gardérope &quot; (on prétend que son odeur tue les insectes).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>FLORÈNE (GH), s. f. : fouine. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; In mettra du bren d' florène dins l' gardérope &quot; (on prétend que son odeur tue les insectes).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FLONER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>rosser.</quote>
+    </def>
+    <def label="française">
+      <quote>rosser.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">rosser</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FLONQUART (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        espèce de couronne de paille de seigle et de ronds de drap écarlate que l'on suspendait à des guirlandes de verdure pour décorer les rues (Vx.). ANC. : God. signale : flocu (qui porte une houppe), flocheter (voler au vent), floquart (voile flottant autour du hennin).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        espèce de couronne de paille de seigle et de ronds de drap écarlate que l'on suspendait à des guirlandes de verdure pour décorer les rues (Vx.).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : God. signale : flocu (qui porte une houppe), flocheter (voler au vent), floquart (voile flottant autour du hennin).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FLONQUER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : plonquer).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : plonquer).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FLORIR</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        fleurir. ANC. : flor : fleur (Ch. de Roland, 1080), du lat. florem. Florir (XIIe), du lat. pop. florire.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>fleurir. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fleurir</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : flor : fleur (Ch. de Roland, 1080), du lat. florem. Florir (XIIe), du lat. pop. florire.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FLOU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        boue de charbon, utilisée comme combustible pauvre. &quot; ... des pentes du terril au &quot; fossé au flou &quot;. Le flou est une boue de charbon &quot; (AS).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>boue de charbon, utilisée comme combustible pauvre. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FLOUQUER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        donner un baiser. &quot; J' té flouque et j' té r'flouque &quot; : formule employée pour présenter ses voeux de nouvel an (Denain).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>donner un baiser. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J' té flouque et j' té r'flouque &quot; : formule employée pour présenter ses voeux de nouvel an (Denain).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FLUTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>&quot; Alle jue dé l' flûte à biec &quot; (GH) (érot.).</quote>
+    </def>
+    <def label="française">
+      <quote>érot.).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Alle jue dé l' flûte à biec &quot; (GH) (</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FLUXIA</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        fuchsia (fleur). &quot; Paletot couleur fluxia, maronne framboisse &quot; (EM). (Voir : ferniète).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>fuchsia (fleur). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Voir : ferniète).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Paletot couleur fluxia, maronne framboisse &quot; (EM). (</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FOENE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : fuine).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : fuine).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FOITI</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        figé (graisse qui était fondue, sang caillé). ANC. : foitié : figé, coagulé, caillé (God.).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>figé (graisse qui était fondue, sang caillé). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : foitié : figé, coagulé, caillé (God.).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FOLLOIR</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : faulloir).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : faulloir).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FONCIER ou FOND</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        au jeu de balle au gant, celui des cinq joueurs qui occupe le fond du terrain.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        au jeu de balle au gant, celui des cinq joueurs qui occupe le fond du terrain.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FONÇURE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>fond d'un lit, qui sup-</quote>
+    </def>
+    <def label="française">
+      <quote>fond d'un lit, qui sup-</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FONDAQUE (RD)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        affaissement, cuvette. &quot; L' matelas i fait enne fondaque au mitan et j' déboule toudi sur ti &quot;.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>affaissement, cuvette. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">affaissement</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">cuvette</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; L' matelas i fait enne fondaque au mitan et j' déboule toudi sur ti &quot;.
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FOND(E)MINT</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>fondement, anus.</quote>
+    </def>
+    <def label="française">
+      <quote>fondement, anus.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fondement</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">anus</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* FOND(R)E</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        s'abattre, se coucher, verser (en parlant des céréales ou de l'herbe à faucher). &quot; Les blés i sont fondus &quot;. ANC. : fondre, verser (Poème de St Alexis, XIe) du lat. fundere. &quot; Al départir fonderent larmes &quot; (Voyage de St Brandan, 1112). Le fr. a conservé l'expr. fondre en larmes = verser des larmes.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        s'abattre, se coucher, verser (en parlant des céréales ou de l'herbe à faucher).
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">s'abattre</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">se coucher</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Les blés i sont fondus &quot;. </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : fondre, verser (Poème de St Alexis, XIe) du lat. fundere. &quot; Al départir fonderent larmes &quot; (Voyage de St Brandan, 1112). Le fr. a conservé l'expr. fondre en larmes = verser des larmes.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FONDRIE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        éboulement, fondrière (mines). &quot; Les gros caillaux del fond'rie / In s'écroulant ont creusé / Cheulle immens' voût' rétrécie &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>éboulement, fondrière (mines). </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">éboulement</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Les gros caillaux del fond'rie / In s'écroulant ont creusé / Cheulle immens' voût' rétrécie &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FONFLIR</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        fléchir, céder sous le poids. &quot; Mes deux gambill's, minc's et sèques, / Fonflissot'nt sous mes cantiaux &quot; (JM). &quot; Quand té m' ravet' comm' té sais l' faire, / In dirot tout qué j' vas fonflir &quot; (RP). &quot; I busi' qu' bin souvint l' cafard i l' fait fonflir &quot; (EM). &quot; Il porte sans &quot;fronflir&quot; des poutres, des rails &quot; (AS).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>fléchir, céder sous le poids. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fléchir</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>fronflir</quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Mes deux gambill's, minc's et sèques, / Fonflissot'nt sous mes cantiaux &quot; (JM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Quand té m' ravet' comm' té sais l' faire, / In dirot tout qué j' vas fonflir &quot; (RP).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I busi' qu' bin souvint l' cafard i l' fait fonflir &quot; (EM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Il porte sans &quot;</quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; des poutres, des rails &quot; (AS).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FOQUE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : adv. : seulement. I n'd'a foque un : il n'y en a qu'un. &quot; Si l'infant, p'tiot, n'a foque es' mère au monne, / El sag' vieillard n' vit foque pou ses infants &quot; (JM). &quot; I n' tot mi' bavard non, ch'est fauque ! / S' langu' tournot comm' l'ail' d'un moulin ! &quot; (GF), &quot; Croyant, bin sûr, qu'i n'a qu'à fauque, / Is invott'-té prom'ner leus loques &quot; (PM). ANC. : fors que (Tout est perdu, fors l'honneur). &quot; Vous n' buvrez for qu'un voir' dé vin &quot; (Fl, F, XVIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>: adv. : seulement. I n'd'a foque un : il n'y en a qu'un. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Si l'infant, p'tiot, n'a foque es' mère au monne, / El sag' vieillard n' vit foque pou ses infants &quot; (JM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I n' tot mi' bavard non, ch'est fauque ! / S' langu' tournot comm' l'ail' d'un moulin ! &quot; (GF),
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Croyant, bin sûr, qu'i n'a qu'à fauque, / Is invott'-té prom'ner leus loques &quot; (PM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : fors que (Tout est perdu, fors l'honneur). &quot; Vous n' buvrez for qu'un voir' dé vin &quot; (Fl, F, XVIIe).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FORCHER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>forcer.</quote>
+    </def>
+    <def label="française">
+      <quote>forcer.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">forcer</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Forche</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        force. Forche ed'... : à force de... &quot; Mais l' pauv' Coch'teux, forche ed' tousser, / Dins l' gardé-rope i-est trépassé &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>force. Forche ed'... : à force de... </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">force</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Mais l' pauv' Coch'teux, forche ed' tousser, / Dins l' gardé-rope i-est trépassé &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Forché</orth>
+    </form>
+    <gramGrp>
+      <pos>part. pas. adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        forcé. &quot; Alors, ch'est forché qu' cha s' détraque &quot; (JD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>forcé. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">forcé</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Alors, ch'est forché qu' cha s' détraque &quot; (JD).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Forchémint</orth>
+    </form>
+    <gramGrp>
+      <pos>adv.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>forcément, bien sûr.</quote>
+    </def>
+    <def label="française">
+      <quote>forcément, bien sûr.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">forcément</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">bien sûr</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FORIÈRE, ou FOURIÈRE (AH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        extrémité du champ où les chevaux tournent au cours du labour, et qui sera ensuite labourée en travers ; lisière de champ souvent marquée d'un fossé. Patronyme. ANC. : forière : pâturage, lieu de pâturage en lisière, fenil (début XIIIe), du francique fodar : nourriture. (Cf. all. Futter, angl. fodder).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        extrémité du champ où les chevaux tournent au cours du labour, et qui sera ensuite labourée en travers ; lisière de champ souvent marquée d'un fossé. Patronyme.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : forière : pâturage, lieu de pâturage en lisière, fenil (début XIIIe), du francique fodar : nourriture. (Cf. all. Futter, angl. fodder).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FORT</orth>
+    </form>
+    <gramGrp>
+      <pos>adv.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        In a fait fort : on a mangé et bu plus que de raison. &quot; Ch' n'est point pasqué t'as fait fort i n'y a huit jours qu'i faut chi faire el' fine bouque &quot; (RD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>In a fait fort : on a mangé et bu plus que de raison. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ch' n'est point pasqué t'as fait fort i n'y a huit jours qu'i faut chi faire el' fine bouque &quot; (RD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FOS</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        fois. Ç' fos-chi, ç' fos-là : cette fois-ci, cette fois-là. (Voir : cop). ANC. : &quot; Un n' va mi jué qu'eun' fôs l' semaingne &quot; (Fl, F, XVIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        fois. Ç' fos-chi, ç' fos-là : cette fois-ci, cette fois-là. (Voir : cop).
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fois</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : &quot; Un n' va mi jué qu'eun' fôs l' semaingne &quot; (Fl, F, XVIIe).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FOSSART</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        fossé. A Val., le quartier du Fossart avec les rues du Grand-Fossart et du Petit-Fossart.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        fossé. A Val., le quartier du Fossart avec les rues du Grand-Fossart et du Petit-Fossart.
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fossé</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Fosse</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>puits de mine (de charbon) ;</quote>
+    </def>
+    <def label="française">
+      <quote>puits de mine (de charbon) ;</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Foss(e)lette</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        creux de la nuque. &quot; Posé crân'mint ed'sus s' foss'lette, / Un béguin d' toil' li couvre el tiête &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>creux de la nuque. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Posé crân'mint ed'sus s' foss'lette, / Un béguin d' toil' li couvre el tiête &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Fossier</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        fossoyeur. &quot; Quand l' fossier m'ara mis à plache &quot; (PB). ANC. : m. sens (God.).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>fossoyeur. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fossoyeur</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Quand l' fossier m'ara mis à plache &quot; (PB). </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : m. sens (God.).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FOUANT</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        taupe. Noir comme un fouant = très sale. Cras comme un fouant = gros et gras. &quot; (Les mineurs) Ont eu l' corache ed creuser l' tierre / Et s'y infoncer mieux qu' des fouans &quot; (JM). &quot; J' sus mat' d'êt' dins les tros... / Creusant comme un jouan &quot; (PM). ANC. : foant, fouant : taupe (Renart le Novel, 1288), de fouir ; lat. pop. : fodire. (Voir : fouir).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        taupe. Noir comme un fouant = très sale. Cras comme un fouant = gros et gras.
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">taupe</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : foant, fouant : taupe (Renart le Novel, 1288), de fouir ; lat. pop. : fodire. (Voir : fouir).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Fouandière</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>taupinière. (Voir: mutierne).</quote>
+    </def>
+    <def label="française">
+      <quote>taupinière. (Voir: mutierne).</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">taupinière</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FOUFFES</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f. pl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        chiffons. &quot; Avec leus secs carcass's vêtues / Ed fouff's sans nom, tout in morciaux &quot; (JM). Faire ses fouffes : faire de bonnes affaires. &quot; Ch' n'est mie supernant qu'in quéqu' temps y a séü fair' ses fouff', comm' on dit &quot; (JQ). Fouffe, au sing. : fille publique (GH).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>chiffons. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">chiffons</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Faire ses fouffes : faire de bonnes affaires. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Fouffe, au sing. : fille publique (GH).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Avec leus secs carcass's vêtues / Ed fouff's sans nom, tout in morciaux &quot; (JM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ch' n'est mie supernant qu'in quéqu' temps y a séü fair' ses fouff', comm' on dit &quot; (JQ).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Fouf(fe)tier</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>chiffonnier, personne brouillonne.</quote>
+    </def>
+    <def label="française">
+      <quote>chiffonnier, personne brouillonne.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">chiffonnier</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Fouf(fe)ter (AH)</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>travailler vite et mal, comme un fouffetier.</quote>
+    </def>
+    <def label="française">
+      <quote>travailler vite et mal, comme un fouffetier.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Fouf(fe)tries</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f. pl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>vieux vêtements.</quote>
+    </def>
+    <def label="française">
+      <quote>vieux vêtements.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FOUFIELLE ou FOURFÈLE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        émoi. Et' tout à l' foufielle, ou in foufielle : être troublé, nerveux, parce qu'on doit se hâter (voir : éfoufié). &quot; ... ti, t'aras d' mes nouvelles / S'écri' l' propriétaire, aussi tout à l' foufielle &quot; (JM). &quot; Quand ch'est l' premier (infant), in est tout in foufielle &quot; (PP). &quot; La mère de Caracol rentrait tout en fourfèle, je veux dire tout en émoi &quot; (CD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        émoi. Et' tout à l' foufielle, ou in foufielle : être troublé, nerveux, parce qu'on doit se hâter (voir : éfoufié).
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">émoi</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">nerveux</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FOUFRAIN</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        courte-paille, résidus de battage. &quot; J'ai vu, d'sus l' foufrain, / Tout riant, un p'tit quinquin &quot; (JD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>courte-paille, résidus de battage. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J'ai vu, d'sus l' foufrain, / Tout riant, un p'tit quinquin &quot; (JD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FOUGNER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        FOUNIER, v. : creuser, fouiller. &quot; In fougnant d'zous au pus avant &quot; (JM). ANC. : foer, foir : fouir, bêcher (Psautier de Cambridge, déb. XIIe). Foillier : fouiller (Coutumes de Beauvaisis, Beaumanoir, 1283).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>FOUNIER, v. : creuser, fouiller. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fouiller</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; In fougnant d'zous au pus avant &quot; (JM). </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : foer, foir : fouir, bêcher (Psautier de Cambridge, déb. XIIe). Foillier : fouiller (Coutumes de Beauvaisis, Beaumanoir, 1283).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Fougnousse</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>founiousse (AH), s. f. : femme négligée.</quote>
+    </def>
+    <def label="française">
+      <quote>founiousse (AH), s. f. : femme négligée.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* FOUIR</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        bêcher. &quot; All' li faïsot prindre el louchet / Et l'inveyot fouir es tierre &quot; (JM). ANC. : m. orig. que fougner, du lat. pop. fodire. (Voir : fouant).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>bêcher. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">bêcher</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; All' li faïsot prindre el louchet / Et l'inveyot fouir es tierre &quot; (JM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : m. orig. que fougner, du lat. pop. fodire. (Voir : fouant).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Fouissage</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        bêchage. &quot; Vot' gardin n'est point rintouré : / In a v'nu voler m' fouissache &quot; (JM). (Phon. fuizache : Vx Condé).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>bêchage. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">bêchage</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Phon. fuizache : Vx Condé).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Vot' gardin n'est point rintouré : / In a v'nu voler m' fouissache &quot; (JM). (
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FOUNE (ÊTRE ED)</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : être fauché, sans argent (RD). &quot; J'sus d'foune : j'nai pus enne qu'nique &quot; (je n'ai plus une bille).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>: être fauché, sans argent (RD). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J'sus d'foune : j'nai pus enne qu'nique &quot; (je n'ai plus une bille).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FOURBOU(RG) ou FAURBOU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        faubourg. &quot; J'resse au Fourbou &quot; : j'habite au faubourg (de Paris, à Valenciennes). &quot; Les bonn's parties d' plaisi qu' j'ai eues au Faurbou d' Cambrai &quot; (JO).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>faubourg. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">faubourg</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J'resse au Fourbou &quot; : j'habite au faubourg (de Paris, à Valenciennes).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Les bonn's parties d' plaisi qu' j'ai eues au Faurbou d' Cambrai &quot; (JO).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Fourbout(e)rie</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>métairie (installée dans les faubourgs).</quote>
+    </def>
+    <def label="française">
+      <quote>métairie (installée dans les faubourgs).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Fourboutier</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        maraîcher des faubourgs. &quot; Ch'étot à propos dé l' fille à Ursule, el fourboutière du Marais &quot; (RD). &quot; Les fourbouyères, leurs pipes et leurs bourriques / Dévalaient sur Arras, la ville aux toits follets &quot; (Verlaine, 1889 : dans une lettre du 24 janvier 1889, Paul Verlaine demandait à son ami artésien Irénée Decroix comment s'écrit ce mot patois désignant ces maraîchères d'Achicourt allant au marché d'Arras sur leur bourriquot, la pipe à la bouche). ANC. : fors bourc, forbourc : en dehors du bourg (voir : foque, fors que) (Geste des Loherins, fin XIIe). L'altération faubourg (croisement avec faux) est du XIVe.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>maraîcher des faubourgs. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        Verlaine, 1889 : dans une lettre du 24 janvier 1889, Paul Verlaine demandait à son ami artésien Irénée Decroix comment s'écrit ce mot patois désignant ces maraîchères d'Achicourt allant au marché d'Arras sur leur bourriquot, la pipe à la bouche).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ch'étot à propos dé l' fille à Ursule, el fourboutière du Marais &quot; (RD).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Les fourbouyères, leurs pipes et leurs bourriques / Dévalaient sur Arras, la ville aux toits follets &quot; (
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : fors bourc, forbourc : en dehors du bourg (voir : foque, fors que) (Geste des Loherins, fin XIIe). L'altération faubourg (croisement avec faux) est du XIVe.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FOURCHETTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        Marquer à l' fourchette : demander à un débiteur plus qu'il ne doit. Jadis, les boulangers marquaient l'achat de chaque miche par un cran, fait d'un seul trait de couteau, sur deux barres de bois (taille) dont l'une était gardée par le client. A la quinzaine, après paiement, on enlevait les crans en raclant les tailles. Les clients accusaient parfois le boulanger de marquer à la fourchette (au lieu du couteau), c'est-à-dire de faire quatre crans pour un. &quot; Pus d'un cabar'tier malhonnête / Augmeintot s' bénéfice in marquant à l' fourchette &quot; (PB).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        Marquer à l' fourchette : demander à un débiteur plus qu'il ne doit. Jadis, les boulangers marquaient l'achat de chaque miche par un cran, fait d'un seul trait de couteau, sur deux barres de bois (taille) dont l'une était gardée par le client. A la quinzaine, après paiement, on enlevait les crans en raclant les tailles. Les clients accusaient parfois le boulanger de marquer à la fourchette (au lieu du couteau), c'est-à-dire de faire quatre crans pour un.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Pus d'un cabar'tier malhonnête / Augmeintot s' bénéfice in marquant à l' fourchette &quot; (PB).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FOURDRAINE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        prunelle (fruit). &quot; Alle est rèche comme eune fourdraine &quot; (GH) = c'est une femme revêche. &quot; J' t'aime comme eune fourdraine au tro dé m' cul &quot; (GH) = tu m'es indifférent.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>prunelle (fruit). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Alle est rèche comme eune fourdraine &quot; (GH) = c'est une femme revêche.
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J' t'aime comme eune fourdraine au tro dé m' cul &quot; (GH) = tu m'es indifférent.
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FOURFÈLE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : foufielle).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : foufielle).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FOURFETTER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - fourgonner, fouiller. &quot; Et il se met à fourféter dans les serrures &quot; (FP). &quot; I fourfette / Dins l'armoir', pou trouver d' quoi mainger tranquill'mint &quot; (PB).
+      </quote>
+      <quote>
+        2 - s'annoncer par un bruit léger. &quot; Sous l'gaillette, / L' gaz fourfette &quot; (JM). ANC. : (voir : fournaquer).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - fourgonner, fouiller. </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fouiller</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Et il se met à fourféter dans les serrures &quot; (FP). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I fourfette / Dins l'armoir', pou trouver d' quoi mainger tranquill'mint &quot; (PB).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : (voir : fournaquer).</quote>
+    </etym>
+    <def label="française">
+      <quote>2 - s'annoncer par un bruit léger. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Sous l'gaillette, / L' gaz fourfette &quot; (JM). </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : (voir : fournaquer).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FOURMICHE ou FOURMISSE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        fourmi. &quot; J'ai tout l'air d'eun' fourmich' qui pousse un morciau d' chuque &quot; (JM). &quot; Ein' fourmiss' s'incoeurt à travers mes vers &quot; (JD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>fourmi. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fourmi</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J'ai tout l'air d'eun' fourmich' qui pousse un morciau d' chuque &quot; (JM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Ein' fourmiss' s'incoeurt à travers mes vers &quot; (JD).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Fourmisière</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        fourmilière ; grande foule. &quot; Y-a tant d' geins qui z'y vont... Ch'tot eun' vraie fourmisière &quot; (JQ).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>fourmilière ; grande foule. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fourmilière</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Y-a tant d' geins qui z'y vont... Ch'tot eun' vraie fourmisière &quot; (JQ).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FOURNAQUER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        fouiller, fureter. &quot; Un jour, in fournaquant dins l' guernier dé m' grand-père, / J' quet sur un parchemin &quot; (AD). ANC. : four
+      </quote>
+    </def>
+    <def label="française">
+      <quote>fouiller, fureter. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fouiller</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fureter</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Un jour, in fournaquant dins l' guernier dé m' grand-père, / J' quet sur un parchemin &quot; (AD).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : four </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FOURNIAU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        fourneau. &quot; Les hauts-fourniaux lanc'nt leur feumière &quot; (GF).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>fourneau. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fourneau</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Les hauts-fourniaux lanc'nt leur feumière &quot; (GF).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FOURQUE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        fourche (à deux dents). &quot; L'égoïss' s'ra piqué pa l' fourque ed Luchifer &quot; (JM). ANC. : forc : fourche, fourchure (le Roman d'Eneas, 1160), du lat. pop. furcum.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>fourche (à deux dents). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; L'égoïss' s'ra piqué pa l' fourque ed Luchifer &quot; (JM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : forc : fourche, fourchure (le Roman d'Eneas, 1160), du lat. pop. furcum.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Fourquet</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        fourche à quatre dents, plus courte et plus lourde que la fourque. &quot; Mé v'là chi tout crombi comme un fier ed fourqué &quot; (PM). &quot; Ichi, in n'sé sert pour ainsi dire point des fourquets d' bos &quot; (RD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        fourche à quatre dents, plus courte et plus lourde que la fourque.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Mé v'là chi tout crombi comme un fier ed fourqué &quot; (PM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ichi, in n'sé sert pour ainsi dire point des fourquets d' bos &quot; (RD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Fourquette</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        fourche, génér. en bois, utilisée pour faire la litière des animaux (GD). ANC. : &quot; (I) les rencacheroy san pelle ne fourquette &quot; (Fl, E, 1634).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        fourche, génér. en bois, utilisée pour faire la litière des animaux (GD).
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fourche</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : &quot; (I) les rencacheroy san pelle ne fourquette &quot; (Fl, E, 1634).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Fourqueux</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>ouvrier travaillant avec une fourche.</quote>
+    </def>
+    <def label="française">
+      <quote>ouvrier travaillant avec une fourche.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* FOURRIÈRE (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        claie suspendue dans l'écurie et sur laquelle on dépose le fourrage. ANC. : (voir : forière).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        claie suspendue dans l'écurie et sur laquelle on dépose le fourrage.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : (voir : forière).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FOURSÈQUER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        dessécher. &quot; Tein morciau (d' viande) i va êt' dur comme du bos. Cha fait tros quarts d'heure qu'i foursèque &quot; (RD). S' fourséquer : s'enfermer chez soi. &quot; &quot; N' faut point non pus s' fourséquer dins s' cambuse &quot; (JM). ANC. : for (préf. intensif)
+      </quote>
+    </def>
+    <def label="française">
+      <quote>dessécher. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">dessécher</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>S' fourséquer : s'enfermer chez soi. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>N' faut point non pus s' fourséquer dins s' cambuse </quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Tein morciau (d' viande) i va êt' dur comme du bos. Cha fait tros quarts d'heure qu'i foursèque &quot; (RD).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; &quot; </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : for (préf. intensif) </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FOURSIN</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        amas de petits vers, de petits poissons sortant de l'oeuf ; nichée de poussins. &quot; Cha pullule et cha groulle / Comme un foursin d' guernoulles &quot; (JM). ANC. : fourser : frayer, naître (en parlant de poissons) (Renart le Novel, 1288).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        amas de petits vers, de petits poissons sortant de l'oeuf ; nichée de poussins.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Cha pullule et cha groulle / Comme un foursin d' guernoulles &quot; (JM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : fourser : frayer, naître (en parlant de poissons) (Renart le Novel, 1288).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FOURTIEZ (BD)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>fourche à quatre dents, (Voir : fourquet).</quote>
+    </def>
+    <def label="française">
+      <quote>fourche à quatre dents, (Voir : fourquet).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FOUSTIQUER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        remuer, fourgonner avec un bâton, un outil. &quot; ... del grande escoupe, ej' foustiqu' dins l' carbon &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>remuer, fourgonner avec un bâton, un outil. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">remuer</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FOUTEUX D' GINS</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        railleur, moqueur. &quot; Bon sang d' diape ! T'as l'air d'un guerrier indien jivaros ! - Fouteux d' gins ! &quot; (RD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>railleur, moqueur. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">railleur</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">moqueur</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Bon sang d' diape ! T'as l'air d'un guerrier indien jivaros ! - Fouteux d' gins ! &quot; (RD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FRAC</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : fric).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : fric).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FRA</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim"/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* FRANC</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        ; fém. : FRANQUE : effronté, audacieux. &quot; J'sus dév'nu franc comme un miss'ron &quot; (GF). &quot; L' pauv' Cafougnette n'a pas l'air franc. / I s' tient dins un coin in trannant &quot; (JM). &quot; Titine, fèle comme eune balle et franque comme eune doyenne, alle s'in va anginer Flavie &quot; (PP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote> ; fém. : FRANQUE : effronté, audacieux. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">audacieux</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; J'sus dév'nu franc comme un miss'ron &quot; (GF). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; L' pauv' Cafougnette n'a pas l'air franc. / I s' tient dins un coin in trannant &quot; (JM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Titine, fèle comme eune balle et franque comme eune doyenne, alle s'in va anginer Flavie &quot; (PP).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* Franchise</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        audace, assurance. &quot; L' pauv' gamin n'avot point d' franchise, / F'sant ç' commerc' là pou l' premier cop &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>audace, assurance. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">audace</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">assurance</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; L' pauv' gamin n'avot point d' franchise, / F'sant ç' commerc' là pou l' premier cop &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Franc-picard</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote> ; franc-picarte, s. f. : effronté(e).</quote>
+    </def>
+    <def label="française">
+      <quote> ; franc-picarte, s. f. : effronté(e).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FRANE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        frêne (arbre). ANC. : fraine (Ch. de Roland, 1080) du lat. fraxinus.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>frêne (arbre). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : fraine (Ch. de Roland, 1080) du lat. fraxinus.</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FRÉCHAU (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>terrain marécageux.</quote>
+    </def>
+    <def label="française">
+      <quote>terrain marécageux.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FREIND(R)E</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        diminuer de volume par évaporation ou dessèchement. &quot; Em' bouli i-a freint un rude cop &quot;. ANC. : Le fr. n'a gardé que le déverbal freinte (perte de volume ou de poids subie par certaines marchandises pendant la fabrication ou le transport), pour frainte : du part. pas. du vx v. fraindre (briser) ; lat. frangere. Le GLL cependant admet freindre = diminuer de volume, pour les céréales engrangées (
+      </quote>
+    </def>
+    <def label="française">
+      <quote>diminuer de volume par évaporation ou dessèchement. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Em' bouli i-a freint un rude cop &quot;. </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : Le fr. n'a gardé que le déverbal freinte (perte de volume ou de poids subie par certaines marchandises pendant la fabrication ou le transport), pour frainte : du part. pas. du vx v. fraindre (briser) ; lat. frangere. Le GLL cependant admet freindre = diminuer de volume, pour les céréales engrangées (
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FREINTEUX</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        galibot chargé de freiner la poulie d'un plan incliné (mines). &quot; Futé freinteur, hiercheux habile, / Vont s'in donner à tour dé bras &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>galibot chargé de freiner la poulie d'un plan incliné (mines). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Futé freinteur, hiercheux habile, / Vont s'in donner à tour dé bras &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FRÉLEUX</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>frileux.</quote>
+    </def>
+    <def label="française">
+      <quote>frileux.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">frileux</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FREMER ou FRUMER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        fermer. &quot; Quand les portes sont fremées, in n' sait point chu qui s' passe dins les masons &quot; (GH) = les apparences sont souvent trompeuses. &quot; J' n'ai point cor réussi à frumer l'oeul &quot; (RD). ANC. : &quot; Et ot l'escu au col et le heaume fremé &quot; (Doon de Mayence, XIIIe). &quot; J'ay le coeur tou freumé, je su horiment triste &quot; (Fl, S, 1648).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>fermer. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fermer</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Quand les portes sont fremées, in n' sait point chu qui s' passe dins les masons &quot; (GH) = les apparences sont souvent trompeuses.
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; J' n'ai point cor réussi à frumer l'oeul &quot; (RD). </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : &quot; Et ot l'escu au col et le heaume fremé &quot; (Doon de Mayence, XIIIe). &quot; J'ay le coeur tou freumé, je su horiment triste &quot; (Fl, S, 1648).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FRÉQUENTER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        v. intr. : être fiancé(e). &quot; Quand on dit ainsi fréquenter, sans préciser ni qui, ni quoi, c'est clair, elle va partir &quot; (AS).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>v. intr. : être fiancé(e). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Quand on dit ainsi fréquenter, sans préciser ni qui, ni quoi, c'est clair, elle va partir &quot; (AS).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FRÈRE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : barbette).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : barbette).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FRESSE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        fressure, ensemble des gros viscères d'un animal de boucherie : coeur, foie, poumons. Dé l' fresse ed viau. (Voir : frigalette).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        fressure, ensemble des gros viscères d'un animal de boucherie : coeur, foie, poumons. Dé l' fresse ed viau. (Voir : frigalette).
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fressure</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">foie</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">poumons</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FRÈTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - crête, élévation de terrain le long d'un fossé qui borde un champ. &quot; In s'assit au bord dé l'frète qui longe l'tiot fossé &quot; (ALec).
+      </quote>
+      <quote>
+        2 - passage pratiqué dans un talus (AH). ANC : freste : sommet (les Aliscans, fin XIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        1 - crête, élévation de terrain le long d'un fossé qui borde un champ.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; In s'assit au bord dé l'frète qui longe l'tiot fossé &quot; (ALec).
+      </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>
+        2 - passage pratiqué dans un talus (AH). ANC : freste : sommet (les Aliscans, fin XIIe).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FREUSSE (FAIRE)</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: faire l'école buissonnière (Bruay, Condé, etc.).</quote>
+    </def>
+    <def label="française">
+      <quote>: faire l'école buissonnière (Bruay, Condé, etc.).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FRIAND-BATTANT</orth>
+    </form>
+    <gramGrp>
+      <pos>loc. adv.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        vivement, gaillardement. Arriver friand-battant. &quot; Ma man lum'chonne, malgré s' grand âche... s'in va friand-battant &quot; (EM). ANC. : friand, adj. : vif, ardent (13e)
+      </quote>
+    </def>
+    <def label="française">
+      <quote>vivement, gaillardement. Arriver friand-battant. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">vivement</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">gaillardement</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ma man lum'chonne, malgré s' grand âche... s'in va friand-battant &quot; (EM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : friand, adj. : vif, ardent (13e) </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FRIC</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : &quot; Quand ch'n'est point fric, ch'est frac &quot; = quand ce n'est pas ceci, c'est cela (ennui, désir, etc.).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>: </quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Quand ch'n'est point fric, ch'est frac &quot; = quand ce n'est pas ceci, c'est cela (ennui, désir, etc.).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FRICASSE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        fricassée (Voir : fristouille) ; plat de viande et de légumes bouillis. &quot; Si n'y a point d' rôti, n'y ara toudis dé l'fricasse &quot; (GF).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        fricassée (Voir : fristouille) ; plat de viande et de légumes bouillis.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Si n'y a point d' rôti, n'y ara toudis dé l'fricasse &quot; (GF).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FRIGALETTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        fresse d'un cochon de lait. ANC. : on retrouve, mieux que dans fresse, le bas-lat. frixare : frire. God. donne frigaler : faire bonne chère.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>fresse d'un cochon de lait. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : on retrouve, mieux que dans fresse, le bas-lat. frixare : frire. God. donne frigaler : faire bonne chère.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FRINCHE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        frange. &quot; Mais s' main all' sé perd dins les frinches &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>frange. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">frange</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Mais s' main all' sé perd dins les frinches &quot; (JM).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FRIOLER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        frémir, commencer à frire, à bouillir. ANC. : frioler, fréquentatif de frire (J. de Meung, XIIIe). En fr., on a gardé : affrioler.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>frémir, commencer à frire, à bouillir. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">frémir</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : frioler, fréquentatif de frire (J. de Meung, XIIIe). En fr., on a gardé : affrioler.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FRION</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        verdier (oiseau). (Voir : gris-frion, vert-frion). Galantin (GH). ANC. : frion : linotte, verdier (Jehan de Condé, XIVe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        verdier (oiseau). (Voir : gris-frion, vert-frion). Galantin (GH).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : frion : linotte, verdier (Jehan de Condé, XIVe).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FRISETTE (FAIRE) (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: faire l'amour.</quote>
+    </def>
+    <def label="française">
+      <quote>: faire l'amour.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FRISOU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>1 - frisette (de cheveux). </quote>
+      <quote>
+        2 - allemand (péj.). &quot; T' n'os'ros pas, j'in sus sûr / Aller rir' des frisons in plein' Kommandantur ! &quot; (EM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - frisette (de cheveux). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>2 - allemand (péj.). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; T' n'os'ros pas, j'in sus sûr / Aller rir' des frisons in plein' Kommandantur ! &quot; (EM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FRISQUE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        fraîcheur un peu vive ; adj. : frais. &quot; Il rencontra au marché une jeune et jolie beurrière, frisque comme une première gelottée &quot; (CD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>fraîcheur un peu vive ; adj. : frais. </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">adj</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Il rencontra au marché une jeune et jolie beurrière, frisque comme une première gelottée &quot; (CD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Frisquette ou friquette</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        jeune fille vive, fraîche. ANC. : moy. néerl. frisc : frais, qui a donné frisch en flamand, frisque en wallon et frisquet en fr. On trouve encore frisque en fr. au XVIIe. &quot; Dix jeunes femmes, frisques... &quot; (La Fontaine).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>jeune fille vive, fraîche. </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fraîche</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : moy. néerl. frisc : frais, qui a donné frisch en flamand, frisque en wallon et frisquet en fr. On trouve encore frisque en fr. au XVIIe. &quot; Dix jeunes femmes, frisques... &quot; (La Fontaine).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FRISS'TÉ-FROUSSE (JM)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        conversation sans intérêt. &quot; Va, j' n'ai pas b'soin d' tes friss'té-frousses : / Laiss'-min m' prom'ner tout à la douce &quot;.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>conversation sans intérêt. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Va, j' n'ai pas b'soin d' tes friss'té-frousses : / Laiss'-min m' prom'ner tout à la douce &quot;.
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FRISTOULLE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        fricassée. &quot; J' mettras dé l' viande eddins m' fristoulle / Et té fin pourléqu'ros tes dogts &quot; (GF). (Voir : fricasse). ANC. : peut-être un croisement entre fricassée et ratatouille (mais pas avec frichti, ce mot n'étant attesté en fr. qu'en 1855, alors que fristoulle figure chez GH en 1834).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>fricassée. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fricassée</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Voir : fricasse). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J' mettras dé l' viande eddins m' fristoulle / Et té fin pourléqu'ros tes dogts &quot; (GF). (
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : peut-être un croisement entre fricassée et ratatouille (mais pas avec frichti, ce mot n'étant attesté en fr. qu'en 1855, alors que fristoulle figure chez GH en 1834).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FROD</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        et adj. : froid &quot; (Les masques) S'in vont à pas pressés, car el frod les inclife &quot; (JD). &quot; S' femme arrive, à l' presse / Pou l'avertir qué sin bisteck est frod &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote> et adj. : froid </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Frodure</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        froid, froidure. &quot; Reinte et frume el porte, i fait enne frodure bleue ! &quot; (RD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>froid, froidure. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">froid</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">froidure</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Reinte et frume el porte, i fait enne frodure bleue ! &quot; (RD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FROÏON ou FROGNON</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        échauffement de la face interne des cuisses, de la région périnéale. &quot; J' sais faire ... / L' chiqu' pour l' mau d' dints et l'argil' pou l' frognon &quot; (JM). ANC. : froïer : frotter (Wace, 1155) du lat. fricare. (le froïon est causé par le frottement).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        échauffement de la face interne des cuisses, de la région périnéale.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J' sais faire ... / L' chiqu' pour l' mau d' dints et l'argil' pou l' frognon &quot; (JM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : froïer : frotter (Wace, 1155) du lat. fricare. (le froïon est causé par le frottement).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FRUMER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : fremer).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : fremer).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        feu. &quot; Vous jurott' qué l'fu / A pris dins tous les ménaches &quot; (JQ). &quot; Cha s'ra pire qué l' marissiau dains eune payelle quaind in l' met su l' fu &quot; (FP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>feu. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">feu</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Vous jurott' qué l'fu / A pris dins tous les ménaches &quot; (JQ).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Cha s'ra pire qué l' marissiau dains eune payelle quaind in l' met su l' fu &quot; (FP).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FUELLE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        feuille. &quot; I n' portéra pus longtemps vertés-fuelles &quot; = il n'en a plus pour longtemps, il est mourant. &quot; Té n' port'ras pus longtemps vertés-feuilles, ni vertés-pronnes, bin intindu &quot; (EM). ANC. : fuel (Miracles de St Eloi, XIIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>feuille. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">feuille</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I n' portéra pus longtemps vertés-fuelles &quot; = il n'en a plus pour longtemps, il est mourant.
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Té n' port'ras pus longtemps vertés-feuilles, ni vertés-pronnes, bin intindu &quot; (EM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : fuel (Miracles de St Eloi, XIIIe).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FUINE ou FOENE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        faîne, fruit du hêtre. &quot; Pou des nosettes ou pour eune pognée d' fouïnes / Ej' leu z'ari fait faire (hêtre). A noter que fouine et faîne viennent tous deux de fagus, fagina : le nom de l'animal est abrégé du lat. fagina meles (martre du hêtre).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>faîne, fruit du hêtre. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">faîne</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FUMELLE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        femelle. &quot; Eh bein, t' fumelle (de lapin), ch'est un mâle ! &quot; (RD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>femelle. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">femelle</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Eh bein, t' fumelle (de lapin), ch'est un mâle ! &quot; (RD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FUNQUER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - fumer, faire de la fumée. &quot; Sur un feu d' bos qui funkielle ed' résine &quot; (EM). &quot; In funquant s' boraine, y avot moïen d' parler avec l'un, avec l'aute &quot; (PP).
+      </quote>
+      <quote>
+        2 - s'impatienter. &quot; D' colère, i funque, el pauv' garchon &quot; (JM). ANC. : fungier : exhaler de la fumée (Psautier de Cambridge, déb. XIIe), du lat. fumigare.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - fumer, faire de la fumée. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Sur un feu d' bos qui funkielle ed' résine &quot; (EM). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; In funquant s' boraine, y avot moïen d' parler avec l'un, avec l'aute &quot; (PP).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : fungier : exhaler de la fumée (Psautier de Cambridge, déb. XIIe), du lat. fumigare.
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>2 - s'impatienter. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; D' colère, i funque, el pauv' garchon &quot; (JM). </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : fungier : exhaler de la fumée (Psautier de Cambridge, déb. XIIe), du lat. fumigare.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Funquart ou funqu(e)ron</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        morceau de charbon de bois mal cuit et qui fait beaucoup de fumée (GH).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        morceau de charbon de bois mal cuit et qui fait beaucoup de fumée (GH).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Funque (PMa)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        fumée, vapeur, malaise : &quot; èl' plarie qu'i-a lés funkes &quot;.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>fumée, vapeur, malaise : </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fumée</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">vapeur</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; èl' plarie qu'i-a lés funkes &quot;.</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Funqueux</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        fumeux. &quot; Mes compagnons du funqueux Val des Cynes &quot; (JD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>fumeux. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fumeux</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Mes compagnons du funqueux Val des Cynes &quot; (JD).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Funquière</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        fumée ; endroit enfumé. ANC. : fungière : fumée, vapeur (XIIe) ; funkière : fumée (God.).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>fumée ; endroit enfumé. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fumée</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : fungière : fumée, vapeur (XIIe) ; funkière : fumée (God.).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Funqûre</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        fumée. &quot; R'vénant après dins no pays d' funqûre &quot; (JD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>fumée. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fumée</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; R'vénant après dins no pays d' funqûre &quot; (JD).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FUSIAU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>fuseau.</quote>
+    </def>
+    <def label="française">
+      <quote>fuseau.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fuseau</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>FUSSIAU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - putois. &quot; Il le vit disparaître par un trou de fussiau, ou, si vous l'aimez mieux, de putois &quot; (CD).
+      </quote>
+      <quote>
+        2 - homme rusé : malin comme un fussiau. &quot; Tout fussiau qu'il étot, l' fortune li avot toudis tourné l' dos &quot; (JQ). &quot; A toi d'être assez fussiau pour en changer (de métier) &quot; (FP). &quot; Pour un ouais ou bé pour un non, v'là l' fussiau dins les poules &quot; (PP) = voilà la bagarre. &quot; Si (le bébé) a le bonheur d'un pet, c'est une &quot; vesse de fussiau &quot;, moins puant que putois &quot; (AS). ANC. : God. donne fichau (qui subsiste en Sud-Amiénois ; ou fichéau dans l'arr. de Montreuil-sur-Mer). Le fussiau semble trop malin pour nous dévoiler son étymologie. A côté de pole-cat, les Angl. disent fitchet (notre fichau). Si putois, comme l'ital. puzzola évoquent sa puanteur, l'Iltis all., le bunsing néerl., le turon esp., le skunk amer., etc., semblent symboliser la ruse de cet animal aux multiples identités : En fait, Fussiau, fichau, fitchet (ou fitchew) viennent du moy. néerl. fisse (m. sens). Plus haut, nous trouvons le lat. vissio (puanteur) qui nous a donné le ... vison, cousin du putois.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - putois. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Il le vit disparaître par un trou de fussiau, ou, si vous l'aimez mieux, de putois &quot; (CD).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : God. donne fichau (qui subsiste en Sud-Amiénois ; ou fichéau dans l'arr. de Montreuil-sur-Mer). Le fussiau semble trop malin pour nous dévoiler son étymologie. A côté de pole-cat, les Angl. disent fitchet (notre fichau). Si putois, comme l'ital. puzzola évoquent sa puanteur, l'Iltis all., le bunsing néerl., le turon esp., le skunk amer., etc., semblent symboliser la ruse de cet animal aux multiples identités : En fait, Fussiau, fichau, fitchet (ou fitchew) viennent du moy. néerl. fisse (m. sens). Plus haut, nous trouvons le lat. vissio (puanteur) qui nous a donné le ... vison, cousin du putois.
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>2 - homme rusé : malin comme un fussiau. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>vesse de fussiau </quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Tout fussiau qu'il étot, l' fortune li avot toudis tourné l' dos &quot; (JQ).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; A toi d'être assez fussiau pour en changer (de métier) &quot; (FP).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Pour un ouais ou bé pour un non, v'là l' fussiau dins les poules &quot; (PP) = voilà la bagarre.
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Si (le bébé) a le bonheur d'un pet, c'est une &quot; </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : God. donne fichau (qui subsiste en Sud-Amiénois ; ou fichéau dans l'arr. de Montreuil-sur-Mer). Le fussiau semble trop malin pour nous dévoiler son étymologie. A côté de pole-cat, les Angl. disent fitchet (notre fichau). Si putois, comme l'ital. puzzola évoquent sa puanteur, l'Iltis all., le bunsing néerl., le turon esp., le skunk amer., etc., semblent symboliser la ruse de cet animal aux multiples identités : En fait, Fussiau, fichau, fitchet (ou fitchew) viennent du moy. néerl. fisse (m. sens). Plus haut, nous trouvons le lat. vissio (puanteur) qui nous a donné le ... vison, cousin du putois.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>FUSTAILLER</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        tourneur sur bois qui fabriquait, en part., les rouets, navettes, buhots, manches d'outils. ANC. : fust : bois (Ch. de Roland, 1080), du lat. fustis : bâton, pieu.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        tourneur sur bois qui fabriquait, en part., les rouets, navettes, buhots, manches d'outils.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">navettes</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">buhots</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : fust : bois (Ch. de Roland, 1080), du lat. fustis : bâton, pieu.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Forme intierrer chez PP.</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim"/>
+  </entry>
+</TEI>

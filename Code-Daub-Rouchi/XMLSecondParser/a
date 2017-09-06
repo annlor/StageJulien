@@ -1,718 +1,599 @@
 <?xml version='1.0' encoding='utf-8'?>
-<Nomenclature>
-        <ArticleDeDictionnaire>
-        <Entrée>abaisser</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>abassier, rabassier, rabasner.</LexieEntiere>
-        <Lexie><SousLexie>abassier</SousLexie><SousLexie> rabassier</SousLexie><SousLexie> rabasner.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>abattu</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>culbuté, à l' loque.</LexieEntiere>
-        <Lexie><SousLexie>culbuté</SousLexie><SousLexie> à l' loque.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>abécédaire</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>crosette.</LexieEntiere>
-        <Lexie><SousLexie>crosette.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>ablette</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>aupièle, impièle.</LexieEntiere>
-        <Lexie><SousLexie>aupièle</SousLexie><SousLexie> impièle.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>aboulique</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>moule-cuite.</LexieEntiere>
-        <Lexie><SousLexie>moule-cuite.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>aboyer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>abeyer.</LexieEntiere>
-        <Lexie><SousLexie>abeyer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>abreuver</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>abeuvrer.</LexieEntiere>
-        <Lexie><SousLexie>abeuvrer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>abreuvoir</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>abeuvro, abuvro.</LexieEntiere>
-        <Lexie><SousLexie>abeuvro</SousLexie><SousLexie> abuvro.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>abri</Entrée>
-        <Complément>(être à l')</Complément>
-        <StructureGrammaticale>loc. v.</StructureGrammaticale>
-        <LexieEntiere>êt' au co, au coi, à l' coïette.</LexieEntiere>
-        <Lexie><SousLexie>êt' au co</SousLexie><SousLexie> au coi</SousLexie><SousLexie> à l' coïette.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>abrité</Entrée>
-        <Complément>(endroit)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>rados.</LexieEntiere>
-        <Lexie><SousLexie>rados.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>acariâtre</Entrée>
-        <Complément>(femme)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>Marie-Grognon.</LexieEntiere>
-        <Lexie><SousLexie>Marie-Grognon.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>accablé</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>flâtré, flau ; (de travail) acravinté, inforché ; (de sommeil) aplommé.</LexieEntiere>
-        <Lexie><SousLexie>flâtré</SousLexie><SousLexie> flau </SousLexie><SousLexie> (de travail) acravinté</SousLexie><SousLexie> inforché </SousLexie><SousLexie> (de sommeil) aplommé.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>accoutrer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>abistoquer, affuler, agimoler, ostrouiller, ouster.</LexieEntiere>
-        <Lexie><SousLexie>abistoquer</SousLexie><SousLexie> affuler</SousLexie><SousLexie> agimoler</SousLexie><SousLexie> ostrouiller</SousLexie><SousLexie> ouster.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>accrocher</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>agrinquer, ahoquer, ingrinquer.</LexieEntiere>
-        <Lexie><SousLexie>agrinquer</SousLexie><SousLexie> ahoquer</SousLexie><SousLexie> ingrinquer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>accroupir</Entrée>
-        <Complément>(s')</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>s'aginer, s'ajouquer, s'anicher, s'aniger ; s' mett' à croucrou, s' mett' à croupettes.</LexieEntiere>
-        <Lexie><SousLexie>s'aginer</SousLexie><SousLexie> s'ajouquer</SousLexie><SousLexie> s'anicher</SousLexie><SousLexie> s'aniger </SousLexie><SousLexie> s' mett' à croucrou</SousLexie><SousLexie> s' mett' à croupettes.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>accueillir</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>aduire, rattindre, raoucher ; mal accueillir : décacholer, rachafter.</LexieEntiere>
-        <Lexie><SousLexie>aduire</SousLexie><SousLexie> rattindre</SousLexie><SousLexie> raoucher </SousLexie><SousLexie> mal accueillir : décacholer</SousLexie><SousLexie> rachafter.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>acharner</Entrée>
-        <Complément>(s')</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>s'incarner.</LexieEntiere>
-        <Lexie><SousLexie>s'incarner.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>acheter</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>acater.</LexieEntiere>
-        <Lexie><SousLexie>acater.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>acheteur</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>acateux.</LexieEntiere>
-        <Lexie><SousLexie>acateux.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>adonis</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>brunette (plante).</LexieEntiere>
-        <Lexie><SousLexie>brunette (plante).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>adresser</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>adercher.</LexieEntiere>
-        <Lexie><SousLexie>adercher.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>adroit</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>adrot, amaniéré, subtil.</LexieEntiere>
-        <Lexie><SousLexie>adrot</SousLexie><SousLexie> amaniéré</SousLexie><SousLexie> subtil.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>aération</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>airage.</LexieEntiere>
-        <Lexie><SousLexie>airage.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>affaiblir</Entrée>
-        <Complément>(s')</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>décatir.</LexieEntiere>
-        <Lexie><SousLexie>décatir.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>affaissement</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>fondaque.</LexieEntiere>
-        <Lexie><SousLexie>fondaque.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>affalé</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>raffalé.</LexieEntiere>
-        <Lexie><SousLexie>raffalé.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>affamé</Entrée>
-        <Complément>(être)</Complément>
-        <StructureGrammaticale>loc. v.</StructureGrammaticale>
-        <LexieEntiere>clifer d' faim.</LexieEntiere>
-        <Lexie><SousLexie>clifer d' faim.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>affectueux</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>amitieux.</LexieEntiere>
-        <Lexie><SousLexie>amitieux.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>affectueusement</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adv.</StructureGrammaticale>
-        <LexieEntiere>amiteusemint.</LexieEntiere>
-        <Lexie><SousLexie>amiteusemint.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>affiquet</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>affiquo.</LexieEntiere>
-        <Lexie><SousLexie>affiquo.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>agencements</Entrée>
-        <Complément>(d'une maison)</Complément>
-        <StructureGrammaticale>s. m. pl.</StructureGrammaticale>
-        <LexieEntiere>les âgés.</LexieEntiere>
-        <Lexie><SousLexie>les âgés.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>agenouiller</Entrée>
-        <Complément>(s')</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>s'agligner.</LexieEntiere>
-        <Lexie><SousLexie>s'agligner.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>agité</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>cul-remuant, éfoufié, infoufié, vif-argint.</LexieEntiere>
-        <Lexie><SousLexie>cul-remuant</SousLexie><SousLexie> éfoufié</SousLexie><SousLexie> infoufié</SousLexie><SousLexie> vif-argint.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>agité</Entrée>
-        <Complément>(être)</Complément>
-        <StructureGrammaticale>loc. v.</StructureGrammaticale>
-        <LexieEntiere>racatourner.</LexieEntiere>
-        <Lexie><SousLexie>racatourner.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>agneau</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>anténiau, bédot.</LexieEntiere>
-        <Lexie><SousLexie>anténiau</SousLexie><SousLexie> bédot.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>agrostis</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>ménon, pleumette.</LexieEntiere>
-        <Lexie><SousLexie>ménon</SousLexie><SousLexie> pleumette.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>ahuri</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>hébreux, naïu.</LexieEntiere>
-        <Lexie><SousLexie>hébreux</SousLexie><SousLexie> naïu.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>aide</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>assistance.</LexieEntiere>
-        <Lexie><SousLexie>assistance.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>aider</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>assister, tenir el répondant.</LexieEntiere>
-        <Lexie><SousLexie>assister</SousLexie><SousLexie> tenir el répondant.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>aiguille</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>aiwuille.</LexieEntiere>
-        <Lexie><SousLexie>aiwuille.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>aiguillon</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>picot, pipi, piqueron.</LexieEntiere>
-        <Lexie><SousLexie>picot</SousLexie><SousLexie> pipi</SousLexie><SousLexie> piqueron.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>aiguiser</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>équeucher, réwisier.</LexieEntiere>
-        <Lexie><SousLexie>équeucher</SousLexie><SousLexie> réwisier.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>aimer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>avoir quer.</LexieEntiere>
-        <Lexie><SousLexie>avoir quer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>ainsi</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adv.</StructureGrammaticale>
-        <LexieEntiere>ainsin.</LexieEntiere>
-        <Lexie><SousLexie>ainsin.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>aisé</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>aisile.</LexieEntiere>
-        <Lexie><SousLexie>aisile.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>aisé</Entrée>
-        <Complément>(être)</Complément>
-        <StructureGrammaticale>loc. v.</StructureGrammaticale>
-        <LexieEntiere>avoir el moïen.</LexieEntiere>
-        <Lexie><SousLexie>avoir el moïen.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>aller</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>daller.</LexieEntiere>
-        <Lexie><SousLexie>daller.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>alliaire</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>hierbe à z'aulx.</LexieEntiere>
-        <Lexie><SousLexie>hierbe à z'aulx.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>allumette</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>alleumette, buhotte.</LexieEntiere>
-        <Lexie><SousLexie>alleumette</SousLexie><SousLexie> buhotte.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>almanach</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>arménaque.</LexieEntiere>
-        <Lexie><SousLexie>arménaque.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>alors</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adv.</StructureGrammaticale>
-        <LexieEntiere>adès.</LexieEntiere>
-        <Lexie><SousLexie>adès.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>amadouer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>amicloter.</LexieEntiere>
-        <Lexie><SousLexie>amicloter.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>ameublir</Entrée>
-        <Complément>(une terre)</Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere>affinir.</LexieEntiere>
-        <Lexie><SousLexie>affinir.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>amie</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>amisse.</LexieEntiere>
-        <Lexie><SousLexie>amisse.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>amis</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere> et f. pl. : amisses.</LexieEntiere>
-        <Lexie><SousLexie> et f. pl. : amisses.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>amour</Entrée>
-        <Complément>(faire l')</Complément>
-        <StructureGrammaticale>loc. v.</StructureGrammaticale>
-        <LexieEntiere>remonter l' horloge, biscoter, broqueter, broussier, cotronner, croquer l' pun d' capindu ; faire : frisette, quéquette, touquette ; juer : à l' basse-danse, du bilbotiau, du bricotiau, du broquelet, dé l' broquette, du carcaillou ; secouer l' pronnier ; tirer à biec.</LexieEntiere>
-        <Lexie><SousLexie>remonter l' horloge</SousLexie><SousLexie> biscoter</SousLexie><SousLexie> broqueter</SousLexie><SousLexie> broussier</SousLexie><SousLexie> cotronner</SousLexie><SousLexie> croquer l' pun d' capindu </SousLexie><SousLexie> faire : frisette</SousLexie><SousLexie> quéquette</SousLexie><SousLexie> touquette </SousLexie><SousLexie> juer : à l' basse-danse</SousLexie><SousLexie> du bilbotiau</SousLexie><SousLexie> du bricotiau</SousLexie><SousLexie> du broquelet</SousLexie><SousLexie> dé l' broquette</SousLexie><SousLexie> du carcaillou </SousLexie><SousLexie> secouer l' pronnier </SousLexie><SousLexie> tirer à biec.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>ampoule</Entrée>
-        <Complément>(cloque)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>gale, soufflette.</LexieEntiere>
-        <Lexie><SousLexie>gale</SousLexie><SousLexie> soufflette.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>amuser</Entrée>
-        <Complément>(quelqu'un)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>arluser ; s'amuser : s'arlusier, s'erlusier, faire jeujeute, jingler, lusoter.</LexieEntiere>
-        <Lexie><SousLexie>arluser </SousLexie><SousLexie> s'amuser : s'arlusier</SousLexie><SousLexie> s'erlusier</SousLexie><SousLexie> faire jeujeute</SousLexie><SousLexie> jingler</SousLexie><SousLexie> lusoter.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>amusette</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>arlusette.</LexieEntiere>
-        <Lexie><SousLexie>arlusette.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>andain</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>ondaine.</LexieEntiere>
-        <Lexie><SousLexie>ondaine.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>anémie</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>sang d' pisson, sang d' naviau.</LexieEntiere>
-        <Lexie><SousLexie>sang d' pisson</SousLexie><SousLexie> sang d' naviau.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>angélique</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>panasse (plante).</LexieEntiere>
-        <Lexie><SousLexie>panasse (plante).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>angine</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>angile.</LexieEntiere>
-        <Lexie><SousLexie>angile.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>anguille</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>anwuille.</LexieEntiere>
-        <Lexie><SousLexie>anwuille.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>animation</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>arlache.</LexieEntiere>
-        <Lexie><SousLexie>arlache.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>apaiser</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>rapager, rapasier.</LexieEntiere>
-        <Lexie><SousLexie>rapager</SousLexie><SousLexie> rapasier.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>apparence</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>déhors.</LexieEntiere>
-        <Lexie><SousLexie>déhors.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>appendicite</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>coliques miserere.</LexieEntiere>
-        <Lexie><SousLexie>coliques miserere.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>appentis</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>abattis, rabattu.</LexieEntiere>
-        <Lexie><SousLexie>abattis</SousLexie><SousLexie> rabattu.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>apprenti</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>aclopin, galibot.</LexieEntiere>
-        <Lexie><SousLexie>aclopin</SousLexie><SousLexie> galibot.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>approfondir</Entrée>
-        <Complément>(un puits)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>ravaler.</LexieEntiere>
-        <Lexie><SousLexie>ravaler.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>appui</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>appoïette.</LexieEntiere>
-        <Lexie><SousLexie>appoïette.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>arabe</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>tchouc-tchouc.</LexieEntiere>
-        <Lexie><SousLexie>tchouc-tchouc.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>arabesques</Entrée>
-        <Complément>(dans le sable)</Complément>
-        <StructureGrammaticale>s. m. pl.</StructureGrammaticale>
-        <LexieEntiere>romarins.</LexieEntiere>
-        <Lexie><SousLexie>romarins.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>arbre</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
+<TEI>
+        <entry>
+        <form><orth>abaisser</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>abassier, rabassier, rabasner.</quote></def>
+        <cit type="translation"><quote>abassier</quote><quote> rabassier</quote><quote> rabasner.</quote></cit>
+      </entry><entry>
+        <form><orth>abattu</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>culbuté, à l' loque.</quote></def>
+        <cit type="translation"><quote>culbuté</quote><quote> à l' loque.</quote></cit>
+      </entry><entry>
+        <form><orth>abécédaire</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>crosette.</quote></def>
+        <cit type="translation"><quote>crosette.</quote></cit>
+      </entry><entry>
+        <form><orth>ablette</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>aupièle, impièle.</quote></def>
+        <cit type="translation"><quote>aupièle</quote><quote> impièle.</quote></cit>
+      </entry><entry>
+        <form><orth>aboulique</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>moule-cuite.</quote></def>
+        <cit type="translation"><quote>moule-cuite.</quote></cit>
+      </entry><entry>
+        <form><orth>aboyer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>abeyer.</quote></def>
+        <cit type="translation"><quote>abeyer.</quote></cit>
+      </entry><entry>
+        <form><orth>abreuver</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>abeuvrer.</quote></def>
+        <cit type="translation"><quote>abeuvrer.</quote></cit>
+      </entry><entry>
+        <form><orth>abreuvoir</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>abeuvro, abuvro.</quote></def>
+        <cit type="translation"><quote>abeuvro</quote><quote> abuvro.</quote></cit>
+      </entry><entry>
+        <form><orth>abri</orth><Complément>(être à l')</Complément></form>
+        <gramGrp><pos>loc. v.</pos></gramGrp>
+        <def><quote>êt' au co, au coi, à l' coïette.</quote></def>
+        <cit type="translation"><quote>êt' au co</quote><quote> au coi</quote><quote> à l' coïette.</quote></cit>
+      </entry><entry>
+        <form><orth>abrité</orth><Complément>(endroit)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>rados.</quote></def>
+        <cit type="translation"><quote>rados.</quote></cit>
+      </entry><entry>
+        <form><orth>acariâtre</orth><Complément>(femme)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>Marie-Grognon.</quote></def>
+        <cit type="translation"><quote>Marie-Grognon.</quote></cit>
+      </entry><entry>
+        <form><orth>accablé</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>flâtré, flau ; (de travail) acravinté, inforché ; (de sommeil) aplommé.</quote></def>
+        <cit type="translation"><quote>flâtré</quote><quote> flau </quote><quote> (de travail) acravinté</quote><quote> inforché </quote><quote> (de sommeil) aplommé.</quote></cit>
+      </entry><entry>
+        <form><orth>accoutrer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>abistoquer, affuler, agimoler, ostrouiller, ouster.</quote></def>
+        <cit type="translation"><quote>abistoquer</quote><quote> affuler</quote><quote> agimoler</quote><quote> ostrouiller</quote><quote> ouster.</quote></cit>
+      </entry><entry>
+        <form><orth>accrocher</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>agrinquer, ahoquer, ingrinquer.</quote></def>
+        <cit type="translation"><quote>agrinquer</quote><quote> ahoquer</quote><quote> ingrinquer.</quote></cit>
+      </entry><entry>
+        <form><orth>accroupir</orth><Complément>(s')</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>s'aginer, s'ajouquer, s'anicher, s'aniger ; s' mett' à croucrou, s' mett' à croupettes.</quote></def>
+        <cit type="translation"><quote>s'aginer</quote><quote> s'ajouquer</quote><quote> s'anicher</quote><quote> s'aniger </quote><quote> s' mett' à croucrou</quote><quote> s' mett' à croupettes.</quote></cit>
+      </entry><entry>
+        <form><orth>accueillir</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>aduire, rattindre, raoucher ; mal accueillir : décacholer, rachafter.</quote></def>
+        <cit type="translation"><quote>aduire</quote><quote> rattindre</quote><quote> raoucher </quote><quote> mal accueillir : décacholer</quote><quote> rachafter.</quote></cit>
+      </entry><entry>
+        <form><orth>acharner</orth><Complément>(s')</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>s'incarner.</quote></def>
+        <cit type="translation"><quote>s'incarner.</quote></cit>
+      </entry><entry>
+        <form><orth>acheter</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>acater.</quote></def>
+        <cit type="translation"><quote>acater.</quote></cit>
+      </entry><entry>
+        <form><orth>acheteur</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>acateux.</quote></def>
+        <cit type="translation"><quote>acateux.</quote></cit>
+      </entry><entry>
+        <form><orth>adonis</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>brunette (plante).</quote></def>
+        <cit type="translation"><quote>brunette (plante).</quote></cit>
+      </entry><entry>
+        <form><orth>adresser</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>adercher.</quote></def>
+        <cit type="translation"><quote>adercher.</quote></cit>
+      </entry><entry>
+        <form><orth>adroit</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>adrot, amaniéré, subtil.</quote></def>
+        <cit type="translation"><quote>adrot</quote><quote> amaniéré</quote><quote> subtil.</quote></cit>
+      </entry><entry>
+        <form><orth>aération</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>airage.</quote></def>
+        <cit type="translation"><quote>airage.</quote></cit>
+      </entry><entry>
+        <form><orth>affaiblir</orth><Complément>(s')</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>décatir.</quote></def>
+        <cit type="translation"><quote>décatir.</quote></cit>
+      </entry><entry>
+        <form><orth>affaissement</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>fondaque.</quote></def>
+        <cit type="translation"><quote>fondaque.</quote></cit>
+      </entry><entry>
+        <form><orth>affalé</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>raffalé.</quote></def>
+        <cit type="translation"><quote>raffalé.</quote></cit>
+      </entry><entry>
+        <form><orth>affamé</orth><Complément>(être)</Complément></form>
+        <gramGrp><pos>loc. v.</pos></gramGrp>
+        <def><quote>clifer d' faim.</quote></def>
+        <cit type="translation"><quote>clifer d' faim.</quote></cit>
+      </entry><entry>
+        <form><orth>affectueux</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>amitieux.</quote></def>
+        <cit type="translation"><quote>amitieux.</quote></cit>
+      </entry><entry>
+        <form><orth>affectueusement</orth><Complément></Complément></form>
+        <gramGrp><pos>adv.</pos></gramGrp>
+        <def><quote>amiteusemint.</quote></def>
+        <cit type="translation"><quote>amiteusemint.</quote></cit>
+      </entry><entry>
+        <form><orth>affiquet</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>affiquo.</quote></def>
+        <cit type="translation"><quote>affiquo.</quote></cit>
+      </entry><entry>
+        <form><orth>agencements</orth><Complément>(d'une maison)</Complément></form>
+        <gramGrp><pos>s. m. pl.</pos></gramGrp>
+        <def><quote>les âgés.</quote></def>
+        <cit type="translation"><quote>les âgés.</quote></cit>
+      </entry><entry>
+        <form><orth>agenouiller</orth><Complément>(s')</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>s'agligner.</quote></def>
+        <cit type="translation"><quote>s'agligner.</quote></cit>
+      </entry><entry>
+        <form><orth>agité</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>cul-remuant, éfoufié, infoufié, vif-argint.</quote></def>
+        <cit type="translation"><quote>cul-remuant</quote><quote> éfoufié</quote><quote> infoufié</quote><quote> vif-argint.</quote></cit>
+      </entry><entry>
+        <form><orth>agité</orth><Complément>(être)</Complément></form>
+        <gramGrp><pos>loc. v.</pos></gramGrp>
+        <def><quote>racatourner.</quote></def>
+        <cit type="translation"><quote>racatourner.</quote></cit>
+      </entry><entry>
+        <form><orth>agneau</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>anténiau, bédot.</quote></def>
+        <cit type="translation"><quote>anténiau</quote><quote> bédot.</quote></cit>
+      </entry><entry>
+        <form><orth>agrostis</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>ménon, pleumette.</quote></def>
+        <cit type="translation"><quote>ménon</quote><quote> pleumette.</quote></cit>
+      </entry><entry>
+        <form><orth>ahuri</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>hébreux, naïu.</quote></def>
+        <cit type="translation"><quote>hébreux</quote><quote> naïu.</quote></cit>
+      </entry><entry>
+        <form><orth>aide</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>assistance.</quote></def>
+        <cit type="translation"><quote>assistance.</quote></cit>
+      </entry><entry>
+        <form><orth>aider</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>assister, tenir el répondant.</quote></def>
+        <cit type="translation"><quote>assister</quote><quote> tenir el répondant.</quote></cit>
+      </entry><entry>
+        <form><orth>aiguille</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>aiwuille.</quote></def>
+        <cit type="translation"><quote>aiwuille.</quote></cit>
+      </entry><entry>
+        <form><orth>aiguillon</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>picot, pipi, piqueron.</quote></def>
+        <cit type="translation"><quote>picot</quote><quote> pipi</quote><quote> piqueron.</quote></cit>
+      </entry><entry>
+        <form><orth>aiguiser</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>équeucher, réwisier.</quote></def>
+        <cit type="translation"><quote>équeucher</quote><quote> réwisier.</quote></cit>
+      </entry><entry>
+        <form><orth>aimer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>avoir quer.</quote></def>
+        <cit type="translation"><quote>avoir quer.</quote></cit>
+      </entry><entry>
+        <form><orth>ainsi</orth><Complément></Complément></form>
+        <gramGrp><pos>adv.</pos></gramGrp>
+        <def><quote>ainsin.</quote></def>
+        <cit type="translation"><quote>ainsin.</quote></cit>
+      </entry><entry>
+        <form><orth>aisé</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>aisile.</quote></def>
+        <cit type="translation"><quote>aisile.</quote></cit>
+      </entry><entry>
+        <form><orth>aisé</orth><Complément>(être)</Complément></form>
+        <gramGrp><pos>loc. v.</pos></gramGrp>
+        <def><quote>avoir el moïen.</quote></def>
+        <cit type="translation"><quote>avoir el moïen.</quote></cit>
+      </entry><entry>
+        <form><orth>aller</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>daller.</quote></def>
+        <cit type="translation"><quote>daller.</quote></cit>
+      </entry><entry>
+        <form><orth>alliaire</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>hierbe à z'aulx.</quote></def>
+        <cit type="translation"><quote>hierbe à z'aulx.</quote></cit>
+      </entry><entry>
+        <form><orth>allumette</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>alleumette, buhotte.</quote></def>
+        <cit type="translation"><quote>alleumette</quote><quote> buhotte.</quote></cit>
+      </entry><entry>
+        <form><orth>almanach</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>arménaque.</quote></def>
+        <cit type="translation"><quote>arménaque.</quote></cit>
+      </entry><entry>
+        <form><orth>alors</orth><Complément></Complément></form>
+        <gramGrp><pos>adv.</pos></gramGrp>
+        <def><quote>adès.</quote></def>
+        <cit type="translation"><quote>adès.</quote></cit>
+      </entry><entry>
+        <form><orth>amadouer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>amicloter.</quote></def>
+        <cit type="translation"><quote>amicloter.</quote></cit>
+      </entry><entry>
+        <form><orth>ameublir</orth><Complément>(une terre)</Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote>affinir.</quote></def>
+        <cit type="translation"><quote>affinir.</quote></cit>
+      </entry><entry>
+        <form><orth>amie</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>amisse.</quote></def>
+        <cit type="translation"><quote>amisse.</quote></cit>
+      </entry><entry>
+        <form><orth>amis</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote> et f. pl. : amisses.</quote></def>
+        <cit type="translation"><quote> et f. pl. : amisses.</quote></cit>
+      </entry><entry>
+        <form><orth>amour</orth><Complément>(faire l')</Complément></form>
+        <gramGrp><pos>loc. v.</pos></gramGrp>
+        <def><quote>remonter l' horloge, biscoter, broqueter, broussier, cotronner, croquer l' pun d' capindu ; faire : frisette, quéquette, touquette ; juer : à l' basse-danse, du bilbotiau, du bricotiau, du broquelet, dé l' broquette, du carcaillou ; secouer l' pronnier ; tirer à biec.</quote></def>
+        <cit type="translation"><quote>remonter l' horloge</quote><quote> biscoter</quote><quote> broqueter</quote><quote> broussier</quote><quote> cotronner</quote><quote> croquer l' pun d' capindu </quote><quote> faire : frisette</quote><quote> quéquette</quote><quote> touquette </quote><quote> juer : à l' basse-danse</quote><quote> du bilbotiau</quote><quote> du bricotiau</quote><quote> du broquelet</quote><quote> dé l' broquette</quote><quote> du carcaillou </quote><quote> secouer l' pronnier </quote><quote> tirer à biec.</quote></cit>
+      </entry><entry>
+        <form><orth>ampoule</orth><Complément>(cloque)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>gale, soufflette.</quote></def>
+        <cit type="translation"><quote>gale</quote><quote> soufflette.</quote></cit>
+      </entry><entry>
+        <form><orth>amuser</orth><Complément>(quelqu'un)</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>arluser ; s'amuser : s'arlusier, s'erlusier, faire jeujeute, jingler, lusoter.</quote></def>
+        <cit type="translation"><quote>arluser </quote><quote> s'amuser : s'arlusier</quote><quote> s'erlusier</quote><quote> faire jeujeute</quote><quote> jingler</quote><quote> lusoter.</quote></cit>
+      </entry><entry>
+        <form><orth>amusette</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>arlusette.</quote></def>
+        <cit type="translation"><quote>arlusette.</quote></cit>
+      </entry><entry>
+        <form><orth>andain</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>ondaine.</quote></def>
+        <cit type="translation"><quote>ondaine.</quote></cit>
+      </entry><entry>
+        <form><orth>anémie</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>sang d' pisson, sang d' naviau.</quote></def>
+        <cit type="translation"><quote>sang d' pisson</quote><quote> sang d' naviau.</quote></cit>
+      </entry><entry>
+        <form><orth>angélique</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>panasse (plante).</quote></def>
+        <cit type="translation"><quote>panasse (plante).</quote></cit>
+      </entry><entry>
+        <form><orth>angine</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>angile.</quote></def>
+        <cit type="translation"><quote>angile.</quote></cit>
+      </entry><entry>
+        <form><orth>anguille</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>anwuille.</quote></def>
+        <cit type="translation"><quote>anwuille.</quote></cit>
+      </entry><entry>
+        <form><orth>animation</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>arlache.</quote></def>
+        <cit type="translation"><quote>arlache.</quote></cit>
+      </entry><entry>
+        <form><orth>apaiser</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>rapager, rapasier.</quote></def>
+        <cit type="translation"><quote>rapager</quote><quote> rapasier.</quote></cit>
+      </entry><entry>
+        <form><orth>apparence</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>déhors.</quote></def>
+        <cit type="translation"><quote>déhors.</quote></cit>
+      </entry><entry>
+        <form><orth>appendicite</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>coliques miserere.</quote></def>
+        <cit type="translation"><quote>coliques miserere.</quote></cit>
+      </entry><entry>
+        <form><orth>appentis</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>abattis, rabattu.</quote></def>
+        <cit type="translation"><quote>abattis</quote><quote> rabattu.</quote></cit>
+      </entry><entry>
+        <form><orth>apprenti</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>aclopin, galibot.</quote></def>
+        <cit type="translation"><quote>aclopin</quote><quote> galibot.</quote></cit>
+      </entry><entry>
+        <form><orth>approfondir</orth><Complément>(un puits)</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>ravaler.</quote></def>
+        <cit type="translation"><quote>ravaler.</quote></cit>
+      </entry><entry>
+        <form><orth>appui</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>appoïette.</quote></def>
+        <cit type="translation"><quote>appoïette.</quote></cit>
+      </entry><entry>
+        <form><orth>arabe</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>tchouc-tchouc.</quote></def>
+        <cit type="translation"><quote>tchouc-tchouc.</quote></cit>
+      </entry><entry>
+        <form><orth>arabesques</orth><Complément>(dans le sable)</Complément></form>
+        <gramGrp><pos>s. m. pl.</pos></gramGrp>
+        <def><quote>romarins.</quote></def>
+        <cit type="translation"><quote>romarins.</quote></cit>
+      </entry><entry>
+        <form><orth>arbre</orth><Complément></Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote></quote></def>
         
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>arête</Entrée>
-        <Complément>(de poisson)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>érèque.</LexieEntiere>
-        <Lexie><SousLexie>érèque.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>argent</Entrée>
-        <Complément>(monnaie)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>argint, doupes, pexal ; argent de poche : diminche.</LexieEntiere>
-        <Lexie><SousLexie>argint</SousLexie><SousLexie> doupes</SousLexie><SousLexie> pexal </SousLexie><SousLexie> argent de poche : diminche.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>argile</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere> ; argéron, diève.</LexieEntiere>
-        <Lexie><SousLexie> </SousLexie><SousLexie> argéron</SousLexie><SousLexie> diève.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>armistice</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>amnistie.</LexieEntiere>
-        <Lexie><SousLexie>amnistie.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>armoire</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>aumaire, armoire.</LexieEntiere>
-        <Lexie><SousLexie>aumaire</SousLexie><SousLexie> armoire.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>armoise</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>hierbe ed Saint-Jean.</LexieEntiere>
-        <Lexie><SousLexie>hierbe ed Saint-Jean.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>arrérages</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m. pl.</StructureGrammaticale>
-        <LexieEntiere>arriérances.</LexieEntiere>
-        <Lexie><SousLexie>arriérances.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>arrière-grand-père</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>ratayon.</LexieEntiere>
-        <Lexie><SousLexie>ratayon.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>arrière-grand-mère</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>ratayonne.</LexieEntiere>
-        <Lexie><SousLexie>ratayonne.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>arriver</Entrée>
-        <Complément>(y)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>jurvir.</LexieEntiere>
-        <Lexie><SousLexie>jurvir.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>arroche</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>dames.</LexieEntiere>
-        <Lexie><SousLexie>dames.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>arrogant</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>fèle ; homme arrogant : roda.</LexieEntiere>
-        <Lexie><SousLexie>fèle </SousLexie><SousLexie> homme arrogant : roda.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>assassin</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>assazin, assassineux, mourdreux.</LexieEntiere>
-        <Lexie><SousLexie>assazin</SousLexie><SousLexie> assassineux</SousLexie><SousLexie> mourdreux.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>assemblage à mi-bois</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>épamure.</LexieEntiere>
-        <Lexie><SousLexie>épamure.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>assembler</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>assan.ner.</LexieEntiere>
-        <Lexie><SousLexie>assan.ner.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>asseoir</Entrée>
-        <Complément>(s')</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>s'assir, faire sissite.</LexieEntiere>
-        <Lexie><SousLexie>s'assir</SousLexie><SousLexie> faire sissite.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>assoiffé</Entrée>
-        <Complément>(être)</Complément>
-        <StructureGrammaticale>loc. v.</StructureGrammaticale>
-        <LexieEntiere>clifer d' so.</LexieEntiere>
-        <Lexie><SousLexie>clifer d' so.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>assolement</Entrée>
-        <Complément>(changer d')</Complément>
-        <StructureGrammaticale>loc. v.</StructureGrammaticale>
-        <LexieEntiere>déroïer.</LexieEntiere>
-        <Lexie><SousLexie>déroïer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>assorti</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>sorte à sorte.</LexieEntiere>
-        <Lexie><SousLexie>sorte à sorte.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>assoupir</Entrée>
-        <Complément>(s')</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>s'imbrunquer, s'indronquer.</LexieEntiere>
-        <Lexie><SousLexie>s'imbrunquer</SousLexie><SousLexie> s'indronquer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>assurément</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adv.</StructureGrammaticale>
-        <LexieEntiere>asseuré.</LexieEntiere>
-        <Lexie><SousLexie>asseuré.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>attacher</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>attiquer ; (des chevaux) : alogner ; (pour du lait) : s'acraper.</LexieEntiere>
-        <Lexie><SousLexie>attiquer </SousLexie><SousLexie> (des chevaux) : alogner </SousLexie><SousLexie> (pour du lait) : s'acraper.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>attarder</Entrée>
-        <Complément>(s')</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>s' carnicher, s' ratarger.</LexieEntiere>
-        <Lexie><SousLexie>s' carnicher</SousLexie><SousLexie> s' ratarger.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>atteindre</Entrée>
-        <Complément>(un but)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>adoquer.</LexieEntiere>
-        <Lexie><SousLexie>adoquer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>attelage</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>attelée.</LexieEntiere>
-        <Lexie><SousLexie>attelée.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>attendrir</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>raterrir.</LexieEntiere>
-        <Lexie><SousLexie>raterrir.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>attraper</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>happer.</LexieEntiere>
-        <Lexie><SousLexie>happer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>aube</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>broquette du jour, pique ou piquette du jour.</LexieEntiere>
-        <Lexie><SousLexie>broquette du jour</SousLexie><SousLexie> pique ou piquette du jour.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>audace</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>audivi.</LexieEntiere>
-        <Lexie><SousLexie>audivi.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>audacieux</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>franc.</LexieEntiere>
-        <Lexie><SousLexie>franc.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>augmentation</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>aurmintation.</LexieEntiere>
-        <Lexie><SousLexie>aurmintation.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>augmenter</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>aurminter, raugminter.</LexieEntiere>
-        <Lexie><SousLexie>aurminter</SousLexie><SousLexie> raugminter.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>aulne</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>auniau.</LexieEntiere>
-        <Lexie><SousLexie>auniau.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>aumône</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>amonne.</LexieEntiere>
-        <Lexie><SousLexie>amonne.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>aunée</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>lionne.</LexieEntiere>
-        <Lexie><SousLexie>lionne.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>aussi</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adv.</StructureGrammaticale>
-        <LexieEntiere>si.</LexieEntiere>
-        <Lexie><SousLexie>si.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>autrefois</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adv.</StructureGrammaticale>
-        <LexieEntiere>auterfos, dins l' temps.</LexieEntiere>
-        <Lexie><SousLexie>auterfos</SousLexie><SousLexie> dins l' temps.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>autrement</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adv.</StructureGrammaticale>
-        <LexieEntiere>autermint.</LexieEntiere>
-        <Lexie><SousLexie>autermint.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>avare</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s.</StructureGrammaticale>
-        <LexieEntiere> et adj. : agrippard, échuché, happe-char, rassaque-norriture, rétriqué, t'nant.</LexieEntiere>
-        <Lexie><SousLexie> et adj. : agrippard</SousLexie><SousLexie> échuché</SousLexie><SousLexie> happe-char</SousLexie><SousLexie> rassaque-norriture</SousLexie><SousLexie> rétriqué</SousLexie><SousLexie> t'nant.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>avenue</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>drève.</LexieEntiere>
-        <Lexie><SousLexie>drève.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>averse</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>daquoire, doquoire, drache, hourée, rigodée.</LexieEntiere>
-        <Lexie><SousLexie>daquoire</SousLexie><SousLexie> doquoire</SousLexie><SousLexie> drache</SousLexie><SousLexie> hourée</SousLexie><SousLexie> rigodée.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>aveugle</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>aveule, macaveule.</LexieEntiere>
-        <Lexie><SousLexie>aveule</SousLexie><SousLexie> macaveule.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>avis</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere> ; à mon avis : à m' mode, por mi. Proclamer un avis : arloter, bachéner, faire el crière, tambourer.</LexieEntiere>
-        <Lexie><SousLexie> </SousLexie><SousLexie> à mon avis : à m' mode</SousLexie><SousLexie> por mi. Proclamer un avis : arloter</SousLexie><SousLexie> bachéner</SousLexie><SousLexie> faire el crière</SousLexie><SousLexie> tambourer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>avoine</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>aveine. Folle avoine : havron.</LexieEntiere>
-        <Lexie><SousLexie>aveine. Folle avoine : havron.</SousLexie></Lexie>
-      </ArticleDeDictionnaire>
-      </Nomenclature>
+      </entry><entry>
+        <form><orth>arête</orth><Complément>(de poisson)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>érèque.</quote></def>
+        <cit type="translation"><quote>érèque.</quote></cit>
+      </entry><entry>
+        <form><orth>argent</orth><Complément>(monnaie)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>argint, doupes, pexal ; argent de poche : diminche.</quote></def>
+        <cit type="translation"><quote>argint</quote><quote> doupes</quote><quote> pexal </quote><quote> argent de poche : diminche.</quote></cit>
+      </entry><entry>
+        <form><orth>argile</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote> ; argéron, diève.</quote></def>
+        <cit type="translation"><quote> </quote><quote> argéron</quote><quote> diève.</quote></cit>
+      </entry><entry>
+        <form><orth>armistice</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>amnistie.</quote></def>
+        <cit type="translation"><quote>amnistie.</quote></cit>
+      </entry><entry>
+        <form><orth>armoire</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>aumaire, armoire.</quote></def>
+        <cit type="translation"><quote>aumaire</quote><quote> armoire.</quote></cit>
+      </entry><entry>
+        <form><orth>armoise</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>hierbe ed Saint-Jean.</quote></def>
+        <cit type="translation"><quote>hierbe ed Saint-Jean.</quote></cit>
+      </entry><entry>
+        <form><orth>arrérages</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m. pl.</pos></gramGrp>
+        <def><quote>arriérances.</quote></def>
+        <cit type="translation"><quote>arriérances.</quote></cit>
+      </entry><entry>
+        <form><orth>arrière-grand-père</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>ratayon.</quote></def>
+        <cit type="translation"><quote>ratayon.</quote></cit>
+      </entry><entry>
+        <form><orth>arrière-grand-mère</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>ratayonne.</quote></def>
+        <cit type="translation"><quote>ratayonne.</quote></cit>
+      </entry><entry>
+        <form><orth>arriver</orth><Complément>(y)</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>jurvir.</quote></def>
+        <cit type="translation"><quote>jurvir.</quote></cit>
+      </entry><entry>
+        <form><orth>arroche</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>dames.</quote></def>
+        <cit type="translation"><quote>dames.</quote></cit>
+      </entry><entry>
+        <form><orth>arrogant</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>fèle ; homme arrogant : roda.</quote></def>
+        <cit type="translation"><quote>fèle </quote><quote> homme arrogant : roda.</quote></cit>
+      </entry><entry>
+        <form><orth>assassin</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>assazin, assassineux, mourdreux.</quote></def>
+        <cit type="translation"><quote>assazin</quote><quote> assassineux</quote><quote> mourdreux.</quote></cit>
+      </entry><entry>
+        <form><orth>assemblage à mi-bois</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>épamure.</quote></def>
+        <cit type="translation"><quote>épamure.</quote></cit>
+      </entry><entry>
+        <form><orth>assembler</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>assan.ner.</quote></def>
+        <cit type="translation"><quote>assan.ner.</quote></cit>
+      </entry><entry>
+        <form><orth>asseoir</orth><Complément>(s')</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>s'assir, faire sissite.</quote></def>
+        <cit type="translation"><quote>s'assir</quote><quote> faire sissite.</quote></cit>
+      </entry><entry>
+        <form><orth>assoiffé</orth><Complément>(être)</Complément></form>
+        <gramGrp><pos>loc. v.</pos></gramGrp>
+        <def><quote>clifer d' so.</quote></def>
+        <cit type="translation"><quote>clifer d' so.</quote></cit>
+      </entry><entry>
+        <form><orth>assolement</orth><Complément>(changer d')</Complément></form>
+        <gramGrp><pos>loc. v.</pos></gramGrp>
+        <def><quote>déroïer.</quote></def>
+        <cit type="translation"><quote>déroïer.</quote></cit>
+      </entry><entry>
+        <form><orth>assorti</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>sorte à sorte.</quote></def>
+        <cit type="translation"><quote>sorte à sorte.</quote></cit>
+      </entry><entry>
+        <form><orth>assoupir</orth><Complément>(s')</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>s'imbrunquer, s'indronquer.</quote></def>
+        <cit type="translation"><quote>s'imbrunquer</quote><quote> s'indronquer.</quote></cit>
+      </entry><entry>
+        <form><orth>assurément</orth><Complément></Complément></form>
+        <gramGrp><pos>adv.</pos></gramGrp>
+        <def><quote>asseuré.</quote></def>
+        <cit type="translation"><quote>asseuré.</quote></cit>
+      </entry><entry>
+        <form><orth>attacher</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>attiquer ; (des chevaux) : alogner ; (pour du lait) : s'acraper.</quote></def>
+        <cit type="translation"><quote>attiquer </quote><quote> (des chevaux) : alogner </quote><quote> (pour du lait) : s'acraper.</quote></cit>
+      </entry><entry>
+        <form><orth>attarder</orth><Complément>(s')</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>s' carnicher, s' ratarger.</quote></def>
+        <cit type="translation"><quote>s' carnicher</quote><quote> s' ratarger.</quote></cit>
+      </entry><entry>
+        <form><orth>atteindre</orth><Complément>(un but)</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>adoquer.</quote></def>
+        <cit type="translation"><quote>adoquer.</quote></cit>
+      </entry><entry>
+        <form><orth>attelage</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>attelée.</quote></def>
+        <cit type="translation"><quote>attelée.</quote></cit>
+      </entry><entry>
+        <form><orth>attendrir</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>raterrir.</quote></def>
+        <cit type="translation"><quote>raterrir.</quote></cit>
+      </entry><entry>
+        <form><orth>attraper</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>happer.</quote></def>
+        <cit type="translation"><quote>happer.</quote></cit>
+      </entry><entry>
+        <form><orth>aube</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>broquette du jour, pique ou piquette du jour.</quote></def>
+        <cit type="translation"><quote>broquette du jour</quote><quote> pique ou piquette du jour.</quote></cit>
+      </entry><entry>
+        <form><orth>audace</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>audivi.</quote></def>
+        <cit type="translation"><quote>audivi.</quote></cit>
+      </entry><entry>
+        <form><orth>audacieux</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>franc.</quote></def>
+        <cit type="translation"><quote>franc.</quote></cit>
+      </entry><entry>
+        <form><orth>augmentation</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>aurmintation.</quote></def>
+        <cit type="translation"><quote>aurmintation.</quote></cit>
+      </entry><entry>
+        <form><orth>augmenter</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>aurminter, raugminter.</quote></def>
+        <cit type="translation"><quote>aurminter</quote><quote> raugminter.</quote></cit>
+      </entry><entry>
+        <form><orth>aulne</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>auniau.</quote></def>
+        <cit type="translation"><quote>auniau.</quote></cit>
+      </entry><entry>
+        <form><orth>aumône</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>amonne.</quote></def>
+        <cit type="translation"><quote>amonne.</quote></cit>
+      </entry><entry>
+        <form><orth>aunée</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>lionne.</quote></def>
+        <cit type="translation"><quote>lionne.</quote></cit>
+      </entry><entry>
+        <form><orth>aussi</orth><Complément></Complément></form>
+        <gramGrp><pos>adv.</pos></gramGrp>
+        <def><quote>si.</quote></def>
+        <cit type="translation"><quote>si.</quote></cit>
+      </entry><entry>
+        <form><orth>autrefois</orth><Complément></Complément></form>
+        <gramGrp><pos>adv.</pos></gramGrp>
+        <def><quote>auterfos, dins l' temps.</quote></def>
+        <cit type="translation"><quote>auterfos</quote><quote> dins l' temps.</quote></cit>
+      </entry><entry>
+        <form><orth>autrement</orth><Complément></Complément></form>
+        <gramGrp><pos>adv.</pos></gramGrp>
+        <def><quote>autermint.</quote></def>
+        <cit type="translation"><quote>autermint.</quote></cit>
+      </entry><entry>
+        <form><orth>avare</orth><Complément></Complément></form>
+        <gramGrp><pos>s.</pos></gramGrp>
+        <def><quote> et adj. : agrippard, échuché, happe-char, rassaque-norriture, rétriqué, t'nant.</quote></def>
+        <cit type="translation"><quote> et adj. : agrippard</quote><quote> échuché</quote><quote> happe-char</quote><quote> rassaque-norriture</quote><quote> rétriqué</quote><quote> t'nant.</quote></cit>
+      </entry><entry>
+        <form><orth>avenue</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>drève.</quote></def>
+        <cit type="translation"><quote>drève.</quote></cit>
+      </entry><entry>
+        <form><orth>averse</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>daquoire, doquoire, drache, hourée, rigodée.</quote></def>
+        <cit type="translation"><quote>daquoire</quote><quote> doquoire</quote><quote> drache</quote><quote> hourée</quote><quote> rigodée.</quote></cit>
+      </entry><entry>
+        <form><orth>aveugle</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>aveule, macaveule.</quote></def>
+        <cit type="translation"><quote>aveule</quote><quote> macaveule.</quote></cit>
+      </entry><entry>
+        <form><orth>avis</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote> ; à mon avis : à m' mode, por mi. Proclamer un avis : arloter, bachéner, faire el crière, tambourer.</quote></def>
+        <cit type="translation"><quote> </quote><quote> à mon avis : à m' mode</quote><quote> por mi. Proclamer un avis : arloter</quote><quote> bachéner</quote><quote> faire el crière</quote><quote> tambourer.</quote></cit>
+      </entry><entry>
+        <form><orth>avoine</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>aveine. Folle avoine : havron.</quote></def>
+        <cit type="translation"><quote>aveine. Folle avoine : havron.</quote></cit>
+      </entry>
+      </TEI>

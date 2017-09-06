@@ -2,6 +2,8 @@ package restaure.rdf
 
 import java.io.File
 
+import Config.Configuration
+
 import scala.xml.XML
 
 object mainRDFFirstParsing {
@@ -15,12 +17,8 @@ object mainRDFFirstParsing {
   }
 
     def main(args:Array[String]):Unit={
-      println("Entrez le chemin du dossier contenant le XML")
-      /*
-      /people/khamphousone/IdeaProjects/DictionnairePicard/XMLFirstParser/Enrichment/
-      */
-      val path = scala.io.StdIn.readLine()
-      val files = getListOfFiles(s"$path")
+      val classpath = new Configuration
+      val files = getListOfFiles(classpath.pathInputXMLFirstParsingEnrichment)
       println("Entrez l'emplacement du résultat RDF :")
       val path2 = scala.io.StdIn.readLine()
       /*

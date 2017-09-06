@@ -1,0 +1,70 @@
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+  <entry>
+    <form>
+      <orth>Y</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : on trouve, chez certains patoisants, la graphie y pour i : il, pr. pers. suj., ou lui, pr. pers. compl.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        : on trouve, chez certains patoisants, la graphie y pour i : il, pr. pers. suj., ou lui, pr. pers. compl.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">pers</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">pers</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>YEUX (phon. zieu)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m. pl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        &quot; Des-yeux bleus, / Té verras l' Bon Dieu. / Des-yeux gris, / T'iras au Paradis. / Des-yeux noirs, / T'iras au Purgatoire. / Des-yeux verts, / T'iras in Infer &quot; (comptine). Des yeux gadous : des yeux langoureux. Expr. notées par GH : &quot; Il a des yeux comme des poches d' voleur &quot; ou &quot; des
+      </quote>
+    </def>
+    <def label="française">
+      <quote>Des yeux gadous : des yeux langoureux. Expr. notées par GH : </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>ou </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">ou</cit>
+      </cit>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Il a des yeux comme des poches d' voleur &quot; </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Des-yeux bleus, / Té verras l' Bon Dieu. / Des-yeux gris, / T'iras au Paradis. / Des-yeux noirs, / T'iras au Purgatoire. / Des-yeux verts, / T'iras in Infer &quot; (comptine).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+</TEI>

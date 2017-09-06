@@ -1,622 +1,519 @@
 <?xml version='1.0' encoding='utf-8'?>
-<Nomenclature>
-        <ArticleDeDictionnaire>
-        <Entrée>fâcher</Entrée>
-        <Complément>(se)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>s' mett' in dondaine.</LexieEntiere>
-        <Lexie><SousLexie>s' mett' in dondaine.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fagot</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>bousée ; (petit) : marjolin.</LexieEntiere>
-        <Lexie><SousLexie>bousée </SousLexie><SousLexie> (petit) : marjolin.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fagoté</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>abongé. (Voir: accoutrer).</LexieEntiere>
-        <Lexie><SousLexie>abongé. (Voir: accoutrer).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>faille</Entrée>
-        <Complément>(géologique)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>rinfoncemint.</LexieEntiere>
-        <Lexie><SousLexie>rinfoncemint.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>faîne</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>fuine, fouine.</LexieEntiere>
-        <Lexie><SousLexie>fuine</SousLexie><SousLexie> fouine.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fainéant</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>albodeux, arland, wiseux.</LexieEntiere>
-        <Lexie><SousLexie>albodeux</SousLexie><SousLexie> arland</SousLexie><SousLexie> wiseux.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fainéanter</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>alboder, arlander.</LexieEntiere>
-        <Lexie><SousLexie>alboder</SousLexie><SousLexie> arlander.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fait</Entrée>
-        <Complément>(en)</Complément>
-        <StructureGrammaticale>loc. adv.</StructureGrammaticale>
-        <LexieEntiere>dès fut fait.</LexieEntiere>
-        <Lexie><SousLexie>dès fut fait.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>faîte</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>coupette, perroquette.</LexieEntiere>
-        <Lexie><SousLexie>coupette</SousLexie><SousLexie> perroquette.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>faîtière</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>fiaitissure.</LexieEntiere>
-        <Lexie><SousLexie>fiaitissure.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>falloir</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>folloir.</LexieEntiere>
-        <Lexie><SousLexie>folloir.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fameux</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>rude.</LexieEntiere>
-        <Lexie><SousLexie>rude.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>famille</Entrée>
-        <Complément>(à nourrir)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>péquée.</LexieEntiere>
-        <Lexie><SousLexie>péquée.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fange</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>breuque.</LexieEntiere>
-        <Lexie><SousLexie>breuque.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fantastiques</Entrée>
-        <Complément>(créatures)</Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere>galouche, gobelin, loripette, manu, sacadents.</LexieEntiere>
-        <Lexie><SousLexie>galouche</SousLexie><SousLexie> gobelin</SousLexie><SousLexie> loripette</SousLexie><SousLexie> manu</SousLexie><SousLexie> sacadents.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>farce</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>quinte. Faire des farces : faire arinque.</LexieEntiere>
-        <Lexie><SousLexie>quinte. Faire des farces : faire arinque.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>farine</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>farène.</LexieEntiere>
-        <Lexie><SousLexie>farène.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fatiguer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere>v : acravinter, amatir, arcrandir, cravinter, matir ; fatigué, adj. : aboli, arcran, asi, mort, nasi, outré, scran.</LexieEntiere>
-        <Lexie><SousLexie>v : acravinter</SousLexie><SousLexie> amatir</SousLexie><SousLexie> arcrandir</SousLexie><SousLexie> cravinter</SousLexie><SousLexie> matir </SousLexie><SousLexie> fatigué</SousLexie><SousLexie> adj. : aboli</SousLexie><SousLexie> arcran</SousLexie><SousLexie> asi</SousLexie><SousLexie> mort</SousLexie><SousLexie> nasi</SousLexie><SousLexie> outré</SousLexie><SousLexie> scran.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>faubourg</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>fourbou.</LexieEntiere>
-        <Lexie><SousLexie>fourbou.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>faucher</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>fauquer ; (autour d'un champ), détourer. Etre fauché : êt' ed foune.</LexieEntiere>
-        <Lexie><SousLexie>fauquer </SousLexie><SousLexie> (autour d'un champ)</SousLexie><SousLexie> détourer. Etre fauché : êt' ed foune.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>faux</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>fauque ; (courte) : piquet, sape.</LexieEntiere>
-        <Lexie><SousLexie>fauque </SousLexie><SousLexie> (courte) : piquet</SousLexie><SousLexie> sape.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fécale</Entrée>
-        <Complément>(matière)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>bren, brin.</LexieEntiere>
-        <Lexie><SousLexie>bren</SousLexie><SousLexie> brin.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>femelle</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>fumelle.</LexieEntiere>
-        <Lexie><SousLexie>fumelle.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fenêtre</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>cassis, ferniète, feurniète.</LexieEntiere>
-        <Lexie><SousLexie>cassis</SousLexie><SousLexie> ferniète</SousLexie><SousLexie> feurniète.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>femme</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>gr. fème, fim.me ; blanc-bonnet ; (de ménage) : journéresse. (Voir : fille).</LexieEntiere>
-        <Lexie><SousLexie>gr. fème</SousLexie><SousLexie> fim.me </SousLexie><SousLexie> blanc-bonnet </SousLexie><SousLexie> (de ménage) : journéresse. (Voir : fille).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>fier ; fer à repasser : poulisso.</LexieEntiere>
-        <Lexie><SousLexie>fier </SousLexie><SousLexie> fer à repasser : poulisso.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fermage</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>rindages (pl).</LexieEntiere>
-        <Lexie><SousLexie>rindages (pl).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>ferme</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>cense, cinse.</LexieEntiere>
-        <Lexie><SousLexie>cense</SousLexie><SousLexie> cinse.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fermer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>fremer, serrer.</LexieEntiere>
-        <Lexie><SousLexie>fremer</SousLexie><SousLexie> serrer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fermier</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>censier, cinsier.</LexieEntiere>
-        <Lexie><SousLexie>censier</SousLexie><SousLexie> cinsier.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>ferrure</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>fierremint.</LexieEntiere>
-        <Lexie><SousLexie>fierremint.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fessée</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>chirée, cliquade ; donner la fessée : chirer, cliquer, dépourer les arnitoiles, faire pan-pan cu-cul.</LexieEntiere>
-        <Lexie><SousLexie>chirée</SousLexie><SousLexie> cliquade </SousLexie><SousLexie> donner la fessée : chirer</SousLexie><SousLexie> cliquer</SousLexie><SousLexie> dépourer les arnitoiles</SousLexie><SousLexie> faire pan-pan cu-cul.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fesses</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere> pl : badou, cantiaux (pl.) pète, pays-bas (pl.), drère.</LexieEntiere>
-        <Lexie><SousLexie> pl : badou</SousLexie><SousLexie> cantiaux (pl.) pète</SousLexie><SousLexie> pays-bas (pl.)</SousLexie><SousLexie> drère.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fête</Entrée>
-        <Complément>(jour de)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
+<TEI>
+        <entry>
+        <form><orth>fâcher</orth><Complément>(se)</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>s' mett' in dondaine.</quote></def>
+        <cit type="translation"><quote>s' mett' in dondaine.</quote></cit>
+      </entry><entry>
+        <form><orth>fagot</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>bousée ; (petit) : marjolin.</quote></def>
+        <cit type="translation"><quote>bousée </quote><quote> (petit) : marjolin.</quote></cit>
+      </entry><entry>
+        <form><orth>fagoté</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>abongé. (Voir: accoutrer).</quote></def>
+        <cit type="translation"><quote>abongé. (Voir: accoutrer).</quote></cit>
+      </entry><entry>
+        <form><orth>faille</orth><Complément>(géologique)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>rinfoncemint.</quote></def>
+        <cit type="translation"><quote>rinfoncemint.</quote></cit>
+      </entry><entry>
+        <form><orth>faîne</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>fuine, fouine.</quote></def>
+        <cit type="translation"><quote>fuine</quote><quote> fouine.</quote></cit>
+      </entry><entry>
+        <form><orth>fainéant</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>albodeux, arland, wiseux.</quote></def>
+        <cit type="translation"><quote>albodeux</quote><quote> arland</quote><quote> wiseux.</quote></cit>
+      </entry><entry>
+        <form><orth>fainéanter</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>alboder, arlander.</quote></def>
+        <cit type="translation"><quote>alboder</quote><quote> arlander.</quote></cit>
+      </entry><entry>
+        <form><orth>fait</orth><Complément>(en)</Complément></form>
+        <gramGrp><pos>loc. adv.</pos></gramGrp>
+        <def><quote>dès fut fait.</quote></def>
+        <cit type="translation"><quote>dès fut fait.</quote></cit>
+      </entry><entry>
+        <form><orth>faîte</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>coupette, perroquette.</quote></def>
+        <cit type="translation"><quote>coupette</quote><quote> perroquette.</quote></cit>
+      </entry><entry>
+        <form><orth>faîtière</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>fiaitissure.</quote></def>
+        <cit type="translation"><quote>fiaitissure.</quote></cit>
+      </entry><entry>
+        <form><orth>falloir</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>folloir.</quote></def>
+        <cit type="translation"><quote>folloir.</quote></cit>
+      </entry><entry>
+        <form><orth>fameux</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>rude.</quote></def>
+        <cit type="translation"><quote>rude.</quote></cit>
+      </entry><entry>
+        <form><orth>famille</orth><Complément>(à nourrir)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>péquée.</quote></def>
+        <cit type="translation"><quote>péquée.</quote></cit>
+      </entry><entry>
+        <form><orth>fange</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>breuque.</quote></def>
+        <cit type="translation"><quote>breuque.</quote></cit>
+      </entry><entry>
+        <form><orth>fantastiques</orth><Complément>(créatures)</Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote>galouche, gobelin, loripette, manu, sacadents.</quote></def>
+        <cit type="translation"><quote>galouche</quote><quote> gobelin</quote><quote> loripette</quote><quote> manu</quote><quote> sacadents.</quote></cit>
+      </entry><entry>
+        <form><orth>farce</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>quinte. Faire des farces : faire arinque.</quote></def>
+        <cit type="translation"><quote>quinte. Faire des farces : faire arinque.</quote></cit>
+      </entry><entry>
+        <form><orth>farine</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>farène.</quote></def>
+        <cit type="translation"><quote>farène.</quote></cit>
+      </entry><entry>
+        <form><orth>fatiguer</orth><Complément></Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote>v : acravinter, amatir, arcrandir, cravinter, matir ; fatigué, adj. : aboli, arcran, asi, mort, nasi, outré, scran.</quote></def>
+        <cit type="translation"><quote>v : acravinter</quote><quote> amatir</quote><quote> arcrandir</quote><quote> cravinter</quote><quote> matir </quote><quote> fatigué</quote><quote> adj. : aboli</quote><quote> arcran</quote><quote> asi</quote><quote> mort</quote><quote> nasi</quote><quote> outré</quote><quote> scran.</quote></cit>
+      </entry><entry>
+        <form><orth>faubourg</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>fourbou.</quote></def>
+        <cit type="translation"><quote>fourbou.</quote></cit>
+      </entry><entry>
+        <form><orth>faucher</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>fauquer ; (autour d'un champ), détourer. Etre fauché : êt' ed foune.</quote></def>
+        <cit type="translation"><quote>fauquer </quote><quote> (autour d'un champ)</quote><quote> détourer. Etre fauché : êt' ed foune.</quote></cit>
+      </entry><entry>
+        <form><orth>faux</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>fauque ; (courte) : piquet, sape.</quote></def>
+        <cit type="translation"><quote>fauque </quote><quote> (courte) : piquet</quote><quote> sape.</quote></cit>
+      </entry><entry>
+        <form><orth>fécale</orth><Complément>(matière)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>bren, brin.</quote></def>
+        <cit type="translation"><quote>bren</quote><quote> brin.</quote></cit>
+      </entry><entry>
+        <form><orth>femelle</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>fumelle.</quote></def>
+        <cit type="translation"><quote>fumelle.</quote></cit>
+      </entry><entry>
+        <form><orth>fenêtre</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>cassis, ferniète, feurniète.</quote></def>
+        <cit type="translation"><quote>cassis</quote><quote> ferniète</quote><quote> feurniète.</quote></cit>
+      </entry><entry>
+        <form><orth>femme</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>gr. fème, fim.me ; blanc-bonnet ; (de ménage) : journéresse. (Voir : fille).</quote></def>
+        <cit type="translation"><quote>gr. fème</quote><quote> fim.me </quote><quote> blanc-bonnet </quote><quote> (de ménage) : journéresse. (Voir : fille).</quote></cit>
+      </entry><entry>
+        <form><orth>fer</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>fier ; fer à repasser : poulisso.</quote></def>
+        <cit type="translation"><quote>fier </quote><quote> fer à repasser : poulisso.</quote></cit>
+      </entry><entry>
+        <form><orth>fermage</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>rindages (pl).</quote></def>
+        <cit type="translation"><quote>rindages (pl).</quote></cit>
+      </entry><entry>
+        <form><orth>ferme</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>cense, cinse.</quote></def>
+        <cit type="translation"><quote>cense</quote><quote> cinse.</quote></cit>
+      </entry><entry>
+        <form><orth>fermer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>fremer, serrer.</quote></def>
+        <cit type="translation"><quote>fremer</quote><quote> serrer.</quote></cit>
+      </entry><entry>
+        <form><orth>fermier</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>censier, cinsier.</quote></def>
+        <cit type="translation"><quote>censier</quote><quote> cinsier.</quote></cit>
+      </entry><entry>
+        <form><orth>ferrure</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>fierremint.</quote></def>
+        <cit type="translation"><quote>fierremint.</quote></cit>
+      </entry><entry>
+        <form><orth>fessée</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>chirée, cliquade ; donner la fessée : chirer, cliquer, dépourer les arnitoiles, faire pan-pan cu-cul.</quote></def>
+        <cit type="translation"><quote>chirée</quote><quote> cliquade </quote><quote> donner la fessée : chirer</quote><quote> cliquer</quote><quote> dépourer les arnitoiles</quote><quote> faire pan-pan cu-cul.</quote></cit>
+      </entry><entry>
+        <form><orth>fesses</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote> pl : badou, cantiaux (pl.) pète, pays-bas (pl.), drère.</quote></def>
+        <cit type="translation"><quote> pl : badou</quote><quote> cantiaux (pl.) pète</quote><quote> pays-bas (pl.)</quote><quote> drère.</quote></cit>
+      </entry><entry>
+        <form><orth>fête</orth><Complément>(jour de)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote></quote></def>
         
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>feuille</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s.</StructureGrammaticale>
-        <LexieEntiere> f, : fuelle.</LexieEntiere>
-        <Lexie><SousLexie> f</SousLexie><SousLexie> : fuelle.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>feuillure</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>battée.</LexieEntiere>
-        <Lexie><SousLexie>battée.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fiancé</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>amoureux ; fiancée, s. f. : maîtresse ; être fiancé : fréquenter ; être officiellement fiancé : avoir l'intrée.</LexieEntiere>
-        <Lexie><SousLexie>amoureux </SousLexie><SousLexie> fiancée</SousLexie><SousLexie> s. f. : maîtresse </SousLexie><SousLexie> être fiancé : fréquenter </SousLexie><SousLexie> être officiellement fiancé : avoir l'intrée.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>ficelle</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>fichelle ; (de fouet), cachiron, cachoire, écachoire.</LexieEntiere>
-        <Lexie><SousLexie>fichelle </SousLexie><SousLexie> (de fouet)</SousLexie><SousLexie> cachiron</SousLexie><SousLexie> cachoire</SousLexie><SousLexie> écachoire.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fichu</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>fiscuit, rousti.</LexieEntiere>
-        <Lexie><SousLexie>fiscuit</SousLexie><SousLexie> rousti.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fignoler</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>nunuter.</LexieEntiere>
-        <Lexie><SousLexie>nunuter.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fil</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>éton, fi ; (de cordonnier) coeute-fi, queute-fi ; (de haricot) fichon.</LexieEntiere>
-        <Lexie><SousLexie>éton</SousLexie><SousLexie> fi </SousLexie><SousLexie> (de cordonnier) coeute-fi</SousLexie><SousLexie> queute-fi </SousLexie><SousLexie> (de haricot) fichon.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fil d'eau</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>gulot.</LexieEntiere>
-        <Lexie><SousLexie>gulot.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>filet</Entrée>
-        <Complément>(de pêche)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>aploute.</LexieEntiere>
-        <Lexie><SousLexie>aploute.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fille</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>(jeune) bachelette, camusette, chabourlette, frisquette, gadrouillette, galuriette, garlousette, gaudinette ; (garçonnière) garchon bachelette ou falli ou findu ; (petite) ninette ; (naïve) porée ; (vive) sautériau d'août ; (hargneuse) pie-grette ; (frivole) involée ; (mijaurée) chichette ; (de mauvaise vie) droule, fille ed corps dé garde, lostière, marie-salope, péoule, putaine, troule, wandroule.</LexieEntiere>
-        <Lexie><SousLexie>(jeune) bachelette</SousLexie><SousLexie> camusette</SousLexie><SousLexie> chabourlette</SousLexie><SousLexie> frisquette</SousLexie><SousLexie> gadrouillette</SousLexie><SousLexie> galuriette</SousLexie><SousLexie> garlousette</SousLexie><SousLexie> gaudinette </SousLexie><SousLexie> (garçonnière) garchon bachelette ou falli ou findu </SousLexie><SousLexie> (petite) ninette </SousLexie><SousLexie> (naïve) porée </SousLexie><SousLexie> (vive) sautériau d'août </SousLexie><SousLexie> (hargneuse) pie-grette </SousLexie><SousLexie> (frivole) involée </SousLexie><SousLexie> (mijaurée) chichette </SousLexie><SousLexie> (de mauvaise vie) droule</SousLexie><SousLexie> fille ed corps dé garde</SousLexie><SousLexie> lostière</SousLexie><SousLexie> marie-salope</SousLexie><SousLexie> péoule</SousLexie><SousLexie> putaine</SousLexie><SousLexie> troule</SousLexie><SousLexie> wandroule.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>filou</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>filousteux.</LexieEntiere>
-        <Lexie><SousLexie>filousteux.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fils</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>fieu.</LexieEntiere>
-        <Lexie><SousLexie>fieu.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>filtre</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>(à lait) couloi.</LexieEntiere>
-        <Lexie><SousLexie>(à lait) couloi.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fin</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>finissemint.</LexieEntiere>
-        <Lexie><SousLexie>finissemint.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>finale</Entrée>
-        <Complément>(sportive)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>définition.</LexieEntiere>
-        <Lexie><SousLexie>définition.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>flairer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>naquer.</LexieEntiere>
-        <Lexie><SousLexie>naquer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>flamand</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere> et adj. : flahute, flaming.</LexieEntiere>
-        <Lexie><SousLexie> et adj. : flahute</SousLexie><SousLexie> flaming.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>flammèche</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>facon.</LexieEntiere>
-        <Lexie><SousLexie>facon.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>flaque</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>dache.</LexieEntiere>
-        <Lexie><SousLexie>dache.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>flatter</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>chirloter.</LexieEntiere>
-        <Lexie><SousLexie>chirloter.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>flatteur</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>blando, flassou.</LexieEntiere>
-        <Lexie><SousLexie>blando</SousLexie><SousLexie> flassou.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fléchette</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>astiquette.</LexieEntiere>
-        <Lexie><SousLexie>astiquette.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fléchir</Entrée>
-        <Complément>(sur ses jambes)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>fonflir.</LexieEntiere>
-        <Lexie><SousLexie>fonflir.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>flétan</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>elbute.</LexieEntiere>
-        <Lexie><SousLexie>elbute.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>flétrir</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>flanir.</LexieEntiere>
-        <Lexie><SousLexie>flanir.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>flocon</Entrée>
-        <Complément>(petit)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>pluquette, plurette.</LexieEntiere>
-        <Lexie><SousLexie>pluquette</SousLexie><SousLexie> plurette.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fluxion</Entrée>
-        <Complément>(dentaire)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>chique.</LexieEntiere>
-        <Lexie><SousLexie>chique.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>foison</Entrée>
-        <Complément>(à)</Complément>
-        <StructureGrammaticale>loc. adv.</StructureGrammaticale>
-        <LexieEntiere>à plenté, à ploute.</LexieEntiere>
-        <Lexie><SousLexie>à plenté</SousLexie><SousLexie> à ploute.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>folâtrer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>jingler.</LexieEntiere>
-        <Lexie><SousLexie>jingler.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fondrière</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>boulan, errion.</LexieEntiere>
-        <Lexie><SousLexie>boulan</SousLexie><SousLexie> errion.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>forces</Entrée>
-        <Complément>(ciseaux)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere> pl : éforches.</LexieEntiere>
-        <Lexie><SousLexie> pl : éforches.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fossoyeur</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>fossier.</LexieEntiere>
-        <Lexie><SousLexie>fossier.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fou</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere> et adj. : seut, sot ; fou à lier : raide-seut.</LexieEntiere>
-        <Lexie><SousLexie> et adj. : seut</SousLexie><SousLexie> sot </SousLexie><SousLexie> fou à lier : raide-seut.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fouet</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>cachoire, écourite.</LexieEntiere>
-        <Lexie><SousLexie>cachoire</SousLexie><SousLexie> écourite.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fougère</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>fertière, flétière.</LexieEntiere>
-        <Lexie><SousLexie>fertière</SousLexie><SousLexie> flétière.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fouiller</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>cafoter, cafouiller.</LexieEntiere>
-        <Lexie><SousLexie>cafoter</SousLexie><SousLexie> cafouiller.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fouine</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>floène, florène.</LexieEntiere>
-        <Lexie><SousLexie>floène</SousLexie><SousLexie> florène.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>foule</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>séquesse.</LexieEntiere>
-        <Lexie><SousLexie>séquesse.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>four à chaux</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>caufour.</LexieEntiere>
-        <Lexie><SousLexie>caufour.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fourche</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>fourque, fourquet, fourquette ; graué, hauwé ; percer d'une fourche : infourquer.</LexieEntiere>
-        <Lexie><SousLexie>fourque</SousLexie><SousLexie> fourquet</SousLexie><SousLexie> fourquette </SousLexie><SousLexie> graué</SousLexie><SousLexie> hauwé </SousLexie><SousLexie> percer d'une fourche : infourquer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fourgonner</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>fourfetter, foustiquer.</LexieEntiere>
-        <Lexie><SousLexie>fourfetter</SousLexie><SousLexie> foustiquer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fourmi</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>fourmisse.</LexieEntiere>
-        <Lexie><SousLexie>fourmisse.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fournée</Entrée>
-        <Complément>(de pain)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>cuitie.</LexieEntiere>
-        <Lexie><SousLexie>cuitie.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fourrage</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>rafourée.</LexieEntiere>
-        <Lexie><SousLexie>rafourée.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fourrure</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>minou.</LexieEntiere>
-        <Lexie><SousLexie>minou.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fragile</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>casuel.</LexieEntiere>
-        <Lexie><SousLexie>casuel.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>frai</Entrée>
-        <Complément>(de poisson)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>foursin.</LexieEntiere>
-        <Lexie><SousLexie>foursin.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fraisil</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>fasil.</LexieEntiere>
-        <Lexie><SousLexie>fasil.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>franges</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f. pl.</StructureGrammaticale>
-        <LexieEntiere>frinches.</LexieEntiere>
-        <Lexie><SousLexie>frinches.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>franner</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
+      </entry><entry>
+        <form><orth>feuille</orth><Complément></Complément></form>
+        <gramGrp><pos>s.</pos></gramGrp>
+        <def><quote> f, : fuelle.</quote></def>
+        <cit type="translation"><quote> f</quote><quote> : fuelle.</quote></cit>
+      </entry><entry>
+        <form><orth>feuillure</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>battée.</quote></def>
+        <cit type="translation"><quote>battée.</quote></cit>
+      </entry><entry>
+        <form><orth>fiancé</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>amoureux ; fiancée, s. f. : maîtresse ; être fiancé : fréquenter ; être officiellement fiancé : avoir l'intrée.</quote></def>
+        <cit type="translation"><quote>amoureux </quote><quote> fiancée</quote><quote> s. f. : maîtresse </quote><quote> être fiancé : fréquenter </quote><quote> être officiellement fiancé : avoir l'intrée.</quote></cit>
+      </entry><entry>
+        <form><orth>ficelle</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>fichelle ; (de fouet), cachiron, cachoire, écachoire.</quote></def>
+        <cit type="translation"><quote>fichelle </quote><quote> (de fouet)</quote><quote> cachiron</quote><quote> cachoire</quote><quote> écachoire.</quote></cit>
+      </entry><entry>
+        <form><orth>fichu</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>fiscuit, rousti.</quote></def>
+        <cit type="translation"><quote>fiscuit</quote><quote> rousti.</quote></cit>
+      </entry><entry>
+        <form><orth>fignoler</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>nunuter.</quote></def>
+        <cit type="translation"><quote>nunuter.</quote></cit>
+      </entry><entry>
+        <form><orth>fil</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>éton, fi ; (de cordonnier) coeute-fi, queute-fi ; (de haricot) fichon.</quote></def>
+        <cit type="translation"><quote>éton</quote><quote> fi </quote><quote> (de cordonnier) coeute-fi</quote><quote> queute-fi </quote><quote> (de haricot) fichon.</quote></cit>
+      </entry><entry>
+        <form><orth>fil d'eau</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>gulot.</quote></def>
+        <cit type="translation"><quote>gulot.</quote></cit>
+      </entry><entry>
+        <form><orth>filet</orth><Complément>(de pêche)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>aploute.</quote></def>
+        <cit type="translation"><quote>aploute.</quote></cit>
+      </entry><entry>
+        <form><orth>fille</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>(jeune) bachelette, camusette, chabourlette, frisquette, gadrouillette, galuriette, garlousette, gaudinette ; (garçonnière) garchon bachelette ou falli ou findu ; (petite) ninette ; (naïve) porée ; (vive) sautériau d'août ; (hargneuse) pie-grette ; (frivole) involée ; (mijaurée) chichette ; (de mauvaise vie) droule, fille ed corps dé garde, lostière, marie-salope, péoule, putaine, troule, wandroule.</quote></def>
+        <cit type="translation"><quote>(jeune) bachelette</quote><quote> camusette</quote><quote> chabourlette</quote><quote> frisquette</quote><quote> gadrouillette</quote><quote> galuriette</quote><quote> garlousette</quote><quote> gaudinette </quote><quote> (garçonnière) garchon bachelette ou falli ou findu </quote><quote> (petite) ninette </quote><quote> (naïve) porée </quote><quote> (vive) sautériau d'août </quote><quote> (hargneuse) pie-grette </quote><quote> (frivole) involée </quote><quote> (mijaurée) chichette </quote><quote> (de mauvaise vie) droule</quote><quote> fille ed corps dé garde</quote><quote> lostière</quote><quote> marie-salope</quote><quote> péoule</quote><quote> putaine</quote><quote> troule</quote><quote> wandroule.</quote></cit>
+      </entry><entry>
+        <form><orth>filou</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>filousteux.</quote></def>
+        <cit type="translation"><quote>filousteux.</quote></cit>
+      </entry><entry>
+        <form><orth>fils</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>fieu.</quote></def>
+        <cit type="translation"><quote>fieu.</quote></cit>
+      </entry><entry>
+        <form><orth>filtre</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>(à lait) couloi.</quote></def>
+        <cit type="translation"><quote>(à lait) couloi.</quote></cit>
+      </entry><entry>
+        <form><orth>fin</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>finissemint.</quote></def>
+        <cit type="translation"><quote>finissemint.</quote></cit>
+      </entry><entry>
+        <form><orth>finale</orth><Complément>(sportive)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>définition.</quote></def>
+        <cit type="translation"><quote>définition.</quote></cit>
+      </entry><entry>
+        <form><orth>flairer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>naquer.</quote></def>
+        <cit type="translation"><quote>naquer.</quote></cit>
+      </entry><entry>
+        <form><orth>flamand</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote> et adj. : flahute, flaming.</quote></def>
+        <cit type="translation"><quote> et adj. : flahute</quote><quote> flaming.</quote></cit>
+      </entry><entry>
+        <form><orth>flammèche</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>facon.</quote></def>
+        <cit type="translation"><quote>facon.</quote></cit>
+      </entry><entry>
+        <form><orth>flaque</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>dache.</quote></def>
+        <cit type="translation"><quote>dache.</quote></cit>
+      </entry><entry>
+        <form><orth>flatter</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>chirloter.</quote></def>
+        <cit type="translation"><quote>chirloter.</quote></cit>
+      </entry><entry>
+        <form><orth>flatteur</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>blando, flassou.</quote></def>
+        <cit type="translation"><quote>blando</quote><quote> flassou.</quote></cit>
+      </entry><entry>
+        <form><orth>fléchette</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>astiquette.</quote></def>
+        <cit type="translation"><quote>astiquette.</quote></cit>
+      </entry><entry>
+        <form><orth>fléchir</orth><Complément>(sur ses jambes)</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>fonflir.</quote></def>
+        <cit type="translation"><quote>fonflir.</quote></cit>
+      </entry><entry>
+        <form><orth>flétan</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>elbute.</quote></def>
+        <cit type="translation"><quote>elbute.</quote></cit>
+      </entry><entry>
+        <form><orth>flétrir</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>flanir.</quote></def>
+        <cit type="translation"><quote>flanir.</quote></cit>
+      </entry><entry>
+        <form><orth>flocon</orth><Complément>(petit)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>pluquette, plurette.</quote></def>
+        <cit type="translation"><quote>pluquette</quote><quote> plurette.</quote></cit>
+      </entry><entry>
+        <form><orth>fluxion</orth><Complément>(dentaire)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>chique.</quote></def>
+        <cit type="translation"><quote>chique.</quote></cit>
+      </entry><entry>
+        <form><orth>foison</orth><Complément>(à)</Complément></form>
+        <gramGrp><pos>loc. adv.</pos></gramGrp>
+        <def><quote>à plenté, à ploute.</quote></def>
+        <cit type="translation"><quote>à plenté</quote><quote> à ploute.</quote></cit>
+      </entry><entry>
+        <form><orth>folâtrer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>jingler.</quote></def>
+        <cit type="translation"><quote>jingler.</quote></cit>
+      </entry><entry>
+        <form><orth>fondrière</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>boulan, errion.</quote></def>
+        <cit type="translation"><quote>boulan</quote><quote> errion.</quote></cit>
+      </entry><entry>
+        <form><orth>forces</orth><Complément>(ciseaux)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote> pl : éforches.</quote></def>
+        <cit type="translation"><quote> pl : éforches.</quote></cit>
+      </entry><entry>
+        <form><orth>fossoyeur</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>fossier.</quote></def>
+        <cit type="translation"><quote>fossier.</quote></cit>
+      </entry><entry>
+        <form><orth>fou</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote> et adj. : seut, sot ; fou à lier : raide-seut.</quote></def>
+        <cit type="translation"><quote> et adj. : seut</quote><quote> sot </quote><quote> fou à lier : raide-seut.</quote></cit>
+      </entry><entry>
+        <form><orth>fouet</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>cachoire, écourite.</quote></def>
+        <cit type="translation"><quote>cachoire</quote><quote> écourite.</quote></cit>
+      </entry><entry>
+        <form><orth>fougère</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>fertière, flétière.</quote></def>
+        <cit type="translation"><quote>fertière</quote><quote> flétière.</quote></cit>
+      </entry><entry>
+        <form><orth>fouiller</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>cafoter, cafouiller.</quote></def>
+        <cit type="translation"><quote>cafoter</quote><quote> cafouiller.</quote></cit>
+      </entry><entry>
+        <form><orth>fouine</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>floène, florène.</quote></def>
+        <cit type="translation"><quote>floène</quote><quote> florène.</quote></cit>
+      </entry><entry>
+        <form><orth>foule</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>séquesse.</quote></def>
+        <cit type="translation"><quote>séquesse.</quote></cit>
+      </entry><entry>
+        <form><orth>four à chaux</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>caufour.</quote></def>
+        <cit type="translation"><quote>caufour.</quote></cit>
+      </entry><entry>
+        <form><orth>fourche</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>fourque, fourquet, fourquette ; graué, hauwé ; percer d'une fourche : infourquer.</quote></def>
+        <cit type="translation"><quote>fourque</quote><quote> fourquet</quote><quote> fourquette </quote><quote> graué</quote><quote> hauwé </quote><quote> percer d'une fourche : infourquer.</quote></cit>
+      </entry><entry>
+        <form><orth>fourgonner</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>fourfetter, foustiquer.</quote></def>
+        <cit type="translation"><quote>fourfetter</quote><quote> foustiquer.</quote></cit>
+      </entry><entry>
+        <form><orth>fourmi</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>fourmisse.</quote></def>
+        <cit type="translation"><quote>fourmisse.</quote></cit>
+      </entry><entry>
+        <form><orth>fournée</orth><Complément>(de pain)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>cuitie.</quote></def>
+        <cit type="translation"><quote>cuitie.</quote></cit>
+      </entry><entry>
+        <form><orth>fourrage</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>rafourée.</quote></def>
+        <cit type="translation"><quote>rafourée.</quote></cit>
+      </entry><entry>
+        <form><orth>fourrure</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>minou.</quote></def>
+        <cit type="translation"><quote>minou.</quote></cit>
+      </entry><entry>
+        <form><orth>fragile</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>casuel.</quote></def>
+        <cit type="translation"><quote>casuel.</quote></cit>
+      </entry><entry>
+        <form><orth>frai</orth><Complément>(de poisson)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>foursin.</quote></def>
+        <cit type="translation"><quote>foursin.</quote></cit>
+      </entry><entry>
+        <form><orth>fraisil</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>fasil.</quote></def>
+        <cit type="translation"><quote>fasil.</quote></cit>
+      </entry><entry>
+        <form><orth>franges</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f. pl.</pos></gramGrp>
+        <def><quote>frinches.</quote></def>
+        <cit type="translation"><quote>frinches.</quote></cit>
+      </entry><entry>
+        <form><orth>franner</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote></quote></def>
         
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fressure</Entrée>
-        <Complément>(de veau)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>fresse ; (de porc) frigalette.</LexieEntiere>
-        <Lexie><SousLexie>fresse </SousLexie><SousLexie> (de porc) frigalette.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fricassée</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>fristoulle.</LexieEntiere>
-        <Lexie><SousLexie>fristoulle.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>friche</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>partiau, riez, trieu.</LexieEntiere>
-        <Lexie><SousLexie>partiau</SousLexie><SousLexie> riez</SousLexie><SousLexie> trieu.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>frileux</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>fréleux.</LexieEntiere>
-        <Lexie><SousLexie>fréleux.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fripier</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>croque-poux, vieuwardier (vx), weswardier (vx).</LexieEntiere>
-        <Lexie><SousLexie>croque-poux</SousLexie><SousLexie> vieuwardier (vx)</SousLexie><SousLexie> weswardier (vx).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>frire</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>frioler.</LexieEntiere>
-        <Lexie><SousLexie>frioler.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>frissonner</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>ferchonner.</LexieEntiere>
-        <Lexie><SousLexie>ferchonner.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>frivole</Entrée>
-        <Complément>(personne)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>amusette, arlusette, involée.</LexieEntiere>
-        <Lexie><SousLexie>amusette</SousLexie><SousLexie> arlusette</SousLexie><SousLexie> involée.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>froid</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere> et adj. : frod.</LexieEntiere>
-        <Lexie><SousLexie> et adj. : frod.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>frôler</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>estriquer. (Voir : effleurer).</LexieEntiere>
-        <Lexie><SousLexie>estriquer. (Voir : effleurer).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fromages</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
+      </entry><entry>
+        <form><orth>fressure</orth><Complément>(de veau)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>fresse ; (de porc) frigalette.</quote></def>
+        <cit type="translation"><quote>fresse </quote><quote> (de porc) frigalette.</quote></cit>
+      </entry><entry>
+        <form><orth>fricassée</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>fristoulle.</quote></def>
+        <cit type="translation"><quote>fristoulle.</quote></cit>
+      </entry><entry>
+        <form><orth>friche</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>partiau, riez, trieu.</quote></def>
+        <cit type="translation"><quote>partiau</quote><quote> riez</quote><quote> trieu.</quote></cit>
+      </entry><entry>
+        <form><orth>frileux</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>fréleux.</quote></def>
+        <cit type="translation"><quote>fréleux.</quote></cit>
+      </entry><entry>
+        <form><orth>fripier</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>croque-poux, vieuwardier (vx), weswardier (vx).</quote></def>
+        <cit type="translation"><quote>croque-poux</quote><quote> vieuwardier (vx)</quote><quote> weswardier (vx).</quote></cit>
+      </entry><entry>
+        <form><orth>frire</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>frioler.</quote></def>
+        <cit type="translation"><quote>frioler.</quote></cit>
+      </entry><entry>
+        <form><orth>frissonner</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>ferchonner.</quote></def>
+        <cit type="translation"><quote>ferchonner.</quote></cit>
+      </entry><entry>
+        <form><orth>frivole</orth><Complément>(personne)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>amusette, arlusette, involée.</quote></def>
+        <cit type="translation"><quote>amusette</quote><quote> arlusette</quote><quote> involée.</quote></cit>
+      </entry><entry>
+        <form><orth>froid</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote> et adj. : frod.</quote></def>
+        <cit type="translation"><quote> et adj. : frod.</quote></cit>
+      </entry><entry>
+        <form><orth>frôler</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>estriquer. (Voir : effleurer).</quote></def>
+        <cit type="translation"><quote>estriquer. (Voir : effleurer).</quote></cit>
+      </entry><entry>
+        <form><orth>fromages</orth><Complément></Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote></quote></def>
         
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fuchsia</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>fluxia.</LexieEntiere>
-        <Lexie><SousLexie>fluxia.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fugue</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>escampe.</LexieEntiere>
-        <Lexie><SousLexie>escampe.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fumée</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>feumière.</LexieEntiere>
-        <Lexie><SousLexie>feumière.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fumer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>feumer, funquer.</LexieEntiere>
-        <Lexie><SousLexie>feumer</SousLexie><SousLexie> funquer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fumier</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>fien.</LexieEntiere>
-        <Lexie><SousLexie>fien.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fur et à mesure</Entrée>
-        <Complément>(au)</Complément>
-        <StructureGrammaticale>loc. adv.</StructureGrammaticale>
-        <LexieEntiere>fait à fait.</LexieEntiere>
-        <Lexie><SousLexie>fait à fait.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fureter</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>ernaquer, fournaquer.</LexieEntiere>
-        <Lexie><SousLexie>ernaquer</SousLexie><SousLexie> fournaquer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>fuseau</Entrée>
-        <Complément>(de dentellière)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>broquelet.</LexieEntiere>
-        <Lexie><SousLexie>broquelet.</SousLexie></Lexie>
-      </ArticleDeDictionnaire>
-      </Nomenclature>
+      </entry><entry>
+        <form><orth>fuchsia</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>fluxia.</quote></def>
+        <cit type="translation"><quote>fluxia.</quote></cit>
+      </entry><entry>
+        <form><orth>fugue</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>escampe.</quote></def>
+        <cit type="translation"><quote>escampe.</quote></cit>
+      </entry><entry>
+        <form><orth>fumée</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>feumière.</quote></def>
+        <cit type="translation"><quote>feumière.</quote></cit>
+      </entry><entry>
+        <form><orth>fumer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>feumer, funquer.</quote></def>
+        <cit type="translation"><quote>feumer</quote><quote> funquer.</quote></cit>
+      </entry><entry>
+        <form><orth>fumier</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>fien.</quote></def>
+        <cit type="translation"><quote>fien.</quote></cit>
+      </entry><entry>
+        <form><orth>fur et à mesure</orth><Complément>(au)</Complément></form>
+        <gramGrp><pos>loc. adv.</pos></gramGrp>
+        <def><quote>fait à fait.</quote></def>
+        <cit type="translation"><quote>fait à fait.</quote></cit>
+      </entry><entry>
+        <form><orth>fureter</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>ernaquer, fournaquer.</quote></def>
+        <cit type="translation"><quote>ernaquer</quote><quote> fournaquer.</quote></cit>
+      </entry><entry>
+        <form><orth>fuseau</orth><Complément>(de dentellière)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>broquelet.</quote></def>
+        <cit type="translation"><quote>broquelet.</quote></cit>
+      </entry>
+      </TEI>

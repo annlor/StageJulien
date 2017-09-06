@@ -2,7 +2,9 @@
   * Created by khamphousone on 6/22/17.
   */
 
-import java.io.File
+import java.io.{File, FileWriter}
+
+import Config.Configuration
 
 import scala.io.Source
 /**
@@ -16,10 +18,6 @@ import scala.xml._
 import scala.collection.JavaConverters._
 */
 
-/*
-Chemin du dictionnaire : (pour Julien)
-/people/khamphousone/Documents/Dictionnaires/daub_rouchi_197S_CU.txt
-*/
 
 /**
   * Cette case classe contriendra les éléments de chaque ligne
@@ -100,13 +98,8 @@ object FirstParsing {
 
 
   def main(args: Array[String]): Unit = {
-
-    println("Entrez le chemin du dictionnaire Dauby-Rouchi")
-    /*
-    /people/khamphousone/Documents/Dictionnaires/daub_rouchi_197S_CU.txt
-    */
-    val path = scala.io.StdIn.readLine()
-    val buff: Source = Source.fromFile(path)
+    val classpath = new Configuration()
+    val buff: Source = Source.fromFile(classpath.pathDaubyRouchi)
     val Parsing = new FirstParsing()
     val UP = new UnitParser()
     val tradtoxml = new toXML()
@@ -134,12 +127,18 @@ object FirstParsing {
          }
 
 
-        val listXml = <Nomenclature>
+        val listXml = <TEI  xml:lang="fr"  xmlns="http://www.tei-c.org/ns/1.0">
           {listTrad}
-        </Nomenclature>
+        </TEI>
         val dir = new File("./XMLFirstParser")
         dir.mkdir
-        XML.save(s"./XMLFirstParser/$elements", listXml, "utf-8", true, null)
+      val printer = new scala.xml.PrettyPrinter(80,2)
+      val str = printer.format(listXml)
+      val fw = new FileWriter(s"./XMLFirstParser/$elements")
+      fw.write(str)
+      fw.close()
+      /*
+        XML.save(s"./XMLFirstParser/$elements", listXml, "utf-8", true, null)*/
       }
   println("FirstParsing DONE")
   }

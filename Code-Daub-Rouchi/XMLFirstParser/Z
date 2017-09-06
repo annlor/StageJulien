@@ -1,39 +1,176 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Nomenclature>
-          <Entrée>
-        <Vocable>ZANTE </Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>: dim. d'Alexandre. Prénom du héros de RD : l' Zante Boursiau.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">: dim. d'Alexandre. Prénom du héros de RD : l' Zante Boursiau.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>ZEPH </Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>: dim. de Joseph. Prénom du héros de JM : l' Zeph Cafougnette.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">: dim. de Joseph. Prénom du héros de JM : l' Zeph Cafougnette.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>ZINE</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>1 - ivresse, cuite. &quot; Quand i s'in r'va avec enn' zine, / Su s' feimme, i bat core l' tambour &quot; (PB). </DéfinitionEntiere><DéfinitionEntiere>2 - idée bizarre, caprice. &quot; Queun' zinn' qui li a pris ... ed mette ses chabots tout findus d'vant l' quéménée ? &quot; (PP). </DéfinitionEntiere><DéfinitionEntiere>3 - passion. &quot; J' connos des fèmes qu'alles ont l' zinn' des fleurs &quot; (PP) (voir : quint, dadale), </DéfinitionEntiere><DéfinitionEntiere>4 - donner eune zine : rosser (GH).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">1 - ivresse, cuite. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Quand i s'in r'va avec enn' zine, / Su s' feimme, i bat core l' tambour &quot; (PB). </ExemplePicard></Exemples><Ancien></Ancien><DéfinitionFrançaise><df id="1">2 - idée bizarre, caprice. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Queun' zinn' qui li a pris ... ed mette ses chabots tout findus d'vant l' quéménée ? &quot; (PP). </ExemplePicard></Exemples><Ancien></Ancien><DéfinitionFrançaise><df id="1">3 - passion. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; J' connos des fèmes qu'alles ont l' zinn' des fleurs &quot; (PP) (voir : quint, dadale), </ExemplePicard></Exemples><Ancien></Ancien><DéfinitionFrançaise><df id="1">4 - donner eune zine : rosser (GH).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>ZIQUE</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>eine zique : petite quantité. &quot; Pis in n' va pas faire eune histoire / Pou eun' tiot' zique ed' marée noire ! &quot; (PM). Pas eine zique : pas du tout. &quot; Du pinard, pas ein' zique ! &quot; (EM).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">eine zique : petite quantité. </df><df id="2">Pas eine zique : pas du tout. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Pis in n' va pas faire eune histoire / Pou eun' tiot' zique ed' marée noire ! &quot; (PM). </ExemplePicard><ExemplePicard id="2">&quot; Du pinard, pas ein' zique ! &quot; (EM).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Ziquette</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>dim. de zique. &quot; Cha n' fait point enne ziquette ed doute ! &quot; (RD). &quot; Elle n'oubliait pas la ziquette de sel et trois ués bien touillés &quot; (EM).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">dim. de zique. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Cha n' fait point enne ziquette ed doute ! &quot; (RD). </ExemplePicard><ExemplePicard id="2">&quot; Elle n'oubliait pas la ziquette de sel et trois ués bien touillés &quot; (EM).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>ZUITE</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>crachat gras. Peut-être de huître, par analogie d'aspect.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">crachat gras. Peut-être de huître, par analogie d'aspect.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>ZUSSIER</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>déform. pour huissier. &quot; L' zussier y avanche au juche des paperasses &quot; (GF). (Voir : lussier).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">déform. pour huissier. </df><df id="2">Voir : lussier).</df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; L' zussier y avanche au juche des paperasses &quot; (GF). (</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée>
-        </Nomenclature>
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+  <entry>
+    <form>
+      <orth>ZANTE</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: dim. d'Alexandre. Prénom du héros de RD : l' Zante Boursiau.</quote>
+    </def>
+    <def label="française">
+      <quote>: dim. d'Alexandre. Prénom du héros de RD : l' Zante Boursiau.</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>ZEPH</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: dim. de Joseph. Prénom du héros de JM : l' Zeph Cafougnette.</quote>
+    </def>
+    <def label="française">
+      <quote>: dim. de Joseph. Prénom du héros de JM : l' Zeph Cafougnette.</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>ZINE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - ivresse, cuite. &quot; Quand i s'in r'va avec enn' zine, / Su s' feimme, i bat core l' tambour &quot; (PB).
+      </quote>
+      <quote>
+        2 - idée bizarre, caprice. &quot; Queun' zinn' qui li a pris ... ed mette ses chabots tout findus d'vant l' quéménée ? &quot; (PP).
+      </quote>
+      <quote>
+        3 - passion. &quot; J' connos des fèmes qu'alles ont l' zinn' des fleurs &quot; (PP) (voir : quint, dadale),
+      </quote>
+      <quote>4 - donner eune zine : rosser (GH).</quote>
+    </def>
+    <def label="française">
+      <quote>1 - ivresse, cuite. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Quand i s'in r'va avec enn' zine, / Su s' feimme, i bat core l' tambour &quot; (PB).
+      </quote>
+    </cit>
+    <etym></etym>
+    <def label="française">
+      <quote>2 - idée bizarre, caprice. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Queun' zinn' qui li a pris ... ed mette ses chabots tout findus d'vant l' quéménée ? &quot; (PP).
+      </quote>
+    </cit>
+    <etym></etym>
+    <def label="française">
+      <quote>3 - passion. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; J' connos des fèmes qu'alles ont l' zinn' des fleurs &quot; (PP) (voir : quint, dadale),
+      </quote>
+    </cit>
+    <etym></etym>
+    <def label="française">
+      <quote>4 - donner eune zine : rosser (GH).</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>ZIQUE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        eine zique : petite quantité. &quot; Pis in n' va pas faire eune histoire / Pou eun' tiot' zique ed' marée noire ! &quot; (PM). Pas eine zique : pas du tout. &quot; Du pinard, pas ein' zique ! &quot; (EM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>eine zique : petite quantité. </quote>
+    </def>
+    <def label="française">
+      <quote>Pas eine zique : pas du tout. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Pis in n' va pas faire eune histoire / Pou eun' tiot' zique ed' marée noire ! &quot; (PM).
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; Du pinard, pas ein' zique ! &quot; (EM).</quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Ziquette</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        dim. de zique. &quot; Cha n' fait point enne ziquette ed doute ! &quot; (RD). &quot; Elle n'oubliait pas la ziquette de sel et trois ués bien touillés &quot; (EM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>dim. de zique. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; Cha n' fait point enne ziquette ed doute ! &quot; (RD). </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Elle n'oubliait pas la ziquette de sel et trois ués bien touillés &quot; (EM).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>ZUITE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>crachat gras. Peut-être de huître, par analogie d'aspect.</quote>
+    </def>
+    <def label="française">
+      <quote>crachat gras. Peut-être de huître, par analogie d'aspect.</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>ZUSSIER</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        déform. pour huissier. &quot; L' zussier y avanche au juche des paperasses &quot; (GF). (Voir : lussier).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>déform. pour huissier. </quote>
+    </def>
+    <def label="française">
+      <quote>Voir : lussier).</quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; L' zussier y avanche au juche des paperasses &quot; (GF). (
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+</TEI>

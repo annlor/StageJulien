@@ -1,0 +1,5579 @@
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+  <entry>
+    <form>
+      <orth>Galerie horizontale de mine (LH)</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim"/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GABER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>moquer, tourner en dérision.</quote>
+    </def>
+    <def label="française">
+      <quote>moquer, tourner en dérision.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">moquer</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">tourner en dérision</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GADE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : gate).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : gate).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GADOU</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        dans l'expr. faire des yeux gadous : faire les yeux doux, avoir un regard vague ou tendre.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        dans l'expr. faire des yeux gadous : faire les yeux doux, avoir un regard vague ou tendre.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GADOUILLER ou GADROUILLER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>agiter une eau trouble avec les mains, manier malproprement.</quote>
+    </def>
+    <def label="française">
+      <quote>agiter une eau trouble avec les mains, manier malproprement.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Gadouilleux ou gadrouilleux</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>gâcheur, personne brouillonne, peu soigneuse.</quote>
+    </def>
+    <def label="française">
+      <quote>gâcheur, personne brouillonne, peu soigneuse.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">gâcheur</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Gadou(il)le ou gadrou(il)le</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        boue liquide ; mélange peu ragoûtant ; nourriture mal préparée. ANC. : le mot gadoue est passé en fr. d'une source dial. d'orig. inconnue. Fl. donne, comme orig. : ga (préf. péj.)
+      </quote>
+    </def>
+    <def label="française">
+      <quote>boue liquide ; mélange peu ragoûtant ; nourriture mal préparée. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : le mot gadoue est passé en fr. d'une source dial. d'orig. inconnue. Fl. donne, comme orig. : ga (préf. péj.)
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GADRAN</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        cadran. &quot; M' cousin Tatav, il a l'aiwuill' du gadran &quot;. ANC. : on notera, à la suite, un certain nombre de mots où l'occl. sourde du fr. (k) fait place, en rouchi, à l'occl. sonore g.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>cadran. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">cadran</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; M' cousin Tatav, il a l'aiwuill' du gadran &quot;. </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : on notera, à la suite, un certain nombre de mots où l'occl. sourde du fr. (k) fait place, en rouchi, à l'occl. sonore g.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GADROU(IL)LER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : gadouiller).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : gadouiller).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GADROUILLETTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        jeune fille potelée (GH). Le mot a pris un sens un peu péj. : jeune fille effrontée (peut-être à cause du rappr. avec gadrouille). &quot; I s'agrippe à s' pétite fille Laïte, eune gadrouillette d'eune treizaine d'années &quot; (PP). ANC. : peut-être de gade (chèvre), gadel (chevreau) (XIIIe) ? On trouve gadrue : vive, éveillée, gaillarde (Fl, S, 1648). &quot; Prignon toute gadrue / ... / li donne en boaisié &quot; (= un baiser).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        jeune fille potelée (GH). Le mot a pris un sens un peu péj. : jeune fille effrontée (peut-être à cause du rappr. avec gadrouille).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I s'agrippe à s' pétite fille Laïte, eune gadrouillette d'eune treizaine d'années &quot; (PP).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : peut-être de gade (chèvre), gadel (chevreau) (XIIIe) ? On trouve gadrue : vive, éveillée, gaillarde (Fl, S, 1648). &quot; Prignon toute gadrue / ... / li donne en boaisié &quot; (= un baiser).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GAGNAGE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        gain, salaire, profit. &quot; Marie-t' té, té verras t' gagnage &quot; dit-on aux jeunes gens qui se plaignent de leurs conditions de vie à la maison paternelle. &quot; Monsieur s'a mis... / A n' pus rinde qué l' démotié de s' gagnage &quot; (JQ).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>gain, salaire, profit. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">gain</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">salaire</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">profit</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Marie-t' té, té verras t' gagnage &quot; dit-on aux jeunes gens qui se plaignent de leurs conditions de vie à la maison paternelle.
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Monsieur s'a mis... / A n' pus rinde qué l' démotié de s' gagnage &quot; (JQ).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GAGO (FRÈRE) (JM)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        ami fraternel. &quot; Mais là j'ai trouvé trois amis, / Trois &quot; frèr's gagos &quot; qui m'ont eu quière &quot;. (A noter que JM met l'expr. entre guillemets).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>ami fraternel. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>frèr's gagos </quote>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>A noter que JM met l'expr. entre guillemets).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Mais là j'ai trouvé trois amis, / Trois &quot; </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; qui m'ont eu quière &quot;. (</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GAHUTTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>niche à chien. ANC. : cahutte (voir : gadran).</quote>
+    </def>
+    <def label="française">
+      <quote>niche à chien. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : cahutte (voir : gadran).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GAIGNER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : guégner).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : guégner).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GAILLET</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>caillot de sang. ANC. : (voir : gadran).</quote>
+    </def>
+    <def label="française">
+      <quote>caillot de sang. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : (voir : gadran).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GAILLETTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        (Nous signalons ce mot et ses dérivés bien qu'ils soient passés en fr. au XVIIIe ou au XIXe, car ils sont originaires du Hainaut). Morceau de charbon. Les Gaillettes : les Anzinois (JQ). L'gaillette et l' ménu : tout le monde, grands et petits. &quot; Tout l' galiette et l' ménu, / Sans prind' el temps d' deirmer, courott' comme GL (donc hors du bassin minier), gaillette : motte de terre dure. ANC. : BW, Rob., GLL donnent comme orig. gaille : noix (nux gallica). On objectera que la gaillette de charbon est infiniment plus grosse que la gaille du noyer. &quot; Tout le gros charbon est galiète &quot; corrigeait déjà GH en 1834. Nous suggérons : caillette : petite pierre (Fables d'Ovide, XIIIe, du gaulois caliavo, comme caillou. (Passage du k au g, comme pour gadran). A signaler, enfin, gal, variante de cal- : pierre (Conquête de Jérusalem, XIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        (Nous signalons ce mot et ses dérivés bien qu'ils soient passés en fr. au XVIIIe ou au XIXe, car ils sont originaires du Hainaut). Morceau de charbon. Les Gaillettes : les Anzinois (JQ). L'gaillette et l' ménu : tout le monde, grands et petits.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : BW, Rob., GLL donnent comme orig. gaille : noix (nux gallica). On objectera que la gaillette de charbon est infiniment plus grosse que la gaille du noyer. &quot; Tout le gros charbon est galiète &quot; corrigeait déjà GH en 1834. Nous suggérons : caillette : petite pierre (Fables d'Ovide, XIIIe, du gaulois caliavo, comme caillou. (Passage du k au g, comme pour gadran). A signaler, enfin, gal, variante de cal- : pierre (Conquête de Jérusalem, XIIe).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Ga(il)l(e)tin</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        charbon de petit calibre ; dim. de gaillette. &quot; Le lieu, c'est Anzin, le pays noir. Les gens, ce sont les mineurs, les chevaliers du gailletin &quot; (FP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>charbon de petit calibre ; dim. de gaillette. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Le lieu, c'est Anzin, le pays noir. Les gens, ce sont les mineurs, les chevaliers du gailletin &quot; (FP).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Ga(il)l(e)tries</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f. pl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        , charbon domestique, communément appelé 30/50. &quot; D'us qu'il est l' temps béni qu'in avot des gal'tries / Et dé l' fine anthracite ! &quot; (JD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>, charbon domestique, communément appelé 30/50. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; D'us qu'il est l' temps béni qu'in avot des gal'tries / Et dé l' fine anthracite ! &quot; (JD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GAÏOLE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : guéiole).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : guéiole).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GAÏOLÉ</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        bariolé, de plusieurs couleurs. &quot; Il a ses yeux pochés, / S' figur' tout' gaïolée &quot; (GF).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>bariolé, de plusieurs couleurs. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">bariolé</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Il a ses yeux pochés, / S' figur' tout' gaïolée &quot; (GF).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GALAF(RE) ou GOLAF(RE) ou GOULAF(R)E</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        glouton. &quot; Ça t'apprendra à faire le galaf, t'as toudis les yeux plus grands que le ventre &quot; (EM). &quot; T'es d' trop golaf : quand t'es à tape, tu n' sais point t' modérer &quot; (RD). ANC. : galafre : oiseau de proie (Roman d'Alexandre, 1180) ; homme vorace ; golos : goulu (XIIe) ; goliart : glouton, débauché (XIIIe). Dér. du lat. : gula : gosier, gorge ; gloutonnerie.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>glouton. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">glouton</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ça t'apprendra à faire le galaf, t'as toudis les yeux plus grands que le ventre &quot; (EM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; T'es d' trop golaf : quand t'es à tape, tu n' sais point t' modérer &quot; (RD).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : galafre : oiseau de proie (Roman d'Alexandre, 1180) ; homme vorace ; golos : goulu (XIIe) ; goliart : glouton, débauché (XIIIe). Dér. du lat. : gula : gosier, gorge ; gloutonnerie.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GALATASSE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        tonnelle, cabinet de verdure. &quot; Je me revois dégustant de la bière blanche... sous les galatasses de Romainville &quot; (FP). ANC. : &quot; Wettiez ! v'là là un galatasse / U qu' nous s'rons fort bien à no n'asse &quot; (Fl, F, XVIIe). La Tour de Galata, à Constantinople, a donné son nom, au XIVe (Eustache Deschamps, 1398) aux chambres à galathas (situées sous les combles), puis au galetas. Le rouchi a gardé l'idée d'un local sous un toit (de feuillage, chez nous).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>tonnelle, cabinet de verdure. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">tonnelle</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Je me revois dégustant de la bière blanche... sous les galatasses de Romainville &quot; (FP).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : &quot; Wettiez ! v'là là un galatasse / U qu' nous s'rons fort bien à no n'asse &quot; (Fl, F, XVIIe). La Tour de Galata, à Constantinople, a donné son nom, au XIVe (Eustache Deschamps, 1398) aux chambres à galathas (situées sous les combles), puis au galetas. Le rouchi a gardé l'idée d'un local sous un toit (de feuillage, chez nous).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GALE ou GALLE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        ampoule, petite tumeur pleine de sérosité entre derme et épiderme. Gale forbature (JM) ou forbatue : ampoule enflammée. ANC. : il semble qu'il vaille mieux rapprocher ce mot de galle : excroissance produite sur une feuille de végétal par une piqûre d'insecte ; plutôt que de cal : durcissement et épaississement de l'épiderme.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        ampoule, petite tumeur pleine de sérosité entre derme et épiderme. Gale forbature (JM) ou forbatue : ampoule enflammée.
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">ampoule</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : il semble qu'il vaille mieux rapprocher ce mot de galle : excroissance produite sur une feuille de végétal par une piqûre d'insecte ; plutôt que de cal : durcissement et épaississement de l'épiderme.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GALE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        au sens fr. de maladie de la peau. Avoir la gale aux dints : avoir grand faim. &quot; Ces victimes d' l'All'magn' cruelle / Panche à vute et la gale aux dints &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        au sens fr. de maladie de la peau. Avoir la gale aux dints : avoir grand faim.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ces victimes d' l'All'magn' cruelle / Panche à vute et la gale aux dints &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* GALÈRE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        garnement. &quot; L' veuv', cramoisi', s'lièv', rugit : Tas d' galères ! &quot;
+      </quote>
+    </def>
+    <def label="française">
+      <quote>garnement. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">garnement</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; L' veuv', cramoisi', s'lièv', rugit : Tas d' galères ! &quot;
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GALIBOT</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        apprenti mineur. &quot; L'infant d' mineur d'allot à l' fosse / Heureux d'êtr', sous tierr', galibot &quot; (JM). ANC. : BW évoque le mot picard galibier (polisson), qui aurait changé de suffixe déformé du pic. galobier (gaillard), se livrant à la galoberie (débauche).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>apprenti mineur. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; L'infant d' mineur d'allot à l' fosse / Heureux d'êtr', sous tierr', galibot &quot; (JM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : BW évoque le mot picard galibier (polisson), qui aurait changé de suffixe déformé du pic. galobier (gaillard), se livrant à la galoberie (débauche).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GALLE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : gale </quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : gale </quote>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GALOPIAU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>galopin (voir : galuriau). ANC. : de galoper, le </quote>
+    </def>
+    <def label="française">
+      <quote>galopin (voir : galuriau). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : de galoper, le </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GALOUCHE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>sorcière dont on effraie les enfants (noté à Curgies).</quote>
+    </def>
+    <def label="française">
+      <quote>sorcière dont on effraie les enfants (noté à Curgies).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GALTEUX (PMa)</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        brutal ; où on se lance des cailloux (voir : gaillette). &quot; I m' faura... dés jeux pus si galteux &quot;.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>brutal ; où on se lance des cailloux (voir : gaillette). </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">brutal</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; I m' faura... dés jeux pus si galteux &quot;.</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GALURIAU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        , GALURIETTE, s. f. : gamin, gamine. &quot; S' passer d' meinger pou d'aller vire des jonnes galuriaux courir après eune balle ! &quot; (RD). J'appelle core &quot; em' pétiote, em' galuriette &quot;, m' dernière qu'alle va su ses trente ans &quot; (JD). ANC. : galureau = gai
+      </quote>
+    </def>
+    <def label="française">
+      <quote>, GALURIETTE, s. f. : gamin, gamine. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">gamine</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>J'appelle core </quote>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>m' dernière qu'alle va su ses trente ans </quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; S' passer d' meinger pou d'aller vire des jonnes galuriaux courir après eune balle ! &quot; (RD).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; em' pétiote, em' galuriette &quot;, </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : galureau = gai </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GAMBE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        jambe ; gambe ed bos : jambe de bois. A gambes raides : à califourchon. &quot; In vous faisot monter, à l' fiête, / A gamb'raites d'sus les quévaux d' bos &quot; (PB). &quot; On n' peut mie d'aller su eun' seul' gamp' &quot; (JQ) : invitation à prendre un second verre. &quot; Va gratter tes gambes, t'aras des bas rouges &quot; (EM) = Va te faire fiche ! ANC. : du bas-lat. gamba.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        jambe ; gambe ed bos : jambe de bois. A gambes raides : à califourchon.
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">jambe</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; In vous faisot monter, à l' fiête, / A gamb'raites d'sus les quévaux d' bos &quot; (PB).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; On n' peut mie d'aller su eun' seul' gamp' &quot; (JQ) : invitation à prendre un second verre.
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Va gratter tes gambes, t'aras des bas rouges &quot; (EM) = Va te faire fiche !
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : du bas-lat. gamba.</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Gambette</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - petite jambe. &quot; Ç'n' infant-là i-a des bonnes gambettes &quot;. (Fr. dans ce sens).
+      </quote>
+      <quote>
+        2 - jambonneau. &quot; I-a fallu qu' j'arminche eune soupe à l' gambette avec du rassacage &quot; (RD). A gambettes : à califourchon.
+      </quote>
+      <quote>3 - injure à un boiteux. </quote>
+      <quote>4 - bâton de boiteux. </quote>
+      <quote>
+        5 - jadis, petit couteau pliant à manche de bois. ANC. : gambette, petite jambe (Adam de la Halle, 1260).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - petite jambe. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Fr. dans ce sens). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Ç'n' infant-là i-a des bonnes gambettes &quot;. (</quote>
+    </cit>
+    <etym>
+      <quote>ANC. : gambette, petite jambe (Adam de la Halle, 1260).</quote>
+    </etym>
+    <def label="française">
+      <quote>2 - jambonneau. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>A gambettes : à califourchon. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I-a fallu qu' j'arminche eune soupe à l' gambette avec du rassacage &quot; (RD).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : gambette, petite jambe (Adam de la Halle, 1260).</quote>
+    </etym>
+    <def label="française">
+      <quote>3 - injure à un boiteux. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : gambette, petite jambe (Adam de la Halle, 1260).</quote>
+    </etym>
+    <def label="française">
+      <quote>4 - bâton de boiteux. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : gambette, petite jambe (Adam de la Halle, 1260).</quote>
+    </etym>
+    <def label="française">
+      <quote>5 - jadis, petit couteau pliant à manche de bois. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : gambette, petite jambe (Adam de la Halle, 1260).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Gambier ou gambiller</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        marcher, cheminer. &quot; Vaut cor mieux gambier par les routes &quot; (GF). (En fr. pop. : danser). ANC. : &quot; ... je gambille / O pu to que je peu conterva chelle ville &quot; (Fl, E, 1634).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>marcher, cheminer. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">marcher</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">cheminer</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>En fr. pop. : danser). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Vaut cor mieux gambier par les routes &quot; (GF). (</quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : &quot; ... je gambille / O pu to que je peu conterva chelle ville &quot; (Fl, E, 1634).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Gambion</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        croc-en-jambe &quot; Té dos bin compreinte qué dé d'là l'vint n'té f'rot pont si facil'mint l'gambion &quot; (BD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>croc-en-jambe </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">croc-en-jambe</cit>
+      </cit>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Té dos bin compreinte qué dé d'là l'vint n'té f'rot pont si facil'mint l'gambion &quot; (BD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Gambon</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        gaimbon, s. m. : jambon. &quot; Ch'est vrai qu'i n'y-avot point d' gaimbon, / Mais n'y-ot des truch's plein un caudron &quot; (GF). Un gambon d' gauque : un morceau de noix, demi-cerneau.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>gaimbon, s. m. : jambon. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Un gambon d' gauque : un morceau de noix, demi-cerneau.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ch'est vrai qu'i n'y-avot point d' gaimbon, / Mais n'y-ot des truch's plein un caudron &quot; (GF).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GANGNER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        gagner. &quot; Y z'ermuott' ciel et tierr' pou povoir gangner quéqu' sous &quot; (JQ).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>gagner. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">gagner</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Y z'ermuott' ciel et tierr' pou povoir gangner quéqu' sous &quot; (JQ).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* GANTIER</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>chantier (support de tonneau), madriers sur lesquels on pose les</quote>
+    </def>
+    <def label="française">
+      <quote>chantier (support de tonneau), madriers sur lesquels on pose les</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GAQUÈRE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        GAQUIÈRE, GHESQUIÈRE, etc. ; s. f. : jachère. ANC. : bas-lat, gascaria, du gaulois ganskaria : charrue.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>GAQUIÈRE, GHESQUIÈRE, etc. ; s. f. : jachère. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">etc</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : bas-lat, gascaria, du gaulois ganskaria : charrue.</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GARBÉE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - gerbe (de blé). &quot; Pis, all's font des gaviaux, des garbé's, des estoques &quot; (GF).
+      </quote>
+      <quote>
+        2 - Vielle garbée : insulte adressée à une vieille femme. &quot; Si bé qué d' &quot; grand vacabond &quot; in &quot; vielle garbée &quot;, i n'avot pus rien qui d'allot inter euss &quot; (PP). ANC. : du francique garba, m. sens (cf. all. Garbe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - gerbe (de blé). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Pis, all's font des gaviaux, des garbé's, des estoques &quot; (GF).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : du francique garba, m. sens (cf. all. Garbe).</quote>
+    </etym>
+    <def label="française">
+      <quote>2 - Vielle garbée : insulte adressée à une vieille femme. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>grand vacabond </quote>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>vielle garbée </quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Si bé qué d' &quot; </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; in &quot; </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : du francique garba, m. sens (cf. all. Garbe).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GARCES (AH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f. pl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>mauvaises terres.</quote>
+    </def>
+    <def label="française">
+      <quote>mauvaises terres.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GARCHON</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        garçon, fils. Garchon-bachelette, garchon-falli, garchon-findu : fille garçonnière. &quot; Ma jeune soeur, vrai garchon-bachelette, s'associait à mes découvertes &quot; (FP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        garçon, fils. Garchon-bachelette, garchon-falli, garchon-findu : fille garçonnière.
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">garçon</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fils</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ma jeune soeur, vrai garchon-bachelette, s'associait à mes découvertes &quot; (FP).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Garchonnal</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m. garçon.</pos>
+    </gramGrp>
+    <def label="verbatim"/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Garchonnale</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        bande de gamins. &quot; C'est pour cela que la garçonnale de chez nous poursuit encore aujourd'hui les mésanges à coups de pierre &quot; (CD). ANC. : garçonaille : valetaille (Roman d'Alexandre, 1180).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>bande de gamins. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; C'est pour cela que la garçonnale de chez nous poursuit encore aujourd'hui les mésanges à coups de pierre &quot; (CD).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : garçonaille : valetaille (Roman d'Alexandre, 1180).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GARDÉNACHE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>GARDÉNIER : (voir : gardin).</quote>
+    </def>
+    <def label="française">
+      <quote>GARDÉNIER : (voir : gardin).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GARDEUX</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>gardien.</quote>
+    </def>
+    <def label="française">
+      <quote>gardien.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">gardien</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GARDÉ-VINT</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        paravent. &quot; ... s'n accordéon qui s' tortène / Comm' les feuillets d'un gardé-vint &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>paravent. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">paravent</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GARDIN</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        jardin. &quot; (I) s'écrie : Ah ! sacré coquin ! / Ch'est fini, mais t'arpass'ras pa m' gardin ! &quot; (JM) = on se retrouvera (menace). Gardin grign' dints ; le jardin de la mort, le cimetière (voir : grigner). &quot; Mais ch'est bin sûr pou s' coquett'rie / Qu' Fanny dort au gardin grign' dints &quot; (JM). ANC. : &quot; El gardin fu molt main entréz &quot; (Gligois, XIIIe). Du francique gard (qui a donné garden en angl., Garten en all. et gaard en néerl.).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>jardin. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">jardin</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : &quot; El gardin fu molt main entréz &quot; (Gligois, XIIIe). Du francique gard (qui a donné garden en angl., Garten en all. et gaard en néerl.).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Gardiner</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        jardiner. &quot; J' gardine à l' bonn' saison, j' lis, j'écris in hiver &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>jardiner. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">jardiner</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J' gardine à l' bonn' saison, j' lis, j'écris in hiver &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Gardénage</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>jardinage.</quote>
+    </def>
+    <def label="française">
+      <quote>jardinage.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">jardinage</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Gardénier</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>garâinier, s. m. : jardinier.</quote>
+    </def>
+    <def label="française">
+      <quote>garâinier, s. m. : jardinier.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GARDINAL</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        chardonneret. ANC. : cardinal (passage du k au g : voir : gadran).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>chardonneret. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">chardonneret</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : cardinal (passage du k au g : voir : gadran).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>* GARENNE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        clapier (St-Amand, Condé). &quot; Tout's les maisons... / Disposott'nt d'ein' garenne et d'un p'tit poulailler &quot; (GV).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>clapier (St-Amand, Condé). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Tout's les maisons... / Disposott'nt d'ein' garenne et d'un p'tit poulailler &quot; (GV).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GARE-TAPE !</orth>
+    </form>
+    <gramGrp>
+      <pos>interj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        attention ! &quot; Gar' tap', on intind l' Molin Bayon : nos d'allons avoir du temps &quot; (JQ). &quot; Gare tape ! cria Roger. Il prit la cholette avec le pic du crossillon et elle monta au ciel comme une étoile ! &quot; (CD) (Voir : tape).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>attention ! </quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Gar' tap', on intind l' Molin Bayon : nos d'allons avoir du temps &quot; (JQ).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Gare tape ! cria Roger. Il prit la cholette avec le pic du crossillon et elle monta au ciel comme une étoile ! &quot; (CD) (Voir : tape).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GARIN</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : carin).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : carin).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GARLOT (AH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>cruche.</quote>
+    </def>
+    <def label="française">
+      <quote>cruche.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">cruche</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GARLOTTER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - grelotter. &quot; I-étot toudis au coin du feu, / Garlottant comme un vieux frileux &quot; (JM).
+      </quote>
+      <quote>
+        2 - bouilloter. &quot; L' ratatoulle all' garlott', gra' mère &quot; (GF) ; faire un bruit d'ébullition : &quot; Si j'ai d' bésoin par nuit, / Ej' vas êt' obligé d' garlotter dins l' pot d' nuit &quot; (GF). ANC. : gargotter et garlotter peuvent venir d'une racine onomat. garg, qui rappelle le bruit de l'eau qui bout ou celui que fait la gorge quand on avale gloutonnement (BW). Gargoter eut le sens de bouillonner avec bruit. (Garloper a encore ce sens en Sud-Amiénois). D'autre part, il a pu se produire une confusion avec grelotter dont la racine est différente. (Voir : guernoter).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - grelotter. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I-étot toudis au coin du feu, / Garlottant comme un vieux frileux &quot; (JM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : gargotter et garlotter peuvent venir d'une racine onomat. garg, qui rappelle le bruit de l'eau qui bout ou celui que fait la gorge quand on avale gloutonnement (BW). Gargoter eut le sens de bouillonner avec bruit. (Garloper a encore ce sens en Sud-Amiénois). D'autre part, il a pu se produire une confusion avec grelotter dont la racine est différente. (Voir : guernoter).
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>2 - bouilloter. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>faire un bruit d'ébullition : </quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; L' ratatoulle all' garlott', gra' mère &quot; (GF) ; </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Si j'ai d' bésoin par nuit, / Ej' vas êt' obligé d' garlotter dins l' pot d' nuit &quot; (GF).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : gargotter et garlotter peuvent venir d'une racine onomat. garg, qui rappelle le bruit de l'eau qui bout ou celui que fait la gorge quand on avale gloutonnement (BW). Gargoter eut le sens de bouillonner avec bruit. (Garloper a encore ce sens en Sud-Amiénois). D'autre part, il a pu se produire une confusion avec grelotter dont la racine est différente. (Voir : guernoter).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GARLOUSETTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - jeune fille éveillée. &quot; D'us qué vous êt's, mes garlousettes. / Qu'in rincontrot dins les gloriettes &quot; (JD).
+      </quote>
+      <quote>
+        2 - plaisanterie, histoire drôle. &quot; All's nous sont arvénu's, tes gentill's garlousettes, / Rieus's ed s'artrouver su l' planque dé t' chér' brouette &quot; (JM) (dans ce poème, dédié à Jules Watteeuw, dit le Broutteux, JM joue sur les deux sens du mot). ANC. : peut-être d'une rac. germ. g
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - jeune fille éveillée. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; D'us qué vous êt's, mes garlousettes. / Qu'in rincontrot dins les gloriettes &quot; (JD).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : peut-être d'une rac. germ. g</quote>
+    </etym>
+    <def label="française">
+      <quote>2 - plaisanterie, histoire drôle. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; All's nous sont arvénu's, tes gentill's garlousettes, / Rieus's ed s'artrouver su l' planque dé t' chér' brouette &quot; (JM) (dans ce poème, dédié à Jules Watteeuw, dit le Broutteux, JM joue sur les deux sens du mot).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : peut-être d'une rac. germ. g</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GARTIER</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        , GARTIÈRE, s. f. : jarretière. &quot; On intind crier : / &quot; Ohé ohé &quot; pa l' biell' mâtine / Tandis qu'in li-inliève es gartier &quot; (GF). &quot; ... montrant l' gartière / A l' noç' toute intière, / Queu pathiau ! tout l' mond' saut'ra d'sus &quot; (JM). ANC. : on retrouve la syllabe avec occl. gar dans le gaulois garra, jambe, qui a donné, en fr. jarret, jarretière, etc.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>, GARTIÈRE, s. f. : jarretière. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Ohé ohé </quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; On intind crier : / &quot; </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; pa l' biell' mâtine / Tandis qu'in li-inliève es gartier &quot; (GF).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : on retrouve la syllabe avec occl. gar dans le gaulois garra, jambe, qui a donné, en fr. jarret, jarretière, etc.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GARUE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        grimpette, rue étroite et en pente raide. (Noté à Aulnoy, Maresches).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        grimpette, rue étroite et en pente raide. (Noté à Aulnoy, Maresches).
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">grimpette</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GASET</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : caset).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : caset).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GASIAU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        gosier : &quot; J' l'ai core à m' gasiau, el poule dé m' communion &quot; (PP). &quot; J' li aros poché s' gasiau &quot; (EM). &quot; Quand &quot; ch'est qué j' s'rai partie, / T'aras l' gaziau r'serré, cha s'ra bin fait pour ti ! &quot; (RP). ANC. : peut-être d'un croisement du rad : garg (= gosier) et du bas lat. geusioe.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>gosier : </quote>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        ch'est qué j' s'rai partie, / T'aras l' gaziau r'serré, cha s'ra bin fait pour ti !
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J' l'ai core à m' gasiau, el poule dé m' communion &quot; (PP).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; J' li aros poché s' gasiau &quot; (EM). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Quand &quot; </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : peut-être d'un croisement du rad : garg (= gosier) et du bas lat. geusioe.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GATE ou GADE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        chèvre. Grande gate ! : grande bique ! (insulte). (Voir : gadrouillette, maguette). ANC. : gade, m. sens (XIIIe). On trouve geyte (néerl.), Geiss (all.), goat (angl.).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        chèvre. Grande gate ! : grande bique ! (insulte). (Voir : gadrouillette, maguette).
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">chèvre</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : gade, m. sens (XIIIe). On trouve geyte (néerl.), Geiss (all.), goat (angl.).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GATIAU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>gâteau.</quote>
+    </def>
+    <def label="française">
+      <quote>gâteau.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">gâteau</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GAUDINETTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        jeune fille vive, aimant le plaisir. ANC. : gaudine : femme joyeuse, gentille, agréable (God.). Gaudir : se réjouir (Geste
+      </quote>
+    </def>
+    <def label="française">
+      <quote>jeune fille vive, aimant le plaisir. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : gaudine : femme joyeuse, gentille, agréable (God.). Gaudir : se réjouir (Geste
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GAUFIER</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        gaufrier (voir : aufier). &quot; Ce merveilleux outil qu'est l'aufier, le fier gaufrier, transfiguré &quot; (AS). &quot; Vaut mieux perdre el gaufre qué l' gaufrier &quot; = dans une naissance difficile, il vaut mieux perdre l'enfant que la mère.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>gaufrier (voir : aufier). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ce merveilleux outil qu'est l'aufier, le fier gaufrier, transfiguré &quot; (AS).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Vaut mieux perdre el gaufre qué l' gaufrier &quot; = dans une naissance difficile, il vaut mieux perdre l'enfant que la mère.
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GAUGE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>jauge.</quote>
+    </def>
+    <def label="française">
+      <quote>jauge.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">jauge</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Gauger</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        jauger. ANC. : du francique galga, anc. ht-all. galgo (treuil). (Cf. angl. gauge.)
+      </quote>
+    </def>
+    <def label="française">
+      <quote>jauger. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">jauger</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : du francique galga, anc. ht-all. galgo (treuil). (Cf. angl. gauge.)
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GAULE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        sorte de manteau de nuit pour femme (GH, qui écrit gole). &quot; Du moumint qu'eun' femm' al' avot eun' gaul' in indienn', al' étot fin contint' &quot; (JQ). ANC. : GLL donne gaule comme mot lillois : vêtement à manches ; et gaulle : robe de femme en mousseline, sous Louis XVI. Cf. le vx fr. gone, gonele, l'angl. gown du bas lat., gunna : vêtement de fourrure.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>sorte de manteau de nuit pour femme (GH, qui écrit gole). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Du moumint qu'eun' femm' al' avot eun' gaul' in indienn', al' étot fin contint' &quot; (JQ).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : GLL donne gaule comme mot lillois : vêtement à manches ; et gaulle : robe de femme en mousseline, sous Louis XVI. Cf. le vx fr. gone, gonele, l'angl. gown du bas lat., gunna : vêtement de fourrure.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GAUNE ou GANNE</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        jaune. Gaune d'ué : jaune d'oeuf. &quot; Au mitant des débris d'écail' et puis d'gaun' d'ués &quot; (BD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>jaune. Gaune d'ué : jaune d'oeuf. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">jaune</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Au mitant des débris d'écail' et puis d'gaun' d'ués &quot; (BD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GAUQUE ou GAUGUE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        noix. &quot; ... j' m'in allos, l' diminch' vindr'... des gauqu's, des cras-ballons &quot; (JM). &quot; A quat' sous, l' quartéron, les bellés-gauques ! &quot; (FP) (vente traditionnelle lors des parties de jeu de balle). &quot; Il eut bientôt mangé, comme on dit chez nous, le sac et les gauques &quot; (CD) = tout dissipé.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>noix. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">noix</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Gauguer ou gauquier</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        noyer. &quot; On l'avait trouvé sous un gogué qui est, chez nous, la même chose qu'un noyer &quot; (CD). &quot; Avec el gauquier, ein n' mé voit point, quand j' sus deins l' fond du gardin &quot; (RD). Jean du Gauguer : jacquemart, en bois de noyer, puis en bronze qui, en compagnie de sa &quot; femme &quot;, sonnait l'heure à l'anc. horloge astronomique de Val. ANC. : la noix fut nommée par les Romains venus en Gaule : nux gallica (noix gauloise). C'est cet adj. qui a donné gauque, ou, ailleurs, gaille.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>noyer. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">noyer</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        Jean du Gauguer : jacquemart, en bois de noyer, puis en bronze qui, en compagnie de sa
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>sonnait l'heure à l'anc. horloge astronomique de Val. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; On l'avait trouvé sous un gogué qui est, chez nous, la même chose qu'un noyer &quot; (CD).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Avec el gauquier, ein n' mé voit point, quand j' sus deins l' fond du gardin &quot; (RD).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; femme &quot;, </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : la noix fut nommée par les Romains venus en Gaule : nux gallica (noix gauloise). C'est cet adj. qui a donné gauque, ou, ailleurs, gaille.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GAVE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        (phon. : gaf) ; jabot d'une volaille. Avoir des gaves : avoir des écrouelles (qui attaquaient le cou). ANC. : gave, gosier (Renart le Novel, 1288). Du lat. gaba : gorge, gésier, goître. Le fr. a emprunté gaver au normanno-picard.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        (phon. : gaf) ; jabot d'une volaille. Avoir des gaves : avoir des écrouelles (qui attaquaient le cou).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : gave, gosier (Renart le Novel, 1288). Du lat. gaba : gorge, gésier, goître. Le fr. a emprunté gaver au normanno-picard.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GAVIAU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        javelle ; tas d'épis déposé à terre avant d'être mis en gerbes, deux gaviaux formant une garbée. ANC. : lat. pop. gabella, d'après le gaulois, lui-même d'après l'irl. gabhail (poignée).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        javelle ; tas d'épis déposé à terre avant d'être mis en gerbes, deux gaviaux formant une garbée.
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">javelle</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : lat. pop. gabella, d'après le gaulois, lui-même d'après l'irl. gabhail (poignée).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GAVILLER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>tricher au jeu.</quote>
+    </def>
+    <def label="française">
+      <quote>tricher au jeu.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Gavilleux</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        tricheur. ANC. : cavillerie, moquerie, tromperie (Livre du Trésor, 1260, du lat. cavillari : railler).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>tricheur. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">tricheur</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : cavillerie, moquerie, tromperie (Livre du Trésor, 1260, du lat. cavillari : railler).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GAYANT</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        géant (vx). &quot; Vous saurez que chez nous gayant se dit pour géant &quot; (CD). On sait que le chef de la famille des géants de Douai s'appelle Gayant, (le seul vint' d'osier à ne pas avoir
+      </quote>
+    </def>
+    <def label="française">
+      <quote>géant (vx). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        On sait que le chef de la famille des géants de Douai s'appelle Gayant, (le seul vint' d'osier à ne pas avoir
+      </quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Vous saurez que chez nous gayant se dit pour géant &quot; (CD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GÉE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        S. f. : levure de bière. &quot; Avec de la levure de bière, Madame, avec dé l' gé &quot; (EM). &quot; I s' faisot à l' lévure ed bière, / Qu'in vindot à l' brass'rie, &quot; del jet &quot; &quot; (JM). &quot; Et dé l' jé' qué l' ménagère / Met pou rindre es pât' légère &quot; (GF). ANC. : on trouve une rac. germ. gist (levure) qui a donné gist en néerl., yeast en angl. Gischt (écume) en all. avec, comme orig. la racine gr. zein = bouillir.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>S. f. : levure de bière. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>del jet </quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Avec de la levure de bière, Madame, avec dé l' gé &quot; (EM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I s' faisot à l' lévure ed bière, / Qu'in vindot à l' brass'rie, &quot;
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; &quot; (JM). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Et dé l' jé' qué l' ménagère / Met pou rindre es pât' légère &quot; (GF).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : on trouve une rac. germ. gist (levure) qui a donné gist en néerl., yeast en angl. Gischt (écume) en all. avec, comme orig. la racine gr. zein = bouillir.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GÉLÉE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        S. f. : gelée. &quot; Blanqué gelée ara s' cul lavé &quot; (GH) = la pluie suit souvent une gelée blanche.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>S. f. : gelée. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Blanqué gelée ara s' cul lavé &quot; (GH) = la pluie suit souvent une gelée blanche.
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GÊNER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>V. : &quot; Ch'ti qui s' gêne, i-a doubel peine &quot; (FP).</quote>
+    </def>
+    <def label="française">
+      <quote>V. : </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Ch'ti qui s' gêne, i-a doubel peine &quot; (FP).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GÉNIÈFE ou G(E)N(I)ÈFE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        eau-de-vie de grain aromatisée aux baies de genièvre. &quot; Nous avons eu soin d'envaler chacun eun' veilleuss' d' bon g'nef' &quot; (JQ). &quot; In va boire un bon g'nièfe à deux &quot; (EM). &quot; Et déjà l' vin, mauvais' tisann' rougie, / N'a point pus d' goût qué l' génief'-fantaisie ! &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>eau-de-vie de grain aromatisée aux baies de genièvre. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Nous avons eu soin d'envaler chacun eun' veilleuss' d' bon g'nef' &quot; (JQ).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; In va boire un bon g'nièfe à deux &quot; (EM). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Et déjà l' vin, mauvais' tisann' rougie, / N'a point pus d' goût qué l' génief'-fantaisie ! &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GERNER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>germer.</quote>
+    </def>
+    <def label="française">
+      <quote>germer.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">germer</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Gerne ou gernon</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        germe d'une graine, d'un oeuf ; bourbillon d'un abcès. &quot; Que de pressions ne subira pas un abcès tant qu'il n'aura pas rendu... le germe, le &quot; gernon &quot;, source du pus &quot; (AS).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>germe d'une graine, d'un oeuf ; bourbillon d'un abcès. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>gernon </quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Que de pressions ne subira pas un abcès tant qu'il n'aura pas rendu... le germe, le &quot;
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GHESQUIÈRE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : gaquière). Patronyme.</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : gaquière). Patronyme.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GIBLOT</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : seut).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : seut).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GILLE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        le mot est fr. A retenir pour l'expr. un sot gille : un imbécile. (Voir : girie.)
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        le mot est fr. A retenir pour l'expr. un sot gille : un imbécile. (Voir : girie.)
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GIN</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        bande affectée à un ouvrier agricole dans un champ où plusieurs personnes travaillent de front.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        bande affectée à un ouvrier agricole dans un champ où plusieurs personnes travaillent de front.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GINT</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        plur. GINS : gent, gens. Ch'est eine bonne gint : c'est une bonne personne. Allez, à r'voir, mes gins ! : manière courante de prendre congé. Alle est rallée chez ses gins : elle est repartie dans sa famille. Ch'est chacun ses gins = on favorise toujours les siens. Mes biaux-gins : ma belle famille. &quot; In ara tout vu ! Ravisse em' gint-là ! &quot; (PP) = regarde-moi celle-là ! (péj.). Assis-t-té in gint ! = tiens-toi bien sur ta chaise (comme une grande personne). Et' edvant les gins (AH) = être en service (domestique).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        plur. GINS : gent, gens. Ch'est eine bonne gint : c'est une bonne personne. Allez, à r'voir, mes gins ! : manière courante de prendre congé. Alle est rallée chez ses gins : elle est repartie dans sa famille. Ch'est chacun ses gins = on favorise toujours les siens. Mes biaux-gins : ma belle famille.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">gens</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; In ara tout vu ! Ravisse em' gint-là ! &quot; (PP) = regarde-moi celle-là ! (péj.). Assis-t-té in gint ! = tiens-toi bien sur ta chaise (comme une grande personne). Et' edvant les gins (AH) = être en service (domestique).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* GIRIE (pour GILLERIE)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        tromperie, mauvaise plaisanterie. ANC. : gilerie : moquerie (God.) ; action digne d'un gilles (niais). Gille a d'ailleurs aussi le sens de tromperie, supercherie. &quot; Fui, ribaus, lai ester te gille &quot; (Jehan Bodel, 1190) = arrête ta supercherie.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>tromperie, mauvaise plaisanterie. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">tromperie</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : gilerie : moquerie (God.) ; action digne d'un gilles (niais). Gille a d'ailleurs aussi le sens de tromperie, supercherie. &quot; Fui, ribaus, lai ester te gille &quot; (Jehan Bodel, 1190) = arrête ta supercherie.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GLACHE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>glace (eau gelée).</quote>
+    </def>
+    <def label="française">
+      <quote>glace (eau gelée).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Glacher</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>glacer.</quote>
+    </def>
+    <def label="française">
+      <quote>glacer.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">glacer</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Glach(e)nière (GD)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>glacière.</quote>
+    </def>
+    <def label="française">
+      <quote>glacière.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">glacière</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GLAINE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        poule. &quot; Calmé... / Comme eun' glain' misse à l'ieau pou l'impêcher d' couver &quot; (PB). Grande glaine : grande femme sans grâce. Paradis des noirtés-glaines : enfer. &quot; Le Grand-Choleur comprit que le vieux faucheur... allait le conduire droit au paradis des noirtés-glaines &quot; (CD). ANC. : galine, gline (Guernes de Pont Ste-Maxence, 1190) du lat. gallina : poule.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>poule. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">poule</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        Grande glaine : grande femme sans grâce. Paradis des noirtés-glaines : enfer.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Calmé... / Comme eun' glain' misse à l'ieau pou l'impêcher d' couver &quot; (PB).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Le Grand-Choleur comprit que le vieux faucheur... allait le conduire droit au paradis des noirtés-glaines &quot; (CD).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : galine, gline (Guernes de Pont Ste-Maxence, 1190) du lat. gallina : poule.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GLAIRE ED PATÉ</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        gelée de pâté. &quot; In trann' comm' du glaire ed pâté &quot; (PM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>gelée de pâté. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; In trann' comm' du glaire ed pâté &quot; (PM).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GLAUTE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: claude, niais (voir : reine-glaute). ANC. : (voir : gadran).</quote>
+    </def>
+    <def label="française">
+      <quote>: claude, niais (voir : reine-glaute). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : (voir : gadran).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GLÉNER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>V. : glaner (on dit plutôt mess'ner).</quote>
+    </def>
+    <def label="française">
+      <quote>V. : glaner (on dit plutôt mess'ner).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Glène</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>glane. ANC. : gléner (XIIIe), du bas-lat. glenare.</quote>
+    </def>
+    <def label="française">
+      <quote>glane. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">glane</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : gléner (XIIIe), du bas-lat. glenare.</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GLICHER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        glisser. &quot; All' risqu' dé s' révernir in glichant d'sus l' noirglas &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>glisser. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">glisser</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; All' risqu' dé s' révernir in glichant d'sus l' noirglas &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Glichade</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>glissade, action de glisser.</quote>
+    </def>
+    <def label="française">
+      <quote>glissade, action de glisser.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">glissade</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Glichoire</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>piste de glace préparée pour y glisser.</quote>
+    </def>
+    <def label="française">
+      <quote>piste de glace préparée pour y glisser.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GLOUT</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        et adj. ; fém. GLOUTE : délicat, difficile pour sa nourriture, gourmet. &quot; N' s'agit mie d'êt' glout, quand in n' peut point ouvrer &quot; (PP). &quot; Glout comme un cat d'ermite. &quot; Ch'est un glout morciau :
+      </quote>
+      <quote>1 - c'est un mets fin. </quote>
+      <quote>2 - c'est une belle fille.</quote>
+    </def>
+    <def label="française">
+      <quote>
+        et adj. ; fém. GLOUTE : délicat, difficile pour sa nourriture, gourmet.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">gourmet</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Ch'est un glout morciau : </quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; N' s'agit mie d'êt' glout, quand in n' peut point ouvrer &quot; (PP).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Glout comme un cat d'ermite. &quot; </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>1 - c'est un mets fin. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>2 - c'est une belle fille.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Gloute-gueule</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        gourmet. ANC. : glout (orig. lat. : gluttire, avaler, de gluttus, gosier) s'est conservé jusqu'au XVIIe, en fr.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>gourmet. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">gourmet</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : glout (orig. lat. : gluttire, avaler, de gluttus, gosier) s'est conservé jusqu'au XVIIe, en fr.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>G(L)UI</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        paille de seigle ; poignée de paille de seigle triée (voir : églui) qui servait à faire des loïens pour lier le blé. ANC. ; glui, gluie, m. sens (Chrétien de Troyes, 1175).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        paille de seigle ; poignée de paille de seigle triée (voir : églui) qui servait à faire des loïens pour lier le blé.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Gluiant</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        toit de chaume en paille de seigle dont on enlevait une partie, dans les années de disette, pour la nourriture des bestiaux.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        toit de chaume en paille de seigle dont on enlevait une partie, dans les années de disette, pour la nourriture des bestiaux.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GNIEN-GNIEN</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        Faire gnien-gnien ; faire le dégoûté. &quot; Au leind'main dé l' ducass' d'Anzin / Ses garchons faisotent gnien-gnien / Su leux dîner &quot; (PB). Quand il a un tiot nien-nien (= une petite indisposition), ein n'est point gêné dé l' savoir &quot; (RD). &quot; Dodofe n'ara mie à s' plainte ed t'avoir ! I-arot bé tort ed daller faire des gnin-gnins &quot; (PP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>Faire gnien-gnien ; faire le dégoûté. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        Quand il a un tiot nien-nien (= une petite indisposition), ein n'est point gêné dé l' savoir
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Au leind'main dé l' ducass' d'Anzin / Ses garchons faisotent gnien-gnien / Su leux dîner &quot; (PB).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GOB(E)LIN</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        créature imaginaire dont on effraie les enfants ; à Aulnoy-les-Val., on le situe dans la chute d'eau du moulin.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        créature imaginaire dont on effraie les enfants ; à Aulnoy-les-Val., on le situe dans la chute d'eau du moulin.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GODALE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        petite bière, sans houblon. ANC. : godale, m. sens (Adam de la Halle, 1260).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>petite bière, sans houblon. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">petite bière</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : godale, m. sens (Adam de la Halle, 1260).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GOÈTE (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>1 - vieille brebis. </quote>
+      <quote>2 - vieille femme infirme.</quote>
+    </def>
+    <def label="française">
+      <quote>1 - vieille brebis. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>2 - vieille femme infirme.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Gognette</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        femme qui louche. &quot; Un oeul qui ravettiot l' cloquer d' Bonsecours quand l'aute i fixot ch'ti d' Condé, eune gognette, quoi ! &quot; (PP). ANC. : il y a bien le grec gonia (angle) qui rejoindrait le grec strabos (qui louche). Mais ce serait trop beau ! Les picards de la Somme disent : gognot.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>femme qui louche. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Un oeul qui ravettiot l' cloquer d' Bonsecours quand l'aute i fixot ch'ti d' Condé, eune gognette, quoi ! &quot; (PP).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : il y a bien le grec gonia (angle) qui rejoindrait le grec strabos (qui louche). Mais ce serait trop beau ! Les picards de la Somme disent : gognot.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GOGU(E)LU, ou GOGU (AH)</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        tout fier, tout glorieux de ce qu'on a, content de soi. ANC. : &quot; Al est bien rembzé et goglue &quot; (Fl, F, XVIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>tout fier, tout glorieux de ce qu'on a, content de soi. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : &quot; Al est bien rembzé et goglue &quot; (Fl, F, XVIIe).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Goguelu</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: vain, glorieux, fat, présomptueux (God.).</quote>
+    </def>
+    <def label="française">
+      <quote>: vain, glorieux, fat, présomptueux (God.).</quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">glorieux</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fat</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* GOGUETTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>morve qui descend d'une narine.</quote>
+    </def>
+    <def label="française">
+      <quote>morve qui descend d'une narine.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GOHIÈRE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : goyère).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : goyère).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GOLAF(RE)</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : galafre).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : galafre).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GOLE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : gaule).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : gaule).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GORGÈRE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - col de chemise. &quot; Eun' gorgère ! Ch'est l' col dé l' quémiss' du mineur &quot; (JM).
+      </quote>
+      <quote>
+        2 - goulot de bouteille. &quot; J'té vos là avec et' musette, el gorgère dé t' lit' ed bière qui passe &quot; (JD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - col de chemise. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Eun' gorgère ! Ch'est l' col dé l' quémiss' du mineur &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>2 - goulot de bouteille. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J'té vos là avec et' musette, el gorgère dé t' lit' ed bière qui passe &quot; (JD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Gorgeon</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        goulot. ANC. : gorjon : sein (XIVe). &quot; La gorge et li gorjons sont dehors la gonnelle &quot;.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>goulot. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">goulot</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : gorjon : sein (XIVe). &quot; La gorge et li gorjons sont dehors la gonnelle &quot;.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GORIAU</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        GOURIAU, s. m. : collier de cheval. Prind' el gouriau = se mettre au travail. &quot; J' sus peinsionné, mais j'ai arpris l' gouriau pou tros quat' sémaines &quot; (RD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        GOURIAU, s. m. : collier de cheval. Prind' el gouriau = se mettre au travail.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J' sus peinsionné, mais j'ai arpris l' gouriau pou tros quat' sémaines &quot; (RD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Gorier</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        gourier, gorlier (cette dernière graphie étant celle de la Charte de 1588), s. m. : bourrelier. ANC. : attesté au XIVe.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        gourier, gorlier (cette dernière graphie étant celle de la Charte de 1588), s. m. : bourrelier.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : attesté au XIVe.</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GOSETTE (GLec)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>pomme d'Adam.</quote>
+    </def>
+    <def label="française">
+      <quote>pomme d'Adam.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">pomme d'Adam</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GOUJARD (AH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        domestique chargé des gros travaux. ANC. : goujat (XVe) du languedocien gougeas (garçon) : valet d'armée, apprenti maçon).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>domestique chargé des gros travaux. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : goujat (XVe) du languedocien gougeas (garçon) : valet d'armée, apprenti maçon).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>* GOURMER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>déguster une boisson. (Voir : rébus.)</quote>
+    </def>
+    <def label="française">
+      <quote>déguster une boisson. (Voir : rébus.)</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GOUSIER</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>gosier. (Cf. Rabelais : Grandgousier).</quote>
+    </def>
+    <def label="française">
+      <quote>gosier. (Cf. Rabelais : Grandgousier).</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">gosier</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* GOUT</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        Ch'est m' goût = j'aime cela. &quot; Du momint qu' ch'est m' goût, forchémint ch' n'est pus l' tien ! &quot; (RD). Avoir du goût : avoir du plaisir, bien s'amuser. &quot; Cha n' coût' pas quer : in n'a point d' goût &quot; (JM). A noter que cette expression n'est pas propre à notre région ; on la trouve chez Colette, par ex. : &quot; J'ai passé la jographie, l'histoire, j'ai bien répondu, ah ! que j'ai du goût ! &quot; = que je suis contente ! (Claudine à l'école). (Voir : morciau).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>Ch'est m' goût = j'aime cela. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Avoir du goût : avoir du plaisir, bien s'amuser. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        A noter que cette expression n'est pas propre à notre région ; on la trouve chez Colette, par ex. :
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Du momint qu' ch'est m' goût, forchémint ch' n'est pus l' tien ! &quot; (RD).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Cha n' coût' pas quer : in n'a point d' goût &quot; (JM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J'ai passé la jographie, l'histoire, j'ai bien répondu, ah ! que j'ai du goût ! &quot; = que je suis contente ! (Claudine à l'école). (Voir : morciau).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GOUVION</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - goujon (poisson). &quot; Des wiseux s'amusott' à péquer d'z anwuill' et des gouvions &quot; (JQ).
+      </quote>
+      <quote>2 - goujon (cheville, tourillon). Patronyme.</quote>
+    </def>
+    <def label="française">
+      <quote>1 - goujon (poisson). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Des wiseux s'amusott' à péquer d'z anwuill' et des gouvions &quot; (JQ).
+      </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>2 - goujon (cheville, tourillon). Patronyme.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GO.YÈRE ou GOHIÈRE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        tarte au fromage (spécialité de Valenciennes). La pâte brisée est couverte d'un mélange de maroilles, de fromage blanc et d'oeufs. La tarte est mangée chaude : on fait fondre du beurre dessus au moment de servir. Une goyère, plus rustique se fait avec du mou fromache (fromage blanc) mis à graisser (cras fromache), que l'on tartine et que l'on fait griller à la flamme.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        tarte au fromage (spécialité de Valenciennes). La pâte brisée est couverte d'un mélange de maroilles, de fromage blanc et d'oeufs. La tarte est mangée chaude : on fait fondre du beurre dessus au moment de servir. Une goyère, plus rustique se fait avec du mou fromache (fromage blanc) mis à graisser (cras fromache), que l'on tartine et que l'on fait griller à la flamme.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GO.YETTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>crachat purulent.</quote>
+    </def>
+    <def label="française">
+      <quote>crachat purulent.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GRAIN</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        &quot; I n'y a pas d' grain qu'i n'euche es' palle &quot; (GH) = tout homme a ses défauts.
+      </quote>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Graine</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        graine ed ricin : contes à attraper les sots ; graine ed tchiou : épurge, ricin (plante purgative) ; graine ed losse : polisson, garnement).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        graine ed ricin : contes à attraper les sots ; graine ed tchiou : épurge, ricin (plante purgative) ; graine ed losse : polisson, garnement).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GRAMÈRE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - grand'mère. Gramère à z'écus : vieille femme riche. Gramère à poussières : correspond au &quot; marchand de sable &quot; qui endort les enfants. &quot; Pou qu' dins les yeux des p'tiots pass' gramère à poussière &quot; (GF). &quot; Imborgner s' gramère &quot; marcher dans la crotte.
+      </quote>
+      <quote>2 - laitue pommée d'hiver.</quote>
+    </def>
+    <def label="française">
+      <quote>
+        1 - grand'mère. Gramère à z'écus : vieille femme riche. Gramère à poussières : correspond au
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>qui endort les enfants. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>marcher dans la crotte. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; marchand de sable &quot; </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Pou qu' dins les yeux des p'tiots pass' gramère à poussière &quot; (GF).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Imborgner s' gramère &quot; </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>2 - laitue pommée d'hiver.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GRAMINT</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        GRAMMINT, GRANDMINT, adv. : beaucoup, en grande quantité. &quot; Su l' tonniau garni d'un drap blanc / Brulot'nt gramint d' candell's mouflues &quot; (GF). &quot; Les Boch's n'ont pus grandmint d' farine &quot; (LB). &quot; Cha n' coûtot point d'argint grammint &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>GRAMMINT, GRANDMINT, adv. : beaucoup, en grande quantité. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Su l' tonniau garni d'un drap blanc / Brulot'nt gramint d' candell's mouflues &quot; (GF).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Les Boch's n'ont pus grandmint d' farine &quot; (LB). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Cha n' coûtot point d'argint grammint &quot; (JM).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GRANDESSIMILE (BD)</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        au grandes-simile galop = au grand galop (voir : décibel, au grand décibel galop, de JQ). Apparaît comme une déform. de grandissime dont GH signale par ailleurs l'aphérèse dissime.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        au grandes-simile galop = au grand galop (voir : décibel, au grand décibel galop, de JQ). Apparaît comme une déform. de grandissime dont GH signale par ailleurs l'aphérèse dissime.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GRAND-PORTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>portail. Un grand-porte vert.</quote>
+    </def>
+    <def label="française">
+      <quote>portail. Un grand-porte vert.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">portail</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GRAU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        griffe, ongle. &quot; I passera par mes graus &quot; (GH) = je prendrai ma revanche. &quot; Ch'est comme un cat à l'agonie, i fait core sintir ses graus &quot; (GH) = il sera méchant jusqu'à la fin. &quot; L'hiver i moutrot ses gratis &quot; (JQ) = il faisait très froid. &quot; La faim c'minchot à fair' sintir ses graües &quot; (JQ).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>griffe, ongle. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">griffe</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">ongle</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I passera par mes graus &quot; (GH) = je prendrai ma revanche.
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ch'est comme un cat à l'agonie, i fait core sintir ses graus &quot; (GH) = il sera méchant jusqu'à la fin.
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; L'hiver i moutrot ses gratis &quot; (JQ) = il faisait très froid.
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; La faim c'minchot à fair' sintir ses graües &quot; (JQ).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Graué</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        fourche à dents recourbées servant à enlever le fumier (voir : hauwé).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        fourche à dents recourbées servant à enlever le fumier (voir : hauwé).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Grauer</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>griffer.</quote>
+    </def>
+    <def label="française">
+      <quote>griffer.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">griffer</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GRAVÉ</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        et adj. : marqué par la petite vérole. L'adj. est fr., le subs. semble dialectal. &quot; In annonce es' mariache / Avec un autr' gravé &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        et adj. : marqué par la petite vérole. L'adj. est fr., le subs. semble dialectal.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; In annonce es' mariache / Avec un autr' gravé &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* GRÈBE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        mangeoire pour chevaux. I-est toudis à grèbe = il est toujours en train de manger. ANC. : du francique kripja qui a donné crèche en fr., Krippe en all., krib(be) en néerl. et greppia en ital. God. signale, en vx fr. : grebbe et grebion.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        mangeoire pour chevaux. I-est toudis à grèbe = il est toujours en train de manger.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : du francique kripja qui a donné crèche en fr., Krippe en all., krib(be) en néerl. et greppia en ital. God. signale, en vx fr. : grebbe et grebion.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>* GREFFIER</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        secrétaire de mairie. &quot; Ch'tot du temps qué l' secrétaire ed mairie, in i disot greffier &quot; (PP). &quot; Si l' maire n'étot point enne andoulle, i n' laisserot point l' greffier commander s' baraque &quot; (RD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>secrétaire de mairie. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">secrétaire de mairie</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ch'tot du temps qué l' secrétaire ed mairie, in i disot greffier &quot; (PP).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Si l' maire n'étot point enne andoulle, i n' laisserot point l' greffier commander s' baraque &quot; (RD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GRÉMION</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        grumeau ; petit caillou. &quot; Les ball's pleuvott'nt comm' des grémions &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>grumeau ; petit caillou. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">grumeau</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Les ball's pleuvott'nt comm' des grémions &quot; (JM).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Grémieux</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>grumeleux.</quote>
+    </def>
+    <def label="française">
+      <quote>grumeleux.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">grumeleux</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* GRENADE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        crevette. &quot; Les huîtres, grenades et crabes seront vendus un quart d'heure avant les dites heures &quot;. (Anc. règlement du marché au poisson, Val.) &quot; Pou dîner... / Des grénat', eune tiette dé mouton &quot; (AD). (Voir : guernate.)
+      </quote>
+    </def>
+    <def label="française">
+      <quote>crevette. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">crevette</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Anc. règlement du marché au poisson, Val.) </quote>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Voir : guernate.)</quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Les huîtres, grenades et crabes seront vendus un quart d'heure avant les dites heures &quot;. (
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Pou dîner... / Des grénat', eune tiette dé mouton &quot; (AD). (
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GRÉNIER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : grigner).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : grigner).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GREULLES (GLec)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f. pl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>griffes du chat (voir : grau, égreuillé).</quote>
+    </def>
+    <def label="française">
+      <quote>griffes du chat (voir : grau, égreuillé).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GREUS</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        et s. m. : gros. &quot; J'avos greus coeur, j' tos prêt à braire &quot; (JD). Gustave el Greus : surnom de GT (Gustave Théry).
+      </quote>
+    </def>
+    <def label="française">
+      <quote> et s. m. : gros. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Gustave el Greus : surnom de GT (Gustave Théry).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; J'avos greus coeur, j' tos prêt à braire &quot; (JD). </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GRÈVE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        , GREVÉ, s. m. : devant de la jambe, tibia. Le Lar. encycl. le donne comme fam. et définit : &quot; Face antéro-interne du tibia &quot;. Le mot a vieilli en fr. mais reste courant en rouchi. &quot; Attention à vos grèv' dé gampes, / Des cops, vous pouvez in r'chévoir &quot; (JM). ANC. : Diane, troussée jusqu'à demy-jambe, découvrant sa belle jambe et grève (Brantôme, XVIe). Au XIVe, la grève était la partie de l'armure qui protégeait le tibia.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        , GREVÉ, s. m. : devant de la jambe, tibia. Le Lar. encycl. le donne comme fam. et définit :
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">tibia</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Le mot a vieilli en fr. mais reste courant en rouchi. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Face antéro-interne du tibia &quot;. </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Attention à vos grèv' dé gampes, / Des cops, vous pouvez in r'chévoir &quot; (JM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : Diane, troussée jusqu'à demy-jambe, découvrant sa belle jambe et grève (Brantôme, XVIe). Au XIVe, la grève était la partie de l'armure qui protégeait le tibia.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Grevée (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        blessure du tibia. &quot; Ej' guéris tout... / Desquint', boursiaux, grèv' dé gampe, écauff'mint &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>blessure du tibia. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ej' guéris tout... / Desquint', boursiaux, grèv' dé gampe, écauff'mint &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GRIB(L)E</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>crible.</quote>
+    </def>
+    <def label="française">
+      <quote>crible.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">crible</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Gribîer</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>cribler. &quot; I-étot griblé d' cops ! &quot;.</quote>
+    </def>
+    <def label="française">
+      <quote>cribler. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">cribler</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; I-étot griblé d' cops ! &quot;.</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Griblage</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>criblage.</quote>
+    </def>
+    <def label="française">
+      <quote>criblage.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">criblage</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Griblures</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f. pl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        criblures, résidus des grains passés au crible. ANC. : God. donne gribel, gribeloir (crible) et gribeler (cribler). Pour le passage du k au g, voir gadran.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>criblures, résidus des grains passés au crible. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : God. donne gribel, gribeloir (crible) et gribeler (cribler). Pour le passage du k au g, voir gadran.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GRIGNER ou GRÉNIER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        grincer (des dents), grogner. &quot; I rind'nt gai ch'ti qui grign' des dints &quot;.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>grincer (des dents), grogner. </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">grogner</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; I rind'nt gai ch'ti qui grign' des dints &quot;.</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Grignage</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        gréniage, s. m. : grincement (des dents). &quot; J' sintos qu' ch'étot dé l' médisance, / D' l'invie et du greignache ed dints &quot; (PB).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>gréniage, s. m. : grincement (des dents). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J' sintos qu' ch'étot dé l' médisance, / D' l'invie et du greignache ed dints &quot; (PB).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Grignou</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>gréniou, adj. : pleurard.</quote>
+    </def>
+    <def label="française">
+      <quote>gréniou, adj. : pleurard.</quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">adj</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* Grignard</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        râleur, personne au mauvais caractère. &quot; In d'sire toudis ; jamais in ara vu autant d' grignards qu'à ch' t'heure &quot; (PP). ANC. : grignier, grinier, montrer les dents, grincer des dents (Fierabras, 1170), du francique grinan.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>râleur, personne au mauvais caractère. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">râleur</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; In d'sire toudis ; jamais in ara vu autant d' grignards qu'à ch' t'heure &quot; (PP).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : grignier, grinier, montrer les dents, grincer des dents (Fierabras, 1170), du francique grinan.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Grignart</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        rechigné, affreux (Le Chevalier au Cygne, XIIe). La métaphore : Mort = grign' dints s'explique par le sens premier &quot; montrer les dents &quot; ; c'est l'image même de la tête de mort.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        rechigné, affreux (Le Chevalier au Cygne, XIIe). La métaphore : Mort = grign' dints s'explique par le sens premier
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">rechigné</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>c'est l'image même de la tête de mort.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; montrer les dents &quot; ; </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GRINCHER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>grincer. (Voir : crincher).</quote>
+    </def>
+    <def label="française">
+      <quote>grincer. (Voir : crincher).</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">grincer</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Grinch(e)mint</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        grincement. A noter que grincheux, mot picard, n'apparaît en fr. qu'en 1844, sous la plume du jeune Baudelaire. ANC. : grisser, m. sens (XIVe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        grincement. A noter que grincheux, mot picard, n'apparaît en fr. qu'en 1844, sous la plume du jeune Baudelaire.
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">grincement</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : grisser, m. sens (XIVe).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GRINQUE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        griotte, variété de cerise aigre. ANC. : grinche : sorte de cerise (God.).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>griotte, variété de cerise aigre. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">griotte</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : grinche : sorte de cerise (God.).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GRIPPE-JÉSUS (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>dévot hypocrite ; homme qui ne rit jamais.</quote>
+    </def>
+    <def label="française">
+      <quote>dévot hypocrite ; homme qui ne rit jamais.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* GRIPPER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        gratter (dans la gorge). &quot; Attinds donc qué l' bouquet (du feu d'artice), fini' s' dernièr' leumière, / Les euch' grippés à l' gorge avec es' noirt' feumière &quot; (JD). ANC. : du francique gripan : saisir.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>gratter (dans la gorge). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Attinds donc qué l' bouquet (du feu d'artice), fini' s' dernièr' leumière, / Les euch' grippés à l' gorge avec es' noirt' feumière &quot; (JD).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : du francique gripan : saisir.</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GRIPPETTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>femme méchante.</quote>
+    </def>
+    <def label="française">
+      <quote>femme méchante.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GRIS-FRION</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>linotte. (Voir : frion, vert-frion).</quote>
+    </def>
+    <def label="française">
+      <quote>linotte. (Voir : frion, vert-frion).</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">linotte</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GRISOU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        gaz inflammable formé de méthane presque pur et qui se dégage dans les mines de charbon. A noter que les mineurs l'appellent simplement gaz (voir : cop). ANC. : forme wallonne de gresois ou grisois (feu grégeois). Le mot est att. en fr. dès 1758.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        gaz inflammable formé de méthane presque pur et qui se dégage dans les mines de charbon. A noter que les mineurs l'appellent simplement gaz (voir : cop).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : forme wallonne de gresois ou grisois (feu grégeois). Le mot est att. en fr. dès 1758.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>* Grognasse</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote> ou f. : personne grognonne, peu sociable.</quote>
+    </def>
+    <def label="française">
+      <quote> ou f. : personne grognonne, peu sociable.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Grognette</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>petite fille pleurnicheuse.</quote>
+    </def>
+    <def label="française">
+      <quote>petite fille pleurnicheuse.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* Grognon</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - groin : mufle de chien. &quot; Quand j'arais récauffé l' lit, madame al viendrot cor avec ses pieds frods comme des grognons d' tchien &quot; (RD).
+      </quote>
+      <quote>
+        2 - figure, visage (péj.). Ch' n'est pas pou t' grognon = tu n'en auras pas : Faire es' grognon : bouder. ANC. : lat. pop. grunnium (groin) du v. grunnire (grogner comme un porc).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - groin : mufle de chien. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Quand j'arais récauffé l' lit, madame al viendrot cor avec ses pieds frods comme des grognons d' tchien &quot; (RD).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : lat. pop. grunnium (groin) du v. grunnire (grogner comme un porc).
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>
+        2 - figure, visage (péj.). Ch' n'est pas pou t' grognon = tu n'en auras pas : Faire es' grognon : bouder.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : lat. pop. grunnium (groin) du v. grunnire (grogner comme un porc).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GROULER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        gronder, ronchonner. &quot; J' sus ossy asseuréz qué m' mère / M' groul'ra encor à s'n ordinaire &quot; (Fl, F, XVIIe). S'applique aux borborygmes intestinaux : &quot; J' sins m' vint' qui groul', j' cros qu'i s'ra bintot temps d' mier un morciau &quot; (JQ). ANC. : sans doute néerl. grollen : gronder, grogner.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>gronder, ronchonner. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">gronder</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">ronchonner</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>S'applique aux borborygmes intestinaux : </quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J' sus ossy asseuréz qué m' mère / M' groul'ra encor à s'n ordinaire &quot; (Fl, F, XVIIe).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J' sins m' vint' qui groul', j' cros qu'i s'ra bintot temps d' mier un morciau &quot; (JQ).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : sans doute néerl. grollen : gronder, grogner.</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>* GRUAU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m. giboulée.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        &quot; Les caillaux cha cait comme les gruaux d' mars &quot; (PP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote> </quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Les caillaux cha cait comme les gruaux d' mars &quot; (PP).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GRUGER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        aphérèse d'égruger : piler (du sel). Gruger l' marmot (GH) : croquer le marmot, attendre quelqu'un qui tarde à venir. ANC. : moy. néerl. gruizen : écraser.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        aphérèse d'égruger : piler (du sel). Gruger l' marmot (GH) : croquer le marmot, attendre quelqu'un qui tarde à venir.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : moy. néerl. gruizen : écraser.</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GRUSIELLE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        groseille. &quot; Prind' les chériss', les grusielles, les peuns et les poir' &quot; (JQ). ANC. : du francique krûsil.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>groseille. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">groseille</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Prind' les chériss', les grusielles, les peuns et les poir' &quot; (JQ).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : du francique krûsil.</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Grusier</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        groseiller. &quot; Y a d' larg's buissons l' long del voyette, / Ch'est des grusiers, pas pus hauts qu' cha &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>groseiller. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">groseiller</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Y a d' larg's buissons l' long del voyette, / Ch'est des grusiers, pas pus hauts qu' cha &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GUÉGNER ou GAIGNER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        guigner, épier ; regarder en clignant des yeux. &quot; ... ses goss's allot'nt d'un oeil d'invie / Gaigner à l' port' du four el' bonn' tart' du visin &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>guigner, épier ; regarder en clignant des yeux. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">guigner</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">épier</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GUÉIOLE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        GUIOLE, GAÏOLE, s. f. : Cage. Gites ou sommiers d' gueiole : barreaux de cage : &quot; Il a des mollets comme des gites ed guéiole &quot; = il est très maigre. &quot; ... j'ai des grêl's bras d'infant, / Comm' des sommiers d' guéiole et des gamp's à l'av'nant &quot; (JM). &quot; Té m' parais drôle, / T'as l'air d'un cat d'sus eun' guéiole &quot; (JM) (voir : cat). ANC. : jaiole : cage, prison, geôle (Wace, 1155), du lat. pop. gavea, pour cavea (cage). &quot; Et puis sui mis en gaiole &quot; (Voyage de St Brendan, vers 1105).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        GUIOLE, GAÏOLE, s. f. : Cage. Gites ou sommiers d' gueiole : barreaux de cage :
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Il a des mollets comme des gites ed guéiole &quot; = il est très maigre.
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : jaiole : cage, prison, geôle (Wace, 1155), du lat. pop. gavea, pour cavea (cage). &quot; Et puis sui mis en gaiole &quot; (Voyage de St Brendan, vers 1105).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GUÉNICHE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>génisse.</quote>
+    </def>
+    <def label="française">
+      <quote>génisse.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">génisse</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GUÉN(E)TONS</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m. pl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        cretons de lard ; syn. : cossiles. &quot; Le gras de lard est fondu pour obtenir le saindoux ... On apprécie beaucoup le résidu : les gainnetons &quot; (AL). ANC. : moy. néerl. kerte, entaille.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>cretons de lard ; syn. : cossiles. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Le gras de lard est fondu pour obtenir le saindoux ... On apprécie beaucoup le résidu : les gainnetons &quot; (AL).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : moy. néerl. kerte, entaille.</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>* GUERLICHE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        loche (poisson). &quot; Tout lui était de bonne prise et jusqu'aux guerliches ou loches &quot; (CD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>loche (poisson). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Tout lui était de bonne prise et jusqu'aux guerliches ou loches &quot; (CD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GUERLON</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        grêlon. &quot; Les gins sont étonnés / D'intinde com' l' buit du canon / Causé pa l' tapache des guerlons &quot; (JQ).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>grêlon. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">grêlon</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Les gins sont étonnés / D'intinde com' l' buit du canon / Causé pa l' tapache des guerlons &quot; (JQ).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GUERLOT</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - grelot. &quot; In f'sant sonner leus maiguerlets guerlots &quot; (GF).
+      </quote>
+      <quote>2 - petit oignon (légume).</quote>
+    </def>
+    <def label="française">
+      <quote>1 - grelot. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; In f'sant sonner leus maiguerlets guerlots &quot; (GF). </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>2 - petit oignon (légume).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Guerlotter</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>grelotter.</quote>
+    </def>
+    <def label="française">
+      <quote>grelotter.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">grelotter</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GUERNADE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>1 - grenade (arme). </quote>
+      <quote>2 - crevette (voir : grenade).</quote>
+    </def>
+    <def label="française">
+      <quote>1 - grenade (arme). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>2 - crevette (voir : grenade).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Guernadier</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        grenadier. &quot; Zeph, l'ancien guernadier, brayot tout plein s' moustache &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>grenadier. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">grenadier</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Zeph, l'ancien guernadier, brayot tout plein s' moustache &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GUERNIER</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        grenier. &quot; Ch'tot l' guernier d'abondance ed la Flandr' toute intière &quot; (JM). Aller au guernier : écrire en montant. (Voir : cave).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>grenier. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">grenier</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Aller au guernier : écrire en montant. (Voir : cave).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ch'tot l' guernier d'abondance ed la Flandr' toute intière &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GUERNOULLE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        grenouille. &quot; Y-avot mis s' choix su l' fille d'un ceinsier du café à guernoules &quot; (GT). &quot; Et tous l's ans, au quatorz' juillet, / Premier prix del Course à guernoulles &quot; (JM) (attraction de ducasse dans laquelle on devait transporter, en brouette, une grenouille sans la perdre en route). &quot; Ch' n'est pas li la faute qué les guernoulles n'ont pas d' queue &quot; = c'est un bon homme (le mot est peut-être pris ici dans le sens de cagnote, comme dans l'expr. fr. &quot; manger la grenouille &quot;). Grande guernoulle : grande femme mince (péj.). &quot; Alle est toudis là rétindue comme eune guernoulle &quot; = elle est toujours à ne rien faire.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>grenouille. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">grenouille</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Grande guernoulle : grande femme mince (péj.). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Y-avot mis s' choix su l' fille d'un ceinsier du café à guernoules &quot; (GT).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Et tous l's ans, au quatorz' juillet, / Premier prix del Course à guernoulles &quot; (JM) (attraction de ducasse dans laquelle on devait transporter, en brouette, une grenouille sans la perdre en route).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ch' n'est pas li la faute qué les guernoulles n'ont pas d' queue &quot; = c'est un bon homme (le mot est peut-être pris ici dans le sens de cagnote, comme dans l'expr. fr.
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; manger la grenouille &quot;). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Alle est toudis là rétindue comme eune guernoulle &quot; = elle est toujours à ne rien faire.
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GUERNOTER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        commencer à bouillir (bruit). &quot; Tout bout, tout guernote et n'a rien dins l' pot &quot; (L. Loriau, Vieux-Condé).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>commencer à bouillir (bruit). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Tout bout, tout guernote et n'a rien dins l' pot &quot; (L. Loriau, Vieux-Condé).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GUERNU</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>grenu, bien rempli de grain (épi).</quote>
+    </def>
+    <def label="française">
+      <quote>grenu, bien rempli de grain (épi).</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">grenu</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GUERZIN ou GUERZIL</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        grésil, menue grêle. &quot; I fait frod. V'là l'hiver. L' guerzin i va kéir &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>grésil, menue grêle. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">grésil</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I fait frod. V'là l'hiver. L' guerzin i va kéir &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GUÊT(R)E</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        &quot; M' pauv' femme', vous d'allez d' d'avoir eun' bonne à vos guêtes ! (GF) = vous allez passer un mauvais moment ! (voir : bonne). Té peux apprêter tes guêtes = tu peux te préparer à être mis dehors. &quot; Quand tu seras collé pou du bon, qui ch'est qui l'ara à s' guête, ch'est mi ! (RD) = qui paiera les conséquences ?
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        Quand tu seras collé pou du bon, qui ch'est qui l'ara à s' guête, ch'est mi ! (RD) = qui paiera les conséquences ?
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; M' pauv' femme', vous d'allez d' d'avoir eun' bonne à vos guêtes ! (GF) = vous allez passer un mauvais moment ! (voir : bonne). Té peux apprêter tes guêtes = tu peux te préparer à être mis dehors. &quot;
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GUETTIÈRE (voir</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: gaquière, ghesquière).</quote>
+    </def>
+    <def label="française">
+      <quote>: gaquière, ghesquière).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GUEULARD</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        sirène utiisée en cas d'accident (mines) (AL). Rem. : les sens très pop. de gueulard (gourmand, braillard) sont fr.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        sirène utiisée en cas d'accident (mines) (AL). Rem. : les sens très pop. de gueulard (gourmand, braillard) sont fr.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GUEULE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        A s' gueule ; gourmand, glouton. &quot; Il est à s' gueule comme un cat d'ermite &quot; (GH). &quot; Eune fille à s' gueule est bintôt foutue (GH) = fille gourmande est bientôt séduite. &quot; N' d'à d'z à s' gueule à cuisses ed guernioulles au bé à caracoles ! Beuque ! &quot; (PP). &quot; Plus il aime, plus il en mange. Tout le monde dit qu'il est un à s'gueule &quot; (AS). &quot; Pou s' gueule, i s' f'rot traîner su s' cul eune lieue d' long &quot; (GH). Avoir eune bonne gueule = avoir la parole facile. Gueule d' raie : soulier percé du bout. &quot; Fous t'gueule au mur, i manque eine brique &quot; (Onnaing) = Fiche-nous la paix !
+      </quote>
+    </def>
+    <def label="française">
+      <quote>A s' gueule ; gourmand, glouton. </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">gourmand</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">glouton</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        N' d'à d'z à s' gueule à cuisses ed guernioulles au bé à caracoles ! Beuque !
+      </quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Il est à s' gueule comme un cat d'ermite &quot; (GH). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Eune fille à s' gueule est bintôt foutue (GH) = fille gourmande est bientôt séduite. &quot;
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GUEUX</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - fripon. Les nobels-gueux : syn. de losse del Crox. &quot; Parlons du tondélier Popo, / L' ro des alosses et des wiseux, / L' général des sal-salop, / Infin, l' patron des nobels-gueux &quot; (JQ).
+      </quote>
+      <quote>2 - adj. : Ch'est gueux : c'est méchant, c'est mal. </quote>
+      <quote>
+        3 - terme d'affection donné aux enfants. &quot; Viens vir manman, m'tit gueux &quot; (comme d'autres mots péj. transformés en termes de tendresse : brigand, voyou, etc.).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - fripon. Les nobels-gueux : syn. de losse del Crox. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Parlons du tondélier Popo, / L' ro des alosses et des wiseux, / L' général des sal-salop, / Infin, l' patron des nobels-gueux &quot; (JQ).
+      </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>2 - adj. : Ch'est gueux : c'est méchant, c'est mal. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>3 - terme d'affection donné aux enfants. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        comme d'autres mots péj. transformés en termes de tendresse : brigand, voyou, etc.).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Viens vir manman, m'tit gueux &quot; (</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GUICHE ou GUISSE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        jeu du batoncheau. (GF) le décrit longuement dans le poème &quot; In juant à l' guiche &quot;. Il s'agit, avec un bâton, de projeter un morceau de bois taillé en fuseau (voir: taillette).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>jeu du batoncheau. (GF) le décrit longuement dans le poème </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        Il s'agit, avec un bâton, de projeter un morceau de bois taillé en fuseau (voir: taillette).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; In juant à l' guiche &quot;. </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GUIDER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>aphér. de aguider, guetter,</quote>
+    </def>
+    <def label="française">
+      <quote>aphér. de aguider, guetter,</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">guetter</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GUIFE ou GUIVE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        visage, bouche (péj.). &quot; Eune baffe su s' guiffe et trois quate tinques &quot; (AD). Té vas avoir su t' guife = tu vas recevoir une gifle. Et' à s' guife = êt' à s' gueule = être gourmand. &quot; V'là qu'i s' met bin vite à minger. A s'impaffer tout seu, l'à s' guive ! &quot; (JM). Noirtés-guifes :
+      </quote>
+      <quote>
+        1 - hommes de couleur. &quot; S'il n'arot qu'à restapler ces noirs-guifes... &quot; (JM) (ici, des Malgaches).
+      </quote>
+      <quote>
+        2 - masques. &quot; ... au temps du Carnéval / D'us qué les déguisés, bigarrés, noirtés-guifes... &quot; (JD). Mett' es' guife à l'air = aller se promener. ANC. : gife ou gifle : joue, jusqu'au XVIIe. (Le sens &quot; soufflet &quot; n'est att. qu'en 1807), du francique kifel : mâchoire (Cf. all. Kiefer). &quot; Qui borse a dure et giffes moles &quot; (Gautier de Coincy, 1220).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>visage, bouche (péj.). </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">visage</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        Té vas avoir su t' guife = tu vas recevoir une gifle. Et' à s' guife = êt' à s' gueule = être gourmand.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Noirtés-guifes : </quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Eune baffe su s' guiffe et trois quate tinques &quot; (AD).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; V'là qu'i s' met bin vite à minger. A s'impaffer tout seu, l'à s' guive ! &quot; (JM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : gife ou gifle : joue, jusqu'au XVIIe. (Le sens &quot; soufflet &quot; n'est att. qu'en 1807), du francique kifel : mâchoire (Cf. all. Kiefer). &quot; Qui borse a dure et giffes moles &quot; (Gautier de Coincy, 1220).
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>1 - hommes de couleur. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; S'il n'arot qu'à restapler ces noirs-guifes... &quot; (JM) (ici, des Malgaches).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : gife ou gifle : joue, jusqu'au XVIIe. (Le sens &quot; soufflet &quot; n'est att. qu'en 1807), du francique kifel : mâchoire (Cf. all. Kiefer). &quot; Qui borse a dure et giffes moles &quot; (Gautier de Coincy, 1220).
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>2 - masques. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : gife ou gifle : joue, jusqu'au XVIIe. (Le sens &quot; soufflet &quot; n'est att. qu'en 1807), du francique kifel : mâchoire (Cf. all. Kiefer). &quot; Qui borse a dure et giffes moles &quot; (Gautier de Coincy, 1220).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GUIGUIDE (ALLER A)</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : aller en voiture, à petite allure. &quot; Ej' pinsos d'aller à guiguide, / J' prinds l' mors à dints su l' quémin d' fier ! &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>: aller en voiture, à petite allure. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ej' pinsos d'aller à guiguide, / J' prinds l' mors à dints su l' quémin d' fier ! &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GUIGUITE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        petite bière obtenue quand on égoutte la levure. &quot; All' s'in va boir' du g'nèv' et dé l' guiguite &quot; (GF).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>petite bière obtenue quand on égoutte la levure. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; All' s'in va boir' du g'nèv' et dé l' guiguite &quot; (GF).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GUILLE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - quille. &quot; L' dimanche, pour aller juer à guiles, / I vindro jusqu'à ses guéniles &quot; (AD).
+      </quote>
+      <quote>
+        2 - jambe. &quot; Ch'est juste si cha tient su leus guilles / Qu' cha pinse à rire avec les filles &quot; (GT). &quot; Té n' tiens pus su tes guilles &quot; = tu ne tiens plus debout. Grantés-guilles, s. m. ou f. (sing.) : personne grande et mince, aux longues jambes. (Pour le passage du k à g, voir : gadran.)
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - quille. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; L' dimanche, pour aller juer à guiles, / I vindro jusqu'à ses guéniles &quot; (AD).
+      </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>2 - jambe. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ch'est juste si cha tient su leus guilles / Qu' cha pinse à rire avec les filles &quot; (GT).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Té n' tiens pus su tes guilles &quot; = tu ne tiens plus debout. Grantés-guilles, s. m. ou f. (sing.) : personne grande et mince, aux longues jambes. (Pour le passage du k à g, voir : gadran.)
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GUILLER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        syn. de bouter. &quot; Qui ch'est qui guille ? &quot; = qui &quot; s'y colle &quot; ?
+      </quote>
+    </def>
+    <def label="française">
+      <quote>syn. de bouter. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Qui ch'est qui guille ? &quot; = qui </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; s'y colle &quot; ?</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GUIL(L)ER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        couler de façon sirupeuse. &quot; L' pât' coulant' guill' dins l' payelle &quot; (GF). &quot; Deux tartin's plaqué's d' fromache / Et d' bon burr' qui guill' su l' pain &quot; (JM). &quot; Tarte au sucre, bien guillant, bien fondant, bien coulant &quot; (AS). ANC. : anc. néerl. ghilen. Le mot semble venir de la fabrication de la bière : celle-ci guille quand elle jette sa levure hors du fût, en fermentant.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>couler de façon sirupeuse. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; L' pât' coulant' guill' dins l' payelle &quot; (GF). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Deux tartin's plaqué's d' fromache / Et d' bon burr' qui guill' su l' pain &quot; (JM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Tarte au sucre, bien guillant, bien fondant, bien coulant &quot; (AS).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : anc. néerl. ghilen. Le mot semble venir de la fabrication de la bière : celle-ci guille quand elle jette sa levure hors du fût, en fermentant.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GUINCH(E)TERNEUX ou GUISTERNEUX</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        violoneux. &quot; (Ils) nous invit'nt à l' conterdanse / Comme ed z'indiablés guich'terneux &quot; (GF). &quot; De grand artiste il était devenu un pauvre guisterneux &quot; (CD). ANC. : guiterneus : joueur de guiterne, instrument à cordes pincées dérivé de la cithare et de la rote. On a peut-être là l'orig. de guinche (bal public, argot des chiffonniers, 1821) et de guincher : ginguer (qui a donné : guinguette), de giguer (sauter) est dérivé de gigue, autre instrument (à archet, à trois cordes).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>violoneux. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">violoneux</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : guiterneus : joueur de guiterne, instrument à cordes pincées dérivé de la cithare et de la rote. On a peut-être là l'orig. de guinche (bal public, argot des chiffonniers, 1821) et de guincher : ginguer (qui a donné : guinguette), de giguer (sauter) est dérivé de gigue, autre instrument (à archet, à trois cordes).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>GUINSE (FAIRE)</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: </quote>
+      <quote>
+        1 - faire bonne chère, faire la fête. &quot; Faire une chère de Dieu, une guince de Dieu &quot; (AS). &quot; Ils faisaient une guinse, je veux dire une noce, que le diable en prenait les armes &quot; (CD). &quot; Ils touch'nt eun' tiot' pinsion. / Pas assez, s'étot fait mett'... / A l' porte ed' l'écol' des frèr's à barbette... / El rest' du temps, i faisot guinse &quot; (GF).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>: </quote>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>1 - faire bonne chère, faire la fête. </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">faire la fête</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Faire une chère de Dieu, une guince de Dieu &quot; (AS). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ils faisaient une guinse, je veux dire une noce, que le diable en prenait les armes &quot; (CD).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ils touch'nt eun' tiot' pinsion. / Pas assez, s'étot fait mett'... / A l' porte ed' l'écol' des frèr's à barbette... / El rest' du temps, i faisot guinse &quot; (GF).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GUISSE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : guiche).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : guiche).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GUISTERNEUX</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : guinch'terneux).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : guinch'terneux).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GULLE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : culle).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : culle).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GULOT</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        GULEUT, s. m. : fil d'eau, ruisseau d'évacuation des eaux ménagères. &quot; V'là les deux camarates qui roulent dins l' guleu &quot; (GT). &quot; Les villes abominapes duss qu'i faut balier l' gulot &quot; (EM). ANC. : famille de gueule (Cf. fr. goulotte).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        GULEUT, s. m. : fil d'eau, ruisseau d'évacuation des eaux ménagères.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; V'là les deux camarates qui roulent dins l' guleu &quot; (GT).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Les villes abominapes duss qu'i faut balier l' gulot &quot; (EM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : famille de gueule (Cf. fr. goulotte).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>G'VAU</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : quévau).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : quévau).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GWILLE (GL)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        cheville. El gwille ouvrière : grosse cheville sur laquelle pivote l'avant-train d'un car.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        cheville. El gwille ouvrière : grosse cheville sur laquelle pivote l'avant-train d'un car.
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">cheville</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>GYMNACIEN</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        gymnaste. &quot; Madame Bloomer, ch' tot einne Inglaise qu'alle a invinté des maronnes pou les fèmes qu'alles volutent faire el gymnacien &quot; (PP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>gymnaste. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">gymnaste</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Madame Bloomer, ch' tot einne Inglaise qu'alle a invinté des maronnes pou les fèmes qu'alles volutent faire el gymnacien &quot; (PP).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+</TEI>

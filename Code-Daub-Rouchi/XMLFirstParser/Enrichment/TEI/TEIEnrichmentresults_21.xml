@@ -1,0 +1,237 @@
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+  <entry>
+    <form>
+      <orth>U</orth>
+    </form>
+    <gramGrp>
+      <pos>conj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        de sub. : où. &quot; ...à moins qué jé n' seuche / U qu' ch'est &quot; (Fl, F, XVIIe). (Voir : d'û, d'us, duss...).
+      </quote>
+    </def>
+    <def label="française">
+      <quote> de sub. : où. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>UCHE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir: huche).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir: huche).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>UE(F) (phon.</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : wé), s. m. : oeuf. (On trouve les graphies : eué, oué, oeué, ué. &quot; I-a pus quer deux uefs qu'eune truche &quot; (EC) = il préfère ce qui est bon, et cher. &quot; I n' donn'rot point par charité / L'iau dins l'quelle i fait cuir' ses eués &quot; (JM qui reprend un dicton att. par JQ). &quot; Il a d's oués d'zous les bras &quot; = c'est un paresseux (il ne se remue pas crainte de les casser ; cf. en fr. pop. : il ne se casse rien). ANC. : Uef, oeuf (Philippe de Thaun, 1119). Du lat. ovum.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        : wé), s. m. : oeuf. (On trouve les graphies : eué, oué, oeué, ué.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I-a pus quer deux uefs qu'eune truche &quot; (EC) = il préfère ce qui est bon, et cher.
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I n' donn'rot point par charité / L'iau dins l'quelle i fait cuir' ses eués &quot; (JM qui reprend un dicton att. par JQ).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Il a d's oués d'zous les bras &quot; = c'est un paresseux (il ne se remue pas crainte de les casser ; cf. en fr. pop. : il ne se casse rien).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : Uef, oeuf (Philippe de Thaun, 1119). Du lat. ovum.</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>UÈVE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : ouverre, ouvrer).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : ouverre, ouvrer).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>UN (BD)</orth>
+    </form>
+    <gramGrp>
+      <pos>pr. ind.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>on. &quot; Un m'a dit &quot;.</quote>
+    </def>
+    <def label="française">
+      <quote>on. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">on</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Un m'a dit &quot;.</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>UNIMINT</orth>
+    </form>
+    <gramGrp>
+      <pos>adv.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        simplement. &quot; In buvot, au baril, dé l'iau, tout unimint &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>simplement. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">simplement</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; In buvot, au baril, dé l'iau, tout unimint &quot; (JM).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>URBÉLER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : hurbéler).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : hurbéler).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>URCHON</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : hurechon-picot).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : hurechon-picot).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>USER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        &quot; I faut les user comme in les a &quot; = il faut vivre avec les gens tels qu'ils sont.
+      </quote>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* Usance</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>solidité, permettant un long usage.</quote>
+    </def>
+    <def label="française">
+      <quote>solidité, permettant un long usage.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">solidité</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* USINIER</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        ouvrier d'usine, métallurgiste. &quot; ... vir si gracieus'mint danser / L'usinier, l'ouverrier à l' veine &quot; (JM). ANC. : il est peut-être curieux de signaler que le mot usine n'est attesté en fr. qu'en 1732, mais que c'est un mot du Nord-Est de la France et, singulièrement, de Val. où l'on trouve la première attestation, en 1274, sous la forme wisine : atelier, boutique.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>ouvrier d'usine, métallurgiste. </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">métallurgiste</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : il est peut-être curieux de signaler que le mot usine n'est attesté en fr. qu'en 1732, mais que c'est un mot du Nord-Est de la France et, singulièrement, de Val. où l'on trouve la première attestation, en 1274, sous la forme wisine : atelier, boutique.
+      </quote>
+    </etym>
+  </entry>
+</TEI>

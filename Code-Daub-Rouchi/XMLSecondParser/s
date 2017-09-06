@@ -1,802 +1,669 @@
 <?xml version='1.0' encoding='utf-8'?>
-<Nomenclature>
-        <ArticleDeDictionnaire>
-        <Entrée>sa</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj. poss.</StructureGrammaticale>
-        <LexieEntiere>s', s'n.</LexieEntiere>
-        <Lexie><SousLexie>s'</SousLexie><SousLexie> s'n.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sable</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>sabouret, sabre, sape.</LexieEntiere>
-        <Lexie><SousLexie>sabouret</SousLexie><SousLexie> sabre</SousLexie><SousLexie> sape.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sabler</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>sabrer.</LexieEntiere>
-        <Lexie><SousLexie>sabrer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sabot</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>chabeut, chabot ; (toupie) taillo.</LexieEntiere>
-        <Lexie><SousLexie>chabeut</SousLexie><SousLexie> chabot </SousLexie><SousLexie> (toupie) taillo.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sac</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>sa ; (petit) mallette, saclet, sacquiau, satiau.</LexieEntiere>
-        <Lexie><SousLexie>sa </SousLexie><SousLexie> (petit) mallette</SousLexie><SousLexie> saclet</SousLexie><SousLexie> sacquiau</SousLexie><SousLexie> satiau.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>saccager</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>faire aufrache.</LexieEntiere>
-        <Lexie><SousLexie>faire aufrache.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sachée</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>sacquie.</LexieEntiere>
-        <Lexie><SousLexie>sacquie.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>saigner</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>san.ner, sonner.</LexieEntiere>
-        <Lexie><SousLexie>san.ner</SousLexie><SousLexie> sonner.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>saillir</Entrée>
-        <Complément>(être en saillie)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>biquer.</LexieEntiere>
-        <Lexie><SousLexie>biquer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>salaire</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>gagnage.</LexieEntiere>
-        <Lexie><SousLexie>gagnage.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>salir</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>brouser.</LexieEntiere>
-        <Lexie><SousLexie>brouser.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>saloir</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>salo.</LexieEntiere>
-        <Lexie><SousLexie>salo.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>saltimbanque</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>baraqueux, faiseux d' jeux.</LexieEntiere>
-        <Lexie><SousLexie>baraqueux</SousLexie><SousLexie> faiseux d' jeux.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sandwich</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>briquet, pain fourré.</LexieEntiere>
-        <Lexie><SousLexie>briquet</SousLexie><SousLexie> pain fourré.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sanglier</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>chingler, pourcheau-singler, singler.</LexieEntiere>
-        <Lexie><SousLexie>chingler</SousLexie><SousLexie> pourcheau-singler</SousLexie><SousLexie> singler.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sangloter</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>soumaquer.</LexieEntiere>
-        <Lexie><SousLexie>soumaquer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sangsue</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>sansurte.</LexieEntiere>
-        <Lexie><SousLexie>sansurte.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sans-souci</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>sans-bile.</LexieEntiere>
-        <Lexie><SousLexie>sans-bile.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sarbacane</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>albute, arbute, buquo, busette.</LexieEntiere>
-        <Lexie><SousLexie>albute</SousLexie><SousLexie> arbute</SousLexie><SousLexie> buquo</SousLexie><SousLexie> busette.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sarclage</Entrée>
-        <Complément>(des betteraves)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>ertaillage.</LexieEntiere>
-        <Lexie><SousLexie>ertaillage.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sarcler</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>écruauder.</LexieEntiere>
-        <Lexie><SousLexie>écruauder.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sarcleuse</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>écruaudeuse.</LexieEntiere>
-        <Lexie><SousLexie>écruaudeuse.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sarcloir</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>écruaudo.</LexieEntiere>
-        <Lexie><SousLexie>écruaudo.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sarrasin</Entrée>
-        <Complément>(céréale)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>bouquette.</LexieEntiere>
-        <Lexie><SousLexie>bouquette.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sarriette</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>saillette.</LexieEntiere>
-        <Lexie><SousLexie>saillette.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sauge</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>sale. Infusion de sauge : thé à l' sale.</LexieEntiere>
-        <Lexie><SousLexie>sale. Infusion de sauge : thé à l' sale.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>saule</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>sau, sauch ; (étêté) billote, halot.</LexieEntiere>
-        <Lexie><SousLexie>sau</SousLexie><SousLexie> sauch </SousLexie><SousLexie> (étêté) billote</SousLexie><SousLexie> halot.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>saute-mouton</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>berlicoco.</LexieEntiere>
-        <Lexie><SousLexie>berlicoco.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sauvé</Entrée>
-        <Complément>(être)</Complément>
-        <StructureGrammaticale>loc. v.</StructureGrammaticale>
-        <LexieEntiere>récapper.</LexieEntiere>
-        <Lexie><SousLexie>récapper.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>savate</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>chavate.</LexieEntiere>
-        <Lexie><SousLexie>chavate.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>savetier</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>chavetier, chaftier.</LexieEntiere>
-        <Lexie><SousLexie>chavetier</SousLexie><SousLexie> chaftier.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>scandaliser</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>esclandir.</LexieEntiere>
-        <Lexie><SousLexie>esclandir.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>scie</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>soïarte, raccourchoire, tranchenoirte.</LexieEntiere>
-        <Lexie><SousLexie>soïarte</SousLexie><SousLexie> raccourchoire</SousLexie><SousLexie> tranchenoirte.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>scier</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>soïer.</LexieEntiere>
-        <Lexie><SousLexie>soïer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>scories</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f. pl.</StructureGrammaticale>
-        <LexieEntiere>craïats, croïons. Enlever les scories : décrayonner.</LexieEntiere>
-        <Lexie><SousLexie>craïats</SousLexie><SousLexie> croïons. Enlever les scories : décrayonner.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>seau</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>seillaud, seyau, siau, sieu, seulle.</LexieEntiere>
-        <Lexie><SousLexie>seillaud</SousLexie><SousLexie> seyau</SousLexie><SousLexie> siau</SousLexie><SousLexie> sieu</SousLexie><SousLexie> seulle.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sèche</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>sèque ; bouche sèche : bouque essapie.</LexieEntiere>
-        <Lexie><SousLexie>sèque </SousLexie><SousLexie> bouche sèche : bouque essapie.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>séchoir</Entrée>
-        <Complément>(agricole)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>tourelle.</LexieEntiere>
-        <Lexie><SousLexie>tourelle.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>secouer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>alloter, anginer, arlocher, arloter, brandeler, bronner, escoeute, hochéner, hochiner, warloquer ; être secoué (sur une route) : bonqueter.</LexieEntiere>
-        <Lexie><SousLexie>alloter</SousLexie><SousLexie> anginer</SousLexie><SousLexie> arlocher</SousLexie><SousLexie> arloter</SousLexie><SousLexie> brandeler</SousLexie><SousLexie> bronner</SousLexie><SousLexie> escoeute</SousLexie><SousLexie> hochéner</SousLexie><SousLexie> hochiner</SousLexie><SousLexie> warloquer </SousLexie><SousLexie> être secoué (sur une route) : bonqueter.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>secrétaire de mairie</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>greffier.</LexieEntiere>
-        <Lexie><SousLexie>greffier.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>séducteur</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>affronteux (vx), abusieux d' filles.</LexieEntiere>
-        <Lexie><SousLexie>affronteux (vx)</SousLexie><SousLexie> abusieux d' filles.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>séduire</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>affronter (vx).</LexieEntiere>
-        <Lexie><SousLexie>affronter (vx).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>seigle</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>soile ; (vert) cras soile.</LexieEntiere>
-        <Lexie><SousLexie>soile </SousLexie><SousLexie> (vert) cras soile.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sein</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>tette, tototte.</LexieEntiere>
-        <Lexie><SousLexie>tette</SousLexie><SousLexie> tototte.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>semailles</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f. pl.</StructureGrammaticale>
-        <LexieEntiere>aan, couvrennes.</LexieEntiere>
-        <Lexie><SousLexie>aan</SousLexie><SousLexie> couvrennes.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>semblant</Entrée>
-        <Complément>(faire)</Complément>
-        <StructureGrammaticale>loc. v.</StructureGrammaticale>
-        <LexieEntiere>faire l'essenne.</LexieEntiere>
-        <Lexie><SousLexie>faire l'essenne.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sembler</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>san.ner, sonner.</LexieEntiere>
-        <Lexie><SousLexie>san.ner</SousLexie><SousLexie> sonner.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>semence</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>séminche.</LexieEntiere>
-        <Lexie><SousLexie>séminche.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>semer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>assémer, rassemer.</LexieEntiere>
-        <Lexie><SousLexie>assémer</SousLexie><SousLexie> rassemer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>senti</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>part. pas.</StructureGrammaticale>
-        <LexieEntiere>sintu.</LexieEntiere>
-        <Lexie><SousLexie>sintu.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sentier</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>piéchinte, piésente, voée, voïette, vouée.</LexieEntiere>
-        <Lexie><SousLexie>piéchinte</SousLexie><SousLexie> piésente</SousLexie><SousLexie> voée</SousLexie><SousLexie> voïette</SousLexie><SousLexie> vouée.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>séran</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>chérin.</LexieEntiere>
-        <Lexie><SousLexie>chérin.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>serin</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>fifi.</LexieEntiere>
-        <Lexie><SousLexie>fifi.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sermon</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>prêchemint.</LexieEntiere>
-        <Lexie><SousLexie>prêchemint.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>serpe</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>corbet, courbet.</LexieEntiere>
-        <Lexie><SousLexie>corbet</SousLexie><SousLexie> courbet.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>serpent</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere>(instr. de musique), s. m. : cron-cornet.</LexieEntiere>
-        <Lexie><SousLexie>(instr. de musique)</SousLexie><SousLexie> s. m. : cron-cornet.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>serpillière</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>loque à loqueter, loquetois, wassingue.</LexieEntiere>
-        <Lexie><SousLexie>loque à loqueter</SousLexie><SousLexie> loquetois</SousLexie><SousLexie> wassingue.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>serrer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>épautrer, époquer, pocher.</LexieEntiere>
-        <Lexie><SousLexie>épautrer</SousLexie><SousLexie> époquer</SousLexie><SousLexie> pocher.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>servante</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>méquenne.</LexieEntiere>
-        <Lexie><SousLexie>méquenne.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>service</Entrée>
-        <Complément>(ex-militaire)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>congé.</LexieEntiere>
-        <Lexie><SousLexie>congé.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>seul</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>tout seu.</LexieEntiere>
-        <Lexie><SousLexie>tout seu.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>seulement</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adv.</StructureGrammaticale>
-        <LexieEntiere>foque.</LexieEntiere>
-        <Lexie><SousLexie>foque.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>si bien que</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>loc. conj.</StructureGrammaticale>
-        <LexieEntiere>tant qu' si bin.</LexieEntiere>
-        <Lexie><SousLexie>tant qu' si bin.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>si ce n'est que</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
+<TEI>
+        <entry>
+        <form><orth>sa</orth><Complément></Complément></form>
+        <gramGrp><pos>adj. poss.</pos></gramGrp>
+        <def><quote>s', s'n.</quote></def>
+        <cit type="translation"><quote>s'</quote><quote> s'n.</quote></cit>
+      </entry><entry>
+        <form><orth>sable</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>sabouret, sabre, sape.</quote></def>
+        <cit type="translation"><quote>sabouret</quote><quote> sabre</quote><quote> sape.</quote></cit>
+      </entry><entry>
+        <form><orth>sabler</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>sabrer.</quote></def>
+        <cit type="translation"><quote>sabrer.</quote></cit>
+      </entry><entry>
+        <form><orth>sabot</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>chabeut, chabot ; (toupie) taillo.</quote></def>
+        <cit type="translation"><quote>chabeut</quote><quote> chabot </quote><quote> (toupie) taillo.</quote></cit>
+      </entry><entry>
+        <form><orth>sac</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>sa ; (petit) mallette, saclet, sacquiau, satiau.</quote></def>
+        <cit type="translation"><quote>sa </quote><quote> (petit) mallette</quote><quote> saclet</quote><quote> sacquiau</quote><quote> satiau.</quote></cit>
+      </entry><entry>
+        <form><orth>saccager</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>faire aufrache.</quote></def>
+        <cit type="translation"><quote>faire aufrache.</quote></cit>
+      </entry><entry>
+        <form><orth>sachée</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>sacquie.</quote></def>
+        <cit type="translation"><quote>sacquie.</quote></cit>
+      </entry><entry>
+        <form><orth>saigner</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>san.ner, sonner.</quote></def>
+        <cit type="translation"><quote>san.ner</quote><quote> sonner.</quote></cit>
+      </entry><entry>
+        <form><orth>saillir</orth><Complément>(être en saillie)</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>biquer.</quote></def>
+        <cit type="translation"><quote>biquer.</quote></cit>
+      </entry><entry>
+        <form><orth>salaire</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>gagnage.</quote></def>
+        <cit type="translation"><quote>gagnage.</quote></cit>
+      </entry><entry>
+        <form><orth>salir</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>brouser.</quote></def>
+        <cit type="translation"><quote>brouser.</quote></cit>
+      </entry><entry>
+        <form><orth>saloir</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>salo.</quote></def>
+        <cit type="translation"><quote>salo.</quote></cit>
+      </entry><entry>
+        <form><orth>saltimbanque</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>baraqueux, faiseux d' jeux.</quote></def>
+        <cit type="translation"><quote>baraqueux</quote><quote> faiseux d' jeux.</quote></cit>
+      </entry><entry>
+        <form><orth>sandwich</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>briquet, pain fourré.</quote></def>
+        <cit type="translation"><quote>briquet</quote><quote> pain fourré.</quote></cit>
+      </entry><entry>
+        <form><orth>sanglier</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>chingler, pourcheau-singler, singler.</quote></def>
+        <cit type="translation"><quote>chingler</quote><quote> pourcheau-singler</quote><quote> singler.</quote></cit>
+      </entry><entry>
+        <form><orth>sangloter</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>soumaquer.</quote></def>
+        <cit type="translation"><quote>soumaquer.</quote></cit>
+      </entry><entry>
+        <form><orth>sangsue</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>sansurte.</quote></def>
+        <cit type="translation"><quote>sansurte.</quote></cit>
+      </entry><entry>
+        <form><orth>sans-souci</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>sans-bile.</quote></def>
+        <cit type="translation"><quote>sans-bile.</quote></cit>
+      </entry><entry>
+        <form><orth>sarbacane</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>albute, arbute, buquo, busette.</quote></def>
+        <cit type="translation"><quote>albute</quote><quote> arbute</quote><quote> buquo</quote><quote> busette.</quote></cit>
+      </entry><entry>
+        <form><orth>sarclage</orth><Complément>(des betteraves)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>ertaillage.</quote></def>
+        <cit type="translation"><quote>ertaillage.</quote></cit>
+      </entry><entry>
+        <form><orth>sarcler</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>écruauder.</quote></def>
+        <cit type="translation"><quote>écruauder.</quote></cit>
+      </entry><entry>
+        <form><orth>sarcleuse</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>écruaudeuse.</quote></def>
+        <cit type="translation"><quote>écruaudeuse.</quote></cit>
+      </entry><entry>
+        <form><orth>sarcloir</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>écruaudo.</quote></def>
+        <cit type="translation"><quote>écruaudo.</quote></cit>
+      </entry><entry>
+        <form><orth>sarrasin</orth><Complément>(céréale)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>bouquette.</quote></def>
+        <cit type="translation"><quote>bouquette.</quote></cit>
+      </entry><entry>
+        <form><orth>sarriette</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>saillette.</quote></def>
+        <cit type="translation"><quote>saillette.</quote></cit>
+      </entry><entry>
+        <form><orth>sauge</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>sale. Infusion de sauge : thé à l' sale.</quote></def>
+        <cit type="translation"><quote>sale. Infusion de sauge : thé à l' sale.</quote></cit>
+      </entry><entry>
+        <form><orth>saule</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>sau, sauch ; (étêté) billote, halot.</quote></def>
+        <cit type="translation"><quote>sau</quote><quote> sauch </quote><quote> (étêté) billote</quote><quote> halot.</quote></cit>
+      </entry><entry>
+        <form><orth>saute-mouton</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>berlicoco.</quote></def>
+        <cit type="translation"><quote>berlicoco.</quote></cit>
+      </entry><entry>
+        <form><orth>sauvé</orth><Complément>(être)</Complément></form>
+        <gramGrp><pos>loc. v.</pos></gramGrp>
+        <def><quote>récapper.</quote></def>
+        <cit type="translation"><quote>récapper.</quote></cit>
+      </entry><entry>
+        <form><orth>savate</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>chavate.</quote></def>
+        <cit type="translation"><quote>chavate.</quote></cit>
+      </entry><entry>
+        <form><orth>savetier</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>chavetier, chaftier.</quote></def>
+        <cit type="translation"><quote>chavetier</quote><quote> chaftier.</quote></cit>
+      </entry><entry>
+        <form><orth>scandaliser</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>esclandir.</quote></def>
+        <cit type="translation"><quote>esclandir.</quote></cit>
+      </entry><entry>
+        <form><orth>scie</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>soïarte, raccourchoire, tranchenoirte.</quote></def>
+        <cit type="translation"><quote>soïarte</quote><quote> raccourchoire</quote><quote> tranchenoirte.</quote></cit>
+      </entry><entry>
+        <form><orth>scier</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>soïer.</quote></def>
+        <cit type="translation"><quote>soïer.</quote></cit>
+      </entry><entry>
+        <form><orth>scories</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f. pl.</pos></gramGrp>
+        <def><quote>craïats, croïons. Enlever les scories : décrayonner.</quote></def>
+        <cit type="translation"><quote>craïats</quote><quote> croïons. Enlever les scories : décrayonner.</quote></cit>
+      </entry><entry>
+        <form><orth>seau</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>seillaud, seyau, siau, sieu, seulle.</quote></def>
+        <cit type="translation"><quote>seillaud</quote><quote> seyau</quote><quote> siau</quote><quote> sieu</quote><quote> seulle.</quote></cit>
+      </entry><entry>
+        <form><orth>sèche</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>sèque ; bouche sèche : bouque essapie.</quote></def>
+        <cit type="translation"><quote>sèque </quote><quote> bouche sèche : bouque essapie.</quote></cit>
+      </entry><entry>
+        <form><orth>séchoir</orth><Complément>(agricole)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>tourelle.</quote></def>
+        <cit type="translation"><quote>tourelle.</quote></cit>
+      </entry><entry>
+        <form><orth>secouer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>alloter, anginer, arlocher, arloter, brandeler, bronner, escoeute, hochéner, hochiner, warloquer ; être secoué (sur une route) : bonqueter.</quote></def>
+        <cit type="translation"><quote>alloter</quote><quote> anginer</quote><quote> arlocher</quote><quote> arloter</quote><quote> brandeler</quote><quote> bronner</quote><quote> escoeute</quote><quote> hochéner</quote><quote> hochiner</quote><quote> warloquer </quote><quote> être secoué (sur une route) : bonqueter.</quote></cit>
+      </entry><entry>
+        <form><orth>secrétaire de mairie</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>greffier.</quote></def>
+        <cit type="translation"><quote>greffier.</quote></cit>
+      </entry><entry>
+        <form><orth>séducteur</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>affronteux (vx), abusieux d' filles.</quote></def>
+        <cit type="translation"><quote>affronteux (vx)</quote><quote> abusieux d' filles.</quote></cit>
+      </entry><entry>
+        <form><orth>séduire</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>affronter (vx).</quote></def>
+        <cit type="translation"><quote>affronter (vx).</quote></cit>
+      </entry><entry>
+        <form><orth>seigle</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>soile ; (vert) cras soile.</quote></def>
+        <cit type="translation"><quote>soile </quote><quote> (vert) cras soile.</quote></cit>
+      </entry><entry>
+        <form><orth>sein</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>tette, tototte.</quote></def>
+        <cit type="translation"><quote>tette</quote><quote> tototte.</quote></cit>
+      </entry><entry>
+        <form><orth>semailles</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f. pl.</pos></gramGrp>
+        <def><quote>aan, couvrennes.</quote></def>
+        <cit type="translation"><quote>aan</quote><quote> couvrennes.</quote></cit>
+      </entry><entry>
+        <form><orth>semblant</orth><Complément>(faire)</Complément></form>
+        <gramGrp><pos>loc. v.</pos></gramGrp>
+        <def><quote>faire l'essenne.</quote></def>
+        <cit type="translation"><quote>faire l'essenne.</quote></cit>
+      </entry><entry>
+        <form><orth>sembler</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>san.ner, sonner.</quote></def>
+        <cit type="translation"><quote>san.ner</quote><quote> sonner.</quote></cit>
+      </entry><entry>
+        <form><orth>semence</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>séminche.</quote></def>
+        <cit type="translation"><quote>séminche.</quote></cit>
+      </entry><entry>
+        <form><orth>semer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>assémer, rassemer.</quote></def>
+        <cit type="translation"><quote>assémer</quote><quote> rassemer.</quote></cit>
+      </entry><entry>
+        <form><orth>senti</orth><Complément></Complément></form>
+        <gramGrp><pos>part. pas.</pos></gramGrp>
+        <def><quote>sintu.</quote></def>
+        <cit type="translation"><quote>sintu.</quote></cit>
+      </entry><entry>
+        <form><orth>sentier</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>piéchinte, piésente, voée, voïette, vouée.</quote></def>
+        <cit type="translation"><quote>piéchinte</quote><quote> piésente</quote><quote> voée</quote><quote> voïette</quote><quote> vouée.</quote></cit>
+      </entry><entry>
+        <form><orth>séran</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>chérin.</quote></def>
+        <cit type="translation"><quote>chérin.</quote></cit>
+      </entry><entry>
+        <form><orth>serin</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>fifi.</quote></def>
+        <cit type="translation"><quote>fifi.</quote></cit>
+      </entry><entry>
+        <form><orth>sermon</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>prêchemint.</quote></def>
+        <cit type="translation"><quote>prêchemint.</quote></cit>
+      </entry><entry>
+        <form><orth>serpe</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>corbet, courbet.</quote></def>
+        <cit type="translation"><quote>corbet</quote><quote> courbet.</quote></cit>
+      </entry><entry>
+        <form><orth>serpent</orth><Complément></Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote>(instr. de musique), s. m. : cron-cornet.</quote></def>
+        <cit type="translation"><quote>(instr. de musique)</quote><quote> s. m. : cron-cornet.</quote></cit>
+      </entry><entry>
+        <form><orth>serpillière</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>loque à loqueter, loquetois, wassingue.</quote></def>
+        <cit type="translation"><quote>loque à loqueter</quote><quote> loquetois</quote><quote> wassingue.</quote></cit>
+      </entry><entry>
+        <form><orth>serrer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>épautrer, époquer, pocher.</quote></def>
+        <cit type="translation"><quote>épautrer</quote><quote> époquer</quote><quote> pocher.</quote></cit>
+      </entry><entry>
+        <form><orth>servante</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>méquenne.</quote></def>
+        <cit type="translation"><quote>méquenne.</quote></cit>
+      </entry><entry>
+        <form><orth>service</orth><Complément>(ex-militaire)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>congé.</quote></def>
+        <cit type="translation"><quote>congé.</quote></cit>
+      </entry><entry>
+        <form><orth>seul</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>tout seu.</quote></def>
+        <cit type="translation"><quote>tout seu.</quote></cit>
+      </entry><entry>
+        <form><orth>seulement</orth><Complément></Complément></form>
+        <gramGrp><pos>adv.</pos></gramGrp>
+        <def><quote>foque.</quote></def>
+        <cit type="translation"><quote>foque.</quote></cit>
+      </entry><entry>
+        <form><orth>si bien que</orth><Complément></Complément></form>
+        <gramGrp><pos>loc. conj.</pos></gramGrp>
+        <def><quote>tant qu' si bin.</quote></def>
+        <cit type="translation"><quote>tant qu' si bin.</quote></cit>
+      </entry><entry>
+        <form><orth>si ce n'est que</orth><Complément></Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote></quote></def>
         
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sieste</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>niquet.</LexieEntiere>
-        <Lexie><SousLexie>niquet.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sifflement</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>chiffelmint.</LexieEntiere>
-        <Lexie><SousLexie>chiffelmint.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>siffler</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>chiffler, chuffler.</LexieEntiere>
-        <Lexie><SousLexie>chiffler</SousLexie><SousLexie> chuffler.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sifflet</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>chifflot.</LexieEntiere>
-        <Lexie><SousLexie>chifflot.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>signe de croix</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>nom du père.</LexieEntiere>
-        <Lexie><SousLexie>nom du père.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>signer</Entrée>
-        <Complément>(se)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>faire au nom du père, incacher les mouques.</LexieEntiere>
-        <Lexie><SousLexie>faire au nom du père</SousLexie><SousLexie> incacher les mouques.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>silex</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>caillo cornu.</LexieEntiere>
-        <Lexie><SousLexie>caillo cornu.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sillon</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>berquin, roie ; (fessier) : roïette.</LexieEntiere>
-        <Lexie><SousLexie>berquin</SousLexie><SousLexie> roie </SousLexie><SousLexie> (fessier) : roïette.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>similitude</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>rétor.</LexieEntiere>
-        <Lexie><SousLexie>rétor.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>simple</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere> (avant le nom) simbel.</LexieEntiere>
-        <Lexie><SousLexie> (avant le nom) simbel.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>simplement</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adv.</StructureGrammaticale>
-        <LexieEntiere>unimint.</LexieEntiere>
-        <Lexie><SousLexie>unimint.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>singer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>argrigner, ergréner, ringrégner.</LexieEntiere>
-        <Lexie><SousLexie>argrigner</SousLexie><SousLexie> ergréner</SousLexie><SousLexie> ringrégner.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sobriquet</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>nom jeté, nom d' bertèque.</LexieEntiere>
-        <Lexie><SousLexie>nom jeté</SousLexie><SousLexie> nom d' bertèque.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>soc</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
+      </entry><entry>
+        <form><orth>sieste</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>niquet.</quote></def>
+        <cit type="translation"><quote>niquet.</quote></cit>
+      </entry><entry>
+        <form><orth>sifflement</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>chiffelmint.</quote></def>
+        <cit type="translation"><quote>chiffelmint.</quote></cit>
+      </entry><entry>
+        <form><orth>siffler</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>chiffler, chuffler.</quote></def>
+        <cit type="translation"><quote>chiffler</quote><quote> chuffler.</quote></cit>
+      </entry><entry>
+        <form><orth>sifflet</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>chifflot.</quote></def>
+        <cit type="translation"><quote>chifflot.</quote></cit>
+      </entry><entry>
+        <form><orth>signe de croix</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>nom du père.</quote></def>
+        <cit type="translation"><quote>nom du père.</quote></cit>
+      </entry><entry>
+        <form><orth>signer</orth><Complément>(se)</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>faire au nom du père, incacher les mouques.</quote></def>
+        <cit type="translation"><quote>faire au nom du père</quote><quote> incacher les mouques.</quote></cit>
+      </entry><entry>
+        <form><orth>silex</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>caillo cornu.</quote></def>
+        <cit type="translation"><quote>caillo cornu.</quote></cit>
+      </entry><entry>
+        <form><orth>sillon</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>berquin, roie ; (fessier) : roïette.</quote></def>
+        <cit type="translation"><quote>berquin</quote><quote> roie </quote><quote> (fessier) : roïette.</quote></cit>
+      </entry><entry>
+        <form><orth>similitude</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>rétor.</quote></def>
+        <cit type="translation"><quote>rétor.</quote></cit>
+      </entry><entry>
+        <form><orth>simple</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote> (avant le nom) simbel.</quote></def>
+        <cit type="translation"><quote> (avant le nom) simbel.</quote></cit>
+      </entry><entry>
+        <form><orth>simplement</orth><Complément></Complément></form>
+        <gramGrp><pos>adv.</pos></gramGrp>
+        <def><quote>unimint.</quote></def>
+        <cit type="translation"><quote>unimint.</quote></cit>
+      </entry><entry>
+        <form><orth>singer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>argrigner, ergréner, ringrégner.</quote></def>
+        <cit type="translation"><quote>argrigner</quote><quote> ergréner</quote><quote> ringrégner.</quote></cit>
+      </entry><entry>
+        <form><orth>sobriquet</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>nom jeté, nom d' bertèque.</quote></def>
+        <cit type="translation"><quote>nom jeté</quote><quote> nom d' bertèque.</quote></cit>
+      </entry><entry>
+        <form><orth>soc</orth><Complément></Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote></quote></def>
         
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>socle</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>abloc.</LexieEntiere>
-        <Lexie><SousLexie>abloc.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>soeur</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>suer'.</LexieEntiere>
-        <Lexie><SousLexie>suer'.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>soi</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>pr. pers.</StructureGrammaticale>
-        <LexieEntiere>li.</LexieEntiere>
-        <Lexie><SousLexie>li.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>soie</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
+      </entry><entry>
+        <form><orth>socle</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>abloc.</quote></def>
+        <cit type="translation"><quote>abloc.</quote></cit>
+      </entry><entry>
+        <form><orth>soeur</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>suer'.</quote></def>
+        <cit type="translation"><quote>suer'.</quote></cit>
+      </entry><entry>
+        <form><orth>soi</orth><Complément></Complément></form>
+        <gramGrp><pos>pr. pers.</pos></gramGrp>
+        <def><quote>li.</quote></def>
+        <cit type="translation"><quote>li.</quote></cit>
+      </entry><entry>
+        <form><orth>soie</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote></quote></def>
         
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>soif</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>so, soi.</LexieEntiere>
-        <Lexie><SousLexie>so</SousLexie><SousLexie> soi.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>soigné</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>rétis.</LexieEntiere>
-        <Lexie><SousLexie>rétis.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>solder</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>brader.</LexieEntiere>
-        <Lexie><SousLexie>brader.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>soleil</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>solé.</LexieEntiere>
-        <Lexie><SousLexie>solé.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>solidité</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere>(d'un tissu, etc.), s. f. : usance.</LexieEntiere>
-        <Lexie><SousLexie>(d'un tissu</SousLexie><SousLexie> etc.)</SousLexie><SousLexie> s. f. : usance.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sommeil</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>dormage.</LexieEntiere>
-        <Lexie><SousLexie>dormage.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sommet</Entrée>
-        <Complément>(de la tête)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>som.</LexieEntiere>
-        <Lexie><SousLexie>som.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>son</Entrée>
-        <Complément>(de farine)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>artrait.</LexieEntiere>
-        <Lexie><SousLexie>artrait.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>son</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj. pos.</StructureGrammaticale>
-        <LexieEntiere>s', sin, s'n.</LexieEntiere>
-        <Lexie><SousLexie>s'</SousLexie><SousLexie> sin</SousLexie><SousLexie> s'n.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sorbier</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>caurettier.</LexieEntiere>
-        <Lexie><SousLexie>caurettier.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sorcier</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>faiseux d' sorts.</LexieEntiere>
-        <Lexie><SousLexie>faiseux d' sorts.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sorcière</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>sorcielle.</LexieEntiere>
-        <Lexie><SousLexie>sorcielle.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sortir</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>déballer, débuquer, décageter, décaqueriller, défournaquer, déhutter, déjouquer, wuidier ; s'en sortir : s'in défarquer.</LexieEntiere>
-        <Lexie><SousLexie>déballer</SousLexie><SousLexie> débuquer</SousLexie><SousLexie> décageter</SousLexie><SousLexie> décaqueriller</SousLexie><SousLexie> défournaquer</SousLexie><SousLexie> déhutter</SousLexie><SousLexie> déjouquer</SousLexie><SousLexie> wuidier </SousLexie><SousLexie> s'en sortir : s'in défarquer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>soubresaut</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>arjon.</LexieEntiere>
-        <Lexie><SousLexie>arjon.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>souche</Entrée>
-        <Complément>(d'arbre)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>choque, culas.</LexieEntiere>
-        <Lexie><SousLexie>choque</SousLexie><SousLexie> culas.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>soucis</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m. pl.</StructureGrammaticale>
-        <LexieEntiere>passe-temps, ruses.</LexieEntiere>
-        <Lexie><SousLexie>passe-temps</SousLexie><SousLexie> ruses.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>souder</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>archuquer.</LexieEntiere>
-        <Lexie><SousLexie>archuquer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>souffreteux</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj. subs.</StructureGrammaticale>
-        <LexieEntiere>drissou, tchiou, vert-vessou.</LexieEntiere>
-        <Lexie><SousLexie>drissou</SousLexie><SousLexie> tchiou</SousLexie><SousLexie> vert-vessou.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>souffrir</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>soufferre.</LexieEntiere>
-        <Lexie><SousLexie>soufferre.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>souillon</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere> ou f. : Marie-graillon, sandrouillon.</LexieEntiere>
-        <Lexie><SousLexie> ou f. : Marie-graillon</SousLexie><SousLexie> sandrouillon.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>soulier</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>scrler.</LexieEntiere>
-        <Lexie><SousLexie>scrler.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>soupe</Entrée>
-        <Complément>(mauvaise)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>quiquisse.</LexieEntiere>
-        <Lexie><SousLexie>quiquisse.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>soupirail</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>boette, supéruel.</LexieEntiere>
-        <Lexie><SousLexie>boette</SousLexie><SousLexie> supéruel.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>soupirer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>téguer, téquer, hanser.</LexieEntiere>
-        <Lexie><SousLexie>téguer</SousLexie><SousLexie> téquer</SousLexie><SousLexie> hanser.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>souris</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>soris.</LexieEntiere>
-        <Lexie><SousLexie>soris.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sournois</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>lougnard, lourgneux.</LexieEntiere>
-        <Lexie><SousLexie>lougnard</SousLexie><SousLexie> lourgneux.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>soutanelle</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>cotte.</LexieEntiere>
-        <Lexie><SousLexie>cotte.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>souteneur</Entrée>
-        <Complément>(proxénète)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>mingeux d' blanc.</LexieEntiere>
-        <Lexie><SousLexie>mingeux d' blanc.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>souvenir</Entrée>
-        <Complément>(se)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>s' ramintuver, s' rapinser.</LexieEntiere>
-        <Lexie><SousLexie>s' ramintuver</SousLexie><SousLexie> s' rapinser.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>souvenir</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>ramintevrance.</LexieEntiere>
-        <Lexie><SousLexie>ramintevrance.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>souvent</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adv.</StructureGrammaticale>
-        <LexieEntiere>tréfosé (vx).</LexieEntiere>
-        <Lexie><SousLexie>tréfosé (vx).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>spectateur</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>arwettiant, arwettieux.</LexieEntiere>
-        <Lexie><SousLexie>arwettiant</SousLexie><SousLexie> arwettieux.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sperme</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>fioutre, chirop d'alleumette.</LexieEntiere>
-        <Lexie><SousLexie>fioutre</SousLexie><SousLexie> chirop d'alleumette.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>statuette</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>posture.</LexieEntiere>
-        <Lexie><SousLexie>posture.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>stupéfait</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>estoqué.</LexieEntiere>
-        <Lexie><SousLexie>estoqué.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>stupidité</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere> ; décholure.</LexieEntiere>
-        <Lexie><SousLexie> </SousLexie><SousLexie> décholure.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>su</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>part. pas.</StructureGrammaticale>
-        <LexieEntiere>séu.</LexieEntiere>
-        <Lexie><SousLexie>séu.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sucer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>chucher, tucher.</LexieEntiere>
-        <Lexie><SousLexie>chucher</SousLexie><SousLexie> tucher.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>suçoter</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>chuchéner.</LexieEntiere>
-        <Lexie><SousLexie>chuchéner.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>suçon</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>chuchon.</LexieEntiere>
-        <Lexie><SousLexie>chuchon.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sucre</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>chuque.</LexieEntiere>
-        <Lexie><SousLexie>chuque.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sucrer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>chucrer.</LexieEntiere>
-        <Lexie><SousLexie>chucrer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sucrerie</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere>s f. : (fabrique) chuquerie ; (bonbon) chucarte.</LexieEntiere>
-        <Lexie><SousLexie>s f. : (fabrique) chuquerie </SousLexie><SousLexie> (bonbon) chucarte.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>suffoquer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>hanser.</LexieEntiere>
-        <Lexie><SousLexie>hanser.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>suinter</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>suiner.</LexieEntiere>
-        <Lexie><SousLexie>suiner.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>suivre</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>suire.</LexieEntiere>
-        <Lexie><SousLexie>suire.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>supporter</Entrée>
-        <Complément>(endurer)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>indurer.</LexieEntiere>
-        <Lexie><SousLexie>indurer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>sureau</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>séhu, séu.</LexieEntiere>
-        <Lexie><SousLexie>séhu</SousLexie><SousLexie> séu.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>surgeon</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>quétron.</LexieEntiere>
-        <Lexie><SousLexie>quétron.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>surprenant</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>supernant.</LexieEntiere>
-        <Lexie><SousLexie>supernant.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>surpris</Entrée>
-        <Complément>(être)</Complément>
-        <StructureGrammaticale>loc. v.</StructureGrammaticale>
-        <LexieEntiere>rester paf.</LexieEntiere>
-        <Lexie><SousLexie>rester paf.</SousLexie></Lexie>
-      </ArticleDeDictionnaire>
-      </Nomenclature>
+      </entry><entry>
+        <form><orth>soif</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>so, soi.</quote></def>
+        <cit type="translation"><quote>so</quote><quote> soi.</quote></cit>
+      </entry><entry>
+        <form><orth>soigné</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>rétis.</quote></def>
+        <cit type="translation"><quote>rétis.</quote></cit>
+      </entry><entry>
+        <form><orth>solder</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>brader.</quote></def>
+        <cit type="translation"><quote>brader.</quote></cit>
+      </entry><entry>
+        <form><orth>soleil</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>solé.</quote></def>
+        <cit type="translation"><quote>solé.</quote></cit>
+      </entry><entry>
+        <form><orth>solidité</orth><Complément></Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote>(d'un tissu, etc.), s. f. : usance.</quote></def>
+        <cit type="translation"><quote>(d'un tissu</quote><quote> etc.)</quote><quote> s. f. : usance.</quote></cit>
+      </entry><entry>
+        <form><orth>sommeil</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>dormage.</quote></def>
+        <cit type="translation"><quote>dormage.</quote></cit>
+      </entry><entry>
+        <form><orth>sommet</orth><Complément>(de la tête)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>som.</quote></def>
+        <cit type="translation"><quote>som.</quote></cit>
+      </entry><entry>
+        <form><orth>son</orth><Complément>(de farine)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>artrait.</quote></def>
+        <cit type="translation"><quote>artrait.</quote></cit>
+      </entry><entry>
+        <form><orth>son</orth><Complément></Complément></form>
+        <gramGrp><pos>adj. pos.</pos></gramGrp>
+        <def><quote>s', sin, s'n.</quote></def>
+        <cit type="translation"><quote>s'</quote><quote> sin</quote><quote> s'n.</quote></cit>
+      </entry><entry>
+        <form><orth>sorbier</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>caurettier.</quote></def>
+        <cit type="translation"><quote>caurettier.</quote></cit>
+      </entry><entry>
+        <form><orth>sorcier</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>faiseux d' sorts.</quote></def>
+        <cit type="translation"><quote>faiseux d' sorts.</quote></cit>
+      </entry><entry>
+        <form><orth>sorcière</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>sorcielle.</quote></def>
+        <cit type="translation"><quote>sorcielle.</quote></cit>
+      </entry><entry>
+        <form><orth>sortir</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>déballer, débuquer, décageter, décaqueriller, défournaquer, déhutter, déjouquer, wuidier ; s'en sortir : s'in défarquer.</quote></def>
+        <cit type="translation"><quote>déballer</quote><quote> débuquer</quote><quote> décageter</quote><quote> décaqueriller</quote><quote> défournaquer</quote><quote> déhutter</quote><quote> déjouquer</quote><quote> wuidier </quote><quote> s'en sortir : s'in défarquer.</quote></cit>
+      </entry><entry>
+        <form><orth>soubresaut</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>arjon.</quote></def>
+        <cit type="translation"><quote>arjon.</quote></cit>
+      </entry><entry>
+        <form><orth>souche</orth><Complément>(d'arbre)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>choque, culas.</quote></def>
+        <cit type="translation"><quote>choque</quote><quote> culas.</quote></cit>
+      </entry><entry>
+        <form><orth>soucis</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m. pl.</pos></gramGrp>
+        <def><quote>passe-temps, ruses.</quote></def>
+        <cit type="translation"><quote>passe-temps</quote><quote> ruses.</quote></cit>
+      </entry><entry>
+        <form><orth>souder</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>archuquer.</quote></def>
+        <cit type="translation"><quote>archuquer.</quote></cit>
+      </entry><entry>
+        <form><orth>souffreteux</orth><Complément></Complément></form>
+        <gramGrp><pos>adj. subs.</pos></gramGrp>
+        <def><quote>drissou, tchiou, vert-vessou.</quote></def>
+        <cit type="translation"><quote>drissou</quote><quote> tchiou</quote><quote> vert-vessou.</quote></cit>
+      </entry><entry>
+        <form><orth>souffrir</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>soufferre.</quote></def>
+        <cit type="translation"><quote>soufferre.</quote></cit>
+      </entry><entry>
+        <form><orth>souillon</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote> ou f. : Marie-graillon, sandrouillon.</quote></def>
+        <cit type="translation"><quote> ou f. : Marie-graillon</quote><quote> sandrouillon.</quote></cit>
+      </entry><entry>
+        <form><orth>soulier</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>scrler.</quote></def>
+        <cit type="translation"><quote>scrler.</quote></cit>
+      </entry><entry>
+        <form><orth>soupe</orth><Complément>(mauvaise)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>quiquisse.</quote></def>
+        <cit type="translation"><quote>quiquisse.</quote></cit>
+      </entry><entry>
+        <form><orth>soupirail</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>boette, supéruel.</quote></def>
+        <cit type="translation"><quote>boette</quote><quote> supéruel.</quote></cit>
+      </entry><entry>
+        <form><orth>soupirer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>téguer, téquer, hanser.</quote></def>
+        <cit type="translation"><quote>téguer</quote><quote> téquer</quote><quote> hanser.</quote></cit>
+      </entry><entry>
+        <form><orth>souris</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>soris.</quote></def>
+        <cit type="translation"><quote>soris.</quote></cit>
+      </entry><entry>
+        <form><orth>sournois</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>lougnard, lourgneux.</quote></def>
+        <cit type="translation"><quote>lougnard</quote><quote> lourgneux.</quote></cit>
+      </entry><entry>
+        <form><orth>soutanelle</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>cotte.</quote></def>
+        <cit type="translation"><quote>cotte.</quote></cit>
+      </entry><entry>
+        <form><orth>souteneur</orth><Complément>(proxénète)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>mingeux d' blanc.</quote></def>
+        <cit type="translation"><quote>mingeux d' blanc.</quote></cit>
+      </entry><entry>
+        <form><orth>souvenir</orth><Complément>(se)</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>s' ramintuver, s' rapinser.</quote></def>
+        <cit type="translation"><quote>s' ramintuver</quote><quote> s' rapinser.</quote></cit>
+      </entry><entry>
+        <form><orth>souvenir</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>ramintevrance.</quote></def>
+        <cit type="translation"><quote>ramintevrance.</quote></cit>
+      </entry><entry>
+        <form><orth>souvent</orth><Complément></Complément></form>
+        <gramGrp><pos>adv.</pos></gramGrp>
+        <def><quote>tréfosé (vx).</quote></def>
+        <cit type="translation"><quote>tréfosé (vx).</quote></cit>
+      </entry><entry>
+        <form><orth>spectateur</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>arwettiant, arwettieux.</quote></def>
+        <cit type="translation"><quote>arwettiant</quote><quote> arwettieux.</quote></cit>
+      </entry><entry>
+        <form><orth>sperme</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>fioutre, chirop d'alleumette.</quote></def>
+        <cit type="translation"><quote>fioutre</quote><quote> chirop d'alleumette.</quote></cit>
+      </entry><entry>
+        <form><orth>statuette</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>posture.</quote></def>
+        <cit type="translation"><quote>posture.</quote></cit>
+      </entry><entry>
+        <form><orth>stupéfait</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>estoqué.</quote></def>
+        <cit type="translation"><quote>estoqué.</quote></cit>
+      </entry><entry>
+        <form><orth>stupidité</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote> ; décholure.</quote></def>
+        <cit type="translation"><quote> </quote><quote> décholure.</quote></cit>
+      </entry><entry>
+        <form><orth>su</orth><Complément></Complément></form>
+        <gramGrp><pos>part. pas.</pos></gramGrp>
+        <def><quote>séu.</quote></def>
+        <cit type="translation"><quote>séu.</quote></cit>
+      </entry><entry>
+        <form><orth>sucer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>chucher, tucher.</quote></def>
+        <cit type="translation"><quote>chucher</quote><quote> tucher.</quote></cit>
+      </entry><entry>
+        <form><orth>suçoter</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>chuchéner.</quote></def>
+        <cit type="translation"><quote>chuchéner.</quote></cit>
+      </entry><entry>
+        <form><orth>suçon</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>chuchon.</quote></def>
+        <cit type="translation"><quote>chuchon.</quote></cit>
+      </entry><entry>
+        <form><orth>sucre</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>chuque.</quote></def>
+        <cit type="translation"><quote>chuque.</quote></cit>
+      </entry><entry>
+        <form><orth>sucrer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>chucrer.</quote></def>
+        <cit type="translation"><quote>chucrer.</quote></cit>
+      </entry><entry>
+        <form><orth>sucrerie</orth><Complément></Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote>s f. : (fabrique) chuquerie ; (bonbon) chucarte.</quote></def>
+        <cit type="translation"><quote>s f. : (fabrique) chuquerie </quote><quote> (bonbon) chucarte.</quote></cit>
+      </entry><entry>
+        <form><orth>suffoquer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>hanser.</quote></def>
+        <cit type="translation"><quote>hanser.</quote></cit>
+      </entry><entry>
+        <form><orth>suinter</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>suiner.</quote></def>
+        <cit type="translation"><quote>suiner.</quote></cit>
+      </entry><entry>
+        <form><orth>suivre</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>suire.</quote></def>
+        <cit type="translation"><quote>suire.</quote></cit>
+      </entry><entry>
+        <form><orth>supporter</orth><Complément>(endurer)</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>indurer.</quote></def>
+        <cit type="translation"><quote>indurer.</quote></cit>
+      </entry><entry>
+        <form><orth>sureau</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>séhu, séu.</quote></def>
+        <cit type="translation"><quote>séhu</quote><quote> séu.</quote></cit>
+      </entry><entry>
+        <form><orth>surgeon</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>quétron.</quote></def>
+        <cit type="translation"><quote>quétron.</quote></cit>
+      </entry><entry>
+        <form><orth>surprenant</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>supernant.</quote></def>
+        <cit type="translation"><quote>supernant.</quote></cit>
+      </entry><entry>
+        <form><orth>surpris</orth><Complément>(être)</Complément></form>
+        <gramGrp><pos>loc. v.</pos></gramGrp>
+        <def><quote>rester paf.</quote></def>
+        <cit type="translation"><quote>rester paf.</quote></cit>
+      </entry>
+      </TEI>

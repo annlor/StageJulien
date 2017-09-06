@@ -1,0 +1,5068 @@
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+  <entry>
+    <form>
+      <orth>Signalons</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : adoniser (parer avec recherche) que l'on trouve chez Ronsard, et, chez nous, dans CD : &quot; Elle passait sa vie à les dodeliner, à les parer et à les adoniser. &quot;
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        : adoniser (parer avec recherche) que l'on trouve chez Ronsard, et, chez nous, dans CD :
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">et</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Elle passait sa vie à les dodeliner, à les parer et à les adoniser. &quot;
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>S'agrinquer</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        se raccrocher, s'agripper. &quot; Té vas l' vir tout caché-perdu. I n' saura pus à quoi s'agrinquer &quot; (FP). (voir : ingrinqué).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>se raccrocher, s'agripper. </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">s'agripper</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>voir : ingrinqué).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Té vas l' vir tout caché-perdu. I n' saura pus à quoi s'agrinquer &quot; (FP). (
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>S'arlaver</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>1 - faire une toilette complète. </quote>
+      <quote>
+        2 - essayer de se trouver des excuses. &quot; Qu'est-ce qu'i va cor trouver pou s'arlaver ? &quot;
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - faire une toilette complète. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>2 - essayer de se trouver des excuses. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Qu'est-ce qu'i va cor trouver pou s'arlaver ? &quot;</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>S'couer les arnitoiles</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>= fouetter, donner la fessée.</quote>
+    </def>
+    <def label="française">
+      <quote>= fouetter, donner la fessée.</quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fouetter</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Salle d'attente des mineurs. Baraque à lapins</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: clapier ; baraque à tchien : niche.</quote>
+    </def>
+    <def label="française">
+      <quote>: clapier ; baraque à tchien : niche.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>S'</orth>
+    </form>
+    <gramGrp>
+      <pos>adj. pos.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        son, sa (après une syl. ouverte, devant une cons.) J'ai vu s' père et s' mère. &quot; (Voir : s'n).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        son, sa (après une syl. ouverte, devant une cons.) J'ai vu s' père et s' mère.
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">son</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>S'</orth>
+    </form>
+    <gramGrp>
+      <pos>pr. pers. compl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        se. S'emploie souvent aux deux premières pers. du pluriel : &quot; nous s'in d'allons, vous s'in d'allez &quot;. &quot; Nous s'aimons cor pus fort in parlant du mariache &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>se. S'emploie souvent aux deux premières pers. du pluriel : </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">se</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; nous s'in d'allons, vous s'in d'allez &quot;. </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Nous s'aimons cor pus fort in parlant du mariache &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SA(C)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        sac. Un sa d' carbon, un sa d' peun'-tierre. &quot; Ch'n'est mie avec un biau sa qu'in va au molin &quot; (FP) : conseil de modestie aux coquettes. Expr. notées par GH : &quot; Il a tchié dins m' sa jusqu'au cadenas &quot; = il a passé la mesure. Donner l' sa : congédier. &quot; Ch'est un biau sa, dommache qu'i n'a point d' gueule &quot; = Sois belle, et tais-toi ! ANC. : sas (au pluriel, Poème de St Alexis, XIe). &quot; Vela en sa de paille &quot; (Fl, S, 1648).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>sac. Un sa d' carbon, un sa d' peun'-tierre. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">sac</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ch'n'est mie avec un biau sa qu'in va au molin &quot; (FP) : conseil de modestie aux coquettes. Expr. notées par GH :
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Il a tchié dins m' sa jusqu'au cadenas &quot; = il a passé la mesure. Donner l' sa : congédier.
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ch'est un biau sa, dommache qu'i n'a point d' gueule &quot; = Sois belle, et tais-toi !
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : sas (au pluriel, Poème de St Alexis, XIe). &quot; Vela en sa de paille &quot; (Fl, S, 1648).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>* SABOULER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - frapper à coups de mouchoir noué ; lancer des boules de neige ou d'autres projectiles. &quot; Nous nous masquerons en bossus et nous irons nous faire sabouler à Condé &quot; (CD). &quot; Ch'est pou cha qu' tous les garchons / L' saboulott' à cops d' gazons &quot; (JQ).
+      </quote>
+      <quote>
+        2 - lancer des plaisanteries : Firmin se mit à le sabouler de sottises &quot; (FP). &quot; Ils recommencent à se sabouler de plus belle, puis se taisent &quot; (EM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        1 - frapper à coups de mouchoir noué ; lancer des boules de neige ou d'autres projectiles.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Nous nous masquerons en bossus et nous irons nous faire sabouler à Condé &quot; (CD).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ch'est pou cha qu' tous les garchons / L' saboulott' à cops d' gazons &quot; (JQ).
+      </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>
+        2 - lancer des plaisanteries : Firmin se mit à le sabouler de sottises
+      </quote>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Saboulade</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        &quot; Soudain, on cria &quot; Saboulade ! &quot; et de toutes les fenêtres, il grêla des oranges à gueule que veux-tu &quot; (CD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>Saboulade ! </quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; et de toutes les fenêtres, il grêla des oranges à gueule que veux-tu &quot; (CD).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Soudain, on cria &quot; </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Saboulage</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        &quot; Les maisons kaiott'nt comm' des guilles / Sous l' saboulach' des cops d' canon &quot; (JM). ANC. :
+      </quote>
+    </def>
+    <etym>
+      <quote>ANC. :</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>SABOURET</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        sable blanc fin, dont on jonchait le carrelage (voir : romarins). Il servait aussi au faucheur pour aiguiser sa faux. (Voir : canebutin, étrique).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        sable blanc fin, dont on jonchait le carrelage (voir : romarins). Il servait aussi au faucheur pour aiguiser sa faux. (Voir : canebutin, étrique).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SABRER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        sabler. &quot; On finit par sabrer et joncer aveuc des rosiaux &quot; (JQ).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>sabler. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">sabler</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; On finit par sabrer et joncer aveuc des rosiaux &quot; (JQ).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Sabre ou sape</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>sable.</quote>
+    </def>
+    <def label="française">
+      <quote>sable.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">sable</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Sabreux</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>sablonneux.</quote>
+    </def>
+    <def label="française">
+      <quote>sablonneux.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">sablonneux</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* SAC(RE)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        procession de chaque paroisse pendant l'octave de la Fête-Dieu qu'on appelait Grand Sac'. &quot; C'est l' pétit bos qui fournissot l' feuïache / Au sac del rue &quot; (AD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        procession de chaque paroisse pendant l'octave de la Fête-Dieu qu'on appelait Grand Sac'.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; C'est l' pétit bos qui fournissot l' feuïache / Au sac del rue &quot; (AD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SACADENTS (ou SAQUE-A-DENTS</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        ?), s. m. : personnages fantastiques qui hantaient les rivières et y saquaient les enfants qui s'aventuraient trop près des rives (EC).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        ?), s. m. : personnages fantastiques qui hantaient les rivières et y saquaient les enfants qui s'aventuraient trop près des rives (EC).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SACLET</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        petit sac ; poche de tablier ; grosse poche en cuir des revendeuses. &quot; Pou m' faire mettre em' main à m' saclet, faudrot d'abord qué j' viche Meussieu Phalempin opérer d'vant mi &quot; (FP). ANC. : sachelet ; petit sac, musette (R. de Clari, déb. XIIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        petit sac ; poche de tablier ; grosse poche en cuir des revendeuses.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Pou m' faire mettre em' main à m' saclet, faudrot d'abord qué j' viche Meussieu Phalempin opérer d'vant mi &quot; (FP).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : sachelet ; petit sac, musette (R. de Clari, déb. XIIIe).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Sacquiau</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : satiau).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : satiau).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Sacquie</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        contenu d'un sac d'herbe ou de bois. &quot; I portot eun' gross' sacqui' d' bos / Semblant énorm' su sin tiot dos &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>contenu d'un sac d'herbe ou de bois. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I portot eun' gross' sacqui' d' bos / Semblant énorm' su sin tiot dos &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SAGLOUT</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : souglout).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : souglout).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SAILLETTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>sarriette (plante).</quote>
+    </def>
+    <def label="française">
+      <quote>sarriette (plante).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SAIME (PMa)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        écume. &quot; J'marierai l'piquette du jour / à l'saime d'èm plaisi manqué &quot;.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>écume. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">écume</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J'marierai l'piquette du jour / à l'saime d'èm plaisi manqué &quot;.
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SAINT</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        &quot; Dusqué Saint Arnould va, St Honoré n' va pas &quot; (PB) = boire casse l'appétit, St Arnould étant patron des brasseurs et St Honoré, des boulangers. St Brayou : (voir : brayou). St Cordon : (voir : tour). &quot; In n' peut, comme St Druon, êt' aux camps et à l' ville &quot; = on ne peut tout faire (allusion au don d'ubiquité prêté à ce saint, très populaire patron de Sebourg). &quot; Non, non, non, non, St Eloi i n'est pas mort (bis) / Car i vit incor (bis) / In l'a vu / Dins les rues / Qui n'avot pus d' maronne à s' cul &quot; : chanson de la St Eloi, fêtée par les agriculteurs et tous ceux qui travaillent les métaux. &quot; Et' frod comme el martiau St Eloi &quot; (GH) : l'iconographie représente toujours St Eloi avec une enclume et un marteau dont il ne se sert pas et qui, partant, ne s'échauffent pas. &quot; Aller pa l' voiture St François &quot;. (GH) ; aller à pied. &quot; Dire eune oraison à St Foulcamp &quot; (GF) : décamper discrètement (St Foulcamp est le sobriquet que certains ont attribué à St Sau(l)ve, martyr du VIIIe, inhumé à St Saul-ve près de Valenciennes. &quot; I peut bin écrire à St Georges, il est monté su l' diale &quot; (GH) : il a une méchante femme (St Georges : patron des cavaliers). &quot; A St Georges / Sème et'n orge / A St Marc, / I-est trop tard &quot; (AL) (St G. : 23 avril ; St M. : 25 avr.). Ch'est l'ours St Ghislain = c'est un rabat-joie. St Ghislain, venant de Grèce, s'établit en Hainaut, sur les bords de la Haine à
+      </quote>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SAISI</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        timide (voir Jacques) ; étonné. Faire el saisi : simuler l'étonnement. &quot; N' faites point l' saisi : vous savez bein qu'ein a eu eune algarade &quot; (RD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        timide (voir Jacques) ; étonné. Faire el saisi : simuler l'étonnement.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">étonné</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; N' faites point l' saisi : vous savez bein qu'ein a eu eune algarade &quot; (RD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Saisissure</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        émotion, peur, saisissement. &quot; J' guéris tout... / Tapur', quenn'-touss', l'saisissure... &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>émotion, peur, saisissement. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">émotion</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">peur</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">saisissement</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J' guéris tout... / Tapur', quenn'-touss', l'saisissure... &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* SAISON</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        bière de saison, faite en mars, avec l'orge de la récolte précédente, et collée aux pieds de veau (AL). &quot; A l' ducasse, ch'tot l' jour ed boire dé l' saison &quot; (PP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        bière de saison, faite en mars, avec l'orge de la récolte précédente, et collée aux pieds de veau (AL).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; A l' ducasse, ch'tot l' jour ed boire dé l' saison &quot; (PP).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SALADE ED BLÉ</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>mâche.</quote>
+    </def>
+    <def label="française">
+      <quote>mâche.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">mâche</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SALE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        sauge. Du thé à l'sale : infusion de sauge. ANC. : formes salje (XIIe) et saulje (XIIIe) du lat. salvia.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>sauge. Du thé à l'sale : infusion de sauge. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">sauge</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : formes salje (XIIe) et saulje (XIIIe) du lat. salvia.</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>SALINGUE (LH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        saule, lieu planté de saules (vx). (Voir : sau, sauch). ANC. : lat. salix.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>saule, lieu planté de saules (vx). (Voir : sau, sauch). </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">saule</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : lat. salix.</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>SALO</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>saloir. (Voir : pourcheau).</quote>
+    </def>
+    <def label="française">
+      <quote>saloir. (Voir : pourcheau).</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">saloir</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SALON</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        grande salle, dépendant d'un café, et réservée aux banquets, réunions et bals.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        grande salle, dépendant d'un café, et réservée aux banquets, réunions et bals.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SALOUCHE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        traînasse ou centinode, ou renouée des oiseaux (plante appréciée des lapins).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        traînasse ou centinode, ou renouée des oiseaux (plante appréciée des lapins).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* SAM(E)DI ou SEMDI</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        nettoyage hebdomadaire de la maison. &quot; Tu sas bein qu' j' fais toudi m' samedi l'vendredi. Ch'est la mode comme cha, ichi &quot; (RD). ANC. : (voir : verdi).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>nettoyage hebdomadaire de la maison. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Tu sas bein qu' j' fais toudi m' samedi l'vendredi. Ch'est la mode comme cha, ichi &quot; (RD).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : (voir : verdi).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>SANDROUILLON</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>souillon, femme malpropre.</quote>
+    </def>
+    <def label="française">
+      <quote>souillon, femme malpropre.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">souillon</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SANG</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        s, m. : sang d' pisson, d' naviau : anémie. Avoir les sangs artournés ; être bouleversé. Et' in fraîche sang : ne pas être saoul. S' faire du sang noir : s'inquiéter. &quot; I s' fait toudis un sang pus noir qué l' creux dé l' quéménée &quot; (EM). &quot; Et' montes comme eune soupe au lait. T'as du sang au bout des onques, m' fieu &quot; (FP) = tu es susceptible, coléreux.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        s, m. : sang d' pisson, d' naviau : anémie. Avoir les sangs artournés ; être bouleversé. Et' in fraîche sang : ne pas être saoul. S' faire du sang noir : s'inquiéter.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I s' fait toudis un sang pus noir qué l' creux dé l' quéménée &quot; (EM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Et' montes comme eune soupe au lait. T'as du sang au bout des onques, m' fieu &quot; (FP) = tu es susceptible, coléreux.
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Sangsurte</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        sangsue. &quot; Et les sangsurt's pou fair' passer l' souglou &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>sangsue. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">sangsue</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Et les sangsurt's pou fair' passer l' souglou &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>San.ner</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        saigner. &quot; In n' fait pas sanner un caillou &quot; (EM) : c'est un homme insensible.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>saigner. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">saigner</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; In n' fait pas sanner un caillou &quot; (EM) : c'est un homme insensible.
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SANGER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        changer. Vx. (Voir : canger). &quot; J' n'ai mie intindu parler qui d'vot sanger d' plach' &quot; (JQ).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>changer. Vx. (Voir : canger). </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">changer</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J' n'ai mie intindu parler qui d'vot sanger d' plach' &quot; (JQ).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SAN.NER ou SON.NER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        sembler. I sanne à vir... : il semble à voir... &quot; I sanne à vir qu' ch'est du azar &quot; (Fl, F, XVIIe) = les gens prétendent... &quot; El pain, i m' sanne
+      </quote>
+    </def>
+    <def label="française">
+      <quote>sembler. I sanne à vir... : il semble à voir... </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">sembler</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>les gens prétendent... </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; I sanne à vir qu' ch'est du azar &quot; (Fl, F, XVIIe) = </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SANS-BILE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        et adj. inv. : sans souci, qui ne se fait pas de bile. &quot; Ch'étot un vieux papa sans-bile &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote> et adj. inv. : sans souci, qui ne se fait pas de bile. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Ch'étot un vieux papa sans-bile &quot; (JM).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SANTÉ-DU-CORPS (AH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>cresson de fontaine.</quote>
+    </def>
+    <def label="française">
+      <quote>cresson de fontaine.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">cresson de fontaine</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SANTÉ(E)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        bouillon dans lequel on a fait cuire le boudin et les tripes de porc et dont on fait une soupe.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        bouillon dans lequel on a fait cuire le boudin et les tripes de porc et dont on fait une soupe.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SAPE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        faux courte, utilisée pour dêtourer. (Voir : piquet). ANC. : sape, m. sens (XVe) du bas-lat. sappa.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>faux courte, utilisée pour dêtourer. (Voir : piquet). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : sape, m. sens (XVe) du bas-lat. sappa.</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>SAPRÉ</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : atténuation de sacré dans une excl., un juron. &quot; Sapré garchon ! Si t' continues, té n' saras jamais rien faire ed tes dix dogts &quot; (EM). Sapré nom dé zo ! &quot; Ce sapré temps, qu'est-ce qu'il va décider ? &quot; (AS).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>: atténuation de sacré dans une excl., un juron. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Sapré nom dé zo ! </quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Sapré garchon ! Si t' continues, té n' saras jamais rien faire ed tes dix dogts &quot; (EM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Ce sapré temps, qu'est-ce qu'il va décider ? &quot; (AS).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SAQUER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        tirer (exercer une traction). Saquer... des porions, un pot d' bière, eune pleume, d'd'iau au puche, su un chigare, eune carriole, un billet d' tombola, un arc, l'aiwuille, les viers du nez, etc. &quot; Li saque à li, mi j' saque à mi, / Tout d'un cop, in saquant ainsi, / Berdouf ! v'là no couët qui casse &quot; (JM). &quot; Alle se véyot déjà avec des p'tits infants saquer à ses cotrons &quot; (PP). &quot; Ch'tot l' mêm' qué d' printe eune équeumette / Pou saquer d' l'iau au robinet &quot; (PM). Saquer à hue et à dia : agir de façon désordonnée. &quot; In saque à hue, in saque à dia, / Et in fait du berdi-berdia ! &quot; (JD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        tirer (exercer une traction). Saquer... des porions, un pot d' bière, eune pleume, d'd'iau au puche, su un chigare, eune carriole, un billet d' tombola, un arc, l'aiwuille, les viers du nez, etc.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">etc</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Saquer à hue et à dia : agir de façon désordonnée. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Li saque à li, mi j' saque à mi, / Tout d'un cop, in saquant ainsi, / Berdouf ! v'là no couët qui casse &quot; (JM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Alle se véyot déjà avec des p'tits infants saquer à ses cotrons &quot; (PP).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ch'tot l' mêm' qué d' printe eune équeumette / Pou saquer d' l'iau au robinet &quot; (PM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; In saque à hue, in saque à dia, / Et in fait du berdi-berdia ! &quot; (JD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Saque à diale</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>étourdi, vaurien, qui brise tout (GH).</quote>
+    </def>
+    <def label="française">
+      <quote>étourdi, vaurien, qui brise tout (GH).</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">étourdi</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">vaurien</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Saque-à-vau-l'eau</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        &quot; Vinrent à passer deux haleurs (de péniches) ou, pour mieux dire, deux saque-à-vau-l'eau &quot; (CD).
+      </quote>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Saque-et-pousse</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        trombone à coulisse. &quot; Partout, in jue du phonographe, / Du saque et pouss', du télégraphe &quot; (JM). (Note : peut désigner aussi bien l'accordéon. JM, dans le poème cité (1924) a mis le mot en italique, ce qui, chez lui, indique un néol.). ANC. : saquier : tirer (Fierabras, 1170) du lat. pop. saccare (tirer violemment). &quot; Qui la bataille vit sans espee sacquie &quot; (Le Chevalier au cygne, déb. XIVe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>trombone à coulisse. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">trombone à coulisse</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        Note : peut désigner aussi bien l'accordéon. JM, dans le poème cité (1924) a mis le mot en italique, ce qui, chez lui, indique un néol.).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Partout, in jue du phonographe, / Du saque et pouss', du télégraphe &quot; (JM). (
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : saquier : tirer (Fierabras, 1170) du lat. pop. saccare (tirer violemment). &quot; Qui la bataille vit sans espee sacquie &quot; (Le Chevalier au cygne, déb. XIVe).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>SAQUOI ou SÉQUOI</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        chose indéfinie. Eine saquoi : quelque chose. &quot; J'aim'ros bin qué t' racont' eun' saquoi in rouchi &quot; (PM). &quot; In a s' tiêt' tout' démolie / D' vir tant d' bell's saquois à l' fos &quot; (JM). &quot; Mais t'as ein' saquoi dins t'n argard / Qué cha m' fait tout frissonner m' piau &quot; (RP). &quot; Ch'est avec eun' saquoi d' fierté / Qu'on dit qu'on est dé l' franqu' cité &quot; (GF). ANC. : saiquoi : je ne sais quoi, chose indéterminée. &quot; Si vous ne donnai un saiquoy à vo Pasteur &quot; (Fl, B, XVIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>chose indéfinie. Eine saquoi : quelque chose. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J'aim'ros bin qué t' racont' eun' saquoi in rouchi &quot; (PM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; In a s' tiêt' tout' démolie / D' vir tant d' bell's saquois à l' fos &quot; (JM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Mais t'as ein' saquoi dins t'n argard / Qué cha m' fait tout frissonner m' piau &quot; (RP).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ch'est avec eun' saquoi d' fierté / Qu'on dit qu'on est dé l' franqu' cité &quot; (GF).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : saiquoi : je ne sais quoi, chose indéterminée. &quot; Si vous ne donnai un saiquoy à vo Pasteur &quot; (Fl, B, XVIIe).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>SARA (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>femme infatigable au travail. &quot; Ch'est un sara. &quot;</quote>
+    </def>
+    <def label="française">
+      <quote>femme infatigable au travail. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Ch'est un sara. &quot;</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SART ou SARS</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        terre inculte qui n'a pas été essartée. Toponymie : Sars-Poteries, Preux-au-Sart, etc. Patronyme courant : Dusart (avec s dur : du sart, altéré en Dussart), Froissart. ANC. : sart : terre stérile, couverte de broussailles ; terre défrichée (Athis, 1160), du lat. sar(r)ire (sarcler).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        terre inculte qui n'a pas été essartée. Toponymie : Sars-Poteries, Preux-au-Sart, etc. Patronyme courant : Dusart (avec s dur : du sart, altéré en Dussart), Froissart.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">Preux-au-Sart</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">etc</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : sart : terre stérile, couverte de broussailles ; terre défrichée (Athis, 1160), du lat. sar(r)ire (sarcler).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>SATIAU, ou SACQUIAU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - poche, petit sac. &quot; Mets cha dins t' satiau et t' mouquo par dessus ; té né l' perdras point &quot; (GH) : formule accompagnant une réprimande. &quot; Trois quertins de pommes et un satiau de farine &quot; (FP). &quot; J' cros qu'il a dé l' corde d' pindu dins s' satiau &quot; (JQ) = tout lui réussit.
+      </quote>
+      <quote>
+        2 - bourse. &quot; Quand i n'y-a pus d' sous dins l' satiau, / In est bin près du vrai patiau &quot; (EM). &quot; Adès, vo satiau i danse d'un rude cop &quot; (JQ). Votre bourse est vite allégée. &quot; Il a ramassé ses loqu' et freumé s' satiau &quot; (JQ) = il est mort. ANC. : sacquiau avec palat. du k en tch. &quot; Quand j' n'arô frans ed'den m' saquiau / Qu'en bittermon, un paturiau / ... / J' s'rai aussi content qu'un puet ette &quot; (Fl, F, XVIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - poche, petit sac. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Mets cha dins t' satiau et t' mouquo par dessus ; té né l' perdras point &quot; (GH) : formule accompagnant une réprimande.
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Trois quertins de pommes et un satiau de farine &quot; (FP).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J' cros qu'il a dé l' corde d' pindu dins s' satiau &quot; (JQ) = tout lui réussit.
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : sacquiau avec palat. du k en tch. &quot; Quand j' n'arô frans ed'den m' saquiau / Qu'en bittermon, un paturiau / ... / J' s'rai aussi content qu'un puet ette &quot; (Fl, F, XVIIe).
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>2 - bourse. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Votre bourse est vite allégée. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Quand i n'y-a pus d' sous dins l' satiau, / In est bin près du vrai patiau &quot; (EM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Adès, vo satiau i danse d'un rude cop &quot; (JQ). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Il a ramassé ses loqu' et freumé s' satiau &quot; (JQ) = il est mort.
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : sacquiau avec palat. du k en tch. &quot; Quand j' n'arô frans ed'den m' saquiau / Qu'en bittermon, un paturiau / ... / J' s'rai aussi content qu'un puet ette &quot; (Fl, F, XVIIe).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>SATIBLEU !</orth>
+    </form>
+    <gramGrp>
+      <pos>juron.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote> &quot; Eh ! satibleu ! tais t'té eun' bonn' fos ! &quot; (JQ).</quote>
+    </def>
+    <def label="française">
+      <quote> </quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Eh ! satibleu ! tais t'té eun' bonn' fos ! &quot; (JQ).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SAU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        saule (arbre). &quot; I d' a quéhu su m' tiête autant qu' su l' tiête d'eune sau &quot; (GH) = j'ai reçu toute la pluie. A Valenciennes, la rue Delsaulx (autrefois : rue de le Sauch) : rue du Saule. Eune vielle sau : une vieille femme. ANC. : du francique salha ; le fém. de sau s'explique par le genre du mot germ. ; la forme sals, salz, m. et f., apparaît dès 1120 (Psautier d'Oxford), du lat. salix. &quot; Sauce, qui brahaign estre doivent, / I fleurissent et fruit reçoivent &quot; (Roman de la Rose, Jean de Meung, 1280).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>saule (arbre). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I d' a quéhu su m' tiête autant qu' su l' tiête d'eune sau &quot; (GH) = j'ai reçu toute la pluie. A Valenciennes, la rue Delsaulx (autrefois : rue de le Sauch) : rue du Saule. Eune vielle sau : une vieille femme.
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : du francique salha ; le fém. de sau s'explique par le genre du mot germ. ; la forme sals, salz, m. et f., apparaît dès 1120 (Psautier d'Oxford), du lat. salix. &quot; Sauce, qui brahaign estre doivent, / I fleurissent et fruit reçoivent &quot; (Roman de la Rose, Jean de Meung, 1280).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>SAURET</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - hareng saur. &quot; Et nous nous infilons de l' bière / Comme après un r'pas au sauret &quot; (PB). &quot; In est tell'mint serrés / Qu'in est comm' des saurets &quot; (EM).
+      </quote>
+      <quote>
+        2 - Sauret d'étalage : personne très maigre. &quot; Il étot cor pus sec qu'un sauret &quot; (GF). ANC. : saure, du lat. pop. saurus : couleur jaune brun. Un cheval saure. On écrivait naguère : un hareng saure (Lit.). Sauret est fr., comme syn. de saure. Des nosettes saurées : des noisettes séchées et colorées par le soleil. Par ailleurs, le moy, néerl. donne soor = séché.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - hareng saur. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Et nous nous infilons de l' bière / Comme après un r'pas au sauret &quot; (PB).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; In est tell'mint serrés / Qu'in est comm' des saurets &quot; (EM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : saure, du lat. pop. saurus : couleur jaune brun. Un cheval saure. On écrivait naguère : un hareng saure (Lit.). Sauret est fr., comme syn. de saure. Des nosettes saurées : des noisettes séchées et colorées par le soleil. Par ailleurs, le moy, néerl. donne soor = séché.
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>2 - Sauret d'étalage : personne très maigre. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Il étot cor pus sec qu'un sauret &quot; (GF). </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : saure, du lat. pop. saurus : couleur jaune brun. Un cheval saure. On écrivait naguère : un hareng saure (Lit.). Sauret est fr., comme syn. de saure. Des nosettes saurées : des noisettes séchées et colorées par le soleil. Par ailleurs, le moy, néerl. donne soor = séché.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>SAUSSINETS (GLec)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m. pl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>persicaire (plante du genre renouée).</quote>
+    </def>
+    <def label="française">
+      <quote>persicaire (plante du genre renouée).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SAUTÉRIAU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        sauterelle. Fierrer l' sautériau : perdre son temps en absurdités. &quot; Je vois que nous n'allons pas perdre la soirée à ferrer le sautériau&quot; (FP). Sautériau d'août : enfant né en août ; enfant maigre ; jeune fille vive. &quot; Il avait l'air
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        sauterelle. Fierrer l' sautériau : perdre son temps en absurdités.
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">sauterelle</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        Sautériau d'août : enfant né en août ; enfant maigre ; jeune fille vive.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Je vois que nous n'allons pas perdre la soirée à ferrer le sautériau&quot; (FP).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SAVOIR</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        (voir : gram. conjug.). &quot; On verra bin ! - Ch'est tout vu et tout séhu ! &quot; (FP) : su. &quot; Il a tell'mint des blessures / Qu'on n' sarot pus les compter &quot; (JM). &quot; J' n'irai point, à moin qué jé n' seuche / U qu' ch'est... &quot; (Fl, F, XVIIe). A parfois le sens de pouvoir (voir : sara).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>(voir : gram. conjug.). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>A parfois le sens de pouvoir (voir : sara).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; On verra bin ! - Ch'est tout vu et tout séhu ! &quot; (FP) : su.
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Il a tell'mint des blessures / Qu'on n' sarot pus les compter &quot; (JM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J' n'irai point, à moin qué jé n' seuche / U qu' ch'est... &quot; (Fl, F, XVIIe).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SCHLOFE (ALLER A) (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: aller se coucher. (Cf. all. schlafen).</quote>
+    </def>
+    <def label="française">
+      <quote>: aller se coucher. (Cf. all. schlafen).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SCLIFER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : éclifer, inclifer).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : éclifer, inclifer).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SCRAN</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : arcran).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : arcran).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>sel.</quote>
+    </def>
+    <def label="française">
+      <quote>sel.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">sel</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SEC</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        SÈQUE : adj. m. et f. : sec, sèche. Sec comme ... un coucou, un vit d' coucou, du bos, du bersil (bois du Brésil), eune alleumette, eune éprisse, braisette. Faire sec : manger, devant quelqu'un, quelque chose qu'il aime, sans lui en offrir.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        SÈQUE : adj. m. et f. : sec, sèche. Sec comme ... un coucou, un vit d' coucou, du bos, du bersil (bois du Brésil), eune alleumette, eune éprisse, braisette. Faire sec : manger, devant quelqu'un, quelque chose qu'il aime, sans lui en offrir.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">sèche</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Séqués-vaques (GLec)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f. pl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>capselle bourse à pasteur (voir : mallette ed berger).</quote>
+    </def>
+    <def label="française">
+      <quote>capselle bourse à pasteur (voir : mallette ed berger).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Séquérin</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        homme maigre. &quot; Un grand sec-héring sans tournure &quot; (GF). &quot; Le malheureux devint sec comme un héron &quot; (CD). &quot; J' guéris tout... / Langu'reux, berlou, séquérin, cras-boyaux &quot; (JM). C'est l'étym. pop. qui, sans doute, a fait appel à héring (hareng) ou hérin (héron).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>homme maigre. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        C'est l'étym. pop. qui, sans doute, a fait appel à héring (hareng) ou hérin (héron).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">pop</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">qui</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">sans doute</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Un grand sec-héring sans tournure &quot; (GF). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Le malheureux devint sec comme un héron &quot; (CD). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J' guéris tout... / Langu'reux, berlou, séquérin, cras-boyaux &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SÉCHU (EUNE)</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : chéchu).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : chéchu).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>S(E)CRET</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        par antithèse : &quot; secret comme un tambour, un cop d' canon &quot;.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>par antithèse : </quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; secret comme un tambour, un cop d' canon &quot;.</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SÉHU</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : séu).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : séu).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SEILLEAU</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        SEYAU, SEYEU, SIAU, SIEU..., s. m. : seau. &quot; On y bot sec des séyaux et des puches &quot; (GF). &quot; J' sors et j' chope eddins l' seyau &quot; (JM). &quot; Les sciaux d'iau &quot; (GF). &quot; ... siaux à biscuits &quot; (EM). ANC. : seille : seau (Roman d'Alexandre, 1180). &quot; A telle falloit-il jetter le seillaud d'eau &quot; (Brantôme, XVIe). (Il me semble que l'on peut rassembler les formes venues de sitellus (siau, sieu) et celles venues de &quot; sa soeur &quot; situla &quot; (seilleau, seilllaud, seyau, seyeu, en un même article. C'est la citation de Brantôme qui me conseille ces &quot; retrouvailles &quot;).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>SEYAU, SEYEU, SIAU, SIEU..., s. m. : seau. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; On y bot sec des séyaux et des puches &quot; (GF). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; J' sors et j' chope eddins l' seyau &quot; (JM). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Les sciaux d'iau &quot; (GF). </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : seille : seau (Roman d'Alexandre, 1180). &quot; A telle falloit-il jetter le seillaud d'eau &quot; (Brantôme, XVIe). (Il me semble que l'on peut rassembler les formes venues de sitellus (siau, sieu) et celles venues de &quot; sa soeur &quot; situla &quot; (seilleau, seilllaud, seyau, seyeu, en un même article. C'est la citation de Brantôme qui me conseille ces &quot; retrouvailles &quot;).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>SEINS</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : sins).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : sins).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SÉMINCHE, ou S(E)MINCHE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        semence. &quot; Del séminch' ed carott' et del grain' ed minteux &quot; (LB). &quot; Et' séminche ed gaîté n'est point resté' dins Lille &quot; (JM) (à Desrousseaux). &quot; Manman, qu'est-ce qu'est ch'est d' cha ? - Ch'est dé l' séminche ed curieux ! &quot;
+      </quote>
+    </def>
+    <def label="française">
+      <quote>semence. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">semence</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Del séminch' ed carott' et del grain' ed minteux &quot; (LB).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Et' séminche ed gaîté n'est point resté' dins Lille &quot; (JM) (à Desrousseaux).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Manman, qu'est-ce qu'est ch'est d' cha ? - Ch'est dé l' séminche ed curieux ! &quot;
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SENT-BON</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>parfum. &quot; Aman, té m' mets du sent-bon ? &quot;</quote>
+    </def>
+    <def label="française">
+      <quote>parfum. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">parfum</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Aman, té m' mets du sent-bon ? &quot;</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SEPTANTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>soixante-dix. (Voir : grammaire).</quote>
+    </def>
+    <def label="française">
+      <quote>soixante-dix. (Voir : grammaire).</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">soixante-dix</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SÉQUER, ou S(E)QUER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        sécher. Part. pas. séqui. &quot; L' fleur séqui' qui rappelle un souv'nir ed jeunesse &quot; (JM). (Voir : sec).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>sécher. Part. pas. séqui. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">sécher</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">pas</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Voir : sec).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; L' fleur séqui' qui rappelle un souv'nir ed jeunesse &quot; (JM). (
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Séqu(e)rèche</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        sécheresse. &quot; I f'sot eune séqu'rèche, ç'n année-là, qu'in pinsot périr ed caud &quot; (PP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>sécheresse. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">sécheresse</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I f'sot eune séqu'rèche, ç'n année-là, qu'in pinsot périr ed caud &quot; (PP).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Séquérette</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        maigrelette. &quot; Eun' tiot' brun' putôt séquérette &quot; (PM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>maigrelette. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">maigrelette</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Eun' tiot' brun' putôt séquérette &quot; (PM).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SÉQUESSE (JQ)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        grande foule, multitude. &quot; L' orache ... / Va quéhir juss' au pied d' l' orquess', / Cha a fait s'infuir tout l' séquesse &quot;. ANC. : peut-être peut-on rapprocher de séquoi ? Cela a fait s'enfuir tout le monde (je ne sais qui est-ce) ?
+      </quote>
+    </def>
+    <def label="française">
+      <quote>grande foule, multitude. </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">multitude</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; L' orache ... / Va quéhir juss' au pied d' l' orquess', / Cha a fait s'infuir tout l' séquesse &quot;.
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : peut-être peut-on rapprocher de séquoi ? Cela a fait s'enfuir tout le monde (je ne sais qui est-ce) ?
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>SÉRENNE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : chéraine).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : chéraine).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* SERPETTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>femme vive, de tempérament agressif.</quote>
+    </def>
+    <def label="française">
+      <quote>femme vive, de tempérament agressif.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Serpinette</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>dim. du préc, s'applique à une petite fille.</quote>
+    </def>
+    <def label="française">
+      <quote>dim. du préc, s'applique à une petite fille.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* SERRER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        fermer. &quot; In serrot des volets &quot; (JM). &quot; Alle serrot ses yeux &quot; (PP). &quot; Ch'est l' seul qui peut rester quand l' portal est serré &quot; (GV). Le mot est encore fr. à l'époque classique, dans le sens voisin de ranger : &quot; Laurent, serrez ma haire avec ma discipline &quot; (Molière). ANC. : serrer, tenir fermé (Benoît de Ste Maure, 1160), du lat. pop. serrare, de sera (barre, verrou). Ce sens se retrouve en fr. avec serrure, etc.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>fermer. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fermer</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        Le mot est encore fr. à l'époque classique, dans le sens voisin de ranger :
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; In serrot des volets &quot; (JM). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Alle serrot ses yeux &quot; (PP). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ch'est l' seul qui peut rester quand l' portal est serré &quot; (GV).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Laurent, serrez ma haire avec ma discipline &quot; (Molière).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : serrer, tenir fermé (Benoît de Ste Maure, 1160), du lat. pop. serrare, de sera (barre, verrou). Ce sens se retrouve en fr. avec serrure, etc.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>SERVIR</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        &quot; Avec des marjolets comme cha, quand on a b'soin de rien, on est tout d' suite servi &quot; (FP) = ce sont des paresseux. (Voir : marjolet). Servir un saint : aller en pèlerinage. &quot; Si qu'on s'in dirot tertous insanne servir Noter Dame ed Bons'cours ? &quot; (PP).
+      </quote>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Servante</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        mot resté pop., à l'exclusion de bonne, femme de ménage ou employée de maison. &quot; A les servant's, les ménagèr's, / I débitot ses bonimints &quot; (GF).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        mot resté pop., à l'exclusion de bonne, femme de ménage ou employée de maison.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; A les servant's, les ménagèr's, / I débitot ses bonimints &quot; (GF).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Serveux</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>enfant de choeur, garchon d' choeur.</quote>
+    </def>
+    <def label="française">
+      <quote>enfant de choeur, garchon d' choeur.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Servissape</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>1 - qui peut encore servir. </quote>
+      <quote>
+        2 - serviable. &quot; Alle a un fort bon caractère, / Fort servissape &quot; (PB).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - qui peut encore servir. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>2 - serviable. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Alle a un fort bon caractère, / Fort servissape &quot; (PB).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SEU</orth>
+    </form>
+    <gramGrp>
+      <pos>adj. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        et f. : seul. Ne s'emploie que dans l'expr. tout seul. Ch't'un infant tout seu : c'est un enfant unique. &quot; Al m'a tout l' temps bé dit qu'al étot infant tout seu &quot; (PP). &quot; Sans les infants, mé v'là tout seu comme un leu &quot; (PP). &quot; Y-a pus qu'li qui m'approche / ... foc li tout seu &quot; (GT). &quot; L' chèr' pétit' / N' rest'ra point in haut tout seu &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        et f. : seul. Ne s'emploie que dans l'expr. tout seul. Ch't'un infant tout seu : c'est un enfant unique.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">tout seul</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Al m'a tout l' temps bé dit qu'al étot infant tout seu &quot; (PP).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Sans les infants, mé v'là tout seu comme un leu &quot; (PP).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Y-a pus qu'li qui m'approche / ... foc li tout seu &quot; (GT).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; L' chèr' pétit' / N' rest'ra point in haut tout seu &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SÉU ou SÉHU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        sureau (arbre). &quot; Et des arbutes, duss' nous irons d'in quer' / Puss' qué l' séu i va ête abattu ? &quot; (AD). &quot; Un gros séhu, garni d' fleurs pâles &quot; (JM). &quot; De sureau, dit séhu (l'arc) aurait eu plus de nerf &quot; (AS). ANC. : seü, seur ; sureau (Wace, 1150), du lat. sabucus. &quot; Si ai lessié le basme, pris me sui au seu &quot; (Rutebeuf, Miracle de Théophile, 1261) (le sureau est l'arbre symbole
+      </quote>
+    </def>
+    <def label="française">
+      <quote>sureau (arbre). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Et des arbutes, duss' nous irons d'in quer' / Puss' qué l' séu i va ête abattu ? &quot; (AD).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Un gros séhu, garni d' fleurs pâles &quot; (JM). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; De sureau, dit séhu (l'arc) aurait eu plus de nerf &quot; (AS).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : seü, seur ; sureau (Wace, 1150), du lat. sabucus. &quot; Si ai lessié le basme, pris me sui au seu &quot; (Rutebeuf, Miracle de Théophile, 1261) (le sureau est l'arbre symbole
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>SEULLE (GL)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>seille, seau en bois (voir : seillau).</quote>
+    </def>
+    <def label="française">
+      <quote>seille, seau en bois (voir : seillau).</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">seille</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SEUR</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>sûr, certain.</quote>
+    </def>
+    <def label="française">
+      <quote>sûr, certain.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">sûr</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">certain</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SEUT ou SOT</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote> et adj. (fém. : SOTTE) : </quote>
+      <quote>
+        1 - sot ; homme agité ; fou, dément : &quot; I-est dév'nu seut ! &quot;. &quot; Il est raide seut (EM) : il est fou à lier. Ch'est eun' motié d' seut = il n'a pas tout son bon sens. Tiête ed sot : écervelé. T'es pas seut ? = Non mais, ça ne va pas ! Un sot malin : quelqu'un qui fait l'âne pour avoir du son.
+      </quote>
+      <quote>
+        2 - attaché passionnément à quelqu'un, à quelque chose. &quot; M' femme all' d'est sotte, all' l'admir' tout's les s'contes &quot; (JM). &quot; Il est sot à tchiens &quot; (RD) : il adore les chiens. &quot; Alle est sotte à z'hommes &quot; ; c'est une nymphomane.
+      </quote>
+      <quote>
+        3 - tourner sot : se dit d'une vis, d'un boulon qui ne se vissent pas : enne vis sotte. Dictons : &quot; I r'sanne au bon dieu d' Giblot, / Il est bin tourné pou faire un sot &quot; = il est mal tourné (l' bon dieu d' Giblot, dit aussi la &quot; chapelle à loques &quot; est un pèlerinage en forêt de Saint-Amand, territoire d'Hasnon, qui nous est venu de Gembloux (= Giblot) ; les gens y accrochent des chiffons aux arbres). &quot; Si j' sus sot, j' l' ai tant pus gros &quot; : les sots ont la réputation d'avoir de gros pénis.
+      </quote>
+    </def>
+    <def label="française">
+      <quote> et adj. (fém. : SOTTE) : </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>1 - sot ; homme agité ; fou, dément : </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fou</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; I-est dév'nu seut ! &quot;. </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>2 - attaché passionnément à quelqu'un, à quelque chose. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>c'est une nymphomane. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; M' femme all' d'est sotte, all' l'admir' tout's les s'contes &quot; (JM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Il est sot à tchiens &quot; (RD) : il adore les chiens. </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Alle est sotte à z'hommes &quot; ; </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>
+        3 - tourner sot : se dit d'une vis, d'un boulon qui ne se vissent pas : enne vis sotte. Dictons :
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        est un pèlerinage en forêt de Saint-Amand, territoire d'Hasnon, qui nous est venu de Gembloux (= Giblot) ; les gens y accrochent des chiffons aux arbres).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I r'sanne au bon dieu d' Giblot, / Il est bin tourné pou faire un sot &quot; = il est mal tourné (l' bon dieu d' Giblot, dit aussi la
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; chapelle à loques &quot; </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Si j' sus sot, j' l' ai tant pus gros &quot; : les sots ont la réputation d'avoir de gros pénis.
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SEYAU</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : seilleau).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : seilleau).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SI</orth>
+    </form>
+    <gramGrp>
+      <pos>adv.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>aussi. &quot; Si vrai qué j' sus s' mère... &quot; (JM).</quote>
+    </def>
+    <def label="française">
+      <quote>aussi. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">aussi</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Si vrai qué j' sus s' mère... &quot; (JM).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SIEPT</orth>
+    </form>
+    <gramGrp>
+      <pos>adj. mim.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>sept.</quote>
+    </def>
+    <def label="française">
+      <quote>sept.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">sept</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SI FAIT</orth>
+    </form>
+    <gramGrp>
+      <pos>adv.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        mais oui. (Voir : non fait). &quot; Duss qu' i étot avant ? Ch' n'est point deins l' Cambrésis ? - Si fait. I tot à Solesmes. &quot; (RD). ANC. : &quot; A toy qu'en chaut ? - Sy fait ! &quot; (Gligois, XIIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>mais oui. (Voir : non fait). </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">mais oui</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Duss qu' i étot avant ? Ch' n'est point deins l' Cambrésis ? - Si fait. I tot à Solesmes. &quot; (RD).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : &quot; A toy qu'en chaut ? - Sy fait ! &quot; (Gligois, XIIIe).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>SIMBEL</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        simple (devant le nom). &quot; J' sus heureux d' l'honneur / Qué vous fait's au simbel mineur &quot; (JM). EM en a tiré le s. f. simbelcité : simplicité.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>simple (devant le nom). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>EM en a tiré le s. f. simbelcité : simplicité.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J' sus heureux d' l'honneur / Qué vous fait's au simbel mineur &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SIN</orth>
+    </form>
+    <gramGrp>
+      <pos>adj. pos.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>son (Ouest du Valenciennois). (Voir : min).</quote>
+    </def>
+    <def label="française">
+      <quote>son (Ouest du Valenciennois). (Voir : min).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SINAPISSE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>sinapisme.</quote>
+    </def>
+    <def label="française">
+      <quote>sinapisme.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">sinapisme</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SINGE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        &quot; Il a l'air d'un singe à vertés-coulles &quot; (GH) = il a l'air maussade. &quot; Singe qui vot, singe qui fait &quot;, dit-on de quelqu'un qui en imite un autre.
+      </quote>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SINGLER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : chingler, pourcheau).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : chingler, pourcheau).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SINON BIN</orth>
+    </form>
+    <gramGrp>
+      <pos>loc. conj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        si ce n'est... &quot; Sinon bin qu'ein a chi s'n ouvrache, ein s'ein irot tout drot s' quémin &quot; (RD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>si ce n'est... </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">si ce n'est</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Sinon bin qu'ein a chi s'n ouvrache, ein s'ein irot tout drot s' quémin &quot; (RD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SINS ou SEINS (phon.</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : sin), s. m. : sens. &quot; On n' d'a débité d'tous les sins et d' tous les sort' &quot; (JQ) : on a dit des choses de toute nature. &quot; Ein coup ch'est d'un seins, el leind'main ch'est d' l'aut' &quot; (RD) : ça change toujours ; on ne peut jamais faire ce qu'on a prévu, tu m'en demandes trop. &quot; Y s' démandot à ses vrais bons seins si Zidore y n' dév'not pas seu &quot; (GT) = il se demandait en y réfléchissant bien. &quot; Y-a
+      </quote>
+    </def>
+    <def label="française">
+      <quote>: sin), s. m. : sens. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; On n' d'a débité d'tous les sins et d' tous les sort' &quot; (JQ) : on a dit des choses de toute nature.
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ein coup ch'est d'un seins, el leind'main ch'est d' l'aut' &quot; (RD) : ça change toujours ; on ne peut jamais faire ce qu'on a prévu, tu m'en demandes trop.
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Y s' démandot à ses vrais bons seins si Zidore y n' dév'not pas seu &quot; (GT) = il se demandait en y réfléchissant bien.
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Sinsémint</orth>
+    </form>
+    <gramGrp>
+      <pos>adv.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        sensément. &quot; Comm' on avot mis les pieds là-d'dins, on étot sinsémint forché d'y r'vénir &quot; (JQ).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>sensément. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">sensément</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Comm' on avot mis les pieds là-d'dins, on étot sinsémint forché d'y r'vénir &quot; (JQ).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SINTIR</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        sentir. &quot; L' pauf' diap' n'a rien sintu &quot; (JM). &quot; Je n' mé sintos pus d' contint'mint &quot; (RP) = j'exultais.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>sentir. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">sentir</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; L' pauf' diap' n'a rien sintu &quot; (JM). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Je n' mé sintos pus d' contint'mint &quot; (RP) = j'exultais.
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Sint-mais (opposé à sint-bon)</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : qui sent mauvais ; camomille puante (GLec). ANC. : &quot; Por la chaleur du fiens qu'ele ot sentu &quot; (Audigier, fin XIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>: qui sent mauvais ; camomille puante (GLec). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : &quot; Por la chaleur du fiens qu'ele ot sentu &quot; (Audigier, fin XIIe).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Sintimint</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - sentiment. &quot; Vos parlez ... avec beaucoup d' sintimint &quot; (JQ).
+      </quote>
+      <quote>
+        2 - odeur (désagréable le plus souvent). &quot;... L'seintimeint d' certains paquets / Font là-d'dains enne odeur malsaine &quot; (PB). &quot; El sintimint du gas-oil i vous catoulle el nez &quot; (PP).
+      </quote>
+      <quote>
+        3 - odorat. &quot; Avec el catarrhe qué j' traîne, ej n'ai pus d' sintimint &quot;.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - sentiment. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Vos parlez ... avec beaucoup d' sintimint &quot; (JQ). </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>2 - odeur (désagréable le plus souvent). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>3 - odorat. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Avec el catarrhe qué j' traîne, ej n'ai pus d' sintimint &quot;.
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SION</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>banc de charbon. &quot; L'sion s' moutr' passable &quot; (JM).</quote>
+    </def>
+    <def label="française">
+      <quote>banc de charbon. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; L'sion s' moutr' passable &quot; (JM).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SISSITE (FAIRE)</orth>
+    </form>
+    <gramGrp>
+      <pos>expr. v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>s'asseoir (lang. enf.).</quote>
+    </def>
+    <def label="française">
+      <quote>s'asseoir (lang. enf.).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>S'N</orth>
+    </form>
+    <gramGrp>
+      <pos>adj. pos.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        , son, sa (entre une syl. ouverte et une voy.) : &quot; T'as vu s'n infant ? &quot;
+      </quote>
+    </def>
+    <def label="française">
+      <quote>, son, sa (entre une syl. ouverte et une voy.) : </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">son</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; T'as vu s'n infant ? &quot;</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SO ; ou SOI (au nord-est de Val.</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        ), s. f. : soif. &quot; ... Vous véyez quand ej bos / Mais vous n' véyez pas quand j'ai so &quot; (GF), &quot; Quand ein a soi, ein boit et pus ch'est tout &quot; (RD). &quot; Vinde del marlette, cha donne soi &quot; (PP). ANC. : soi, m. sens (XIIe), du lat. sitis. Le f final est apparu sous l'influence de mots comme nois (cas sujet) noif (cas régime) correspondant au lat. nix, nivem (neige). Cette forme avec f, plus sonore, évitait d'autre part, des homonymies. &quot; J'ai si sô que j' n'ai pus d'alaigne &quot; (Fl, F, XVIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>), s. f. : soif. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : soi, m. sens (XIIe), du lat. sitis. Le f final est apparu sous l'influence de mots comme nois (cas sujet) noif (cas régime) correspondant au lat. nix, nivem (neige). Cette forme avec f, plus sonore, évitait d'autre part, des homonymies. &quot; J'ai si sô que j' n'ai pus d'alaigne &quot; (Fl, F, XVIIe).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>SO</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>soie (textile). Un mouquo d' so (JQ) (Vx).</quote>
+    </def>
+    <def label="française">
+      <quote>soie (textile). Un mouquo d' so (JQ) (Vx).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SODARD ou SOUDARD</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        soldat. &quot; L' maréchal Niel, ch'tot un fameux soudard &quot; (JQ). ANC. : souldars, puis soudard (XIVe) a fait place, au XVIe, à la forme soldat de l'ital. soldato. Soudard (de soud = sou) a pris alors en fr. un sens péj.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>soldat. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">soldat</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; L' maréchal Niel, ch'tot un fameux soudard &quot; (JQ). </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : souldars, puis soudard (XIVe) a fait place, au XVIe, à la forme soldat de l'ital. soldato. Soudard (de soud = sou) a pris alors en fr. un sens péj.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>SOÉE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        soie (textile). Cette graphie correspond à la prononciation gardée du XVIIe (Cf : voée, rouée, etc.). (Voir : so).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        soie (textile). Cette graphie correspond à la prononciation gardée du XVIIe (Cf : voée, rouée, etc.). (Voir : so).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SOEUSSOEUR</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        petite soeur (lang. enf.). &quot; (All') Volot porter s' soeussoeur qué l' ciei li-avot rindue &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>petite soeur (lang. enf.). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SOGNER ou SOUGNER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        soigner, prendre soin. &quot; (All') sognot un fluxia installé à l' ferniette &quot; (PB). (Voir : fi).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>soigner, prendre soin. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">soigner</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">prendre soin</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Sogneux</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        sogneuse, s. f. : soigneur, soigneuse. &quot; (I-a été) Veilleur ed banqu',
+      </quote>
+    </def>
+    <def label="française">
+      <quote>sogneuse, s. f. : soigneur, soigneuse. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">soigneuse</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SOÏER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        scier. &quot; Tous nos biaux abres ont dévalé, on l'z'a soyés au pied &quot; (JQ). Soïer des planques : ronfler. &quot; Ch'est l' vieux qui fait sin niquet..., même qu'i scie des rudes planques &quot; (RD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>scier. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">scier</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Soïer des planques : ronfler. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Tous nos biaux abres ont dévalé, on l'z'a soyés au pied &quot; (JQ).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ch'est l' vieux qui fait sin niquet..., même qu'i scie des rudes planques &quot; (RD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Soïage</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>sciage ; herbe fauchée pour les bestiaux (GD).</quote>
+    </def>
+    <def label="française">
+      <quote>sciage ; herbe fauchée pour les bestiaux (GD).</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">sciage</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Soïarde</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - grande scie. &quot; I vot intrer un carpintier, aveuc s' soyarde sous s' bras &quot; (JQ).
+      </quote>
+      <quote>
+        2 - importun, casse-pieds. &quot; D' tous les soïart' ch'est bin ti l' reine ! &quot; (PM). &quot; Qui dit que... vous ne me prenez pas pour une soïarde ? &quot; (EM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - grande scie. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I vot intrer un carpintier, aveuc s' soyarde sous s' bras &quot; (JQ).
+      </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>2 - importun, casse-pieds. </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">casse-pieds</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; D' tous les soïart' ch'est bin ti l' reine ! &quot; (PM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Qui dit que... vous ne me prenez pas pour une soïarde ? &quot; (EM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Soïette</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        femme importune. &quot; Quelle soïette, em' geins-là ! &quot; (RD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>femme importune. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Quelle soïette, em' geins-là ! &quot; (RD).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Soïeux</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        scieur. (Voir : noeud).. Soïeux d' bos (mines) : ouvrier préparant les bois à longueur (AL).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        scieur. (Voir : noeud).. Soïeux d' bos (mines) : ouvrier préparant les bois à longueur (AL).
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">scieur</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Soïure</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f. sciure.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        &quot; J'ai soi, à crore qué j'ai des soïures plein mes boïaux ! &quot; (RD). ANC. : soïer : scier. &quot; Fai me anchois (= plutôt) le teste soier &quot; (Le Jeu St Nicolas, Jean Bodel, 1190).
+      </quote>
+    </def>
+    <def label="française">
+      <quote> </quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J'ai soi, à crore qué j'ai des soïures plein mes boïaux ! &quot; (RD).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : soïer : scier. &quot; Fai me anchois (= plutôt) le teste soier &quot; (Le Jeu St Nicolas, Jean Bodel, 1190).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>SOIF</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>1 - haie servant de limite. </quote>
+      <quote>
+        2 - sillon profond marquant la limite entre deux champs. (Voir : dessoivre). On trouve chez PMa la graphie : soivre. &quot; Ceule salte à l'soivre ed ses deux aches &quot; = cette pause à la limite de ses deux âges. ANC. : soif : haie, clôture, palissade (Perceval, Chrétien de Troyes, 1170).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - haie servant de limite. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : soif : haie, clôture, palissade (Perceval, Chrétien de Troyes, 1170).
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>
+        2 - sillon profond marquant la limite entre deux champs. (Voir : dessoivre). On trouve chez PMa la graphie : soivre.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ceule salte à l'soivre ed ses deux aches &quot; = cette pause à la limite de ses deux âges.
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : soif : haie, clôture, palissade (Perceval, Chrétien de Troyes, 1170).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>SOIGNIE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : songnie).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : songnie).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SOIL (JQ)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        boisson alcoolisée dont je n'ai trouvé qu'une seule att. &quot; Euss' deux boivent' du soil / Par chaintaines d' potée &quot; (JQ). S'agirait-il d'une sorte d'eau-de-vie à base de grain de seigle, (soile : voir ci-dessous) comparable au whisky de seigle britannique (rye) ?
+      </quote>
+    </def>
+    <def label="française">
+      <quote>boisson alcoolisée dont je n'ai trouvé qu'une seule att. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        S'agirait-il d'une sorte d'eau-de-vie à base de grain de seigle, (soile : voir ci-dessous) comparable au whisky de seigle britannique (rye) ?
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Euss' deux boivent' du soil / Par chaintaines d' potée &quot; (JQ).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SOILE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        seigle. &quot; Soudain, all' sé muche, in s' baissant, / Dins les épis d' soile, à croupette &quot; (JM). &quot; ... s'tiot' figure, aussi gris' qu'un pain d' soile &quot; (PM). Cras soile : seigle vert que l'on coupe pour la rafourée des bestiaux (GD). ANC. : soile, m. sens (Coutumes du Beauvaisis, Beaumanoir, 1283) du lat. secale (ce qui est coupé).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>seigle. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">seigle</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Soudain, all' sé muche, in s' baissant, / Dins les épis d' soile, à croupette &quot; (JM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : soile, m. sens (Coutumes du Beauvaisis, Beaumanoir, 1283) du lat. secale (ce qui est coupé).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>SOIRÉE (FAIRE)</orth>
+    </form>
+    <gramGrp>
+      <pos>expr. v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>faire une veillée.</quote>
+    </def>
+    <def label="française">
+      <quote>faire une veillée.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SOIVRE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : Soif).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : Soif).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SOLANT ou SOULANT</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        et adj. : turbulent, agité (enfant). &quot; Su les plat' form' s'intass' des filles / Cor pus solantes qu' des gamins &quot; (PB). &quot; Mais cheull' flamm', mêm' sans êtr' solante, / Cha donn' eun' sécouss' d'épouvante &quot; (JM). (Voir : soûler). Solant meuble : enfant agité.
+      </quote>
+    </def>
+    <def label="française">
+      <quote> et adj. : turbulent, agité (enfant). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Voir : soûler). Solant meuble : enfant agité.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Su les plat' form' s'intass' des filles / Cor pus solantes qu' des gamins &quot; (PB).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Mais cheull' flamm', mêm' sans êtr' solante, / Cha donn' eun' sécouss' d'épouvante &quot; (JM). (
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SOLÉ ou SOLEL</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        soleil. &quot; Y fait du solé, et un biau solé ! &quot; (JQ). &quot; Quand l' solel i luit d'sus les candelles (
+      </quote>
+    </def>
+    <def label="française">
+      <quote>soleil. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">soleil</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Y fait du solé, et un biau solé ! &quot; (JQ). </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SOLÉ</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        désolé. Et' pus solé qu'un tchien qu'in i arot copé s' queue : être au comble de la désolation. M. sens dans : solé parel qu'un rat en cage (FP), ou solé comme quinze (JQ). &quot; Les gins solés moutrott'nt un bout d'étoffe / Pou l' comparer aux loqu's des disparus &quot; (JM). ANC. : aphér. de désolé qui permet de retrouver la racine solus (seul) qui a donné desolare (laisser seul).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        désolé. Et' pus solé qu'un tchien qu'in i arot copé s' queue : être au comble de la désolation. M. sens dans : solé parel qu'un rat en cage (FP), ou solé comme quinze (JQ).
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">désolé</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Les gins solés moutrott'nt un bout d'étoffe / Pou l' comparer aux loqu's des disparus &quot; (JM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : aphér. de désolé qui permet de retrouver la racine solus (seul) qui a donné desolare (laisser seul).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>SOLI</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        traverse qui relie les armons à l'arrière de l'avant-train d'un chariot (GL).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        traverse qui relie les armons à l'arrière de l'avant-train d'un chariot (GL).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SOM</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        sommet de la tête, partie supérieure du crâne. &quot; (L'capiau) posé au l' som dé s' crân' pointu &quot; (JM). ANC. : som : sommet. &quot; En som (= en haut de) un tertre, dessoz dous arbres bels &quot; (Ch. de Roland, 1080).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>sommet de la tête, partie supérieure du crâne. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : som : sommet. &quot; En som (= en haut de) un tertre, dessoz dous arbres bels &quot; (Ch. de Roland, 1080).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>SOMBER'</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        sombre (devant un nom). &quot; Dins les sombers jours tormintés &quot; (GF).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>sombre (devant un nom). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Dins les sombers jours tormintés &quot; (GF).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* SOMMIER</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        poutre. Le mot est vx en fr. ou a pris des sens plus précis : linteau, poutre soutenant une cloche, etc. (Voir : guéiole).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        poutre. Le mot est vx en fr. ou a pris des sens plus précis : linteau, poutre soutenant une cloche, etc. (Voir : guéiole).
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">poutre</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">etc</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SONGNIE ou SOIGNIE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        cierge très mince et très long. La tradition, à Valenciennes, voulait qu'on en offrît, à N.D. du St Cordon, de si longs qu'ils pouvaient entourer la ville. &quot; Les dames et bourgeoises... s'addreschèrent à la Dame des Miracles, luy présentant une songnie contenant en longueur le thour et circuit de la procession annuelle &quot; (voir : tour) (Simon Le Boucq, XVIIe). Vx. ANC. : soignée : cierge, chandelle (Gautier de Coincy, 1220).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        cierge très mince et très long. La tradition, à Valenciennes, voulait qu'on en offrît, à N.D. du St Cordon, de si longs qu'ils pouvaient entourer la ville.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Simon Le Boucq, XVIIe). Vx. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Les dames et bourgeoises... s'addreschèrent à la Dame des Miracles, luy présentant une songnie contenant en longueur le thour et circuit de la procession annuelle &quot; (voir : tour) (
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : soignée : cierge, chandelle (Gautier de Coincy, 1220).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>SONNER A MESSE (BD)</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        = appeler au secours. &quot; J' vos bin à queulle intintion qu' vos sonnez à messe. &quot;
+      </quote>
+    </def>
+    <def label="française">
+      <quote>= appeler au secours. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J' vos bin à queulle intintion qu' vos sonnez à messe. &quot;
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SORCIELLE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>sorcière (le m. restant sorcier).</quote>
+    </def>
+    <def label="française">
+      <quote>sorcière (le m. restant sorcier).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SORIS</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        souris. &quot; J' sus désivorée pa les soris &quot; (RD). &quot; Les soris i courrott'nt su l' feu &quot; = le feu ne chauffe pas. ANC. : soris (Livre des Rois, 1190), du lat. pop. sorix. sorisière (GH), s. f. : souricière.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>souris. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">souris</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; J' sus désivorée pa les soris &quot; (RD). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Les soris i courrott'nt su l' feu &quot; = le feu ne chauffe pas.
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : soris (Livre des Rois, 1190), du lat. pop. sorix. sorisière (GH), s. f. : souricière.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>SORLER</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        soulier. &quot; Ses ortels juol'nt à cach'-cache / Par les fint's ed ses vieux sorlers &quot; (PM). ANC. : soler (Thomas le Martyr, XIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>soulier. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">soulier</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ses ortels juol'nt à cach'-cache / Par les fint's ed ses vieux sorlers &quot; (PM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : soler (Thomas le Martyr, XIIe).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>SORTE A SORTE</orth>
+    </form>
+    <gramGrp>
+      <pos>loc. adv.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        de même espèce, de même rang social. &quot; Pour se bien divertir, il faut être sorte à sorte, le diable avec les carbonniers &quot; (CD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>de même espèce, de même rang social. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Pour se bien divertir, il faut être sorte à sorte, le diable avec les carbonniers &quot; (CD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SOT</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : seul).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : seul).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SOU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        I n'd'a intindu pou ses quat' sous : je t'ai attrapé vertement. Armett' deux sous : attiser une dispute, une discussion : &quot; Tais t'té, fieu, n' viens pas chi cor armett' deux sous &quot; (PP). ANC. : par réf. aux &quot; pianos mécaniques &quot; où l'on mettait une pièce de deux sous pour avoir de la musique. (Voir : viole, tardiole, berline). Cf. la chanson : &quot; Mets deux
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        I n'd'a intindu pou ses quat' sous : je t'ai attrapé vertement. Armett' deux sous : attiser une dispute, une discussion :
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Tais t'té, fieu, n' viens pas chi cor armett' deux sous &quot; (PP).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : par réf. aux &quot; pianos mécaniques &quot; où l'on mettait une pièce de deux sous pour avoir de la musique. (Voir : viole, tardiole, berline). Cf. la chanson : &quot; Mets deux
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>SOUBITE ou SOBITE</orth>
+    </form>
+    <gramGrp>
+      <pos>adv.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        tantôt, tout à l'heure (GH). ANC. : &quot; Mé entre mett'nant qu' nou som' chy, Vla tou soubitt' deux heur' et d'my &quot; (Fl, F, XVIIe). &quot; Et après v'là t' sobitt-el' soire &quot; (Fl, F, XVIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>tantôt, tout à l'heure (GH). </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">tantôt</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : &quot; Mé entre mett'nant qu' nou som' chy, Vla tou soubitt' deux heur' et d'my &quot; (Fl, F, XVIIe). &quot; Et après v'là t' sobitt-el' soire &quot; (Fl, F, XVIIe).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>SOUCART (PMa)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>sournois.</quote>
+    </def>
+    <def label="française">
+      <quote>sournois.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">sournois</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SOUDARD</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : sodard).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : sodard).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SOUFFERRE</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        souffrir. &quot; A soufferr' mille efforts, i pouvot s'apprêter &quot; (JM). ANC. : lat. suffere.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>souffrir. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">souffrir</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; A soufferr' mille efforts, i pouvot s'apprêter &quot; (JM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : lat. suffere.</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>SOUFFLARD</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>dégagement de grisou perceptible à l'oreille (AL).</quote>
+    </def>
+    <def label="française">
+      <quote>dégagement de grisou perceptible à l'oreille (AL).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SOUFFLETTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - phlyctène, ampoule de sérosité. &quot; Mi, j'ai l' coeur artourné in veyant ses soufflettes &quot; (JM).
+      </quote>
+      <quote>
+        2 - bulle d'air sous un papier peint. Pleuve à soufflettes : pluie diluvienne dont les gouttes forment de grosses bulles en frappant le sol. &quot; Et l' pleuve avec furi' queh à soufflett's &quot; (GF).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - phlyctène, ampoule de sérosité. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Mi, j'ai l' coeur artourné in veyant ses soufflettes &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>
+        2 - bulle d'air sous un papier peint. Pleuve à soufflettes : pluie diluvienne dont les gouttes forment de grosses bulles en frappant le sol.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Et l' pleuve avec furi' queh à soufflett's &quot; (GF).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SOUGLOUT ou SAGLOUT</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        hoquet. Pour faire passer le hoquet, on fait répéter aux enfants, autant de fois qu'il le faut : &quot; Souglout, maglou, Dieu mé l'a mis, Dieu mé l'ôt'ra &quot;. &quot; Eune bonne vénette, cha cope el souglou &quot; (PP). &quot; J' bois... heu ! ein verre d'iau, ch'est pasqué... heu ! j'ai l' souglou &quot; (RD). &quot; L' bon Coucoul' s' fait eun' vrai' gloire / Ed pomper jusqu'aux souglous &quot; (JM) de boire à en avoir le hoquet. ANC. : senglout, sanglout : sanglot, hoquet (Chrétien de Troyes, 1175), du lat. pop. singluttus pour singultus (par croisement avec gluttus, gosier).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        hoquet. Pour faire passer le hoquet, on fait répéter aux enfants, autant de fois qu'il le faut :
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">hoquet</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>de boire à en avoir le hoquet. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Souglout, maglou, Dieu mé l'a mis, Dieu mé l'ôt'ra &quot;.
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Eune bonne vénette, cha cope el souglou &quot; (PP). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J' bois... heu ! ein verre d'iau, ch'est pasqué... heu ! j'ai l' souglou &quot; (RD).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; L' bon Coucoul' s' fait eun' vrai' gloire / Ed pomper jusqu'aux souglous &quot; (JM)
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : senglout, sanglout : sanglot, hoquet (Chrétien de Troyes, 1175), du lat. pop. singluttus pour singultus (par croisement avec gluttus, gosier).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Souglouter</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        hoqueter. &quot; No Batisse i sougloute toudis &quot; (PP). ANC. : senglouter, sanglouter, senglotir (XIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>hoqueter. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">hoqueter</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; No Batisse i sougloute toudis &quot; (PP). </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : senglouter, sanglouter, senglotir (XIIe).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>SOUHAITACHE (BD)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        souhait. &quot; Pou des souhaitaches d' nouvel an pareils, je n' d'ai né à faire &quot;.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>souhait. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">souhait</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Pou des souhaitaches d' nouvel an pareils, je n' d'ai né à faire &quot;.
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SOULER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>1 - enivrer. </quote>
+      <quote>
+        2 - faire enrager, impatienter quelqu'un (par son agitation, ses discours). &quot; Ç'n infant-là, i m' soûle &quot;. (Voir : solant).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - enivrer. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>
+        2 - faire enrager, impatienter quelqu'un (par son agitation, ses discours).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Voir : solant).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Ç'n infant-là, i m' soûle &quot;. (</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SOUMAQUER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        sangloter, hoqueter en pleurant. &quot; In bravant, soumaquant, faisant eun' vi' d' putois &quot; (GF). On n' braira point à soumacquer l' jour qu'al ara débagué (= quand elle mourra) (JQ). &quot; I-intind soumaquer à bas bruit / S' blessure invisipe et parfonte &quot; (PM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>sangloter, hoqueter en pleurant. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">sangloter</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        On n' braira point à soumacquer l' jour qu'al ara débagué (= quand elle mourra) (JQ).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; In bravant, soumaquant, faisant eun' vi' d' putois &quot; (GF).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I-intind soumaquer à bas bruit / S' blessure invisipe et parfonte &quot; (PM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SOUPE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        (voir : décaucher, pot). Soupe ed tchien : soupe d'eau et de pain. Pluie.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        (voir : décaucher, pot). Soupe ed tchien : soupe d'eau et de pain. Pluie.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Souper</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        et v. : s'applique au repas du soir que le fr. nomme dîner depuis le XIXe.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        et v. : s'applique au repas du soir que le fr. nomme dîner depuis le XIXe.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SOUPIR</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        &quot; Faire des soupirs comme des pets d' vaque &quot; (GH) = pousser de gros soupirs.
+      </quote>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SOURD</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        sourd comme eine ingleume, un mulet. &quot; I vaut mieux intinte cha qu' d'êt' sourd &quot; dit-on quand on entend des
+      </quote>
+    </def>
+    <def label="française">
+      <quote>sourd comme eine ingleume, un mulet. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I vaut mieux intinte cha qu' d'êt' sourd &quot; dit-on quand on entend des
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SOUV(E)NIR</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        (S'), v. : (voir : gram., conjug.). &quot; D'un si tristé tableau, jé m' souverrai toudis &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>(S'), v. : (voir : gram., conjug.). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; D'un si tristé tableau, jé m' souverrai toudis &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Souv(e)nance</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>(voir : rire).</quote>
+    </def>
+    <def label="française">
+      <quote>(voir : rire).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SOUVRONTE (GH) s. f.</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : partie inférieure d'un toit qui déborde du mur ; espace entre les chevrons et la sablière.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        : partie inférieure d'un toit qui déborde du mur ; espace entre les chevrons et la sablière.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SPINACHES (GH) ou ÉPINACHES</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m. pl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        épinards. &quot; El z' épinaches, ch'est bon pour l' corps &quot; (RD). ANC. : espinach (Aldebrandin de Sienne, 1256) de l'arabe d'Espagne isbinâkh passé en esp. sous la forme espinaca.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>épinards. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">épinards</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; El z' épinaches, ch'est bon pour l' corps &quot; (RD). </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : espinach (Aldebrandin de Sienne, 1256) de l'arabe d'Espagne isbinâkh passé en esp. sous la forme espinaca.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>SPITER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : espiter).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : espiter).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SPROTES</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : chou).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : chou).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>S'QU'A</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        S'QU'AU, prép., aphér. de jusqu'à, jusqu'au. &quot; I-ouvrot s'qu'à midi &quot; (GL). &quot; J'ai usé l'aute esqu'au bout &quot; (RP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>S'QU'AU, prép., aphér. de jusqu'à, jusqu'au. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; I-ouvrot s'qu'à midi &quot; (GL). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; J'ai usé l'aute esqu'au bout &quot; (RP).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SQUETTER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : esquetter).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : esquetter).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SU</orth>
+    </form>
+    <gramGrp>
+      <pos>prép.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - sur, dans. &quot; I-est toudis su l' rue &quot;. &quot; J' l'ai li su l' journal &quot;.
+      </quote>
+      <quote>
+        2 - à. &quot; Et' su un bureau, ch'est bein aussi ! &quot; (RD) = travailler à un bureau.
+      </quote>
+      <quote>
+        3 - vers. &quot; In arverra su l' soir &quot; : on reviendra vers le soir.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - sur, dans. </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">dans</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; I-est toudis su l' rue &quot;. </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; J' l'ai li su l' journal &quot;. </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>2 - à. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Et' su un bureau, ch'est bein aussi ! &quot; (RD) = travailler à un bureau.
+      </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>3 - vers. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; In arverra su l' soir &quot; : on reviendra vers le soir.</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* SUBTIL</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - adroit et rapide dans ses mouvements. (Voir : St Luc). &quot; Mon oncqu', sans prindr' la course, / Car i n'est pus subtil &quot; (JM).
+      </quote>
+      <quote>
+        2 - soudain. &quot; Batiss' n'in r'vénot point d'enn' mort aussi subtile &quot; (PB).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - adroit et rapide dans ses mouvements. (Voir : St Luc). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Mon oncqu', sans prindr' la course, / Car i n'est pus subtil &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>2 - soudain. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Batiss' n'in r'vénot point d'enn' mort aussi subtile &quot; (PB).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Subtil(e)mint</orth>
+    </form>
+    <gramGrp>
+      <pos>adv. rapidement.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote> (Voir : tisaine).</quote>
+    </def>
+    <def label="française">
+      <quote> (Voir : tisaine).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SUEL (AH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>seuil.</quote>
+    </def>
+    <def label="française">
+      <quote>seuil.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">seuil</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SUER (phon. swer)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        soeur (Est de Val.). ANC. : suer, cas sujet ; seror : cas régime. &quot; Suer, chiere amie, d'ome mort me demandes &quot; = tu me questionnes sur un mort (Ch. de Roland, 1080).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>soeur (Est de Val.). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : suer, cas sujet ; seror : cas régime. &quot; Suer, chiere amie, d'ome mort me demandes &quot; = tu me questionnes sur un mort (Ch. de Roland, 1080).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>SUINER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        suinter. &quot; A l'été, l' sueur all' li suine / Ed partout, déluch' sans parel &quot; (PB).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>suinter. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">suinter</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; A l'été, l' sueur all' li suine / Ed partout, déluch' sans parel &quot; (PB).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SUIRE</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        suivre. Part. pas. : sui. &quot; Qu'in in jug' par chu qui va suire &quot; (JM). &quot; In a connu quarante et les années qu'al ont sui &quot; (RD). Cha n' suit pas : cela ne s'accorde pas, ça ne va pas ensemble. &quot; (Et viell' maronne) cha n' suit pas avec et' capiau et t' mantiau &quot; (PP). On retrouve, en angl., mot et construction avec le même sens : That suits, that doesn't suit. ANC. : suir : suivre, poursuivre (God.).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>suivre. Part. pas. : sui. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">suivre</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">pas</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Cha n' suit pas : cela ne s'accorde pas, ça ne va pas ensemble. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Qu'in in jug' par chu qui va suire &quot; (JM). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; In a connu quarante et les années qu'al ont sui &quot; (RD).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : suir : suivre, poursuivre (God.).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>* SUJÉTION</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        uniquement dans l'excl. : Queu sujétion ! : quel ennui ! quel malheur. &quot; On l'z a soyés au pied. Queu sugession ! &quot; (JQ). &quot; Malgré ça, queue su jétion ! le mal a empiré &quot; (FP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        uniquement dans l'excl. : Queu sujétion ! : quel ennui ! quel malheur.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; On l'z a soyés au pied. Queu sugession ! &quot; (JQ). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Malgré ça, queue su jétion ! le mal a empiré &quot; (FP).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SUPERNANT (JQ)</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>surprenant. &quot; Ch'est supernant d' properté &quot;.</quote>
+    </def>
+    <def label="française">
+      <quote>surprenant. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">surprenant</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Ch'est supernant d' properté &quot;.</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SUPÉRUEL</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        soupirail. &quot; C'est du Wambrechies (= genièvre) comme on n'en fait plus. Il a vu l'Empereur par le supéruel &quot; (FP) = c'est du genièvre très vieux ;
+      </quote>
+    </def>
+    <def label="française">
+      <quote>soupirail. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">soupirail</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; C'est du Wambrechies (= genièvre) comme on n'en fait plus. Il a vu l'Empereur par le supéruel &quot; (FP) = c'est du genièvre très vieux ;
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SUPITER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        être agacé, endêver, enrager. &quot; Eun' coss' qui m' fait supiter, ch'est d' vir démolir un jour leu p'tiot cloquer &quot; (JQ). &quot; J'avoue qu'il y avait là de quoi supiter, endêver si vous préférez que je m'exprime en bon français &quot; (EM). (Voir : dessipiter).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>être agacé, endêver, enrager. </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">endêver</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">enrager</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Voir : dessipiter).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Eun' coss' qui m' fait supiter, ch'est d' vir démolir un jour leu p'tiot cloquer &quot; (JQ).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J'avoue qu'il y avait là de quoi supiter, endêver si vous préférez que je m'exprime en bon français &quot; (EM). (
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SUPRÊME</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        I s' crot l' suprême = il se prend pour le bon dieu. &quot; (Ils) S' figur'nt, paç' qu'ils sont rich's, qué ch'est euss's el suprême &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>I s' crot l' suprême = il se prend pour le bon dieu. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SUR</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        ; fém. SURTE : aigre, acide. &quot; Etant beaucop trop bon pour eun' feimme aussi surte &quot; (PB) = au caractère aussi aigre. (Cf. all. sauer).
+      </quote>
+    </def>
+    <def label="française">
+      <quote> ; fém. SURTE : aigre, acide. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">acide</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Etant beaucop trop bon pour eun' feimme aussi surte &quot; (PB) = au caractère aussi aigre. (Cf. all. sauer).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Sur</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>petit lait aigre.</quote>
+    </def>
+    <def label="française">
+      <quote>petit lait aigre.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Surette</orth>
+    </form>
+    <gramGrp>
+      <pos>adj. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        et f. : aigrelet. &quot; Ch'est ein' chucart' surett' qui vous agache el bouque &quot; (JD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote> et f. : aigrelet. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ch'est ein' chucart' surett' qui vous agache el bouque &quot; (JD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Surette</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>petite oseille.</quote>
+    </def>
+    <def label="française">
+      <quote>petite oseille.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">petite oseille</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Surielle</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        oseille. &quot; I croqu' des bâtons d' surielle &quot; (JM). (Cf. angl. sorrel).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>oseille. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">oseille</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Cf. angl. sorrel).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; I croqu' des bâtons d' surielle &quot; (JM). (</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SURCAUFFER</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>surchauffer.</quote>
+    </def>
+    <def label="française">
+      <quote>surchauffer.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">surchauffer</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* SURGEON</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        filet d'eau qui sort de terre. ANC. : Apparaît au XIIIe, avec le sens de source qu'il conservera en fr. jusqu'au XVIe (du v. surgir). &quot; Et une larme grans s'adrece, / Que Dieu atraist de vrai sorgeon &quot; (source, jaillissement) (Le Chevalier au barisel, XIIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>filet d'eau qui sort de terre. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : Apparaît au XIIIe, avec le sens de source qu'il conservera en fr. jusqu'au XVIe (du v. surgir). &quot; Et une larme grans s'adrece, / Que Dieu atraist de vrai sorgeon &quot; (source, jaillissement) (Le Chevalier au barisel, XIIIe).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>* SURJÉTÉ</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        taché de moisissure (tissu) ; déformé, déjeté (bois) ; contrefait (homme). &quot; On dirot qu'il a été fait d' bos vert, il est tout surjeté &quot; (GH).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        taché de moisissure (tissu) ; déformé, déjeté (bois) ; contrefait (homme).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">déformé</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; On dirot qu'il a été fait d' bos vert, il est tout surjeté &quot; (GH).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>SURQUER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        surveiller, guetter. &quot; Il est monté à l'étach' pou surquer s' femme r'vénir &quot;. (ALec).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>surveiller, guetter. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">surveiller</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">guetter</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>ALec).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Il est monté à l'étach' pou surquer s' femme r'vénir &quot;. (
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Surqueux</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>curieux, indiscret.</quote>
+    </def>
+    <def label="française">
+      <quote>curieux, indiscret.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">curieux</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">indiscret</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Surquette (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>souricière, piège à souris.</quote>
+    </def>
+    <def label="française">
+      <quote>souricière, piège à souris.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">souricière</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+</TEI>

@@ -1,976 +1,814 @@
 <?xml version='1.0' encoding='utf-8'?>
-<Nomenclature>
-        <ArticleDeDictionnaire>
-        <Entrée>babeurre</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>lait burré.</LexieEntiere>
-        <Lexie><SousLexie>lait burré.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>babil</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>clipet.</LexieEntiere>
-        <Lexie><SousLexie>clipet.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>babiller</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>calauder.</LexieEntiere>
-        <Lexie><SousLexie>calauder.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>babiole</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>bablute, babusse, bernioulle, nonuche.</LexieEntiere>
-        <Lexie><SousLexie>bablute</SousLexie><SousLexie> babusse</SousLexie><SousLexie> bernioulle</SousLexie><SousLexie> nonuche.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bafouiller</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>berlafer, fafier, fafiéler, farfiéler.</LexieEntiere>
-        <Lexie><SousLexie>berlafer</SousLexie><SousLexie> fafier</SousLexie><SousLexie> fafiéler</SousLexie><SousLexie> farfiéler.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>baiser</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>babache, baise, baise à bouquette, baise à pinchettes.</LexieEntiere>
-        <Lexie><SousLexie>babache</SousLexie><SousLexie> baise</SousLexie><SousLexie> baise à bouquette</SousLexie><SousLexie> baise à pinchettes.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>baisoter</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>basioter.</LexieEntiere>
-        <Lexie><SousLexie>basioter.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>balafre</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>berlafe.</LexieEntiere>
-        <Lexie><SousLexie>berlafe.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>balai</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>ramon.</LexieEntiere>
-        <Lexie><SousLexie>ramon.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>balancer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>balocher, berloquer, bilancher, bilonger.</LexieEntiere>
-        <Lexie><SousLexie>balocher</SousLexie><SousLexie> berloquer</SousLexie><SousLexie> bilancher</SousLexie><SousLexie> bilonger.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>balançoire</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>bilanchoire.</LexieEntiere>
-        <Lexie><SousLexie>bilanchoire.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>balayer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>ramoner, ramouner.</LexieEntiere>
-        <Lexie><SousLexie>ramoner</SousLexie><SousLexie> ramouner.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>balayette</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>ramonette, ramounette.</LexieEntiere>
-        <Lexie><SousLexie>ramonette</SousLexie><SousLexie> ramounette.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>balle</Entrée>
-        <Complément>(du jeu de crosse)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>cholette.</LexieEntiere>
-        <Lexie><SousLexie>cholette.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>baragouiner</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>flaminguer.</LexieEntiere>
-        <Lexie><SousLexie>flaminguer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>baratte</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>chéraine, sérenne, tournoire, moussier.</LexieEntiere>
-        <Lexie><SousLexie>chéraine</SousLexie><SousLexie> sérenne</SousLexie><SousLexie> tournoire</SousLexie><SousLexie> moussier.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>barbeau</Entrée>
-        <Complément>(poisson)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>écalot.</LexieEntiere>
-        <Lexie><SousLexie>écalot.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>barbouiller</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>indabouser.</LexieEntiere>
-        <Lexie><SousLexie>indabouser.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bardane</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>bourdaine, hierbe ed teigneux.</LexieEntiere>
-        <Lexie><SousLexie>bourdaine</SousLexie><SousLexie> hierbe ed teigneux.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bariolé</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>gaïolé, macoté, mitaclé.</LexieEntiere>
-        <Lexie><SousLexie>gaïolé</SousLexie><SousLexie> macoté</SousLexie><SousLexie> mitaclé.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>barrage</Entrée>
-        <Complément>(à la mine)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>estoupe.</LexieEntiere>
-        <Lexie><SousLexie>estoupe.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>barre à mine</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>barre batroulle.</LexieEntiere>
-        <Lexie><SousLexie>barre batroulle.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>barreau</Entrée>
-        <Complément>(de chaise)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>bougeon.</LexieEntiere>
-        <Lexie><SousLexie>bougeon.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>barrière</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>baille, baillage, baise-cul.</LexieEntiere>
-        <Lexie><SousLexie>baille</SousLexie><SousLexie> baillage</SousLexie><SousLexie> baise-cul.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bas</Entrée>
-        <Complément>(à)</Complément>
-        <StructureGrammaticale>loc. adv.</StructureGrammaticale>
-        <LexieEntiere>jus.</LexieEntiere>
-        <Lexie><SousLexie>jus.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bassin de lit</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>tubin.</LexieEntiere>
-        <Lexie><SousLexie>tubin.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bassiner</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>bachéner.</LexieEntiere>
-        <Lexie><SousLexie>bachéner.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bassinoire</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>bachénoire.</LexieEntiere>
-        <Lexie><SousLexie>bachénoire.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>basting</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>batinse.</LexieEntiere>
-        <Lexie><SousLexie>batinse.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bastonnade</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>rouffe.</LexieEntiere>
-        <Lexie><SousLexie>rouffe.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bateau</Entrée>
-        <Complément>(de rivière)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>baquet.</LexieEntiere>
-        <Lexie><SousLexie>baquet.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>batelier</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>baqueteux.</LexieEntiere>
-        <Lexie><SousLexie>baqueteux.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>batellerie</Entrée>
-        <Complément>(chantier)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>baqueterie.</LexieEntiere>
-        <Lexie><SousLexie>baqueterie.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bâtonnet</Entrée>
-        <Complément>(jeu)</Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere>biblot, guise, taillette, tardoite, voïandise.</LexieEntiere>
-        <Lexie><SousLexie>biblot</SousLexie><SousLexie> guise</SousLexie><SousLexie> taillette</SousLexie><SousLexie> tardoite</SousLexie><SousLexie> voïandise.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>battant de cloche</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>clipotiau.</LexieEntiere>
-        <Lexie><SousLexie>clipotiau.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>batterie de cuisine</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>bidons, cauderlats, hanas.</LexieEntiere>
-        <Lexie><SousLexie>bidons</SousLexie><SousLexie> cauderlats</SousLexie><SousLexie> hanas.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>batteuse à blé</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>battoire.</LexieEntiere>
-        <Lexie><SousLexie>battoire.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>battre</Entrée>
-        <Complément>(se)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>s' crapougner.</LexieEntiere>
-        <Lexie><SousLexie>s' crapougner.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bavarde</Entrée>
-        <Complément>(femme)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>berlingue, canlette, caquetoire, Marie-bonne langue, Marie-quater-langues, Marie-tia-tia, papoire, quéquette dé rat, régalette, tout-in-langue.</LexieEntiere>
-        <Lexie><SousLexie>berlingue</SousLexie><SousLexie> canlette</SousLexie><SousLexie> caquetoire</SousLexie><SousLexie> Marie-bonne langue</SousLexie><SousLexie> Marie-quater-langues</SousLexie><SousLexie> Marie-tia-tia</SousLexie><SousLexie> papoire</SousLexie><SousLexie> quéquette dé rat</SousLexie><SousLexie> régalette</SousLexie><SousLexie> tout-in-langue.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bavarder</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>canler, jaspiller.</LexieEntiere>
-        <Lexie><SousLexie>canler</SousLexie><SousLexie> jaspiller.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bave</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>bafiage, bafion.</LexieEntiere>
-        <Lexie><SousLexie>bafiage</SousLexie><SousLexie> bafion.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>baver</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>bafier, béfler, bléfer.</LexieEntiere>
-        <Lexie><SousLexie>bafier</SousLexie><SousLexie> béfler</SousLexie><SousLexie> bléfer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>baveur</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>bafiou.</LexieEntiere>
-        <Lexie><SousLexie>bafiou.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bavoir</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>bavette, bavron.</LexieEntiere>
-        <Lexie><SousLexie>bavette</SousLexie><SousLexie> bavron.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>beau</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>biau, crane.</LexieEntiere>
-        <Lexie><SousLexie>biau</SousLexie><SousLexie> crane.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>beaucoup</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adv.</StructureGrammaticale>
-        <LexieEntiere>beaucop, bramint, gramint, eine masse, tamointes.</LexieEntiere>
-        <Lexie><SousLexie>beaucop</SousLexie><SousLexie> bramint</SousLexie><SousLexie> gramint</SousLexie><SousLexie> eine masse</SousLexie><SousLexie> tamointes.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bébé</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>caquin, quinquin.</LexieEntiere>
-        <Lexie><SousLexie>caquin</SousLexie><SousLexie> quinquin.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bec</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>biec.</LexieEntiere>
-        <Lexie><SousLexie>biec.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bêche</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere> ; louchet.</LexieEntiere>
-        <Lexie><SousLexie> </SousLexie><SousLexie> louchet.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bêcher</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere> ; fouir, paloter.</LexieEntiere>
-        <Lexie><SousLexie> </SousLexie><SousLexie> fouir</SousLexie><SousLexie> paloter.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>becquée</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>becquie.</LexieEntiere>
-        <Lexie><SousLexie>becquie.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bégayer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>béguer.</LexieEntiere>
-        <Lexie><SousLexie>béguer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bègue</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>bégueux.</LexieEntiere>
-        <Lexie><SousLexie>bégueux.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bélandre</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>berlande.</LexieEntiere>
-        <Lexie><SousLexie>berlande.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bêler</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>béyer.</LexieEntiere>
-        <Lexie><SousLexie>béyer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>belette</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>marcotte.</LexieEntiere>
-        <Lexie><SousLexie>marcotte.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bélier</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>béraud.</LexieEntiere>
-        <Lexie><SousLexie>béraud.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>béquille</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>crochette.</LexieEntiere>
-        <Lexie><SousLexie>crochette.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>berce</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>crachou.</LexieEntiere>
-        <Lexie><SousLexie>crachou.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>berceau</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>berche.</LexieEntiere>
-        <Lexie><SousLexie>berche.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>berger</Entrée>
-        <Complément>(petit)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>bergeolin.</LexieEntiere>
-        <Lexie><SousLexie>bergeolin.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>besace</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>magaut.</LexieEntiere>
-        <Lexie><SousLexie>magaut.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bête</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>biête.</LexieEntiere>
-        <Lexie><SousLexie>biête.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>betterave</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>betterale, biétra.</LexieEntiere>
-        <Lexie><SousLexie>betterale</SousLexie><SousLexie> biétra.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>beurre</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>burre.</LexieEntiere>
-        <Lexie><SousLexie>burre.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bidon</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>boussole, boutelot, cane.</LexieEntiere>
-        <Lexie><SousLexie>boussole</SousLexie><SousLexie> boutelot</SousLexie><SousLexie> cane.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bien</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adv.</StructureGrammaticale>
-        <LexieEntiere>bé, bin.</LexieEntiere>
-        <Lexie><SousLexie>bé</SousLexie><SousLexie> bin.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bière</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>purée d'houblon ; petite bière : guiguite.</LexieEntiere>
-        <Lexie><SousLexie>purée d'houblon </SousLexie><SousLexie> petite bière : guiguite.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bigle</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere>bigleux, s. m. et adj. : berlou, bigornieux, bornibus, gognat (fém. gognette), macaveule.</LexieEntiere>
-        <Lexie><SousLexie>bigleux</SousLexie><SousLexie> s. m. et adj. : berlou</SousLexie><SousLexie> bigornieux</SousLexie><SousLexie> bornibus</SousLexie><SousLexie> gognat (fém. gognette)</SousLexie><SousLexie> macaveule.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bile</Entrée>
-        <Complément>(sécrétion)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>amer.</LexieEntiere>
-        <Lexie><SousLexie>amer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bille</Entrée>
-        <Complément>(pour jouer)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>agate (en verre), bonque, dosse, mape, quénéque, quénique.</LexieEntiere>
-        <Lexie><SousLexie>agate (en verre)</SousLexie><SousLexie> bonque</SousLexie><SousLexie> dosse</SousLexie><SousLexie> mape</SousLexie><SousLexie> quénéque</SousLexie><SousLexie> quénique.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>billon</Entrée>
-        <Complément>(jeu)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>bilbotiau, bricotiau.</LexieEntiere>
-        <Lexie><SousLexie>bilbotiau</SousLexie><SousLexie> bricotiau.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>binette</Entrée>
-        <Complément>(outil)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>poussette (que l'on pousse), rasette (que l'on tire).</LexieEntiere>
-        <Lexie><SousLexie>poussette (que l'on pousse)</SousLexie><SousLexie> rasette (que l'on tire).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>biscuit</Entrée>
-        <Complément>(petit)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>nic-nac.</LexieEntiere>
-        <Lexie><SousLexie>nic-nac.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>blanchir</Entrée>
-        <Complément>(le linge au soleil)</Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere>curer.</LexieEntiere>
-        <Lexie><SousLexie>curer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>blanchisserie</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>burie.</LexieEntiere>
-        <Lexie><SousLexie>burie.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>blanchisseuse</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>buresse.</LexieEntiere>
-        <Lexie><SousLexie>buresse.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>blême</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>blache, blageot.</LexieEntiere>
-        <Lexie><SousLexie>blache</SousLexie><SousLexie> blageot.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>blesser</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>coicher, coissier.</LexieEntiere>
-        <Lexie><SousLexie>coicher</SousLexie><SousLexie> coissier.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>blessure</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>beurre, coichure, pronne.</LexieEntiere>
-        <Lexie><SousLexie>beurre</SousLexie><SousLexie> coichure</SousLexie><SousLexie> pronne.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bleuet</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>bluet, perchelle.</LexieEntiere>
-        <Lexie><SousLexie>bluet</SousLexie><SousLexie> perchelle.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bleuir</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>bleusir.</LexieEntiere>
-        <Lexie><SousLexie>bleusir.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bloquer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>arroïer.</LexieEntiere>
-        <Lexie><SousLexie>arroïer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bloquoir</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>abloquo, arroïo.</LexieEntiere>
-        <Lexie><SousLexie>abloquo</SousLexie><SousLexie> arroïo.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>blottir</Entrée>
-        <Complément>(se)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>s' ranicher, s' rapouchéner.</LexieEntiere>
-        <Lexie><SousLexie>s' ranicher</SousLexie><SousLexie> s' rapouchéner.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>blouse de mineur</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>jupon ; bl. de paysan : niche.</LexieEntiere>
-        <Lexie><SousLexie>jupon </SousLexie><SousLexie> bl. de paysan : niche.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bluter</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>bulter.</LexieEntiere>
-        <Lexie><SousLexie>bulter.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bobine</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>bobéniau.</LexieEntiere>
-        <Lexie><SousLexie>bobéniau.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bocagère</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>boquélière.</LexieEntiere>
-        <Lexie><SousLexie>boquélière.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>boeuf</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>buef. Boeuf bouilli : du bouli.</LexieEntiere>
-        <Lexie><SousLexie>buef. Boeuf bouilli : du bouli.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>boire</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>esclaper.</LexieEntiere>
-        <Lexie><SousLexie>esclaper.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bois</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>bos, beus. Voir aussi : bos d' fond, bos d' guide, bos d' talle, bos d' vouée ; ablo, ario, asto, bille, billette, broque, cache, candelle, cougnet écliche, longeon, queue, raccourche, rallonque, sommier.</LexieEntiere>
-        <Lexie><SousLexie>bos</SousLexie><SousLexie> beus. Voir aussi : bos d' fond</SousLexie><SousLexie> bos d' guide</SousLexie><SousLexie> bos d' talle</SousLexie><SousLexie> bos d' vouée </SousLexie><SousLexie> ablo</SousLexie><SousLexie> ario</SousLexie><SousLexie> asto</SousLexie><SousLexie> bille</SousLexie><SousLexie> billette</SousLexie><SousLexie> broque</SousLexie><SousLexie> cache</SousLexie><SousLexie> candelle</SousLexie><SousLexie> cougnet écliche</SousLexie><SousLexie> longeon</SousLexie><SousLexie> queue</SousLexie><SousLexie> raccourche</SousLexie><SousLexie> rallonque</SousLexie><SousLexie> sommier.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>boiter</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>boter, botir, cloquer, avoir l'hanquette.</LexieEntiere>
-        <Lexie><SousLexie>boter</SousLexie><SousLexie> botir</SousLexie><SousLexie> cloquer</SousLexie><SousLexie> avoir l'hanquette.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bol</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>grande jatte.</LexieEntiere>
-        <Lexie><SousLexie>grande jatte.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bombardement</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>bombardache.</LexieEntiere>
-        <Lexie><SousLexie>bombardache.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bonbon</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>ballon, chirop, chucarte, clinquart, cras-ballon, réduit d' chuque.</LexieEntiere>
-        <Lexie><SousLexie>ballon</SousLexie><SousLexie> chirop</SousLexie><SousLexie> chucarte</SousLexie><SousLexie> clinquart</SousLexie><SousLexie> cras-ballon</SousLexie><SousLexie> réduit d' chuque.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bondir</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>bonquer, bonqueter.</LexieEntiere>
-        <Lexie><SousLexie>bonquer</SousLexie><SousLexie> bonqueter.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bonnet de bébé</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere>s .m. : achemette, béguinet.</LexieEntiere>
-        <Lexie><SousLexie>s .m. : achemette</SousLexie><SousLexie> béguinet.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bord</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>éponce.</LexieEntiere>
-        <Lexie><SousLexie>éponce.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bordel</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>bourdel.</LexieEntiere>
-        <Lexie><SousLexie>bourdel.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>borgne</Entrée>
-        <Complément>(femme)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>borgnette.</LexieEntiere>
-        <Lexie><SousLexie>borgnette.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bosquet</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>boquerette, boquet, boqueteau.</LexieEntiere>
-        <Lexie><SousLexie>boquerette</SousLexie><SousLexie> boquet</SousLexie><SousLexie> boqueteau.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bosse</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>boche, boursiau.</LexieEntiere>
-        <Lexie><SousLexie>boche</SousLexie><SousLexie> boursiau.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>botte</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere>(de légumes...), s. f. : facheau, hardélée, manoque, manotte, marotte.</LexieEntiere>
-        <Lexie><SousLexie>(de légumes...)</SousLexie><SousLexie> s. f. : facheau</SousLexie><SousLexie> hardélée</SousLexie><SousLexie> manoque</SousLexie><SousLexie> manotte</SousLexie><SousLexie> marotte.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bouche</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>bouque.</LexieEntiere>
-        <Lexie><SousLexie>bouque.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bouchée</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>ablot, bouchie.</LexieEntiere>
-        <Lexie><SousLexie>ablot</SousLexie><SousLexie> bouchie.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>boucherie</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>mazeau (vx).</LexieEntiere>
-        <Lexie><SousLexie>mazeau (vx).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bouchon</Entrée>
-        <Complément>(de paille)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>bousée, bousin.</LexieEntiere>
-        <Lexie><SousLexie>bousée</SousLexie><SousLexie> bousin.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>boucle</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>ablouque, blouque ; boucle de cheveux : crôle ; boucles d'oreilles : dorlorettes.</LexieEntiere>
-        <Lexie><SousLexie>ablouque</SousLexie><SousLexie> blouque </SousLexie><SousLexie> boucle de cheveux : crôle </SousLexie><SousLexie> boucles d'oreilles : dorlorettes.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>boucler</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>ablouquer, blouquer.</LexieEntiere>
-        <Lexie><SousLexie>ablouquer</SousLexie><SousLexie> blouquer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bouder</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>mouser.</LexieEntiere>
-        <Lexie><SousLexie>mouser.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>boue</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
+<TEI>
+        <entry>
+        <form><orth>babeurre</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>lait burré.</quote></def>
+        <cit type="translation"><quote>lait burré.</quote></cit>
+      </entry><entry>
+        <form><orth>babil</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>clipet.</quote></def>
+        <cit type="translation"><quote>clipet.</quote></cit>
+      </entry><entry>
+        <form><orth>babiller</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>calauder.</quote></def>
+        <cit type="translation"><quote>calauder.</quote></cit>
+      </entry><entry>
+        <form><orth>babiole</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>bablute, babusse, bernioulle, nonuche.</quote></def>
+        <cit type="translation"><quote>bablute</quote><quote> babusse</quote><quote> bernioulle</quote><quote> nonuche.</quote></cit>
+      </entry><entry>
+        <form><orth>bafouiller</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>berlafer, fafier, fafiéler, farfiéler.</quote></def>
+        <cit type="translation"><quote>berlafer</quote><quote> fafier</quote><quote> fafiéler</quote><quote> farfiéler.</quote></cit>
+      </entry><entry>
+        <form><orth>baiser</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>babache, baise, baise à bouquette, baise à pinchettes.</quote></def>
+        <cit type="translation"><quote>babache</quote><quote> baise</quote><quote> baise à bouquette</quote><quote> baise à pinchettes.</quote></cit>
+      </entry><entry>
+        <form><orth>baisoter</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>basioter.</quote></def>
+        <cit type="translation"><quote>basioter.</quote></cit>
+      </entry><entry>
+        <form><orth>balafre</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>berlafe.</quote></def>
+        <cit type="translation"><quote>berlafe.</quote></cit>
+      </entry><entry>
+        <form><orth>balai</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>ramon.</quote></def>
+        <cit type="translation"><quote>ramon.</quote></cit>
+      </entry><entry>
+        <form><orth>balancer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>balocher, berloquer, bilancher, bilonger.</quote></def>
+        <cit type="translation"><quote>balocher</quote><quote> berloquer</quote><quote> bilancher</quote><quote> bilonger.</quote></cit>
+      </entry><entry>
+        <form><orth>balançoire</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>bilanchoire.</quote></def>
+        <cit type="translation"><quote>bilanchoire.</quote></cit>
+      </entry><entry>
+        <form><orth>balayer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>ramoner, ramouner.</quote></def>
+        <cit type="translation"><quote>ramoner</quote><quote> ramouner.</quote></cit>
+      </entry><entry>
+        <form><orth>balayette</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>ramonette, ramounette.</quote></def>
+        <cit type="translation"><quote>ramonette</quote><quote> ramounette.</quote></cit>
+      </entry><entry>
+        <form><orth>balle</orth><Complément>(du jeu de crosse)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>cholette.</quote></def>
+        <cit type="translation"><quote>cholette.</quote></cit>
+      </entry><entry>
+        <form><orth>baragouiner</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>flaminguer.</quote></def>
+        <cit type="translation"><quote>flaminguer.</quote></cit>
+      </entry><entry>
+        <form><orth>baratte</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>chéraine, sérenne, tournoire, moussier.</quote></def>
+        <cit type="translation"><quote>chéraine</quote><quote> sérenne</quote><quote> tournoire</quote><quote> moussier.</quote></cit>
+      </entry><entry>
+        <form><orth>barbeau</orth><Complément>(poisson)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>écalot.</quote></def>
+        <cit type="translation"><quote>écalot.</quote></cit>
+      </entry><entry>
+        <form><orth>barbouiller</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>indabouser.</quote></def>
+        <cit type="translation"><quote>indabouser.</quote></cit>
+      </entry><entry>
+        <form><orth>bardane</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>bourdaine, hierbe ed teigneux.</quote></def>
+        <cit type="translation"><quote>bourdaine</quote><quote> hierbe ed teigneux.</quote></cit>
+      </entry><entry>
+        <form><orth>bariolé</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>gaïolé, macoté, mitaclé.</quote></def>
+        <cit type="translation"><quote>gaïolé</quote><quote> macoté</quote><quote> mitaclé.</quote></cit>
+      </entry><entry>
+        <form><orth>barrage</orth><Complément>(à la mine)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>estoupe.</quote></def>
+        <cit type="translation"><quote>estoupe.</quote></cit>
+      </entry><entry>
+        <form><orth>barre à mine</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>barre batroulle.</quote></def>
+        <cit type="translation"><quote>barre batroulle.</quote></cit>
+      </entry><entry>
+        <form><orth>barreau</orth><Complément>(de chaise)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>bougeon.</quote></def>
+        <cit type="translation"><quote>bougeon.</quote></cit>
+      </entry><entry>
+        <form><orth>barrière</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>baille, baillage, baise-cul.</quote></def>
+        <cit type="translation"><quote>baille</quote><quote> baillage</quote><quote> baise-cul.</quote></cit>
+      </entry><entry>
+        <form><orth>bas</orth><Complément>(à)</Complément></form>
+        <gramGrp><pos>loc. adv.</pos></gramGrp>
+        <def><quote>jus.</quote></def>
+        <cit type="translation"><quote>jus.</quote></cit>
+      </entry><entry>
+        <form><orth>bassin de lit</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>tubin.</quote></def>
+        <cit type="translation"><quote>tubin.</quote></cit>
+      </entry><entry>
+        <form><orth>bassiner</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>bachéner.</quote></def>
+        <cit type="translation"><quote>bachéner.</quote></cit>
+      </entry><entry>
+        <form><orth>bassinoire</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>bachénoire.</quote></def>
+        <cit type="translation"><quote>bachénoire.</quote></cit>
+      </entry><entry>
+        <form><orth>basting</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>batinse.</quote></def>
+        <cit type="translation"><quote>batinse.</quote></cit>
+      </entry><entry>
+        <form><orth>bastonnade</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>rouffe.</quote></def>
+        <cit type="translation"><quote>rouffe.</quote></cit>
+      </entry><entry>
+        <form><orth>bateau</orth><Complément>(de rivière)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>baquet.</quote></def>
+        <cit type="translation"><quote>baquet.</quote></cit>
+      </entry><entry>
+        <form><orth>batelier</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>baqueteux.</quote></def>
+        <cit type="translation"><quote>baqueteux.</quote></cit>
+      </entry><entry>
+        <form><orth>batellerie</orth><Complément>(chantier)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>baqueterie.</quote></def>
+        <cit type="translation"><quote>baqueterie.</quote></cit>
+      </entry><entry>
+        <form><orth>bâtonnet</orth><Complément>(jeu)</Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote>biblot, guise, taillette, tardoite, voïandise.</quote></def>
+        <cit type="translation"><quote>biblot</quote><quote> guise</quote><quote> taillette</quote><quote> tardoite</quote><quote> voïandise.</quote></cit>
+      </entry><entry>
+        <form><orth>battant de cloche</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>clipotiau.</quote></def>
+        <cit type="translation"><quote>clipotiau.</quote></cit>
+      </entry><entry>
+        <form><orth>batterie de cuisine</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>bidons, cauderlats, hanas.</quote></def>
+        <cit type="translation"><quote>bidons</quote><quote> cauderlats</quote><quote> hanas.</quote></cit>
+      </entry><entry>
+        <form><orth>batteuse à blé</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>battoire.</quote></def>
+        <cit type="translation"><quote>battoire.</quote></cit>
+      </entry><entry>
+        <form><orth>battre</orth><Complément>(se)</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>s' crapougner.</quote></def>
+        <cit type="translation"><quote>s' crapougner.</quote></cit>
+      </entry><entry>
+        <form><orth>bavarde</orth><Complément>(femme)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>berlingue, canlette, caquetoire, Marie-bonne langue, Marie-quater-langues, Marie-tia-tia, papoire, quéquette dé rat, régalette, tout-in-langue.</quote></def>
+        <cit type="translation"><quote>berlingue</quote><quote> canlette</quote><quote> caquetoire</quote><quote> Marie-bonne langue</quote><quote> Marie-quater-langues</quote><quote> Marie-tia-tia</quote><quote> papoire</quote><quote> quéquette dé rat</quote><quote> régalette</quote><quote> tout-in-langue.</quote></cit>
+      </entry><entry>
+        <form><orth>bavarder</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>canler, jaspiller.</quote></def>
+        <cit type="translation"><quote>canler</quote><quote> jaspiller.</quote></cit>
+      </entry><entry>
+        <form><orth>bave</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>bafiage, bafion.</quote></def>
+        <cit type="translation"><quote>bafiage</quote><quote> bafion.</quote></cit>
+      </entry><entry>
+        <form><orth>baver</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>bafier, béfler, bléfer.</quote></def>
+        <cit type="translation"><quote>bafier</quote><quote> béfler</quote><quote> bléfer.</quote></cit>
+      </entry><entry>
+        <form><orth>baveur</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>bafiou.</quote></def>
+        <cit type="translation"><quote>bafiou.</quote></cit>
+      </entry><entry>
+        <form><orth>bavoir</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>bavette, bavron.</quote></def>
+        <cit type="translation"><quote>bavette</quote><quote> bavron.</quote></cit>
+      </entry><entry>
+        <form><orth>beau</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>biau, crane.</quote></def>
+        <cit type="translation"><quote>biau</quote><quote> crane.</quote></cit>
+      </entry><entry>
+        <form><orth>beaucoup</orth><Complément></Complément></form>
+        <gramGrp><pos>adv.</pos></gramGrp>
+        <def><quote>beaucop, bramint, gramint, eine masse, tamointes.</quote></def>
+        <cit type="translation"><quote>beaucop</quote><quote> bramint</quote><quote> gramint</quote><quote> eine masse</quote><quote> tamointes.</quote></cit>
+      </entry><entry>
+        <form><orth>bébé</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>caquin, quinquin.</quote></def>
+        <cit type="translation"><quote>caquin</quote><quote> quinquin.</quote></cit>
+      </entry><entry>
+        <form><orth>bec</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>biec.</quote></def>
+        <cit type="translation"><quote>biec.</quote></cit>
+      </entry><entry>
+        <form><orth>bêche</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote> ; louchet.</quote></def>
+        <cit type="translation"><quote> </quote><quote> louchet.</quote></cit>
+      </entry><entry>
+        <form><orth>bêcher</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote> ; fouir, paloter.</quote></def>
+        <cit type="translation"><quote> </quote><quote> fouir</quote><quote> paloter.</quote></cit>
+      </entry><entry>
+        <form><orth>becquée</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>becquie.</quote></def>
+        <cit type="translation"><quote>becquie.</quote></cit>
+      </entry><entry>
+        <form><orth>bégayer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>béguer.</quote></def>
+        <cit type="translation"><quote>béguer.</quote></cit>
+      </entry><entry>
+        <form><orth>bègue</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>bégueux.</quote></def>
+        <cit type="translation"><quote>bégueux.</quote></cit>
+      </entry><entry>
+        <form><orth>bélandre</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>berlande.</quote></def>
+        <cit type="translation"><quote>berlande.</quote></cit>
+      </entry><entry>
+        <form><orth>bêler</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>béyer.</quote></def>
+        <cit type="translation"><quote>béyer.</quote></cit>
+      </entry><entry>
+        <form><orth>belette</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>marcotte.</quote></def>
+        <cit type="translation"><quote>marcotte.</quote></cit>
+      </entry><entry>
+        <form><orth>bélier</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>béraud.</quote></def>
+        <cit type="translation"><quote>béraud.</quote></cit>
+      </entry><entry>
+        <form><orth>béquille</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>crochette.</quote></def>
+        <cit type="translation"><quote>crochette.</quote></cit>
+      </entry><entry>
+        <form><orth>berce</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>crachou.</quote></def>
+        <cit type="translation"><quote>crachou.</quote></cit>
+      </entry><entry>
+        <form><orth>berceau</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>berche.</quote></def>
+        <cit type="translation"><quote>berche.</quote></cit>
+      </entry><entry>
+        <form><orth>berger</orth><Complément>(petit)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>bergeolin.</quote></def>
+        <cit type="translation"><quote>bergeolin.</quote></cit>
+      </entry><entry>
+        <form><orth>besace</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>magaut.</quote></def>
+        <cit type="translation"><quote>magaut.</quote></cit>
+      </entry><entry>
+        <form><orth>bête</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>biête.</quote></def>
+        <cit type="translation"><quote>biête.</quote></cit>
+      </entry><entry>
+        <form><orth>betterave</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>betterale, biétra.</quote></def>
+        <cit type="translation"><quote>betterale</quote><quote> biétra.</quote></cit>
+      </entry><entry>
+        <form><orth>beurre</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>burre.</quote></def>
+        <cit type="translation"><quote>burre.</quote></cit>
+      </entry><entry>
+        <form><orth>bidon</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>boussole, boutelot, cane.</quote></def>
+        <cit type="translation"><quote>boussole</quote><quote> boutelot</quote><quote> cane.</quote></cit>
+      </entry><entry>
+        <form><orth>bien</orth><Complément></Complément></form>
+        <gramGrp><pos>adv.</pos></gramGrp>
+        <def><quote>bé, bin.</quote></def>
+        <cit type="translation"><quote>bé</quote><quote> bin.</quote></cit>
+      </entry><entry>
+        <form><orth>bière</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>purée d'houblon ; petite bière : guiguite.</quote></def>
+        <cit type="translation"><quote>purée d'houblon </quote><quote> petite bière : guiguite.</quote></cit>
+      </entry><entry>
+        <form><orth>bigle</orth><Complément></Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote>bigleux, s. m. et adj. : berlou, bigornieux, bornibus, gognat (fém. gognette), macaveule.</quote></def>
+        <cit type="translation"><quote>bigleux</quote><quote> s. m. et adj. : berlou</quote><quote> bigornieux</quote><quote> bornibus</quote><quote> gognat (fém. gognette)</quote><quote> macaveule.</quote></cit>
+      </entry><entry>
+        <form><orth>bile</orth><Complément>(sécrétion)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>amer.</quote></def>
+        <cit type="translation"><quote>amer.</quote></cit>
+      </entry><entry>
+        <form><orth>bille</orth><Complément>(pour jouer)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>agate (en verre), bonque, dosse, mape, quénéque, quénique.</quote></def>
+        <cit type="translation"><quote>agate (en verre)</quote><quote> bonque</quote><quote> dosse</quote><quote> mape</quote><quote> quénéque</quote><quote> quénique.</quote></cit>
+      </entry><entry>
+        <form><orth>billon</orth><Complément>(jeu)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>bilbotiau, bricotiau.</quote></def>
+        <cit type="translation"><quote>bilbotiau</quote><quote> bricotiau.</quote></cit>
+      </entry><entry>
+        <form><orth>binette</orth><Complément>(outil)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>poussette (que l'on pousse), rasette (que l'on tire).</quote></def>
+        <cit type="translation"><quote>poussette (que l'on pousse)</quote><quote> rasette (que l'on tire).</quote></cit>
+      </entry><entry>
+        <form><orth>biscuit</orth><Complément>(petit)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>nic-nac.</quote></def>
+        <cit type="translation"><quote>nic-nac.</quote></cit>
+      </entry><entry>
+        <form><orth>blanchir</orth><Complément>(le linge au soleil)</Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote>curer.</quote></def>
+        <cit type="translation"><quote>curer.</quote></cit>
+      </entry><entry>
+        <form><orth>blanchisserie</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>burie.</quote></def>
+        <cit type="translation"><quote>burie.</quote></cit>
+      </entry><entry>
+        <form><orth>blanchisseuse</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>buresse.</quote></def>
+        <cit type="translation"><quote>buresse.</quote></cit>
+      </entry><entry>
+        <form><orth>blême</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>blache, blageot.</quote></def>
+        <cit type="translation"><quote>blache</quote><quote> blageot.</quote></cit>
+      </entry><entry>
+        <form><orth>blesser</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>coicher, coissier.</quote></def>
+        <cit type="translation"><quote>coicher</quote><quote> coissier.</quote></cit>
+      </entry><entry>
+        <form><orth>blessure</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>beurre, coichure, pronne.</quote></def>
+        <cit type="translation"><quote>beurre</quote><quote> coichure</quote><quote> pronne.</quote></cit>
+      </entry><entry>
+        <form><orth>bleuet</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>bluet, perchelle.</quote></def>
+        <cit type="translation"><quote>bluet</quote><quote> perchelle.</quote></cit>
+      </entry><entry>
+        <form><orth>bleuir</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>bleusir.</quote></def>
+        <cit type="translation"><quote>bleusir.</quote></cit>
+      </entry><entry>
+        <form><orth>bloquer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>arroïer.</quote></def>
+        <cit type="translation"><quote>arroïer.</quote></cit>
+      </entry><entry>
+        <form><orth>bloquoir</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>abloquo, arroïo.</quote></def>
+        <cit type="translation"><quote>abloquo</quote><quote> arroïo.</quote></cit>
+      </entry><entry>
+        <form><orth>blottir</orth><Complément>(se)</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>s' ranicher, s' rapouchéner.</quote></def>
+        <cit type="translation"><quote>s' ranicher</quote><quote> s' rapouchéner.</quote></cit>
+      </entry><entry>
+        <form><orth>blouse de mineur</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>jupon ; bl. de paysan : niche.</quote></def>
+        <cit type="translation"><quote>jupon </quote><quote> bl. de paysan : niche.</quote></cit>
+      </entry><entry>
+        <form><orth>bluter</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>bulter.</quote></def>
+        <cit type="translation"><quote>bulter.</quote></cit>
+      </entry><entry>
+        <form><orth>bobine</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>bobéniau.</quote></def>
+        <cit type="translation"><quote>bobéniau.</quote></cit>
+      </entry><entry>
+        <form><orth>bocagère</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>boquélière.</quote></def>
+        <cit type="translation"><quote>boquélière.</quote></cit>
+      </entry><entry>
+        <form><orth>boeuf</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>buef. Boeuf bouilli : du bouli.</quote></def>
+        <cit type="translation"><quote>buef. Boeuf bouilli : du bouli.</quote></cit>
+      </entry><entry>
+        <form><orth>boire</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>esclaper.</quote></def>
+        <cit type="translation"><quote>esclaper.</quote></cit>
+      </entry><entry>
+        <form><orth>bois</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>bos, beus. Voir aussi : bos d' fond, bos d' guide, bos d' talle, bos d' vouée ; ablo, ario, asto, bille, billette, broque, cache, candelle, cougnet écliche, longeon, queue, raccourche, rallonque, sommier.</quote></def>
+        <cit type="translation"><quote>bos</quote><quote> beus. Voir aussi : bos d' fond</quote><quote> bos d' guide</quote><quote> bos d' talle</quote><quote> bos d' vouée </quote><quote> ablo</quote><quote> ario</quote><quote> asto</quote><quote> bille</quote><quote> billette</quote><quote> broque</quote><quote> cache</quote><quote> candelle</quote><quote> cougnet écliche</quote><quote> longeon</quote><quote> queue</quote><quote> raccourche</quote><quote> rallonque</quote><quote> sommier.</quote></cit>
+      </entry><entry>
+        <form><orth>boiter</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>boter, botir, cloquer, avoir l'hanquette.</quote></def>
+        <cit type="translation"><quote>boter</quote><quote> botir</quote><quote> cloquer</quote><quote> avoir l'hanquette.</quote></cit>
+      </entry><entry>
+        <form><orth>bol</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>grande jatte.</quote></def>
+        <cit type="translation"><quote>grande jatte.</quote></cit>
+      </entry><entry>
+        <form><orth>bombardement</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>bombardache.</quote></def>
+        <cit type="translation"><quote>bombardache.</quote></cit>
+      </entry><entry>
+        <form><orth>bonbon</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>ballon, chirop, chucarte, clinquart, cras-ballon, réduit d' chuque.</quote></def>
+        <cit type="translation"><quote>ballon</quote><quote> chirop</quote><quote> chucarte</quote><quote> clinquart</quote><quote> cras-ballon</quote><quote> réduit d' chuque.</quote></cit>
+      </entry><entry>
+        <form><orth>bondir</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>bonquer, bonqueter.</quote></def>
+        <cit type="translation"><quote>bonquer</quote><quote> bonqueter.</quote></cit>
+      </entry><entry>
+        <form><orth>bonnet de bébé</orth><Complément></Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote>s .m. : achemette, béguinet.</quote></def>
+        <cit type="translation"><quote>s .m. : achemette</quote><quote> béguinet.</quote></cit>
+      </entry><entry>
+        <form><orth>bord</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>éponce.</quote></def>
+        <cit type="translation"><quote>éponce.</quote></cit>
+      </entry><entry>
+        <form><orth>bordel</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>bourdel.</quote></def>
+        <cit type="translation"><quote>bourdel.</quote></cit>
+      </entry><entry>
+        <form><orth>borgne</orth><Complément>(femme)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>borgnette.</quote></def>
+        <cit type="translation"><quote>borgnette.</quote></cit>
+      </entry><entry>
+        <form><orth>bosquet</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>boquerette, boquet, boqueteau.</quote></def>
+        <cit type="translation"><quote>boquerette</quote><quote> boquet</quote><quote> boqueteau.</quote></cit>
+      </entry><entry>
+        <form><orth>bosse</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>boche, boursiau.</quote></def>
+        <cit type="translation"><quote>boche</quote><quote> boursiau.</quote></cit>
+      </entry><entry>
+        <form><orth>botte</orth><Complément></Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote>(de légumes...), s. f. : facheau, hardélée, manoque, manotte, marotte.</quote></def>
+        <cit type="translation"><quote>(de légumes...)</quote><quote> s. f. : facheau</quote><quote> hardélée</quote><quote> manoque</quote><quote> manotte</quote><quote> marotte.</quote></cit>
+      </entry><entry>
+        <form><orth>bouche</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>bouque.</quote></def>
+        <cit type="translation"><quote>bouque.</quote></cit>
+      </entry><entry>
+        <form><orth>bouchée</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>ablot, bouchie.</quote></def>
+        <cit type="translation"><quote>ablot</quote><quote> bouchie.</quote></cit>
+      </entry><entry>
+        <form><orth>boucherie</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>mazeau (vx).</quote></def>
+        <cit type="translation"><quote>mazeau (vx).</quote></cit>
+      </entry><entry>
+        <form><orth>bouchon</orth><Complément>(de paille)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>bousée, bousin.</quote></def>
+        <cit type="translation"><quote>bousée</quote><quote> bousin.</quote></cit>
+      </entry><entry>
+        <form><orth>boucle</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>ablouque, blouque ; boucle de cheveux : crôle ; boucles d'oreilles : dorlorettes.</quote></def>
+        <cit type="translation"><quote>ablouque</quote><quote> blouque </quote><quote> boucle de cheveux : crôle </quote><quote> boucles d'oreilles : dorlorettes.</quote></cit>
+      </entry><entry>
+        <form><orth>boucler</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>ablouquer, blouquer.</quote></def>
+        <cit type="translation"><quote>ablouquer</quote><quote> blouquer.</quote></cit>
+      </entry><entry>
+        <form><orth>bouder</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>mouser.</quote></def>
+        <cit type="translation"><quote>mouser.</quote></cit>
+      </entry><entry>
+        <form><orth>boue</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote></quote></def>
         
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bouffi</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>bouffiche.</LexieEntiere>
-        <Lexie><SousLexie>bouffiche.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bougon</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>ringrogné.</LexieEntiere>
-        <Lexie><SousLexie>ringrogné.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bouillie</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>papin.</LexieEntiere>
-        <Lexie><SousLexie>papin.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>boule</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>boulot, bourlot.</LexieEntiere>
-        <Lexie><SousLexie>boulot</SousLexie><SousLexie> bourlot.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bouleau</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>boule.</LexieEntiere>
-        <Lexie><SousLexie>boule.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>boulette</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>bourlette.</LexieEntiere>
-        <Lexie><SousLexie>bourlette.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>boulimique</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>cofane.</LexieEntiere>
-        <Lexie><SousLexie>cofane.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>boulotte</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>bourlotte.</LexieEntiere>
-        <Lexie><SousLexie>bourlotte.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bourbier</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>abouloire.</LexieEntiere>
-        <Lexie><SousLexie>abouloire.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bourdaine</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>brin d' cat, noire-femme.</LexieEntiere>
-        <Lexie><SousLexie>brin d' cat</SousLexie><SousLexie> noire-femme.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bourdon</Entrée>
-        <Complément>(insecte)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>malo, pipi-malo.</LexieEntiere>
-        <Lexie><SousLexie>malo</SousLexie><SousLexie> pipi-malo.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bourreau</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>bourriau.</LexieEntiere>
-        <Lexie><SousLexie>bourriau.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bourrelier</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>gorrelier, gorier.</LexieEntiere>
-        <Lexie><SousLexie>gorrelier</SousLexie><SousLexie> gorier.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bourse</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>sacquiau, satiau.</LexieEntiere>
-        <Lexie><SousLexie>sacquiau</SousLexie><SousLexie> satiau.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bousculer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>mambourner.</LexieEntiere>
-        <Lexie><SousLexie>mambourner.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bouse</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere> ; bousée, brin d' vaque, flatte.</LexieEntiere>
-        <Lexie><SousLexie> </SousLexie><SousLexie> bousée</SousLexie><SousLexie> brin d' vaque</SousLexie><SousLexie> flatte.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bout</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>débout.</LexieEntiere>
-        <Lexie><SousLexie>débout.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>boutonner</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>aboutonner.</LexieEntiere>
-        <Lexie><SousLexie>aboutonner.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bouvier</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>beutier.</LexieEntiere>
-        <Lexie><SousLexie>beutier.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>braguette</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>brayette.</LexieEntiere>
-        <Lexie><SousLexie>brayette.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>brancard</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>armon.</LexieEntiere>
-        <Lexie><SousLexie>armon.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>branche</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>branque, cuche.</LexieEntiere>
-        <Lexie><SousLexie>branque</SousLexie><SousLexie> cuche.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>branler</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>(voir : secouer).</LexieEntiere>
-        <Lexie><SousLexie>(voir : secouer).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>brassée</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>brachie.</LexieEntiere>
-        <Lexie><SousLexie>brachie.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>brebis</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>berbis ; (jeune) : berbisette ; (qui a porté) anténoise ; (vieille) : goète.</LexieEntiere>
-        <Lexie><SousLexie>berbis </SousLexie><SousLexie> (jeune) : berbisette </SousLexie><SousLexie> (qui a porté) anténoise </SousLexie><SousLexie> (vieille) : goète.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bredouiller</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>berdouiller, fafier, fafieller, farfouiller.</LexieEntiere>
-        <Lexie><SousLexie>berdouiller</SousLexie><SousLexie> fafier</SousLexie><SousLexie> fafieller</SousLexie><SousLexie> farfouiller.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>brème</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>brame, platiau.</LexieEntiere>
-        <Lexie><SousLexie>brame</SousLexie><SousLexie> platiau.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bretèche</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>bertèque.</LexieEntiere>
-        <Lexie><SousLexie>bertèque.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bretelle</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>bertielle.</LexieEntiere>
-        <Lexie><SousLexie>bertielle.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>brigand</Entrée>
-        <Complément>(de grand chemin)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>rattindeux d' quémin.</LexieEntiere>
-        <Lexie><SousLexie>rattindeux d' quémin.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>brioche</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere>(de Noël) : coniole, couque, quéniole, queuniou ; (contenant une pomme) : bouloche, pagnon, quiou, riboche, tachibure.</LexieEntiere>
-        <Lexie><SousLexie>(de Noël) : coniole</SousLexie><SousLexie> couque</SousLexie><SousLexie> quéniole</SousLexie><SousLexie> queuniou </SousLexie><SousLexie> (contenant une pomme) : bouloche</SousLexie><SousLexie> pagnon</SousLexie><SousLexie> quiou</SousLexie><SousLexie> riboche</SousLexie><SousLexie> tachibure.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>briquet</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>tape-feu.</LexieEntiere>
-        <Lexie><SousLexie>tape-feu.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>brise-tout</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>brisaque.</LexieEntiere>
-        <Lexie><SousLexie>brisaque.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>broche</Entrée>
-        <Complément>(à rôtir)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>haste.</LexieEntiere>
-        <Lexie><SousLexie>haste.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>brosser</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>broussier.</LexieEntiere>
-        <Lexie><SousLexie>broussier.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>brouette</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>birouette.</LexieEntiere>
-        <Lexie><SousLexie>birouette.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>brouetter</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>brouter.</LexieEntiere>
-        <Lexie><SousLexie>brouter.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bruant</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>vert-frion.</LexieEntiere>
-        <Lexie><SousLexie>vert-frion.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bruit</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere> (voir : tapage). Faire du bruit : rambuquer, randouiller.</LexieEntiere>
-        <Lexie><SousLexie> (voir : tapage). Faire du bruit : rambuquer</SousLexie><SousLexie> randouiller.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>brûler</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>arder, ardre, asir.</LexieEntiere>
-        <Lexie><SousLexie>arder</SousLexie><SousLexie> ardre</SousLexie><SousLexie> asir.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>brûlures d'estomac</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f. pl.</StructureGrammaticale>
-        <LexieEntiere>brûlant.</LexieEntiere>
-        <Lexie><SousLexie>brûlant.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>brume</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>breume.</LexieEntiere>
-        <Lexie><SousLexie>breume.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>brutal</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>galteux.</LexieEntiere>
-        <Lexie><SousLexie>galteux.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>brutaliser</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>bourriauder, mambourner.</LexieEntiere>
-        <Lexie><SousLexie>bourriauder</SousLexie><SousLexie> mambourner.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>bûcheron</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>boquélion, boquillon, carrieux-quêne.</LexieEntiere>
-        <Lexie><SousLexie>boquélion</SousLexie><SousLexie> boquillon</SousLexie><SousLexie> carrieux-quêne.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>buis</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere>(des Rameaux), s. m. : pâque.</LexieEntiere>
-        <Lexie><SousLexie>(des Rameaux)</SousLexie><SousLexie> s. m. : pâque.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>buissonnière</Entrée>
-        <Complément>(faire l'école)</Complément>
-        <StructureGrammaticale>loc. v.</StructureGrammaticale>
-        <LexieEntiere>faire : flinque, freusse, guinse, queuette.</LexieEntiere>
-        <Lexie><SousLexie>faire : flinque</SousLexie><SousLexie> freusse</SousLexie><SousLexie> guinse</SousLexie><SousLexie> queuette.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>buter</Entrée>
-        <Complément>(se)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>s'ardoquer, cacholer, doquer, rédoquer, rétoquer.</LexieEntiere>
-        <Lexie><SousLexie>s'ardoquer</SousLexie><SousLexie> cacholer</SousLexie><SousLexie> doquer</SousLexie><SousLexie> rédoquer</SousLexie><SousLexie> rétoquer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>butter</Entrée>
-        <Complément>(des pommes de terre)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>ramotteter.</LexieEntiere>
-        <Lexie><SousLexie>ramotteter.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>buveur</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>buvatier.</LexieEntiere>
-        <Lexie><SousLexie>buvatier.</SousLexie></Lexie>
-      </ArticleDeDictionnaire>
-      </Nomenclature>
+      </entry><entry>
+        <form><orth>bouffi</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>bouffiche.</quote></def>
+        <cit type="translation"><quote>bouffiche.</quote></cit>
+      </entry><entry>
+        <form><orth>bougon</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>ringrogné.</quote></def>
+        <cit type="translation"><quote>ringrogné.</quote></cit>
+      </entry><entry>
+        <form><orth>bouillie</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>papin.</quote></def>
+        <cit type="translation"><quote>papin.</quote></cit>
+      </entry><entry>
+        <form><orth>boule</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>boulot, bourlot.</quote></def>
+        <cit type="translation"><quote>boulot</quote><quote> bourlot.</quote></cit>
+      </entry><entry>
+        <form><orth>bouleau</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>boule.</quote></def>
+        <cit type="translation"><quote>boule.</quote></cit>
+      </entry><entry>
+        <form><orth>boulette</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>bourlette.</quote></def>
+        <cit type="translation"><quote>bourlette.</quote></cit>
+      </entry><entry>
+        <form><orth>boulimique</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>cofane.</quote></def>
+        <cit type="translation"><quote>cofane.</quote></cit>
+      </entry><entry>
+        <form><orth>boulotte</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>bourlotte.</quote></def>
+        <cit type="translation"><quote>bourlotte.</quote></cit>
+      </entry><entry>
+        <form><orth>bourbier</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>abouloire.</quote></def>
+        <cit type="translation"><quote>abouloire.</quote></cit>
+      </entry><entry>
+        <form><orth>bourdaine</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>brin d' cat, noire-femme.</quote></def>
+        <cit type="translation"><quote>brin d' cat</quote><quote> noire-femme.</quote></cit>
+      </entry><entry>
+        <form><orth>bourdon</orth><Complément>(insecte)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>malo, pipi-malo.</quote></def>
+        <cit type="translation"><quote>malo</quote><quote> pipi-malo.</quote></cit>
+      </entry><entry>
+        <form><orth>bourreau</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>bourriau.</quote></def>
+        <cit type="translation"><quote>bourriau.</quote></cit>
+      </entry><entry>
+        <form><orth>bourrelier</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>gorrelier, gorier.</quote></def>
+        <cit type="translation"><quote>gorrelier</quote><quote> gorier.</quote></cit>
+      </entry><entry>
+        <form><orth>bourse</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>sacquiau, satiau.</quote></def>
+        <cit type="translation"><quote>sacquiau</quote><quote> satiau.</quote></cit>
+      </entry><entry>
+        <form><orth>bousculer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>mambourner.</quote></def>
+        <cit type="translation"><quote>mambourner.</quote></cit>
+      </entry><entry>
+        <form><orth>bouse</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote> ; bousée, brin d' vaque, flatte.</quote></def>
+        <cit type="translation"><quote> </quote><quote> bousée</quote><quote> brin d' vaque</quote><quote> flatte.</quote></cit>
+      </entry><entry>
+        <form><orth>bout</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>débout.</quote></def>
+        <cit type="translation"><quote>débout.</quote></cit>
+      </entry><entry>
+        <form><orth>boutonner</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>aboutonner.</quote></def>
+        <cit type="translation"><quote>aboutonner.</quote></cit>
+      </entry><entry>
+        <form><orth>bouvier</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>beutier.</quote></def>
+        <cit type="translation"><quote>beutier.</quote></cit>
+      </entry><entry>
+        <form><orth>braguette</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>brayette.</quote></def>
+        <cit type="translation"><quote>brayette.</quote></cit>
+      </entry><entry>
+        <form><orth>brancard</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>armon.</quote></def>
+        <cit type="translation"><quote>armon.</quote></cit>
+      </entry><entry>
+        <form><orth>branche</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>branque, cuche.</quote></def>
+        <cit type="translation"><quote>branque</quote><quote> cuche.</quote></cit>
+      </entry><entry>
+        <form><orth>branler</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>(voir : secouer).</quote></def>
+        <cit type="translation"><quote>(voir : secouer).</quote></cit>
+      </entry><entry>
+        <form><orth>brassée</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>brachie.</quote></def>
+        <cit type="translation"><quote>brachie.</quote></cit>
+      </entry><entry>
+        <form><orth>brebis</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>berbis ; (jeune) : berbisette ; (qui a porté) anténoise ; (vieille) : goète.</quote></def>
+        <cit type="translation"><quote>berbis </quote><quote> (jeune) : berbisette </quote><quote> (qui a porté) anténoise </quote><quote> (vieille) : goète.</quote></cit>
+      </entry><entry>
+        <form><orth>bredouiller</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>berdouiller, fafier, fafieller, farfouiller.</quote></def>
+        <cit type="translation"><quote>berdouiller</quote><quote> fafier</quote><quote> fafieller</quote><quote> farfouiller.</quote></cit>
+      </entry><entry>
+        <form><orth>brème</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>brame, platiau.</quote></def>
+        <cit type="translation"><quote>brame</quote><quote> platiau.</quote></cit>
+      </entry><entry>
+        <form><orth>bretèche</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>bertèque.</quote></def>
+        <cit type="translation"><quote>bertèque.</quote></cit>
+      </entry><entry>
+        <form><orth>bretelle</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>bertielle.</quote></def>
+        <cit type="translation"><quote>bertielle.</quote></cit>
+      </entry><entry>
+        <form><orth>brigand</orth><Complément>(de grand chemin)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>rattindeux d' quémin.</quote></def>
+        <cit type="translation"><quote>rattindeux d' quémin.</quote></cit>
+      </entry><entry>
+        <form><orth>brioche</orth><Complément></Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote>(de Noël) : coniole, couque, quéniole, queuniou ; (contenant une pomme) : bouloche, pagnon, quiou, riboche, tachibure.</quote></def>
+        <cit type="translation"><quote>(de Noël) : coniole</quote><quote> couque</quote><quote> quéniole</quote><quote> queuniou </quote><quote> (contenant une pomme) : bouloche</quote><quote> pagnon</quote><quote> quiou</quote><quote> riboche</quote><quote> tachibure.</quote></cit>
+      </entry><entry>
+        <form><orth>briquet</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>tape-feu.</quote></def>
+        <cit type="translation"><quote>tape-feu.</quote></cit>
+      </entry><entry>
+        <form><orth>brise-tout</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>brisaque.</quote></def>
+        <cit type="translation"><quote>brisaque.</quote></cit>
+      </entry><entry>
+        <form><orth>broche</orth><Complément>(à rôtir)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>haste.</quote></def>
+        <cit type="translation"><quote>haste.</quote></cit>
+      </entry><entry>
+        <form><orth>brosser</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>broussier.</quote></def>
+        <cit type="translation"><quote>broussier.</quote></cit>
+      </entry><entry>
+        <form><orth>brouette</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>birouette.</quote></def>
+        <cit type="translation"><quote>birouette.</quote></cit>
+      </entry><entry>
+        <form><orth>brouetter</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>brouter.</quote></def>
+        <cit type="translation"><quote>brouter.</quote></cit>
+      </entry><entry>
+        <form><orth>bruant</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>vert-frion.</quote></def>
+        <cit type="translation"><quote>vert-frion.</quote></cit>
+      </entry><entry>
+        <form><orth>bruit</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote> (voir : tapage). Faire du bruit : rambuquer, randouiller.</quote></def>
+        <cit type="translation"><quote> (voir : tapage). Faire du bruit : rambuquer</quote><quote> randouiller.</quote></cit>
+      </entry><entry>
+        <form><orth>brûler</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>arder, ardre, asir.</quote></def>
+        <cit type="translation"><quote>arder</quote><quote> ardre</quote><quote> asir.</quote></cit>
+      </entry><entry>
+        <form><orth>brûlures d'estomac</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f. pl.</pos></gramGrp>
+        <def><quote>brûlant.</quote></def>
+        <cit type="translation"><quote>brûlant.</quote></cit>
+      </entry><entry>
+        <form><orth>brume</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>breume.</quote></def>
+        <cit type="translation"><quote>breume.</quote></cit>
+      </entry><entry>
+        <form><orth>brutal</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>galteux.</quote></def>
+        <cit type="translation"><quote>galteux.</quote></cit>
+      </entry><entry>
+        <form><orth>brutaliser</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>bourriauder, mambourner.</quote></def>
+        <cit type="translation"><quote>bourriauder</quote><quote> mambourner.</quote></cit>
+      </entry><entry>
+        <form><orth>bûcheron</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>boquélion, boquillon, carrieux-quêne.</quote></def>
+        <cit type="translation"><quote>boquélion</quote><quote> boquillon</quote><quote> carrieux-quêne.</quote></cit>
+      </entry><entry>
+        <form><orth>buis</orth><Complément></Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote>(des Rameaux), s. m. : pâque.</quote></def>
+        <cit type="translation"><quote>(des Rameaux)</quote><quote> s. m. : pâque.</quote></cit>
+      </entry><entry>
+        <form><orth>buissonnière</orth><Complément>(faire l'école)</Complément></form>
+        <gramGrp><pos>loc. v.</pos></gramGrp>
+        <def><quote>faire : flinque, freusse, guinse, queuette.</quote></def>
+        <cit type="translation"><quote>faire : flinque</quote><quote> freusse</quote><quote> guinse</quote><quote> queuette.</quote></cit>
+      </entry><entry>
+        <form><orth>buter</orth><Complément>(se)</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>s'ardoquer, cacholer, doquer, rédoquer, rétoquer.</quote></def>
+        <cit type="translation"><quote>s'ardoquer</quote><quote> cacholer</quote><quote> doquer</quote><quote> rédoquer</quote><quote> rétoquer.</quote></cit>
+      </entry><entry>
+        <form><orth>butter</orth><Complément>(des pommes de terre)</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>ramotteter.</quote></def>
+        <cit type="translation"><quote>ramotteter.</quote></cit>
+      </entry><entry>
+        <form><orth>buveur</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>buvatier.</quote></def>
+        <cit type="translation"><quote>buvatier.</quote></cit>
+      </entry>
+      </TEI>

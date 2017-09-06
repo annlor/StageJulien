@@ -17,9 +17,10 @@ class UnitParser() {
     | "Ê" | "É" | "À" | "È" | "Ï" | "'" | "!" | "Ç").rep(min = 1).!)
 
   /**Lettres minuscules*/
-  val LowerCaseLetter = P(CharIn('a' to 'z'
+  val LowerCaseLetter:Parser[String] = P(CharIn('a' to 'z'
     , "-", "é", "à", "ù", "ç", "è", "ê", "â", "û", "ï", "î", "ü", "ô","ë").rep(min = 1).!)
-  val Letters = P((UpperCaseLetter | LowerCaseLetter | " ").rep(min = 1).!)
+
+  val Letters:Parser[String] = P((UpperCaseLetter | LowerCaseLetter | " ").rep(min = 1).!)
 
   /**Chiffre de 1 à 9*/
   val Numbers = P(CharIn('0' to '9').!)
@@ -58,7 +59,7 @@ class intermediateParser {
     (PonctuationNoQuotes | UP.Date | " ").rep).!)
   val Auteur = P(("(" ~ UP.UpperCaseLetter ~ ")").!)
   val ExemplePicard = P((("ANC. : " | PonctuationNoQuotes).? ~ "\"" ~ " ".? ~ UP.Letters.rep(sep = PonctuationNoQuotes) ~
-    "\"" ~ " ".? ~ Auteur.? ~ " ".? ~ (("="|":") ~ Definitions).? ~
+    "\"" ~ " ".? ~ Auteur.? ~ " ".? ~ (("="|":"|"dit-on") ~ Definitions).? ~
     (" ".? ~ "(" ~ UP.Letters.rep(sep = (PonctuationNoQuotesNoParenthesis | UP.Date).?) ~ ")").? ~
     (PonctuationNoQuotes | " ").rep).!)
 }

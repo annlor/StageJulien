@@ -1,0 +1,4556 @@
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+  <entry>
+    <form>
+      <orth>
+        Il semble qu'il s'agisse ici du jeu dans lequel on plantait son couteau dans une surface délimitée en traçant chaque fois une droite dans l'axe défini par la trace de la lame. La surface à découper se réduisait ainsi à chaque coup
+      </orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        jusqu'au darain où il fallait être très adroit pour planter le couteau dans une zone très étroite. ANC. : derrain : dernier (God.), à la derraine = à qui aura la dernière.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        jusqu'au darain où il fallait être très adroit pour planter le couteau dans une zone très étroite.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : derrain : dernier (God.), à la derraine = à qui aura la dernière.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Intensif de roter</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : enlever. ANC. : &quot; S'o lé poien rotte.. (Fl, E, 1634) = Si nous pouvions les ôter.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>: enlever. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : &quot; S'o lé poien rotte.. (Fl, E, 1634) = Si nous pouvions les ôter.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>I</orth>
+    </form>
+    <gramGrp>
+      <pos>pr. pers. suj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        il : &quot; I va v'nir &quot;. Il double le nom sujet : &quot; L' corbillard i va m'importer &quot; (PB). Pr. pers. compl. : lui. &quot; T'i donn'ras ç' billet-chi &quot; (JD). &quot; Ainsi, souvint, eun' main qu'in aime / Ecrèpe el coeur à i fair' mau &quot; (PM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>il : </quote>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Il double le nom sujet : </quote>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Pr. pers. compl. : lui. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">Pr</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">pers</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; I va v'nir &quot;. </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; L' corbillard i va m'importer &quot; (PB). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; T'i donn'ras ç' billet-chi &quot; (JD). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ainsi, souvint, eun' main qu'in aime / Ecrèpe el coeur à i fair' mau &quot; (PM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>IAU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        eau. &quot; Y n'y a mie d' si bell' iau qui n' vinch' à s' brouiller &quot; (JQ). &quot; Inter chi et là, i pass'ra bin d' l'iau au molin &quot; = avant que cela n'arrive, il se passera bien des choses. &quot; Tein néveu ! tu l'voïos deins l'iau ! &quot; (RD) = tu ne voyais que par lui ! &quot; L'iau al est su l' maison et j' n'ai cor rein au feu ! &quot; (RD) = je lave mon carrelage et le dîner n'est pas prêt. ANC. : on trouve, au XIe, des graphies ieve, iave (avec le v écrit u). &quot; Les napes lièvent, l'iaue donnent &quot; (Roman du Comte d'Anjou, J. Maillart, 1316).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>eau. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">eau</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Y n'y a mie d' si bell' iau qui n' vinch' à s' brouiller &quot; (JQ).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Inter chi et là, i pass'ra bin d' l'iau au molin &quot; = avant que cela n'arrive, il se passera bien des choses.
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Tein néveu ! tu l'voïos deins l'iau ! &quot; (RD) = tu ne voyais que par lui !
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; L'iau al est su l' maison et j' n'ai cor rein au feu ! &quot; (RD) = je lave mon carrelage et le dîner n'est pas prêt.
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : on trouve, au XIe, des graphies ieve, iave (avec le v écrit u). &quot; Les napes lièvent, l'iaue donnent &quot; (Roman du Comte d'Anjou, J. Maillart, 1316).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>ICHI</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : chi).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : chi).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>IMBARRAS</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        embarras. A noter l'expr. : y-a pas d'imbarras. Ex. : &quot; Tant qu'in peut mier, y-a pas d'imbarras ! = ça peut aller ! &quot; Y-a pas d'imbarras qu'i verrot m' donner un cop d' main ! &quot; = il se garderait bien de venir m'aider. &quot; Biecbot, i n'y a mie d'imbarras &quot; (JQ) = tu peux y aller, il n'y a pas de danger (dit une fille hardie à un garçon).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>embarras. A noter l'expr. : y-a pas d'imbarras. Ex. : </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">embarras</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Y-a pas d'imbarras qu'i verrot m' donner un cop d' main ! </quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Tant qu'in peut mier, y-a pas d'imbarras ! = ça peut aller ! &quot;
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>IMBERLAFER ou IMBERLER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        mettre en désordre, salir (voir : berlafer). &quot; Ein n' va point imberler l' russeau des visins avec ses patiaux ! &quot; (RD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>mettre en désordre, salir (voir : berlafer). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ein n' va point imberler l' russeau des visins avec ses patiaux ! &quot; (RD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>IMBERLIFICOTER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        le sens fig. prédomine : tromper par des flatteries. (Voir : indordéler).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        le sens fig. prédomine : tromper par des flatteries. (Voir : indordéler).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>IMBERLIFIQUER (AH)</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>enchevêtrer, emmêler.</quote>
+    </def>
+    <def label="française">
+      <quote>enchevêtrer, emmêler.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">enchevêtrer</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">emmêler</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>IMBERNER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>couvrir de bren (matière fécale). (Voir : déberner).</quote>
+    </def>
+    <def label="française">
+      <quote>couvrir de bren (matière fécale). (Voir : déberner).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>IMBÊTÉ</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        &quot; Pus eimbêté qu'enne couveuse qu'ein i a pris ses ués &quot; (RD).
+      </quote>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Imbê(e)mint</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>embêtement, ennui.</quote>
+    </def>
+    <def label="française">
+      <quote>embêtement, ennui.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">embêtement</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">ennui</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>IMBISIÉ</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        &quot; J'ai m' figure imbisiée &quot; (GLec) : gercée par le froid. (Voir : ébisé).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>gercée par le froid. (Voir : ébisé).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; J'ai m' figure imbisiée &quot; (GLec) : </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Imbisiure (GLec)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>engelure. ANC. : vient de bise, vent froid du Nord.</quote>
+    </def>
+    <def label="française">
+      <quote>engelure. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">engelure</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : vient de bise, vent froid du Nord.</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>IMBLAVER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - emblaver, ensemencer une terre. &quot; Les camps imblavés frémit'nt sous l' brise &quot; (JD).
+      </quote>
+      <quote>
+        2 - mettre en désordre. &quot; Eine cuisine toute imblavée d' bidons à laver. &quot;
+      </quote>
+      <quote>
+        3 - apporter des soucis. &quot; Les tracas pou l's étutes imblavent leu malheureuse existence &quot; (EM). A Hasnon, on trouve imblayer (LH).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - emblaver, ensemencer une terre. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Les camps imblavés frémit'nt sous l' brise &quot; (JD). </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>2 - mettre en désordre. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Eine cuisine toute imblavée d' bidons à laver. &quot; </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>3 - apporter des soucis. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>A Hasnon, on trouve imblayer (LH).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Les tracas pou l's étutes imblavent leu malheureuse existence &quot; (EM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Imblave</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - désordre. &quot; I fait assez d'emblaves avec ses moutons, l' gros Médard ! &quot; (RD).
+      </quote>
+      <quote>
+        2 - embarras. (Voir : ablais). &quot; Permettez, comarat's, qué, sans fair' trop d'imblave, / J' dise em'n arconnaissance aux bonn's gins del Bett'rave &quot; (JM) (la Betterave : groupement parisien des originaires de la région du Nord).
+      </quote>
+      <quote>
+        3 - faiseur d'embarras : &quot; Malheur à les féseux d'imbarras, à les imblafes, à les orgueuieux &quot; (BD).
+      </quote>
+      <quote>
+        4 - histoire, plaisanterie. &quot; Infin, chacun a dit s'n imblave &quot; (JM).
+      </quote>
+      <quote>
+        5 - difficulté. &quot; Dé ç' mi' d' pain, sans imblave, / In peut ciminter s' cave &quot; (JM). ANC. : Frero, je vo diré... / ... tout l'emblavement (Fl, H, 1654) = embarras.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - désordre. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I fait assez d'emblaves avec ses moutons, l' gros Médard ! &quot; (RD).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : Frero, je vo diré... / ... tout l'emblavement (Fl, H, 1654) = embarras.
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>2 - embarras. (Voir : ablais). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Permettez, comarat's, qué, sans fair' trop d'imblave, / J' dise em'n arconnaissance aux bonn's gins del Bett'rave &quot; (JM) (la Betterave : groupement parisien des originaires de la région du Nord).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : Frero, je vo diré... / ... tout l'emblavement (Fl, H, 1654) = embarras.
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>3 - faiseur d'embarras : </quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Malheur à les féseux d'imbarras, à les imblafes, à les orgueuieux &quot; (BD).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : Frero, je vo diré... / ... tout l'emblavement (Fl, H, 1654) = embarras.
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>4 - histoire, plaisanterie. </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">plaisanterie</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Infin, chacun a dit s'n imblave &quot; (JM). </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : Frero, je vo diré... / ... tout l'emblavement (Fl, H, 1654) = embarras.
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>5 - difficulté. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Dé ç' mi' d' pain, sans imblave, / In peut ciminter s' cave &quot; (JM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : Frero, je vo diré... / ... tout l'emblavement (Fl, H, 1654) = embarras.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>IMBLOUI</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        ébloui. &quot; Et nos yeux imblouis n' sé lass'nt point d'admirer &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>ébloui. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">ébloui</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Et nos yeux imblouis n' sé lass'nt point d'admirer &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>IMBONCHÉ</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        embarrassé, engoncé. &quot; A ch'tte heur', moins imbonché, all' va vite in r'tournant &quot; (GF).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>embarrassé, engoncé. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">embarrassé</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">engoncé</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; A ch'tte heur', moins imbonché, all' va vite in r'tournant &quot; (GF).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>IMBORGNER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>éborgner (voir : gra-mère).</quote>
+    </def>
+    <def label="française">
+      <quote>éborgner (voir : gra-mère).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>IMBRODIO</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>déform. de imbroglio.</quote>
+    </def>
+    <def label="française">
+      <quote>déform. de imbroglio.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>IMBROULLE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - confusion, trouble. &quot; N' viens pas chi mett' l'imbroulle. &quot; J'ai eu d' l'imbroulle &quot; : j'ai eu un contretemps. &quot; Des filousteux causant d' l'imbroulle et du souci &quot;.
+      </quote>
+      <quote>
+        2 - difficulté. &quot; J'ajout' qu' pou corser l'imbroulle / In dévalot tous
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - confusion, trouble. </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">trouble</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>J'ai eu d' l'imbroulle </quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; N' viens pas chi mett' l'imbroulle. &quot; </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>2 - difficulté. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>IMBRUNQUER (S') ou IMBROUQUER (S') ou IMBRONQUER (S')</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        s'assoupir. &quot; Ç' bruit-là fait réveiller M'sieur l' Maire / Qui s'imbrunquot pindant l' discours &quot; (JM). &quot; Ein s'est eimbrouqué tout d' même, anéantis, su l' coup d' minuit &quot; (RD). (voir : s'indronquer).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>s'assoupir. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">s'assoupir</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>voir : s'indronquer).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ç' bruit-là fait réveiller M'sieur l' Maire / Qui s'imbrunquot pindant l' discours &quot; (JM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ein s'est eimbrouqué tout d' même, anéantis, su l' coup d' minuit &quot; (RD). (
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Imbrunqué</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : GH lui donne le sens : enfoncé dans la boue. Peut-être dû à une contamination de breucq, ou de bren ; et, au fig. : être mêlé à de mauvaises affaires. &quot; D'us qu'il est là imbrunqué ! &quot; Autre contam. possible avec ingrinqué.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        : GH lui donne le sens : enfoncé dans la boue. Peut-être dû à une contamination de breucq, ou de bren ; et, au fig. : être mêlé à de mauvaises affaires.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">et</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Autre contam. possible avec ingrinqué.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; D'us qu'il est là imbrunqué ! &quot; </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>IMÉRO</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : liméro).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : liméro).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>IMMANCHURE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>1 - emmanchure. </quote>
+      <quote>
+        2 - tournure des événements. &quot; Ah oui, j' vos l'immanchure ! &quot; = je vois comment ça tourne : mais je connais le truc, vous ne m'aurez pas. (Voir : incloüre, infilure, inrolure, inturlure).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - emmanchure. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>2 - tournure des événements. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ah oui, j' vos l'immanchure ! &quot; = je vois comment ça tourne : mais je connais le truc, vous ne m'aurez pas. (Voir : incloüre, infilure, inrolure, inturlure).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>IM.MARVOÏER ou AMARVOÏER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        enrager, endéver. I m' fait immarvoïer : il me met hors de moi. &quot; I l' jett' su l'orell' Grégoire / Pour el faire emmarvoïer &quot; (JM). &quot; N' vas jamais l' faire amarvoyer quand i minche &quot; (PP). &quot; T'aim' bin dé m' faire amarvoyer &quot; (RP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>enrager, endéver. I m' fait immarvoïer : il me met hors de moi. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">enrager</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I l' jett' su l'orell' Grégoire / Pour el faire emmarvoïer &quot; (JM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; N' vas jamais l' faire amarvoyer quand i minche &quot; (PP).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; T'aim' bin dé m' faire amarvoyer &quot; (RP).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Immarvoïeux</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        embêtant. &quot; Il est cor dur à satisfaire / Car d'pus quéqu' temps, il est immarv
+      </quote>
+    </def>
+    <def label="française">
+      <quote>embêtant. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">embêtant</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>IMMÉLURE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>colonie de pucerons sur des plantes.</quote>
+    </def>
+    <def label="française">
+      <quote>colonie de pucerons sur des plantes.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>IMMURER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        emmurer. &quot; ... un adversair' sauvache / Voulot l'z immurer dins leus tros &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>emmurer. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">emmurer</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>IMPAFFER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        empiffrer, gorger de nourriture. &quot; Un jour de ducasse, pour mieux s'empaffer, on met les petits plats dans les grands &quot; (FP). &quot; V'là qu'i s' met bin vite à minger, / A s'impaffer tout seu, l'a s'guive ! &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>empiffrer, gorger de nourriture. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">empiffrer</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Un jour de ducasse, pour mieux s'empaffer, on met les petits plats dans les grands &quot; (FP).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; V'là qu'i s' met bin vite à minger, / A s'impaffer tout seu, l'a s'guive ! &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>IMPAPINER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        couvrir de papin (colle de farine). Langue impapinée : langue chargée. &quot; L'homm' crot maquier du papier d' verre / Car es' bouqu' s'impapine aussi &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        couvrir de papin (colle de farine). Langue impapinée : langue chargée.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; L'homm' crot maquier du papier d' verre / Car es' bouqu' s'impapine aussi &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Impapinage</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : s. m. : encollage, enrobage. &quot; Et l'empapinage de camphre chaud sur tout le torse et les reins... &quot; (AS).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>: s. m. : encollage, enrobage. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">enrobage</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Et l'empapinage de camphre chaud sur tout le torse et les reins... &quot; (AS).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>IMPIÈLE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : opièle).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : opièle).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>IMPIERGER (S')</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        Se prendre les pieds dans un obstacle (le mot apparaît au sud de notre zone).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        Se prendre les pieds dans un obstacle (le mot apparaît au sud de notre zone).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>IMPLEUMURE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        marmelade de fruits séchés (pommes, poires, pruneaux) utilisée comme garniture de tarte. ANC. : du moy. néerl. appelmoes (marmelade de pommes).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        marmelade de fruits séchés (pommes, poires, pruneaux) utilisée comme garniture de tarte.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : du moy. néerl. appelmoes (marmelade de pommes).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>IMPOGNER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>IMPONGNER ou IMPOU</quote>
+    </def>
+    <def label="française">
+      <quote>IMPONGNER ou IMPOU</quote>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>IMPUIR</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        empuantir. Part. pas. : impui. ANC. : puir : répandre une mauvaise odeur (La Geste des Loherins, XIIe) du lat. pop. putire.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>empuantir. Part. pas. : impui. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">empuantir</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">pas</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : puir : répandre une mauvaise odeur (La Geste des Loherins, XIIe) du lat. pop. putire.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>IN</orth>
+    </form>
+    <gramGrp>
+      <pos>pr. ind.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        on ; graphies ein (RD) ou un (F ; BD). &quot; In in tronnot dins ses maronnes &quot; (JD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>on ; graphies ein (RD) ou un (F ; BD). </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">on</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; In in tronnot dins ses maronnes &quot; (JD).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>IN</orth>
+    </form>
+    <gramGrp>
+      <pos>pr. pers. compl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        en. &quot; In in tronnot... &quot;. Equivaut à y dans l'expr. : &quot; J' n'in peux rien &quot;.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>en. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">en</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Equivaut à y dans l'expr. : </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; In in tronnot... &quot;. </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; J' n'in peux rien &quot;.</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INCACHER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        chasser. &quot; Mets in fuite el maudit grisou, / Incach' lé dé l' vill' souterraine &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>chasser. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">chasser</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Mets in fuite el maudit grisou, / Incach' lé dé l' vill' souterraine &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Incacher les mouques (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: </quote>
+      <quote>1 - chasser les mouches ; </quote>
+      <quote>
+        2 - faire le signe de croix. ANC. : &quot; Che son ché diallotain que j'encache d'ichy &quot; (Fl, E, 1634).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>: </quote>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : &quot; Che son ché diallotain que j'encache d'ichy &quot; (Fl, E, 1634).
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>1 - chasser les mouches ; </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : &quot; Che son ché diallotain que j'encache d'ichy &quot; (Fl, E, 1634).
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>2 - faire le signe de croix. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : &quot; Che son ché diallotain que j'encache d'ichy &quot; (Fl, E, 1634).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>* INCARNER (S') (PB)</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        s'acharner. &quot; Nous s'incarnons chaqu' jour pus fort / Pour imbrouïer incor no vie &quot;.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>s'acharner. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">s'acharner</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Nous s'incarnons chaqu' jour pus fort / Pour imbrouïer incor no vie &quot;.
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INCERNER (S') (JM)</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        s'insérer, s'introduire dans un passage étroit. &quot; Au fur et à m'sur' qu'i s'incerne, / In crot... Qu' dins cheull' nébuleus' caverne / I s'infonce à tout jamais &quot;.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>s'insérer, s'introduire dans un passage étroit. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">s'insérer</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Au fur et à m'sur' qu'i s'incerne, / In crot... Qu' dins cheull' nébuleus' caverne / I s'infonce à tout jamais &quot;.
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INCH(E)PÉ</orth>
+    </form>
+    <gramGrp>
+      <pos>part. pas.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        de inch(e)per (entraver), à valeur d'adj. : être embarrassé, maladroit dans ses mouvements, comme si l'on était entravé. &quot; Joseph, inch'pé, pétiell', tout comme un homm' qu'il est &quot; (JD). &quot; Ch'est là qué Tontaine i dévale, / Inch'pé dins s' ribambell' d'othieux &quot; (JM). &quot; Mal à l'aise &quot; (sens fig.). &quot; Mé v'là chi inch'pé dins l'z honneurs &quot; (JM). ANC. : cep : entraves, chaînes (Livre des Métiers, Et. Boileau, 1268) du lat. cippum (pieu). Enceper : mettre dans les ceps (Aiol, fin XIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        de inch(e)per (entraver), à valeur d'adj. : être embarrassé, maladroit dans ses mouvements, comme si l'on était entravé.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>sens fig.). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Joseph, inch'pé, pétiell', tout comme un homm' qu'il est &quot; (JD).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ch'est là qué Tontaine i dévale, / Inch'pé dins s' ribambell' d'othieux &quot; (JM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Mal à l'aise &quot; (</quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Mé v'là chi inch'pé dins l'z honneurs &quot; (JM). </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : cep : entraves, chaînes (Livre des Métiers, Et. Boileau, 1268) du lat. cippum (pieu). Enceper : mettre dans les ceps (Aiol, fin XIIe).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>INCHERCLER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        encercler. &quot; (I) vont bousculer / Batiss' Boudenn' pour l'inchercler &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>encercler. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">encercler</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INCHIFERNÉ</orth>
+    </form>
+    <gramGrp>
+      <pos>part. pas. adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        enchifrené, enrhumé. &quot; Comme et' mononqu' toudis inchiferné &quot; (EM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>enchifrené, enrhumé. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">enchifrené</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">enrhumé</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Comme et' mononqu' toudis inchiferné &quot; (EM).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INCLIFER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : éclifer).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : éclifer).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INCLOER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>enclouer. &quot; L'quévau est incloé (blessé par un clou).</quote>
+    </def>
+    <def label="française">
+      <quote>enclouer. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">enclouer</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Incloüre</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        enclouure ; tournure génér. malheureuse d'un événement (voir : immanchure, infilure).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        enclouure ; tournure génér. malheureuse d'un événement (voir : immanchure, infilure).
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">enclouure</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INCOEURIR (S')</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        s'encourir. &quot; Tout d' suite, all' s'inqueurt à l' rivière &quot; (PB).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>s'encourir. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Tout d' suite, all' s'inqueurt à l' rivière &quot; (PB).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INCOR</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        ACOR, ou OCORE, adv. : encore (voir : cor). &quot; Acor quinze jours, tros semaines et cha y est &quot; (RD). &quot; Ch'est ocore un souv'nir ed travail &quot; (ALec).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>ACOR, ou OCORE, adv. : encore (voir : cor). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Acor quinze jours, tros semaines et cha y est &quot; (RD).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Ch'est ocore un souv'nir ed travail &quot; (ALec).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* INCORPORER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        assimiler la nourriture, la boisson. &quot; Jé n' sais pus incorporer l' chou rouche &quot; (= digérer). &quot; Ch'est eun' séquoi d' bon pou ch'ti qui sait l'incorporer &quot; (PP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>assimiler la nourriture, la boisson. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>digérer). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Jé n' sais pus incorporer l' chou rouche &quot; (= </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ch'est eun' séquoi d' bon pou ch'ti qui sait l'incorporer &quot; (PP).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INCRINQUER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : ingrinquer).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : ingrinquer).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>I N' D'A ou</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : IN' D'Y-A (voir: gram.) il y en a. I n' d'avot : il y en avait. I n' d'ara : il y en aura. I n' d'arot : il y en aurait. Qu'i n' d'euche ! : qu'il y en ait !
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        : IN' D'Y-A (voir: gram.) il y en a. I n' d'avot : il y en avait. I n' d'ara : il y en aura. I n' d'arot : il y en aurait. Qu'i n' d'euche ! : qu'il y en ait !
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INDABOUSER (AH)</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>barbouiller (voir : dabouser).</quote>
+    </def>
+    <def label="française">
+      <quote>barbouiller (voir : dabouser).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* INDIVE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        chicorée frisée (ce que le fr. nomme endive s'appelle ici chicon).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        chicorée frisée (ce que le fr. nomme endive s'appelle ici chicon).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INDORDÉLER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        tromper par des flatteries ; endormir la méfiance. &quot; Le vieux troupier sans défiance se laissa endordêler &quot; (CD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>tromper par des flatteries ; endormir la méfiance. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Le vieux troupier sans défiance se laissa endordêler &quot; (CD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* INDORMI</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>engourdi. J'ai mes pieds indormis.</quote>
+    </def>
+    <def label="française">
+      <quote>engourdi. J'ai mes pieds indormis.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">engourdi</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INDRONQUER (S')</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : syn. de s'imbrunquer (s'assoupir) dans la région de Condé. &quot; I s'indronque, i ronfielle bétôt comme un binhéreux &quot; (PP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>: syn. de s'imbrunquer (s'assoupir) dans la région de Condé. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I s'indronque, i ronfielle bétôt comme un binhéreux &quot; (PP).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INDROT</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        endroit, lieu. &quot; Armets t' maronne à l'indrot &quot;. &quot; Ç' l'indrot-là, y étot plaché un n' peut mieux pou l'amus'mint d' tertous &quot; (JQ). Endroit où l'on habite, village. &quot; Tous les gins d' no n'indrot &quot; (BD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>endroit, lieu. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">endroit</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">lieu</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Endroit où l'on habite, village. </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">village</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Armets t' maronne à l'indrot &quot;. </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ç' l'indrot-là, y étot plaché un n' peut mieux pou l'amus'mint d' tertous &quot; (JQ).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Tous les gins d' no n'indrot &quot; (BD).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INDURCHIR</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        endurcir. &quot; Ch'tot si lourd qué l' cordelière / M' blessot l' dos mal indurchi &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>endurcir. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">endurcir</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ch'tot si lourd qué l' cordelière / M' blessot l' dos mal indurchi &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* INDURER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        à côté du sens fr. : supporter avec patience (&quot; Tâch' d'indurer t' misère &quot;), on trouve un sens fort diff. : apprécier. &quot; Pa ç' temps-là, in indure bin eine bonne capote &quot;. &quot; In étot insonne, in sintot l'affection. Mais in arot bin induré chu qu'in met d'habitude autour &quot; (JD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>à côté du sens fr. : supporter avec patience (</quote>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>on trouve un sens fort diff. : apprécier. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Tâch' d'indurer t' misère &quot;), </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Pa ç' temps-là, in indure bin eine bonne capote &quot;. </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; In étot insonne, in sintot l'affection. Mais in arot bin induré chu qu'in met d'habitude autour &quot; (JD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INDVINTEUX</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>INDVINTION : (voir : invinteux, invintion).</quote>
+    </def>
+    <def label="française">
+      <quote>INDVINTION : (voir : invinteux, invintion).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INFANT ou AFANT</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        enfant. &quot; Il a soin d' l'infant dé s' mère &quot; (GH) = il prend soin de lui-même. &quot; I vaut mieux un infant qu'un viau, i n' faut point d' cordiau &quot; (GH) (manière de consoler une fille-mère). &quot; J'ai core invie d'un afant d' li &quot; (PMa).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>enfant. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">enfant</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Il a soin d' l'infant dé s' mère &quot; (GH) = il prend soin de lui-même.
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I vaut mieux un infant qu'un viau, i n' faut point d' cordiau &quot; (GH) (manière de consoler une fille-mère).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; J'ai core invie d'un afant d' li &quot; (PMa).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INFARBÉLER (S') (Mme Morival)</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>se prendre Ses pieds dans un obstacle.</quote>
+    </def>
+    <def label="française">
+      <quote>se prendre Ses pieds dans un obstacle.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INFARDÉLER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        envelopper. &quot; Il a s' tiêt' tout infardélée / Dins un grand mouchoir à carreaux &quot; (JM). &quot; Ej l'arvos core avec es brique infardélée dins du papier pa d'zous s' bras &quot; (PP). &quot; Ce qui enfardelait dans le lit même les briques chauffées au four &quot; (AS). ANC. : enfardeler : envelopper, entortiller (1332), de fardel : paquet, ballot (Roman de Carité, Rendus de Moiliens, 1204), de l'arabe farda : charge d'un chameau. Farde : paquet, ballot, fardeau (Wace, 1169).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>envelopper. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">envelopper</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Il a s' tiêt' tout infardélée / Dins un grand mouchoir à carreaux &quot; (JM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ej l'arvos core avec es brique infardélée dins du papier pa d'zous s' bras &quot; (PP).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ce qui enfardelait dans le lit même les briques chauffées au four &quot; (AS).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : enfardeler : envelopper, entortiller (1332), de fardel : paquet, ballot (Roman de Carité, Rendus de Moiliens, 1204), de l'arabe farda : charge d'un chameau. Farde : paquet, ballot, fardeau (Wace, 1169).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Infardélage</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        ce qui sert à infardéler. &quot; La brique... se retrouve nue, défardelée, son enfardelage boulotte dans le coin le plus lointain du lit &quot; (AS).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>ce qui sert à infardéler. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; La brique... se retrouve nue, défardelée, son enfardelage boulotte dans le coin le plus lointain du lit &quot; (AS).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INF(E)NOUILLÉ</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>embarrassé ; empressé, agité.</quote>
+    </def>
+    <def label="française">
+      <quote>embarrassé ; empressé, agité.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">embarrassé</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">empressé</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">agité</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* INFERNAL</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        extirpateur, utilisé pour de petits labours superficiels (GL). (Voir : tripoter).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        extirpateur, utilisé pour de petits labours superficiels (GL). (Voir : tripoter).
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">extirpateur</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INFILER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - enfiler. &quot; In fièv', j'ai infilé m' maronne &quot; (JD).
+      </quote>
+      <quote>
+        2 - prendre une rue : &quot; In infilant pa l' rue des Moléniaux &quot; (JQ).
+      </quote>
+      <quote>
+        3 - boire, manger : &quot; Et nous nous infilons dé l' bière / Comme après un r'pas au sauret &quot; (PB).
+      </quote>
+      <quote>
+        4 - conter des craques. &quot; Mais pour bé les infiler, / N'ia qu' les bouchers d' Vieux-Condé &quot; (AD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - enfiler. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; In fièv', j'ai infilé m' maronne &quot; (JD). </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>2 - prendre une rue : </quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; In infilant pa l' rue des Moléniaux &quot; (JQ). </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>3 - boire, manger : </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Et nous nous infilons dé l' bière / Comme après un r'pas au sauret &quot; (PB).
+      </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>4 - conter des craques. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Mais pour bé les infiler, / N'ia qu' les bouchers d' Vieux-Condé &quot; (AD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Infileux</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>conteur de craques.</quote>
+    </def>
+    <def label="française">
+      <quote>conteur de craques.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* Infilure</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - mauvaise tournure que prend une affaire (voir : immanchure, incloüre, inrolure). &quot; Veyez l'infilure : si les jonn's n' trouv'té pus d'ouvrache, tiesse qui paiera les artraites des vieux ? &quot; (EM).
+      </quote>
+      <quote>
+        2 - habileté. &quot; J'ai aussi belle infilure / Pou tourner les écritures &quot; (JQ).
+      </quote>
+      <quote>
+        3 - ruse, stratagème. &quot; Quand l' buveur il étot malin, / I veyot l'infilure et cha dév'not vilain &quot; (PB).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        1 - mauvaise tournure que prend une affaire (voir : immanchure, incloüre, inrolure).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Veyez l'infilure : si les jonn's n' trouv'té pus d'ouvrache, tiesse qui paiera les artraites des vieux ? &quot; (EM).
+      </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>2 - habileté. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J'ai aussi belle infilure / Pou tourner les écritures &quot; (JQ).
+      </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>3 - ruse, stratagème. </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">stratagème</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Quand l' buveur il étot malin, / I veyot l'infilure et cha dév'not vilain &quot; (PB).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INFORCHÉ</orth>
+    </form>
+    <gramGrp>
+      <pos>part. pas. adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        très occupé, accablé de travail. &quot; Et j'ai vu là, bin inforché, / Saint Nicolas et sin baudet &quot; (LB). S'inforcher : faire plus que ses forces ne le permettent.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>très occupé, accablé de travail. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>S'inforcher : faire plus que ses forces ne le permettent.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Et j'ai vu là, bin inforché, / Saint Nicolas et sin baudet &quot; (LB).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INFOUFIÉ ou ÉFOUFIÉ</orth>
+    </form>
+    <gramGrp>
+      <pos>part. pas. adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        brouillon, distrait, étourdi, embarrassé. &quot; Une sacrée touilleuse, une jolie enfoufiée, notre époque ! &quot; (FP). &quot; Il arriva tout infoufié / D' s'avoir trop viv'mint habillé &quot; (GF). (Voir : foufielle).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>brouillon, distrait, étourdi, embarrassé. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">brouillon</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">distrait</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">étourdi</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">embarrassé</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Voir : foufielle).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Une sacrée touilleuse, une jolie enfoufiée, notre époque ! &quot; (FP).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Il arriva tout infoufié / D' s'avoir trop viv'mint habillé &quot; (GF). (
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Infoufier (s') ou infoufieller (s')</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        se troubler, s'embarrasser, s'affoler. &quot; Ch'est enn' geint qui toudis s'infroulle / Et s'infoufiell' dains chu qu'all' fait &quot; (PB). &quot; V'là core Médor qui s'infoufielle dins mes controns &quot; (PP). &quot; S'ils s'exprimaient en nouveaux francs, ils s'infoufielleraient &quot; (EM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>se troubler, s'embarrasser, s'affoler. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">se troubler</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">s'affoler</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ch'est enn' geint qui toudis s'infroulle / Et s'infoufiell' dains chu qu'all' fait &quot; (PB).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; V'là core Médor qui s'infoufielle dins mes controns &quot; (PP).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; S'ils s'exprimaient en nouveaux francs, ils s'infoufielleraient &quot; (EM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INFOURNAQUER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        enfoncer, introduire. &quot; L' pauv' Cafougnett' &quot; s'infournaque d'zous l' lit &quot; (JM). &quot; Ç' villach' paraît infournaqué comm' tout, tell'mint qu' ch'est dins un rinfond &quot; (JQ). S'infournaquer : se mettre dans une situation difficile. ANC. : de four
+      </quote>
+    </def>
+    <def label="française">
+      <quote>enfoncer, introduire. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">enfoncer</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">introduire</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>s'infournaque d'zous l' lit </quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; L' pauv' Cafougnett' &quot; </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : de four </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Infourneux</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        enfourneur. &quot; Après, i-a té domestique / ... / R'soudeux, croqu'mort, infourneux d' briques &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>enfourneur. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">enfourneur</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Après, i-a té domestique / ... / R'soudeux, croqu'mort, infourneux d' briques &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* INFOURQUER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote> transpercer quelqu'un avec une fourche (GD).</quote>
+    </def>
+    <def label="française">
+      <quote> transpercer quelqu'un avec une fourche (GD).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INFREMER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        INFRUMER, v. : enfermer (voir : fremer). &quot; On étot toudis forché d' rester infreumé dins s' camp' &quot; (JQ). &quot; Ej' peinsos qu'i tot einfrumé à Armentières &quot; (RD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>INFRUMER, v. : enfermer (voir : fremer). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; On étot toudis forché d' rester infreumé dins s' camp' &quot; (JQ).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Ej' peinsos qu'i tot einfrumé à Armentières &quot; (RD).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INFROUILLER (S')</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        s'affairer de façon désordonnée, s'embrouiller. &quot; Ch'est enn' gint qui toudis s'infroule &quot; (PB). &quot; L' cabar'tier tellemint infrouillé qu'i n'a mie busié à s' faire payer &quot; (PP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>s'affairer de façon désordonnée, s'embrouiller. </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">s'embrouiller</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Ch'est enn' gint qui toudis s'infroule &quot; (PB). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; L' cabar'tier tellemint infrouillé qu'i n'a mie busié à s' faire payer &quot; (PP).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Infrouillache</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        confusion, embrouillement. &quot; Dins s'n infrouillache, maman alle dit : ma poule, m' poule, el glène, qu' j'avois là pindue au mur ! &quot; (PP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>confusion, embrouillement. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">confusion</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">embrouillement</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Dins s'n infrouillache, maman alle dit : ma poule, m' poule, el glène, qu' j'avois là pindue au mur ! &quot; (PP).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INFUNQUER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        INFUNQUIER, v. : enfumer (voir : funquer). &quot; Oh ! queull' bonn' pétote infunquée &quot; (cuite dans un feu de fanes) (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>INFUNQUIER, v. : enfumer (voir : funquer). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>JM).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Oh ! queull' bonn' pétote infunquée &quot; (cuite dans un feu de fanes) (
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INFUTER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - emmancher, ajuster un outil dans son manche ; introduire un objet dans un logement étroit. &quot; I-infute es' bras duss qu'i n' faut point &quot; (JM).
+      </quote>
+      <quote>
+        2 - se mettre quelque chose en tête. &quot; T'as bin infuté cha dins t' tiête &quot; (RP).
+      </quote>
+      <quote>
+        3 - essayer de persuader quelqu'un. &quot; T' nous l'infutt' parc' qué té sais lire ! &quot; (JM). ANC. : de fust, bois, pièce de bois (Ch. de Roland, 1080) du lat. fustis : bâton. En vx fr., enfuster, à côté du sens mod. mettre en fût, signifiait : garnir de bois, d'affût et emmancher (God.) ; s'ingénier (Gr.).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        1 - emmancher, ajuster un outil dans son manche ; introduire un objet dans un logement étroit.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; I-infute es' bras duss qu'i n' faut point &quot; (JM). </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : de fust, bois, pièce de bois (Ch. de Roland, 1080) du lat. fustis : bâton. En vx fr., enfuster, à côté du sens mod. mettre en fût, signifiait : garnir de bois, d'affût et emmancher (God.) ; s'ingénier (Gr.).
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>2 - se mettre quelque chose en tête. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; T'as bin infuté cha dins t' tiête &quot; (RP). </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : de fust, bois, pièce de bois (Ch. de Roland, 1080) du lat. fustis : bâton. En vx fr., enfuster, à côté du sens mod. mettre en fût, signifiait : garnir de bois, d'affût et emmancher (God.) ; s'ingénier (Gr.).
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>3 - essayer de persuader quelqu'un. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; T' nous l'infutt' parc' qué té sais lire ! &quot; (JM). </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : de fust, bois, pièce de bois (Ch. de Roland, 1080) du lat. fustis : bâton. En vx fr., enfuster, à côté du sens mod. mettre en fût, signifiait : garnir de bois, d'affût et emmancher (God.) ; s'ingénier (Gr.).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>INGAMBEUX</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>INGAMBIER, INGAMBÉE : (voir : agambeux, agamber, agambée).</quote>
+    </def>
+    <def label="française">
+      <quote>INGAMBIER, INGAMBÉE : (voir : agambeux, agamber, agambée).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INGAVER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        gaver. &quot; Et m' femm' l'ingavot d' blé et pis d' maïs avec ! &quot; (GV). &quot; In attindant, les p'tits infants s'ingavutent ed tourtélets &quot; (PP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>gaver. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">gaver</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Et m' femm' l'ingavot d' blé et pis d' maïs avec ! &quot; (GV).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; In attindant, les p'tits infants s'ingavutent ed tourtélets &quot; (PP).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INGÉLER ou ING(E)LER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        avoir très froid. &quot; Pou n' pas s'ing'ler, par nuit / Sous les couvert's, on fait l' moncheau qui croqu' dins l' lit &quot; (GF). Mort et ingélé. &quot; Queun' frodure ! In est chi mort et ingélé ! &quot; (PM) = on gèle de froid.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>avoir très froid. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Mort et ingélé. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Pou n' pas s'ing'ler, par nuit / Sous les couvert's, on fait l' moncheau qui croqu' dins l' lit &quot; (GF).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Queun' frodure ! In est chi mort et ingélé ! &quot; (PM) = on gèle de froid.
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Ingélé</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : raidi par le gel. &quot; Nous attindot's su l' tierr' glachée / Pus raid's qué des qu'miss's ingélées &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>: raidi par le gel. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Nous attindot's su l' tierr' glachée / Pus raid's qué des qu'miss's ingélées &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Ing(e)lure</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>engelure.</quote>
+    </def>
+    <def label="française">
+      <quote>engelure.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">engelure</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INGIMOLER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : agimoler).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : agimoler).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INGLAISE (GL)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>trèfle incarnat.</quote>
+    </def>
+    <def label="française">
+      <quote>trèfle incarnat.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">trèfle incarnat</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INGLEUME</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        enclume. &quot; Su l'ingleume, on tape à grainds cops &quot; (GF).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>enclume. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">enclume</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Su l'ingleume, on tape à grainds cops &quot; (GF).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Ingleumiau</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        petite enclume portative terminée en pointe pour être fichée en terre. Elle sert à rebattre la faux avec un martiau à batt'. ANC. : God. signale : englumelle : petite enclume ; englumer : fixer sur une enclume. Enclumeau (Eustache Deschamps, 1392).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        petite enclume portative terminée en pointe pour être fichée en terre. Elle sert à rebattre la faux avec un martiau à batt'.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : God. signale : englumelle : petite enclume ; englumer : fixer sur une enclume. Enclumeau (Eustache Deschamps, 1392).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>INGONCHÉ</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        engoncé. &quot; Ingonché dins des biaux pardéseurs à minous &quot; (GF).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>engoncé. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">engoncé</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Ingonché dins des biaux pardéseurs à minous &quot; (GF).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INGORLER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        INGOURLER, v. : mettre le collier (goriau, gouriau) à un cheval. &quot; Comme t'es là ingourlé ! &quot; = comme te voilà attifé !
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        INGOURLER, v. : mettre le collier (goriau, gouriau) à un cheval.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Comme t'es là ingourlé ! &quot; = comme te voilà attifé !</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INGRINQUÉ</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        INCRINQUÉ,. part. pas. adj. : perché dans une situation inconfortable ; accroché (pour une voiture ; pour la chaîne du puits sortie de sa poulie ; pour un garçon amoureux d'une fille ; etc.) ; mêlé à de mauvaises affaires. &quot; Vous êt's ingrinqué pour eun' fille &quot; (GF).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        INCRINQUÉ,. part. pas. adj. : perché dans une situation inconfortable ; accroché (pour une voiture ; pour la chaîne du puits sortie de sa poulie ; pour un garçon amoureux d'une fille ; etc.) ; mêlé à de mauvaises affaires.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">part</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">pas</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">adj</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Vous êt's ingrinqué pour eun' fille &quot; (GF).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Ingrinquer (s')</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        incrinquer (s') : se mettre en difficulté, s'exposer à rencontrer un obstacle. &quot; Faut mie d'aller s'ingrinquer dins l' mauvaise file &quot; (PP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        incrinquer (s') : se mettre en difficulté, s'exposer à rencontrer un obstacle.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Faut mie d'aller s'ingrinquer dins l' mauvaise file &quot; (PP).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INGUERNAGE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>engrenage.</quote>
+    </def>
+    <def label="française">
+      <quote>engrenage.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">engrenage</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INGUERNER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - engager (un objet dans son logement. &quot; Au trinch'fil d' laine, il inguerne s' gross' flèche &quot; (JM).
+      </quote>
+      <quote>
+        2 - engrener. &quot; Quéqu's tiêtus mal inguernés &quot; (JM) = raisonnant de travers ?
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - engager (un objet dans son logement. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Au trinch'fil d' laine, il inguerne s' gross' flèche &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>2 - engrener. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Quéqu's tiêtus mal inguernés &quot; (JM) = raisonnant de travers ?
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INGUEUSER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        tromper, en faire accroire. &quot; Eun', deux, tros, j' t'ingueuse ! &quot; = je t'ai eu !
+      </quote>
+    </def>
+    <def label="française">
+      <quote>tromper, en faire accroire. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">tromper</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Eun', deux, tros, j' t'ingueuse ! &quot; = je t'ai eu !</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INGUIGNER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        (voir : guégner) : inguigner s'coup : attendre le moment propice pour faire un mauvais coup.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        (voir : guégner) : inguigner s'coup : attendre le moment propice pour faire un mauvais coup.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INGUILBAUDER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>séduire. (Voir : einguilbaudeuse).</quote>
+    </def>
+    <def label="française">
+      <quote>séduire. (Voir : einguilbaudeuse).</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">séduire</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Inguilbaudeuse (GF)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        jeune fille séduisante ; séductrice. &quot; Des einguilbaudeusses / Acoutez l' calaudach' joyeux &quot;.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>jeune fille séduisante ; séductrice. </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">séductrice</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Des einguilbaudeusses / Acoutez l' calaudach' joyeux &quot;.
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>IN-HÉ</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : awi).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : awi).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INHORTER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        ,, (pron. in.norté). v. : exciter, pousser au vice. Apparaît ici comme le contraire d'exhorter : pousser à quelque chose de louable, d'utile. ANC. : enorter : exhorter ; séduire, tromper ; enseigner (God.).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        ,, (pron. in.norté). v. : exciter, pousser au vice. Apparaît ici comme le contraire d'exhorter : pousser à quelque chose de louable, d'utile.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : enorter : exhorter ; séduire, tromper ; enseigner (God.).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>INLACHER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>enlacer.</quote>
+    </def>
+    <def label="française">
+      <quote>enlacer.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">enlacer</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INMAQUERNÉ (AH)</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>très enrhumé.</quote>
+    </def>
+    <def label="française">
+      <quote>très enrhumé.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>IN.NE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : eune).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : eune).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>IN.NESSE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        (GL), s. f. : dans un fenil, une grange, palier intermédiaire où se tient un ouvrier chargé de passer les gerbes plus haut (voir : écamiau).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        (GL), s. f. : dans un fenil, une grange, palier intermédiaire où se tient un ouvrier chargé de passer les gerbes plus haut (voir : écamiau).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INNOCHINT, ou ENNOCHINT (BD)</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        innocent ; s. m. : enfant. &quot; L' paufe pétit ennochint &quot;.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>innocent ; s. m. : enfant. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">innocent</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; L' paufe pétit ennochint &quot;.</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INQUENNE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        INQUIN.NE, s. f. : échine. &quot; J' n'arriv'rai bintôt pus à déploïer m'n inquenne &quot; (PM). Quand j' tos hiercheux, j'avos m'n inquenne / Ecorché' comme à cops d' rasoir &quot; (JM). ANC. : du francique skina : os de la jambe, aiguille.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>INQUIN.NE, s. f. : échine. </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">NE</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        Quand j' tos hiercheux, j'avos m'n inquenne / Ecorché' comme à cops d' rasoir
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J' n'arriv'rai bintôt pus à déploïer m'n inquenne &quot; (PM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : du francique skina : os de la jambe, aiguille.</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>INRACHÉNER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>enraciner.</quote>
+    </def>
+    <def label="française">
+      <quote>enraciner.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">enraciner</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INRAQUÉ</orth>
+    </form>
+    <gramGrp>
+      <pos>part. pas. adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        embourbé ; arrêté par des difficultés. &quot; Tous les pauf' barroux étott' souvint inraqués jusqu'au moyeu &quot; (JQ).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>embourbé ; arrêté par des difficultés. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">embourbé</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Tous les pauf' barroux étott' souvint inraqués jusqu'au moyeu &quot; (JQ).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Inraquer (s')</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        s'embourber ; se mettre dans une mauvaise situation. (Voir : raque). ANC. : s'enracler : s'enfoncer dans une ornière (God.). &quot; Aveuque vo quarton et vo quar enraqué &quot; (Fl, J, XVIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        s'embourber ; se mettre dans une mauvaise situation. (Voir : raque).
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">s'embourber</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : s'enracler : s'enfoncer dans une ornière (God.). &quot; Aveuque vo quarton et vo quar enraqué &quot; (Fl, J, XVIIe).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>INR(E)GARD</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        (A S'N) : comparé à lui, à l'égard de lui. &quot; A s'n inr'gard, les damnés d' l'infer sont fort bin &quot; (PB).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>(A S'N) : comparé à lui, à l'égard de lui. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; A s'n inr'gard, les damnés d' l'infer sont fort bin &quot; (PB).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INROLURE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        INTURLURE, s. f. : tromperie. &quot; Vir l'inrolure : se rendre compte qu'on a été trompé. (Voir : infilure, immanchure, incloüre). ANC. : les deux mots, ici rapprochés par leur synonymie, sont d'orig. diff. : inrolure pourrait venir de enroilleure : rouille (God.). On peut rapprocher inturlure de enturer : duper, qui a donné, en fr., entourloupette.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>INTURLURE, s. f. : tromperie. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : les deux mots, ici rapprochés par leur synonymie, sont d'orig. diff. : inrolure pourrait venir de enroilleure : rouille (God.). On peut rapprocher inturlure de enturer : duper, qui a donné, en fr., entourloupette.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>INROSTÉ</orth>
+    </form>
+    <gramGrp>
+      <pos>part. pas. adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>enivré. &quot; Les All'mands, inrostés d' colère &quot; (JM).</quote>
+    </def>
+    <def label="française">
+      <quote>enivré. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">enivré</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Les All'mands, inrostés d' colère &quot; (JM).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Inroster (s')</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>se saouler. (Voir : roste).</quote>
+    </def>
+    <def label="française">
+      <quote>se saouler. (Voir : roste).</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">se saouler</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INROUILLER (S')</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>rouiller. &quot; L' fier</quote>
+    </def>
+    <def label="française">
+      <quote>rouiller. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">rouiller</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INSAN.NE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        INSON.NE, INSENNE, adv. : ensemble. &quot; In ardisot l' prière insonne &quot; (JD). &quot; Ch'est si bon qu' dins s' pays insanne in fraternisse &quot; (JM). &quot; Qu'in les laisse habiter insonne &quot; (GT). ANC. : &quot; U alez-vous com cha ensanne ? &quot; (Fl, F, XVIIe). Du lat. pop. insimul, m. sens.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>INSON.NE, INSENNE, adv. : ensemble. </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">NE</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; In ardisot l' prière insonne &quot; (JD). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ch'est si bon qu' dins s' pays insanne in fraternisse &quot; (JM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Qu'in les laisse habiter insonne &quot; (GT). </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : &quot; U alez-vous com cha ensanne ? &quot; (Fl, F, XVIIe). Du lat. pop. insimul, m. sens.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>INSAQUER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        ensacher. &quot; Taindis qu' d's aut's insaqu'nt dé l'fleur ed farine &quot; (GF).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>ensacher. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">ensacher</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Taindis qu' d's aut's insaqu'nt dé l'fleur ed farine &quot; (GF).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INSEINE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        enseigne. &quot; Hé, ch'est pou aujord'hui ? Té m' prinds pou einne inseinne ? &quot; (GT), dit on lorsqu'on tend quelque chose à quelqu'un et qu'il ne le prend pas.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>enseigne. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">enseigne</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        dit on lorsqu'on tend quelque chose à quelqu'un et qu'il ne le prend pas.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Hé, ch'est pou aujord'hui ? Té m' prinds pou einne inseinne ? &quot; (GT),
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INSERRER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        enfermer. &quot; J' sus inserre à l' prisin d' Loos &quot; (GT). (Voir : serrer).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>enfermer. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">enfermer</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Voir : serrer).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; J' sus inserre à l' prisin d' Loos &quot; (GT). (</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* INSIPITE</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        insupportable (en parlant d'un enfant). (Voir : supiter, dessipiter).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        insupportable (en parlant d'un enfant). (Voir : supiter, dessipiter).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INSTIQUER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        ESTIQUER, INTIQUER, v. : enfoncer, planter (voir : astiquer, détiquer). &quot; J'instique - j'enfonce, vous m'avez compris - quatre punaises &quot; (EM). &quot; Il instiqu' du toubac dins s' bouque &quot; (JM). &quot; I li faurot armorer là, intiqué dins l' boîte (= le confessionnal) des heures et des heures &quot; (PP). &quot; I s'étot estiqué dins un indroit dû qu'un fussiau n' sarot point passer &quot; (GH).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        ESTIQUER, INTIQUER, v. : enfoncer, planter (voir : astiquer, détiquer).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J'instique - j'enfonce, vous m'avez compris - quatre punaises &quot; (EM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Il instiqu' du toubac dins s' bouque &quot; (JM). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I li faurot armorer là, intiqué dins l' boîte (= le confessionnal) des heures et des heures &quot; (PP).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I s'étot estiqué dins un indroit dû qu'un fussiau n' sarot point passer &quot; (GH).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INSUELLE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        INS(E)ROLE, INS(E)RUELLE, s. f. : ensouple, cylindre de bois qui reçoit, sur un métier, le fil à tisser. ANC. : ensuel, s. m. (God.).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        INS(E)ROLE, INS(E)RUELLE, s. f. : ensouple, cylindre de bois qui reçoit, sur un métier, le fil à tisser.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : ensuel, s. m. (God.).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>INTASSER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - entasser, tasser ; planter (un clou). &quot; D'vant l' feu, tous intassés, / Les infants par devant, assis su leus passets &quot; (JD). Intasser des chabots : clouer des brides. &quot; L' pèr' Platellette / Il intass' ses chabots. / ... Coll' bin l' brid' su l' chabot : / Ch'est pou mettre à pieds-décaux &quot; (JM).
+      </quote>
+      <quote>
+        2 - être supérieur à quelqu'un d'autre. &quot; I n' d'à point pou t' fair' concurrence. / Cha, non, té l'z' intass'rot putôt &quot; (RP).
+      </quote>
+      <quote>3 - I l'l'intasse : il parle (patois) avec un accent lourd.</quote>
+    </def>
+    <def label="française">
+      <quote>1 - entasser, tasser ; planter (un clou). </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">tasser</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Intasser des chabots : clouer des brides. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; D'vant l' feu, tous intassés, / Les infants par devant, assis su leus passets &quot; (JD).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; L' pèr' Platellette / Il intass' ses chabots. / ... Coll' bin l' brid' su l' chabot : / Ch'est pou mettre à pieds-décaux &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>2 - être supérieur à quelqu'un d'autre. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I n' d'à point pou t' fair' concurrence. / Cha, non, té l'z' intass'rot putôt &quot; (RP).
+      </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>3 - I l'l'intasse : il parle (patois) avec un accent lourd.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INTER</orth>
+    </form>
+    <gramGrp>
+      <pos>prép.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        entre. &quot; In s' dit qu'in a dé l' vein' d'êt' inter ses quat' murs &quot; (JD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>entre. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">entre</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; In s' dit qu'in a dé l' vein' d'êt' inter ses quat' murs &quot; (JD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INTERCHUQUER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>entrechoquer.</quote>
+    </def>
+    <def label="française">
+      <quote>entrechoquer.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">entrechoquer</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INTERDEUX</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        intervalle ; espace étroit entre deux maisons (syn. : pied d'échelle). &quot; A peine un coin d' clarté dins l'z interdeux d' peignons &quot; (JM).
+      </quote>
+      <quote>
+        2 - longe servant à accoupler les têtes des chevaux d'attelage pour les empêcher de s'écarter ; pièce de bois empêchant les deux chevaux de se rapprocher (GD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        intervalle ; espace étroit entre deux maisons (syn. : pied d'échelle).
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">intervalle</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; A peine un coin d' clarté dins l'z interdeux d' peignons &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>
+        2 - longe servant à accoupler les têtes des chevaux d'attelage pour les empêcher de s'écarter ; pièce de bois empêchant les deux chevaux de se rapprocher (GD).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INTERFIN</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        cloison ; épaissem d'un mur. &quot; Ç' mur, intré nos alcôves, / N'avot qu'eun' seul' briqu' d'interfin &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>cloison ; épaissem d'un mur. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">cloison</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ç' mur, intré nos alcôves, / N'avot qu'eun' seul' briqu' d'interfin &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INTERLACHER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>entrelacer.</quote>
+    </def>
+    <def label="française">
+      <quote>entrelacer.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">entrelacer</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INTER-LÉ-MIDI s. m.</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : temps de pause pour le repas de midi ; courte période. &quot; Il a fait biau deux inter-lé-midis &quot;.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>: temps de pause pour le repas de midi ; courte période. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Il a fait biau deux inter-lé-midis &quot;.</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INTERPERNEUR</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : interprinder).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : interprinder).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Interperdant</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>entreprenant.</quote>
+    </def>
+    <def label="française">
+      <quote>entreprenant.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">entreprenant</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Interperneur</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        entrepreneur. &quot; L'z interperneurs y z'ont fait qu'mincher l'ouvrach' &quot; (JQ).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>entrepreneur. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">entrepreneur</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; L'z interperneurs y z'ont fait qu'mincher l'ouvrach' &quot; (JQ).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INTERQUER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>goudronner, enduire de de terque.</quote>
+    </def>
+    <def label="française">
+      <quote>goudronner, enduire de de terque.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">goudronner</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INTERRER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        enterrer. &quot; Il a oblié dé s' faire interrer &quot; = il a une mine de déterré. &quot; In li f'ra pus d'honneur qu'à un viau ; in l'interr'ra avec es piau ! &quot; (GH) = il aura un pauvre enterrement.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>enterrer. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">enterrer</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Il a oblié dé s' faire interrer &quot; = il a une mine de déterré.
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; In li f'ra pus d'honneur qu'à un viau ; in l'interr'ra avec es piau ! &quot; (GH) = il aura un pauvre enterrement.
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Interr(e)mint</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        enterrement. &quot; S'i pleut dé ç' vint-là à t'n interr'mint, i n'y ara pus d' pourcheaux qué d' prêtres &quot; (GH), dit-on à qui lâche un pet en société.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>enterrement. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">enterrement</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>dit-on à qui lâche un pet en société.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; S'i pleut dé ç' vint-là à t'n interr'mint, i n'y ara pus d' pourcheaux qué d' prêtres &quot; (GH),
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Interrure (GL)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>profondeur donnée à un sillon (labour).</quote>
+    </def>
+    <def label="française">
+      <quote>profondeur donnée à un sillon (labour).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INTERTEMPS</orth>
+    </form>
+    <gramGrp>
+      <pos>adv.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>en attendant, dans l'entretemps.</quote>
+    </def>
+    <def label="française">
+      <quote>en attendant, dans l'entretemps.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">en attendant</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INTERTÉNIR</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>entretenir.</quote>
+    </def>
+    <def label="française">
+      <quote>entretenir.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">entretenir</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INTERVIR</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>entrevoir.</quote>
+    </def>
+    <def label="française">
+      <quote>entrevoir.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">entrevoir</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INTIÊTER (S')</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>s'entêter.</quote>
+    </def>
+    <def label="française">
+      <quote>s'entêter.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Intiêt(e)ment</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>entêtement.</quote>
+    </def>
+    <def label="française">
+      <quote>entêtement.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">entêtement</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INTIND(R)E</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - entendre. &quot; On intind buquer du martiau &quot; (GF). &quot; J' n'intinds point dé ç'n orelle-là &quot; (GH) = je ne ferai pas ce que vous me demandez. &quot; In n'intind pont sin filet romp' &quot; (GL) = il y a trop de bruit (on n'entend pas son fil se casser : propos de tisserand).
+      </quote>
+      <quote>
+        2 - comprendre. &quot; I n'intind ni à hue ni à dia &quot; = il ne comprend rien.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - entendre. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; On intind buquer du martiau &quot; (GF). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J' n'intinds point dé ç'n orelle-là &quot; (GH) = je ne ferai pas ce que vous me demandez.
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; In n'intind pont sin filet romp' &quot; (GL) = il y a trop de bruit (on n'entend pas son fil se casser : propos de tisserand).
+      </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>2 - comprendre. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I n'intind ni à hue ni à dia &quot; = il ne comprend rien.
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Intindo</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        entendement, jugement (voir : comperdo). A s'n intindo : selon lui. &quot; Et au pus fort dé m'n intindo, je m'ai dit... &quot; (RP). &quot; Il étudia plain's et villages / Afin qu' pus tard, à nos héros, / Cha vienne in aide à s'n intindo &quot; (JM) (il s'agit du Maréchal de Villars avant la bataille de Denain).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        entendement, jugement (voir : comperdo). A s'n intindo : selon lui.
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">entendement</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Et au pus fort dé m'n intindo, je m'ai dit... &quot; (RP).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Il étudia plain's et villages / Afin qu' pus tard, à nos héros, / Cha vienne in aide à s'n intindo &quot; (JM) (il s'agit du Maréchal de Villars avant la bataille de Denain).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Intinte</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>entente. A s'n intinte : à son avis, selon lui.</quote>
+    </def>
+    <def label="française">
+      <quote>entente. A s'n intinte : à son avis, selon lui.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">entente</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INTINTION</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>déform. pour attention.</quote>
+    </def>
+    <def label="française">
+      <quote>déform. pour attention.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INTIQUER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : instiquer).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : instiquer).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* INTONNÉ</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        gêné, essoufflé, après avoir bu trop, ou trop vite. &quot; Tu d'arbois enne, Zante ? - Non, j' vas êt' eintonné &quot; (RD). ANC. : entoner : boire abondamment. &quot; Et Ivrece tant en entone / Qu'a poi n'a vidie la tonne &quot; (Le Tournoiement Antecrist, Huon de Méry, 1234).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>gêné, essoufflé, après avoir bu trop, ou trop vite. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">gêné</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">essoufflé</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Tu d'arbois enne, Zante ? - Non, j' vas êt' eintonné &quot; (RD).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : entoner : boire abondamment. &quot; Et Ivrece tant en entone / Qu'a poi n'a vidie la tonne &quot; (Le Tournoiement Antecrist, Huon de Méry, 1234).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>INTORTÉNER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>INTORTEILLER, v. : </quote>
+      <quote>
+        1 - entortiller. &quot; Il l'avot intorteillé dins du papier qu'in arot dit dé l' piau &quot; (EM).
+      </quote>
+      <quote>
+        2 - séduire par des flatteries. &quot; T' m'as tell'mint bin intortillée / Qu' six mos après in tot mariés &quot; (RP). (Voir : torténer).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>INTORTEILLER, v. : </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>1 - entortiller. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Il l'avot intorteillé dins du papier qu'in arot dit dé l' piau &quot; (EM).
+      </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>2 - séduire par des flatteries. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Voir : torténer).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; T' m'as tell'mint bin intortillée / Qu' six mos après in tot mariés &quot; (RP). (
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INTOUR (A L')</orth>
+    </form>
+    <gramGrp>
+      <pos>loc. prép.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        autour. &quot; ... ses infants sont tertous / L' soir, à l'intour dé s' kaïère &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>autour. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">autour</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INTRANQUILLACHE (GF)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        agitation, animation ? &quot; Queul déluch' ! queul intranquillache ! / Eun' vaqu' n'y artrouv'rot pus s' viau ! &quot; (à moins qu'il ne s'agisse - on est dans une ferme - de l'atranquillache : ensemble des instruments agricoles. GF emploie souvent des mots &quot; mal digérés &quot;).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>agitation, animation ? </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">agitation</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        à moins qu'il ne s'agisse - on est dans une ferme - de l'atranquillache : ensemble des instruments agricoles. GF emploie souvent des mots
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Queul déluch' ! queul intranquillache ! / Eun' vaqu' n'y artrouv'rot pus s' viau ! &quot; (
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; mal digérés &quot;).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INTRAV(E)LURE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>1 - entrait, pièce de charpente horizontale. </quote>
+      <quote>
+        2 - largeur de la bande de blé coupée à chaque passage par la moissonneuse (GL).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - entrait, pièce de charpente horizontale. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>
+        2 - largeur de la bande de blé coupée à chaque passage par la moissonneuse (GL).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INTRÉE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        entrée. D'mander l'intrée : pour un jeune homme, demander à être admis dans la maison de la jeune fille ; cette tradition équivaut à une demande en mariage. &quot; L' mèr' dé m' maîtresse / M'arfus' d'imblé pour l'intré' dé l'maison ! &quot; (JM). &quot; Dins l' temps, ch'tot quète-chosse pou d'mander l'intrée ! &quot; (PP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        entrée. D'mander l'intrée : pour un jeune homme, demander à être admis dans la maison de la jeune fille ; cette tradition équivaut à une demande en mariage.
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">entrée</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; L' mèr' dé m' maîtresse / M'arfus' d'imblé pour l'intré' dé l'maison ! &quot; (JM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Dins l' temps, ch'tot quète-chosse pou d'mander l'intrée ! &quot; (PP).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* INTRÉPIDE s. m. et adj.</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : travailleur courageux et entreprenant. &quot; T'es toudis aussi intrépite, / T' n'as pas dû souvint t'imbêter &quot; (PM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>: travailleur courageux et entreprenant. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; T'es toudis aussi intrépite, / T' n'as pas dû souvint t'imbêter &quot; (PM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INTURLURE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : inrolure).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : inrolure).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INVALER (voir</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: envaler).</quote>
+    </def>
+    <def label="française">
+      <quote>: envaler).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>IN VAU</orth>
+    </form>
+    <gramGrp>
+      <pos>adv.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        dehors, sorti. &quot; Ch'est l' jour ed lessife, el ménache i-est core là in vau &quot; (PP) = le ménage n'est pas fait.
+      </quote>
+    </def>
+    <def label="française">
+      <quote> dehors, sorti. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">dehors</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">sorti</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ch'est l' jour ed lessife, el ménache i-est core là in vau &quot; (PP) = le ménage n'est pas fait.
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>INV(E)LIMER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>(GH), v. envenimer.</quote>
+    </def>
+    <def label="française">
+      <quote>(GH), v. envenimer.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">envenimer</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Inv(e)limeux</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        venimeux, vénéneux. ANC. : &quot; Plus enflée qu'un vlimeux escarbot &quot; (Villon, XVe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>venimeux, vénéneux. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">venimeux</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">vénéneux</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : &quot; Plus enflée qu'un vlimeux escarbot &quot; (Villon, XVe).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>INVOÏER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        envoyer. &quot; In n' peut pus s' continter à'invoïer eun' bell' carte &quot; (JD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>envoyer. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">envoyer</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; In n' peut pus s' continter à'invoïer eun' bell' carte &quot; (JD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* INVOLÉE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        (et adj.) : jeune fille peu sérieuse. &quot; Alle a toudis été coquette, / Et d'un caractère involé &quot; (PB).
+      </quote>
+    </def>
+    <def label="française">
+      <quote> (et adj.) : jeune fille peu sérieuse. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Alle a toudis été coquette, / Et d'un caractère involé &quot; (PB).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>IOU-IOU !</orth>
+    </form>
+    <gramGrp>
+      <pos>interj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        oh la la ! &quot; Iou-iou ! N'ayez point d'inquiétude ! &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>oh la la ! </quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Iou-iou ! N'ayez point d'inquiétude ! &quot; (JM).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ISORÉE (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        belle isorée : mijaurée. &quot; Combin vos ués, belle isorée ? &quot; = allez dire ça à d'autres ! &quot; V'là eune belle isorée : in dirot toudis qu'alle a forgé les clos Dieu &quot; (= les clous de la Croix) = elle a toujours un air contrit.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>belle isorée : mijaurée. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>les clous de la Croix) = elle a toujours un air contrit.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Combin vos ués, belle isorée ? &quot; = allez dire ça à d'autres !
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; V'là eune belle isorée : in dirot toudis qu'alle a forgé les clos Dieu &quot; (=
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+</TEI>

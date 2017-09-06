@@ -27,15 +27,17 @@ class RDFWriterFirstParsing(xml : Elem, indice : Int){
   val model:Model = ModelFactory.createDefaultModel()
 
   val lexicon:Resource = model.createResource(uri + "LexiqueDaubyRouchiPicard")
-
+  lexicon.addProperty(lexiconNameWR,model.createLiteral("Le Livre du \"Rouchi\" Parler Picard de Valenciennes","fra"))
+  lexicon.addProperty(lexiconAuthorWR,model.createLiteral("Jean Dauby","fra"))
+  lexicon.addProperty(lexiconDirectionWR,model.createLiteral("picard vers français","fra"))
   val lexiconcoordinate:Resource = model.createResource(uri + "coordinate")
   lexicon.addProperty(Voc.coordinate, lexiconcoordinate)
-  val xcoordinateAmiens:Property = model.createProperty(uri + "xAmiens")
-  val ycoordinateAmiens:Property = model.createProperty(uri + "yAmiens")
-  xcoordinateAmiens.addProperty(Voc.writtenRep,model.createLiteral("Amiens","fra"))
-  ycoordinateAmiens.addProperty(Voc.writtenRep,model.createLiteral("Amiens","fra"))
-  lexiconcoordinate.addProperty(xcoordinateAmiens,model.createTypedLiteral(new java.lang.Double(49.895)))
-  lexiconcoordinate.addProperty(ycoordinateAmiens,model.createTypedLiteral(new java.lang.Double(2.3022)))
+  val xcoordinateValenciennes:Property = model.createProperty(uri + "xValenciennes")
+  val ycoordinateValenciennes:Property = model.createProperty(uri + "yValenciennes")
+  xcoordinateValenciennes.addProperty(Voc.writtenRep,model.createLiteral("Valenciennes","fra"))
+  ycoordinateValenciennes.addProperty(Voc.writtenRep,model.createLiteral("Valenciennes","fra"))
+  lexiconcoordinate.addProperty(xcoordinateValenciennes,model.createTypedLiteral(new java.lang.Double(50.35)))
+  lexiconcoordinate.addProperty(ycoordinateValenciennes,model.createTypedLiteral(new java.lang.Double(3.53333)))
 
   val articles:NodeSeq = xml \\ "Entrée"
   val UF = new UsefulFunctionFirstParsing

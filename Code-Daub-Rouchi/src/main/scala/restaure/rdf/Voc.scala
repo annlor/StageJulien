@@ -46,4 +46,7 @@ object Voc {
 
 
   val coordinate:Property = m.createProperty(uri + "Coordinate")
+  val lexiconNameWR:Property = m.createProperty(uri + "lexiconNameWrittenRep")
+  val lexiconAuthorWR:Property = m.createProperty(uri + "lexiconAuthorWrittenRep")
+  val lexiconDirectionWR:Property = m.createProperty(uri + "lexiconDirectionWrittenRep")
 }

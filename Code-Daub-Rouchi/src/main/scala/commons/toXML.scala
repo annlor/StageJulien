@@ -8,7 +8,7 @@ import scala.xml._
 class toXML {
   def SeqtoXml(seq: Seq[String]): Seq[Elem] = {
     val res = for (elements <- seq) yield {
-      <Traduction>{elements}</Traduction>
+      <cit type="translation"><quote>{elements}</quote></cit>
     }
     res
   }
@@ -20,8 +20,7 @@ class toXML {
     def SeqtoXmlExemple(seq: Seq[String]): Seq[Elem] = {
 
       val res = for (elements <- seq.zipWithIndex) yield {
-          <ExemplePicard>{elements._1}</ExemplePicard> %
-            Attribute(None,"id", Text(s"${elements._2+1}"),Null)
+          <cit type="example" xml:lang="pcd"><quote>{elements._1}</quote></cit>
       }
       res
     }
@@ -38,22 +37,22 @@ class toXML {
         }
       }
       val seqres = seqexemple++seqcollect1.flatten
-      val loop1 =  <DéfinitionFrançaise>{for (elements <- seqcollect2.zipWithIndex) yield {<df>{elements._1}</df> % Attribute(None,"id", Text(s"${elements._2+1}"),Null)
-      }}</DéfinitionFrançaise>
-      val loop2 = <Exemples>{SeqtoXmlExemple(seqres)}</Exemples>
-      val loop3 = <Ancien>{for (elem <- seqopt) yield {if (elem.map(_.toString).getOrElse("").length > 1) {elem.map(_.toString).getOrElse("")}}}</Ancien>
+      val loop1 =  {for (elements <- seqcollect2) yield {<def label="française"><quote>{elements}</quote></def>
+      }}
+      val loop2 = {SeqtoXmlExemple(seqres)}
+      val loop3 = <etym>{for (elem <- seqopt) yield {if (elem.map(_.toString).getOrElse("").length > 1) <quote>{elem.map(_.toString).getOrElse("")}</quote>}}</etym>
       loop1 ++ loop2 ++ loop3
     }
 
     def toXml : Elem =
-      <Entrée>
-        <Vocable>{mot}</Vocable>
-        <CatégorieGrammaticale>{abreviation}</CatégorieGrammaticale>
-        <Définition>{for (str <- definitionentiere) yield {
-          <DéfinitionEntiere>{str}</DéfinitionEntiere>}}
-          <DéfinitionDétaillée>{for (lex <- Lexie) yield {
-      SeqTupletoXml(lex.seq, seqopt)}}</DéfinitionDétaillée></Définition>
-      </Entrée>
+      <entry>
+        <form><orth>{mot.trim}</orth></form>
+        <gramGrp><pos>{abreviation}</pos></gramGrp>
+        <def label ="verbatim">{for (str <- definitionentiere) yield {
+          <quote>{str}</quote>}}</def>
+          {for (lex <- Lexie) yield {
+      SeqTupletoXml(lex.seq, seqopt)}}</entry>
+
 
   }
   class Trad2(mot : String, complement : Option[String]
@@ -62,31 +61,30 @@ class toXML {
 
     def DoubleSeqtoXml(doubleseq: Seq[Seq[String]]): Seq[Elem] = {
       for (elements <- doubleseq) yield {
-        <Lexie>{for (finalelements <- elements) yield {
-          <SousLexie>{finalelements}</SousLexie>
+        <cit type ="translation">{for (finalelements <- elements) yield {
+          <quote>{finalelements}</quote>
         }
-      }</Lexie>}
+      }</cit>}
 
     }
 
     def toXml : Elem =
-      <ArticleDeDictionnaire>
-        <Entrée>{mot.trim}</Entrée>
-        <Complément>{complement.getOrElse("")}</Complément>
-        <StructureGrammaticale>{abreviation}</StructureGrammaticale>
-        <LexieEntiere>{lexie}</LexieEntiere>
+      <entry>
+        <form><orth>{mot.trim}</orth><Complément>{complement.getOrElse("")}</Complément></form>
+        <gramGrp><pos>{abreviation}</pos></gramGrp>
+        <def><quote>{lexie}</quote></def>
         {DoubleSeqtoXml(traduction)}
-      </ArticleDeDictionnaire>
+      </entry>
 
   }
 
   class TradDebrie(article : ArticlePicard) {
 
     def toXml : Elem =
-      <Entrée>
-        <Vocable>{article.Entrée.trim}</Vocable>
-        <CatégorieGrammaticale>{article.StructureGrammaticale}</CatégorieGrammaticale>
+      <entry>
+        <form><orth>{article.Entrée.trim}</orth></form>
+        <gramGrp><pos>{article.StructureGrammaticale}</pos></gramGrp>
         {SeqtoXml(article.Lexies)}
-      </Entrée>
+        </entry>
   }
 }

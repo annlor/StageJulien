@@ -1,0 +1,895 @@
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+  <entry>
+    <form>
+      <orth>W</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : cette lettre, improprement appelée double v, alors qu'elle est une semi-voyelle, doit se prononcer comme en angl. et non comme en all. A rappeler, car les &quot; Parisiens &quot; disent toujours &quot; Vatteau &quot; et &quot; Vallon &quot; pour Waîteau et Wallon (Ouato, Oualon), alors qu'ils prononcent correctement Wallonie et l'adj. wallon.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        : cette lettre, improprement appelée double v, alors qu'elle est une semi-voyelle, doit se prononcer comme en angl. et non comme en all. A rappeler, car les
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>disent toujours </quote>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>et </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">et</cit>
+      </cit>
+    </def>
+    <def label="française">
+      <quote>
+        pour Waîteau et Wallon (Ouato, Oualon), alors qu'ils prononcent correctement Wallonie et l'adj. wallon.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">wallon</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Parisiens &quot; </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Vatteau &quot; </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Vallon &quot; </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>WANNER (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        vanner. (Cf. néerl. : wan : van, vanneuse ; wannen : vanner, etc.).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        vanner. (Cf. néerl. : wan : van, vanneuse ; wannen : vanner, etc.).
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">vanner</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>WANTTER</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        gantier, fabricant de gants. Il y a encore, à Valenciennes, une Place des Wantiers. Elle portait déjà ce nom à la fin du XIVe (A. Gauvin). ANC. : du francique want ; gant.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        gantier, fabricant de gants. Il y a encore, à Valenciennes, une Place des Wantiers. Elle portait déjà ce nom à la fin du XIVe (A. Gauvin).
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">gantier</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : du francique want ; gant.</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>WAQUIÈRE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>jachère. (Voir gaquière).</quote>
+    </def>
+    <def label="française">
+      <quote>jachère. (Voir gaquière).</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">jachère</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>WARDER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        garder. &quot; Warde chu qu' t'as, j' warderai chu qu' j'ai ! &quot; (GH) ou &quot; Warde chu qu' t'as, té n'd'as pas d' trop &quot; : formules pour refuser une offre : &quot; Jé l' warderai jusqu'à l'année qui vient pou faire des étrennes au diale &quot; (GH), dit-on d'un présent dont on fait peu de cas. &quot; L' coeur du pauvr', pou l'amour, dot warder l' meilleu coin &quot; (JM). &quot; Un curé dot tout warder pour li et n' rin dire à personne &quot; (PP) (vertu de discrétion). &quot; J'aros dû rester à l' coyette / Près dé m' feu in wardiant m' fricot &quot; (PM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>garder. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">garder</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>ou </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">ou</cit>
+      </cit>
+    </def>
+    <def label="française">
+      <quote>dit-on d'un présent dont on fait peu de cas. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Warde chu qu' t'as, j' warderai chu qu' j'ai ! &quot; (GH)
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Warde chu qu' t'as, té n'd'as pas d' trop &quot; : formules pour refuser une offre :
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Jé l' warderai jusqu'à l'année qui vient pou faire des étrennes au diale &quot; (GH),
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; L' coeur du pauvr', pou l'amour, dot warder l' meilleu coin &quot; (JM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Un curé dot tout warder pour li et n' rin dire à personne &quot; (PP) (vertu de discrétion).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J'aros dû rester à l' coyette / Près dé m' feu in wardiant m' fricot &quot; (PM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>WARÉCHAIX</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m. pl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        terrains vagues où le petit bétail peut paître. &quot; Le bosquet formait une sorte de triangle entouré de waréchaix ou terrains vagues &quot; (CD). ANC. : warescais, wareschel, m. sens (XIIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>terrains vagues où le petit bétail peut paître. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Le bosquet formait une sorte de triangle entouré de waréchaix ou terrains vagues &quot; (CD).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : warescais, wareschel, m. sens (XIIIe).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>WARLOPE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        varlope. ANC. : on trouve, en 1564, une forme uuarlope. Du néerl. voorloper, riflard de charpentier.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>varlope. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">varlope</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : on trouve, en 1564, une forme uuarlope. Du néerl. voorloper, riflard de charpentier.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>WARLOQUER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        agiter un liquide dans un récipient. (Voir : arlocher). ANC. : warlocquier : branler, osciller. &quot; ...je veu... / Foaire tenir à clau no verrou qui warlocque &quot; (Fl, H, 1654).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>agiter un liquide dans un récipient. (Voir : arlocher). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : warlocquier : branler, osciller. &quot; ...je veu... / Foaire tenir à clau no verrou qui warlocque &quot; (Fl, H, 1654).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>WARLOUQUE (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        et f. : bigle, personne qui louche. Vx. (Voir : arlouquer). ANC. : warlousketer : loucher, regarder de côté (Renart le Novel, 1288).
+      </quote>
+    </def>
+    <def label="française">
+      <quote> et f. : bigle, personne qui louche. Vx. (Voir : arlouquer). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : warlousketer : loucher, regarder de côté (Renart le Novel, 1288).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>WAROQUE ; WARUQUE (GD)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        motte de terre durcie. &quot; Belzébuth campa une cholette sur une waroque, ou motte gelée &quot; (CD). (Voir : épautrer ; maroque).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>motte de terre durcie. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Voir : épautrer ; maroque).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Belzébuth campa une cholette sur une waroque, ou motte gelée &quot; (CD). (
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>WAROU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        loup-garou. Patronyme. ANC. : francique werwulf : homme-loup. (Cf. all. Werwolf). &quot; ... érouillant mé zieu ensin qu'en leu-warou &quot; (Fl, H, 1654).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>loup-garou. Patronyme. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">loup-garou</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : francique werwulf : homme-loup. (Cf. all. Werwolf). &quot; ... érouillant mé zieu ensin qu'en leu-warou &quot; (Fl, H, 1654).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>WASSINGUE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        serpillière. &quot; (Il) le tordit comme une servante tord sa wassingue &quot; (CD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>serpillière. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">serpillière</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Wassinguer (donner un cop d' wassingue)</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        nettoyer par terre avec une wassingue mouillée. &quot; Em'n occasion (ma promise), ch' t'eune crâne commère, / Àl sait pertrir
+      </quote>
+    </def>
+    <def label="française">
+      <quote>nettoyer par terre avec une wassingue mouillée. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>WATER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>WAUTER, v. : </quote>
+      <quote>
+        1 - gâter (sens ; faire des gâteries, combler d'affection, d'attentions). &quot; Mémèr' Laïte, quand j'étos jonne, / M'a wâté d' ses vieux r'frains bercheurs &quot; (JM). &quot; Ch'est l'eintant dé m' fille, mais il est woté ! Qu'est-ce qué j' dis ! I-est pourri ! &quot; (RD) (gâter à l'excès). La première partie du récent roman d'André Stil, &quot; Dieu est un enfant &quot; s'appelle &quot; L'enfant ouaté &quot; : &quot; Selon les familles, il y a les &quot;ouatés du père&quot; et les &quot;ouatés de la mère&quot;. Lui l'est des deux. &quot;
+      </quote>
+      <quote>
+        2 - gâcher. &quot; N' viens pas chi wauter m' fiête &quot; (RD). ANC. : l'initiale du lat. vastare (ravager, saccager) s'est modifiée en w sous l'influence du radical germ. wost (cf. verwüsten : ravager, saccager).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>WAUTER, v. : </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : l'initiale du lat. vastare (ravager, saccager) s'est modifiée en w sous l'influence du radical germ. wost (cf. verwüsten : ravager, saccager).
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>
+        1 - gâter (sens ; faire des gâteries, combler d'affection, d'attentions).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>La première partie du récent roman d'André Stil, </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>s'appelle </quote>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>ouatés du père</quote>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>ouatés de la mère</quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Mémèr' Laïte, quand j'étos jonne, / M'a wâté d' ses vieux r'frains bercheurs &quot; (JM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ch'est l'eintant dé m' fille, mais il est woté ! Qu'est-ce qué j' dis ! I-est pourri ! &quot; (RD) (gâter à l'excès).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Dieu est un enfant &quot; </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; L'enfant ouaté &quot; : </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Selon les familles, il y a les &quot;</quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; et les &quot;</quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : l'initiale du lat. vastare (ravager, saccager) s'est modifiée en w sous l'influence du radical germ. wost (cf. verwüsten : ravager, saccager).
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>2 - gâcher. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; N' viens pas chi wauter m' fiête &quot; (RD). </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : l'initiale du lat. vastare (ravager, saccager) s'est modifiée en w sous l'influence du radical germ. wost (cf. verwüsten : ravager, saccager).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Wate-camps</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>gâte-champs. Patronyme.</quote>
+    </def>
+    <def label="française">
+      <quote>gâte-champs. Patronyme.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>WATIAU ou WATEAU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        gâteau. Vx. Patronyme sous diverses graphies : Watteau, Wastiaux, Wastel, Wattel, Wattelet, Wattier (Dauzat leur donne une orig. toute différente : germ. Wad-hari (wad : gage ; hari : armée). Louis Cellier, cite un nom trouvé dans les archives valenciennoises, celui de Watier Blancpain, dit Wateau (1522) et commente : &quot; Watiau ou wateau, tout le monde le sait, est la traduction patoise du mot gâteau ; il se peut faire que quelque buveur en goguette ait trouvé ingénieux de surnommer Wateau tel bourgeois qui s'appelait Blancpain du nom de sa famille &quot; (Wateau en Angleterre. Revue de la Soc. d'Agric, sc. et arts de Val., tome XXII). (A noter que le nom du célèbre peintre est bien Wateau avec un seul t sur son acte de naissance).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        gâteau. Vx. Patronyme sous diverses graphies : Watteau, Wastiaux, Wastel, Wattel, Wattelet, Wattier (Dauzat leur donne une orig. toute différente : germ. Wad-hari (wad : gage ; hari : armée). Louis Cellier, cite un nom trouvé dans les archives valenciennoises, celui de Watier Blancpain, dit Wateau (1522) et commente :
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        A noter que le nom du célèbre peintre est bien Wateau avec un seul t sur son acte de naissance).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Watiau ou wateau, tout le monde le sait, est la traduction patoise du mot gâteau ; il se peut faire que quelque buveur en goguette ait trouvé ingénieux de surnommer Wateau tel bourgeois qui s'appelait Blancpain du nom de sa famille &quot; (Wateau en Angleterre. Revue de la Soc. d'Agric, sc. et arts de Val., tome XXII). (
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Watelet ou wastelet</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>petit gâteau appelé plus tard mastelle (Vx).</quote>
+    </def>
+    <def label="française">
+      <quote>petit gâteau appelé plus tard mastelle (Vx).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>WAUFE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        gaufre. &quot; Le plus beau, ce sont les soirs de gaufres. Encore ce w francique, les waufres, presque effacé désormais &quot; (AS). L'aphérèse du w a donné aufe. ANC. : francique wafel, qui donne, au XIIe : walfre : (Huon de Bordeaux, 1190), le mot désignant (anal. de structure) rayon de miel et gaufre. (Cf. : néerl. wafel ; all. Waffel ; angl. waffle : gaufre).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>gaufre. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">gaufre</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>L'aphérèse du w a donné aufe. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Le plus beau, ce sont les soirs de gaufres. Encore ce w francique, les waufres, presque effacé désormais &quot; (AS).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : francique wafel, qui donne, au XIIe : walfre : (Huon de Bordeaux, 1190), le mot désignant (anal. de structure) rayon de miel et gaufre. (Cf. : néerl. wafel ; all. Waffel ; angl. waffle : gaufre).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>WAULE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>gaule. (Vx). ANC. : francique walu (bâton).</quote>
+    </def>
+    <def label="française">
+      <quote>gaule. (Vx). </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">gaule</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : francique walu (bâton).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>WAZON</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        herbe, gazon. (Vx). ANC. : francique wazo : motte de terre garnie d'herbe. On trouve wason en fr. (Fet des Romains, 1213).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>herbe, gazon. (Vx). </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">herbe</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">gazon</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : francique wazo : motte de terre garnie d'herbe. On trouve wason en fr. (Fet des Romains, 1213).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>WERP</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>mise en possession (terme</quote>
+    </def>
+    <def label="française">
+      <quote>mise en possession (terme</quote>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Werpir</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote> mettre en possession. (Vx).</quote>
+    </def>
+    <def label="française">
+      <quote> mettre en possession. (Vx).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>WET (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>mare servant d'abreuvoir.</quote>
+    </def>
+    <def label="française">
+      <quote>mare servant d'abreuvoir.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>WETTIER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : vettier).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : vettier).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>WIDIER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>WUIDIER, VUIDIER, V. : </quote>
+      <quote>
+        1 - vider. &quot; Il aprouvot (= essayait) d' printe el caudron pou d'aller l' vuidier à l' cour &quot; (PP). &quot; A wuidier l' bac comme in s' dépêche &quot; (JM). &quot; Li qui tot fort comme Hercule / Aujourd'hui lé v'là wuidié &quot; (EM) = vidé, épuisé.
+      </quote>
+      <quote>
+        2 - sortir. &quot; Mais, si al étot reintrée vite, al dévot êt' pus longtemps pour wuidier &quot; (RD). &quot; In n' mé wuidera point dé l' tiête qu'i n'y a quéque cose qui n' va point là ein haut &quot; (RD) = on ne m'enlèvera pas de la tête.
+      </quote>
+      <quote>
+        3 - s'en sortir. &quot; J' n'ai pus foc tros jours pour ein wuidier &quot; (RD).
+      </quote>
+      <quote>
+        4 - arriver, déboucher. &quot; Les gamins / Qui wuidiott'nt pa tous les qu'mins &quot; (JM). ANC. : vuidier : vider, évacuer, quitter (Benoît de Ste Maure, 1160). &quot; Mais widiés me tost me maison &quot; (Jean Bodel, 1190).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>WUIDIER, VUIDIER, V. : </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : vuidier : vider, évacuer, quitter (Benoît de Ste Maure, 1160). &quot; Mais widiés me tost me maison &quot; (Jean Bodel, 1190).
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>1 - vider. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Il aprouvot (= essayait) d' printe el caudron pou d'aller l' vuidier à l' cour &quot; (PP).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; A wuidier l' bac comme in s' dépêche &quot; (JM). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Li qui tot fort comme Hercule / Aujourd'hui lé v'là wuidié &quot; (EM) = vidé, épuisé.
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : vuidier : vider, évacuer, quitter (Benoît de Ste Maure, 1160). &quot; Mais widiés me tost me maison &quot; (Jean Bodel, 1190).
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>2 - sortir. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Mais, si al étot reintrée vite, al dévot êt' pus longtemps pour wuidier &quot; (RD).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; In n' mé wuidera point dé l' tiête qu'i n'y a quéque cose qui n' va point là ein haut &quot; (RD) = on ne m'enlèvera pas de la tête.
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : vuidier : vider, évacuer, quitter (Benoît de Ste Maure, 1160). &quot; Mais widiés me tost me maison &quot; (Jean Bodel, 1190).
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>3 - s'en sortir. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; J' n'ai pus foc tros jours pour ein wuidier &quot; (RD). </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : vuidier : vider, évacuer, quitter (Benoît de Ste Maure, 1160). &quot; Mais widiés me tost me maison &quot; (Jean Bodel, 1190).
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>4 - arriver, déboucher. </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">déboucher</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Les gamins / Qui wuidiott'nt pa tous les qu'mins &quot; (JM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : vuidier : vider, évacuer, quitter (Benoît de Ste Maure, 1160). &quot; Mais widiés me tost me maison &quot; (Jean Bodel, 1190).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>WIHOT</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        cocu. &quot; I vaut mieux ête wio qu'aveule, on vot ses confrères &quot; (GH). Les Wios d' Tournay (GH dixit), parce que les Tournaisiennes sont belles, donc recherchées. ANC. : wihot, m. sens (déb. XIIe). &quot; Ki ont fais wihos lor maris &quot; (Renart le Nouvel, 1288). Du francique widuhoppa : huppe (oiseau). (Cf. all. Wiedehopf).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>cocu. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">cocu</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        Les Wios d' Tournay (GH dixit), parce que les Tournaisiennes sont belles, donc recherchées.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I vaut mieux ête wio qu'aveule, on vot ses confrères &quot; (GH).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : wihot, m. sens (déb. XIIe). &quot; Ki ont fais wihos lor maris &quot; (Renart le Nouvel, 1288). Du francique widuhoppa : huppe (oiseau). (Cf. all. Wiedehopf).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>WISEUX</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        VISEUX, s. m. et adj. : paresseux. &quot; Les wiseux, autrement dit les oiseux du carrefour de la Capelette, étaient regardés comme les plus grands farceurs de Condé &quot; (CD). &quot; Y n'y a mie d' bon sins d'êt' aussi wiseux qu' cha &quot; (JQ). ANC. : oisos, uiseus, adj. paresseux, qui reste à ne rien faire (Chrétien de Troyes, 1175), du lat. otiosus : oisif, désoeuvré. &quot; N'ierent huiseuses mes tenailles &quot; (Jean Bodel, 1190).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>VISEUX, s. m. et adj. : paresseux. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Les wiseux, autrement dit les oiseux du carrefour de la Capelette, étaient regardés comme les plus grands farceurs de Condé &quot; (CD).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Y n'y a mie d' bon sins d'êt' aussi wiseux qu' cha &quot; (JQ).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : oisos, uiseus, adj. paresseux, qui reste à ne rien faire (Chrétien de Troyes, 1175), du lat. otiosus : oisif, désoeuvré. &quot; N'ierent huiseuses mes tenailles &quot; (Jean Bodel, 1190).
+      </quote>
+    </etym>
+  </entry>
+</TEI>

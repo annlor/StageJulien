@@ -9,6 +9,7 @@
 import scala.io.Source
 import java.io._
 
+import Config.Configuration
 import fastparse.all._
 
 import scala.xml._
@@ -57,10 +58,8 @@ object ParserDebrie {
 
 
   def main(args: Array[String]): Unit = {
-    /*/people/khamphousone/Documents/Dictionnaires/a_debr_oues_84S_A_utf8.txt*/
-    println("Entrez le chemin du dictionnaire Debrie")
-    val path = scala.io.StdIn.readLine()
-    val buff: Source = Source.fromFile(path)
+    val classpath = new Configuration
+    val buff: Source = Source.fromFile(classpath.pathReneDebrie)
     val Parsing = new ParserDebrie()
     val tradtoxml = new toXML()
     val UP = new UnitParser()

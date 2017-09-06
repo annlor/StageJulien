@@ -1,664 +1,554 @@
 <?xml version='1.0' encoding='utf-8'?>
-<Nomenclature>
-        <ArticleDeDictionnaire>
-        <Entrée>tabac</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>toubac ; (à priser) prises.</LexieEntiere>
-        <Lexie><SousLexie>toubac </SousLexie><SousLexie> (à priser) prises.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>table</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>taule.</LexieEntiere>
-        <Lexie><SousLexie>taule.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tablier</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>dévantier, écourchué, tabier.</LexieEntiere>
-        <Lexie><SousLexie>dévantier</SousLexie><SousLexie> écourchué</SousLexie><SousLexie> tabier.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tache</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>taque ; (de rousseur) brins de Judas ; taques d'antile.</LexieEntiere>
-        <Lexie><SousLexie>taque </SousLexie><SousLexie> (de rousseur) brins de Judas </SousLexie><SousLexie> taques d'antile.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>taciturne</Entrée>
-        <Complément>(homme)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>mulâtre, mulet.</LexieEntiere>
-        <Lexie><SousLexie>mulâtre</SousLexie><SousLexie> mulet.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tailler</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>(grossièrement) corbéter, esquetter ; (une plante) arpincher.</LexieEntiere>
-        <Lexie><SousLexie>(grossièrement) corbéter</SousLexie><SousLexie> esquetter </SousLexie><SousLexie> (une plante) arpincher.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tailleur</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>(d'habits) parmentier (vx) ; (de pierre) tailleux d' blancs.</LexieEntiere>
-        <Lexie><SousLexie>(d'habits) parmentier (vx) </SousLexie><SousLexie> (de pierre) tailleux d' blancs.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>taillis</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>bos d' raspe.</LexieEntiere>
-        <Lexie><SousLexie>bos d' raspe.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>talus</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>hurée.</LexieEntiere>
-        <Lexie><SousLexie>hurée.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tambouriner</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere> ; tambourer.</LexieEntiere>
-        <Lexie><SousLexie> </SousLexie><SousLexie> tambourer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tanaisie</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>hierbe à puches, tanesie, tainesie.</LexieEntiere>
-        <Lexie><SousLexie>hierbe à puches</SousLexie><SousLexie> tanesie</SousLexie><SousLexie> tainesie.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tanche</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>tinque.</LexieEntiere>
-        <Lexie><SousLexie>tinque.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tante</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>ante, matante.</LexieEntiere>
-        <Lexie><SousLexie>ante</SousLexie><SousLexie> matante.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tapage</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>passe-temps.</LexieEntiere>
-        <Lexie><SousLexie>passe-temps.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tape</Entrée>
-        <Complément>(sur les fesses)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>clique.</LexieEntiere>
-        <Lexie><SousLexie>clique.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>taper</Entrée>
-        <Complément>(à petits coups)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>tabioquer.</LexieEntiere>
-        <Lexie><SousLexie>tabioquer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>targette</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>cliquette.</LexieEntiere>
-        <Lexie><SousLexie>cliquette.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tarin</Entrée>
-        <Complément>(oiseau)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>vert-montant.</LexieEntiere>
-        <Lexie><SousLexie>vert-montant.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tarte au fromage</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>goyère.</LexieEntiere>
-        <Lexie><SousLexie>goyère.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tas</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>machet, moncheau, tavelée ; en tas : cari-moncheau ; mettre en tas : ramoncheler.</LexieEntiere>
-        <Lexie><SousLexie>machet</SousLexie><SousLexie> moncheau</SousLexie><SousLexie> tavelée </SousLexie><SousLexie> en tas : cari-moncheau </SousLexie><SousLexie> mettre en tas : ramoncheler.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tasse</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>jatte ; tasse à café : petite jatte.</LexieEntiere>
-        <Lexie><SousLexie>jatte </SousLexie><SousLexie> tasse à café : petite jatte.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tâtillon</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere> et adj. : bésin, nunu, nunuche, rénicteux, tatasse, tâte-mesglaines, tiquenard, tiqueneux, totin.</LexieEntiere>
-        <Lexie><SousLexie> et adj. : bésin</SousLexie><SousLexie> nunu</SousLexie><SousLexie> nunuche</SousLexie><SousLexie> rénicteux</SousLexie><SousLexie> tatasse</SousLexie><SousLexie> tâte-mesglaines</SousLexie><SousLexie> tiquenard</SousLexie><SousLexie> tiqueneux</SousLexie><SousLexie> totin.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>taupe</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>fouant.</LexieEntiere>
-        <Lexie><SousLexie>fouant.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>taupinière</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>musterne, muterne, mutierne.</LexieEntiere>
-        <Lexie><SousLexie>musterne</SousLexie><SousLexie> muterne</SousLexie><SousLexie> mutierne.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>taureau</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>taur, tor.</LexieEntiere>
-        <Lexie><SousLexie>taur</SousLexie><SousLexie> tor.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>teigne</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>rognes, ronnes.</LexieEntiere>
-        <Lexie><SousLexie>rognes</SousLexie><SousLexie> ronnes.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>templier</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>timpier.</LexieEntiere>
-        <Lexie><SousLexie>timpier.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tendre</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>tert.</LexieEntiere>
-        <Lexie><SousLexie>tert.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tergiverser</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>mirouler.</LexieEntiere>
-        <Lexie><SousLexie>mirouler.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>terme</Entrée>
-        <Complément>(d'un marché)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>aghais (vx).</LexieEntiere>
-        <Lexie><SousLexie>aghais (vx).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>terminer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>définir.</LexieEntiere>
-        <Lexie><SousLexie>définir.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>terre</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s.</StructureGrammaticale>
-        <LexieEntiere> f, : tierre.</LexieEntiere>
-        <Lexie><SousLexie> f</SousLexie><SousLexie> : tierre.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>terrine</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>telle, tellot.</LexieEntiere>
-        <Lexie><SousLexie>telle</SousLexie><SousLexie> tellot.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>testicule</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>biloubin, coule, pronne.</LexieEntiere>
-        <Lexie><SousLexie>biloubin</SousLexie><SousLexie> coule</SousLexie><SousLexie> pronne.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tête</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>tiête.</LexieEntiere>
-        <Lexie><SousLexie>tiête.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tête-bêche</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>loc. adv.</StructureGrammaticale>
-        <LexieEntiere>bouchi-boula.</LexieEntiere>
-        <Lexie><SousLexie>bouchi-boula.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>téter</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>tuter.</LexieEntiere>
-        <Lexie><SousLexie>tuter.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tétine</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>tute, tutène, tutute.</LexieEntiere>
-        <Lexie><SousLexie>tute</SousLexie><SousLexie> tutène</SousLexie><SousLexie> tutute.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tibia</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>grève, grévé.</LexieEntiere>
-        <Lexie><SousLexie>grève</SousLexie><SousLexie> grévé.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tiédir</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>détiédir, détombir.</LexieEntiere>
-        <Lexie><SousLexie>détiédir</SousLexie><SousLexie> détombir.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tiges</Entrée>
-        <Complément>(de pommes de terre)</Complément>
-        <StructureGrammaticale>s. f. pl.</StructureGrammaticale>
-        <LexieEntiere>aris (d' truches) : (sèches) ranques, ronques.</LexieEntiere>
-        <Lexie><SousLexie>aris (d' truches) : (sèches) ranques</SousLexie><SousLexie> ronques.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>timide</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>Jacques saisi.</LexieEntiere>
-        <Lexie><SousLexie>Jacques saisi.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tintamarre</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>tintin.</LexieEntiere>
-        <Lexie><SousLexie>tintin.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tirer</Entrée>
-        <Complément>(exercer une traction)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>saquer ; (d'un mauvais pas) : déhoter.</LexieEntiere>
-        <Lexie><SousLexie>saquer </SousLexie><SousLexie> (d'un mauvais pas) : déhoter.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tireur à l'arc</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>pique-à-l'osiau.</LexieEntiere>
-        <Lexie><SousLexie>pique-à-l'osiau.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tiroir</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>tiro.</LexieEntiere>
-        <Lexie><SousLexie>tiro.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tisonnier</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>caud-fier, rangon, tisenier.</LexieEntiere>
-        <Lexie><SousLexie>caud-fier</SousLexie><SousLexie> rangon</SousLexie><SousLexie> tisenier.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tisserand</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>(en batiste) marquénier, mulquinier, murquénier ; (en toile) tellier (vx).</LexieEntiere>
-        <Lexie><SousLexie>(en batiste) marquénier</SousLexie><SousLexie> mulquinier</SousLexie><SousLexie> murquénier </SousLexie><SousLexie> (en toile) tellier (vx).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tituber</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>berloquer, bilboter.</LexieEntiere>
-        <Lexie><SousLexie>berloquer</SousLexie><SousLexie> bilboter.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>toi</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>pr. pers.</StructureGrammaticale>
-        <LexieEntiere>ti.</LexieEntiere>
-        <Lexie><SousLexie>ti.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>toile d'araignée</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>arnitoile.</LexieEntiere>
-        <Lexie><SousLexie>arnitoile.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>toit</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>tot.</LexieEntiere>
-        <Lexie><SousLexie>tot.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tomber</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>cair, quéir, s' rétaler, s' ravernir, s' révernir, trondeler.</LexieEntiere>
-        <Lexie><SousLexie>cair</SousLexie><SousLexie> quéir</SousLexie><SousLexie> s' rétaler</SousLexie><SousLexie> s' ravernir</SousLexie><SousLexie> s' révernir</SousLexie><SousLexie> trondeler.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tombereau</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>baro, barou.</LexieEntiere>
-        <Lexie><SousLexie>baro</SousLexie><SousLexie> barou.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>ton</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj. pos.</StructureGrammaticale>
-        <LexieEntiere>t', tin, t'n.</LexieEntiere>
-        <Lexie><SousLexie>t'</SousLexie><SousLexie> tin</SousLexie><SousLexie> t'n.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tonnelier</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>tape-autour, todier, tordélier.</LexieEntiere>
-        <Lexie><SousLexie>tape-autour</SousLexie><SousLexie> todier</SousLexie><SousLexie> tordélier.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>torche</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>torchère.</LexieEntiere>
-        <Lexie><SousLexie>torchère.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>torchis</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>bousin, paillotis ; mur de torchis : placage.</LexieEntiere>
-        <Lexie><SousLexie>bousin</SousLexie><SousLexie> paillotis </SousLexie><SousLexie> mur de torchis : placage.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tordre</Entrée>
-        <Complément>(se)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>s' vériner, s' versiner, s' verténer ; (le pied) clambiner.</LexieEntiere>
-        <Lexie><SousLexie>s' vériner</SousLexie><SousLexie> s' versiner</SousLexie><SousLexie> s' verténer </SousLexie><SousLexie> (le pied) clambiner.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tordu</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>crombi, cron.</LexieEntiere>
-        <Lexie><SousLexie>crombi</SousLexie><SousLexie> cron.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tortiller</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>torténer, tortiner.</LexieEntiere>
-        <Lexie><SousLexie>torténer</SousLexie><SousLexie> tortiner.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tôt</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adv.</StructureGrammaticale>
-        <LexieEntiere>timpe (tempre).</LexieEntiere>
-        <Lexie><SousLexie>timpe (tempre).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>touche</Entrée>
-        <Complément>(à la pêche)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>mordage.</LexieEntiere>
-        <Lexie><SousLexie>mordage.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>touffe</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>choque, crahaut, moque, trofée.</LexieEntiere>
-        <Lexie><SousLexie>choque</SousLexie><SousLexie> crahaut</SousLexie><SousLexie> moque</SousLexie><SousLexie> trofée.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>toujours</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adv.</StructureGrammaticale>
-        <LexieEntiere>toudis.</LexieEntiere>
-        <Lexie><SousLexie>toudis.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>toupie</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>torpie.</LexieEntiere>
-        <Lexie><SousLexie>torpie.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tourbillon</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>tourbision.</LexieEntiere>
-        <Lexie><SousLexie>tourbision.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tour de rein</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>tapure.</LexieEntiere>
-        <Lexie><SousLexie>tapure.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tourneur</Entrée>
-        <Complément>(sur bois)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>fustailler.</LexieEntiere>
-        <Lexie><SousLexie>fustailler.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tournure</Entrée>
-        <Complément>(d'un événement)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>infilure.</LexieEntiere>
-        <Lexie><SousLexie>infilure.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tous</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>pr. ind.</StructureGrammaticale>
-        <LexieEntiere>tertous, tertoutes, tertun-tertous.</LexieEntiere>
-        <Lexie><SousLexie>tertous</SousLexie><SousLexie> tertoutes</SousLexie><SousLexie> tertun-tertous.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>traînasse</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>courchon, salouche.</LexieEntiere>
-        <Lexie><SousLexie>courchon</SousLexie><SousLexie> salouche.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>traîneau</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>car à glache.</LexieEntiere>
-        <Lexie><SousLexie>car à glache.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tranche</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>trinque.</LexieEntiere>
-        <Lexie><SousLexie>trinque.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>trapu</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>rintassé.</LexieEntiere>
-        <Lexie><SousLexie>rintassé.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>traquet</Entrée>
-        <Complément>(passereau)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>cul-blanc.</LexieEntiere>
-        <Lexie><SousLexie>cul-blanc.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>travail</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>ouvrage ; (temporaire) about.</LexieEntiere>
-        <Lexie><SousLexie>ouvrage </SousLexie><SousLexie> (temporaire) about.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>travailler</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>ouvrer ; (mal) abloquer ; (dur) chuiner, lapider.</LexieEntiere>
-        <Lexie><SousLexie>ouvrer </SousLexie><SousLexie> (mal) abloquer </SousLexie><SousLexie> (dur) chuiner</SousLexie><SousLexie> lapider.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>travers</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
+<TEI>
+        <entry>
+        <form><orth>tabac</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>toubac ; (à priser) prises.</quote></def>
+        <cit type="translation"><quote>toubac </quote><quote> (à priser) prises.</quote></cit>
+      </entry><entry>
+        <form><orth>table</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>taule.</quote></def>
+        <cit type="translation"><quote>taule.</quote></cit>
+      </entry><entry>
+        <form><orth>tablier</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>dévantier, écourchué, tabier.</quote></def>
+        <cit type="translation"><quote>dévantier</quote><quote> écourchué</quote><quote> tabier.</quote></cit>
+      </entry><entry>
+        <form><orth>tache</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>taque ; (de rousseur) brins de Judas ; taques d'antile.</quote></def>
+        <cit type="translation"><quote>taque </quote><quote> (de rousseur) brins de Judas </quote><quote> taques d'antile.</quote></cit>
+      </entry><entry>
+        <form><orth>taciturne</orth><Complément>(homme)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>mulâtre, mulet.</quote></def>
+        <cit type="translation"><quote>mulâtre</quote><quote> mulet.</quote></cit>
+      </entry><entry>
+        <form><orth>tailler</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>(grossièrement) corbéter, esquetter ; (une plante) arpincher.</quote></def>
+        <cit type="translation"><quote>(grossièrement) corbéter</quote><quote> esquetter </quote><quote> (une plante) arpincher.</quote></cit>
+      </entry><entry>
+        <form><orth>tailleur</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>(d'habits) parmentier (vx) ; (de pierre) tailleux d' blancs.</quote></def>
+        <cit type="translation"><quote>(d'habits) parmentier (vx) </quote><quote> (de pierre) tailleux d' blancs.</quote></cit>
+      </entry><entry>
+        <form><orth>taillis</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>bos d' raspe.</quote></def>
+        <cit type="translation"><quote>bos d' raspe.</quote></cit>
+      </entry><entry>
+        <form><orth>talus</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>hurée.</quote></def>
+        <cit type="translation"><quote>hurée.</quote></cit>
+      </entry><entry>
+        <form><orth>tambouriner</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote> ; tambourer.</quote></def>
+        <cit type="translation"><quote> </quote><quote> tambourer.</quote></cit>
+      </entry><entry>
+        <form><orth>tanaisie</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>hierbe à puches, tanesie, tainesie.</quote></def>
+        <cit type="translation"><quote>hierbe à puches</quote><quote> tanesie</quote><quote> tainesie.</quote></cit>
+      </entry><entry>
+        <form><orth>tanche</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>tinque.</quote></def>
+        <cit type="translation"><quote>tinque.</quote></cit>
+      </entry><entry>
+        <form><orth>tante</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>ante, matante.</quote></def>
+        <cit type="translation"><quote>ante</quote><quote> matante.</quote></cit>
+      </entry><entry>
+        <form><orth>tapage</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>passe-temps.</quote></def>
+        <cit type="translation"><quote>passe-temps.</quote></cit>
+      </entry><entry>
+        <form><orth>tape</orth><Complément>(sur les fesses)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>clique.</quote></def>
+        <cit type="translation"><quote>clique.</quote></cit>
+      </entry><entry>
+        <form><orth>taper</orth><Complément>(à petits coups)</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>tabioquer.</quote></def>
+        <cit type="translation"><quote>tabioquer.</quote></cit>
+      </entry><entry>
+        <form><orth>targette</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>cliquette.</quote></def>
+        <cit type="translation"><quote>cliquette.</quote></cit>
+      </entry><entry>
+        <form><orth>tarin</orth><Complément>(oiseau)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>vert-montant.</quote></def>
+        <cit type="translation"><quote>vert-montant.</quote></cit>
+      </entry><entry>
+        <form><orth>tarte au fromage</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>goyère.</quote></def>
+        <cit type="translation"><quote>goyère.</quote></cit>
+      </entry><entry>
+        <form><orth>tas</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>machet, moncheau, tavelée ; en tas : cari-moncheau ; mettre en tas : ramoncheler.</quote></def>
+        <cit type="translation"><quote>machet</quote><quote> moncheau</quote><quote> tavelée </quote><quote> en tas : cari-moncheau </quote><quote> mettre en tas : ramoncheler.</quote></cit>
+      </entry><entry>
+        <form><orth>tasse</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>jatte ; tasse à café : petite jatte.</quote></def>
+        <cit type="translation"><quote>jatte </quote><quote> tasse à café : petite jatte.</quote></cit>
+      </entry><entry>
+        <form><orth>tâtillon</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote> et adj. : bésin, nunu, nunuche, rénicteux, tatasse, tâte-mesglaines, tiquenard, tiqueneux, totin.</quote></def>
+        <cit type="translation"><quote> et adj. : bésin</quote><quote> nunu</quote><quote> nunuche</quote><quote> rénicteux</quote><quote> tatasse</quote><quote> tâte-mesglaines</quote><quote> tiquenard</quote><quote> tiqueneux</quote><quote> totin.</quote></cit>
+      </entry><entry>
+        <form><orth>taupe</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>fouant.</quote></def>
+        <cit type="translation"><quote>fouant.</quote></cit>
+      </entry><entry>
+        <form><orth>taupinière</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>musterne, muterne, mutierne.</quote></def>
+        <cit type="translation"><quote>musterne</quote><quote> muterne</quote><quote> mutierne.</quote></cit>
+      </entry><entry>
+        <form><orth>taureau</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>taur, tor.</quote></def>
+        <cit type="translation"><quote>taur</quote><quote> tor.</quote></cit>
+      </entry><entry>
+        <form><orth>teigne</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>rognes, ronnes.</quote></def>
+        <cit type="translation"><quote>rognes</quote><quote> ronnes.</quote></cit>
+      </entry><entry>
+        <form><orth>templier</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>timpier.</quote></def>
+        <cit type="translation"><quote>timpier.</quote></cit>
+      </entry><entry>
+        <form><orth>tendre</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>tert.</quote></def>
+        <cit type="translation"><quote>tert.</quote></cit>
+      </entry><entry>
+        <form><orth>tergiverser</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>mirouler.</quote></def>
+        <cit type="translation"><quote>mirouler.</quote></cit>
+      </entry><entry>
+        <form><orth>terme</orth><Complément>(d'un marché)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>aghais (vx).</quote></def>
+        <cit type="translation"><quote>aghais (vx).</quote></cit>
+      </entry><entry>
+        <form><orth>terminer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>définir.</quote></def>
+        <cit type="translation"><quote>définir.</quote></cit>
+      </entry><entry>
+        <form><orth>terre</orth><Complément></Complément></form>
+        <gramGrp><pos>s.</pos></gramGrp>
+        <def><quote> f, : tierre.</quote></def>
+        <cit type="translation"><quote> f</quote><quote> : tierre.</quote></cit>
+      </entry><entry>
+        <form><orth>terrine</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>telle, tellot.</quote></def>
+        <cit type="translation"><quote>telle</quote><quote> tellot.</quote></cit>
+      </entry><entry>
+        <form><orth>testicule</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>biloubin, coule, pronne.</quote></def>
+        <cit type="translation"><quote>biloubin</quote><quote> coule</quote><quote> pronne.</quote></cit>
+      </entry><entry>
+        <form><orth>tête</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>tiête.</quote></def>
+        <cit type="translation"><quote>tiête.</quote></cit>
+      </entry><entry>
+        <form><orth>tête-bêche</orth><Complément></Complément></form>
+        <gramGrp><pos>loc. adv.</pos></gramGrp>
+        <def><quote>bouchi-boula.</quote></def>
+        <cit type="translation"><quote>bouchi-boula.</quote></cit>
+      </entry><entry>
+        <form><orth>téter</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>tuter.</quote></def>
+        <cit type="translation"><quote>tuter.</quote></cit>
+      </entry><entry>
+        <form><orth>tétine</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>tute, tutène, tutute.</quote></def>
+        <cit type="translation"><quote>tute</quote><quote> tutène</quote><quote> tutute.</quote></cit>
+      </entry><entry>
+        <form><orth>tibia</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>grève, grévé.</quote></def>
+        <cit type="translation"><quote>grève</quote><quote> grévé.</quote></cit>
+      </entry><entry>
+        <form><orth>tiédir</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>détiédir, détombir.</quote></def>
+        <cit type="translation"><quote>détiédir</quote><quote> détombir.</quote></cit>
+      </entry><entry>
+        <form><orth>tiges</orth><Complément>(de pommes de terre)</Complément></form>
+        <gramGrp><pos>s. f. pl.</pos></gramGrp>
+        <def><quote>aris (d' truches) : (sèches) ranques, ronques.</quote></def>
+        <cit type="translation"><quote>aris (d' truches) : (sèches) ranques</quote><quote> ronques.</quote></cit>
+      </entry><entry>
+        <form><orth>timide</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>Jacques saisi.</quote></def>
+        <cit type="translation"><quote>Jacques saisi.</quote></cit>
+      </entry><entry>
+        <form><orth>tintamarre</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>tintin.</quote></def>
+        <cit type="translation"><quote>tintin.</quote></cit>
+      </entry><entry>
+        <form><orth>tirer</orth><Complément>(exercer une traction)</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>saquer ; (d'un mauvais pas) : déhoter.</quote></def>
+        <cit type="translation"><quote>saquer </quote><quote> (d'un mauvais pas) : déhoter.</quote></cit>
+      </entry><entry>
+        <form><orth>tireur à l'arc</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>pique-à-l'osiau.</quote></def>
+        <cit type="translation"><quote>pique-à-l'osiau.</quote></cit>
+      </entry><entry>
+        <form><orth>tiroir</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>tiro.</quote></def>
+        <cit type="translation"><quote>tiro.</quote></cit>
+      </entry><entry>
+        <form><orth>tisonnier</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>caud-fier, rangon, tisenier.</quote></def>
+        <cit type="translation"><quote>caud-fier</quote><quote> rangon</quote><quote> tisenier.</quote></cit>
+      </entry><entry>
+        <form><orth>tisserand</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>(en batiste) marquénier, mulquinier, murquénier ; (en toile) tellier (vx).</quote></def>
+        <cit type="translation"><quote>(en batiste) marquénier</quote><quote> mulquinier</quote><quote> murquénier </quote><quote> (en toile) tellier (vx).</quote></cit>
+      </entry><entry>
+        <form><orth>tituber</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>berloquer, bilboter.</quote></def>
+        <cit type="translation"><quote>berloquer</quote><quote> bilboter.</quote></cit>
+      </entry><entry>
+        <form><orth>toi</orth><Complément></Complément></form>
+        <gramGrp><pos>pr. pers.</pos></gramGrp>
+        <def><quote>ti.</quote></def>
+        <cit type="translation"><quote>ti.</quote></cit>
+      </entry><entry>
+        <form><orth>toile d'araignée</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>arnitoile.</quote></def>
+        <cit type="translation"><quote>arnitoile.</quote></cit>
+      </entry><entry>
+        <form><orth>toit</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>tot.</quote></def>
+        <cit type="translation"><quote>tot.</quote></cit>
+      </entry><entry>
+        <form><orth>tomber</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>cair, quéir, s' rétaler, s' ravernir, s' révernir, trondeler.</quote></def>
+        <cit type="translation"><quote>cair</quote><quote> quéir</quote><quote> s' rétaler</quote><quote> s' ravernir</quote><quote> s' révernir</quote><quote> trondeler.</quote></cit>
+      </entry><entry>
+        <form><orth>tombereau</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>baro, barou.</quote></def>
+        <cit type="translation"><quote>baro</quote><quote> barou.</quote></cit>
+      </entry><entry>
+        <form><orth>ton</orth><Complément></Complément></form>
+        <gramGrp><pos>adj. pos.</pos></gramGrp>
+        <def><quote>t', tin, t'n.</quote></def>
+        <cit type="translation"><quote>t'</quote><quote> tin</quote><quote> t'n.</quote></cit>
+      </entry><entry>
+        <form><orth>tonnelier</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>tape-autour, todier, tordélier.</quote></def>
+        <cit type="translation"><quote>tape-autour</quote><quote> todier</quote><quote> tordélier.</quote></cit>
+      </entry><entry>
+        <form><orth>torche</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>torchère.</quote></def>
+        <cit type="translation"><quote>torchère.</quote></cit>
+      </entry><entry>
+        <form><orth>torchis</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>bousin, paillotis ; mur de torchis : placage.</quote></def>
+        <cit type="translation"><quote>bousin</quote><quote> paillotis </quote><quote> mur de torchis : placage.</quote></cit>
+      </entry><entry>
+        <form><orth>tordre</orth><Complément>(se)</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>s' vériner, s' versiner, s' verténer ; (le pied) clambiner.</quote></def>
+        <cit type="translation"><quote>s' vériner</quote><quote> s' versiner</quote><quote> s' verténer </quote><quote> (le pied) clambiner.</quote></cit>
+      </entry><entry>
+        <form><orth>tordu</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>crombi, cron.</quote></def>
+        <cit type="translation"><quote>crombi</quote><quote> cron.</quote></cit>
+      </entry><entry>
+        <form><orth>tortiller</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>torténer, tortiner.</quote></def>
+        <cit type="translation"><quote>torténer</quote><quote> tortiner.</quote></cit>
+      </entry><entry>
+        <form><orth>tôt</orth><Complément></Complément></form>
+        <gramGrp><pos>adv.</pos></gramGrp>
+        <def><quote>timpe (tempre).</quote></def>
+        <cit type="translation"><quote>timpe (tempre).</quote></cit>
+      </entry><entry>
+        <form><orth>touche</orth><Complément>(à la pêche)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>mordage.</quote></def>
+        <cit type="translation"><quote>mordage.</quote></cit>
+      </entry><entry>
+        <form><orth>touffe</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>choque, crahaut, moque, trofée.</quote></def>
+        <cit type="translation"><quote>choque</quote><quote> crahaut</quote><quote> moque</quote><quote> trofée.</quote></cit>
+      </entry><entry>
+        <form><orth>toujours</orth><Complément></Complément></form>
+        <gramGrp><pos>adv.</pos></gramGrp>
+        <def><quote>toudis.</quote></def>
+        <cit type="translation"><quote>toudis.</quote></cit>
+      </entry><entry>
+        <form><orth>toupie</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>torpie.</quote></def>
+        <cit type="translation"><quote>torpie.</quote></cit>
+      </entry><entry>
+        <form><orth>tourbillon</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>tourbision.</quote></def>
+        <cit type="translation"><quote>tourbision.</quote></cit>
+      </entry><entry>
+        <form><orth>tour de rein</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>tapure.</quote></def>
+        <cit type="translation"><quote>tapure.</quote></cit>
+      </entry><entry>
+        <form><orth>tourneur</orth><Complément>(sur bois)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>fustailler.</quote></def>
+        <cit type="translation"><quote>fustailler.</quote></cit>
+      </entry><entry>
+        <form><orth>tournure</orth><Complément>(d'un événement)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>infilure.</quote></def>
+        <cit type="translation"><quote>infilure.</quote></cit>
+      </entry><entry>
+        <form><orth>tous</orth><Complément></Complément></form>
+        <gramGrp><pos>pr. ind.</pos></gramGrp>
+        <def><quote>tertous, tertoutes, tertun-tertous.</quote></def>
+        <cit type="translation"><quote>tertous</quote><quote> tertoutes</quote><quote> tertun-tertous.</quote></cit>
+      </entry><entry>
+        <form><orth>traînasse</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>courchon, salouche.</quote></def>
+        <cit type="translation"><quote>courchon</quote><quote> salouche.</quote></cit>
+      </entry><entry>
+        <form><orth>traîneau</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>car à glache.</quote></def>
+        <cit type="translation"><quote>car à glache.</quote></cit>
+      </entry><entry>
+        <form><orth>tranche</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>trinque.</quote></def>
+        <cit type="translation"><quote>trinque.</quote></cit>
+      </entry><entry>
+        <form><orth>trapu</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>rintassé.</quote></def>
+        <cit type="translation"><quote>rintassé.</quote></cit>
+      </entry><entry>
+        <form><orth>traquet</orth><Complément>(passereau)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>cul-blanc.</quote></def>
+        <cit type="translation"><quote>cul-blanc.</quote></cit>
+      </entry><entry>
+        <form><orth>travail</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>ouvrage ; (temporaire) about.</quote></def>
+        <cit type="translation"><quote>ouvrage </quote><quote> (temporaire) about.</quote></cit>
+      </entry><entry>
+        <form><orth>travailler</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>ouvrer ; (mal) abloquer ; (dur) chuiner, lapider.</quote></def>
+        <cit type="translation"><quote>ouvrer </quote><quote> (mal) abloquer </quote><quote> (dur) chuiner</quote><quote> lapider.</quote></cit>
+      </entry><entry>
+        <form><orth>travers</orth><Complément></Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote></quote></def>
         
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>trébucher</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>chanquier.</LexieEntiere>
-        <Lexie><SousLexie>chanquier.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>trèfle</Entrée>
-        <Complément>(des prés)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>traleine, tranelle, trannène...</LexieEntiere>
-        <Lexie><SousLexie>traleine</SousLexie><SousLexie> tranelle</SousLexie><SousLexie> trannène...</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tremble</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>trème.</LexieEntiere>
-        <Lexie><SousLexie>trème.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tremblement</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>balzin, trannette.</LexieEntiere>
-        <Lexie><SousLexie>balzin</SousLexie><SousLexie> trannette.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>trembler</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>tranner (Denain) ; trenner (St-Amand) ; tronner (Val.).</LexieEntiere>
-        <Lexie><SousLexie>tranner (Denain) </SousLexie><SousLexie> trenner (St-Amand) </SousLexie><SousLexie> tronner (Val.).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>trémie</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>termisse.</LexieEntiere>
-        <Lexie><SousLexie>termisse.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tremper</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>touquer.</LexieEntiere>
-        <Lexie><SousLexie>touquer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tressaillir</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>tersailler.</LexieEntiere>
-        <Lexie><SousLexie>tersailler.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tricher</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>gaviller.</LexieEntiere>
-        <Lexie><SousLexie>gaviller.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tricheur</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>hableux.</LexieEntiere>
-        <Lexie><SousLexie>hableux.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>trier</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>détricher, égluir.</LexieEntiere>
-        <Lexie><SousLexie>détricher</SousLexie><SousLexie> égluir.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>trieur</Entrée>
-        <Complément>(de bûches)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>triquenaire, triquenelle.</LexieEntiere>
-        <Lexie><SousLexie>triquenaire</SousLexie><SousLexie> triquenelle.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>trieuse</Entrée>
-        <Complément>(de charbon)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>cafu.</LexieEntiere>
-        <Lexie><SousLexie>cafu.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>trimer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>chamailler, chuiner.</LexieEntiere>
-        <Lexie><SousLexie>chamailler</SousLexie><SousLexie> chuiner.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>trinité</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>ternité.</LexieEntiere>
-        <Lexie><SousLexie>ternité.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>troène</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>lilas d'Espagne.</LexieEntiere>
-        <Lexie><SousLexie>lilas d'Espagne.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>trognon</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>torchon, torseillon, turot.</LexieEntiere>
-        <Lexie><SousLexie>torchon</SousLexie><SousLexie> torseillon</SousLexie><SousLexie> turot.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>trombone à coulisse</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>saque et pousse.</LexieEntiere>
-        <Lexie><SousLexie>saque et pousse.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tromper</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>abusier, ingueuser ; (par flatterie) indordéler.</LexieEntiere>
-        <Lexie><SousLexie>abusier</SousLexie><SousLexie> ingueuser </SousLexie><SousLexie> (par flatterie) indordéler.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tromperie</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>carambole, girie, inrolure, inturlure, losterie.</LexieEntiere>
-        <Lexie><SousLexie>carambole</SousLexie><SousLexie> girie</SousLexie><SousLexie> inrolure</SousLexie><SousLexie> inturlure</SousLexie><SousLexie> losterie.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>trompette</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>busène (vx).</LexieEntiere>
-        <Lexie><SousLexie>busène (vx).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>trou</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>trau, tro.</LexieEntiere>
-        <Lexie><SousLexie>trau</SousLexie><SousLexie> tro.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>trouer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>troer.</LexieEntiere>
-        <Lexie><SousLexie>troer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>truelle</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>troïelle.</LexieEntiere>
-        <Lexie><SousLexie>troïelle.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>truie</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>troule.</LexieEntiere>
-        <Lexie><SousLexie>troule.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tu</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>pr. pers.</StructureGrammaticale>
-        <LexieEntiere>t', té.</LexieEntiere>
-        <Lexie><SousLexie>t'</SousLexie><SousLexie> té.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tuer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>estoquer.</LexieEntiere>
-        <Lexie><SousLexie>estoquer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tuile</Entrée>
-        <Complément>(de toit)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>panne.</LexieEntiere>
-        <Lexie><SousLexie>panne.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>turbulent</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>arpiant, solant.</LexieEntiere>
-        <Lexie><SousLexie>arpiant</SousLexie><SousLexie> solant.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tutoyer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>attuire.</LexieEntiere>
-        <Lexie><SousLexie>attuire.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>tuyau</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>buhot, buse, busette, busot.</LexieEntiere>
-        <Lexie><SousLexie>buhot</SousLexie><SousLexie> buse</SousLexie><SousLexie> busette</SousLexie><SousLexie> busot.</SousLexie></Lexie>
-      </ArticleDeDictionnaire>
-      </Nomenclature>
+      </entry><entry>
+        <form><orth>trébucher</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>chanquier.</quote></def>
+        <cit type="translation"><quote>chanquier.</quote></cit>
+      </entry><entry>
+        <form><orth>trèfle</orth><Complément>(des prés)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>traleine, tranelle, trannène...</quote></def>
+        <cit type="translation"><quote>traleine</quote><quote> tranelle</quote><quote> trannène...</quote></cit>
+      </entry><entry>
+        <form><orth>tremble</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>trème.</quote></def>
+        <cit type="translation"><quote>trème.</quote></cit>
+      </entry><entry>
+        <form><orth>tremblement</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>balzin, trannette.</quote></def>
+        <cit type="translation"><quote>balzin</quote><quote> trannette.</quote></cit>
+      </entry><entry>
+        <form><orth>trembler</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>tranner (Denain) ; trenner (St-Amand) ; tronner (Val.).</quote></def>
+        <cit type="translation"><quote>tranner (Denain) </quote><quote> trenner (St-Amand) </quote><quote> tronner (Val.).</quote></cit>
+      </entry><entry>
+        <form><orth>trémie</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>termisse.</quote></def>
+        <cit type="translation"><quote>termisse.</quote></cit>
+      </entry><entry>
+        <form><orth>tremper</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>touquer.</quote></def>
+        <cit type="translation"><quote>touquer.</quote></cit>
+      </entry><entry>
+        <form><orth>tressaillir</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>tersailler.</quote></def>
+        <cit type="translation"><quote>tersailler.</quote></cit>
+      </entry><entry>
+        <form><orth>tricher</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>gaviller.</quote></def>
+        <cit type="translation"><quote>gaviller.</quote></cit>
+      </entry><entry>
+        <form><orth>tricheur</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>hableux.</quote></def>
+        <cit type="translation"><quote>hableux.</quote></cit>
+      </entry><entry>
+        <form><orth>trier</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>détricher, égluir.</quote></def>
+        <cit type="translation"><quote>détricher</quote><quote> égluir.</quote></cit>
+      </entry><entry>
+        <form><orth>trieur</orth><Complément>(de bûches)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>triquenaire, triquenelle.</quote></def>
+        <cit type="translation"><quote>triquenaire</quote><quote> triquenelle.</quote></cit>
+      </entry><entry>
+        <form><orth>trieuse</orth><Complément>(de charbon)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>cafu.</quote></def>
+        <cit type="translation"><quote>cafu.</quote></cit>
+      </entry><entry>
+        <form><orth>trimer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>chamailler, chuiner.</quote></def>
+        <cit type="translation"><quote>chamailler</quote><quote> chuiner.</quote></cit>
+      </entry><entry>
+        <form><orth>trinité</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>ternité.</quote></def>
+        <cit type="translation"><quote>ternité.</quote></cit>
+      </entry><entry>
+        <form><orth>troène</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>lilas d'Espagne.</quote></def>
+        <cit type="translation"><quote>lilas d'Espagne.</quote></cit>
+      </entry><entry>
+        <form><orth>trognon</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>torchon, torseillon, turot.</quote></def>
+        <cit type="translation"><quote>torchon</quote><quote> torseillon</quote><quote> turot.</quote></cit>
+      </entry><entry>
+        <form><orth>trombone à coulisse</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>saque et pousse.</quote></def>
+        <cit type="translation"><quote>saque et pousse.</quote></cit>
+      </entry><entry>
+        <form><orth>tromper</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>abusier, ingueuser ; (par flatterie) indordéler.</quote></def>
+        <cit type="translation"><quote>abusier</quote><quote> ingueuser </quote><quote> (par flatterie) indordéler.</quote></cit>
+      </entry><entry>
+        <form><orth>tromperie</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>carambole, girie, inrolure, inturlure, losterie.</quote></def>
+        <cit type="translation"><quote>carambole</quote><quote> girie</quote><quote> inrolure</quote><quote> inturlure</quote><quote> losterie.</quote></cit>
+      </entry><entry>
+        <form><orth>trompette</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>busène (vx).</quote></def>
+        <cit type="translation"><quote>busène (vx).</quote></cit>
+      </entry><entry>
+        <form><orth>trou</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>trau, tro.</quote></def>
+        <cit type="translation"><quote>trau</quote><quote> tro.</quote></cit>
+      </entry><entry>
+        <form><orth>trouer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>troer.</quote></def>
+        <cit type="translation"><quote>troer.</quote></cit>
+      </entry><entry>
+        <form><orth>truelle</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>troïelle.</quote></def>
+        <cit type="translation"><quote>troïelle.</quote></cit>
+      </entry><entry>
+        <form><orth>truie</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>troule.</quote></def>
+        <cit type="translation"><quote>troule.</quote></cit>
+      </entry><entry>
+        <form><orth>tu</orth><Complément></Complément></form>
+        <gramGrp><pos>pr. pers.</pos></gramGrp>
+        <def><quote>t', té.</quote></def>
+        <cit type="translation"><quote>t'</quote><quote> té.</quote></cit>
+      </entry><entry>
+        <form><orth>tuer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>estoquer.</quote></def>
+        <cit type="translation"><quote>estoquer.</quote></cit>
+      </entry><entry>
+        <form><orth>tuile</orth><Complément>(de toit)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>panne.</quote></def>
+        <cit type="translation"><quote>panne.</quote></cit>
+      </entry><entry>
+        <form><orth>turbulent</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>arpiant, solant.</quote></def>
+        <cit type="translation"><quote>arpiant</quote><quote> solant.</quote></cit>
+      </entry><entry>
+        <form><orth>tutoyer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>attuire.</quote></def>
+        <cit type="translation"><quote>attuire.</quote></cit>
+      </entry><entry>
+        <form><orth>tuyau</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>buhot, buse, busette, busot.</quote></def>
+        <cit type="translation"><quote>buhot</quote><quote> buse</quote><quote> busette</quote><quote> busot.</quote></cit>
+      </entry>
+      </TEI>

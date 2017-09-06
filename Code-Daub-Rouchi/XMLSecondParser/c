@@ -1,1588 +1,1324 @@
 <?xml version='1.0' encoding='utf-8'?>
-<Nomenclature>
-        <ArticleDeDictionnaire>
-        <Entrée>cabinet</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere>(W.C.), s. m. : basse-campe, basse-cam.me.</LexieEntiere>
-        <Lexie><SousLexie>(W.C.)</SousLexie><SousLexie> s. m. : basse-campe</SousLexie><SousLexie> basse-cam.me.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>câble</Entrée>
-        <Complément>(sur un chariot)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>comble, combiau.</LexieEntiere>
-        <Lexie><SousLexie>comble</SousLexie><SousLexie> combiau.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cabriole</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>cabériole, camberleau, couturmette, cubériau, cuberniau, cul-torgneau, cutourniau, tchupoirier, tombériau, tourmariot, tourmériau...</LexieEntiere>
-        <Lexie><SousLexie>cabériole</SousLexie><SousLexie> camberleau</SousLexie><SousLexie> couturmette</SousLexie><SousLexie> cubériau</SousLexie><SousLexie> cuberniau</SousLexie><SousLexie> cul-torgneau</SousLexie><SousLexie> cutourniau</SousLexie><SousLexie> tchupoirier</SousLexie><SousLexie> tombériau</SousLexie><SousLexie> tourmariot</SousLexie><SousLexie> tourmériau...</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cache-cache</Entrée>
-        <Complément>(jouer à)</Complément>
-        <StructureGrammaticale>loc. v.</StructureGrammaticale>
-        <LexieEntiere>juer au picard, juer à mucher.</LexieEntiere>
-        <Lexie><SousLexie>juer au picard</SousLexie><SousLexie> juer à mucher.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cacher</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>mucher.</LexieEntiere>
-        <Lexie><SousLexie>mucher.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cachette</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>muche, muchette, nichette.</LexieEntiere>
-        <Lexie><SousLexie>muche</SousLexie><SousLexie> muchette</SousLexie><SousLexie> nichette.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cadran</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>gadran.</LexieEntiere>
-        <Lexie><SousLexie>gadran.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cafard</Entrée>
-        <Complément>(insecte)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>marissiau.</LexieEntiere>
-        <Lexie><SousLexie>marissiau.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cafard</Entrée>
-        <Complément>(tristesse)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>tine.</LexieEntiere>
-        <Lexie><SousLexie>tine.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>café</Entrée>
-        <Complément>(mauvais)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>armis d'sus, arpassage, chirloute.</LexieEntiere>
-        <Lexie><SousLexie>armis d'sus</SousLexie><SousLexie> arpassage</SousLexie><SousLexie> chirloute.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cage</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>(à oiseaux) guéiote, guiole ; (à poussins) ravache.</LexieEntiere>
-        <Lexie><SousLexie>(à oiseaux) guéiote</SousLexie><SousLexie> guiole </SousLexie><SousLexie> (à poussins) ravache.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>caille</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>carcaillou.</LexieEntiere>
-        <Lexie><SousLexie>carcaillou.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>caillot</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>gaillet.</LexieEntiere>
-        <Lexie><SousLexie>gaillet.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>caillou</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>caillo, biscaïen, bouquiau.</LexieEntiere>
-        <Lexie><SousLexie>caillo</SousLexie><SousLexie> biscaïen</SousLexie><SousLexie> bouquiau.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>calculer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>carculer.</LexieEntiere>
-        <Lexie><SousLexie>carculer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cale</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>abloc, asto.</LexieEntiere>
-        <Lexie><SousLexie>abloc</SousLexie><SousLexie> asto.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>caleçon</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>caneçon, quennesson.</LexieEntiere>
-        <Lexie><SousLexie>caneçon</SousLexie><SousLexie> quennesson.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>caler</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>abloquer, acclaper.</LexieEntiere>
-        <Lexie><SousLexie>abloquer</SousLexie><SousLexie> acclaper.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>califourchon</Entrée>
-        <Complément>(à)</Complément>
-        <StructureGrammaticale>loc. adv.</StructureGrammaticale>
-        <LexieEntiere>à gambes raides, à gambettes.</LexieEntiere>
-        <Lexie><SousLexie>à gambes raides</SousLexie><SousLexie> à gambettes.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>calomnier</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>corner.</LexieEntiere>
-        <Lexie><SousLexie>corner.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>calotte</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>béguin.</LexieEntiere>
-        <Lexie><SousLexie>béguin.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>camarade</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>comarate.</LexieEntiere>
-        <Lexie><SousLexie>comarate.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cameline</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>cabet.</LexieEntiere>
-        <Lexie><SousLexie>cabet.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>campanule</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>broque, cloquette.</LexieEntiere>
-        <Lexie><SousLexie>broque</SousLexie><SousLexie> cloquette.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>canal d'assèchement</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>traitoire.</LexieEntiere>
-        <Lexie><SousLexie>traitoire.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>canard</Entrée>
-        <Complément>(mâle)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>massou.</LexieEntiere>
-        <Lexie><SousLexie>massou.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>canari</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>canarien.</LexieEntiere>
-        <Lexie><SousLexie>canarien.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cane</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>anette.</LexieEntiere>
-        <Lexie><SousLexie>anette.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>canne à pêche</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>pèque.</LexieEntiere>
-        <Lexie><SousLexie>pèque.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>canonnier</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>calonnier.</LexieEntiere>
-        <Lexie><SousLexie>calonnier.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>canotier</Entrée>
-        <Complément>(chapeau)</Complément>
-        <StructureGrammaticale>s.</StructureGrammaticale>
-        <LexieEntiere>m . : capiau d' palle.</LexieEntiere>
-        <Lexie><SousLexie>m . : capiau d' palle.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>câpre-capucine</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>mastouche.</LexieEntiere>
-        <Lexie><SousLexie>mastouche.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>caprice</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>quint, zine.</LexieEntiere>
-        <Lexie><SousLexie>quint</SousLexie><SousLexie> zine.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>capselle-bourse-à-pasteur</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>mallette ed berger, séqués-vaques.</LexieEntiere>
-        <Lexie><SousLexie>mallette ed berger</SousLexie><SousLexie> séqués-vaques.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>caque</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>quartélette.</LexieEntiere>
-        <Lexie><SousLexie>quartélette.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>caqueter</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>codacher.</LexieEntiere>
-        <Lexie><SousLexie>codacher.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cardamine</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>lait burré.</LexieEntiere>
-        <Lexie><SousLexie>lait burré.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>caressant</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>apochineux.</LexieEntiere>
-        <Lexie><SousLexie>apochineux.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>caresser</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>achochoner, apochiner, pochiner.</LexieEntiere>
-        <Lexie><SousLexie>achochoner</SousLexie><SousLexie> apochiner</SousLexie><SousLexie> pochiner.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>carlier</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>charron.</LexieEntiere>
-        <Lexie><SousLexie>charron.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>carnaval</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>carnéval.</LexieEntiere>
-        <Lexie><SousLexie>carnéval.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>caroncule</Entrée>
-        <Complément>(de dindon)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>roupie.</LexieEntiere>
-        <Lexie><SousLexie>roupie.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cartable</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>carnasse.</LexieEntiere>
-        <Lexie><SousLexie>carnasse.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cartes</Entrée>
-        <Complément>(distribuer les)</Complément>
-        <StructureGrammaticale>loc. v.</StructureGrammaticale>
-        <LexieEntiere>carter.</LexieEntiere>
-        <Lexie><SousLexie>carter.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>casse-pieds</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>battoire, soïarde.</LexieEntiere>
-        <Lexie><SousLexie>battoire</SousLexie><SousLexie> soïarde.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>casserole</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>bidon, castrole, couet.</LexieEntiere>
-        <Lexie><SousLexie>bidon</SousLexie><SousLexie> castrole</SousLexie><SousLexie> couet.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cassis</Entrée>
-        <Complément>(groseilles)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>grusielles noirtes.</LexieEntiere>
-        <Lexie><SousLexie>grusielles noirtes.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cassonade</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>castonaque, castonate.</LexieEntiere>
-        <Lexie><SousLexie>castonaque</SousLexie><SousLexie> castonate.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>castel</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>câtelet.</LexieEntiere>
-        <Lexie><SousLexie>câtelet.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>ce</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>pr.</StructureGrammaticale>
-        <LexieEntiere>chu, chou.</LexieEntiere>
-        <Lexie><SousLexie>chu</SousLexie><SousLexie> chou.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>celle</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>pr.</StructureGrammaticale>
-        <LexieEntiere>l' cheulle ; celle-ci : ç'telle-chil ; celle-là : ç'telle-lal.</LexieEntiere>
-        <Lexie><SousLexie>l' cheulle </SousLexie><SousLexie> celle-ci : ç'telle-chil </SousLexie><SousLexie> celle-là : ç'telle-lal.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>celui</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>pr.</StructureGrammaticale>
-        <LexieEntiere>l' cheu, ch'ti, ç'ti-chil, ç'ti-lal,</LexieEntiere>
-        <Lexie><SousLexie>l' cheu</SousLexie><SousLexie> ch'ti</SousLexie><SousLexie> ç'ti-chil</SousLexie><SousLexie> ç'ti-lal</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cent</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>chint.</LexieEntiere>
-        <Lexie><SousLexie>chint.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cercueil</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>lusiau.</LexieEntiere>
-        <Lexie><SousLexie>lusiau.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cerfeuil</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>cherfué.</LexieEntiere>
-        <Lexie><SousLexie>cherfué.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cerf-volant</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>dragon.</LexieEntiere>
-        <Lexie><SousLexie>dragon.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>certainement</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adv.</StructureGrammaticale>
-        <LexieEntiere>asseuré.</LexieEntiere>
-        <Lexie><SousLexie>asseuré.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cet</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>ç'n, ç'.</LexieEntiere>
-        <Lexie><SousLexie>ç'n</SousLexie><SousLexie> ç'.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>ceux</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>pr.</StructureGrammaticale>
-        <LexieEntiere>les cheux.</LexieEntiere>
-        <Lexie><SousLexie>les cheux.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>ch-</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
+<TEI>
+        <entry>
+        <form><orth>cabinet</orth><Complément></Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote>(W.C.), s. m. : basse-campe, basse-cam.me.</quote></def>
+        <cit type="translation"><quote>(W.C.)</quote><quote> s. m. : basse-campe</quote><quote> basse-cam.me.</quote></cit>
+      </entry><entry>
+        <form><orth>câble</orth><Complément>(sur un chariot)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>comble, combiau.</quote></def>
+        <cit type="translation"><quote>comble</quote><quote> combiau.</quote></cit>
+      </entry><entry>
+        <form><orth>cabriole</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>cabériole, camberleau, couturmette, cubériau, cuberniau, cul-torgneau, cutourniau, tchupoirier, tombériau, tourmariot, tourmériau...</quote></def>
+        <cit type="translation"><quote>cabériole</quote><quote> camberleau</quote><quote> couturmette</quote><quote> cubériau</quote><quote> cuberniau</quote><quote> cul-torgneau</quote><quote> cutourniau</quote><quote> tchupoirier</quote><quote> tombériau</quote><quote> tourmariot</quote><quote> tourmériau...</quote></cit>
+      </entry><entry>
+        <form><orth>cache-cache</orth><Complément>(jouer à)</Complément></form>
+        <gramGrp><pos>loc. v.</pos></gramGrp>
+        <def><quote>juer au picard, juer à mucher.</quote></def>
+        <cit type="translation"><quote>juer au picard</quote><quote> juer à mucher.</quote></cit>
+      </entry><entry>
+        <form><orth>cacher</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>mucher.</quote></def>
+        <cit type="translation"><quote>mucher.</quote></cit>
+      </entry><entry>
+        <form><orth>cachette</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>muche, muchette, nichette.</quote></def>
+        <cit type="translation"><quote>muche</quote><quote> muchette</quote><quote> nichette.</quote></cit>
+      </entry><entry>
+        <form><orth>cadran</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>gadran.</quote></def>
+        <cit type="translation"><quote>gadran.</quote></cit>
+      </entry><entry>
+        <form><orth>cafard</orth><Complément>(insecte)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>marissiau.</quote></def>
+        <cit type="translation"><quote>marissiau.</quote></cit>
+      </entry><entry>
+        <form><orth>cafard</orth><Complément>(tristesse)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>tine.</quote></def>
+        <cit type="translation"><quote>tine.</quote></cit>
+      </entry><entry>
+        <form><orth>café</orth><Complément>(mauvais)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>armis d'sus, arpassage, chirloute.</quote></def>
+        <cit type="translation"><quote>armis d'sus</quote><quote> arpassage</quote><quote> chirloute.</quote></cit>
+      </entry><entry>
+        <form><orth>cage</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>(à oiseaux) guéiote, guiole ; (à poussins) ravache.</quote></def>
+        <cit type="translation"><quote>(à oiseaux) guéiote</quote><quote> guiole </quote><quote> (à poussins) ravache.</quote></cit>
+      </entry><entry>
+        <form><orth>caille</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>carcaillou.</quote></def>
+        <cit type="translation"><quote>carcaillou.</quote></cit>
+      </entry><entry>
+        <form><orth>caillot</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>gaillet.</quote></def>
+        <cit type="translation"><quote>gaillet.</quote></cit>
+      </entry><entry>
+        <form><orth>caillou</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>caillo, biscaïen, bouquiau.</quote></def>
+        <cit type="translation"><quote>caillo</quote><quote> biscaïen</quote><quote> bouquiau.</quote></cit>
+      </entry><entry>
+        <form><orth>calculer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>carculer.</quote></def>
+        <cit type="translation"><quote>carculer.</quote></cit>
+      </entry><entry>
+        <form><orth>cale</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>abloc, asto.</quote></def>
+        <cit type="translation"><quote>abloc</quote><quote> asto.</quote></cit>
+      </entry><entry>
+        <form><orth>caleçon</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>caneçon, quennesson.</quote></def>
+        <cit type="translation"><quote>caneçon</quote><quote> quennesson.</quote></cit>
+      </entry><entry>
+        <form><orth>caler</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>abloquer, acclaper.</quote></def>
+        <cit type="translation"><quote>abloquer</quote><quote> acclaper.</quote></cit>
+      </entry><entry>
+        <form><orth>califourchon</orth><Complément>(à)</Complément></form>
+        <gramGrp><pos>loc. adv.</pos></gramGrp>
+        <def><quote>à gambes raides, à gambettes.</quote></def>
+        <cit type="translation"><quote>à gambes raides</quote><quote> à gambettes.</quote></cit>
+      </entry><entry>
+        <form><orth>calomnier</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>corner.</quote></def>
+        <cit type="translation"><quote>corner.</quote></cit>
+      </entry><entry>
+        <form><orth>calotte</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>béguin.</quote></def>
+        <cit type="translation"><quote>béguin.</quote></cit>
+      </entry><entry>
+        <form><orth>camarade</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>comarate.</quote></def>
+        <cit type="translation"><quote>comarate.</quote></cit>
+      </entry><entry>
+        <form><orth>cameline</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>cabet.</quote></def>
+        <cit type="translation"><quote>cabet.</quote></cit>
+      </entry><entry>
+        <form><orth>campanule</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>broque, cloquette.</quote></def>
+        <cit type="translation"><quote>broque</quote><quote> cloquette.</quote></cit>
+      </entry><entry>
+        <form><orth>canal d'assèchement</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>traitoire.</quote></def>
+        <cit type="translation"><quote>traitoire.</quote></cit>
+      </entry><entry>
+        <form><orth>canard</orth><Complément>(mâle)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>massou.</quote></def>
+        <cit type="translation"><quote>massou.</quote></cit>
+      </entry><entry>
+        <form><orth>canari</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>canarien.</quote></def>
+        <cit type="translation"><quote>canarien.</quote></cit>
+      </entry><entry>
+        <form><orth>cane</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>anette.</quote></def>
+        <cit type="translation"><quote>anette.</quote></cit>
+      </entry><entry>
+        <form><orth>canne à pêche</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>pèque.</quote></def>
+        <cit type="translation"><quote>pèque.</quote></cit>
+      </entry><entry>
+        <form><orth>canonnier</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>calonnier.</quote></def>
+        <cit type="translation"><quote>calonnier.</quote></cit>
+      </entry><entry>
+        <form><orth>canotier</orth><Complément>(chapeau)</Complément></form>
+        <gramGrp><pos>s.</pos></gramGrp>
+        <def><quote>m . : capiau d' palle.</quote></def>
+        <cit type="translation"><quote>m . : capiau d' palle.</quote></cit>
+      </entry><entry>
+        <form><orth>câpre-capucine</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>mastouche.</quote></def>
+        <cit type="translation"><quote>mastouche.</quote></cit>
+      </entry><entry>
+        <form><orth>caprice</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>quint, zine.</quote></def>
+        <cit type="translation"><quote>quint</quote><quote> zine.</quote></cit>
+      </entry><entry>
+        <form><orth>capselle-bourse-à-pasteur</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>mallette ed berger, séqués-vaques.</quote></def>
+        <cit type="translation"><quote>mallette ed berger</quote><quote> séqués-vaques.</quote></cit>
+      </entry><entry>
+        <form><orth>caque</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>quartélette.</quote></def>
+        <cit type="translation"><quote>quartélette.</quote></cit>
+      </entry><entry>
+        <form><orth>caqueter</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>codacher.</quote></def>
+        <cit type="translation"><quote>codacher.</quote></cit>
+      </entry><entry>
+        <form><orth>cardamine</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>lait burré.</quote></def>
+        <cit type="translation"><quote>lait burré.</quote></cit>
+      </entry><entry>
+        <form><orth>caressant</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>apochineux.</quote></def>
+        <cit type="translation"><quote>apochineux.</quote></cit>
+      </entry><entry>
+        <form><orth>caresser</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>achochoner, apochiner, pochiner.</quote></def>
+        <cit type="translation"><quote>achochoner</quote><quote> apochiner</quote><quote> pochiner.</quote></cit>
+      </entry><entry>
+        <form><orth>carlier</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>charron.</quote></def>
+        <cit type="translation"><quote>charron.</quote></cit>
+      </entry><entry>
+        <form><orth>carnaval</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>carnéval.</quote></def>
+        <cit type="translation"><quote>carnéval.</quote></cit>
+      </entry><entry>
+        <form><orth>caroncule</orth><Complément>(de dindon)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>roupie.</quote></def>
+        <cit type="translation"><quote>roupie.</quote></cit>
+      </entry><entry>
+        <form><orth>cartable</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>carnasse.</quote></def>
+        <cit type="translation"><quote>carnasse.</quote></cit>
+      </entry><entry>
+        <form><orth>cartes</orth><Complément>(distribuer les)</Complément></form>
+        <gramGrp><pos>loc. v.</pos></gramGrp>
+        <def><quote>carter.</quote></def>
+        <cit type="translation"><quote>carter.</quote></cit>
+      </entry><entry>
+        <form><orth>casse-pieds</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>battoire, soïarde.</quote></def>
+        <cit type="translation"><quote>battoire</quote><quote> soïarde.</quote></cit>
+      </entry><entry>
+        <form><orth>casserole</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>bidon, castrole, couet.</quote></def>
+        <cit type="translation"><quote>bidon</quote><quote> castrole</quote><quote> couet.</quote></cit>
+      </entry><entry>
+        <form><orth>cassis</orth><Complément>(groseilles)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>grusielles noirtes.</quote></def>
+        <cit type="translation"><quote>grusielles noirtes.</quote></cit>
+      </entry><entry>
+        <form><orth>cassonade</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>castonaque, castonate.</quote></def>
+        <cit type="translation"><quote>castonaque</quote><quote> castonate.</quote></cit>
+      </entry><entry>
+        <form><orth>castel</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>câtelet.</quote></def>
+        <cit type="translation"><quote>câtelet.</quote></cit>
+      </entry><entry>
+        <form><orth>ce</orth><Complément></Complément></form>
+        <gramGrp><pos>pr.</pos></gramGrp>
+        <def><quote>chu, chou.</quote></def>
+        <cit type="translation"><quote>chu</quote><quote> chou.</quote></cit>
+      </entry><entry>
+        <form><orth>celle</orth><Complément></Complément></form>
+        <gramGrp><pos>pr.</pos></gramGrp>
+        <def><quote>l' cheulle ; celle-ci : ç'telle-chil ; celle-là : ç'telle-lal.</quote></def>
+        <cit type="translation"><quote>l' cheulle </quote><quote> celle-ci : ç'telle-chil </quote><quote> celle-là : ç'telle-lal.</quote></cit>
+      </entry><entry>
+        <form><orth>celui</orth><Complément></Complément></form>
+        <gramGrp><pos>pr.</pos></gramGrp>
+        <def><quote>l' cheu, ch'ti, ç'ti-chil, ç'ti-lal,</quote></def>
+        <cit type="translation"><quote>l' cheu</quote><quote> ch'ti</quote><quote> ç'ti-chil</quote><quote> ç'ti-lal</quote></cit>
+      </entry><entry>
+        <form><orth>cent</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>chint.</quote></def>
+        <cit type="translation"><quote>chint.</quote></cit>
+      </entry><entry>
+        <form><orth>cercueil</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>lusiau.</quote></def>
+        <cit type="translation"><quote>lusiau.</quote></cit>
+      </entry><entry>
+        <form><orth>cerfeuil</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>cherfué.</quote></def>
+        <cit type="translation"><quote>cherfué.</quote></cit>
+      </entry><entry>
+        <form><orth>cerf-volant</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>dragon.</quote></def>
+        <cit type="translation"><quote>dragon.</quote></cit>
+      </entry><entry>
+        <form><orth>certainement</orth><Complément></Complément></form>
+        <gramGrp><pos>adv.</pos></gramGrp>
+        <def><quote>asseuré.</quote></def>
+        <cit type="translation"><quote>asseuré.</quote></cit>
+      </entry><entry>
+        <form><orth>cet</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>ç'n, ç'.</quote></def>
+        <cit type="translation"><quote>ç'n</quote><quote> ç'.</quote></cit>
+      </entry><entry>
+        <form><orth>ceux</orth><Complément></Complément></form>
+        <gramGrp><pos>pr.</pos></gramGrp>
+        <def><quote>les cheux.</quote></def>
+        <cit type="translation"><quote>les cheux.</quote></cit>
+      </entry><entry>
+        <form><orth>ch-</orth><Complément></Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote></quote></def>
         
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chaîne</Entrée>
-        <Complément>(d'attelage)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>traile.</LexieEntiere>
-        <Lexie><SousLexie>traile.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chair</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>char.</LexieEntiere>
-        <Lexie><SousLexie>char.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chaire</Entrée>
-        <Complément>(d'église)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>benniot, cayère-préchoire, préchoir.</LexieEntiere>
-        <Lexie><SousLexie>benniot</SousLexie><SousLexie> cayère-préchoire</SousLexie><SousLexie> préchoir.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chaise</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>cayère ; (de bébé) : cadot.</LexieEntiere>
-        <Lexie><SousLexie>cayère </SousLexie><SousLexie> (de bébé) : cadot.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chaisière</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>chairesse.</LexieEntiere>
-        <Lexie><SousLexie>chairesse.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>châle</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>mouquo.</LexieEntiere>
-        <Lexie><SousLexie>mouquo.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chaleur</Entrée>
-        <Complément>(lourde)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>mat'té.</LexieEntiere>
-        <Lexie><SousLexie>mat'té.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chambre</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>campe, plache.</LexieEntiere>
-        <Lexie><SousLexie>campe</SousLexie><SousLexie> plache.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chandelier</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>candier.</LexieEntiere>
-        <Lexie><SousLexie>candier.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>changer</Entrée>
-        <Complément>(se)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>s'arcanger.</LexieEntiere>
-        <Lexie><SousLexie>s'arcanger.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chanvre</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>quinvre, quim.me.</LexieEntiere>
-        <Lexie><SousLexie>quinvre</SousLexie><SousLexie> quim.me.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chantepleure</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>canpleure.</LexieEntiere>
-        <Lexie><SousLexie>canpleure.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chanteau</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>cantiau.</LexieEntiere>
-        <Lexie><SousLexie>cantiau.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chantier</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere> (support de tonneau) : gantier (voir : batellerie).</LexieEntiere>
-        <Lexie><SousLexie> (support de tonneau) : gantier (voir : batellerie).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chantre</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>clerc.</LexieEntiere>
-        <Lexie><SousLexie>clerc.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chapeau</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>capiau ; ch. melon : boule ; ch. haut-de-forme : buse, capiau-montant ; ch. cronstadt : démibuse.</LexieEntiere>
-        <Lexie><SousLexie>capiau </SousLexie><SousLexie> ch. melon : boule </SousLexie><SousLexie> ch. haut-de-forme : buse</SousLexie><SousLexie> capiau-montant </SousLexie><SousLexie> ch. cronstadt : démibuse.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chapelier</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>caplier (vx).</LexieEntiere>
-        <Lexie><SousLexie>caplier (vx).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>charbon</Entrée>
-        <Complément>(mauvais)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>escaillage.</LexieEntiere>
-        <Lexie><SousLexie>escaillage.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>charcutier</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>crasse-maronne.</LexieEntiere>
-        <Lexie><SousLexie>crasse-maronne.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chardonneret</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>cardonnette, gardinal.</LexieEntiere>
-        <Lexie><SousLexie>cardonnette</SousLexie><SousLexie> gardinal.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>charger</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>carquer, querquer.</LexieEntiere>
-        <Lexie><SousLexie>carquer</SousLexie><SousLexie> querquer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chariot</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>car ; (bas) trainiau, benniot.</LexieEntiere>
-        <Lexie><SousLexie>car </SousLexie><SousLexie> (bas) trainiau</SousLexie><SousLexie> benniot.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>charité</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>caristale.</LexieEntiere>
-        <Lexie><SousLexie>caristale.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>charme</Entrée>
-        <Complément>(arbre)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>carne.</LexieEntiere>
-        <Lexie><SousLexie>carne.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>charpentier</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>carpintier ; (mines) raccommodeux.</LexieEntiere>
-        <Lexie><SousLexie>carpintier </SousLexie><SousLexie> (mines) raccommodeux.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>charretée</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>carrée.</LexieEntiere>
-        <Lexie><SousLexie>carrée.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>charretier</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>baroutier, carton.</LexieEntiere>
-        <Lexie><SousLexie>baroutier</SousLexie><SousLexie> carton.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>charrier</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>barouter, carrier.</LexieEntiere>
-        <Lexie><SousLexie>barouter</SousLexie><SousLexie> carrier.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>charrue</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>querrue, bino, culbutant, jumelle.</LexieEntiere>
-        <Lexie><SousLexie>querrue</SousLexie><SousLexie> bino</SousLexie><SousLexie> culbutant</SousLexie><SousLexie> jumelle.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chasser</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>cacher, incacher.</LexieEntiere>
-        <Lexie><SousLexie>cacher</SousLexie><SousLexie> incacher.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chassie</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>cachives.</LexieEntiere>
-        <Lexie><SousLexie>cachives.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>châssis</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>cassis, ventillet.</LexieEntiere>
-        <Lexie><SousLexie>cassis</SousLexie><SousLexie> ventillet.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>château</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>câtiau.</LexieEntiere>
-        <Lexie><SousLexie>câtiau.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>châton</Entrée>
-        <Complément>(d'arbre)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>biloubin.</LexieEntiere>
-        <Lexie><SousLexie>biloubin.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chatouillements</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m. pl.</StructureGrammaticale>
-        <LexieEntiere>catouris.</LexieEntiere>
-        <Lexie><SousLexie>catouris.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chatouiller</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>catouiller, décatouiller.</LexieEntiere>
-        <Lexie><SousLexie>catouiller</SousLexie><SousLexie> décatouiller.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>châtrer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>bertauder.</LexieEntiere>
-        <Lexie><SousLexie>bertauder.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chaudeau</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>caudiau.</LexieEntiere>
-        <Lexie><SousLexie>caudiau.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chaudronnier</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>cauderlier.</LexieEntiere>
-        <Lexie><SousLexie>cauderlier.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chaufferette</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>couvet.</LexieEntiere>
-        <Lexie><SousLexie>couvet.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chausser</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>caucher.</LexieEntiere>
-        <Lexie><SousLexie>caucher.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chausson</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>cauchon ; (aux pommes) tarteron, tourton.</LexieEntiere>
-        <Lexie><SousLexie>cauchon </SousLexie><SousLexie> (aux pommes) tarteron</SousLexie><SousLexie> tourton.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chaussure</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>cauchure, patoire.</LexieEntiere>
-        <Lexie><SousLexie>cauchure</SousLexie><SousLexie> patoire.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chauve</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>déblaré.</LexieEntiere>
-        <Lexie><SousLexie>déblaré.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chauve-souris</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>cate-soris, caute-s., queux d' s.</LexieEntiere>
-        <Lexie><SousLexie>cate-soris</SousLexie><SousLexie> caute-s.</SousLexie><SousLexie> queux d' s.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chemin</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
+      </entry><entry>
+        <form><orth>chaîne</orth><Complément>(d'attelage)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>traile.</quote></def>
+        <cit type="translation"><quote>traile.</quote></cit>
+      </entry><entry>
+        <form><orth>chair</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>char.</quote></def>
+        <cit type="translation"><quote>char.</quote></cit>
+      </entry><entry>
+        <form><orth>chaire</orth><Complément>(d'église)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>benniot, cayère-préchoire, préchoir.</quote></def>
+        <cit type="translation"><quote>benniot</quote><quote> cayère-préchoire</quote><quote> préchoir.</quote></cit>
+      </entry><entry>
+        <form><orth>chaise</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>cayère ; (de bébé) : cadot.</quote></def>
+        <cit type="translation"><quote>cayère </quote><quote> (de bébé) : cadot.</quote></cit>
+      </entry><entry>
+        <form><orth>chaisière</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>chairesse.</quote></def>
+        <cit type="translation"><quote>chairesse.</quote></cit>
+      </entry><entry>
+        <form><orth>châle</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>mouquo.</quote></def>
+        <cit type="translation"><quote>mouquo.</quote></cit>
+      </entry><entry>
+        <form><orth>chaleur</orth><Complément>(lourde)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>mat'té.</quote></def>
+        <cit type="translation"><quote>mat'té.</quote></cit>
+      </entry><entry>
+        <form><orth>chambre</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>campe, plache.</quote></def>
+        <cit type="translation"><quote>campe</quote><quote> plache.</quote></cit>
+      </entry><entry>
+        <form><orth>chandelier</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>candier.</quote></def>
+        <cit type="translation"><quote>candier.</quote></cit>
+      </entry><entry>
+        <form><orth>changer</orth><Complément>(se)</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>s'arcanger.</quote></def>
+        <cit type="translation"><quote>s'arcanger.</quote></cit>
+      </entry><entry>
+        <form><orth>chanvre</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>quinvre, quim.me.</quote></def>
+        <cit type="translation"><quote>quinvre</quote><quote> quim.me.</quote></cit>
+      </entry><entry>
+        <form><orth>chantepleure</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>canpleure.</quote></def>
+        <cit type="translation"><quote>canpleure.</quote></cit>
+      </entry><entry>
+        <form><orth>chanteau</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>cantiau.</quote></def>
+        <cit type="translation"><quote>cantiau.</quote></cit>
+      </entry><entry>
+        <form><orth>chantier</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote> (support de tonneau) : gantier (voir : batellerie).</quote></def>
+        <cit type="translation"><quote> (support de tonneau) : gantier (voir : batellerie).</quote></cit>
+      </entry><entry>
+        <form><orth>chantre</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>clerc.</quote></def>
+        <cit type="translation"><quote>clerc.</quote></cit>
+      </entry><entry>
+        <form><orth>chapeau</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>capiau ; ch. melon : boule ; ch. haut-de-forme : buse, capiau-montant ; ch. cronstadt : démibuse.</quote></def>
+        <cit type="translation"><quote>capiau </quote><quote> ch. melon : boule </quote><quote> ch. haut-de-forme : buse</quote><quote> capiau-montant </quote><quote> ch. cronstadt : démibuse.</quote></cit>
+      </entry><entry>
+        <form><orth>chapelier</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>caplier (vx).</quote></def>
+        <cit type="translation"><quote>caplier (vx).</quote></cit>
+      </entry><entry>
+        <form><orth>charbon</orth><Complément>(mauvais)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>escaillage.</quote></def>
+        <cit type="translation"><quote>escaillage.</quote></cit>
+      </entry><entry>
+        <form><orth>charcutier</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>crasse-maronne.</quote></def>
+        <cit type="translation"><quote>crasse-maronne.</quote></cit>
+      </entry><entry>
+        <form><orth>chardonneret</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>cardonnette, gardinal.</quote></def>
+        <cit type="translation"><quote>cardonnette</quote><quote> gardinal.</quote></cit>
+      </entry><entry>
+        <form><orth>charger</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>carquer, querquer.</quote></def>
+        <cit type="translation"><quote>carquer</quote><quote> querquer.</quote></cit>
+      </entry><entry>
+        <form><orth>chariot</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>car ; (bas) trainiau, benniot.</quote></def>
+        <cit type="translation"><quote>car </quote><quote> (bas) trainiau</quote><quote> benniot.</quote></cit>
+      </entry><entry>
+        <form><orth>charité</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>caristale.</quote></def>
+        <cit type="translation"><quote>caristale.</quote></cit>
+      </entry><entry>
+        <form><orth>charme</orth><Complément>(arbre)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>carne.</quote></def>
+        <cit type="translation"><quote>carne.</quote></cit>
+      </entry><entry>
+        <form><orth>charpentier</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>carpintier ; (mines) raccommodeux.</quote></def>
+        <cit type="translation"><quote>carpintier </quote><quote> (mines) raccommodeux.</quote></cit>
+      </entry><entry>
+        <form><orth>charretée</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>carrée.</quote></def>
+        <cit type="translation"><quote>carrée.</quote></cit>
+      </entry><entry>
+        <form><orth>charretier</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>baroutier, carton.</quote></def>
+        <cit type="translation"><quote>baroutier</quote><quote> carton.</quote></cit>
+      </entry><entry>
+        <form><orth>charrier</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>barouter, carrier.</quote></def>
+        <cit type="translation"><quote>barouter</quote><quote> carrier.</quote></cit>
+      </entry><entry>
+        <form><orth>charrue</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>querrue, bino, culbutant, jumelle.</quote></def>
+        <cit type="translation"><quote>querrue</quote><quote> bino</quote><quote> culbutant</quote><quote> jumelle.</quote></cit>
+      </entry><entry>
+        <form><orth>chasser</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>cacher, incacher.</quote></def>
+        <cit type="translation"><quote>cacher</quote><quote> incacher.</quote></cit>
+      </entry><entry>
+        <form><orth>chassie</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>cachives.</quote></def>
+        <cit type="translation"><quote>cachives.</quote></cit>
+      </entry><entry>
+        <form><orth>châssis</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>cassis, ventillet.</quote></def>
+        <cit type="translation"><quote>cassis</quote><quote> ventillet.</quote></cit>
+      </entry><entry>
+        <form><orth>château</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>câtiau.</quote></def>
+        <cit type="translation"><quote>câtiau.</quote></cit>
+      </entry><entry>
+        <form><orth>châton</orth><Complément>(d'arbre)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>biloubin.</quote></def>
+        <cit type="translation"><quote>biloubin.</quote></cit>
+      </entry><entry>
+        <form><orth>chatouillements</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m. pl.</pos></gramGrp>
+        <def><quote>catouris.</quote></def>
+        <cit type="translation"><quote>catouris.</quote></cit>
+      </entry><entry>
+        <form><orth>chatouiller</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>catouiller, décatouiller.</quote></def>
+        <cit type="translation"><quote>catouiller</quote><quote> décatouiller.</quote></cit>
+      </entry><entry>
+        <form><orth>châtrer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>bertauder.</quote></def>
+        <cit type="translation"><quote>bertauder.</quote></cit>
+      </entry><entry>
+        <form><orth>chaudeau</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>caudiau.</quote></def>
+        <cit type="translation"><quote>caudiau.</quote></cit>
+      </entry><entry>
+        <form><orth>chaudronnier</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>cauderlier.</quote></def>
+        <cit type="translation"><quote>cauderlier.</quote></cit>
+      </entry><entry>
+        <form><orth>chaufferette</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>couvet.</quote></def>
+        <cit type="translation"><quote>couvet.</quote></cit>
+      </entry><entry>
+        <form><orth>chausser</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>caucher.</quote></def>
+        <cit type="translation"><quote>caucher.</quote></cit>
+      </entry><entry>
+        <form><orth>chausson</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>cauchon ; (aux pommes) tarteron, tourton.</quote></def>
+        <cit type="translation"><quote>cauchon </quote><quote> (aux pommes) tarteron</quote><quote> tourton.</quote></cit>
+      </entry><entry>
+        <form><orth>chaussure</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>cauchure, patoire.</quote></def>
+        <cit type="translation"><quote>cauchure</quote><quote> patoire.</quote></cit>
+      </entry><entry>
+        <form><orth>chauve</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>déblaré.</quote></def>
+        <cit type="translation"><quote>déblaré.</quote></cit>
+      </entry><entry>
+        <form><orth>chauve-souris</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>cate-soris, caute-s., queux d' s.</quote></def>
+        <cit type="translation"><quote>cate-soris</quote><quote> caute-s.</quote><quote> queux d' s.</quote></cit>
+      </entry><entry>
+        <form><orth>chemin</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote></quote></def>
         
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cheminée</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>quéménée ; (conduit, dans la maison) : ballon ; (sur le toit) buhot.</LexieEntiere>
-        <Lexie><SousLexie>quéménée </SousLexie><SousLexie> (conduit</SousLexie><SousLexie> dans la maison) : ballon </SousLexie><SousLexie> (sur le toit) buhot.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chemise</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>culle, quémisse, quémisière.</LexieEntiere>
-        <Lexie><SousLexie>culle</SousLexie><SousLexie> quémisse</SousLexie><SousLexie> quémisière.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chénevis</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>cannebuisse, quennebuisse.</LexieEntiere>
-        <Lexie><SousLexie>cannebuisse</SousLexie><SousLexie> quennebuisse.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chenille</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>olène, ounaine, etc.</LexieEntiere>
-        <Lexie><SousLexie>olène</SousLexie><SousLexie> ounaine</SousLexie><SousLexie> etc.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chénopode</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>maruelle.</LexieEntiere>
-        <Lexie><SousLexie>maruelle.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chercher</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>(quérir) : querre ; (faire des recherches) : cacher, racacher ; (en flairant) souquer.</LexieEntiere>
-        <Lexie><SousLexie>(quérir) : querre </SousLexie><SousLexie> (faire des recherches) : cacher</SousLexie><SousLexie> racacher </SousLexie><SousLexie> (en flairant) souquer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chère</Entrée>
-        <Complément>(bonne)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>guinse.</LexieEntiere>
-        <Lexie><SousLexie>guinse.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cheval</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>quévau, g'vau ; (mauvais) : bedaine, harote ; ch. de bois (voir : manège).</LexieEntiere>
-        <Lexie><SousLexie>quévau</SousLexie><SousLexie> g'vau </SousLexie><SousLexie> (mauvais) : bedaine</SousLexie><SousLexie> harote </SousLexie><SousLexie> ch. de bois (voir : manège).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chevet</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>cavet, quévet.</LexieEntiere>
-        <Lexie><SousLexie>cavet</SousLexie><SousLexie> quévet.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cheveux</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m. pl.</StructureGrammaticale>
-        <LexieEntiere>(péj.) : piennes.</LexieEntiere>
-        <Lexie><SousLexie>(péj.) : piennes.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cheville</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>(en bois) biblot, broque, broquette, quéville.</LexieEntiere>
-        <Lexie><SousLexie>(en bois) biblot</SousLexie><SousLexie> broque</SousLexie><SousLexie> broquette</SousLexie><SousLexie> quéville.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chèvre</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>gate, maguette ; quièvre (vx).</LexieEntiere>
-        <Lexie><SousLexie>gate</SousLexie><SousLexie> maguette </SousLexie><SousLexie> quièvre (vx).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chèvrefeuille</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>chuchot, papalolo.</LexieEntiere>
-        <Lexie><SousLexie>chuchot</SousLexie><SousLexie> papalolo.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chevron</Entrée>
-        <Complément>(charpente)</Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere>comble.</LexieEntiere>
-        <Lexie><SousLexie>comble.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chez</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>prép.</StructureGrammaticale>
-        <LexieEntiere>à l' mon.</LexieEntiere>
-        <Lexie><SousLexie>à l' mon.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chicorée</Entrée>
-        <Complément>(frisée)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>indive.</LexieEntiere>
-        <Lexie><SousLexie>indive.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chicorée</Entrée>
-        <Complément>(infusion)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>cossiau.</LexieEntiere>
-        <Lexie><SousLexie>cossiau.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chien</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>quien, tchien.</LexieEntiere>
-        <Lexie><SousLexie>quien</SousLexie><SousLexie> tchien.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chiendent</Entrée>
-        <Complément>(plante)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>cuelles (pl.)</LexieEntiere>
-        <Lexie><SousLexie>cuelles (pl.)</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chier</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>quier, tchier.</LexieEntiere>
-        <Lexie><SousLexie>quier</SousLexie><SousLexie> tchier.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chiffon</Entrée>
-        <Complément>(à épousseter)</Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere>loque à dépourrer ; (au pl.) fouffes.</LexieEntiere>
-        <Lexie><SousLexie>loque à dépourrer </SousLexie><SousLexie> (au pl.) fouffes.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chiffonner</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>rafrogner, querchir.</LexieEntiere>
-        <Lexie><SousLexie>rafrogner</SousLexie><SousLexie> querchir.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chiffonnier</Entrée>
-        <Complément>(personne)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>fouffetier, marchand d' loques.</LexieEntiere>
-        <Lexie><SousLexie>fouffetier</SousLexie><SousLexie> marchand d' loques.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chirurgien</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>cérusien.</LexieEntiere>
-        <Lexie><SousLexie>cérusien.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>choisir</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>chusir, quésir.</LexieEntiere>
-        <Lexie><SousLexie>chusir</SousLexie><SousLexie> quésir.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chômer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>joquer.</LexieEntiere>
-        <Lexie><SousLexie>joquer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chose</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>cose ; (indéf.) saquoi, séquoi ; (vieille) tiéchon.</LexieEntiere>
-        <Lexie><SousLexie>cose </SousLexie><SousLexie> (indéf.) saquoi</SousLexie><SousLexie> séquoi </SousLexie><SousLexie> (vieille) tiéchon.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chou</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>(fourrager) cavalier, chou d' vaque ; (de Bruxelles) chousprote, chouproute, esprotes.</LexieEntiere>
-        <Lexie><SousLexie>(fourrager) cavalier</SousLexie><SousLexie> chou d' vaque </SousLexie><SousLexie> (de Bruxelles) chousprote</SousLexie><SousLexie> chouproute</SousLexie><SousLexie> esprotes.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>chute</Entrée>
-        <Complément>(de tissu)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>évasure.</LexieEntiere>
-        <Lexie><SousLexie>évasure.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>ciboulette</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>brelle.</LexieEntiere>
-        <Lexie><SousLexie>brelle.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cierge</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>(petit) chiron ; (long) soignie, songnie.</LexieEntiere>
-        <Lexie><SousLexie>(petit) chiron </SousLexie><SousLexie> (long) soignie</SousLexie><SousLexie> songnie.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cime</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>coupette, perroquette.</LexieEntiere>
-        <Lexie><SousLexie>coupette</SousLexie><SousLexie> perroquette.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cimenter</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>chiterner.</LexieEntiere>
-        <Lexie><SousLexie>chiterner.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cimetière</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>âtre (vx), chimintière, gardin grign'dints.</LexieEntiere>
-        <Lexie><SousLexie>âtre (vx)</SousLexie><SousLexie> chimintière</SousLexie><SousLexie> gardin grign'dints.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cinq</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>chinq, chonq.</LexieEntiere>
-        <Lexie><SousLexie>chinq</SousLexie><SousLexie> chonq.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>circée</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere> (plante) : hierbe ed sorcielle.</LexieEntiere>
-        <Lexie><SousLexie> (plante) : hierbe ed sorcielle.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>ciseau</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>cisiau, écisiau.</LexieEntiere>
-        <Lexie><SousLexie>cisiau</SousLexie><SousLexie> écisiau.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>claie</Entrée>
-        <Complément>(à fourrage)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>fourrière.</LexieEntiere>
-        <Lexie><SousLexie>fourrière.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>clapier</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>baraque à lapins, cadolette à lapins, garenne.</LexieEntiere>
-        <Lexie><SousLexie>baraque à lapins</SousLexie><SousLexie> cadolette à lapins</SousLexie><SousLexie> garenne.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>clenche</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>clinche, clinque.</LexieEntiere>
-        <Lexie><SousLexie>clinche</SousLexie><SousLexie> clinque.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cligner</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>clégner.</LexieEntiere>
-        <Lexie><SousLexie>clégner.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>clin d'oeil</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>coin d'oeul.</LexieEntiere>
-        <Lexie><SousLexie>coin d'oeul.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>clôturer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>rintourer.</LexieEntiere>
-        <Lexie><SousLexie>rintourer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>clou</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>clo, dache, dachette.</LexieEntiere>
-        <Lexie><SousLexie>clo</SousLexie><SousLexie> dache</SousLexie><SousLexie> dachette.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>clouer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>cloer.</LexieEntiere>
-        <Lexie><SousLexie>cloer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>coccinelle</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>marie-daine-daine.</LexieEntiere>
-        <Lexie><SousLexie>marie-daine-daine.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cochon</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere> (voir : porc) ; cochon de lait : bédon.</LexieEntiere>
-        <Lexie><SousLexie> (voir : porc) </SousLexie><SousLexie> cochon de lait : bédon.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cochonnet</Entrée>
-        <Complément>(au jeu de boules)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>mouton.</LexieEntiere>
-        <Lexie><SousLexie>mouton.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cocorico</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>coriococo.</LexieEntiere>
-        <Lexie><SousLexie>coriococo.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cocu</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>cous (vx) : wihot (vx).</LexieEntiere>
-        <Lexie><SousLexie>cous (vx) : wihot (vx).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>coffre</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>escrin.</LexieEntiere>
-        <Lexie><SousLexie>escrin.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>coiffer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>rachemer.</LexieEntiere>
-        <Lexie><SousLexie>rachemer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>coin</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>(outil en bois) cougnet ; (en fer) ardi.</LexieEntiere>
-        <Lexie><SousLexie>(outil en bois) cougnet </SousLexie><SousLexie> (en fer) ardi.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>col</Entrée>
-        <Complément>(de chemise)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>gorgère.</LexieEntiere>
-        <Lexie><SousLexie>gorgère.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>colère</Entrée>
-        <Complément>(dire avec)</Complément>
-        <StructureGrammaticale>loc. v.</StructureGrammaticale>
-        <LexieEntiere>déclaquer.</LexieEntiere>
-        <Lexie><SousLexie>déclaquer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>colimaçon</Entrée>
-        <Complément>(en)</Complément>
-        <StructureGrammaticale>loc. adv.</StructureGrammaticale>
-        <LexieEntiere>viroulé.</LexieEntiere>
-        <Lexie><SousLexie>viroulé.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>coller</Entrée>
-        <Complément>(s'y)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere> (à un jeu) : bouter, guiller.</LexieEntiere>
-        <Lexie><SousLexie> (à un jeu) : bouter</SousLexie><SousLexie> guiller.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>collier</Entrée>
-        <Complément>(de cheval)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>goriau ; enlever le collier : dégorler.</LexieEntiere>
-        <Lexie><SousLexie>goriau </SousLexie><SousLexie> enlever le collier : dégorler.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>colombophile</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>coulonneux.</LexieEntiere>
-        <Lexie><SousLexie>coulonneux.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>colporteur</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
+      </entry><entry>
+        <form><orth>cheminée</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>quéménée ; (conduit, dans la maison) : ballon ; (sur le toit) buhot.</quote></def>
+        <cit type="translation"><quote>quéménée </quote><quote> (conduit</quote><quote> dans la maison) : ballon </quote><quote> (sur le toit) buhot.</quote></cit>
+      </entry><entry>
+        <form><orth>chemise</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>culle, quémisse, quémisière.</quote></def>
+        <cit type="translation"><quote>culle</quote><quote> quémisse</quote><quote> quémisière.</quote></cit>
+      </entry><entry>
+        <form><orth>chénevis</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>cannebuisse, quennebuisse.</quote></def>
+        <cit type="translation"><quote>cannebuisse</quote><quote> quennebuisse.</quote></cit>
+      </entry><entry>
+        <form><orth>chenille</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>olène, ounaine, etc.</quote></def>
+        <cit type="translation"><quote>olène</quote><quote> ounaine</quote><quote> etc.</quote></cit>
+      </entry><entry>
+        <form><orth>chénopode</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>maruelle.</quote></def>
+        <cit type="translation"><quote>maruelle.</quote></cit>
+      </entry><entry>
+        <form><orth>chercher</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>(quérir) : querre ; (faire des recherches) : cacher, racacher ; (en flairant) souquer.</quote></def>
+        <cit type="translation"><quote>(quérir) : querre </quote><quote> (faire des recherches) : cacher</quote><quote> racacher </quote><quote> (en flairant) souquer.</quote></cit>
+      </entry><entry>
+        <form><orth>chère</orth><Complément>(bonne)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>guinse.</quote></def>
+        <cit type="translation"><quote>guinse.</quote></cit>
+      </entry><entry>
+        <form><orth>cheval</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>quévau, g'vau ; (mauvais) : bedaine, harote ; ch. de bois (voir : manège).</quote></def>
+        <cit type="translation"><quote>quévau</quote><quote> g'vau </quote><quote> (mauvais) : bedaine</quote><quote> harote </quote><quote> ch. de bois (voir : manège).</quote></cit>
+      </entry><entry>
+        <form><orth>chevet</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>cavet, quévet.</quote></def>
+        <cit type="translation"><quote>cavet</quote><quote> quévet.</quote></cit>
+      </entry><entry>
+        <form><orth>cheveux</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m. pl.</pos></gramGrp>
+        <def><quote>(péj.) : piennes.</quote></def>
+        <cit type="translation"><quote>(péj.) : piennes.</quote></cit>
+      </entry><entry>
+        <form><orth>cheville</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>(en bois) biblot, broque, broquette, quéville.</quote></def>
+        <cit type="translation"><quote>(en bois) biblot</quote><quote> broque</quote><quote> broquette</quote><quote> quéville.</quote></cit>
+      </entry><entry>
+        <form><orth>chèvre</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>gate, maguette ; quièvre (vx).</quote></def>
+        <cit type="translation"><quote>gate</quote><quote> maguette </quote><quote> quièvre (vx).</quote></cit>
+      </entry><entry>
+        <form><orth>chèvrefeuille</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>chuchot, papalolo.</quote></def>
+        <cit type="translation"><quote>chuchot</quote><quote> papalolo.</quote></cit>
+      </entry><entry>
+        <form><orth>chevron</orth><Complément>(charpente)</Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote>comble.</quote></def>
+        <cit type="translation"><quote>comble.</quote></cit>
+      </entry><entry>
+        <form><orth>chez</orth><Complément></Complément></form>
+        <gramGrp><pos>prép.</pos></gramGrp>
+        <def><quote>à l' mon.</quote></def>
+        <cit type="translation"><quote>à l' mon.</quote></cit>
+      </entry><entry>
+        <form><orth>chicorée</orth><Complément>(frisée)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>indive.</quote></def>
+        <cit type="translation"><quote>indive.</quote></cit>
+      </entry><entry>
+        <form><orth>chicorée</orth><Complément>(infusion)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>cossiau.</quote></def>
+        <cit type="translation"><quote>cossiau.</quote></cit>
+      </entry><entry>
+        <form><orth>chien</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>quien, tchien.</quote></def>
+        <cit type="translation"><quote>quien</quote><quote> tchien.</quote></cit>
+      </entry><entry>
+        <form><orth>chiendent</orth><Complément>(plante)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>cuelles (pl.)</quote></def>
+        <cit type="translation"><quote>cuelles (pl.)</quote></cit>
+      </entry><entry>
+        <form><orth>chier</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>quier, tchier.</quote></def>
+        <cit type="translation"><quote>quier</quote><quote> tchier.</quote></cit>
+      </entry><entry>
+        <form><orth>chiffon</orth><Complément>(à épousseter)</Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote>loque à dépourrer ; (au pl.) fouffes.</quote></def>
+        <cit type="translation"><quote>loque à dépourrer </quote><quote> (au pl.) fouffes.</quote></cit>
+      </entry><entry>
+        <form><orth>chiffonner</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>rafrogner, querchir.</quote></def>
+        <cit type="translation"><quote>rafrogner</quote><quote> querchir.</quote></cit>
+      </entry><entry>
+        <form><orth>chiffonnier</orth><Complément>(personne)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>fouffetier, marchand d' loques.</quote></def>
+        <cit type="translation"><quote>fouffetier</quote><quote> marchand d' loques.</quote></cit>
+      </entry><entry>
+        <form><orth>chirurgien</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>cérusien.</quote></def>
+        <cit type="translation"><quote>cérusien.</quote></cit>
+      </entry><entry>
+        <form><orth>choisir</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>chusir, quésir.</quote></def>
+        <cit type="translation"><quote>chusir</quote><quote> quésir.</quote></cit>
+      </entry><entry>
+        <form><orth>chômer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>joquer.</quote></def>
+        <cit type="translation"><quote>joquer.</quote></cit>
+      </entry><entry>
+        <form><orth>chose</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>cose ; (indéf.) saquoi, séquoi ; (vieille) tiéchon.</quote></def>
+        <cit type="translation"><quote>cose </quote><quote> (indéf.) saquoi</quote><quote> séquoi </quote><quote> (vieille) tiéchon.</quote></cit>
+      </entry><entry>
+        <form><orth>chou</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>(fourrager) cavalier, chou d' vaque ; (de Bruxelles) chousprote, chouproute, esprotes.</quote></def>
+        <cit type="translation"><quote>(fourrager) cavalier</quote><quote> chou d' vaque </quote><quote> (de Bruxelles) chousprote</quote><quote> chouproute</quote><quote> esprotes.</quote></cit>
+      </entry><entry>
+        <form><orth>chute</orth><Complément>(de tissu)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>évasure.</quote></def>
+        <cit type="translation"><quote>évasure.</quote></cit>
+      </entry><entry>
+        <form><orth>ciboulette</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>brelle.</quote></def>
+        <cit type="translation"><quote>brelle.</quote></cit>
+      </entry><entry>
+        <form><orth>cierge</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>(petit) chiron ; (long) soignie, songnie.</quote></def>
+        <cit type="translation"><quote>(petit) chiron </quote><quote> (long) soignie</quote><quote> songnie.</quote></cit>
+      </entry><entry>
+        <form><orth>cime</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>coupette, perroquette.</quote></def>
+        <cit type="translation"><quote>coupette</quote><quote> perroquette.</quote></cit>
+      </entry><entry>
+        <form><orth>cimenter</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>chiterner.</quote></def>
+        <cit type="translation"><quote>chiterner.</quote></cit>
+      </entry><entry>
+        <form><orth>cimetière</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>âtre (vx), chimintière, gardin grign'dints.</quote></def>
+        <cit type="translation"><quote>âtre (vx)</quote><quote> chimintière</quote><quote> gardin grign'dints.</quote></cit>
+      </entry><entry>
+        <form><orth>cinq</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>chinq, chonq.</quote></def>
+        <cit type="translation"><quote>chinq</quote><quote> chonq.</quote></cit>
+      </entry><entry>
+        <form><orth>circée</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote> (plante) : hierbe ed sorcielle.</quote></def>
+        <cit type="translation"><quote> (plante) : hierbe ed sorcielle.</quote></cit>
+      </entry><entry>
+        <form><orth>ciseau</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>cisiau, écisiau.</quote></def>
+        <cit type="translation"><quote>cisiau</quote><quote> écisiau.</quote></cit>
+      </entry><entry>
+        <form><orth>claie</orth><Complément>(à fourrage)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>fourrière.</quote></def>
+        <cit type="translation"><quote>fourrière.</quote></cit>
+      </entry><entry>
+        <form><orth>clapier</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>baraque à lapins, cadolette à lapins, garenne.</quote></def>
+        <cit type="translation"><quote>baraque à lapins</quote><quote> cadolette à lapins</quote><quote> garenne.</quote></cit>
+      </entry><entry>
+        <form><orth>clenche</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>clinche, clinque.</quote></def>
+        <cit type="translation"><quote>clinche</quote><quote> clinque.</quote></cit>
+      </entry><entry>
+        <form><orth>cligner</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>clégner.</quote></def>
+        <cit type="translation"><quote>clégner.</quote></cit>
+      </entry><entry>
+        <form><orth>clin d'oeil</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>coin d'oeul.</quote></def>
+        <cit type="translation"><quote>coin d'oeul.</quote></cit>
+      </entry><entry>
+        <form><orth>clôturer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>rintourer.</quote></def>
+        <cit type="translation"><quote>rintourer.</quote></cit>
+      </entry><entry>
+        <form><orth>clou</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>clo, dache, dachette.</quote></def>
+        <cit type="translation"><quote>clo</quote><quote> dache</quote><quote> dachette.</quote></cit>
+      </entry><entry>
+        <form><orth>clouer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>cloer.</quote></def>
+        <cit type="translation"><quote>cloer.</quote></cit>
+      </entry><entry>
+        <form><orth>coccinelle</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>marie-daine-daine.</quote></def>
+        <cit type="translation"><quote>marie-daine-daine.</quote></cit>
+      </entry><entry>
+        <form><orth>cochon</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote> (voir : porc) ; cochon de lait : bédon.</quote></def>
+        <cit type="translation"><quote> (voir : porc) </quote><quote> cochon de lait : bédon.</quote></cit>
+      </entry><entry>
+        <form><orth>cochonnet</orth><Complément>(au jeu de boules)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>mouton.</quote></def>
+        <cit type="translation"><quote>mouton.</quote></cit>
+      </entry><entry>
+        <form><orth>cocorico</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>coriococo.</quote></def>
+        <cit type="translation"><quote>coriococo.</quote></cit>
+      </entry><entry>
+        <form><orth>cocu</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>cous (vx) : wihot (vx).</quote></def>
+        <cit type="translation"><quote>cous (vx) : wihot (vx).</quote></cit>
+      </entry><entry>
+        <form><orth>coffre</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>escrin.</quote></def>
+        <cit type="translation"><quote>escrin.</quote></cit>
+      </entry><entry>
+        <form><orth>coiffer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>rachemer.</quote></def>
+        <cit type="translation"><quote>rachemer.</quote></cit>
+      </entry><entry>
+        <form><orth>coin</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>(outil en bois) cougnet ; (en fer) ardi.</quote></def>
+        <cit type="translation"><quote>(outil en bois) cougnet </quote><quote> (en fer) ardi.</quote></cit>
+      </entry><entry>
+        <form><orth>col</orth><Complément>(de chemise)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>gorgère.</quote></def>
+        <cit type="translation"><quote>gorgère.</quote></cit>
+      </entry><entry>
+        <form><orth>colère</orth><Complément>(dire avec)</Complément></form>
+        <gramGrp><pos>loc. v.</pos></gramGrp>
+        <def><quote>déclaquer.</quote></def>
+        <cit type="translation"><quote>déclaquer.</quote></cit>
+      </entry><entry>
+        <form><orth>colimaçon</orth><Complément>(en)</Complément></form>
+        <gramGrp><pos>loc. adv.</pos></gramGrp>
+        <def><quote>viroulé.</quote></def>
+        <cit type="translation"><quote>viroulé.</quote></cit>
+      </entry><entry>
+        <form><orth>coller</orth><Complément>(s'y)</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote> (à un jeu) : bouter, guiller.</quote></def>
+        <cit type="translation"><quote> (à un jeu) : bouter</quote><quote> guiller.</quote></cit>
+      </entry><entry>
+        <form><orth>collier</orth><Complément>(de cheval)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>goriau ; enlever le collier : dégorler.</quote></def>
+        <cit type="translation"><quote>goriau </quote><quote> enlever le collier : dégorler.</quote></cit>
+      </entry><entry>
+        <form><orth>colombophile</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>coulonneux.</quote></def>
+        <cit type="translation"><quote>coulonneux.</quote></cit>
+      </entry><entry>
+        <form><orth>colporteur</orth><Complément></Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote></quote></def>
         
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>comète</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>étoile à queue.</LexieEntiere>
-        <Lexie><SousLexie>étoile à queue.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>commencement</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>comminchemint, c'minchemint.</LexieEntiere>
-        <Lexie><SousLexie>comminchemint</SousLexie><SousLexie> c'minchemint.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>commencer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>c'mincher.</LexieEntiere>
-        <Lexie><SousLexie>c'mincher.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>comment</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adv.</StructureGrammaticale>
-        <LexieEntiere>commint, qu'minss.</LexieEntiere>
-        <Lexie><SousLexie>commint</SousLexie><SousLexie> qu'minss.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>commissionnaire</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>chauwin, choin (vx).</LexieEntiere>
-        <Lexie><SousLexie>chauwin</SousLexie><SousLexie> choin (vx).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>comparer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>récomparer.</LexieEntiere>
-        <Lexie><SousLexie>récomparer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>compote</Entrée>
-        <Complément>(de pommes)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>tripot.</LexieEntiere>
-        <Lexie><SousLexie>tripot.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>compresse</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>émouillante.</LexieEntiere>
-        <Lexie><SousLexie>émouillante.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>conduire</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>aconduire.</LexieEntiere>
-        <Lexie><SousLexie>aconduire.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>confiance</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere> ; fiate.</LexieEntiere>
-        <Lexie><SousLexie> </SousLexie><SousLexie> fiate.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>confortable</Entrée>
-        <Complément>(rendre)</Complément>
-        <StructureGrammaticale>loc. v.</StructureGrammaticale>
-        <LexieEntiere>acoiter.</LexieEntiere>
-        <Lexie><SousLexie>acoiter.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>confus</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>péneux.</LexieEntiere>
-        <Lexie><SousLexie>péneux.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>confusion</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>imbroulle, infrouillage.</LexieEntiere>
-        <Lexie><SousLexie>imbroulle</SousLexie><SousLexie> infrouillage.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>conseil de révision</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>passage-consel.</LexieEntiere>
-        <Lexie><SousLexie>passage-consel.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>consoler</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>rapurer.</LexieEntiere>
-        <Lexie><SousLexie>rapurer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>constance</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>ténure.</LexieEntiere>
-        <Lexie><SousLexie>ténure.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>constipé</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere> et adj. : cul-cousu.</LexieEntiere>
-        <Lexie><SousLexie> et adj. : cul-cousu.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>consumer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>consommer.</LexieEntiere>
-        <Lexie><SousLexie>consommer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>conte-en-l'air</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>acoute-s'i-pleut.</LexieEntiere>
-        <Lexie><SousLexie>acoute-s'i-pleut.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>content</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>contint, bénache, bénasse, bénaise ; content de soi : gogu, goguelu.</LexieEntiere>
-        <Lexie><SousLexie>contint</SousLexie><SousLexie> bénache</SousLexie><SousLexie> bénasse</SousLexie><SousLexie> bénaise </SousLexie><SousLexie> content de soi : gogu</SousLexie><SousLexie> goguelu.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>contrebandier</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>conterbindier.</LexieEntiere>
-        <Lexie><SousLexie>conterbindier.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>contrecoeur</Entrée>
-        <Complément>(de cheminée)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>murtiau.</LexieEntiere>
-        <Lexie><SousLexie>murtiau.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>contrefait</Entrée>
-        <Complément>(mal bâti)</Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>berquinaud, surjeté.</LexieEntiere>
-        <Lexie><SousLexie>berquinaud</SousLexie><SousLexie> surjeté.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>contremaître</Entrée>
-        <Complément>(mines)</Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere>porion.</LexieEntiere>
-        <Lexie><SousLexie>porion.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>contrepoids</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>conterpods.</LexieEntiere>
-        <Lexie><SousLexie>conterpods.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>contretemps</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>ahoque, algarade, avarie.</LexieEntiere>
-        <Lexie><SousLexie>ahoque</SousLexie><SousLexie> algarade</SousLexie><SousLexie> avarie.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>contusion</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>bourine, machuque.</LexieEntiere>
-        <Lexie><SousLexie>bourine</SousLexie><SousLexie> machuque.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>contusionner</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>machuquer, machurer.</LexieEntiere>
-        <Lexie><SousLexie>machuquer</SousLexie><SousLexie> machurer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>convenir</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>compéter, duire.</LexieEntiere>
-        <Lexie><SousLexie>compéter</SousLexie><SousLexie> duire.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>conversation</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>déviserie ; (sans intérêt) friss'té-frousse.</LexieEntiere>
-        <Lexie><SousLexie>déviserie </SousLexie><SousLexie> (sans intérêt) friss'té-frousse.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>copeau</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>épleumette, équette.</LexieEntiere>
-        <Lexie><SousLexie>épleumette</SousLexie><SousLexie> équette.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>coq</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>cô.</LexieEntiere>
-        <Lexie><SousLexie>cô.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>coquecigrues</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f. pl.</StructureGrammaticale>
-        <LexieEntiere>coquifuches.</LexieEntiere>
-        <Lexie><SousLexie>coquifuches.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>coqueluche</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>quinte-tousse, quinne-tousse.</LexieEntiere>
-        <Lexie><SousLexie>quinte-tousse</SousLexie><SousLexie> quinne-tousse.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>coquille</Entrée>
-        <Complément>(d'oeuf)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>écale.</LexieEntiere>
-        <Lexie><SousLexie>écale.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cor</Entrée>
-        <Complément>(au pied)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>nid d'agache.</LexieEntiere>
-        <Lexie><SousLexie>nid d'agache.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cordon</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>cordiau ; (élastique) : lastique.</LexieEntiere>
-        <Lexie><SousLexie>cordiau </SousLexie><SousLexie> (élastique) : lastique.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>coriace</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>tillache.</LexieEntiere>
-        <Lexie><SousLexie>tillache.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cornouille</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>cornille, cornilio.</LexieEntiere>
-        <Lexie><SousLexie>cornille</SousLexie><SousLexie> cornilio.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>corridor</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>colidor.</LexieEntiere>
-        <Lexie><SousLexie>colidor.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>corroyeur</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>conreur (vx).</LexieEntiere>
-        <Lexie><SousLexie>conreur (vx).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>coude</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>coeude.</LexieEntiere>
-        <Lexie><SousLexie>coeude.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>coudre</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>coeude.</LexieEntiere>
-        <Lexie><SousLexie>coeude.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>coudrier</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>corier.</LexieEntiere>
-        <Lexie><SousLexie>corier.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>couler</Entrée>
-        <Complément>(comme un sirop)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere> ; guiler.</LexieEntiere>
-        <Lexie><SousLexie> </SousLexie><SousLexie> guiler.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>coup</Entrée>
-        <Complément>(ecchymose)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>beurre, borgnon, boursiau, cop, coeup, machuque, magonion, pioque, poque ; coup mortel : estafe ; coup de pied au cul : rinfonchemint.</LexieEntiere>
-        <Lexie><SousLexie>beurre</SousLexie><SousLexie> borgnon</SousLexie><SousLexie> boursiau</SousLexie><SousLexie> cop</SousLexie><SousLexie> coeup</SousLexie><SousLexie> machuque</SousLexie><SousLexie> magonion</SousLexie><SousLexie> pioque</SousLexie><SousLexie> poque </SousLexie><SousLexie> coup mortel : estafe </SousLexie><SousLexie> coup de pied au cul : rinfonchemint.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>couper v</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
+      </entry><entry>
+        <form><orth>comète</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>étoile à queue.</quote></def>
+        <cit type="translation"><quote>étoile à queue.</quote></cit>
+      </entry><entry>
+        <form><orth>commencement</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>comminchemint, c'minchemint.</quote></def>
+        <cit type="translation"><quote>comminchemint</quote><quote> c'minchemint.</quote></cit>
+      </entry><entry>
+        <form><orth>commencer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>c'mincher.</quote></def>
+        <cit type="translation"><quote>c'mincher.</quote></cit>
+      </entry><entry>
+        <form><orth>comment</orth><Complément></Complément></form>
+        <gramGrp><pos>adv.</pos></gramGrp>
+        <def><quote>commint, qu'minss.</quote></def>
+        <cit type="translation"><quote>commint</quote><quote> qu'minss.</quote></cit>
+      </entry><entry>
+        <form><orth>commissionnaire</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>chauwin, choin (vx).</quote></def>
+        <cit type="translation"><quote>chauwin</quote><quote> choin (vx).</quote></cit>
+      </entry><entry>
+        <form><orth>comparer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>récomparer.</quote></def>
+        <cit type="translation"><quote>récomparer.</quote></cit>
+      </entry><entry>
+        <form><orth>compote</orth><Complément>(de pommes)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>tripot.</quote></def>
+        <cit type="translation"><quote>tripot.</quote></cit>
+      </entry><entry>
+        <form><orth>compresse</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>émouillante.</quote></def>
+        <cit type="translation"><quote>émouillante.</quote></cit>
+      </entry><entry>
+        <form><orth>conduire</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>aconduire.</quote></def>
+        <cit type="translation"><quote>aconduire.</quote></cit>
+      </entry><entry>
+        <form><orth>confiance</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote> ; fiate.</quote></def>
+        <cit type="translation"><quote> </quote><quote> fiate.</quote></cit>
+      </entry><entry>
+        <form><orth>confortable</orth><Complément>(rendre)</Complément></form>
+        <gramGrp><pos>loc. v.</pos></gramGrp>
+        <def><quote>acoiter.</quote></def>
+        <cit type="translation"><quote>acoiter.</quote></cit>
+      </entry><entry>
+        <form><orth>confus</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>péneux.</quote></def>
+        <cit type="translation"><quote>péneux.</quote></cit>
+      </entry><entry>
+        <form><orth>confusion</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>imbroulle, infrouillage.</quote></def>
+        <cit type="translation"><quote>imbroulle</quote><quote> infrouillage.</quote></cit>
+      </entry><entry>
+        <form><orth>conseil de révision</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>passage-consel.</quote></def>
+        <cit type="translation"><quote>passage-consel.</quote></cit>
+      </entry><entry>
+        <form><orth>consoler</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>rapurer.</quote></def>
+        <cit type="translation"><quote>rapurer.</quote></cit>
+      </entry><entry>
+        <form><orth>constance</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>ténure.</quote></def>
+        <cit type="translation"><quote>ténure.</quote></cit>
+      </entry><entry>
+        <form><orth>constipé</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote> et adj. : cul-cousu.</quote></def>
+        <cit type="translation"><quote> et adj. : cul-cousu.</quote></cit>
+      </entry><entry>
+        <form><orth>consumer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>consommer.</quote></def>
+        <cit type="translation"><quote>consommer.</quote></cit>
+      </entry><entry>
+        <form><orth>conte-en-l'air</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>acoute-s'i-pleut.</quote></def>
+        <cit type="translation"><quote>acoute-s'i-pleut.</quote></cit>
+      </entry><entry>
+        <form><orth>content</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>contint, bénache, bénasse, bénaise ; content de soi : gogu, goguelu.</quote></def>
+        <cit type="translation"><quote>contint</quote><quote> bénache</quote><quote> bénasse</quote><quote> bénaise </quote><quote> content de soi : gogu</quote><quote> goguelu.</quote></cit>
+      </entry><entry>
+        <form><orth>contrebandier</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>conterbindier.</quote></def>
+        <cit type="translation"><quote>conterbindier.</quote></cit>
+      </entry><entry>
+        <form><orth>contrecoeur</orth><Complément>(de cheminée)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>murtiau.</quote></def>
+        <cit type="translation"><quote>murtiau.</quote></cit>
+      </entry><entry>
+        <form><orth>contrefait</orth><Complément>(mal bâti)</Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>berquinaud, surjeté.</quote></def>
+        <cit type="translation"><quote>berquinaud</quote><quote> surjeté.</quote></cit>
+      </entry><entry>
+        <form><orth>contremaître</orth><Complément>(mines)</Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote>porion.</quote></def>
+        <cit type="translation"><quote>porion.</quote></cit>
+      </entry><entry>
+        <form><orth>contrepoids</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>conterpods.</quote></def>
+        <cit type="translation"><quote>conterpods.</quote></cit>
+      </entry><entry>
+        <form><orth>contretemps</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>ahoque, algarade, avarie.</quote></def>
+        <cit type="translation"><quote>ahoque</quote><quote> algarade</quote><quote> avarie.</quote></cit>
+      </entry><entry>
+        <form><orth>contusion</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>bourine, machuque.</quote></def>
+        <cit type="translation"><quote>bourine</quote><quote> machuque.</quote></cit>
+      </entry><entry>
+        <form><orth>contusionner</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>machuquer, machurer.</quote></def>
+        <cit type="translation"><quote>machuquer</quote><quote> machurer.</quote></cit>
+      </entry><entry>
+        <form><orth>convenir</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>compéter, duire.</quote></def>
+        <cit type="translation"><quote>compéter</quote><quote> duire.</quote></cit>
+      </entry><entry>
+        <form><orth>conversation</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>déviserie ; (sans intérêt) friss'té-frousse.</quote></def>
+        <cit type="translation"><quote>déviserie </quote><quote> (sans intérêt) friss'té-frousse.</quote></cit>
+      </entry><entry>
+        <form><orth>copeau</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>épleumette, équette.</quote></def>
+        <cit type="translation"><quote>épleumette</quote><quote> équette.</quote></cit>
+      </entry><entry>
+        <form><orth>coq</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>cô.</quote></def>
+        <cit type="translation"><quote>cô.</quote></cit>
+      </entry><entry>
+        <form><orth>coquecigrues</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f. pl.</pos></gramGrp>
+        <def><quote>coquifuches.</quote></def>
+        <cit type="translation"><quote>coquifuches.</quote></cit>
+      </entry><entry>
+        <form><orth>coqueluche</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>quinte-tousse, quinne-tousse.</quote></def>
+        <cit type="translation"><quote>quinte-tousse</quote><quote> quinne-tousse.</quote></cit>
+      </entry><entry>
+        <form><orth>coquille</orth><Complément>(d'oeuf)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>écale.</quote></def>
+        <cit type="translation"><quote>écale.</quote></cit>
+      </entry><entry>
+        <form><orth>cor</orth><Complément>(au pied)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>nid d'agache.</quote></def>
+        <cit type="translation"><quote>nid d'agache.</quote></cit>
+      </entry><entry>
+        <form><orth>cordon</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>cordiau ; (élastique) : lastique.</quote></def>
+        <cit type="translation"><quote>cordiau </quote><quote> (élastique) : lastique.</quote></cit>
+      </entry><entry>
+        <form><orth>coriace</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>tillache.</quote></def>
+        <cit type="translation"><quote>tillache.</quote></cit>
+      </entry><entry>
+        <form><orth>cornouille</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>cornille, cornilio.</quote></def>
+        <cit type="translation"><quote>cornille</quote><quote> cornilio.</quote></cit>
+      </entry><entry>
+        <form><orth>corridor</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>colidor.</quote></def>
+        <cit type="translation"><quote>colidor.</quote></cit>
+      </entry><entry>
+        <form><orth>corroyeur</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>conreur (vx).</quote></def>
+        <cit type="translation"><quote>conreur (vx).</quote></cit>
+      </entry><entry>
+        <form><orth>coude</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>coeude.</quote></def>
+        <cit type="translation"><quote>coeude.</quote></cit>
+      </entry><entry>
+        <form><orth>coudre</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>coeude.</quote></def>
+        <cit type="translation"><quote>coeude.</quote></cit>
+      </entry><entry>
+        <form><orth>coudrier</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>corier.</quote></def>
+        <cit type="translation"><quote>corier.</quote></cit>
+      </entry><entry>
+        <form><orth>couler</orth><Complément>(comme un sirop)</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote> ; guiler.</quote></def>
+        <cit type="translation"><quote> </quote><quote> guiler.</quote></cit>
+      </entry><entry>
+        <form><orth>coup</orth><Complément>(ecchymose)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>beurre, borgnon, boursiau, cop, coeup, machuque, magonion, pioque, poque ; coup mortel : estafe ; coup de pied au cul : rinfonchemint.</quote></def>
+        <cit type="translation"><quote>beurre</quote><quote> borgnon</quote><quote> boursiau</quote><quote> cop</quote><quote> coeup</quote><quote> machuque</quote><quote> magonion</quote><quote> pioque</quote><quote> poque </quote><quote> coup mortel : estafe </quote><quote> coup de pied au cul : rinfonchemint.</quote></cit>
+      </entry><entry>
+        <form><orth>couper v</orth><Complément></Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote></quote></def>
         
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>couperosé</Entrée>
-        <Complément>(par le froid)</Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>imbisié.</LexieEntiere>
-        <Lexie><SousLexie>imbisié.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>courage</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>corage.</LexieEntiere>
-        <Lexie><SousLexie>corage.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>courbé</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>crombi, cron.</LexieEntiere>
-        <Lexie><SousLexie>crombi</SousLexie><SousLexie> cron.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>courber</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>courbiner, crombir.</LexieEntiere>
-        <Lexie><SousLexie>courbiner</SousLexie><SousLexie> crombir.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>courir</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>coeurir, corir.</LexieEntiere>
-        <Lexie><SousLexie>coeurir</SousLexie><SousLexie> corir.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>couteau</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>coutiau.</LexieEntiere>
-        <Lexie><SousLexie>coutiau.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>couvercle</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>couvieppe.</LexieEntiere>
-        <Lexie><SousLexie>couvieppe.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>couverture</Entrée>
-        <Complément>(de lit)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>couverte.</LexieEntiere>
-        <Lexie><SousLexie>couverte.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>couvrir</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>acouverre, couverre ; se couvrir (temps) : se marmouser.</LexieEntiere>
-        <Lexie><SousLexie>acouverre</SousLexie><SousLexie> couverre </SousLexie><SousLexie> se couvrir (temps) : se marmouser.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>crachat</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>goyette, morviate, morviette, zuite.</LexieEntiere>
-        <Lexie><SousLexie>goyette</SousLexie><SousLexie> morviate</SousLexie><SousLexie> morviette</SousLexie><SousLexie> zuite.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cracher</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>raquer.</LexieEntiere>
-        <Lexie><SousLexie>raquer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>craie</Entrée>
-        <Complément>(à marquer)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>cra blanc.</LexieEntiere>
-        <Lexie><SousLexie>cra blanc.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>crampe</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>cranque.</LexieEntiere>
-        <Lexie><SousLexie>cranque.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>craque</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>(voir : mensonge).</LexieEntiere>
-        <Lexie><SousLexie>(voir : mensonge).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>crasse</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>crape.</LexieEntiere>
-        <Lexie><SousLexie>crape.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>crasseux</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere> et adj. : crapé, crapeux.</LexieEntiere>
-        <Lexie><SousLexie> et adj. : crapé</SousLexie><SousLexie> crapeux.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>crassier</Entrée>
-        <Complément>(de mine)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>terri.</LexieEntiere>
-        <Lexie><SousLexie>terri.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cravate</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>croate (vx).</LexieEntiere>
-        <Lexie><SousLexie>croate (vx).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>crécelle</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>écalette.</LexieEntiere>
-        <Lexie><SousLexie>écalette.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>crémaillère</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>cramelie.</LexieEntiere>
-        <Lexie><SousLexie>cramelie.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>crème</Entrée>
-        <Complément>(pâtissière)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>lait-bouli, li-bouli, papin.</LexieEntiere>
-        <Lexie><SousLexie>lait-bouli</SousLexie><SousLexie> li-bouli</SousLexie><SousLexie> papin.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>crêpe</Entrée>
-        <Complément>(pâtisserie)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>aliette, couque-baque, raton.</LexieEntiere>
-        <Lexie><SousLexie>aliette</SousLexie><SousLexie> couque-baque</SousLexie><SousLexie> raton.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>crépuscule</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>breune, noir quart d'heure.</LexieEntiere>
-        <Lexie><SousLexie>breune</SousLexie><SousLexie> noir quart d'heure.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cresson</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>quennesson, santé du corps.</LexieEntiere>
-        <Lexie><SousLexie>quennesson</SousLexie><SousLexie> santé du corps.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>crête</Entrée>
-        <Complément>(de terrain)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>frète.</LexieEntiere>
-        <Lexie><SousLexie>frète.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>creuser</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>fougner.</LexieEntiere>
-        <Lexie><SousLexie>fougner.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>creux</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>(de terrain) : rinfond.</LexieEntiere>
-        <Lexie><SousLexie>(de terrain) : rinfond.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>creux</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>(légume) outré.</LexieEntiere>
-        <Lexie><SousLexie>(légume) outré.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>crevasse</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>carnache, quernote.</LexieEntiere>
-        <Lexie><SousLexie>carnache</SousLexie><SousLexie> quernote.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>crevette</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>guernade.</LexieEntiere>
-        <Lexie><SousLexie>guernade.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>crible</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>crule, grible.</LexieEntiere>
-        <Lexie><SousLexie>crule</SousLexie><SousLexie> grible.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>critiquer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>crétiquer, carougner, rénicter.</LexieEntiere>
-        <Lexie><SousLexie>crétiquer</SousLexie><SousLexie> carougner</SousLexie><SousLexie> rénicter.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>croc</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>(outil) hé, hauwé.</LexieEntiere>
-        <Lexie><SousLexie>(outil) hé</SousLexie><SousLexie> hauwé.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>croc-en-jambe</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>gambion.</LexieEntiere>
-        <Lexie><SousLexie>gambion.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>crochet</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>(de faucheur) arcoresse, ercoïéresse, havet ; (de chariot) hardière ; (de puits) cat d' puche, hoc.</LexieEntiere>
-        <Lexie><SousLexie>(de faucheur) arcoresse</SousLexie><SousLexie> ercoïéresse</SousLexie><SousLexie> havet </SousLexie><SousLexie> (de chariot) hardière </SousLexie><SousLexie> (de puits) cat d' puche</SousLexie><SousLexie> hoc.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>croix</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>crox. (Voir : signe).</LexieEntiere>
-        <Lexie><SousLexie>crox. (Voir : signe).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>crosse</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>(pour le jeu du même nom) cambot.</LexieEntiere>
-        <Lexie><SousLexie>(pour le jeu du même nom) cambot.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>crottin</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>brin d' quévau ; truche ou truffe ed quévau.</LexieEntiere>
-        <Lexie><SousLexie>brin d' quévau </SousLexie><SousLexie> truche ou truffe ed quévau.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>croupière</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>crupière.</LexieEntiere>
-        <Lexie><SousLexie>crupière.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>croûton</Entrée>
-        <Complément>(d'un pain)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>coeugnet, cognet.</LexieEntiere>
-        <Lexie><SousLexie>coeugnet</SousLexie><SousLexie> cognet.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cruche</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>crapaud.</LexieEntiere>
-        <Lexie><SousLexie>crapaud.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cueillir</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>cueiller.</LexieEntiere>
-        <Lexie><SousLexie>cueiller.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cuirassier</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere> ; (cavalier) curassier.</LexieEntiere>
-        <Lexie><SousLexie> </SousLexie><SousLexie> (cavalier) curassier.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cuisson</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>cuisage.</LexieEntiere>
-        <Lexie><SousLexie>cuisage.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cuite</Entrée>
-        <Complément>(ivresse)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>pronne, quervaison, zine. (Voir : ivre).</LexieEntiere>
-        <Lexie><SousLexie>pronne</SousLexie><SousLexie> quervaison</SousLexie><SousLexie> zine. (Voir : ivre).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>culbute</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>(voir : cabriole).</LexieEntiere>
-        <Lexie><SousLexie>(voir : cabriole).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>culotte</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>maronne.</LexieEntiere>
-        <Lexie><SousLexie>maronne.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cultures</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere> pl : avêtis.</LexieEntiere>
-        <Lexie><SousLexie> pl : avêtis.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>curieuse</Entrée>
-        <Complément>(femme)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>marluette, merluette.</LexieEntiere>
-        <Lexie><SousLexie>marluette</SousLexie><SousLexie> merluette.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cuve</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>cuffat, cuvielle.</LexieEntiere>
-        <Lexie><SousLexie>cuffat</SousLexie><SousLexie> cuvielle.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>cuvier</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>nef.</LexieEntiere>
-        <Lexie><SousLexie>nef.</SousLexie></Lexie>
-      </ArticleDeDictionnaire>
-      </Nomenclature>
+      </entry><entry>
+        <form><orth>couperosé</orth><Complément>(par le froid)</Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>imbisié.</quote></def>
+        <cit type="translation"><quote>imbisié.</quote></cit>
+      </entry><entry>
+        <form><orth>courage</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>corage.</quote></def>
+        <cit type="translation"><quote>corage.</quote></cit>
+      </entry><entry>
+        <form><orth>courbé</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>crombi, cron.</quote></def>
+        <cit type="translation"><quote>crombi</quote><quote> cron.</quote></cit>
+      </entry><entry>
+        <form><orth>courber</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>courbiner, crombir.</quote></def>
+        <cit type="translation"><quote>courbiner</quote><quote> crombir.</quote></cit>
+      </entry><entry>
+        <form><orth>courir</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>coeurir, corir.</quote></def>
+        <cit type="translation"><quote>coeurir</quote><quote> corir.</quote></cit>
+      </entry><entry>
+        <form><orth>couteau</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>coutiau.</quote></def>
+        <cit type="translation"><quote>coutiau.</quote></cit>
+      </entry><entry>
+        <form><orth>couvercle</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>couvieppe.</quote></def>
+        <cit type="translation"><quote>couvieppe.</quote></cit>
+      </entry><entry>
+        <form><orth>couverture</orth><Complément>(de lit)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>couverte.</quote></def>
+        <cit type="translation"><quote>couverte.</quote></cit>
+      </entry><entry>
+        <form><orth>couvrir</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>acouverre, couverre ; se couvrir (temps) : se marmouser.</quote></def>
+        <cit type="translation"><quote>acouverre</quote><quote> couverre </quote><quote> se couvrir (temps) : se marmouser.</quote></cit>
+      </entry><entry>
+        <form><orth>crachat</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>goyette, morviate, morviette, zuite.</quote></def>
+        <cit type="translation"><quote>goyette</quote><quote> morviate</quote><quote> morviette</quote><quote> zuite.</quote></cit>
+      </entry><entry>
+        <form><orth>cracher</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>raquer.</quote></def>
+        <cit type="translation"><quote>raquer.</quote></cit>
+      </entry><entry>
+        <form><orth>craie</orth><Complément>(à marquer)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>cra blanc.</quote></def>
+        <cit type="translation"><quote>cra blanc.</quote></cit>
+      </entry><entry>
+        <form><orth>crampe</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>cranque.</quote></def>
+        <cit type="translation"><quote>cranque.</quote></cit>
+      </entry><entry>
+        <form><orth>craque</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>(voir : mensonge).</quote></def>
+        <cit type="translation"><quote>(voir : mensonge).</quote></cit>
+      </entry><entry>
+        <form><orth>crasse</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>crape.</quote></def>
+        <cit type="translation"><quote>crape.</quote></cit>
+      </entry><entry>
+        <form><orth>crasseux</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote> et adj. : crapé, crapeux.</quote></def>
+        <cit type="translation"><quote> et adj. : crapé</quote><quote> crapeux.</quote></cit>
+      </entry><entry>
+        <form><orth>crassier</orth><Complément>(de mine)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>terri.</quote></def>
+        <cit type="translation"><quote>terri.</quote></cit>
+      </entry><entry>
+        <form><orth>cravate</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>croate (vx).</quote></def>
+        <cit type="translation"><quote>croate (vx).</quote></cit>
+      </entry><entry>
+        <form><orth>crécelle</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>écalette.</quote></def>
+        <cit type="translation"><quote>écalette.</quote></cit>
+      </entry><entry>
+        <form><orth>crémaillère</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>cramelie.</quote></def>
+        <cit type="translation"><quote>cramelie.</quote></cit>
+      </entry><entry>
+        <form><orth>crème</orth><Complément>(pâtissière)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>lait-bouli, li-bouli, papin.</quote></def>
+        <cit type="translation"><quote>lait-bouli</quote><quote> li-bouli</quote><quote> papin.</quote></cit>
+      </entry><entry>
+        <form><orth>crêpe</orth><Complément>(pâtisserie)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>aliette, couque-baque, raton.</quote></def>
+        <cit type="translation"><quote>aliette</quote><quote> couque-baque</quote><quote> raton.</quote></cit>
+      </entry><entry>
+        <form><orth>crépuscule</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>breune, noir quart d'heure.</quote></def>
+        <cit type="translation"><quote>breune</quote><quote> noir quart d'heure.</quote></cit>
+      </entry><entry>
+        <form><orth>cresson</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>quennesson, santé du corps.</quote></def>
+        <cit type="translation"><quote>quennesson</quote><quote> santé du corps.</quote></cit>
+      </entry><entry>
+        <form><orth>crête</orth><Complément>(de terrain)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>frète.</quote></def>
+        <cit type="translation"><quote>frète.</quote></cit>
+      </entry><entry>
+        <form><orth>creuser</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>fougner.</quote></def>
+        <cit type="translation"><quote>fougner.</quote></cit>
+      </entry><entry>
+        <form><orth>creux</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>(de terrain) : rinfond.</quote></def>
+        <cit type="translation"><quote>(de terrain) : rinfond.</quote></cit>
+      </entry><entry>
+        <form><orth>creux</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>(légume) outré.</quote></def>
+        <cit type="translation"><quote>(légume) outré.</quote></cit>
+      </entry><entry>
+        <form><orth>crevasse</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>carnache, quernote.</quote></def>
+        <cit type="translation"><quote>carnache</quote><quote> quernote.</quote></cit>
+      </entry><entry>
+        <form><orth>crevette</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>guernade.</quote></def>
+        <cit type="translation"><quote>guernade.</quote></cit>
+      </entry><entry>
+        <form><orth>crible</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>crule, grible.</quote></def>
+        <cit type="translation"><quote>crule</quote><quote> grible.</quote></cit>
+      </entry><entry>
+        <form><orth>critiquer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>crétiquer, carougner, rénicter.</quote></def>
+        <cit type="translation"><quote>crétiquer</quote><quote> carougner</quote><quote> rénicter.</quote></cit>
+      </entry><entry>
+        <form><orth>croc</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>(outil) hé, hauwé.</quote></def>
+        <cit type="translation"><quote>(outil) hé</quote><quote> hauwé.</quote></cit>
+      </entry><entry>
+        <form><orth>croc-en-jambe</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>gambion.</quote></def>
+        <cit type="translation"><quote>gambion.</quote></cit>
+      </entry><entry>
+        <form><orth>crochet</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>(de faucheur) arcoresse, ercoïéresse, havet ; (de chariot) hardière ; (de puits) cat d' puche, hoc.</quote></def>
+        <cit type="translation"><quote>(de faucheur) arcoresse</quote><quote> ercoïéresse</quote><quote> havet </quote><quote> (de chariot) hardière </quote><quote> (de puits) cat d' puche</quote><quote> hoc.</quote></cit>
+      </entry><entry>
+        <form><orth>croix</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>crox. (Voir : signe).</quote></def>
+        <cit type="translation"><quote>crox. (Voir : signe).</quote></cit>
+      </entry><entry>
+        <form><orth>crosse</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>(pour le jeu du même nom) cambot.</quote></def>
+        <cit type="translation"><quote>(pour le jeu du même nom) cambot.</quote></cit>
+      </entry><entry>
+        <form><orth>crottin</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>brin d' quévau ; truche ou truffe ed quévau.</quote></def>
+        <cit type="translation"><quote>brin d' quévau </quote><quote> truche ou truffe ed quévau.</quote></cit>
+      </entry><entry>
+        <form><orth>croupière</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>crupière.</quote></def>
+        <cit type="translation"><quote>crupière.</quote></cit>
+      </entry><entry>
+        <form><orth>croûton</orth><Complément>(d'un pain)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>coeugnet, cognet.</quote></def>
+        <cit type="translation"><quote>coeugnet</quote><quote> cognet.</quote></cit>
+      </entry><entry>
+        <form><orth>cruche</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>crapaud.</quote></def>
+        <cit type="translation"><quote>crapaud.</quote></cit>
+      </entry><entry>
+        <form><orth>cueillir</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>cueiller.</quote></def>
+        <cit type="translation"><quote>cueiller.</quote></cit>
+      </entry><entry>
+        <form><orth>cuirassier</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote> ; (cavalier) curassier.</quote></def>
+        <cit type="translation"><quote> </quote><quote> (cavalier) curassier.</quote></cit>
+      </entry><entry>
+        <form><orth>cuisson</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>cuisage.</quote></def>
+        <cit type="translation"><quote>cuisage.</quote></cit>
+      </entry><entry>
+        <form><orth>cuite</orth><Complément>(ivresse)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>pronne, quervaison, zine. (Voir : ivre).</quote></def>
+        <cit type="translation"><quote>pronne</quote><quote> quervaison</quote><quote> zine. (Voir : ivre).</quote></cit>
+      </entry><entry>
+        <form><orth>culbute</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>(voir : cabriole).</quote></def>
+        <cit type="translation"><quote>(voir : cabriole).</quote></cit>
+      </entry><entry>
+        <form><orth>culotte</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>maronne.</quote></def>
+        <cit type="translation"><quote>maronne.</quote></cit>
+      </entry><entry>
+        <form><orth>cultures</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote> pl : avêtis.</quote></def>
+        <cit type="translation"><quote> pl : avêtis.</quote></cit>
+      </entry><entry>
+        <form><orth>curieuse</orth><Complément>(femme)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>marluette, merluette.</quote></def>
+        <cit type="translation"><quote>marluette</quote><quote> merluette.</quote></cit>
+      </entry><entry>
+        <form><orth>cuve</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>cuffat, cuvielle.</quote></def>
+        <cit type="translation"><quote>cuffat</quote><quote> cuvielle.</quote></cit>
+      </entry><entry>
+        <form><orth>cuvier</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>nef.</quote></def>
+        <cit type="translation"><quote>nef.</quote></cit>
+      </entry>
+      </TEI>

@@ -1,376 +1,314 @@
 <?xml version='1.0' encoding='utf-8'?>
-<Nomenclature>
-        <ArticleDeDictionnaire>
-        <Entrée>là-bas</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adv.</StructureGrammaticale>
-        <LexieEntiere>là-vau, doulà, drolà.</LexieEntiere>
-        <Lexie><SousLexie>là-vau</SousLexie><SousLexie> doulà</SousLexie><SousLexie> drolà.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>labour</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>labeur ; (léger) pleumettes ; ranguillage.</LexieEntiere>
-        <Lexie><SousLexie>labeur </SousLexie><SousLexie> (léger) pleumettes </SousLexie><SousLexie> ranguillage.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>labourer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>aroïer, binoquer, ranguiller.</LexieEntiere>
-        <Lexie><SousLexie>aroïer</SousLexie><SousLexie> binoquer</SousLexie><SousLexie> ranguiller.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>lacet</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>(piège) lache ; (de soulier) lachet.</LexieEntiere>
-        <Lexie><SousLexie>(piège) lache </SousLexie><SousLexie> (de soulier) lachet.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>laisser</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>layer.</LexieEntiere>
-        <Lexie><SousLexie>layer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>lait</Entrée>
-        <Complément>(petit)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>sûr.</LexieEntiere>
-        <Lexie><SousLexie>sûr.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>laiteron</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>lacheron.</LexieEntiere>
-        <Lexie><SousLexie>lacheron.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>laitue</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>cabusette, flagelée, gramère ; (d'avant l'hiver) anténoise.</LexieEntiere>
-        <Lexie><SousLexie>cabusette</SousLexie><SousLexie> flagelée</SousLexie><SousLexie> gramère </SousLexie><SousLexie> (d'avant l'hiver) anténoise.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>lambin</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>longin, long-j'y-vas, cul-lourd, torténeux.</LexieEntiere>
-        <Lexie><SousLexie>longin</SousLexie><SousLexie> long-j'y-vas</SousLexie><SousLexie> cul-lourd</SousLexie><SousLexie> torténeux.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>lambiner</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere> ; torténer.</LexieEntiere>
-        <Lexie><SousLexie> </SousLexie><SousLexie> torténer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>lamentations</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f. pl.</StructureGrammaticale>
-        <LexieEntiere>délamintations, gniens-gniens.</LexieEntiere>
-        <Lexie><SousLexie>délamintations</SousLexie><SousLexie> gniens-gniens.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>lamenter</Entrée>
-        <Complément>(se)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>s' déclaminter, s' déglaminter, s' délaminter.</LexieEntiere>
-        <Lexie><SousLexie>s' déclaminter</SousLexie><SousLexie> s' déglaminter</SousLexie><SousLexie> s' délaminter.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>lampe</Entrée>
-        <Complément>(à huile)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>crasset.</LexieEntiere>
-        <Lexie><SousLexie>crasset.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>lancer</Entrée>
-        <Complément>(des projectiles)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>sabouler.</LexieEntiere>
-        <Lexie><SousLexie>sabouler.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>langage</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>parlage.</LexieEntiere>
-        <Lexie><SousLexie>parlage.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>lange</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>drapiau, fache, fasce, fasciau, loque ed cul, pan d'infant, pissiou.</LexieEntiere>
-        <Lexie><SousLexie>drapiau</SousLexie><SousLexie> fache</SousLexie><SousLexie> fasce</SousLexie><SousLexie> fasciau</SousLexie><SousLexie> loque ed cul</SousLexie><SousLexie> pan d'infant</SousLexie><SousLexie> pissiou.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>langer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>amicloter, facher, fascier, mailloter.</LexieEntiere>
-        <Lexie><SousLexie>amicloter</SousLexie><SousLexie> facher</SousLexie><SousLexie> fascier</SousLexie><SousLexie> mailloter.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>langoureux</Entrée>
-        <Complément>(yeux)</Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere>z'yeux gadous.</LexieEntiere>
-        <Lexie><SousLexie>z'yeux gadous.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>lanière</Entrée>
-        <Complément>(de fouet)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>cachoire.</LexieEntiere>
-        <Lexie><SousLexie>cachoire.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>lardoire</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>lardo.</LexieEntiere>
-        <Lexie><SousLexie>lardo.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>larve</Entrée>
-        <Complément>(de mouche)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>molon.</LexieEntiere>
-        <Lexie><SousLexie>molon.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>lavandière</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>buresse.</LexieEntiere>
-        <Lexie><SousLexie>buresse.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>lécher</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>artéquer, pourléquer ; se lécher les babines : s' rapapiller.</LexieEntiere>
-        <Lexie><SousLexie>artéquer</SousLexie><SousLexie> pourléquer </SousLexie><SousLexie> se lécher les babines : s' rapapiller.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>léger</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>régerot (vx).</LexieEntiere>
-        <Lexie><SousLexie>régerot (vx).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>lessive</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>buée ; eau de lessive (voir : eau).</LexieEntiere>
-        <Lexie><SousLexie>buée </SousLexie><SousLexie> eau de lessive (voir : eau).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>lessivé</Entrée>
-        <Complément>(mal)</Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>terche.</LexieEntiere>
-        <Lexie><SousLexie>terche.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>lessiver</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere>buer ; (mal) lavurer.</LexieEntiere>
-        <Lexie><SousLexie>buer </SousLexie><SousLexie> (mal) lavurer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>lessiveuse</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>boulleuse.</LexieEntiere>
-        <Lexie><SousLexie>boulleuse.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>leur</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>pr. pers.</StructureGrammaticale>
-        <LexieEntiere>leu, lieu.</LexieEntiere>
-        <Lexie><SousLexie>leu</SousLexie><SousLexie> lieu.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>leur</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj. pos.</StructureGrammaticale>
-        <LexieEntiere>leu.</LexieEntiere>
-        <Lexie><SousLexie>leu.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>levure</Entrée>
-        <Complément>(de bière)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>gée, get, jét.</LexieEntiere>
-        <Lexie><SousLexie>gée</SousLexie><SousLexie> get</SousLexie><SousLexie> jét.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>libérer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>défremer, desserrer.</LexieEntiere>
-        <Lexie><SousLexie>défremer</SousLexie><SousLexie> desserrer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>lichette</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>léquette.</LexieEntiere>
-        <Lexie><SousLexie>léquette.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>lierre</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>corruées, rampleurs, rampreules.</LexieEntiere>
-        <Lexie><SousLexie>corruées</SousLexie><SousLexie> rampleurs</SousLexie><SousLexie> rampreules.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>ligne</Entrée>
-        <Complément>(de pêcheur)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>lime.</LexieEntiere>
-        <Lexie><SousLexie>lime.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>ligne</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere>(de légumes, au jardin), s. f. : route.</LexieEntiere>
-        <Lexie><SousLexie>(de légumes</SousLexie><SousLexie> au jardin)</SousLexie><SousLexie> s. f. : route.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>limaçon</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>leumechon, lumechon.</LexieEntiere>
-        <Lexie><SousLexie>leumechon</SousLexie><SousLexie> lumechon.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>limite</Entrée>
-        <Complément>(de terre)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>déran, dessoivre, soif, soivre.</LexieEntiere>
-        <Lexie><SousLexie>déran</SousLexie><SousLexie> dessoivre</SousLexie><SousLexie> soif</SousLexie><SousLexie> soivre.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>lin</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>hierbe ed copure, hierbe ed pain d'épices ; graine de lin : linuise.</LexieEntiere>
-        <Lexie><SousLexie>hierbe ed copure</SousLexie><SousLexie> hierbe ed pain d'épices </SousLexie><SousLexie> graine de lin : linuise.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>linceul</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>linchué.</LexieEntiere>
-        <Lexie><SousLexie>linchué.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>linotte</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>gris frion.</LexieEntiere>
-        <Lexie><SousLexie>gris frion.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>liseron</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>corruées, couronne.</LexieEntiere>
-        <Lexie><SousLexie>corruées</SousLexie><SousLexie> couronne.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>lisière</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>(d'un champ) forière ; (d'un bois) masière.</LexieEntiere>
-        <Lexie><SousLexie>(d'un champ) forière </SousLexie><SousLexie> (d'un bois) masière.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>litière</Entrée>
-        <Complément>(faire la)</Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere>réternir.</LexieEntiere>
-        <Lexie><SousLexie>réternir.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>loche</Entrée>
-        <Complément>(poisson)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>guerliche.</LexieEntiere>
-        <Lexie><SousLexie>guerliche.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>long</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
+<TEI>
+        <entry>
+        <form><orth>là-bas</orth><Complément></Complément></form>
+        <gramGrp><pos>adv.</pos></gramGrp>
+        <def><quote>là-vau, doulà, drolà.</quote></def>
+        <cit type="translation"><quote>là-vau</quote><quote> doulà</quote><quote> drolà.</quote></cit>
+      </entry><entry>
+        <form><orth>labour</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>labeur ; (léger) pleumettes ; ranguillage.</quote></def>
+        <cit type="translation"><quote>labeur </quote><quote> (léger) pleumettes </quote><quote> ranguillage.</quote></cit>
+      </entry><entry>
+        <form><orth>labourer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>aroïer, binoquer, ranguiller.</quote></def>
+        <cit type="translation"><quote>aroïer</quote><quote> binoquer</quote><quote> ranguiller.</quote></cit>
+      </entry><entry>
+        <form><orth>lacet</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>(piège) lache ; (de soulier) lachet.</quote></def>
+        <cit type="translation"><quote>(piège) lache </quote><quote> (de soulier) lachet.</quote></cit>
+      </entry><entry>
+        <form><orth>laisser</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>layer.</quote></def>
+        <cit type="translation"><quote>layer.</quote></cit>
+      </entry><entry>
+        <form><orth>lait</orth><Complément>(petit)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>sûr.</quote></def>
+        <cit type="translation"><quote>sûr.</quote></cit>
+      </entry><entry>
+        <form><orth>laiteron</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>lacheron.</quote></def>
+        <cit type="translation"><quote>lacheron.</quote></cit>
+      </entry><entry>
+        <form><orth>laitue</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>cabusette, flagelée, gramère ; (d'avant l'hiver) anténoise.</quote></def>
+        <cit type="translation"><quote>cabusette</quote><quote> flagelée</quote><quote> gramère </quote><quote> (d'avant l'hiver) anténoise.</quote></cit>
+      </entry><entry>
+        <form><orth>lambin</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>longin, long-j'y-vas, cul-lourd, torténeux.</quote></def>
+        <cit type="translation"><quote>longin</quote><quote> long-j'y-vas</quote><quote> cul-lourd</quote><quote> torténeux.</quote></cit>
+      </entry><entry>
+        <form><orth>lambiner</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote> ; torténer.</quote></def>
+        <cit type="translation"><quote> </quote><quote> torténer.</quote></cit>
+      </entry><entry>
+        <form><orth>lamentations</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f. pl.</pos></gramGrp>
+        <def><quote>délamintations, gniens-gniens.</quote></def>
+        <cit type="translation"><quote>délamintations</quote><quote> gniens-gniens.</quote></cit>
+      </entry><entry>
+        <form><orth>lamenter</orth><Complément>(se)</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>s' déclaminter, s' déglaminter, s' délaminter.</quote></def>
+        <cit type="translation"><quote>s' déclaminter</quote><quote> s' déglaminter</quote><quote> s' délaminter.</quote></cit>
+      </entry><entry>
+        <form><orth>lampe</orth><Complément>(à huile)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>crasset.</quote></def>
+        <cit type="translation"><quote>crasset.</quote></cit>
+      </entry><entry>
+        <form><orth>lancer</orth><Complément>(des projectiles)</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>sabouler.</quote></def>
+        <cit type="translation"><quote>sabouler.</quote></cit>
+      </entry><entry>
+        <form><orth>langage</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>parlage.</quote></def>
+        <cit type="translation"><quote>parlage.</quote></cit>
+      </entry><entry>
+        <form><orth>lange</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>drapiau, fache, fasce, fasciau, loque ed cul, pan d'infant, pissiou.</quote></def>
+        <cit type="translation"><quote>drapiau</quote><quote> fache</quote><quote> fasce</quote><quote> fasciau</quote><quote> loque ed cul</quote><quote> pan d'infant</quote><quote> pissiou.</quote></cit>
+      </entry><entry>
+        <form><orth>langer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>amicloter, facher, fascier, mailloter.</quote></def>
+        <cit type="translation"><quote>amicloter</quote><quote> facher</quote><quote> fascier</quote><quote> mailloter.</quote></cit>
+      </entry><entry>
+        <form><orth>langoureux</orth><Complément>(yeux)</Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote>z'yeux gadous.</quote></def>
+        <cit type="translation"><quote>z'yeux gadous.</quote></cit>
+      </entry><entry>
+        <form><orth>lanière</orth><Complément>(de fouet)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>cachoire.</quote></def>
+        <cit type="translation"><quote>cachoire.</quote></cit>
+      </entry><entry>
+        <form><orth>lardoire</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>lardo.</quote></def>
+        <cit type="translation"><quote>lardo.</quote></cit>
+      </entry><entry>
+        <form><orth>larve</orth><Complément>(de mouche)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>molon.</quote></def>
+        <cit type="translation"><quote>molon.</quote></cit>
+      </entry><entry>
+        <form><orth>lavandière</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>buresse.</quote></def>
+        <cit type="translation"><quote>buresse.</quote></cit>
+      </entry><entry>
+        <form><orth>lécher</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>artéquer, pourléquer ; se lécher les babines : s' rapapiller.</quote></def>
+        <cit type="translation"><quote>artéquer</quote><quote> pourléquer </quote><quote> se lécher les babines : s' rapapiller.</quote></cit>
+      </entry><entry>
+        <form><orth>léger</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>régerot (vx).</quote></def>
+        <cit type="translation"><quote>régerot (vx).</quote></cit>
+      </entry><entry>
+        <form><orth>lessive</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>buée ; eau de lessive (voir : eau).</quote></def>
+        <cit type="translation"><quote>buée </quote><quote> eau de lessive (voir : eau).</quote></cit>
+      </entry><entry>
+        <form><orth>lessivé</orth><Complément>(mal)</Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>terche.</quote></def>
+        <cit type="translation"><quote>terche.</quote></cit>
+      </entry><entry>
+        <form><orth>lessiver</orth><Complément></Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote>buer ; (mal) lavurer.</quote></def>
+        <cit type="translation"><quote>buer </quote><quote> (mal) lavurer.</quote></cit>
+      </entry><entry>
+        <form><orth>lessiveuse</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>boulleuse.</quote></def>
+        <cit type="translation"><quote>boulleuse.</quote></cit>
+      </entry><entry>
+        <form><orth>leur</orth><Complément></Complément></form>
+        <gramGrp><pos>pr. pers.</pos></gramGrp>
+        <def><quote>leu, lieu.</quote></def>
+        <cit type="translation"><quote>leu</quote><quote> lieu.</quote></cit>
+      </entry><entry>
+        <form><orth>leur</orth><Complément></Complément></form>
+        <gramGrp><pos>adj. pos.</pos></gramGrp>
+        <def><quote>leu.</quote></def>
+        <cit type="translation"><quote>leu.</quote></cit>
+      </entry><entry>
+        <form><orth>levure</orth><Complément>(de bière)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>gée, get, jét.</quote></def>
+        <cit type="translation"><quote>gée</quote><quote> get</quote><quote> jét.</quote></cit>
+      </entry><entry>
+        <form><orth>libérer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>défremer, desserrer.</quote></def>
+        <cit type="translation"><quote>défremer</quote><quote> desserrer.</quote></cit>
+      </entry><entry>
+        <form><orth>lichette</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>léquette.</quote></def>
+        <cit type="translation"><quote>léquette.</quote></cit>
+      </entry><entry>
+        <form><orth>lierre</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>corruées, rampleurs, rampreules.</quote></def>
+        <cit type="translation"><quote>corruées</quote><quote> rampleurs</quote><quote> rampreules.</quote></cit>
+      </entry><entry>
+        <form><orth>ligne</orth><Complément>(de pêcheur)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>lime.</quote></def>
+        <cit type="translation"><quote>lime.</quote></cit>
+      </entry><entry>
+        <form><orth>ligne</orth><Complément></Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote>(de légumes, au jardin), s. f. : route.</quote></def>
+        <cit type="translation"><quote>(de légumes</quote><quote> au jardin)</quote><quote> s. f. : route.</quote></cit>
+      </entry><entry>
+        <form><orth>limaçon</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>leumechon, lumechon.</quote></def>
+        <cit type="translation"><quote>leumechon</quote><quote> lumechon.</quote></cit>
+      </entry><entry>
+        <form><orth>limite</orth><Complément>(de terre)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>déran, dessoivre, soif, soivre.</quote></def>
+        <cit type="translation"><quote>déran</quote><quote> dessoivre</quote><quote> soif</quote><quote> soivre.</quote></cit>
+      </entry><entry>
+        <form><orth>lin</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>hierbe ed copure, hierbe ed pain d'épices ; graine de lin : linuise.</quote></def>
+        <cit type="translation"><quote>hierbe ed copure</quote><quote> hierbe ed pain d'épices </quote><quote> graine de lin : linuise.</quote></cit>
+      </entry><entry>
+        <form><orth>linceul</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>linchué.</quote></def>
+        <cit type="translation"><quote>linchué.</quote></cit>
+      </entry><entry>
+        <form><orth>linotte</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>gris frion.</quote></def>
+        <cit type="translation"><quote>gris frion.</quote></cit>
+      </entry><entry>
+        <form><orth>liseron</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>corruées, couronne.</quote></def>
+        <cit type="translation"><quote>corruées</quote><quote> couronne.</quote></cit>
+      </entry><entry>
+        <form><orth>lisière</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>(d'un champ) forière ; (d'un bois) masière.</quote></def>
+        <cit type="translation"><quote>(d'un champ) forière </quote><quote> (d'un bois) masière.</quote></cit>
+      </entry><entry>
+        <form><orth>litière</orth><Complément>(faire la)</Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote>réternir.</quote></def>
+        <cit type="translation"><quote>réternir.</quote></cit>
+      </entry><entry>
+        <form><orth>loche</orth><Complément>(poisson)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>guerliche.</quote></def>
+        <cit type="translation"><quote>guerliche.</quote></cit>
+      </entry><entry>
+        <form><orth>long</orth><Complément></Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote></quote></def>
         
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>loqueteux</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere> et adj. : déloqueté.</LexieEntiere>
-        <Lexie><SousLexie> et adj. : déloqueté.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>lorgner</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>lougner.</LexieEntiere>
-        <Lexie><SousLexie>lougner.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>loterie</Entrée>
-        <Complément>(de foire)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>tirlibibi ; tireur de loterie : tirloteux.</LexieEntiere>
-        <Lexie><SousLexie>tirlibibi </SousLexie><SousLexie> tireur de loterie : tirloteux.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>lotte</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>bourbote.</LexieEntiere>
-        <Lexie><SousLexie>bourbote.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>louche à soupe</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>louche-pot.</LexieEntiere>
-        <Lexie><SousLexie>louche-pot.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>loup</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>leu.</LexieEntiere>
-        <Lexie><SousLexie>leu.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>lourd</Entrée>
-        <Complément>(air)</Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>cauf.</LexieEntiere>
-        <Lexie><SousLexie>cauf.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>lourdaud</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>paour.</LexieEntiere>
-        <Lexie><SousLexie>paour.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>lu</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>part. pas.</StructureGrammaticale>
-        <LexieEntiere>li.</LexieEntiere>
-        <Lexie><SousLexie>li.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>lucarne</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>bahotte.</LexieEntiere>
-        <Lexie><SousLexie>bahotte.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>luette</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>aloette, lampas.</LexieEntiere>
-        <Lexie><SousLexie>aloette</SousLexie><SousLexie> lampas.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>lueur</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>erluisance.</LexieEntiere>
-        <Lexie><SousLexie>erluisance.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>lui</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>pr. pers.</StructureGrammaticale>
-        <LexieEntiere>li.</LexieEntiere>
-        <Lexie><SousLexie>li.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>lumignon</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>leumerotte, leumion.</LexieEntiere>
-        <Lexie><SousLexie>leumerotte</SousLexie><SousLexie> leumion.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>lune</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>belle, leune.</LexieEntiere>
-        <Lexie><SousLexie>belle</SousLexie><SousLexie> leune.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>lunette</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>leunette.</LexieEntiere>
-        <Lexie><SousLexie>leunette.</SousLexie></Lexie>
-      </ArticleDeDictionnaire>
-      </Nomenclature>
+      </entry><entry>
+        <form><orth>loqueteux</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote> et adj. : déloqueté.</quote></def>
+        <cit type="translation"><quote> et adj. : déloqueté.</quote></cit>
+      </entry><entry>
+        <form><orth>lorgner</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>lougner.</quote></def>
+        <cit type="translation"><quote>lougner.</quote></cit>
+      </entry><entry>
+        <form><orth>loterie</orth><Complément>(de foire)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>tirlibibi ; tireur de loterie : tirloteux.</quote></def>
+        <cit type="translation"><quote>tirlibibi </quote><quote> tireur de loterie : tirloteux.</quote></cit>
+      </entry><entry>
+        <form><orth>lotte</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>bourbote.</quote></def>
+        <cit type="translation"><quote>bourbote.</quote></cit>
+      </entry><entry>
+        <form><orth>louche à soupe</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>louche-pot.</quote></def>
+        <cit type="translation"><quote>louche-pot.</quote></cit>
+      </entry><entry>
+        <form><orth>loup</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>leu.</quote></def>
+        <cit type="translation"><quote>leu.</quote></cit>
+      </entry><entry>
+        <form><orth>lourd</orth><Complément>(air)</Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>cauf.</quote></def>
+        <cit type="translation"><quote>cauf.</quote></cit>
+      </entry><entry>
+        <form><orth>lourdaud</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>paour.</quote></def>
+        <cit type="translation"><quote>paour.</quote></cit>
+      </entry><entry>
+        <form><orth>lu</orth><Complément></Complément></form>
+        <gramGrp><pos>part. pas.</pos></gramGrp>
+        <def><quote>li.</quote></def>
+        <cit type="translation"><quote>li.</quote></cit>
+      </entry><entry>
+        <form><orth>lucarne</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>bahotte.</quote></def>
+        <cit type="translation"><quote>bahotte.</quote></cit>
+      </entry><entry>
+        <form><orth>luette</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>aloette, lampas.</quote></def>
+        <cit type="translation"><quote>aloette</quote><quote> lampas.</quote></cit>
+      </entry><entry>
+        <form><orth>lueur</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>erluisance.</quote></def>
+        <cit type="translation"><quote>erluisance.</quote></cit>
+      </entry><entry>
+        <form><orth>lui</orth><Complément></Complément></form>
+        <gramGrp><pos>pr. pers.</pos></gramGrp>
+        <def><quote>li.</quote></def>
+        <cit type="translation"><quote>li.</quote></cit>
+      </entry><entry>
+        <form><orth>lumignon</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>leumerotte, leumion.</quote></def>
+        <cit type="translation"><quote>leumerotte</quote><quote> leumion.</quote></cit>
+      </entry><entry>
+        <form><orth>lune</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>belle, leune.</quote></def>
+        <cit type="translation"><quote>belle</quote><quote> leune.</quote></cit>
+      </entry><entry>
+        <form><orth>lunette</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>leunette.</quote></def>
+        <cit type="translation"><quote>leunette.</quote></cit>
+      </entry>
+      </TEI>

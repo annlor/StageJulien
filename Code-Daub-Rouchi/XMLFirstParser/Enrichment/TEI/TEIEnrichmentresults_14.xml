@@ -1,0 +1,2730 @@
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+  <entry>
+    <form>
+      <orth>Nom d'bertèque</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : sobriquet. &quot; Jacques l'Boquion quanja d'baptistère. Un né l'connaissot pus qu'sous l'nom d'bertèque d'Jacques el Cliqué &quot; (BD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>: sobriquet. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Jacques l'Boquion quanja d'baptistère. Un né l'connaissot pus qu'sous l'nom d'bertèque d'Jacques el Cliqué &quot; (BD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Note</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: deux mots de formation pop. récente, adoptés par JM.</quote>
+    </def>
+    <def label="française">
+      <quote>: deux mots de formation pop. récente, adoptés par JM.</quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">récente</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>N'</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        aphérès de en, pr. pers. : &quot; I n' d'à un &quot; = il en a un. &quot; I n' d'y a un &quot; = il y en a un. &quot; El visain', Toutoull' Delpanate / In veyant cha n' d'étot malate &quot; (EM). ANC. : &quot; I n'dia eu toudi d'den no ville (Fl, F, XVIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>aphérès de en, pr. pers. : </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">pers</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; I n' d'à un &quot; = il en a un. </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; I n' d'y a un &quot; = il y en a un. </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; El visain', Toutoull' Delpanate / In veyant cha n' d'étot malate &quot; (EM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : &quot; I n'dia eu toudi d'den no ville (Fl, F, XVIIe).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>N'</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: consonne euphonique. </quote>
+      <quote>
+        1 - entre l'adj. poss. et le nom commençant par une voyelle. &quot; Sûr qui n'a pas vo n' instruction &quot; (JD). &quot; Ch'est leu n' amour qu'on dot invier su tierre &quot; (GF).
+      </quote>
+      <quote>2 - après l'adj. dém. : &quot; A ç' n' heure-chi &quot;. </quote>
+      <quote>
+        3 - dans la construction &quot; i n'y a &quot; (à ne pas confondre avec une négation. &quot; I n'y-a du chuque au bout &quot; = il y a du sucre... ANC. : &quot; Y n'y a boco d' lieu dézonnette &quot; (Fl, F, XVIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>: consonne euphonique. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : &quot; Y n'y a boco d' lieu dézonnette &quot; (Fl, F, XVIIe).
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>1 - entre l'adj. poss. et le nom commençant par une voyelle. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Sûr qui n'a pas vo n' instruction &quot; (JD). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ch'est leu n' amour qu'on dot invier su tierre &quot; (GF).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : &quot; Y n'y a boco d' lieu dézonnette &quot; (Fl, F, XVIIe).
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>2 - après l'adj. dém. : </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">dém</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; A ç' n' heure-chi &quot;. </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : &quot; Y n'y a boco d' lieu dézonnette &quot; (Fl, F, XVIIe).
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>3 - dans la construction </quote>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>à ne pas confondre avec une négation. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; i n'y a &quot; (</quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; I n'y-a du chuque au bout &quot; = il y a du sucre... </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : &quot; Y n'y a boco d' lieu dézonnette &quot; (Fl, F, XVIIe).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>NACTIEUX</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : naquetieux).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : naquetieux).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>NAÏU</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        naïf, ahuri. ANC. : &quot; Quand je penche à chela, je devien so néyu &quot; (Fl, H, 1654) (= sot, naïf).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>naïf, ahuri. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">naïf</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">ahuri</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : &quot; Quand je penche à chela, je devien so néyu &quot; (Fl, H, 1654) (= sot, naïf).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>NANAN</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        NAN.NAN (FAIRE) ; (lang. enf.) : faire dodo. &quot; Fais nanan à mère, / Quand t' dors, t'es si biau ! &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>NAN.NAN (FAIRE) ; (lang. enf.) : faire dodo. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Fais nanan à mère, / Quand t' dors, t'es si biau ! &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>NANGER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        nager. &quot; Ej té défeinds d'eintrer dins l'iau avant qué t' saches nanger ! &quot; (FP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>nager. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">nager</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ej té défeinds d'eintrer dins l'iau avant qué t' saches nanger ! &quot; (FP).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Nangeux</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        nageur. &quot; Les concurrents, binde ed fameux nangeux, / Frétill'nt tout nus comme eun' pêqué' d'anguilles &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>nageur. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">nageur</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Les concurrents, binde ed fameux nangeux, / Frétill'nt tout nus comme eun' pêqué' d'anguilles &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>NAQUE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote> ou f. : </quote>
+      <quote>
+        1 - odorat. &quot; Si ch'est cha t' vinaique ! J'ai quand même del naque ! &quot; (PP).
+      </quote>
+      <quote>2 - réputation. &quot; S'nom n'est point in si bon naque &quot;.</quote>
+    </def>
+    <def label="française">
+      <quote> ou f. : </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>1 - odorat. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Si ch'est cha t' vinaique ! J'ai quand même del naque ! &quot; (PP).
+      </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>2 - réputation. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; S'nom n'est point in si bon naque &quot;.</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Naquer</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        flairer ; chercher en flairant ; se mêler de tout. ANC. : naquer ; flairer (XIIIe), peut-être du lat. pop. nasicare, de nasus (nez). &quot; ... un les vô diminche et fiette /.../ Toudi nacquez à tous cottez &quot; (Fl, F, XVIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>flairer ; chercher en flairant ; se mêler de tout. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">flairer</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : naquer ; flairer (XIIIe), peut-être du lat. pop. nasicare, de nasus (nez). &quot; ... un les vô diminche et fiette /.../ Toudi nacquez à tous cottez &quot; (Fl, F, XVIIe).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Naqu(e)tieux</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        et adj. : qui fait le dégoûté devant la nourriture (qu'il flaire avec suspicion). &quot; Un vieux notaire, un vieux garchon, / Pourtant nactieux pus qué d' raison, / Apprivoisot un jeun' miss'ron = (GF).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        et adj. : qui fait le dégoûté devant la nourriture (qu'il flaire avec suspicion).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Naqu(e)-tout</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>mêle-tout, qui ne trouve rien de bien à ce que les autres font.</quote>
+    </def>
+    <def label="française">
+      <quote>mêle-tout, qui ne trouve rien de bien à ce que les autres font.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">mêle-tout</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>NASE (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>morve.</quote>
+    </def>
+    <def label="française">
+      <quote>morve.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">morve</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Nasieux</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        morveux. ANC. : lat. nasus : nez. Nasillier : se moucher, renifler (Gautier de Coincy, 1220).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>morveux. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">morveux</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : lat. nasus : nez. Nasillier : se moucher, renifler (Gautier de Coincy, 1220).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>NASI</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>fatigué (voir : asi).</quote>
+    </def>
+    <def label="française">
+      <quote>fatigué (voir : asi).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>NASIAU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>naseau.</quote>
+    </def>
+    <def label="française">
+      <quote>naseau.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">naseau</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>NATAUX</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : atal).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : atal).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>NAVIAU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - navet. &quot; S'n armèd', ch'est un cataplasse / Avec des p'lures d' naviau &quot; (JM).
+      </quote>
+      <quote>2 - nez : &quot; Fiévreux jusqu'au</quote>
+    </def>
+    <def label="française">
+      <quote>1 - navet. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; S'n armèd', ch'est un cataplasse / Avec des p'lures d' naviau &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>2 - nez : </quote>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>NÉ</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : nié).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : nié).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>NEF</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        cuvier rond, évasé et plat où l'on savonnait les batistes dans les blanchisseries. ANC. : lat. navis : vaisseau.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        cuvier rond, évasé et plat où l'on savonnait les batistes dans les blanchisseries.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : lat. navis : vaisseau.</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>NEINCHE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        neige (Onnaing). &quot; Dé l' neinche d'sus du brouet, ch'est dé l' gélée dins les tros jours &quot; (GLec).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>neige (Onnaing). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Dé l' neinche d'sus du brouet, ch'est dé l' gélée dins les tros jours &quot; (GLec).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>NEPPE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        nèfle. &quot; Eune tarte à neppes, un plat d' bos d' moules &quot; (AD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>nèfle. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">nèfle</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Eune tarte à neppes, un plat d' bos d' moules &quot; (AD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Neppier</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        néflier. ANC. : nesple (XIIe) du lat. mespila (le n est dû à une dissim.) ; nesplier : néflier (Roman de Renart, 1250).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>néflier. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">néflier</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : nesple (XIIe) du lat. mespila (le n est dû à une dissim.) ; nesplier : néflier (Roman de Renart, 1250).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>NETTIER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - nettoyer. &quot; I les nettchi' (les pigeons), les norrit, les caresse &quot; (JM).
+      </quote>
+      <quote>
+        2 - démolir, éliminer. &quot; Pou l' fin dé ç' l'année chi, y z'aront nettié tous les forts &quot; (JQ). ANC. : neteier : nettoyer (Chrétien de Troyes, 1175), de net.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - nettoyer. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I les nettchi' (les pigeons), les norrit, les caresse &quot; (JM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : neteier : nettoyer (Chrétien de Troyes, 1175), de net.</quote>
+    </etym>
+    <def label="française">
+      <quote>2 - démolir, éliminer. </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">éliminer</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Pou l' fin dé ç' l'année chi, y z'aront nettié tous les forts &quot; (JQ).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : neteier : nettoyer (Chrétien de Troyes, 1175), de net.</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Nettiage</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        nettoyage. &quot; Du grand nettiach' du sam'di, / Les cahut's sont bin r'luisantes &quot; (JM). ANC. : nestiage est attesté en Normandie en 1420.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>nettoyage. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">nettoyage</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Du grand nettiach' du sam'di, / Les cahut's sont bin r'luisantes &quot; (JM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : nestiage est attesté en Normandie en 1420.</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Nettieux</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>nettoyeur.</quote>
+    </def>
+    <def label="française">
+      <quote>nettoyeur.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">nettoyeur</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>NEUACHE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        nuage. &quot; Quaind l' solel pourpraint les neuaches &quot; (GF).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>nuage. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">nuage</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Quaind l' solel pourpraint les neuaches &quot; (GF).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Neuée</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        nuée. &quot; Les bellés neuées i sont in route &quot; (GD) = il fait beau, le temps incite à la promenade.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>nuée. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">nuée</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Les bellés neuées i sont in route &quot; (GD) = il fait beau, le temps incite à la promenade.
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* NEUVAINE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        faire eine neuvaine : faire la fête (à boire) pendant plusieurs jours, sinon neuf. &quot; Il avot arloïé Charlotte / In faisant à s' maison ein' neuvaine ed ribotte &quot; (PB).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        faire eine neuvaine : faire la fête (à boire) pendant plusieurs jours, sinon neuf.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Il avot arloïé Charlotte / In faisant à s' maison ein' neuvaine ed ribotte &quot; (PB).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>NEYER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : noter).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : noter).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>NEZ</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        &quot; I met toudis sin nez dû l' cat qu'i n' vorot pos mett' es' patte &quot; (GL) = il se mêle de tout.
+      </quote>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>NICHE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        blouse de paysan, de hiche (devenu niche par liaison : eune-hiche). &quot; On s'amuse à dépioch'ter s'niche &quot; (AD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        blouse de paysan, de hiche (devenu niche par liaison : eune-hiche).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; On s'amuse à dépioch'ter s'niche &quot; (AD).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>NICHER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        nicher l' poêle (RD) : se blottir au coin du feu. &quot; Quand i fait des frodures parelles, i preind ein life et i niche el poêle &quot;.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>nicher l' poêle (RD) : se blottir au coin du feu. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Quand i fait des frodures parelles, i preind ein life et i niche el poêle &quot;.
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>NICHETTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>1 - cachette. </quote>
+      <quote>
+        2 - nid préparé pour la ponte dans les poulaillers, les colombiers. &quot; In t' dorlote (le pigeon) sitôt l' premier âge, / T' douch' nichett' dins les meilleurs coins &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - cachette. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>
+        2 - nid préparé pour la ponte dans les poulaillers, les colombiers.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; In t' dorlote (le pigeon) sitôt l' premier âge, / T' douch' nichett' dins les meilleurs coins &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Nichot</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        nigeois, s. m. : nid, nichoir. &quot; Alle n'oblie l' nichot à z'uefs &quot; (PP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>nigeois, s. m. : nid, nichoir. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">nichoir</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Alle n'oblie l' nichot à z'uefs &quot; (PP).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>NIC-NAC</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>1 - petits cubes de pâte cuits à même la plaque du poêle. </quote>
+      <quote>
+        2 - minuscule biscuit sec orné d'une goutte de sucre coloré. &quot; Et les nic-nacs in forme d' lettres, / Gâteaux à pein' si gros qu'un dé &quot; (JM) (spécialité belge).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - petits cubes de pâte cuits à même la plaque du poêle. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>2 - minuscule biscuit sec orné d'une goutte de sucre coloré. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Et les nic-nacs in forme d' lettres, / Gâteaux à pein' si gros qu'un dé &quot; (JM) (spécialité belge).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>NIÉ</orth>
+    </form>
+    <gramGrp>
+      <pos>adv.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote> de nég. ; appartient à l'Aves-</quote>
+    </def>
+    <def label="française">
+      <quote> de nég. ; appartient à l'Aves-</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>NIÈCHE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        nièce. &quot; D'puis hier, j' cach' din tous les coins / M' nièche ed Paris &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>nièce. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">nièce</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; D'puis hier, j' cach' din tous les coins / M' nièche ed Paris &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>NIEULE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>1 - hostie non consacrée ; pain à cacheter (GH) ; </quote>
+      <quote>
+        2 - gifle (BD). &quot; Il arot eü, d'sus s' guife, l' pus belle nieule qui n'avot jamais eüe d'sa vie &quot;. ANC. : gâteau de pâte feuilletée. &quot; Ces escueles emplies et rases... de niueles et de obleies &quot; (Chanson de Guillaume, début XIIIe). (Cf. la Fête des Nieulles, à Armentières, au cours de laquelle on jette des biscuits à la foule du haut de l'Hôtel de Ville.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - hostie non consacrée ; pain à cacheter (GH) ; </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : gâteau de pâte feuilletée. &quot; Ces escueles emplies et rases... de niueles et de obleies &quot; (Chanson de Guillaume, début XIIIe). (Cf. la Fête des Nieulles, à Armentières, au cours de laquelle on jette des biscuits à la foule du haut de l'Hôtel de Ville.
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>2 - gifle (BD). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Il arot eü, d'sus s' guife, l' pus belle nieule qui n'avot jamais eüe d'sa vie &quot;.
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : gâteau de pâte feuilletée. &quot; Ces escueles emplies et rases... de niueles et de obleies &quot; (Chanson de Guillaume, début XIIIe). (Cf. la Fête des Nieulles, à Armentières, au cours de laquelle on jette des biscuits à la foule du haut de l'Hôtel de Ville.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>NIFIOU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - morveux, qui a une niflette. &quot; J'ai essayé d'espliquer qu'ein patois, ein nifiou ch' est ein qui avot toudi l' niflette &quot; (RD).
+      </quote>
+      <quote>
+        2 - vaurien, homme peu sympathique (voir : bafiou). &quot; Ah ! l' grand nifiou ! Ah ! l' grand salaud ! &quot; (GF).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - morveux, qui a une niflette. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J'ai essayé d'espliquer qu'ein patois, ein nifiou ch' est ein qui avot toudi l' niflette &quot; (RD).
+      </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>2 - vaurien, homme peu sympathique (voir : bafiou). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ah ! l' grand nifiou ! Ah ! l' grand salaud ! &quot; (GF).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Niflette</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        morve (humeur nasale). &quot; Non, jé n' brais point, j'arnif', ch'est parc' qué j'ai l'niflette &quot; (RP). ANC. : nifler, d'orig. onomat. (Saint Grégoire, fin XIIe). A donné le fr. renifler en 1530.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>morve (humeur nasale). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Non, jé n' brais point, j'arnif', ch'est parc' qué j'ai l'niflette &quot; (RP).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : nifler, d'orig. onomat. (Saint Grégoire, fin XIIe). A donné le fr. renifler en 1530.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>NIN</orth>
+    </form>
+    <gramGrp>
+      <pos>adv.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>1 - non (GT). &quot; Nin, n' fais pas cha ! &quot; </quote>
+      <quote>
+        2 - pas, particule nég. de renforcement (chez GF : contamination due à ses attaches sambriennes). &quot; Jou qu' té cros qu' nous n' d'allons nin juer ? &quot;
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - non (GT). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Nin, n' fais pas cha ! &quot; </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>
+        2 - pas, particule nég. de renforcement (chez GF : contamination due à ses attaches sambriennes).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Jou qu' té cros qu' nous n' d'allons nin juer ? &quot;</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>NINETTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        petite fille. &quot; Dodo, Ninette, / Racachez Babette. / Babette all' n'est point ichi, / Alle est d'allée à no courtil / Ramasser des poms pourris. Pou tièce ? / Ch'est pou l'infant qui dort ichi &quot; (vieille berceuse).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>petite fille. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">petite fille</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Dodo, Ninette, / Racachez Babette. / Babette all' n'est point ichi, / Alle est d'allée à no courtil / Ramasser des poms pourris. Pou tièce ? / Ch'est pou l'infant qui dort ichi &quot; (vieille berceuse).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>NINOCHE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote> et adj. : </quote>
+      <quote>
+        1 - innocent, simple d'esprit (un-innochint). &quot; Ton père avait raison de dire que tu ne serais jamais qu'un ninoche &quot; (CD). &quot; All' les brissaute, in vraie ninoche &quot; (PB).
+      </quote>
+      <quote>
+        2 - petit enfant. &quot; Forche ed li in dire, / L'tiot ninoch' s'indort &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote> et adj. : </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>1 - innocent, simple d'esprit (un-innochint). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ton père avait raison de dire que tu ne serais jamais qu'un ninoche &quot; (CD).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; All' les brissaute, in vraie ninoche &quot; (PB). </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>2 - petit enfant. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Forche ed li in dire, / L'tiot ninoch' s'indort &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>NIOCHE (EUNE) (GL)</orth>
+    </form>
+    <gramGrp>
+      <pos>adv.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        un peu. &quot; Viens ! nos allons aller chi eun' nioche pus lon &quot; (Cambrésien).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>un peu. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">un peu</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Viens ! nos allons aller chi eun' nioche pus lon &quot; (Cambrésien).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>NIQUET</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        petit somme, sieste. &quot; S' femm' n'a qué l' temps d' rascoute s' pipe / Qu'i laissot kaire in f'sant s' niquet &quot; (JM). &quot; Quand j'arai diné, j'vas faire un tiot niqué &quot; (RD). ANC. : Faire le niquet : s'assoupir (God.), de niquier (Charles le Chauve, 1330) : remuer la tête. (Cf. all. nicken ; incliner la tête ; Nickerchen : petit somme).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>petit somme, sieste. </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">sieste</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; S' femm' n'a qué l' temps d' rascoute s' pipe / Qu'i laissot kaire in f'sant s' niquet &quot; (JM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Quand j'arai diné, j'vas faire un tiot niqué &quot; (RD).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : Faire le niquet : s'assoupir (God.), de niquier (Charles le Chauve, 1330) : remuer la tête. (Cf. all. nicken ; incliner la tête ; Nickerchen : petit somme).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>NITÉE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - nichée. &quot; Les blés d'alentour mûrs avant que la nitée / Se trouvât assez forte encore &quot; (La Fontaine, qui était un Picard du Sud). &quot; Neuf cent mille bébés lum'chons ! Ma mèr', vous parlez d'ein nitée ! &quot; (EM).
+      </quote>
+      <quote>2 - enfants</quote>
+    </def>
+    <def label="française">
+      <quote>1 - nichée. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Les blés d'alentour mûrs avant que la nitée / Se trouvât assez forte encore &quot; (La Fontaine, qui était un Picard du Sud).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Neuf cent mille bébés lum'chons ! Ma mèr', vous parlez d'ein nitée ! &quot; (EM).
+      </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>2 - enfants</quote>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>NIV(E)LEUX</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>géomètre du fond (mines).</quote>
+    </def>
+    <def label="française">
+      <quote>géomètre du fond (mines).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>NIX</orth>
+    </form>
+    <gramGrp>
+      <pos>adv. nég.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        non. ANC. : de l'all, nicht, nichts. Ce n'est pas un apport de l'occupation de 14-18, puisque attesté par GH (
+      </quote>
+    </def>
+    <def label="française">
+      <quote>non. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">non</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : de l'all, nicht, nichts. Ce n'est pas un apport de l'occupation de 14-18, puisque attesté par GH (
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>NO</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        NOU, adj. poss. : notre, nos. &quot; I s' lass'rotent d' no nourriture, / D' no bière et d' no vin trafiqués &quot; (PB). &quot; A brair', nou temps est perdu &quot; (JQ).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>NOU, adj. poss. : notre, nos. </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">adj</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">nos</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I s' lass'rotent d' no nourriture, / D' no bière et d' no vin trafiqués &quot; (PB).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; A brair', nou temps est perdu &quot; (JQ).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>NOBEL</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : gueux).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : gueux).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>NOB(L)E-ÉPÈNE (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>épine-vinette.</quote>
+    </def>
+    <def label="française">
+      <quote>épine-vinette.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">épine-vinette</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>NOCHÈRE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>1 - gouttière (de toit). Un cat d' nochère, </quote>
+      <quote>
+        2 - gouttière (chirurgicale). &quot; (Le Maréchal Villars) a toudis continué la guerre / S' gamb' mailloté' dins eun' nochère &quot; (JM).
+      </quote>
+      <quote>
+        3 - tuyau de descente d'eau pluviale ; par extension : tout tuyau. &quot; L' tirloteux cri' dins s' nochère (= porte-voix) / V'là l' gros lot ! &quot; (JM). ANC. : noc : conduite d'eau (1220) ; noche (1339), nockierete (1323) : gouttière.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - gouttière (de toit). Un cat d' nochère, </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : noc : conduite d'eau (1220) ; noche (1339), nockierete (1323) : gouttière.
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>2 - gouttière (chirurgicale). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : noc : conduite d'eau (1220) ; noche (1339), nockierete (1323) : gouttière.
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>
+        3 - tuyau de descente d'eau pluviale ; par extension : tout tuyau.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; L' tirloteux cri' dins s' nochère (= porte-voix) / V'là l' gros lot ! &quot; (JM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : noc : conduite d'eau (1220) ; noche (1339), nockierete (1323) : gouttière.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>NOÉ</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        Noël. Blanc Noë, vertés Pâques (PP). Vert Noë, blanqués Pâques (GLec) = Noël au balcon, Pâques aux tisons (ou l'inverse). &quot; Dins l' temps, ch'tot un p'tit Jésus in chuque qu'in donnot à Noé &quot; (PP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        Noël. Blanc Noë, vertés Pâques (PP). Vert Noë, blanqués Pâques (GLec) = Noël au balcon, Pâques aux tisons (ou l'inverse).
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">Noël</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Dins l' temps, ch'tot un p'tit Jésus in chuque qu'in donnot à Noé &quot; (PP).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>NOEUD</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        V'là l' noeud, dit l' soïeux = voilà la difficulté. &quot; Mi, j' veux bin morir, mais, v'là l' noeud, dit l' soyeux, ej' veux pas m'ein aperchevoir &quot; (FP). Noeud d' panche : gras double.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>V'là l' noeud, dit l' soïeux = voilà la difficulté. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Noeud d' panche : gras double.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Mi, j' veux bin morir, mais, v'là l' noeud, dit l' soyeux, ej' veux pas m'ein aperchevoir &quot; (FP).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>NOÏER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        NEYER, v. : noyer. &quot; A chaqu' fos qu'in sort dé s' baraqu', / In s'artrouve à motié noïé &quot; (PM). &quot; Afin d' néyer ses peines &quot; (GF). ANC. : nier, neier, noier (Herman de Val., Xe). &quot; Il cuida neier en la mer &quot; (Florimont, XIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>NEYER, v. : noyer. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; A chaqu' fos qu'in sort dé s' baraqu', / In s'artrouve à motié noïé &quot; (PM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Afin d' néyer ses peines &quot; (GF). </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : nier, neier, noier (Herman de Val., Xe). &quot; Il cuida neier en la mer &quot; (Florimont, XIIe).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>NOIRCHIR</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        noircir. &quot; In n'est noirchi qu' par un noir pot &quot; = on n'est calomnié que par de mauvaises gens.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>noircir. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">noircir</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; In n'est noirchi qu' par un noir pot &quot; = on n'est calomnié que par de mauvaises gens.
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Noirchure</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        obscurité. &quot; On a d'jà oblié l' noirchure / Des sombers jours &quot; (GF).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>obscurité. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">obscurité</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; On a d'jà oblié l' noirchure / Des sombers jours &quot; (GF).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Noir(e)-femme</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>bourdaine (arbrisseau).</quote>
+    </def>
+    <def label="française">
+      <quote>bourdaine (arbrisseau).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Noirette</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>1 - femme brune (de cheveux ou de peau). </quote>
+      <quote>2 - vache au pelage plus noir que blanc.</quote>
+    </def>
+    <def label="française">
+      <quote>1 - femme brune (de cheveux ou de peau). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>2 - vache au pelage plus noir que blanc.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Noirglache</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        , noirglas, s. m., noirte-glache, s. f. : verglas : &quot; All' risqu' dé' s' révernir in glichant d'sus l' noirglas &quot; (JM). &quot; Il est foutu pou pissier du noirglache dins l' canicule &quot; (GH) = c'est un homme très froid.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>, noirglas, s. m., noirte-glache, s. f. : verglas : </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; All' risqu' dé' s' révernir in glichant d'sus l' noirglas &quot; (JM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Il est foutu pou pissier du noirglache dins l' canicule &quot; (GH) = c'est un homme très froid.
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Noiroux</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        noiraud ; nègre. &quot; Ces artiss's ont donné des saquois dign's d'un prince / Au noiroux d' carbonnier &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>noiraud ; nègre. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">noiraud</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">nègre</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ces artiss's ont donné des saquois dign's d'un prince / Au noiroux d' carbonnier &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Noir quart d'heure</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: crépuscule, moment entre chien et loup, où l'on reste, dans la</quote>
+    </def>
+    <def label="française">
+      <quote>: crépuscule, moment entre chien et loup, où l'on reste, dans la</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Noir-z'yeux</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m. sing.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>femme aux yeux noirs et effrontés (péj.).</quote>
+    </def>
+    <def label="française">
+      <quote>femme aux yeux noirs et effrontés (péj.).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Noirte</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>, fém. de noir (voir : glaine).</quote>
+    </def>
+    <def label="française">
+      <quote>, fém. de noir (voir : glaine).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Noirté</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        obscurité, nuit. &quot; Si vieux qu'all' sé perd dins l' noirté des temps &quot; (EM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>obscurité, nuit. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">obscurité</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">nuit</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Si vieux qu'all' sé perd dins l' noirté des temps &quot; (EM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>NOISEUX (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>querelleur. ANC. : noise : querelle.</quote>
+    </def>
+    <def label="française">
+      <quote>querelleur. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">querelleur</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : noise : querelle.</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>NOM</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        élément de plusieurs jurons. Vingt noms ! nom dé cul ! Plus fréquent : Nom dé Zo ! (attesté chez JQ, FP, EM, JM, RPL, PM, etc., avec diverses graphies). &quot; Sapré nom dé zo d' blanc bonnet / Té n' vas pas d'jà t' mett' in foufielle ! &quot; (PM). L'orig. doit être : Nom des os ! (du Christ). Autres jurons courants : Nom dé nom ! ou, avec une déform. du mot Dieu : Nom dé Diu ! de Diou ! dé Dious' !
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        élément de plusieurs jurons. Vingt noms ! nom dé cul ! Plus fréquent : Nom dé Zo ! (attesté chez JQ, FP, EM, JM, RPL, PM, etc., avec diverses graphies).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        L'orig. doit être : Nom des os ! (du Christ). Autres jurons courants : Nom dé nom ! ou, avec une déform. du mot Dieu : Nom dé Diu ! de Diou ! dé Dious' !
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Sapré nom dé zo d' blanc bonnet / Té n' vas pas d'jà t' mett' in foufielle ! &quot; (PM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Nom j'té</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : sobriquet. &quot; Hinri du Pêqueux, cha tot in nom j'té pasque i étot toudis à l'pêque &quot; (ALec).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>: sobriquet. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Hinri du Pêqueux, cha tot in nom j'té pasque i étot toudis à l'pêque &quot; (ALec).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Nom du père</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : signe de la croix. &quot; Et sans mêm' preinte l' temps d' faire un pauf' Nom du Père &quot; (PB).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>: signe de la croix. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Et sans mêm' preinte l' temps d' faire un pauf' Nom du Père &quot; (PB).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>NON</orth>
+    </form>
+    <gramGrp>
+      <pos>adv.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        de nég. Bé non non ! (graphies : bé nin nin !, bé nan nan !) = mais non ! &quot; T'as pinsé à l' fair' ? Bé nan nan ! &quot; (RP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        de nég. Bé non non ! (graphies : bé nin nin !, bé nan nan !) = mais non !
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; T'as pinsé à l' fair' ? Bé nan nan ! &quot; (RP).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Non fait</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        = mais non (opp. à si fait = mais oui). &quot; Nous irons demander la caristade - Non fait ! C'est un vilain métier que de faire aboyer les chiens de ferme &quot; (CD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>= mais non (opp. à si fait = mais oui). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Nous irons demander la caristade - Non fait ! C'est un vilain métier que de faire aboyer les chiens de ferme &quot; (CD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>NONANTE</orth>
+    </form>
+    <gramGrp>
+      <pos>adj. num.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>quatre-vingt-dix. (Voir : gram.).</quote>
+    </def>
+    <def label="française">
+      <quote>quatre-vingt-dix. (Voir : gram.).</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">quatre-vingt-dix</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>NONOTTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        menotte, petite main (lang. enf.). &quot; Ç' chérubin du bon Dieu, / In fermant ses nonottes, / Prind du r'pos tant qui peut &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>menotte, petite main (lang. enf.). </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">menotte</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ç' chérubin du bon Dieu, / In fermant ses nonottes, / Prind du r'pos tant qui peut &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>NONUCHES</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f. pl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        babioles, choses sans importance. &quot; Qu'est-ç' t'as là ? - Ch'est des nonuches, du brin (ou : des machins) qu'in chuche &quot; (réponse à un curieux). Chez RD, nonuche, adj. = douillet. &quot; Mais qu' ch'est nonuche, les hommes ! &quot; (Voir : nunu).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>babioles, choses sans importance. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">babioles</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Chez RD, nonuche, adj. = douillet. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">adj</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">douillet</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Qu'est-ç' t'as là ? - Ch'est des nonuches, du brin (ou : des machins) qu'in chuche &quot; (réponse à un curieux).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Mais qu' ch'est nonuche, les hommes ! &quot; (Voir : nunu).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>NORRIR</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        nourrir. &quot; Tâcher d' gangner leu's croutes / Pou norrir tous ches tiots &quot; (GF). ANC. : norir (Vie de St Léger, Xe) du lat. nutrire.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>nourrir. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">nourrir</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Tâcher d' gangner leu's croutes / Pou norrir tous ches tiots &quot; (GF).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : norir (Vie de St Léger, Xe) du lat. nutrire.</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Norre (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>s f. : vache qui nourrit son veau.</quote>
+    </def>
+    <def label="française">
+      <quote>s f. : vache qui nourrit son veau.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Nor(re)tier</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        éleveur de bétail. Patronyme : écrit Nortier. ANC. : norrecier : celui qui élève un enfant : éleveur de bétail, de moutons en part. (Dialogue de St Grégoire, XIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>éleveur de bétail. Patronyme : écrit Nortier. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : norrecier : celui qui élève un enfant : éleveur de bétail, de moutons en part. (Dialogue de St Grégoire, XIIe).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Norriture</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        nourriture. &quot; Un baudet qui fait à s' tiête, ch'est l' démotié d' ses norritures &quot; dit-on des personnes têtues. ANC. : norreture (Lois de Guillaume le
+      </quote>
+    </def>
+    <def label="française">
+      <quote>nourriture. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">nourriture</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Un baudet qui fait à s' tiête, ch'est l' démotié d' ses norritures &quot; dit-on des personnes têtues.
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : norreture (Lois de Guillaume le</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>NOSETTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        noisette. &quot; L' Bon Dieu invoe des nosettes à cheux qui n' sètent point les croquer &quot; (GH) = les biens de ce monde sont mal répartis. &quot; Alle a croqué s' nosette &quot; (GH) = elle a perdu son pucelage.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>noisette. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">noisette</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; L' Bon Dieu invoe des nosettes à cheux qui n' sètent point les croquer &quot; (GH) = les biens de ce monde sont mal répartis.
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Alle a croqué s' nosette &quot; (GH) = elle a perdu son pucelage.
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Nos(e)tier</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>noisetier.</quote>
+    </def>
+    <def label="française">
+      <quote>noisetier.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">noisetier</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>NOTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        conter à l' basse note (GH) : rabaisser le ton, se montrer moins orgueilleux.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        conter à l' basse note (GH) : rabaisser le ton, se montrer moins orgueilleux.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>NOU</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : no).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : no).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* NOUNOU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>1 - chat (lang. enf.). (Voir : minou). </quote>
+      <quote>
+        2 - terme d'affection. &quot; Bonjour, petit père ! - Bonjour, em' pétiot nounou ! &quot; (JM).
+      </quote>
+      <quote>3 - flocon de poussière sous un meuble, chaton, mouton.</quote>
+    </def>
+    <def label="française">
+      <quote>1 - chat (lang. enf.). (Voir : minou). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>2 - terme d'affection. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Bonjour, petit père ! - Bonjour, em' pétiot nounou ! &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>3 - flocon de poussière sous un meuble, chaton, mouton.</quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">chaton</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">mouton</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>NOUVELLE ! (QUEU)</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : In va vir queu nouvelle ! = vous aurez de mes nouvelles ! (menace). &quot; J' l'approche. I m' démand' : queu nouvelles ? &quot; (JM) = comment allez-vous ? &quot; Queu nouvelles ? - I n' d'a pus, in raccommode des vielles ! &quot; (RD). Eh ben ! queu nouvelle ! = voulez-vous rester tranquilles ! (adressé à des enfants turbulents).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        : In va vir queu nouvelle ! = vous aurez de mes nouvelles ! (menace).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        Eh ben ! queu nouvelle ! = voulez-vous rester tranquilles ! (adressé à des enfants turbulents).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J' l'approche. I m' démand' : queu nouvelles ? &quot; (JM) = comment allez-vous ?
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Queu nouvelles ? - I n' d'a pus, in raccommode des vielles ! &quot; (RD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Nouviau</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>nouveau.</quote>
+    </def>
+    <def label="française">
+      <quote>nouveau.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">nouveau</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>NUDE</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        , fém. de nu. Alle est toute nute. ANC. : lat. nudus (nu). (Cf. nudité, nudisme, etc.).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>, fém. de nu. Alle est toute nute. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : lat. nudus (nu). (Cf. nudité, nudisme, etc.).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>NUE(F)</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        , fém. NUÈVE (pron. nwé, nwef) : neuf, neuve ; nouveau, nouvelle. &quot; In met m'n ossature / Dins un nuef cercueul &quot; (GT). &quot; Baptisant eun' nuève amitié &quot; (JM). &quot; Eun' nuèv' dépoulle ou bin un nué capiau &quot; (JM). ANC. : nuef : neuf, nouveau (Passion, 980).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        , fém. NUÈVE (pron. nwé, nwef) : neuf, neuve ; nouveau, nouvelle.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">neuve</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">nouveau</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">nouvelle</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; In met m'n ossature / Dins un nuef cercueul &quot; (GT). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Baptisant eun' nuève amitié &quot; (JM). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Eun' nuèv' dépoulle ou bin un nué capiau &quot; (JM). </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : nuef : neuf, nouveau (Passion, 980).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>NUIT</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        &quot; Bonne nuit d' carpintier, l' quéville au tro &quot; (GH) : sens érot.
+      </quote>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>NUL</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        A nul âge : tout jeune ; avant l'âge prévu pour faire telle ou telle chose. &quot; A nul âge, cha feume déjà des chigarettes ! &quot;. &quot; A nul âche, chus qu'in m'disot : Attinds l' martinet ! &quot; (PP) = quand j'étais petit. J' sus à nul pas = j'ai des soucis, je ne sais où donner de la tête. &quot; Tiens, c'est toi ? Mais il n'est nulle heure ! &quot; (A.S.) = il est très tôt.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        A nul âge : tout jeune ; avant l'âge prévu pour faire telle ou telle chose.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>A.S.) = il est très tôt.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; A nul âge, cha feume déjà des chigarettes ! &quot;. </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; A nul âche, chus qu'in m'disot : Attinds l' martinet ! &quot; (PP) = quand j'étais petit. J' sus à nul pas = j'ai des soucis, je ne sais où donner de la tête.
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Tiens, c'est toi ? Mais il n'est nulle heure ! &quot; (</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Nul(le)vart</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        nurpart, nurvart : nulle part. &quot; Je n'en ai trouvé nulwart, nurvart si vous m'entendez mieux ; quand je m'aparle, je dis nulle part &quot; (EM). &quot; Quante alle a eune idée dins s' tiête, alle l'a point nurpart &quot; (PP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>nurpart, nurvart : nulle part. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Je n'en ai trouvé nulwart, nurvart si vous m'entendez mieux ; quand je m'aparle, je dis nulle part &quot; (EM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Quante alle a eune idée dins s' tiête, alle l'a point nurpart &quot; (PP).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>NUNU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote> et adj. : </quote>
+      <quote>
+        1 - minutieux, tâtillon. &quot; J' vous démanderai d'êt' minutieux, d'êt' nunu, quoi ! &quot; (RD).
+      </quote>
+      <quote>
+        2 - douillet. &quot; Vous savez qu' ch'est ein nunu ! I crie d'jà qu'i va morir ! &quot; (RD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote> et adj. : </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>1 - minutieux, tâtillon. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J' vous démanderai d'êt' minutieux, d'êt' nunu, quoi ! &quot; (RD).
+      </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>2 - douillet. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Vous savez qu' ch'est ein nunu ! I crie d'jà qu'i va morir ! &quot; (RD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Nunuter</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>fignoler, peaufiner.</quote>
+    </def>
+    <def label="française">
+      <quote>fignoler, peaufiner.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fignoler</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">peaufiner</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Nunut(e)rie</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        fignolage. &quot; Fais l' pus gros, hein ! Point cor ed nunuteries ! - Comme si j'avos l' temps d' nunuter ! &quot; (RD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>fignolage. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fignolage</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Fais l' pus gros, hein ! Point cor ed nunuteries ! - Comme si j'avos l' temps d' nunuter ! &quot; (RD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Note</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: le mot apparaît sous des formes</quote>
+    </def>
+    <def label="française">
+      <quote>: le mot apparaît sous des formes</quote>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Nous avons relevé tchien chez PB</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        JD, RD, JM, PP, JQ ; tien chez GH, JM, GT ; thien (GF) ; tiein (JQ) : la prononciation étant toujours tchin. Quien, chez EC, AH, RP, JM, FP avec une graphie kien chez EM. Expr. notées par GH : &quot; Au soir, ch'est tous tiens courants ; au matin, ch'est tout tiens couchants = couche-tard, lève-tard. &quot; Un tien noir keurt aussi vite qu'un blanc &quot; : réponse de quelqu'un à qui on reproche d'être sale. &quot; I fait comme les grands tiens, i pisse contr' l' mur &quot;, dit-on d'un enfant qui veut faire comme les grands. &quot; Qui vot l' tien vot l' maître &quot; = tel maître, tel valet. &quot; Mett' les quiens au beus &quot; (EC) = lancer une affaire, une discussion..., puis s'en désintéresser. &quot; Les quiens vont crier d' leus pattes &quot; (AH) = il fait une sacrée chaleur (au point que les chiens vont souffrir en posant leurs pattes sur le sol brûlant). &quot; S' disputer pou un brin d'tchien &quot; = pour une chose sans importance. (Voir : cat, St Roch, solé.)
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        JD, RD, JM, PP, JQ ; tien chez GH, JM, GT ; thien (GF) ; tiein (JQ) : la prononciation étant toujours tchin. Quien, chez EC, AH, RP, JM, FP avec une graphie kien chez EM. Expr. notées par GH :
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">AH</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Un tien noir keurt aussi vite qu'un blanc </quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Au soir, ch'est tous tiens courants ; au matin, ch'est tout tiens couchants = couche-tard, lève-tard. &quot;
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>
+        Nous signalons ces mots (dont le fr. a gardé déguerpir) parce qu'il y a toujours
+      </orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        à Val., 56, rue de Paris, l'hôtel (classé) du Greffier des Werps. ANC. : francique werpjan : guerpir, abandonner. Werp : cession, vente (Archives de Tournai, 1243).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        à Val., 56, rue de Paris, l'hôtel (classé) du Greffier des Werps.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : francique werpjan : guerpir, abandonner. Werp : cession, vente (Archives de Tournai, 1243).
+      </quote>
+    </etym>
+  </entry>
+</TEI>

@@ -7,6 +7,7 @@
 import scala.io.Source
 import java.io._
 
+import Config.Configuration
 import fastparse.all._
 
 import scala.xml._
@@ -84,17 +85,13 @@ object ParserDebrieV2 {
 
 
   def main(args: Array[String]): Unit = {
-    println("Entrez le chemin du dictionnaire Debrie")
-/*
-/people/khamphousone/Documents/Dictionnaires/a_debr_oues_84S_A_utf8.txt
- */
-    val path = scala.io.StdIn.readLine()
-    val buff: Source = Source.fromFile(path)
+    val classpath = new Configuration
+    val buff: Source = Source.fromFile(classpath.pathReneDebrie)
     val Parsing = new ParserDebrieV2()
     val tradtoxml = new toXML()
     var str = buff.getLines.slice(10,21708).mkString("\n").replaceAll("\t"," ")
     str = Parsing.replaceAllBreaklines(str)
-    val file = new File("/people/khamphousone/Documents/ParsersScala/XML/ParserDebrie/Version 2.0/DebrieModif.txt")
+    val file = new File(classpath.pathOutputReneDebrie)
     val bw = new BufferedWriter(new FileWriter(file))
     bw.write(str)
     val Dict = for (line <- Source.fromFile(file).getLines.filter(_.count(_.equals(' ')) >= 3)) yield {
@@ -114,7 +111,7 @@ object ParserDebrieV2 {
 
     val listXml = <Nomenclature>{DictXML}</Nomenclature>
 
-    XML.save(s"/people/khamphousone/Documents/ParsersScala/XML/ParserDebrie/Version 2.0/ResultDebrie", listXml, "utf-8", true, null)
+    XML.save(classpath.pathOutputXMLDebrie2, listXml, "utf-8", true, null)
 
 
 

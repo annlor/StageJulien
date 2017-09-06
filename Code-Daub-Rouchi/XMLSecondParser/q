@@ -1,76 +1,64 @@
 <?xml version='1.0' encoding='utf-8'?>
-<Nomenclature>
-        <ArticleDeDictionnaire>
-        <Entrée>quantité</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>(petite) chuchée ; (grande) raflée, travelée.</LexieEntiere>
-        <Lexie><SousLexie>(petite) chuchée </SousLexie><SousLexie> (grande) raflée</SousLexie><SousLexie> travelée.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>quel</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere>quelle, adj. : queu, queulle.</LexieEntiere>
-        <Lexie><SousLexie>quelle</SousLexie><SousLexie> adj. : queu</SousLexie><SousLexie> queulle.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>quelque part</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>loc. adv.</StructureGrammaticale>
-        <LexieEntiere>quéque part, quête part.</LexieEntiere>
-        <Lexie><SousLexie>quéque part</SousLexie><SousLexie> quête part.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>quelques</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>eine paire.</LexieEntiere>
-        <Lexie><SousLexie>eine paire.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>quenouille</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>quéneule (vx).</LexieEntiere>
-        <Lexie><SousLexie>quéneule (vx).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>querelle</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>castille.</LexieEntiere>
-        <Lexie><SousLexie>castille.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>quereller</Entrée>
-        <Complément>(se)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>estriver, s' piailler.</LexieEntiere>
-        <Lexie><SousLexie>estriver</SousLexie><SousLexie> s' piailler.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>querelleur</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere> et adj. : estriveux, noiseux.</LexieEntiere>
-        <Lexie><SousLexie> et adj. : estriveux</SousLexie><SousLexie> noiseux.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>qu'est-ce-que</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
+<TEI>
+        <entry>
+        <form><orth>quantité</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>(petite) chuchée ; (grande) raflée, travelée.</quote></def>
+        <cit type="translation"><quote>(petite) chuchée </quote><quote> (grande) raflée</quote><quote> travelée.</quote></cit>
+      </entry><entry>
+        <form><orth>quel</orth><Complément></Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote>quelle, adj. : queu, queulle.</quote></def>
+        <cit type="translation"><quote>quelle</quote><quote> adj. : queu</quote><quote> queulle.</quote></cit>
+      </entry><entry>
+        <form><orth>quelque part</orth><Complément></Complément></form>
+        <gramGrp><pos>loc. adv.</pos></gramGrp>
+        <def><quote>quéque part, quête part.</quote></def>
+        <cit type="translation"><quote>quéque part</quote><quote> quête part.</quote></cit>
+      </entry><entry>
+        <form><orth>quelques</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>eine paire.</quote></def>
+        <cit type="translation"><quote>eine paire.</quote></cit>
+      </entry><entry>
+        <form><orth>quenouille</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>quéneule (vx).</quote></def>
+        <cit type="translation"><quote>quéneule (vx).</quote></cit>
+      </entry><entry>
+        <form><orth>querelle</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>castille.</quote></def>
+        <cit type="translation"><quote>castille.</quote></cit>
+      </entry><entry>
+        <form><orth>quereller</orth><Complément>(se)</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>estriver, s' piailler.</quote></def>
+        <cit type="translation"><quote>estriver</quote><quote> s' piailler.</quote></cit>
+      </entry><entry>
+        <form><orth>querelleur</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote> et adj. : estriveux, noiseux.</quote></def>
+        <cit type="translation"><quote> et adj. : estriveux</quote><quote> noiseux.</quote></cit>
+      </entry><entry>
+        <form><orth>qu'est-ce-que</orth><Complément></Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote></quote></def>
         
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>qui</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
+      </entry><entry>
+        <form><orth>qui</orth><Complément></Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote></quote></def>
         
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>quille</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>guille.</LexieEntiere>
-        <Lexie><SousLexie>guille.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>quoi</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
+      </entry><entry>
+        <form><orth>quille</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>guille.</quote></def>
+        <cit type="translation"><quote>guille.</quote></cit>
+      </entry><entry>
+        <form><orth>quoi</orth><Complément></Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote></quote></def>
         
-      </ArticleDeDictionnaire>
-      </Nomenclature>
+      </entry>
+      </TEI>

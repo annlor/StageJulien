@@ -1,59 +1,203 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Nomenclature>
-          <Entrée>
-        <Vocable>U</Vocable>
-        <CatégorieGrammaticale>conj.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere> de sub. : où. &quot; ...à moins qué jé n' seuche / U qu' ch'est &quot; (Fl, F, XVIIe). (Voir : d'û, d'us, duss...).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1"> de sub. : où. </df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>UCHE </Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>: (voir: huche).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">: (voir: huche).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>UE(F) (phon. </Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>: wé), s. m. : oeuf. (On trouve les graphies : eué, oué, oeué, ué. &quot; I-a pus quer deux uefs qu'eune truche &quot; (EC) = il préfère ce qui est bon, et cher. &quot; I n' donn'rot point par charité / L'iau dins l'quelle i fait cuir' ses eués &quot; (JM qui reprend un dicton att. par JQ). &quot; Il a d's oués d'zous les bras &quot; = c'est un paresseux (il ne se remue pas crainte de les casser ; cf. en fr. pop. : il ne se casse rien). ANC. : Uef, oeuf (Philippe de Thaun, 1119). Du lat. ovum.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">: wé), s. m. : oeuf. (On trouve les graphies : eué, oué, oeué, ué. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; I-a pus quer deux uefs qu'eune truche &quot; (EC) = il préfère ce qui est bon, et cher. </ExemplePicard><ExemplePicard id="2">&quot; I n' donn'rot point par charité / L'iau dins l'quelle i fait cuir' ses eués &quot; (JM qui reprend un dicton att. par JQ). </ExemplePicard><ExemplePicard id="3">&quot; Il a d's oués d'zous les bras &quot; = c'est un paresseux (il ne se remue pas crainte de les casser ; cf. en fr. pop. : il ne se casse rien). </ExemplePicard></Exemples><Ancien>ANC. : Uef, oeuf (Philippe de Thaun, 1119). Du lat. ovum.</Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>UÈVE </Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>: (voir : ouverre, ouvrer).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">: (voir : ouverre, ouvrer).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>UN (BD)</Vocable>
-        <CatégorieGrammaticale>pr. ind.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>on. &quot; Un m'a dit &quot;.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">on. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Un m'a dit &quot;.</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>UNIMINT</Vocable>
-        <CatégorieGrammaticale>adv.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>simplement. &quot; In buvot, au baril, dé l'iau, tout unimint &quot; (JM).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">simplement. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; In buvot, au baril, dé l'iau, tout unimint &quot; (JM).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>URBÉLER </Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>: (voir : hurbéler).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">: (voir : hurbéler).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>URCHON </Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>: (voir : hurechon-picot).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">: (voir : hurechon-picot).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>USER</Vocable>
-        <CatégorieGrammaticale>v.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>&quot; I faut les user comme in les a &quot; = il faut vivre avec les gens tels qu'ils sont.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>* Usance</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>solidité, permettant un long usage.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">solidité, permettant un long usage.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>* USINIER</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>ouvrier d'usine, métallurgiste. &quot; ... vir si gracieus'mint danser / L'usinier, l'ouverrier à l' veine &quot; (JM). ANC. : il est peut-être curieux de signaler que le mot usine n'est attesté en fr. qu'en 1732, mais que c'est un mot du Nord-Est de la France et, singulièrement, de Val. où l'on trouve la première attestation, en 1274, sous la forme wisine : atelier, boutique.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">ouvrier d'usine, métallurgiste. </df></DéfinitionFrançaise><Exemples></Exemples><Ancien>ANC. : il est peut-être curieux de signaler que le mot usine n'est attesté en fr. qu'en 1732, mais que c'est un mot du Nord-Est de la France et, singulièrement, de Val. où l'on trouve la première attestation, en 1274, sous la forme wisine : atelier, boutique.</Ancien></DéfinitionDétaillée></Définition>
-      </Entrée>
-        </Nomenclature>
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+  <entry>
+    <form>
+      <orth>U</orth>
+    </form>
+    <gramGrp>
+      <pos>conj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        de sub. : où. &quot; ...à moins qué jé n' seuche / U qu' ch'est &quot; (Fl, F, XVIIe). (Voir : d'û, d'us, duss...).
+      </quote>
+    </def>
+    <def label="française">
+      <quote> de sub. : où. </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>UCHE</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir: huche).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir: huche).</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>UE(F) (phon.</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : wé), s. m. : oeuf. (On trouve les graphies : eué, oué, oeué, ué. &quot; I-a pus quer deux uefs qu'eune truche &quot; (EC) = il préfère ce qui est bon, et cher. &quot; I n' donn'rot point par charité / L'iau dins l'quelle i fait cuir' ses eués &quot; (JM qui reprend un dicton att. par JQ). &quot; Il a d's oués d'zous les bras &quot; = c'est un paresseux (il ne se remue pas crainte de les casser ; cf. en fr. pop. : il ne se casse rien). ANC. : Uef, oeuf (Philippe de Thaun, 1119). Du lat. ovum.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        : wé), s. m. : oeuf. (On trouve les graphies : eué, oué, oeué, ué.
+      </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; I-a pus quer deux uefs qu'eune truche &quot; (EC) = il préfère ce qui est bon, et cher.
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; I n' donn'rot point par charité / L'iau dins l'quelle i fait cuir' ses eués &quot; (JM qui reprend un dicton att. par JQ).
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Il a d's oués d'zous les bras &quot; = c'est un paresseux (il ne se remue pas crainte de les casser ; cf. en fr. pop. : il ne se casse rien).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : Uef, oeuf (Philippe de Thaun, 1119). Du lat. ovum.</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>UÈVE</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : ouverre, ouvrer).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : ouverre, ouvrer).</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>UN (BD)</orth>
+    </form>
+    <gramGrp>
+      <pos>pr. ind.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>on. &quot; Un m'a dit &quot;.</quote>
+    </def>
+    <def label="française">
+      <quote>on. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; Un m'a dit &quot;.</quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>UNIMINT</orth>
+    </form>
+    <gramGrp>
+      <pos>adv.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        simplement. &quot; In buvot, au baril, dé l'iau, tout unimint &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>simplement. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; In buvot, au baril, dé l'iau, tout unimint &quot; (JM).</quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>URBÉLER</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : hurbéler).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : hurbéler).</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>URCHON</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : hurechon-picot).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : hurechon-picot).</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>USER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        &quot; I faut les user comme in les a &quot; = il faut vivre avec les gens tels qu'ils sont.
+      </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>* Usance</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>solidité, permettant un long usage.</quote>
+    </def>
+    <def label="française">
+      <quote>solidité, permettant un long usage.</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>* USINIER</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        ouvrier d'usine, métallurgiste. &quot; ... vir si gracieus'mint danser / L'usinier, l'ouverrier à l' veine &quot; (JM). ANC. : il est peut-être curieux de signaler que le mot usine n'est attesté en fr. qu'en 1732, mais que c'est un mot du Nord-Est de la France et, singulièrement, de Val. où l'on trouve la première attestation, en 1274, sous la forme wisine : atelier, boutique.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>ouvrier d'usine, métallurgiste. </quote>
+    </def>
+    <etym>
+      <quote>
+        ANC. : il est peut-être curieux de signaler que le mot usine n'est attesté en fr. qu'en 1732, mais que c'est un mot du Nord-Est de la France et, singulièrement, de Val. où l'on trouve la première attestation, en 1274, sous la forme wisine : atelier, boutique.
+      </quote>
+    </etym>
+  </entry>
+</TEI>

@@ -1,659 +1,2875 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Nomenclature>
-          <Entrée>
-        <Vocable>Lochier (Raoul de Cambrai</Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition>
-          <DéfinitionDétaillée></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>L' bien des pauvres </Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>: les fonds pour les secours aux indigents. &quot; In veut m'aruiner. J' vas d'aller su l'bien des paufes &quot; (PP).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">: les fonds pour les secours aux indigents. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; In veut m'aruiner. J' vas d'aller su l'bien des paufes &quot; (PP).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Les mots suivants</Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>de capelain à capote, ont tous pour orig. le lat. cappa, capuchon, puis cape.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">de capelain à capote, ont tous pour orig. le lat. cappa, capuchon, puis cape.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Les cops d' martiau </Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>= les Cambrésiens (JQ) ; les cops d'aile = les Lillois. &quot; I s' vantot, Cachamoule, i-avot déjà l' cop d'aile &quot; (JD) = il était fichu.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">= les Cambrésiens (JQ) ; les cops d'aile = les Lillois. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; I s' vantot, Cachamoule, i-avot déjà l' cop d'aile &quot; (JD) = il était fichu.</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Les copeux d' dogts </Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>= les Condéens.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">= les Condéens.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>L'occlusive sourde k ne figure</Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>en français, que dans des mots de formation savante ou empruntés à des langues étrangères. Il en est de même en picard. Les mots commençant phonétiquement par cette consonne sont classés soit à la lettre c, soir à la lettre q. Il faut pourtant signaler que la transcription de l'occlusive sourde vélaire par le signe k est pratique et s'impose dans tous les cas (!), en écriture phonétique.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">en français, que dans des mots de formation savante ou empruntés à des langues étrangères. Il en est de même en picard. Les mots commençant phonétiquement par cette consonne sont classés soit à la lettre c, soir à la lettre q. Il faut pourtant signaler que la transcription de l'occlusive sourde vélaire par le signe k est pratique et s'impose dans tous les cas (!), en écriture phonétique.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>* LABEUR</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>labour. &quot; Pour li pus facil'mint courir dins les labeurs &quot; (JM). Le v. labourer se conjugue norm. labeure auprés, de l'ind. ANC. : &quot; Je labeure a mi de troi quérue &quot; (Fl, S, 1648).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">labour. </df><df id="2">Le v. labourer se conjugue norm. labeure auprés, de l'ind. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Pour li pus facil'mint courir dins les labeurs &quot; (JM). </ExemplePicard></Exemples><Ancien>ANC. : &quot; Je labeure a mi de troi quérue &quot; (Fl, S, 1648).</Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Labourés</Vocable>
-        <CatégorieGrammaticale>s. m. pl.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>, terres labourées, labours. &quot; In a caché dins les labourés &quot;.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">, terres labourées, labours. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; In a caché dins les labourés &quot;.</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>* LACHE</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>1 - lacet (piège). &quot; J' coeuros dins l' bos... et j' perdos m' gampe dins un lache &quot; (PP). Et' pris au lache : se faire piéger. &quot; Viv' mariache ! / Core un ménache / Ed pris au lache ! &quot; (JM). </DéfinitionEntiere><DéfinitionEntiere>2 - boucle au milieu d'un fil de lisse (tissage) (GL).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">1 - lacet (piège). </df><df id="2">Et' pris au lache : se faire piéger. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; J' coeuros dins l' bos... et j' perdos m' gampe dins un lache &quot; (PP). </ExemplePicard><ExemplePicard id="2">&quot; Viv' mariache ! / Core un ménache / Ed pris au lache ! &quot; (JM). </ExemplePicard></Exemples><Ancien></Ancien><DéfinitionFrançaise><df id="1">2 - boucle au milieu d'un fil de lisse (tissage) (GL).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LACH(E)RON</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>laiteron (plante de la famille des composées, à suc laiteux).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">laiteron (plante de la famille des composées, à suc laiteux).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LACHET</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>1 - lacet (de chaussure). </DéfinitionEntiere><DéfinitionEntiere>2 - fil de salive, de bave. &quot; Comm' cha sint bon ! J' vas in fair' des lachets &quot; (JD) = ça me met l'eau à la bouche. </DéfinitionEntiere><DéfinitionEntiere>3 - chiendent (plante adventice). &quot; J'ein profiterai pour netchier l'z' haricots ; ej' sus sûr qu'i sont pleins d' lachets &quot; (RD).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">1 - lacet (de chaussure). </df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien><DéfinitionFrançaise><df id="1">2 - fil de salive, de bave. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Comm' cha sint bon ! J' vas in fair' des lachets &quot; (JD) = ça me met l'eau à la bouche. </ExemplePicard></Exemples><Ancien></Ancien><DéfinitionFrançaise><df id="1">3 - chiendent (plante adventice). </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; J'ein profiterai pour netchier l'z' haricots ; ej' sus sûr qu'i sont pleins d' lachets &quot; (RD).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LACS (METT' IN) </Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>: mettre en baquets : bêchage profond fait avant l'hiver de façon à favoriser l'action nettoyante du gel. Syn. : bras d' fouriaux.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">: mettre en baquets : bêchage profond fait avant l'hiver de façon à favoriser l'action nettoyante du gel. Syn. : bras d' fouriaux.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LAFAYAU</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>au XIXe, surnom des Orphéonistes valenciennois. &quot; Et aveuc un clipet d'bon Lafayau, / Y nous ont régalé d'un grand morciau &quot; (JQ).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">au XIXe, surnom des Orphéonistes valenciennois. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Et aveuc un clipet d'bon Lafayau, / Y nous ont régalé d'un grand morciau &quot; (JQ).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LAIT</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>lait burré : </DéfinitionEntiere><DéfinitionEntiere>1 - babeurre ; </DéfinitionEntiere><DéfinitionEntiere>2 - cardamine des prés. Lait d' bé : </DéfinitionEntiere><DéfinitionEntiere>1 - lait d'une vache qui vient de vêler ; </DéfinitionEntiere><DéfinitionEntiere>2 - chéli-doine ou grande éclaire, qui laisse échapper un latex orangé. Lait-bouli (parfois : libouli), crème pâtissière dont on couvre les tartes. Ce mot apparaît dans le sud de notre zone : à Val., on dit du papin.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">lait burré : </df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien><DéfinitionFrançaise><df id="1">1 - babeurre ; </df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien><DéfinitionFrançaise><df id="1">2 - cardamine des prés. Lait d' bé : </df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien><DéfinitionFrançaise><df id="1">1 - lait d'une vache qui vient de vêler ; </df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien><DéfinitionFrançaise><df id="1">2 - chéli-doine ou grande éclaire, qui laisse échapper un latex orangé. Lait-bouli (parfois : libouli), crème pâtissière dont on couvre les tartes. Ce mot apparaît dans le sud de notre zone : à Val., on dit du papin.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LAÏTE </Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>: dimin. d'Adélaïde, prénom jadis pop. (c'était celui de la grand' mère et de l'épouse de JM). Loute et Laïte : les géants du Rôleur ; à Valenciennes, créés après la dernière guerre.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">: dimin. d'Adélaïde, prénom jadis pop. (c'était celui de la grand' mère et de l'épouse de JM). Loute et Laïte : les géants du Rôleur ; à Valenciennes, créés après la dernière guerre.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LAITISON</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>pissenlit. &quot; Attendre raison de celle-là, c'est cacher à létizons su du macadam &quot; (FP). &quot; ... bintôt, j' ming'rai pa l' racheine / Des létisons &quot; (GF).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">pissenlit. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Attendre raison de celle-là, c'est cacher à létizons su du macadam &quot; (FP). </ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LAITRON</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>poulain à la mamelle.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">poulain à la mamelle.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LAMBIC</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>: cafetière (L. Loriau, Vx Condé). Aphér. de alambic.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">: cafetière (L. Loriau, Vx Condé). Aphér. de alambic.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LAMIAU</Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>LEUMIAU, s. m. : </DéfinitionEntiere><DéfinitionEntiere>1 - palonnier ; trait, muni d'une petite pièce de bois et de chaînes, et qui vient se rattacher aux avant-traits (GD). </DéfinitionEntiere><DéfinitionEntiere>2 - au pl. : baguettes horizontales entre lesquelles on tend les lisses d'un métier à tisser (GL).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">LEUMIAU, s. m. : </df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien><DéfinitionFrançaise><df id="1">1 - palonnier ; trait, muni d'une petite pièce de bois et de chaînes, et qui vient se rattacher aux avant-traits (GD). </df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien><DéfinitionFrançaise><df id="1">2 - au pl. : baguettes horizontales entre lesquelles on tend les lisses d'un métier à tisser (GL).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LAMPAS</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>luette, palais, gosier. Arrouser l' lampas (GH) : bien boire. &quot; El seule ruse qu'i z'ont, ch'est, à l' pause, d'aller arroser leu lampas fourséqué &quot; (PP). ANC. : lampas : gosier (Rendus de Moiliens, fin XIIe) &quot; ... je crois qu'en vos repas, / Vous humectez volontiers le lampas &quot; (La Fontaine, XVIIe).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">luette, palais, gosier. Arrouser l' lampas (GH) : bien boire. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; El seule ruse qu'i z'ont, ch'est, à l' pause, d'aller arroser leu lampas fourséqué &quot; (PP). </ExemplePicard></Exemples><Ancien>ANC. : lampas : gosier (Rendus de Moiliens, fin XIIe) &quot; ... je crois qu'en vos repas, / Vous humectez volontiers le lampas &quot; (La Fontaine, XVIIe).</Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LAMPÉRIAU</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>chandelier de fer à bobèche (Vx).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">chandelier de fer à bobèche (Vx).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LANCER</Vocable>
-        <CatégorieGrammaticale>v.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>élancer, causer des élancements douloureux. &quot; J' m'ai écrasé m'n ortelle et cha m' lance ! &quot;.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">élancer, causer des élancements douloureux. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; J' m'ai écrasé m'n ortelle et cha m' lance ! &quot;.</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>* Lancette (AH)</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>fronde.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">fronde.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Lanchure (BD)</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>élancement, douleur. &quot; Vos vos sintez des lanchures dins tout vo tiête &quot;.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">élancement, douleur. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Vos vos sintez des lanchures dins tout vo tiête &quot;.</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LANDON</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>volée, grand palonnier, pièce de bois perpendic. au timon, pour les attelages à plusieurs chevaux (voir : plarna).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">volée, grand palonnier, pièce de bois perpendic. au timon, pour les attelages à plusieurs chevaux (voir : plarna).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Landonner</Vocable>
-        <CatégorieGrammaticale>v.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>coupler deux attelages.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">coupler deux attelages.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LANGREUX</Vocable>
-        <CatégorieGrammaticale>adj.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>maladif, qui languit. &quot; Langreux comme un infant accablé pa l'hiver &quot; (JD). ANC. : langoros : languissant, malade (Poème de St Alexis, XIe).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">maladif, qui languit. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Langreux comme un infant accablé pa l'hiver &quot; (JD). </ExemplePicard></Exemples><Ancien>ANC. : langoros : languissant, malade (Poème de St Alexis, XIe).</Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LANGUE</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>mord' es' langue = se retenir de parler. Ravaler s' langue : </DéfinitionEntiere><DéfinitionEntiere>1 - se taire ; </DéfinitionEntiere><DéfinitionEntiere>2 - mourir. &quot; I n'a pas s' langue dins s' satiau &quot; = il n'a pas la langue dans sa poche. &quot; T' langue all' s'ra usée, tes bras s'ront cor tout nuefs &quot; = tu es plus fort en paroles qu'en actes. &quot; Zélie, Docteur, al a eune langue qu'a n' d' est pas maît' &quot; (PP) = elle ne peut s'empêcher de parler. &quot; T' langue all' dépass' tes dints, faudra mett' un grès d'sus ! &quot; (GV) = tu parles trop.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">mord' es' langue = se retenir de parler. Ravaler s' langue : </df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien><DéfinitionFrançaise><df id="1">1 - se taire ; </df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien><DéfinitionFrançaise><df id="1">2 - mourir. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; I n'a pas s' langue dins s' satiau &quot; = il n'a pas la langue dans sa poche. </ExemplePicard><ExemplePicard id="2">&quot; T' langue all' s'ra usée, tes bras s'ront cor tout nuefs &quot; = tu es plus fort en paroles qu'en actes. </ExemplePicard><ExemplePicard id="3">&quot; Zélie, Docteur, al a eune langue qu'a n' d' est pas maît' &quot; (PP) = elle ne peut s'empêcher de parler. </ExemplePicard><ExemplePicard id="4">&quot; T' langue all' dépass' tes dints, faudra mett' un grès d'sus ! &quot; (GV) = tu parles trop.</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Languette</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>grande langue, bavarde.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">grande langue, bavarde.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LANSART (GH)</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>pièce de bois, à l'arrière d'un chariot, où se fixe le câble maintenant le chargement (voir : comble, combiau).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">pièce de bois, à l'arrière d'un chariot, où se fixe le câble maintenant le chargement (voir : comble, combiau).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LAPETTE</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>êt' à l'lapette : être en pans de chemise. &quot; Des femm's in qu' miss', d'z homm's à l'lapette &quot; (JM).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">êt' à l'lapette : être en pans de chemise. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Des femm's in qu' miss', d'z homm's à l'lapette &quot; (JM).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>* LAPIDER</Vocable>
-        <CatégorieGrammaticale>v.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>1 - végéter en se tuant au travail ; éprouver des difficultés dans un travail. &quot; Pauf' Zante. Il a lapidé tout sa vie ! &quot; (EM). </DéfinitionEntiere><DéfinitionEntiere>2 - mal traiter. &quot; N'y a pas d' bon sins / D' lapider s' fille ainsi tout l' teimps &quot; (GF).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">1 - végéter en se tuant au travail ; éprouver des difficultés dans un travail. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Pauf' Zante. Il a lapidé tout sa vie ! &quot; (EM). </ExemplePicard></Exemples><Ancien></Ancien><DéfinitionFrançaise><df id="1">2 - mal traiter. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; N'y a pas d' bon sins / D' lapider s' fille ainsi tout l' teimps &quot; (GF).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Lapide</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>ouvrier laborieux mais malchanceux et misérable. &quot; Va, brav' lapite ! artourne el tierre ! &quot; (JM).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">ouvrier laborieux mais malchanceux et misérable. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Va, brav' lapite ! artourne el tierre ! &quot; (JM).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>* LAPIN</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>1 - Ch'est un lapin d'hiver (EC) = c'est un enfant souffreteux ; un animal faible. </DéfinitionEntiere><DéfinitionEntiere>2 - il a fait des lapins = il a vomi.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">1 - Ch'est un lapin d'hiver (EC) = c'est un enfant souffreteux ; un animal faible. </df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien><DéfinitionFrançaise><df id="1">2 - il a fait des lapins = il a vomi.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LARGUÈCHE</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>1 - feu vif mais qui ne dure pas. &quot; Un tas d' bidons et d' viés'ries qu'on volot s' débarrasser et interténir ç' larguèche &quot; (JQ) (il s'agit d'un feu de la St Jean). </DéfinitionEntiere><DéfinitionEntiere>2 - liaison passionnée mais courte. &quot; Leu coeur i flamb' comm' eun' larguèche / Dins un bon fier par un temps fro &quot; (JQ).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">1 - feu vif mais qui ne dure pas. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Un tas d' bidons et d' viés'ries qu'on volot s' débarrasser et interténir ç' larguèche &quot; (JQ) (il s'agit d'un feu de la St Jean). </ExemplePicard></Exemples><Ancien></Ancien><DéfinitionFrançaise><df id="1">2 - liaison passionnée mais courte. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Leu coeur i flamb' comm' eun' larguèche / Dins un bon fier par un temps fro &quot; (JQ).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LARGUÉTRUE</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>âtre Gertrude (voir ce mot).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">âtre Gertrude (voir ce mot).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LARIDÉ (Jean) </Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>: l'index (doigt) (lang. enf.).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">: l'index (doigt) (lang. enf.).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LARIS (FAIRE DES) </Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>: faire un joyeux tapage, un charivari (AH). &quot; N' comminche point cor. Té fais toudis des larries du diape pour rein du tout &quot; (RD) = des jérémiades. GH donne lari : confusion, tumulte, joie bruyante ; lari bori : désordre dans la maison.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">: faire un joyeux tapage, un charivari (AH). </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; N' comminche point cor. Té fais toudis des larries du diape pour rein du tout &quot; (RD) = des jérémiades. GH donne lari : confusion, tumulte, joie bruyante ; lari bori : désordre dans la maison.</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LASTIQUE</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>cordon élastique, caoutchouc. &quot; L'homm' li prind s' bague in lastique &quot; (au pigeon) (JM).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">cordon élastique, caoutchouc. </df><df id="2">JM).</df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; L'homm' li prind s' bague in lastique &quot; (au pigeon) (</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LATTIAU</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>assemblage de lattes sur lesquelles on plâtre.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">assemblage de lattes sur lesquelles on plâtre.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>* LAVAGE</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>eau savonneuse pour la lessive.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">eau savonneuse pour la lessive.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LA-VAU</Vocable>
-        <CatégorieGrammaticale>adv.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>là-bas (opp. à ichi). &quot; Va-t-in vir là-vau, dins l'éteule à viaux &quot; (JD). &quot; T' nas pas dû souvint t'imbêter / Quand j' brayos là-vau, pauv' lapite &quot; (PM). ANC. : laval (là </DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">là-bas (opp. à ichi). </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Va-t-in vir là-vau, dins l'éteule à viaux &quot; (JD). </ExemplePicard><ExemplePicard id="2">&quot; T' nas pas dû souvint t'imbêter / Quand j' brayos là-vau, pauv' lapite &quot; (PM). </ExemplePicard></Exemples><Ancien>ANC. : laval (là </Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LAV(E)TÉE</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>giclée. &quot; I m'a foutu ein' lav'tée d' moutarde su m' viande &quot; (voir : berlafe).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">giclée. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; I m'a foutu ein' lav'tée d' moutarde su m' viande &quot; (voir : berlafe).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LAVURER</Vocable>
-        <CatégorieGrammaticale>v.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>1 - laver le linge (malproprement, ajoute GH). </DéfinitionEntiere><DéfinitionEntiere>2 - boire.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">1 - laver le linge (malproprement, ajoute GH). </df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien><DéfinitionFrançaise><df id="1">2 - boire.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Lavurage</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>eau sale provenant du lessivage.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">eau sale provenant du lessivage.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LAYER</Vocable>
-        <CatégorieGrammaticale>v.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>laisser. &quot; Il a fini pa ramasser ses loqu', in layant ses ossiaux à s' vill'</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">laisser. </df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LAZARE</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>misérable, pauvre diable. &quot; Mais, mourant d' faim et d' soif, ces pauv' lazar's, / I n'avott'nt rien à prétindr' des barbares &quot; (JM). ANC. : à l'orig., lépreux (lazaron, fin XIIe). puis malade contagieux mis dans un lazaret.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">misérable, pauvre diable. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Mais, mourant d' faim et d' soif, ces pauv' lazar's, / I n'avott'nt rien à prétindr' des barbares &quot; (JM). </ExemplePicard></Exemples><Ancien>ANC. : à l'orig., lépreux (lazaron, fin XIIe). puis malade contagieux mis dans un lazaret.</Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LÉGUEUME</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>légume. Des p'tiotes légueumes : des herbes à soupe.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">légume. Des p'tiotes légueumes : des herbes à soupe.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LÉHU (PP)</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>herbe utilisée pour la litière des animaux (voir : luis). &quot; Un faix d' léhu pou réternir el maguette &quot;.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">herbe utilisée pour la litière des animaux (voir : luis). </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Un faix d' léhu pou réternir el maguette &quot;.</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LEIGNE</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>bois de chauffage (vx) (du lat. Ligna/orum).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">bois de chauffage (vx) (du lat. Ligna/orum).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Leigner</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>marchand de bois de chauffage (vx). Du lat. lignarius.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">marchand de bois de chauffage (vx). Du lat. lignarius.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LÉNIER</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere> longues rênes (syn. d'afilée) (GD).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1"> longues rênes (syn. d'afilée) (GD).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LÉQUER</Vocable>
-        <CatégorieGrammaticale>v.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>lécher. &quot; Ch'ti qu'i s'in va i lèque, ch'ti qui resse i sèque &quot; = qui sort de chez soi a des occasions de se régaler.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">lécher. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Ch'ti qu'i s'in va i lèque, ch'ti qui resse i sèque &quot; = qui sort de chez soi a des occasions de se régaler.</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Léquée</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>ce qu'on lèche, qu'on peut lécher. &quot; Alle avot r'chu toute eine léquée d' papin dins les tros d' nez &quot; (JD).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">ce qu'on lèche, qu'on peut lécher. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Alle avot r'chu toute eine léquée d' papin dins les tros d' nez &quot; (JD).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Léquette</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>lichette, fine tranche de pain, de fromage, de viande...</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">lichette, fine tranche de pain, de fromage, de viande...</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>* LESSIVAGE</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>eau de lessive (voir : lavage, lavurage).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">eau de lessive (voir : lavage, lavurage).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LEU</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>1 - loup. L' gris leu : &quot; Et, dé s' lanque, in avot pus peur qué du gris leu &quot; (PB). &quot; Il est moutré du dogt comm' s'il étot l' gris-leu &quot; (EM). </DéfinitionEntiere><DéfinitionEntiere>2 - misanthrope, homme farouche et solitaire (EC). ANC. : leu (Ch. de Roland, 1080). &quot; Il est ensy comme ly leux / Quy de mengier est désireux &quot; (Gligois, XIIIe). &quot; Ché leu qui, son parmi ché can &quot; (Fl, B, XVIIe) Le fr. a gardé le mot ancien dans &quot; à la queue leu-leu &quot;. (Voir : seu).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">1 - loup. L' gris leu : </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Et, dé s' lanque, in avot pus peur qué du gris leu &quot; (PB). </ExemplePicard><ExemplePicard id="2">&quot; Il est moutré du dogt comm' s'il étot l' gris-leu &quot; (EM). </ExemplePicard></Exemples><Ancien>ANC. : leu (Ch. de Roland, 1080). &quot; Il est ensy comme ly leux / Quy de mengier est désireux &quot; (Gligois, XIIIe). &quot; Ché leu qui, son parmi ché can &quot; (Fl, B, XVIIe) Le fr. a gardé le mot ancien dans &quot; à la queue leu-leu &quot;. (Voir : seu).</Ancien><DéfinitionFrançaise><df id="1">2 - misanthrope, homme farouche et solitaire (EC). </df></DéfinitionFrançaise><Exemples></Exemples><Ancien>ANC. : leu (Ch. de Roland, 1080). &quot; Il est ensy comme ly leux / Quy de mengier est désireux &quot; (Gligois, XIIIe). &quot; Ché leu qui, son parmi ché can &quot; (Fl, B, XVIIe) Le fr. a gardé le mot ancien dans &quot; à la queue leu-leu &quot;. (Voir : seu).</Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LEU</Vocable>
-        <CatégorieGrammaticale>adj. poss.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>leur. &quot; ... al port' leu bonheur den leu manche &quot; (Fl, F, XVIIe).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">leur. </df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LEU ou LIEU</Vocable>
-        <CatégorieGrammaticale>pr. pers. compl.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>leur, se. &quot; All' leu z'arcommande ed leu taire, / Dé n' pas ouvrir leu bouque &quot; (GF). Dis lieu qu' bintôt aussi j' vas printe el bon essor &quot; (EM). &quot; Faut qu'i lieu warde un morciau d' pain &quot; (JM).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">leur, se. </df><df id="2">Dis lieu qu' bintôt aussi j' vas printe el bon essor </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; All' leu z'arcommande ed leu taire, / Dé n' pas ouvrir leu bouque &quot; (GF). </ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LEUM(E)CHON</Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>LUM(E)CHON, s. m. : limaçon. &quot; Des p'tits gosses / Frottant leux nez conte l' ferniette / Font des traces com' des leum'chons &quot; (PB). &quot; El' lum'chon, ch' n'est pas eun' moule ! &quot; (JM). &quot; Ein n' sarot point faire croquer des nosettes à un lumechon &quot; (RD).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">LUM(E)CHON, s. m. : limaçon. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Des p'tits gosses / Frottant leux nez conte l' ferniette / Font des traces com' des leum'chons &quot; (PB). </ExemplePicard><ExemplePicard id="2">&quot; El' lum'chon, ch' n'est pas eun' moule ! &quot; (JM). </ExemplePicard><ExemplePicard id="3">&quot; Ein n' sarot point faire croquer des nosettes à un lumechon &quot; (RD).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LEUMER</Vocable>
-        <CatégorieGrammaticale>v.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>éclairer quelqu'un, lui tenir la lumière. &quot; V'nez chi m' leumer qué j' vous puniche &quot; (JM), disait le chef-porion au mineur en défaut. Leumer des uefs : mirer des oeufs.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">éclairer quelqu'un, lui tenir la lumière. </df><df id="2">disait le chef-porion au mineur en défaut. Leumer des uefs : mirer des oeufs.</df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; V'nez chi m' leumer qué j' vous puniche &quot; (JM), </ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Leum(e)rotte</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>lumignon. &quot; I f' sot des yeux comm' des leum'rottes &quot; (GF). Feufollet. &quot; C'étaient de très beaux yeux verts..., ils brillaient autant que les lumerotes du marais de Vicq &quot; (CD).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">lumignon. </df><df id="2">Feufollet. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; I f' sot des yeux comm' des leum'rottes &quot; (GF). </ExemplePicard><ExemplePicard id="2">&quot; C'étaient de très beaux yeux verts..., ils brillaient autant que les lumerotes du marais de Vicq &quot; (CD).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Leumière</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>lumière. &quot; L' solel eddins les branqu's i fait glicher s' leumière &quot; (JM).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">lumière. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; L' solel eddins les branqu's i fait glicher s' leumière &quot; (JM).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LEUNE</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>lune (voir : belle). Avoir eun' leune : avoir un caprice, une fantaisie (GD). Avoir ses leunes : avoir ses règles.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">lune (voir : belle). Avoir eun' leune : avoir un caprice, une fantaisie (GD). Avoir ses leunes : avoir ses règles.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Leunette</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>lunette. &quot; M'n infirmité, a s' vot fauque avec des leunettes &quot; (FP).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">lunette. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; M'n infirmité, a s' vot fauque avec des leunettes &quot; (FP).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LEUSSE (GF)</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>1 - pou. </DéfinitionEntiere><DéfinitionEntiere>2 - coup donné à une toupie par la toupie de l'adversaire. &quot; Mais l' torpie d' Mimile a des puches / Des poux, des leuss's à fair' frémir &quot;. ANC. : lat. lens : oeuf de pou. Cf. all. Laus, néerl. luis, angl. : louse.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">1 - pou. </df></DéfinitionFrançaise><Exemples></Exemples><Ancien>ANC. : lat. lens : oeuf de pou. Cf. all. Laus, néerl. luis, angl. : louse.</Ancien><DéfinitionFrançaise><df id="1">2 - coup donné à une toupie par la toupie de l'adversaire. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Mais l' torpie d' Mimile a des puches / Des poux, des leuss's à fair' frémir &quot;. </ExemplePicard></Exemples><Ancien>ANC. : lat. lens : oeuf de pou. Cf. all. Laus, néerl. luis, angl. : louse.</Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LÉVIER</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>déform. pour : évier. &quot; Qu'est-ce qu'i n'y avot à faire - El robinet du lévier qui coulot &quot; (RD).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">déform. pour : évier. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Qu'est-ce qu'i n'y avot à faire - El robinet du lévier qui coulot &quot; (RD).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LI</Vocable>
-        <CatégorieGrammaticale>pr. pers. compl.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>lui. Il est employé au fém. dans l'Est de l'arrondissement. &quot; J' té dis qu' ch'est li, l' fame Arthur ! Ch'est li qu'al tient tous mes paperasses &quot; (RD). &quot; Ch'ti-chi ch'est tout l' portrait d' sin père... / Comm' ch'est li, mon Dieu, comm' ch'est li ! &quot; (JM) = comme il lui ressemble ! ANC. : au XIIe, on trouve li aux deux genres (parfois lie au fém.).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">lui. Il est employé au fém. dans l'Est de l'arrondissement. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; J' té dis qu' ch'est li, l' fame Arthur ! Ch'est li qu'al tient tous mes paperasses &quot; (RD). </ExemplePicard><ExemplePicard id="2">&quot; Ch'ti-chi ch'est tout l' portrait d' sin père... / Comm' ch'est li, mon Dieu, comm' ch'est li ! &quot; (JM) = comme il lui ressemble ! </ExemplePicard></Exemples><Ancien>ANC. : au XIIe, on trouve li aux deux genres (parfois lie au fém.).</Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LIBERQUIN</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>(voir : aberquin).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">(voir : aberquin).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LICHER</Vocable>
-        <CatégorieGrammaticale>v.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>lécher (n'est pas part, au rouchi). &quot; Il appelot &quot;licher l' fin verre&quot; / Quand i buvot eun' grand' jatt' d'iau &quot; (JM). ANC. : lichier ou lechier (Psautier de Cambridge, déb. XIIe) s'applique aux plaisirs de la table comme à ceux de la chair.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">lécher (n'est pas part, au rouchi). </df><df id="2">licher l' fin verre</df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Il appelot &quot;</ExemplePicard></Exemples><Ancien>ANC. : lichier ou lechier (Psautier de Cambridge, déb. XIIe) s'applique aux plaisirs de la table comme à ceux de la chair.</Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LICO</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>licol, licou. &quot; ... l' chaîne / Qui glich' su l'anniau du licot &quot; (JM).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">licol, licou. </df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LIEU </Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>: (voir leu, pr. pers.).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">: (voir leu, pr. pers.).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LIEUR (JQ)</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>lieue. &quot; On l' veyot au moins à n' eun' demi-lieur à l' rond' &quot;.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">lieue. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; On l' veyot au moins à n' eun' demi-lieur à l' rond' &quot;.</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LIÈV(R)E</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>&quot; T'as p't-être un lièv' dins t' carnassière ? &quot; (GF) = tu es peut-être enceinte ? &quot; Ch't un vrai liève à l'afilée &quot; (Glec) = c'est un sot.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LIME</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>ligne (pour la pêche). &quot; Tous les ustensil's du péqueux : / Lim's, puisett', filet à friture &quot; (JM). &quot; L' jone de brame et l' péqueux à l' lime &quot; (BD).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">ligne (pour la pêche). </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Tous les ustensil's du péqueux : / Lim's, puisett', filet à friture &quot; (JM). </ExemplePicard><ExemplePicard id="2">&quot; L' jone de brame et l' péqueux à l' lime &quot; (BD).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LIMÉRO</Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>S. m., déform. pour : numéro. &quot; Cha a comminché par un fascicule avec un liméro &quot; (EM). &quot; In a saqué des liméros &quot; (à la loterie) (RP). &quot; All' connot l' liméro ! &quot; (GH) = cette jeune fille n'a plus rien à apprendre ! Au premier liméro : de première qualité. &quot; Et l' ménuisier m'a fabriqué dins ç' bos / Eun' gardé-rope au premier liméro ! &quot; (JM).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">S. m., déform. pour : numéro. </df><df id="2">RP). </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Cha a comminché par un fascicule avec un liméro &quot; (EM). </ExemplePicard><ExemplePicard id="2">&quot; In a saqué des liméros &quot; (à la loterie) (</ExemplePicard><ExemplePicard id="3">&quot; All' connot l' liméro ! &quot; (GH) = cette jeune fille n'a plus rien à apprendre ! Au premier liméro : de première qualité. </ExemplePicard><ExemplePicard id="4">&quot; Et l' ménuisier m'a fabriqué dins ç' bos / Eun' gardé-rope au premier liméro ! &quot; (JM).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LINCHUÉ</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>1 - drap de lit &quot; ô fais widier l' diale d'ém' linchwé &quot; (PMa). </DéfinitionEntiere><DéfinitionEntiere>2 - linceul. ANC. : linsuel : drap de lit (Poème de St Alexis, XIe). En fr. linceul a gardé ce sens jusqu'au XVIIe.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">1 - drap de lit </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; ô fais widier l' diale d'ém' linchwé &quot; (PMa). </ExemplePicard></Exemples><Ancien>ANC. : linsuel : drap de lit (Poème de St Alexis, XIe). En fr. linceul a gardé ce sens jusqu'au XVIIe.</Ancien><DéfinitionFrançaise><df id="1">2 - linceul. </df></DéfinitionFrançaise><Exemples></Exemples><Ancien>ANC. : linsuel : drap de lit (Poème de St Alexis, XIe). En fr. linceul a gardé ce sens jusqu'au XVIIe.</Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LINUISE (GD)</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>graine de lin.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">graine de lin.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LIONNE (GH)</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>aunée (composacée, plante méd. à racine amère et aromatique). Tablettes ed lionne : tablettes que l'on faisait avec du sucre blanc et du suc de racine d'aunée.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">aunée (composacée, plante méd. à racine amère et aromatique). Tablettes ed lionne : tablettes que l'on faisait avec du sucre blanc et du suc de racine d'aunée.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>* LIVRER</Vocable>
-        <CatégorieGrammaticale>v.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>mettre la balle en jeu (au jeu de balle au gant, ou à main nue).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">mettre la balle en jeu (au jeu de balle au gant, ou à main nue).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>* Livrée</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>correspond au service du tennis. &quot; Y n'y avot Prosper et Mineur pou l' livrée ; Cordier, Dor et Dupont pou l' rachat &quot; (JQ).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">correspond au service du tennis. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Y n'y avot Prosper et Mineur pou l' livrée ; Cordier, Dor et Dupont pou l' rachat &quot; (JQ).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Livreux</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>joueur au service.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">joueur au service.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LIVRETTE</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>moule à beurre contenant une demi-livre ; palette gravée en creux servant à imprimer une marque sur les pièces de beurre.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">moule à beurre contenant une demi-livre ; palette gravée en creux servant à imprimer une marque sur les pièces de beurre.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LOG(E)MINT</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>logement.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">logement.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>* Logeux</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>ouvrier célibataire logeant, prenant pension chez un particulier. &quot; Ses logeux ch'étot s' seul' ressource... / Ch' tot toudis les mêm's pinsionnaires &quot; (JM).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">ouvrier célibataire logeant, prenant pension chez un particulier. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Ses logeux ch'étot s' seul' ressource... / Ch' tot toudis les mêm's pinsionnaires &quot; (JM).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LOÏER</Vocable>
-        <CatégorieGrammaticale>v.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>lier. &quot; L' bonnet mal loyé su l' tignasse &quot; (JM). ANC. : loier (Vie de St Léger, Xe).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">lier. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; L' bonnet mal loyé su l' tignasse &quot; (JM). </ExemplePicard></Exemples><Ancien>ANC. : loier (Vie de St Léger, Xe).</Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Loïen</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>lien, formé de deux poignées de longue paille de seigle nouées ensemble et servant à lier une gerbe ; paille torsadée, branche flexible, etc., servant à lier les fagots ; bouquet d'aulx dont on a tressé ensemble les queues : un loïen d'ails. ANC. : loien (XIIe).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">lien, formé de deux poignées de longue paille de seigle nouées ensemble et servant à lier une gerbe ; paille torsadée, branche flexible, etc., servant à lier les fagots ; bouquet d'aulx dont on a tressé ensemble les queues : un loïen d'ails. </df></DéfinitionFrançaise><Exemples></Exemples><Ancien>ANC. : loien (XIIe).</Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Loïure</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>ligature.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">ligature.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LOMONT (GH)</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>petite butte sur laquelle on place la cholette, au jeu de crosse.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">petite butte sur laquelle on place la cholette, au jeu de crosse.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LONG</Vocable>
-        <CatégorieGrammaticale>adv.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>loin. &quot; Aussi long qu' jé m' rappelle &quot; (JD). &quot; Ch'est bin lon d' payer à boire ! &quot; (GF). &quot; Ed lon, in dirot, j' vous l' jure, / Qu'i sortent du grand faiseur &quot; (EM). &quot; In peut t'imm'ner lon, bin lon, / D'zeur les mers, au d'sus des monts &quot; (JM). &quot; D'ichi qué l' tchien alle à les glennes, i n'y a pas long &quot; (RD). ANC. : lonc : loin. &quot; Lonc de sa gent aloit pensant &quot; Wace, XIIe) du lat. longe.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">loin. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Aussi long qu' jé m' rappelle &quot; (JD). </ExemplePicard><ExemplePicard id="2">&quot; Ch'est bin lon d' payer à boire ! &quot; (GF). </ExemplePicard><ExemplePicard id="3">&quot; Ed lon, in dirot, j' vous l' jure, / Qu'i sortent du grand faiseur &quot; (EM). </ExemplePicard><ExemplePicard id="4">&quot; In peut t'imm'ner lon, bin lon, / D'zeur les mers, au d'sus des monts &quot; (JM). </ExemplePicard><ExemplePicard id="5">&quot; D'ichi qué l' tchien alle à les glennes, i n'y a pas long &quot; (RD). </ExemplePicard></Exemples><Ancien>ANC. : lonc : loin. &quot; Lonc de sa gent aloit pensant &quot; Wace, XIIe) du lat. longe.</Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LONG</Vocable>
-        <CatégorieGrammaticale>adj.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>&quot; Long mingeux, long ouvreux &quot; (prov.) = qui mange lentement travaille de même. &quot; (Ils) Ont fait la queue tros heures d' long &quot; (EM) = pendant trois heures. &quot; Il a tout un côté d' pierdu ; i né l' f'ra pus longue &quot; (RD) = il n'a plus longtemps à vivre. &quot; A r'voir ! A l'occasion / Nous l' f'rons pus longue &quot; (JM) = nous resterons plus longtemps une autre fois.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">prov.) = qui mange lentement travaille de même. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Long mingeux, long ouvreux &quot; (</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Longin ou long'j'y-vas</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>lambin. &quot; L'infant buque es sou su l' vitrine / Pour app'ler l' marchand long-j'y-vas &quot; (JM).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">lambin. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; L'infant buque es sou su l' vitrine / Pour app'ler l' marchand long-j'y-vas &quot; (JM).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Longiner</Vocable>
-        <CatégorieGrammaticale>v.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>agir avec lenteur ; temporiser.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">agir avec lenteur ; temporiser.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Longeon</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>longue perche destinée à maintenir l'écartement des bois de soutènement (mines) (AL).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">longue perche destinée à maintenir l'écartement des bois de soutènement (mines) (AL).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Longueur</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>1 - coupon de batiste que l'on retranchait d'une pièce trop longue (GH). </DéfinitionEntiere><DéfinitionEntiere>2 - longueur ed fier: rail de </DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">1 - coupon de batiste que l'on retranchait d'une pièce trop longue (GH). </df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien><DéfinitionFrançaise><df id="1">2 - longueur ed fier: rail de </df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Long-tour</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>cheval de droite dans un attelage à plusieurs chevaux de front (GL). Faire l' long tour : prendre le chemin le plus long.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">cheval de droite dans un attelage à plusieurs chevaux de front (GL). Faire l' long tour : prendre le chemin le plus long.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Longue</Vocable>
-        <CatégorieGrammaticale>prép.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>le long de, près de. &quot; On</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">le long de, près de. </df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LONTAINE</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>vache qui ne donne plus de lait.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">vache qui ne donne plus de lait.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>* LOPIN</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>morceau d'une chose quelconque. &quot; Les lopins, pou ces gross's pièches, / Cauff'nt dins l' four qui lanc' des flamèches &quot; (JM) (il s'agit ici de lopins de fonte). ANC. : lopin : morceau, coup (Hugues Capet, 1330).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">morceau d'une chose quelconque. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Les lopins, pou ces gross's pièches, / Cauff'nt dins l' four qui lanc' des flamèches &quot; (JM) (il s'agit ici de lopins de fonte). </ExemplePicard></Exemples><Ancien>ANC. : lopin : morceau, coup (Hugues Capet, 1330).</Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LOQUE</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>le mot a beaucoup plus de sens qu'en fr. </DéfinitionEntiere><DéfinitionEntiere>1 - vêtements. &quot; S' mère l'amiclote dins des loques ed cul bin propes &quot; (JD) (= langes). &quot; In loques d' fosse ej' m'habille &quot; / Pour réciter mes productions (JM) (= vêtements de mineur). &quot; Toi, té mets tes pus viellés-loques &quot; (EM) (= vieux vêtements). &quot; Mets tes bellés-loques (= beaux vêtements), t'aras d' l'esprit &quot; (GH), dit-on à un sot. &quot; Il avot ses loqu's des diminches (= vêtements de dimanche) / Capote à pans, souliers qui crinchent &quot; (JM). </DéfinitionEntiere><DéfinitionEntiere>2 - tissus de ménage. &quot; Et' quémisse alle n'est pus foque bonne à faire eine loque à dépourrer &quot; (= chiffon à épousseter). Loque à loqueter ou loqueteau : serpillière. &quot; S' nez, su l' débout, est gonflé d' feu / Comme el bourlett' d'eun' loque au bleu &quot; (JM) (= Petit chiffon contenant la boule de poudre d'indigo à blanchir le linge - naguère). </DéfinitionEntiere><DéfinitionEntiere>3 - chiffon sans usage. &quot; Vous vous souv'nez d' Bleu, l' marchand d' loques, (= chiffonnier) / L' marchand d' piaux d' lièvr's et d' piaux d' lapins &quot; (GF).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">le mot a beaucoup plus de sens qu'en fr. </df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien><DéfinitionFrançaise><df id="1">1 - vêtements. </df><df id="2">langes). </df><df id="3">Pour réciter mes productions (JM) (= vêtements de mineur). </df><df id="4">vieux vêtements). </df><df id="5">dit-on à un sot. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; S' mère l'amiclote dins des loques ed cul bin propes &quot; (JD) (= </ExemplePicard><ExemplePicard id="2">&quot; In loques d' fosse ej' m'habille &quot; / </ExemplePicard><ExemplePicard id="3">&quot; Toi, té mets tes pus viellés-loques &quot; (EM) (= </ExemplePicard><ExemplePicard id="4">&quot; Mets tes bellés-loques (= beaux vêtements), t'aras d' l'esprit &quot; (GH), </ExemplePicard><ExemplePicard id="5">&quot; Il avot ses loqu's des diminches (= vêtements de dimanche) / Capote à pans, souliers qui crinchent &quot; (JM). </ExemplePicard></Exemples><Ancien></Ancien><DéfinitionFrançaise><df id="1">2 - tissus de ménage. </df><df id="2">chiffon à épousseter). Loque à loqueter ou loqueteau : serpillière. </df><df id="3">Petit chiffon contenant la boule de poudre d'indigo à blanchir le linge - naguère). </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Et' quémisse alle n'est pus foque bonne à faire eine loque à dépourrer &quot; (= </ExemplePicard><ExemplePicard id="2">&quot; S' nez, su l' débout, est gonflé d' feu / Comme el bourlett' d'eun' loque au bleu &quot; (JM) (= </ExemplePicard></Exemples><Ancien></Ancien><DéfinitionFrançaise><df id="1">3 - chiffon sans usage. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Vous vous souv'nez d' Bleu, l' marchand d' loques, (= chiffonnier) / L' marchand d' piaux d' lièvr's et d' piaux d' lapins &quot; (GF).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Laver les loques </Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>: faire la lessive. &quot; On lave toutes ses loques plutôt deux fois qu'une (AS).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">: faire la lessive. </df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Loqu(e)ter</Vocable>
-        <CatégorieGrammaticale>v.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>(laver le carrelage) figure dans le Lar. Univ. Mais le verbe est d'un emploi plus commun ici que dans le reste de la francophonie !</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">(laver le carrelage) figure dans le Lar. Univ. Mais le verbe est d'un emploi plus commun ici que dans le reste de la francophonie !</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Loqu(e)tois</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>serpillière. &quot; I m' faut deux locquetois, du savon noir et d' l'huile &quot; (RD).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">serpillière. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; I m' faut deux locquetois, du savon noir et d' l'huile &quot; (RD).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>* LOQUET</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>hoquet. Il a l' loquet.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">hoquet. Il a l' loquet.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LORIE (LORIPE à Onnaing</Vocable>
-        <CatégorieGrammaticale>etc.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>), s. f. : mercuriale (plante adventice, euphorbiacée).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">), s. f. : mercuriale (plante adventice, euphorbiacée).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LORIPE</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>animal répugnant. &quot; I n'y a des méduses, des crabes, et pis enne sorte ed sale loripe toute verdélote &quot; (RD).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">animal répugnant. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; I n'y a des méduses, des crabes, et pis enne sorte ed sale loripe toute verdélote &quot; (RD).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Loripette</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>personnage fantastique dont on effraie les enfants qui s'attardent le soir (EC).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">personnage fantastique dont on effraie les enfants qui s'attardent le soir (EC).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LOSSE</Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>LOSTE ou ALOSSE, s. m. : paresseux, mauvais sujet, miséreux, &quot; Les garchons d' Condé ch'est des losses, / Des trompeux d' filles, des pas grand choses &quot; (AD). Losse (ou loste) del Crox : oisif qui stationnait jadis sur la place de la Croix aux Ceps (extrémité Nord de la Place d'Armes actuelle, à Val.), dans l'attente d'un travail temporaire. &quot; Les loss' del Crox sont des vauriens, / Des wiseux et des propr's à rien &quot; (GF). &quot; On ne rencontrait partout que des &quot;célébrités&quot; comme le sourd Taquet, Grosse Tête Chopin, Paie la Goutte et autres losses del Crox &quot; (FP). &quot; Parlons du tondélier Popo, l' ro d'z alosses et des wiseux &quot; (JQ). (Voir : Ost del Crox).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">LOSTE ou ALOSSE, s. m. : paresseux, mauvais sujet, miséreux, </df><df id="2">Losse (ou loste) del Crox : oisif qui stationnait jadis sur la place de la Croix aux Ceps (extrémité Nord de la Place d'Armes actuelle, à Val.), dans l'attente d'un travail temporaire. </df><df id="3">célébrités</df><df id="4">Voir : Ost del Crox).</df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Les garchons d' Condé ch'est des losses, / Des trompeux d' filles, des pas grand choses &quot; (AD). </ExemplePicard><ExemplePicard id="2">&quot; Les loss' del Crox sont des vauriens, / Des wiseux et des propr's à rien &quot; (GF). </ExemplePicard><ExemplePicard id="3">&quot; On ne rencontrait partout que des &quot;</ExemplePicard><ExemplePicard id="4">&quot; comme le sourd Taquet, Grosse Tête Chopin, Paie la Goutte et autres losses del Crox &quot; (FP). </ExemplePicard><ExemplePicard id="5">&quot; Parlons du tondélier Popo, l' ro d'z alosses et des wiseux &quot; (JQ). (</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Lost(e)rie</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>tromperie, polissonnerie ; chose de peu de valeur.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">tromperie, polissonnerie ; chose de peu de valeur.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Lostière</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>, dér. de loste : fille de mauvaise vie : &quot; Et j' té l' dis : j'ai chen fôs pu quière / Dé m' passé d' pain qué t' fuch' lostière &quot; (Fl, F, XVIIe).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">, dér. de loste : fille de mauvaise vie : </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Et j' té l' dis : j'ai chen fôs pu quière / Dé m' passé d' pain qué t' fuch' lostière &quot; (Fl, F, XVIIe).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Lostron</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>vaurien, polisson. ANC. : on trouve : los : misérable (Aiol, fin XIIe). &quot; Cis garchons vint en France povres et los &quot; ; méchant (Baudouin de Condé, fin XIIIe). L'adj. et adv. néerl. los a de multiples sens et dérivés tel : losbandig : libertin, déréglé.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">vaurien, polisson. </df></DéfinitionFrançaise><Exemples></Exemples><Ancien>ANC. : on trouve : los : misérable (Aiol, fin XIIe). &quot; Cis garchons vint en France povres et los &quot; ; méchant (Baudouin de Condé, fin XIIIe). L'adj. et adv. néerl. los a de multiples sens et dérivés tel : losbandig : libertin, déréglé.</Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LOT</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>ancienne mesure de capacité (au nord de la Loire), valant génér. quatre pintes. Lot de Lille : </DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">ancienne mesure de capacité (au nord de la Loire), valant génér. quatre pintes. Lot de Lille : </df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LOUCH(E)-POT</Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>LOUCH(E)-PEUT, s. m. : louche. &quot; L'vant l' chaudière ed' trent'-mill' kilos / Comme eun' femme élève un louch'-pot &quot; (JM).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">LOUCH(E)-PEUT, s. m. : louche. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; L'vant l' chaudière ed' trent'-mill' kilos / Comme eun' femme élève un louch'-pot &quot; (JM).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LOUCHET</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>le terme est employé en fr. surtout pour certaines techniques. En rouchi, c'est la bêche du jardinier. &quot; Ces gins font des mâchoires / Comm' des lames d' louchet &quot; (JM). Louchet à coulisses ou louchet à six coins : bêche dont le fer se termine par une langue étroite pour nettoyer les rails du tramway. &quot; J' l' ai vu, pa l' temps d' neige qu'il a fait, / Portant un louchet à coulisses... / I nettiot les rails pleins d' poussière. In poussant s' louchet à six coins &quot; (JM). I sint l' louchet (EC) = il n'en a plus pour longtemps ; le fossoyeur va bientôt creuser sa tombe. ANC. : dérivé de louche (</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">le terme est employé en fr. surtout pour certaines techniques. En rouchi, c'est la bêche du jardinier. </df><df id="2">Louchet à coulisses ou louchet à six coins : bêche dont le fer se termine par une langue étroite pour nettoyer les rails du tramway. </df><df id="3">I sint l' louchet (EC) = il n'en a plus pour longtemps ; le fossoyeur va bientôt creuser sa tombe. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Ces gins font des mâchoires / Comm' des lames d' louchet &quot; (JM). </ExemplePicard><ExemplePicard id="2">&quot; J' l' ai vu, pa l' temps d' neige qu'il a fait, / Portant un louchet à coulisses... / I nettiot les rails pleins d' poussière. In poussant s' louchet à six coins &quot; (JM). </ExemplePicard></Exemples><Ancien>ANC. : dérivé de louche (</Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LOUGNER (GH)</Vocable>
-        <CatégorieGrammaticale>v.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>lorgner, regarder sournoisement.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">lorgner, regarder sournoisement.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Lougnard ou lourgneux (AH) </Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>: sournois.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">: sournois.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LOUIS</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>&quot; In n'est pas louis d'or,</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LOUQUER</Vocable>
-        <CatégorieGrammaticale>v.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>frapper fortement avec un marteau (AL). (Voir : arlouquer).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">frapper fortement avec un marteau (AL). (Voir : arlouquer).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LOURMIE (AH)</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>personne nonchalante.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">personne nonchalante.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LUIS</Vocable>
-        <CatégorieGrammaticale>s. m. pl.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>longues herbes destinées aux litières des lapins, des chèvres, etc. (B. Debrabant, Raismes). (Voir : églui ; léhu).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">longues herbes destinées aux litières des lapins, des chèvres, etc. (B. Debrabant, Raismes). (Voir : églui ; léhu).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LUM(E)CHON </Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>: (voir : leum'chon).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">: (voir : leum'chon).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LUNE</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>avant-train d'un chariot.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">avant-train d'un chariot.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LUSEUX </Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>: (voir : lusot).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">: (voir : lusot).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LUSIAU</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>cercueil. &quot; Ah ! si m' grand père d' bos blanc povot sortir dé s' lusiau pou quéqu'minut' seul'mint, comm' i fes'rot des yeux ! &quot; (JQ). &quot; Les clos d' lusiau i pouss'tent &quot; (GL) = il vieillit. ANC. : lusel, luisel ou lucel : cercueil (Chevalier au Cygne, XIIe) du lat. locellum : compartiment.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">cercueil. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Ah ! si m' grand père d' bos blanc povot sortir dé s' lusiau pou quéqu'minut' seul'mint, comm' i fes'rot des yeux ! &quot; (JQ). </ExemplePicard><ExemplePicard id="2">&quot; Les clos d' lusiau i pouss'tent &quot; (GL) = il vieillit. </ExemplePicard></Exemples><Ancien>ANC. : lusel, luisel ou lucel : cercueil (Chevalier au Cygne, XIIe) du lat. locellum : compartiment.</Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LUSOTER</Vocable>
-        <CatégorieGrammaticale>v.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>s'amuser à des riens ; tourner beaucoup pour ne rien faire.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">s'amuser à des riens ; tourner beaucoup pour ne rien faire.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Lusot</Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>lusoteux, luseux, s. m. : musard. ANC. : Lat. ludere : jouer ; lusorius : qu'on fait par jeu ; peu sérieux.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">lusoteux, luseux, s. m. : musard. </df></DéfinitionFrançaise><Exemples></Exemples><Ancien>ANC. : Lat. ludere : jouer ; lusorius : qu'on fait par jeu ; peu sérieux.</Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>LUSSIER</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>déform. de huissier. &quot; T'as l' habitude d'avoir el lussier à tes guêtes &quot; (EM). &quot; El lussier qui est foutu l' camp avec les sous des geins &quot; (RD). Chez GT, on trouve zussier.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">déform. de huissier. </df><df id="2">Chez GT, on trouve zussier.</df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; T'as l' habitude d'avoir el lussier à tes guêtes &quot; (EM). </ExemplePicard><ExemplePicard id="2">&quot; El lussier qui est foutu l' camp avec les sous des geins &quot; (RD). </ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>L'ZÉS</Vocable>
-        <CatégorieGrammaticale>pr. pers. compl.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>les. &quot; Ramassez l'zés, v'là l' marchand d' piaux d' lapins &quot; (GF). &quot; Acoutons l'zés, i d' vis'nt ed jardinache &quot; (JM). &quot; Nos l'zés vindons tros francs pièche &quot;.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">les. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Ramassez l'zés, v'là l' marchand d' piaux d' lapins &quot; (GF). </ExemplePicard><ExemplePicard id="2">&quot; Acoutons l'zés, i d' vis'nt ed jardinache &quot; (JM). </ExemplePicard><ExemplePicard id="3">&quot; Nos l'zés vindons tros francs pièche &quot;.</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Les marlettes </Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>: jadis, surnom des habitants de Marly (JQ).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">: jadis, surnom des habitants de Marly (JQ).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>L'origine la plus plausible est que c'est le patois parlé dans le pays de drouchi (de par ici)</Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>avec aphérèse du d : pays d' rouchi (voir : Introduction). Le terme est pratique, bien que peu euphonique et aujourd'hui sujet à contestation. La question est posée de savoir si le rouchi a droit à son &quot; autonomie interne &quot; au sein du domaine picard. Ce livre essaie, sans conclure, de donner des éléments de réponse. Le rouchi est, sans conteste, le picard du Valenciennois. Cependant, l'importance du vocabulaire persistant, la multitude des expressions à sens figuré, de nombreux témoignages écrits, comme son implantation à la frontière du picard et du wallon, sont autant de facteurs intéressants.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">avec aphérèse du d : pays d' rouchi (voir : Introduction). Le terme est pratique, bien que peu euphonique et aujourd'hui sujet à contestation. La question est posée de savoir si le rouchi a droit à son </df><df id="2">au sein du domaine picard. Ce livre essaie, sans conclure, de donner des éléments de réponse. Le rouchi est, sans conteste, le picard du Valenciennois. Cependant, l'importance du vocabulaire persistant, la multitude des expressions à sens figuré, de nombreux témoignages écrits, comme son implantation à la frontière du picard et du wallon, sont autant de facteurs intéressants.</df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; autonomie interne &quot; </ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>La charte de </Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition>
-          <DéfinitionDétaillée></DéfinitionDétaillée></Définition>
-      </Entrée>
-        </Nomenclature>
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+  <entry>
+    <form>
+      <orth>Lochier (Raoul de Cambrai</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim"></def>
+  </entry>
+  <entry>
+    <form>
+      <orth>L' bien des pauvres</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : les fonds pour les secours aux indigents. &quot; In veut m'aruiner. J' vas d'aller su l'bien des paufes &quot; (PP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>: les fonds pour les secours aux indigents. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; In veut m'aruiner. J' vas d'aller su l'bien des paufes &quot; (PP).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Les mots suivants</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        de capelain à capote, ont tous pour orig. le lat. cappa, capuchon, puis cape.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        de capelain à capote, ont tous pour orig. le lat. cappa, capuchon, puis cape.
+      </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Les cops d' martiau</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        = les Cambrésiens (JQ) ; les cops d'aile = les Lillois. &quot; I s' vantot, Cachamoule, i-avot déjà l' cop d'aile &quot; (JD) = il était fichu.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>= les Cambrésiens (JQ) ; les cops d'aile = les Lillois. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; I s' vantot, Cachamoule, i-avot déjà l' cop d'aile &quot; (JD) = il était fichu.
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Les copeux d' dogts</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>= les Condéens.</quote>
+    </def>
+    <def label="française">
+      <quote>= les Condéens.</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>L'occlusive sourde k ne figure</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        en français, que dans des mots de formation savante ou empruntés à des langues étrangères. Il en est de même en picard. Les mots commençant phonétiquement par cette consonne sont classés soit à la lettre c, soir à la lettre q. Il faut pourtant signaler que la transcription de l'occlusive sourde vélaire par le signe k est pratique et s'impose dans tous les cas (!), en écriture phonétique.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        en français, que dans des mots de formation savante ou empruntés à des langues étrangères. Il en est de même en picard. Les mots commençant phonétiquement par cette consonne sont classés soit à la lettre c, soir à la lettre q. Il faut pourtant signaler que la transcription de l'occlusive sourde vélaire par le signe k est pratique et s'impose dans tous les cas (!), en écriture phonétique.
+      </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>* LABEUR</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        labour. &quot; Pour li pus facil'mint courir dins les labeurs &quot; (JM). Le v. labourer se conjugue norm. labeure auprés, de l'ind. ANC. : &quot; Je labeure a mi de troi quérue &quot; (Fl, S, 1648).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>labour. </quote>
+    </def>
+    <def label="française">
+      <quote>Le v. labourer se conjugue norm. labeure auprés, de l'ind. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Pour li pus facil'mint courir dins les labeurs &quot; (JM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : &quot; Je labeure a mi de troi quérue &quot; (Fl, S, 1648).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Labourés</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m. pl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        , terres labourées, labours. &quot; In a caché dins les labourés &quot;.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>, terres labourées, labours. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; In a caché dins les labourés &quot;.</quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>* LACHE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - lacet (piège). &quot; J' coeuros dins l' bos... et j' perdos m' gampe dins un lache &quot; (PP). Et' pris au lache : se faire piéger. &quot; Viv' mariache ! / Core un ménache / Ed pris au lache ! &quot; (JM).
+      </quote>
+      <quote>2 - boucle au milieu d'un fil de lisse (tissage) (GL).</quote>
+    </def>
+    <def label="française">
+      <quote>1 - lacet (piège). </quote>
+    </def>
+    <def label="française">
+      <quote>Et' pris au lache : se faire piéger. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; J' coeuros dins l' bos... et j' perdos m' gampe dins un lache &quot; (PP).
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Viv' mariache ! / Core un ménache / Ed pris au lache ! &quot; (JM).
+      </quote>
+    </cit>
+    <etym></etym>
+    <def label="française">
+      <quote>2 - boucle au milieu d'un fil de lisse (tissage) (GL).</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LACH(E)RON</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>laiteron (plante de la famille des composées, à suc laiteux).</quote>
+    </def>
+    <def label="française">
+      <quote>laiteron (plante de la famille des composées, à suc laiteux).</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LACHET</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>1 - lacet (de chaussure). </quote>
+      <quote>
+        2 - fil de salive, de bave. &quot; Comm' cha sint bon ! J' vas in fair' des lachets &quot; (JD) = ça me met l'eau à la bouche.
+      </quote>
+      <quote>
+        3 - chiendent (plante adventice). &quot; J'ein profiterai pour netchier l'z' haricots ; ej' sus sûr qu'i sont pleins d' lachets &quot; (RD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - lacet (de chaussure). </quote>
+    </def>
+    <etym></etym>
+    <def label="française">
+      <quote>2 - fil de salive, de bave. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Comm' cha sint bon ! J' vas in fair' des lachets &quot; (JD) = ça me met l'eau à la bouche.
+      </quote>
+    </cit>
+    <etym></etym>
+    <def label="française">
+      <quote>3 - chiendent (plante adventice). </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; J'ein profiterai pour netchier l'z' haricots ; ej' sus sûr qu'i sont pleins d' lachets &quot; (RD).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LACS (METT' IN)</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : mettre en baquets : bêchage profond fait avant l'hiver de façon à favoriser l'action nettoyante du gel. Syn. : bras d' fouriaux.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        : mettre en baquets : bêchage profond fait avant l'hiver de façon à favoriser l'action nettoyante du gel. Syn. : bras d' fouriaux.
+      </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LAFAYAU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        au XIXe, surnom des Orphéonistes valenciennois. &quot; Et aveuc un clipet d'bon Lafayau, / Y nous ont régalé d'un grand morciau &quot; (JQ).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>au XIXe, surnom des Orphéonistes valenciennois. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Et aveuc un clipet d'bon Lafayau, / Y nous ont régalé d'un grand morciau &quot; (JQ).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LAIT</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>lait burré : </quote>
+      <quote>1 - babeurre ; </quote>
+      <quote>2 - cardamine des prés. Lait d' bé : </quote>
+      <quote>1 - lait d'une vache qui vient de vêler ; </quote>
+      <quote>
+        2 - chéli-doine ou grande éclaire, qui laisse échapper un latex orangé. Lait-bouli (parfois : libouli), crème pâtissière dont on couvre les tartes. Ce mot apparaît dans le sud de notre zone : à Val., on dit du papin.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>lait burré : </quote>
+    </def>
+    <etym></etym>
+    <def label="française">
+      <quote>1 - babeurre ; </quote>
+    </def>
+    <etym></etym>
+    <def label="française">
+      <quote>2 - cardamine des prés. Lait d' bé : </quote>
+    </def>
+    <etym></etym>
+    <def label="française">
+      <quote>1 - lait d'une vache qui vient de vêler ; </quote>
+    </def>
+    <etym></etym>
+    <def label="française">
+      <quote>
+        2 - chéli-doine ou grande éclaire, qui laisse échapper un latex orangé. Lait-bouli (parfois : libouli), crème pâtissière dont on couvre les tartes. Ce mot apparaît dans le sud de notre zone : à Val., on dit du papin.
+      </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LAÏTE</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : dimin. d'Adélaïde, prénom jadis pop. (c'était celui de la grand' mère et de l'épouse de JM). Loute et Laïte : les géants du Rôleur ; à Valenciennes, créés après la dernière guerre.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        : dimin. d'Adélaïde, prénom jadis pop. (c'était celui de la grand' mère et de l'épouse de JM). Loute et Laïte : les géants du Rôleur ; à Valenciennes, créés après la dernière guerre.
+      </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LAITISON</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        pissenlit. &quot; Attendre raison de celle-là, c'est cacher à létizons su du macadam &quot; (FP). &quot; ... bintôt, j' ming'rai pa l' racheine / Des létisons &quot; (GF).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>pissenlit. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Attendre raison de celle-là, c'est cacher à létizons su du macadam &quot; (FP).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LAITRON</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>poulain à la mamelle.</quote>
+    </def>
+    <def label="française">
+      <quote>poulain à la mamelle.</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LAMBIC</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: cafetière (L. Loriau, Vx Condé). Aphér. de alambic.</quote>
+    </def>
+    <def label="française">
+      <quote>: cafetière (L. Loriau, Vx Condé). Aphér. de alambic.</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LAMIAU</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>LEUMIAU, s. m. : </quote>
+      <quote>
+        1 - palonnier ; trait, muni d'une petite pièce de bois et de chaînes, et qui vient se rattacher aux avant-traits (GD).
+      </quote>
+      <quote>
+        2 - au pl. : baguettes horizontales entre lesquelles on tend les lisses d'un métier à tisser (GL).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>LEUMIAU, s. m. : </quote>
+    </def>
+    <etym></etym>
+    <def label="française">
+      <quote>
+        1 - palonnier ; trait, muni d'une petite pièce de bois et de chaînes, et qui vient se rattacher aux avant-traits (GD).
+      </quote>
+    </def>
+    <etym></etym>
+    <def label="française">
+      <quote>
+        2 - au pl. : baguettes horizontales entre lesquelles on tend les lisses d'un métier à tisser (GL).
+      </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LAMPAS</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        luette, palais, gosier. Arrouser l' lampas (GH) : bien boire. &quot; El seule ruse qu'i z'ont, ch'est, à l' pause, d'aller arroser leu lampas fourséqué &quot; (PP). ANC. : lampas : gosier (Rendus de Moiliens, fin XIIe) &quot; ... je crois qu'en vos repas, / Vous humectez volontiers le lampas &quot; (La Fontaine, XVIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>luette, palais, gosier. Arrouser l' lampas (GH) : bien boire. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; El seule ruse qu'i z'ont, ch'est, à l' pause, d'aller arroser leu lampas fourséqué &quot; (PP).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : lampas : gosier (Rendus de Moiliens, fin XIIe) &quot; ... je crois qu'en vos repas, / Vous humectez volontiers le lampas &quot; (La Fontaine, XVIIe).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LAMPÉRIAU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>chandelier de fer à bobèche (Vx).</quote>
+    </def>
+    <def label="française">
+      <quote>chandelier de fer à bobèche (Vx).</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LANCER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        élancer, causer des élancements douloureux. &quot; J' m'ai écrasé m'n ortelle et cha m' lance ! &quot;.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>élancer, causer des élancements douloureux. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; J' m'ai écrasé m'n ortelle et cha m' lance ! &quot;.</quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>* Lancette (AH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>fronde.</quote>
+    </def>
+    <def label="française">
+      <quote>fronde.</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Lanchure (BD)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        élancement, douleur. &quot; Vos vos sintez des lanchures dins tout vo tiête &quot;.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>élancement, douleur. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; Vos vos sintez des lanchures dins tout vo tiête &quot;.</quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LANDON</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        volée, grand palonnier, pièce de bois perpendic. au timon, pour les attelages à plusieurs chevaux (voir : plarna).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        volée, grand palonnier, pièce de bois perpendic. au timon, pour les attelages à plusieurs chevaux (voir : plarna).
+      </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Landonner</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>coupler deux attelages.</quote>
+    </def>
+    <def label="française">
+      <quote>coupler deux attelages.</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LANGREUX</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        maladif, qui languit. &quot; Langreux comme un infant accablé pa l'hiver &quot; (JD). ANC. : langoros : languissant, malade (Poème de St Alexis, XIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>maladif, qui languit. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; Langreux comme un infant accablé pa l'hiver &quot; (JD). </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : langoros : languissant, malade (Poème de St Alexis, XIe).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LANGUE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>mord' es' langue = se retenir de parler. Ravaler s' langue : </quote>
+      <quote>1 - se taire ; </quote>
+      <quote>
+        2 - mourir. &quot; I n'a pas s' langue dins s' satiau &quot; = il n'a pas la langue dans sa poche. &quot; T' langue all' s'ra usée, tes bras s'ront cor tout nuefs &quot; = tu es plus fort en paroles qu'en actes. &quot; Zélie, Docteur, al a eune langue qu'a n' d' est pas maît' &quot; (PP) = elle ne peut s'empêcher de parler. &quot; T' langue all' dépass' tes dints, faudra mett' un grès d'sus ! &quot; (GV) = tu parles trop.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>mord' es' langue = se retenir de parler. Ravaler s' langue : </quote>
+    </def>
+    <etym></etym>
+    <def label="française">
+      <quote>1 - se taire ; </quote>
+    </def>
+    <etym></etym>
+    <def label="française">
+      <quote>2 - mourir. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; I n'a pas s' langue dins s' satiau &quot; = il n'a pas la langue dans sa poche.
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; T' langue all' s'ra usée, tes bras s'ront cor tout nuefs &quot; = tu es plus fort en paroles qu'en actes.
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Zélie, Docteur, al a eune langue qu'a n' d' est pas maît' &quot; (PP) = elle ne peut s'empêcher de parler.
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; T' langue all' dépass' tes dints, faudra mett' un grès d'sus ! &quot; (GV) = tu parles trop.
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Languette</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>grande langue, bavarde.</quote>
+    </def>
+    <def label="française">
+      <quote>grande langue, bavarde.</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LANSART (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        pièce de bois, à l'arrière d'un chariot, où se fixe le câble maintenant le chargement (voir : comble, combiau).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        pièce de bois, à l'arrière d'un chariot, où se fixe le câble maintenant le chargement (voir : comble, combiau).
+      </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LAPETTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        êt' à l'lapette : être en pans de chemise. &quot; Des femm's in qu' miss', d'z homm's à l'lapette &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>êt' à l'lapette : être en pans de chemise. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Des femm's in qu' miss', d'z homm's à l'lapette &quot; (JM).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>* LAPIDER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - végéter en se tuant au travail ; éprouver des difficultés dans un travail. &quot; Pauf' Zante. Il a lapidé tout sa vie ! &quot; (EM).
+      </quote>
+      <quote>
+        2 - mal traiter. &quot; N'y a pas d' bon sins / D' lapider s' fille ainsi tout l' teimps &quot; (GF).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        1 - végéter en se tuant au travail ; éprouver des difficultés dans un travail.
+      </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; Pauf' Zante. Il a lapidé tout sa vie ! &quot; (EM). </quote>
+    </cit>
+    <etym></etym>
+    <def label="française">
+      <quote>2 - mal traiter. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; N'y a pas d' bon sins / D' lapider s' fille ainsi tout l' teimps &quot; (GF).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Lapide</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        ouvrier laborieux mais malchanceux et misérable. &quot; Va, brav' lapite ! artourne el tierre ! &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>ouvrier laborieux mais malchanceux et misérable. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; Va, brav' lapite ! artourne el tierre ! &quot; (JM).</quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>* LAPIN</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - Ch'est un lapin d'hiver (EC) = c'est un enfant souffreteux ; un animal faible.
+      </quote>
+      <quote>2 - il a fait des lapins = il a vomi.</quote>
+    </def>
+    <def label="française">
+      <quote>
+        1 - Ch'est un lapin d'hiver (EC) = c'est un enfant souffreteux ; un animal faible.
+      </quote>
+    </def>
+    <etym></etym>
+    <def label="française">
+      <quote>2 - il a fait des lapins = il a vomi.</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LARGUÈCHE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - feu vif mais qui ne dure pas. &quot; Un tas d' bidons et d' viés'ries qu'on volot s' débarrasser et interténir ç' larguèche &quot; (JQ) (il s'agit d'un feu de la St Jean).
+      </quote>
+      <quote>
+        2 - liaison passionnée mais courte. &quot; Leu coeur i flamb' comm' eun' larguèche / Dins un bon fier par un temps fro &quot; (JQ).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - feu vif mais qui ne dure pas. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Un tas d' bidons et d' viés'ries qu'on volot s' débarrasser et interténir ç' larguèche &quot; (JQ) (il s'agit d'un feu de la St Jean).
+      </quote>
+    </cit>
+    <etym></etym>
+    <def label="française">
+      <quote>2 - liaison passionnée mais courte. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Leu coeur i flamb' comm' eun' larguèche / Dins un bon fier par un temps fro &quot; (JQ).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LARGUÉTRUE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>âtre Gertrude (voir ce mot).</quote>
+    </def>
+    <def label="française">
+      <quote>âtre Gertrude (voir ce mot).</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LARIDÉ (Jean)</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: l'index (doigt) (lang. enf.).</quote>
+    </def>
+    <def label="française">
+      <quote>: l'index (doigt) (lang. enf.).</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LARIS (FAIRE DES)</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : faire un joyeux tapage, un charivari (AH). &quot; N' comminche point cor. Té fais toudis des larries du diape pour rein du tout &quot; (RD) = des jérémiades. GH donne lari : confusion, tumulte, joie bruyante ; lari bori : désordre dans la maison.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>: faire un joyeux tapage, un charivari (AH). </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; N' comminche point cor. Té fais toudis des larries du diape pour rein du tout &quot; (RD) = des jérémiades. GH donne lari : confusion, tumulte, joie bruyante ; lari bori : désordre dans la maison.
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LASTIQUE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        cordon élastique, caoutchouc. &quot; L'homm' li prind s' bague in lastique &quot; (au pigeon) (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>cordon élastique, caoutchouc. </quote>
+    </def>
+    <def label="française">
+      <quote>JM).</quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; L'homm' li prind s' bague in lastique &quot; (au pigeon) (
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LATTIAU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>assemblage de lattes sur lesquelles on plâtre.</quote>
+    </def>
+    <def label="française">
+      <quote>assemblage de lattes sur lesquelles on plâtre.</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>* LAVAGE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>eau savonneuse pour la lessive.</quote>
+    </def>
+    <def label="française">
+      <quote>eau savonneuse pour la lessive.</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LA-VAU</orth>
+    </form>
+    <gramGrp>
+      <pos>adv.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        là-bas (opp. à ichi). &quot; Va-t-in vir là-vau, dins l'éteule à viaux &quot; (JD). &quot; T' nas pas dû souvint t'imbêter / Quand j' brayos là-vau, pauv' lapite &quot; (PM). ANC. : laval (là
+      </quote>
+    </def>
+    <def label="française">
+      <quote>là-bas (opp. à ichi). </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; Va-t-in vir là-vau, dins l'éteule à viaux &quot; (JD). </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; T' nas pas dû souvint t'imbêter / Quand j' brayos là-vau, pauv' lapite &quot; (PM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : laval (là </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LAV(E)TÉE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        giclée. &quot; I m'a foutu ein' lav'tée d' moutarde su m' viande &quot; (voir : berlafe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>giclée. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; I m'a foutu ein' lav'tée d' moutarde su m' viande &quot; (voir : berlafe).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LAVURER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>1 - laver le linge (malproprement, ajoute GH). </quote>
+      <quote>2 - boire.</quote>
+    </def>
+    <def label="française">
+      <quote>1 - laver le linge (malproprement, ajoute GH). </quote>
+    </def>
+    <etym></etym>
+    <def label="française">
+      <quote>2 - boire.</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Lavurage</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>eau sale provenant du lessivage.</quote>
+    </def>
+    <def label="française">
+      <quote>eau sale provenant du lessivage.</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LAYER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        laisser. &quot; Il a fini pa ramasser ses loqu', in layant ses ossiaux à s' vill'
+      </quote>
+    </def>
+    <def label="française">
+      <quote>laisser. </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LAZARE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        misérable, pauvre diable. &quot; Mais, mourant d' faim et d' soif, ces pauv' lazar's, / I n'avott'nt rien à prétindr' des barbares &quot; (JM). ANC. : à l'orig., lépreux (lazaron, fin XIIe). puis malade contagieux mis dans un lazaret.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>misérable, pauvre diable. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Mais, mourant d' faim et d' soif, ces pauv' lazar's, / I n'avott'nt rien à prétindr' des barbares &quot; (JM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : à l'orig., lépreux (lazaron, fin XIIe). puis malade contagieux mis dans un lazaret.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LÉGUEUME</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>légume. Des p'tiotes légueumes : des herbes à soupe.</quote>
+    </def>
+    <def label="française">
+      <quote>légume. Des p'tiotes légueumes : des herbes à soupe.</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LÉHU (PP)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        herbe utilisée pour la litière des animaux (voir : luis). &quot; Un faix d' léhu pou réternir el maguette &quot;.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>herbe utilisée pour la litière des animaux (voir : luis). </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; Un faix d' léhu pou réternir el maguette &quot;.</quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LEIGNE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>bois de chauffage (vx) (du lat. Ligna/orum).</quote>
+    </def>
+    <def label="française">
+      <quote>bois de chauffage (vx) (du lat. Ligna/orum).</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Leigner</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>marchand de bois de chauffage (vx). Du lat. lignarius.</quote>
+    </def>
+    <def label="française">
+      <quote>marchand de bois de chauffage (vx). Du lat. lignarius.</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LÉNIER</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote> longues rênes (syn. d'afilée) (GD).</quote>
+    </def>
+    <def label="française">
+      <quote> longues rênes (syn. d'afilée) (GD).</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LÉQUER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        lécher. &quot; Ch'ti qu'i s'in va i lèque, ch'ti qui resse i sèque &quot; = qui sort de chez soi a des occasions de se régaler.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>lécher. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Ch'ti qu'i s'in va i lèque, ch'ti qui resse i sèque &quot; = qui sort de chez soi a des occasions de se régaler.
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Léquée</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        ce qu'on lèche, qu'on peut lécher. &quot; Alle avot r'chu toute eine léquée d' papin dins les tros d' nez &quot; (JD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>ce qu'on lèche, qu'on peut lécher. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Alle avot r'chu toute eine léquée d' papin dins les tros d' nez &quot; (JD).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Léquette</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>lichette, fine tranche de pain, de fromage, de viande...</quote>
+    </def>
+    <def label="française">
+      <quote>lichette, fine tranche de pain, de fromage, de viande...</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>* LESSIVAGE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>eau de lessive (voir : lavage, lavurage).</quote>
+    </def>
+    <def label="française">
+      <quote>eau de lessive (voir : lavage, lavurage).</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LEU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - loup. L' gris leu : &quot; Et, dé s' lanque, in avot pus peur qué du gris leu &quot; (PB). &quot; Il est moutré du dogt comm' s'il étot l' gris-leu &quot; (EM).
+      </quote>
+      <quote>
+        2 - misanthrope, homme farouche et solitaire (EC). ANC. : leu (Ch. de Roland, 1080). &quot; Il est ensy comme ly leux / Quy de mengier est désireux &quot; (Gligois, XIIIe). &quot; Ché leu qui, son parmi ché can &quot; (Fl, B, XVIIe) Le fr. a gardé le mot ancien dans &quot; à la queue leu-leu &quot;. (Voir : seu).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - loup. L' gris leu : </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Et, dé s' lanque, in avot pus peur qué du gris leu &quot; (PB).
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Il est moutré du dogt comm' s'il étot l' gris-leu &quot; (EM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : leu (Ch. de Roland, 1080). &quot; Il est ensy comme ly leux / Quy de mengier est désireux &quot; (Gligois, XIIIe). &quot; Ché leu qui, son parmi ché can &quot; (Fl, B, XVIIe) Le fr. a gardé le mot ancien dans &quot; à la queue leu-leu &quot;. (Voir : seu).
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>2 - misanthrope, homme farouche et solitaire (EC). </quote>
+    </def>
+    <etym>
+      <quote>
+        ANC. : leu (Ch. de Roland, 1080). &quot; Il est ensy comme ly leux / Quy de mengier est désireux &quot; (Gligois, XIIIe). &quot; Ché leu qui, son parmi ché can &quot; (Fl, B, XVIIe) Le fr. a gardé le mot ancien dans &quot; à la queue leu-leu &quot;. (Voir : seu).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LEU</orth>
+    </form>
+    <gramGrp>
+      <pos>adj. poss.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        leur. &quot; ... al port' leu bonheur den leu manche &quot; (Fl, F, XVIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>leur. </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LEU ou LIEU</orth>
+    </form>
+    <gramGrp>
+      <pos>pr. pers. compl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        leur, se. &quot; All' leu z'arcommande ed leu taire, / Dé n' pas ouvrir leu bouque &quot; (GF). Dis lieu qu' bintôt aussi j' vas printe el bon essor &quot; (EM). &quot; Faut qu'i lieu warde un morciau d' pain &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>leur, se. </quote>
+    </def>
+    <def label="française">
+      <quote>Dis lieu qu' bintôt aussi j' vas printe el bon essor </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; All' leu z'arcommande ed leu taire, / Dé n' pas ouvrir leu bouque &quot; (GF).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LEUM(E)CHON</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        LUM(E)CHON, s. m. : limaçon. &quot; Des p'tits gosses / Frottant leux nez conte l' ferniette / Font des traces com' des leum'chons &quot; (PB). &quot; El' lum'chon, ch' n'est pas eun' moule ! &quot; (JM). &quot; Ein n' sarot point faire croquer des nosettes à un lumechon &quot; (RD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>LUM(E)CHON, s. m. : limaçon. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Des p'tits gosses / Frottant leux nez conte l' ferniette / Font des traces com' des leum'chons &quot; (PB).
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; El' lum'chon, ch' n'est pas eun' moule ! &quot; (JM). </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Ein n' sarot point faire croquer des nosettes à un lumechon &quot; (RD).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LEUMER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        éclairer quelqu'un, lui tenir la lumière. &quot; V'nez chi m' leumer qué j' vous puniche &quot; (JM), disait le chef-porion au mineur en défaut. Leumer des uefs : mirer des oeufs.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>éclairer quelqu'un, lui tenir la lumière. </quote>
+    </def>
+    <def label="française">
+      <quote>
+        disait le chef-porion au mineur en défaut. Leumer des uefs : mirer des oeufs.
+      </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; V'nez chi m' leumer qué j' vous puniche &quot; (JM), </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Leum(e)rotte</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        lumignon. &quot; I f' sot des yeux comm' des leum'rottes &quot; (GF). Feufollet. &quot; C'étaient de très beaux yeux verts..., ils brillaient autant que les lumerotes du marais de Vicq &quot; (CD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>lumignon. </quote>
+    </def>
+    <def label="française">
+      <quote>Feufollet. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; I f' sot des yeux comm' des leum'rottes &quot; (GF). </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; C'étaient de très beaux yeux verts..., ils brillaient autant que les lumerotes du marais de Vicq &quot; (CD).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Leumière</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        lumière. &quot; L' solel eddins les branqu's i fait glicher s' leumière &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>lumière. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; L' solel eddins les branqu's i fait glicher s' leumière &quot; (JM).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LEUNE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        lune (voir : belle). Avoir eun' leune : avoir un caprice, une fantaisie (GD). Avoir ses leunes : avoir ses règles.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        lune (voir : belle). Avoir eun' leune : avoir un caprice, une fantaisie (GD). Avoir ses leunes : avoir ses règles.
+      </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Leunette</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        lunette. &quot; M'n infirmité, a s' vot fauque avec des leunettes &quot; (FP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>lunette. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; M'n infirmité, a s' vot fauque avec des leunettes &quot; (FP).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LEUSSE (GF)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>1 - pou. </quote>
+      <quote>
+        2 - coup donné à une toupie par la toupie de l'adversaire. &quot; Mais l' torpie d' Mimile a des puches / Des poux, des leuss's à fair' frémir &quot;. ANC. : lat. lens : oeuf de pou. Cf. all. Laus, néerl. luis, angl. : louse.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - pou. </quote>
+    </def>
+    <etym>
+      <quote>
+        ANC. : lat. lens : oeuf de pou. Cf. all. Laus, néerl. luis, angl. : louse.
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>2 - coup donné à une toupie par la toupie de l'adversaire. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Mais l' torpie d' Mimile a des puches / Des poux, des leuss's à fair' frémir &quot;.
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : lat. lens : oeuf de pou. Cf. all. Laus, néerl. luis, angl. : louse.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LÉVIER</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        déform. pour : évier. &quot; Qu'est-ce qu'i n'y avot à faire - El robinet du lévier qui coulot &quot; (RD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>déform. pour : évier. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Qu'est-ce qu'i n'y avot à faire - El robinet du lévier qui coulot &quot; (RD).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LI</orth>
+    </form>
+    <gramGrp>
+      <pos>pr. pers. compl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        lui. Il est employé au fém. dans l'Est de l'arrondissement. &quot; J' té dis qu' ch'est li, l' fame Arthur ! Ch'est li qu'al tient tous mes paperasses &quot; (RD). &quot; Ch'ti-chi ch'est tout l' portrait d' sin père... / Comm' ch'est li, mon Dieu, comm' ch'est li ! &quot; (JM) = comme il lui ressemble ! ANC. : au XIIe, on trouve li aux deux genres (parfois lie au fém.).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>lui. Il est employé au fém. dans l'Est de l'arrondissement. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; J' té dis qu' ch'est li, l' fame Arthur ! Ch'est li qu'al tient tous mes paperasses &quot; (RD).
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Ch'ti-chi ch'est tout l' portrait d' sin père... / Comm' ch'est li, mon Dieu, comm' ch'est li ! &quot; (JM) = comme il lui ressemble !
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : au XIIe, on trouve li aux deux genres (parfois lie au fém.).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LIBERQUIN</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>(voir : aberquin).</quote>
+    </def>
+    <def label="française">
+      <quote>(voir : aberquin).</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LICHER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        lécher (n'est pas part, au rouchi). &quot; Il appelot &quot;licher l' fin verre&quot; / Quand i buvot eun' grand' jatt' d'iau &quot; (JM). ANC. : lichier ou lechier (Psautier de Cambridge, déb. XIIe) s'applique aux plaisirs de la table comme à ceux de la chair.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>lécher (n'est pas part, au rouchi). </quote>
+    </def>
+    <def label="française">
+      <quote>licher l' fin verre</quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; Il appelot &quot;</quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : lichier ou lechier (Psautier de Cambridge, déb. XIIe) s'applique aux plaisirs de la table comme à ceux de la chair.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LICO</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        licol, licou. &quot; ... l' chaîne / Qui glich' su l'anniau du licot &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>licol, licou. </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LIEU</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir leu, pr. pers.).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir leu, pr. pers.).</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LIEUR (JQ)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        lieue. &quot; On l' veyot au moins à n' eun' demi-lieur à l' rond' &quot;.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>lieue. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; On l' veyot au moins à n' eun' demi-lieur à l' rond' &quot;.
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LIÈV(R)E</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        &quot; T'as p't-être un lièv' dins t' carnassière ? &quot; (GF) = tu es peut-être enceinte ? &quot; Ch't un vrai liève à l'afilée &quot; (Glec) = c'est un sot.
+      </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LIME</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        ligne (pour la pêche). &quot; Tous les ustensil's du péqueux : / Lim's, puisett', filet à friture &quot; (JM). &quot; L' jone de brame et l' péqueux à l' lime &quot; (BD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>ligne (pour la pêche). </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Tous les ustensil's du péqueux : / Lim's, puisett', filet à friture &quot; (JM).
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; L' jone de brame et l' péqueux à l' lime &quot; (BD).</quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LIMÉRO</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        S. m., déform. pour : numéro. &quot; Cha a comminché par un fascicule avec un liméro &quot; (EM). &quot; In a saqué des liméros &quot; (à la loterie) (RP). &quot; All' connot l' liméro ! &quot; (GH) = cette jeune fille n'a plus rien à apprendre ! Au premier liméro : de première qualité. &quot; Et l' ménuisier m'a fabriqué dins ç' bos / Eun' gardé-rope au premier liméro ! &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>S. m., déform. pour : numéro. </quote>
+    </def>
+    <def label="française">
+      <quote>RP). </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Cha a comminché par un fascicule avec un liméro &quot; (EM).
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; In a saqué des liméros &quot; (à la loterie) (</quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; All' connot l' liméro ! &quot; (GH) = cette jeune fille n'a plus rien à apprendre ! Au premier liméro : de première qualité.
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Et l' ménuisier m'a fabriqué dins ç' bos / Eun' gardé-rope au premier liméro ! &quot; (JM).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LINCHUÉ</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - drap de lit &quot; ô fais widier l' diale d'ém' linchwé &quot; (PMa).
+      </quote>
+      <quote>
+        2 - linceul. ANC. : linsuel : drap de lit (Poème de St Alexis, XIe). En fr. linceul a gardé ce sens jusqu'au XVIIe.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - drap de lit </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; ô fais widier l' diale d'ém' linchwé &quot; (PMa). </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : linsuel : drap de lit (Poème de St Alexis, XIe). En fr. linceul a gardé ce sens jusqu'au XVIIe.
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>2 - linceul. </quote>
+    </def>
+    <etym>
+      <quote>
+        ANC. : linsuel : drap de lit (Poème de St Alexis, XIe). En fr. linceul a gardé ce sens jusqu'au XVIIe.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LINUISE (GD)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>graine de lin.</quote>
+    </def>
+    <def label="française">
+      <quote>graine de lin.</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LIONNE (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        aunée (composacée, plante méd. à racine amère et aromatique). Tablettes ed lionne : tablettes que l'on faisait avec du sucre blanc et du suc de racine d'aunée.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        aunée (composacée, plante méd. à racine amère et aromatique). Tablettes ed lionne : tablettes que l'on faisait avec du sucre blanc et du suc de racine d'aunée.
+      </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>* LIVRER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>mettre la balle en jeu (au jeu de balle au gant, ou à main nue).</quote>
+    </def>
+    <def label="française">
+      <quote>mettre la balle en jeu (au jeu de balle au gant, ou à main nue).</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>* Livrée</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        correspond au service du tennis. &quot; Y n'y avot Prosper et Mineur pou l' livrée ; Cordier, Dor et Dupont pou l' rachat &quot; (JQ).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>correspond au service du tennis. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Y n'y avot Prosper et Mineur pou l' livrée ; Cordier, Dor et Dupont pou l' rachat &quot; (JQ).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Livreux</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>joueur au service.</quote>
+    </def>
+    <def label="française">
+      <quote>joueur au service.</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LIVRETTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        moule à beurre contenant une demi-livre ; palette gravée en creux servant à imprimer une marque sur les pièces de beurre.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        moule à beurre contenant une demi-livre ; palette gravée en creux servant à imprimer une marque sur les pièces de beurre.
+      </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LOG(E)MINT</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>logement.</quote>
+    </def>
+    <def label="française">
+      <quote>logement.</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>* Logeux</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        ouvrier célibataire logeant, prenant pension chez un particulier. &quot; Ses logeux ch'étot s' seul' ressource... / Ch' tot toudis les mêm's pinsionnaires &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        ouvrier célibataire logeant, prenant pension chez un particulier.
+      </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Ses logeux ch'étot s' seul' ressource... / Ch' tot toudis les mêm's pinsionnaires &quot; (JM).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LOÏER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        lier. &quot; L' bonnet mal loyé su l' tignasse &quot; (JM). ANC. : loier (Vie de St Léger, Xe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>lier. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; L' bonnet mal loyé su l' tignasse &quot; (JM). </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : loier (Vie de St Léger, Xe).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Loïen</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        lien, formé de deux poignées de longue paille de seigle nouées ensemble et servant à lier une gerbe ; paille torsadée, branche flexible, etc., servant à lier les fagots ; bouquet d'aulx dont on a tressé ensemble les queues : un loïen d'ails. ANC. : loien (XIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        lien, formé de deux poignées de longue paille de seigle nouées ensemble et servant à lier une gerbe ; paille torsadée, branche flexible, etc., servant à lier les fagots ; bouquet d'aulx dont on a tressé ensemble les queues : un loïen d'ails.
+      </quote>
+    </def>
+    <etym>
+      <quote>ANC. : loien (XIIe).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Loïure</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>ligature.</quote>
+    </def>
+    <def label="française">
+      <quote>ligature.</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LOMONT (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        petite butte sur laquelle on place la cholette, au jeu de crosse.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        petite butte sur laquelle on place la cholette, au jeu de crosse.
+      </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LONG</orth>
+    </form>
+    <gramGrp>
+      <pos>adv.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        loin. &quot; Aussi long qu' jé m' rappelle &quot; (JD). &quot; Ch'est bin lon d' payer à boire ! &quot; (GF). &quot; Ed lon, in dirot, j' vous l' jure, / Qu'i sortent du grand faiseur &quot; (EM). &quot; In peut t'imm'ner lon, bin lon, / D'zeur les mers, au d'sus des monts &quot; (JM). &quot; D'ichi qué l' tchien alle à les glennes, i n'y a pas long &quot; (RD). ANC. : lonc : loin. &quot; Lonc de sa gent aloit pensant &quot; Wace, XIIe) du lat. longe.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>loin. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; Aussi long qu' jé m' rappelle &quot; (JD). </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; Ch'est bin lon d' payer à boire ! &quot; (GF). </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Ed lon, in dirot, j' vous l' jure, / Qu'i sortent du grand faiseur &quot; (EM).
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; In peut t'imm'ner lon, bin lon, / D'zeur les mers, au d'sus des monts &quot; (JM).
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; D'ichi qué l' tchien alle à les glennes, i n'y a pas long &quot; (RD).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : lonc : loin. &quot; Lonc de sa gent aloit pensant &quot; Wace, XIIe) du lat. longe.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LONG</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        &quot; Long mingeux, long ouvreux &quot; (prov.) = qui mange lentement travaille de même. &quot; (Ils) Ont fait la queue tros heures d' long &quot; (EM) = pendant trois heures. &quot; Il a tout un côté d' pierdu ; i né l' f'ra pus longue &quot; (RD) = il n'a plus longtemps à vivre. &quot; A r'voir ! A l'occasion / Nous l' f'rons pus longue &quot; (JM) = nous resterons plus longtemps une autre fois.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>prov.) = qui mange lentement travaille de même. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; Long mingeux, long ouvreux &quot; (</quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Longin ou long'j'y-vas</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        lambin. &quot; L'infant buque es sou su l' vitrine / Pour app'ler l' marchand long-j'y-vas &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>lambin. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; L'infant buque es sou su l' vitrine / Pour app'ler l' marchand long-j'y-vas &quot; (JM).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Longiner</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>agir avec lenteur ; temporiser.</quote>
+    </def>
+    <def label="française">
+      <quote>agir avec lenteur ; temporiser.</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Longeon</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        longue perche destinée à maintenir l'écartement des bois de soutènement (mines) (AL).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        longue perche destinée à maintenir l'écartement des bois de soutènement (mines) (AL).
+      </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Longueur</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - coupon de batiste que l'on retranchait d'une pièce trop longue (GH).
+      </quote>
+      <quote>2 - longueur ed fier: rail de </quote>
+    </def>
+    <def label="française">
+      <quote>
+        1 - coupon de batiste que l'on retranchait d'une pièce trop longue (GH).
+      </quote>
+    </def>
+    <etym></etym>
+    <def label="française">
+      <quote>2 - longueur ed fier: rail de </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Long-tour</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        cheval de droite dans un attelage à plusieurs chevaux de front (GL). Faire l' long tour : prendre le chemin le plus long.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        cheval de droite dans un attelage à plusieurs chevaux de front (GL). Faire l' long tour : prendre le chemin le plus long.
+      </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Longue</orth>
+    </form>
+    <gramGrp>
+      <pos>prép.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>le long de, près de. &quot; On</quote>
+    </def>
+    <def label="française">
+      <quote>le long de, près de. </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LONTAINE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>vache qui ne donne plus de lait.</quote>
+    </def>
+    <def label="française">
+      <quote>vache qui ne donne plus de lait.</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>* LOPIN</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        morceau d'une chose quelconque. &quot; Les lopins, pou ces gross's pièches, / Cauff'nt dins l' four qui lanc' des flamèches &quot; (JM) (il s'agit ici de lopins de fonte). ANC. : lopin : morceau, coup (Hugues Capet, 1330).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>morceau d'une chose quelconque. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Les lopins, pou ces gross's pièches, / Cauff'nt dins l' four qui lanc' des flamèches &quot; (JM) (il s'agit ici de lopins de fonte).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : lopin : morceau, coup (Hugues Capet, 1330).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LOQUE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>le mot a beaucoup plus de sens qu'en fr. </quote>
+      <quote>
+        1 - vêtements. &quot; S' mère l'amiclote dins des loques ed cul bin propes &quot; (JD) (= langes). &quot; In loques d' fosse ej' m'habille &quot; / Pour réciter mes productions (JM) (= vêtements de mineur). &quot; Toi, té mets tes pus viellés-loques &quot; (EM) (= vieux vêtements). &quot; Mets tes bellés-loques (= beaux vêtements), t'aras d' l'esprit &quot; (GH), dit-on à un sot. &quot; Il avot ses loqu's des diminches (= vêtements de dimanche) / Capote à pans, souliers qui crinchent &quot; (JM).
+      </quote>
+      <quote>
+        2 - tissus de ménage. &quot; Et' quémisse alle n'est pus foque bonne à faire eine loque à dépourrer &quot; (= chiffon à épousseter). Loque à loqueter ou loqueteau : serpillière. &quot; S' nez, su l' débout, est gonflé d' feu / Comme el bourlett' d'eun' loque au bleu &quot; (JM) (= Petit chiffon contenant la boule de poudre d'indigo à blanchir le linge - naguère).
+      </quote>
+      <quote>
+        3 - chiffon sans usage. &quot; Vous vous souv'nez d' Bleu, l' marchand d' loques, (= chiffonnier) / L' marchand d' piaux d' lièvr's et d' piaux d' lapins &quot; (GF).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>le mot a beaucoup plus de sens qu'en fr. </quote>
+    </def>
+    <etym></etym>
+    <def label="française">
+      <quote>1 - vêtements. </quote>
+    </def>
+    <def label="française">
+      <quote>langes). </quote>
+    </def>
+    <def label="française">
+      <quote>Pour réciter mes productions (JM) (= vêtements de mineur). </quote>
+    </def>
+    <def label="française">
+      <quote>vieux vêtements). </quote>
+    </def>
+    <def label="française">
+      <quote>dit-on à un sot. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; S' mère l'amiclote dins des loques ed cul bin propes &quot; (JD) (=
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; In loques d' fosse ej' m'habille &quot; / </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; Toi, té mets tes pus viellés-loques &quot; (EM) (= </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Mets tes bellés-loques (= beaux vêtements), t'aras d' l'esprit &quot; (GH),
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Il avot ses loqu's des diminches (= vêtements de dimanche) / Capote à pans, souliers qui crinchent &quot; (JM).
+      </quote>
+    </cit>
+    <etym></etym>
+    <def label="française">
+      <quote>2 - tissus de ménage. </quote>
+    </def>
+    <def label="française">
+      <quote>
+        chiffon à épousseter). Loque à loqueter ou loqueteau : serpillière.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        Petit chiffon contenant la boule de poudre d'indigo à blanchir le linge - naguère).
+      </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Et' quémisse alle n'est pus foque bonne à faire eine loque à dépourrer &quot; (=
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; S' nez, su l' débout, est gonflé d' feu / Comme el bourlett' d'eun' loque au bleu &quot; (JM) (=
+      </quote>
+    </cit>
+    <etym></etym>
+    <def label="française">
+      <quote>3 - chiffon sans usage. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Vous vous souv'nez d' Bleu, l' marchand d' loques, (= chiffonnier) / L' marchand d' piaux d' lièvr's et d' piaux d' lapins &quot; (GF).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Laver les loques</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : faire la lessive. &quot; On lave toutes ses loques plutôt deux fois qu'une (AS).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>: faire la lessive. </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Loqu(e)ter</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        (laver le carrelage) figure dans le Lar. Univ. Mais le verbe est d'un emploi plus commun ici que dans le reste de la francophonie !
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        (laver le carrelage) figure dans le Lar. Univ. Mais le verbe est d'un emploi plus commun ici que dans le reste de la francophonie !
+      </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Loqu(e)tois</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        serpillière. &quot; I m' faut deux locquetois, du savon noir et d' l'huile &quot; (RD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>serpillière. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; I m' faut deux locquetois, du savon noir et d' l'huile &quot; (RD).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>* LOQUET</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>hoquet. Il a l' loquet.</quote>
+    </def>
+    <def label="française">
+      <quote>hoquet. Il a l' loquet.</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LORIE (LORIPE à Onnaing</orth>
+    </form>
+    <gramGrp>
+      <pos>etc.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>), s. f. : mercuriale (plante adventice, euphorbiacée).</quote>
+    </def>
+    <def label="française">
+      <quote>), s. f. : mercuriale (plante adventice, euphorbiacée).</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LORIPE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        animal répugnant. &quot; I n'y a des méduses, des crabes, et pis enne sorte ed sale loripe toute verdélote &quot; (RD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>animal répugnant. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; I n'y a des méduses, des crabes, et pis enne sorte ed sale loripe toute verdélote &quot; (RD).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Loripette</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        personnage fantastique dont on effraie les enfants qui s'attardent le soir (EC).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        personnage fantastique dont on effraie les enfants qui s'attardent le soir (EC).
+      </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LOSSE</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        LOSTE ou ALOSSE, s. m. : paresseux, mauvais sujet, miséreux, &quot; Les garchons d' Condé ch'est des losses, / Des trompeux d' filles, des pas grand choses &quot; (AD). Losse (ou loste) del Crox : oisif qui stationnait jadis sur la place de la Croix aux Ceps (extrémité Nord de la Place d'Armes actuelle, à Val.), dans l'attente d'un travail temporaire. &quot; Les loss' del Crox sont des vauriens, / Des wiseux et des propr's à rien &quot; (GF). &quot; On ne rencontrait partout que des &quot;célébrités&quot; comme le sourd Taquet, Grosse Tête Chopin, Paie la Goutte et autres losses del Crox &quot; (FP). &quot; Parlons du tondélier Popo, l' ro d'z alosses et des wiseux &quot; (JQ). (Voir : Ost del Crox).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>LOSTE ou ALOSSE, s. m. : paresseux, mauvais sujet, miséreux, </quote>
+    </def>
+    <def label="française">
+      <quote>
+        Losse (ou loste) del Crox : oisif qui stationnait jadis sur la place de la Croix aux Ceps (extrémité Nord de la Place d'Armes actuelle, à Val.), dans l'attente d'un travail temporaire.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>célébrités</quote>
+    </def>
+    <def label="française">
+      <quote>Voir : Ost del Crox).</quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Les garchons d' Condé ch'est des losses, / Des trompeux d' filles, des pas grand choses &quot; (AD).
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Les loss' del Crox sont des vauriens, / Des wiseux et des propr's à rien &quot; (GF).
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; On ne rencontrait partout que des &quot;</quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; comme le sourd Taquet, Grosse Tête Chopin, Paie la Goutte et autres losses del Crox &quot; (FP).
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Parlons du tondélier Popo, l' ro d'z alosses et des wiseux &quot; (JQ). (
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Lost(e)rie</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>tromperie, polissonnerie ; chose de peu de valeur.</quote>
+    </def>
+    <def label="française">
+      <quote>tromperie, polissonnerie ; chose de peu de valeur.</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Lostière</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        , dér. de loste : fille de mauvaise vie : &quot; Et j' té l' dis : j'ai chen fôs pu quière / Dé m' passé d' pain qué t' fuch' lostière &quot; (Fl, F, XVIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>, dér. de loste : fille de mauvaise vie : </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Et j' té l' dis : j'ai chen fôs pu quière / Dé m' passé d' pain qué t' fuch' lostière &quot; (Fl, F, XVIIe).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Lostron</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        vaurien, polisson. ANC. : on trouve : los : misérable (Aiol, fin XIIe). &quot; Cis garchons vint en France povres et los &quot; ; méchant (Baudouin de Condé, fin XIIIe). L'adj. et adv. néerl. los a de multiples sens et dérivés tel : losbandig : libertin, déréglé.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>vaurien, polisson. </quote>
+    </def>
+    <etym>
+      <quote>
+        ANC. : on trouve : los : misérable (Aiol, fin XIIe). &quot; Cis garchons vint en France povres et los &quot; ; méchant (Baudouin de Condé, fin XIIIe). L'adj. et adv. néerl. los a de multiples sens et dérivés tel : losbandig : libertin, déréglé.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LOT</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        ancienne mesure de capacité (au nord de la Loire), valant génér. quatre pintes. Lot de Lille :
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        ancienne mesure de capacité (au nord de la Loire), valant génér. quatre pintes. Lot de Lille :
+      </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LOUCH(E)-POT</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        LOUCH(E)-PEUT, s. m. : louche. &quot; L'vant l' chaudière ed' trent'-mill' kilos / Comme eun' femme élève un louch'-pot &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>LOUCH(E)-PEUT, s. m. : louche. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; L'vant l' chaudière ed' trent'-mill' kilos / Comme eun' femme élève un louch'-pot &quot; (JM).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LOUCHET</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        le terme est employé en fr. surtout pour certaines techniques. En rouchi, c'est la bêche du jardinier. &quot; Ces gins font des mâchoires / Comm' des lames d' louchet &quot; (JM). Louchet à coulisses ou louchet à six coins : bêche dont le fer se termine par une langue étroite pour nettoyer les rails du tramway. &quot; J' l' ai vu, pa l' temps d' neige qu'il a fait, / Portant un louchet à coulisses... / I nettiot les rails pleins d' poussière. In poussant s' louchet à six coins &quot; (JM). I sint l' louchet (EC) = il n'en a plus pour longtemps ; le fossoyeur va bientôt creuser sa tombe. ANC. : dérivé de louche (
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        le terme est employé en fr. surtout pour certaines techniques. En rouchi, c'est la bêche du jardinier.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        Louchet à coulisses ou louchet à six coins : bêche dont le fer se termine par une langue étroite pour nettoyer les rails du tramway.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        I sint l' louchet (EC) = il n'en a plus pour longtemps ; le fossoyeur va bientôt creuser sa tombe.
+      </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Ces gins font des mâchoires / Comm' des lames d' louchet &quot; (JM).
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; J' l' ai vu, pa l' temps d' neige qu'il a fait, / Portant un louchet à coulisses... / I nettiot les rails pleins d' poussière. In poussant s' louchet à six coins &quot; (JM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : dérivé de louche (</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LOUGNER (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>lorgner, regarder sournoisement.</quote>
+    </def>
+    <def label="française">
+      <quote>lorgner, regarder sournoisement.</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Lougnard ou lourgneux (AH)</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: sournois.</quote>
+    </def>
+    <def label="française">
+      <quote>: sournois.</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LOUIS</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>&quot; In n'est pas louis d'or,</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LOUQUER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>frapper fortement avec un marteau (AL). (Voir : arlouquer).</quote>
+    </def>
+    <def label="française">
+      <quote>frapper fortement avec un marteau (AL). (Voir : arlouquer).</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LOURMIE (AH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>personne nonchalante.</quote>
+    </def>
+    <def label="française">
+      <quote>personne nonchalante.</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LUIS</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m. pl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        longues herbes destinées aux litières des lapins, des chèvres, etc. (B. Debrabant, Raismes). (Voir : églui ; léhu).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        longues herbes destinées aux litières des lapins, des chèvres, etc. (B. Debrabant, Raismes). (Voir : églui ; léhu).
+      </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LUM(E)CHON</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : leum'chon).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : leum'chon).</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LUNE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>avant-train d'un chariot.</quote>
+    </def>
+    <def label="française">
+      <quote>avant-train d'un chariot.</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LUSEUX</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : lusot).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : lusot).</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LUSIAU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        cercueil. &quot; Ah ! si m' grand père d' bos blanc povot sortir dé s' lusiau pou quéqu'minut' seul'mint, comm' i fes'rot des yeux ! &quot; (JQ). &quot; Les clos d' lusiau i pouss'tent &quot; (GL) = il vieillit. ANC. : lusel, luisel ou lucel : cercueil (Chevalier au Cygne, XIIe) du lat. locellum : compartiment.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>cercueil. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Ah ! si m' grand père d' bos blanc povot sortir dé s' lusiau pou quéqu'minut' seul'mint, comm' i fes'rot des yeux ! &quot; (JQ).
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Les clos d' lusiau i pouss'tent &quot; (GL) = il vieillit.
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : lusel, luisel ou lucel : cercueil (Chevalier au Cygne, XIIe) du lat. locellum : compartiment.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LUSOTER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>s'amuser à des riens ; tourner beaucoup pour ne rien faire.</quote>
+    </def>
+    <def label="française">
+      <quote>s'amuser à des riens ; tourner beaucoup pour ne rien faire.</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Lusot</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        lusoteux, luseux, s. m. : musard. ANC. : Lat. ludere : jouer ; lusorius : qu'on fait par jeu ; peu sérieux.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>lusoteux, luseux, s. m. : musard. </quote>
+    </def>
+    <etym>
+      <quote>
+        ANC. : Lat. ludere : jouer ; lusorius : qu'on fait par jeu ; peu sérieux.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>LUSSIER</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        déform. de huissier. &quot; T'as l' habitude d'avoir el lussier à tes guêtes &quot; (EM). &quot; El lussier qui est foutu l' camp avec les sous des geins &quot; (RD). Chez GT, on trouve zussier.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>déform. de huissier. </quote>
+    </def>
+    <def label="française">
+      <quote>Chez GT, on trouve zussier.</quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; T'as l' habitude d'avoir el lussier à tes guêtes &quot; (EM).
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; El lussier qui est foutu l' camp avec les sous des geins &quot; (RD).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>L'ZÉS</orth>
+    </form>
+    <gramGrp>
+      <pos>pr. pers. compl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        les. &quot; Ramassez l'zés, v'là l' marchand d' piaux d' lapins &quot; (GF). &quot; Acoutons l'zés, i d' vis'nt ed jardinache &quot; (JM). &quot; Nos l'zés vindons tros francs pièche &quot;.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>les. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Ramassez l'zés, v'là l' marchand d' piaux d' lapins &quot; (GF).
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; Acoutons l'zés, i d' vis'nt ed jardinache &quot; (JM). </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; Nos l'zés vindons tros francs pièche &quot;.</quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Les marlettes</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: jadis, surnom des habitants de Marly (JQ).</quote>
+    </def>
+    <def label="française">
+      <quote>: jadis, surnom des habitants de Marly (JQ).</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>
+        L'origine la plus plausible est que c'est le patois parlé dans le pays de drouchi (de par ici)
+      </orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        avec aphérèse du d : pays d' rouchi (voir : Introduction). Le terme est pratique, bien que peu euphonique et aujourd'hui sujet à contestation. La question est posée de savoir si le rouchi a droit à son &quot; autonomie interne &quot; au sein du domaine picard. Ce livre essaie, sans conclure, de donner des éléments de réponse. Le rouchi est, sans conteste, le picard du Valenciennois. Cependant, l'importance du vocabulaire persistant, la multitude des expressions à sens figuré, de nombreux témoignages écrits, comme son implantation à la frontière du picard et du wallon, sont autant de facteurs intéressants.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        avec aphérèse du d : pays d' rouchi (voir : Introduction). Le terme est pratique, bien que peu euphonique et aujourd'hui sujet à contestation. La question est posée de savoir si le rouchi a droit à son
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        au sein du domaine picard. Ce livre essaie, sans conclure, de donner des éléments de réponse. Le rouchi est, sans conteste, le picard du Valenciennois. Cependant, l'importance du vocabulaire persistant, la multitude des expressions à sens figuré, de nombreux témoignages écrits, comme son implantation à la frontière du picard et du wallon, sont autant de facteurs intéressants.
+      </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; autonomie interne &quot; </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>La charte de</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim"></def>
+  </entry>
+</TEI>

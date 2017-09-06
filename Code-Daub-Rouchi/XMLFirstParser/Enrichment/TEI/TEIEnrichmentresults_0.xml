@@ -1,0 +1,3563 @@
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+  <entry>
+    <form>
+      <orth>ÉBERLOUIR (EM)</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>éberluer </quote>
+    </def>
+    <def label="française">
+      <quote>éberluer </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">éberluer</cit>
+      </cit>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉBISÉ</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>gercé, irrité par la bise (lèvres) (voir : imbisié).</quote>
+    </def>
+    <def label="française">
+      <quote>gercé, irrité par la bise (lèvres) (voir : imbisié).</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">gercé</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉBLUITTES</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f. pl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        éblouissement. Avoir les ébluittes : avoir la vue troublée après avoir regardé le soleil ; être fasciné. &quot; Ils en ont eu les ébluittes ; ils en parleront aussi longtemps que de l'étoile à queue &quot; (FP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        éblouissement. Avoir les ébluittes : avoir la vue troublée après avoir regardé le soleil ; être fasciné.
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">éblouissement</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ils en ont eu les ébluittes ; ils en parleront aussi longtemps que de l'étoile à queue &quot; (FP).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉBOUCH(E)LER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>(GD), v. : égrener le lin par battage.</quote>
+    </def>
+    <def label="française">
+      <quote>(GD), v. : égrener le lin par battage.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉBRANNÉ, ou ÉBREUNÉ</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>abasourdi, comme pris de vertige (rég. de Denain).</quote>
+    </def>
+    <def label="française">
+      <quote>abasourdi, comme pris de vertige (rég. de Denain).</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">abasourdi</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉBRANQUER ou ABRANQUER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>ébrancher.</quote>
+    </def>
+    <def label="française">
+      <quote>ébrancher.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">ébrancher</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉCABILLE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        escarbille. &quot; Quiss' qui paiera tout cha, / Cha s'ra l' zécabill' &quot; (JQ) = les pauvres (ou : le lampiste) sont toujours les victimes.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>escarbille. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">escarbille</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Quiss' qui paiera tout cha, / Cha s'ra l' zécabill' &quot; (JQ) = les pauvres (ou : le lampiste) sont toujours les victimes.
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉCABLÉE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        S. f. : quantité de foin, de blé, etc. retenue sous le cable (ou combiau) tendu sur le chariot (GL).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        S. f. : quantité de foin, de blé, etc. retenue sous le cable (ou combiau) tendu sur le chariot (GL).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">etc</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉCACHES</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f. pl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>échasses.</quote>
+    </def>
+    <def label="française">
+      <quote>échasses.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">échasses</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉCACHOIRE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : cachoire).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : cachoire).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉCAFLIER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>v, : enlever le brou des noix (voir : décafoter).</quote>
+    </def>
+    <def label="française">
+      <quote>v, : enlever le brou des noix (voir : décafoter).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉCALE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        coquille d'oeuf. ANC. : le mot, normanno-picard, est passé en fr. et y a perdu ce sens. Il venait du germ. skalja, ardoise, tuile, écaille ; on le retrouve en all. (Eier-schale) et en angl. (egg-shell) dans le sens de coquille (d'oeuf).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>coquille d'oeuf. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : le mot, normanno-picard, est passé en fr. et y a perdu ce sens. Il venait du germ. skalja, ardoise, tuile, écaille ; on le retrouve en all. (Eier-schale) et en angl. (egg-shell) dans le sens de coquille (d'oeuf).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉCALOT</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>S. m. : barbeau (poisson).</quote>
+    </def>
+    <def label="française">
+      <quote>S. m. : barbeau (poisson).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉCAMIAU OU ESCAMIAU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - dans une grange, plate-forme, à mi-hauteur où l'on reçoit les gerbes pour les jeter plus haut (voir : in.nesse). &quot; On l'zés rinfourque / Sans arrêt su l'écamiau / Edus' qué l' fourqueux, sans trêve, / Bin solid'mint les arlève / Pour l's arjéter cor pus haut &quot; (GF).
+      </quote>
+      <quote>
+        2 - pièces de la charpente d'un car perpendiculaires à l'allonge (GL). ANC : dans les deux cas, il s'agit d'un assemblage de bois. Eschame : banc, escabeau (Chrétien de Troyes, 1164), du lat. scamnum (escabeau).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        1 - dans une grange, plate-forme, à mi-hauteur où l'on reçoit les gerbes pour les jeter plus haut (voir : in.nesse).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">plate-forme</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; On l'zés rinfourque / Sans arrêt su l'écamiau / Edus' qué l' fourqueux, sans trêve, / Bin solid'mint les arlève / Pour l's arjéter cor pus haut &quot; (GF).
+      </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>
+        2 - pièces de la charpente d'un car perpendiculaires à l'allonge (GL). ANC : dans les deux cas, il s'agit d'un assemblage de bois. Eschame : banc, escabeau (Chrétien de Troyes, 1164), du lat. scamnum (escabeau).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉCANGER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>échanger.</quote>
+    </def>
+    <def label="française">
+      <quote>échanger.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">échanger</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* ÉCAPPÉE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>éclaircie.</quote>
+    </def>
+    <def label="française">
+      <quote>éclaircie.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">éclaircie</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉCAPPER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        échapper. &quot; Ses tett's, r'muant's prisonnières, / Sont tout's prêt's à s'écapper &quot; (JM). Il a écappé d'êt' riche = il est pauvre. ANC. : &quot; Diallotin ! ecquapé ! (Fl, E, 1634) = diablotins ! Sauvez-vous !
+      </quote>
+    </def>
+    <def label="française">
+      <quote>échapper. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">échapper</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Il a écappé d'êt' riche = il est pauvre. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ses tett's, r'muant's prisonnières, / Sont tout's prêt's à s'écapper &quot; (JM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : &quot; Diallotin ! ecquapé ! (Fl, E, 1634) = diablotins ! Sauvez-vous !
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉCAUDER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        V. : échauder. &quot; L'air, i s'imbaume, à leu passache, / D' parfums écaudés d' tart's à pons &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>V. : échauder. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; L'air, i s'imbaume, à leu passache, / D' parfums écaudés d' tart's à pons &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉCAUFFER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>V. : échauffer.</quote>
+    </def>
+    <def label="française">
+      <quote>V. : échauffer.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉCAUPISSURE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>démangeaison (voir: caupi).</quote>
+    </def>
+    <def label="française">
+      <quote>démangeaison (voir: caupi).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉCAYOTTES ou ESCAILLOTES</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f. pl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        (A St-Amand), printe ses écayottes : prendre son départ. &quot; (L'vint) i prind ses écayottes du côté des Quatorse... &quot; (BD) = le vent monte.
+      </quote>
+    </def>
+    <def label="française">
+      <quote> (A St-Amand), printe ses écayottes : prendre son départ. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉCHALOUCHE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : salouche).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : salouche).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉCHÉ</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        écheveau, quantité de laine correspondant à 40 tours de dévidoir. ANC. : eschevel (
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        écheveau, quantité de laine correspondant à 40 tours de dévidoir.
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">écheveau</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : eschevel (</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉCHUCHÉ</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>avare, ladre. Les échuchés d' Bermerain (sobriquet).</quote>
+    </def>
+    <def label="française">
+      <quote>avare, ladre. Les échuchés d' Bermerain (sobriquet).</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">avare</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">ladre</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉCISIAU(X)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote> (é prosthétique) : </quote>
+      <quote>
+        1 - ciseau(x). &quot; Pus d'eun' fos, leu z'écisiaux et leu martiaux y z'ont pris l' quémin du Féronnier pou l' zé fair' raccommoder &quot; (JQ).
+      </quote>
+      <quote>
+        2 - grande sauterelle verte (voir : cisiau). &quot; I n' donne point l'idée d'un écisiau étalant ses ailes mordorées &quot; (EM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote> (é prosthétique) : </quote>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>1 - ciseau(x). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Pus d'eun' fos, leu z'écisiaux et leu martiaux y z'ont pris l' quémin du Féronnier pou l' zé fair' raccommoder &quot; (JQ).
+      </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>2 - grande sauterelle verte (voir : cisiau). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I n' donne point l'idée d'un écisiau étalant ses ailes mordorées &quot; (EM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉCLACHOIRE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : cachoire).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : cachoire).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉCLAIR</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        &quot; Em' vinte i fait des éclairs &quot; (GT) = je meurs de faim.
+      </quote>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉCLAIRCHIR</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>éclaircir.</quote>
+    </def>
+    <def label="française">
+      <quote>éclaircir.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">éclaircir</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉCLAT</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        , ou ÉCLETTE, s. f. : gousse d'ail. &quot; Ein' tartine ed fromache cras, et tros éclettes qu'in frotte su l' croûte ! &quot; (JD). ANC. : esclic, s. m., esclice, s. f. : éclat de bois, fragment (Ch. de Roland, 1080) du francique slaitan : déchirer.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>, ou ÉCLETTE, s. f. : gousse d'ail. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ein' tartine ed fromache cras, et tros éclettes qu'in frotte su l' croûte ! &quot; (JD).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : esclic, s. m., esclice, s. f. : éclat de bois, fragment (Ch. de Roland, 1080) du francique slaitan : déchirer.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉCLIFER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        ÉCLÉFER, ACLÉFER OU INCLIFER, v. : déchirer (voir : clifer). &quot; L'un cri' ; Aï ! té m' déchires ! / L'autr' : t'écliff's em cotron ! &quot; (GF). &quot; (I) S'in vont à pas pressés, car el frod les inclife &quot; (JD). &quot; J'ai acleffé m' maronne quand j'ai monté sus l' tape pou faire un discours &quot; (RD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>ÉCLÉFER, ACLÉFER OU INCLIFER, v. : déchirer (voir : clifer). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; L'un cri' ; Aï ! té m' déchires ! / L'autr' : t'écliff's em cotron ! &quot; (GF).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉCLIRE</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        se disjoindre (pour les douves d'un tonneau). Ch'est écli : le tonneau coule. &quot; Tu n'es pas écli, t'as tout ç' qu'i t' faut &quot; (GLec) = tu n'es privé de rien. ANC. : comme éclifer.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        se disjoindre (pour les douves d'un tonneau). Ch'est écli : le tonneau coule.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>tu n'es privé de rien. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Tu n'es pas écli, t'as tout ç' qu'i t' faut &quot; (GLec) =
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : comme éclifer.</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉCOEUME</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        écume. &quot; L' quévau... / Dé l' blanque équeum' plein s' gueul', cante à révier les morts &quot; (JD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>écume. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">écume</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; L' quévau... / Dé l' blanque équeum' plein s' gueul', cante à révier les morts &quot; (JD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉCOPRONER (GL)</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>battre les épis au fléau sans délier les gerbes.</quote>
+    </def>
+    <def label="française">
+      <quote>battre les épis au fléau sans délier les gerbes.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉCOSSILES</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : cossiles).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : cossiles).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉCOUPE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : escoupe).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : escoupe).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉCOUR</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        &quot; L'écour, c'est le giron, autrement dit, l'espace compris entre le ventre et les genoux d'une personne assise. &quot; (EM). &quot; T'es avec et' manman, t' vas d'aller à l'écour &quot; (RP). ANC. : escorz : giron, tablier (Le Livre de Job, 1130). &quot; Déjà che gro dodu su l'écour de se mère &quot; (Fl, S, 1648).
+      </quote>
+    </def>
+    <etym>
+      <quote>
+        ANC. : escorz : giron, tablier (Le Livre de Job, 1130). &quot; Déjà che gro dodu su l'écour de se mère &quot; (Fl, S, 1648).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉCOURITE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        fouet. &quot; Allez hue ! Bijou, qu'alle dit, in claquant l'écourite &quot; (PP). &quot; Quand l' vint s' met dins mes plis (au drapeau) / J' claque comme eine écourite &quot; (JD). ANC. : escorgiee, s. f. : fouet à lanières (Chrétien de Troyes, 1175) ; escorgeon, s. m. : fouet ; pénis (Baudouin de Sebourg, 1330).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>fouet. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fouet</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Allez hue ! Bijou, qu'alle dit, in claquant l'écourite &quot; (PP).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Quand l' vint s' met dins mes plis (au drapeau) / J' claque comme eine écourite &quot; (JD).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : escorgiee, s. f. : fouet à lanières (Chrétien de Troyes, 1175) ; escorgeon, s. m. : fouet ; pénis (Baudouin de Sebourg, 1330).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉCRAMPI ou CRAMPI</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        engourdi, ankylosé. &quot; Ils allongent leurs viellés guilles étambies et crampies sur un banc de la place &quot; (EM). ANC. : cramp : engourdi, contracté, perclus (XIe) du francique kramp ; recourbé. (Voir : cron).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>engourdi, ankylosé. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">engourdi</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">ankylosé</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ils allongent leurs viellés guilles étambies et crampies sur un banc de la place &quot; (EM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : cramp : engourdi, contracté, perclus (XIe) du francique kramp ; recourbé. (Voir : cron).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉCRAPINS</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m. pl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        épis cassés et mal décortiqués qui ne peuvent passer à travers le tamis lors du battage (GD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        épis cassés et mal décortiqués qui ne peuvent passer à travers le tamis lors du battage (GD).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉCRASER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        parler le patois avec un accent très marqué. &quot; Ç' patois-là... y n' sé parl' pas, y n' s'appliqu' pas non pus, y s'écrase &quot; (GT).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>parler le patois avec un accent très marqué. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ç' patois-là... y n' sé parl' pas, y n' s'appliqu' pas non pus, y s'écrase &quot; (GT).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉCRAVINTER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : acravinter).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : acravinter).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉCRÉPER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        râcler, gratter. &quot; Ainsi, souvint, eun' main qu'in aime / Ecrèpe el coeur à i fair' mau &quot; (PM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>râcler, gratter. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">râcler</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">gratter</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ainsi, souvint, eun' main qu'in aime / Ecrèpe el coeur à i fair' mau &quot; (PM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Écrép(e)-sa(l)ière</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        ou f. : avare. &quot; Deux avar's, nouviaux rich's, tell'mint écrép' salières / Qu' cha dépav'rot l' maison pour armett' des peun' tierres &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote> ou f. : avare. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Deux avar's, nouviaux rich's, tell'mint écrép' salières / Qu' cha dépav'rot l' maison pour armett' des peun' tierres &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Écrépure</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        râclure. ANC. : escraper ou escrefer : râcler, nettoyer en râclant (Gautier de Coincy, 1220), du francique krappan.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>râclure. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : escraper ou escrefer : râcler, nettoyer en râclant (Gautier de Coincy, 1220), du francique krappan.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉCRIÈNE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        ÉCRÈNE OU ÉCRINE, s. f. : veillée, assemblée des fileuses aux soirs d'hiver. &quot; Chaque soir, à l'écrienne, nous nous terrions dans le fournil &quot; (EM). ANC. : escreigne ou escriène, chaumière, atelier (Chrétien de Troyes, 1175). God. précise ce sens, et ajoute celui de : veillée des fileuses en hiver. L'orig. lat est scrinium (coffret) qui donnera le mot écrin. L'écrienne-veillée implique l'entassement de nombreuses personnes dans un espace clos, restreint et protecteur.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        ÉCRÈNE OU ÉCRINE, s. f. : veillée, assemblée des fileuses aux soirs d'hiver.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Chaque soir, à l'écrienne, nous nous terrions dans le fournil &quot; (EM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : escreigne ou escriène, chaumière, atelier (Chrétien de Troyes, 1175). God. précise ce sens, et ajoute celui de : veillée des fileuses en hiver. L'orig. lat est scrinium (coffret) qui donnera le mot écrin. L'écrienne-veillée implique l'entassement de nombreuses personnes dans un espace clos, restreint et protecteur.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉCRUAUDER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>sarcler (voir : cruaud).</quote>
+    </def>
+    <def label="française">
+      <quote>sarcler (voir : cruaud).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Écruaudeuse</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>sarcleuse.</quote>
+    </def>
+    <def label="française">
+      <quote>sarcleuse.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">sarcleuse</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Écruaudo</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>sarcloir.</quote>
+    </def>
+    <def label="française">
+      <quote>sarcloir.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">sarcloir</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉCUALLER (GD)</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>enlever le chiendent d'une terre (voir : cualles).</quote>
+    </def>
+    <def label="française">
+      <quote>enlever le chiendent d'une terre (voir : cualles).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉCULÉE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        contenu de l'écuelle. &quot; Il est maît' dé s'n éculée quand il l'a miée &quot; (GH) = il n'est pas maître chez lui.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>contenu de l'écuelle. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Il est maît' dé s'n éculée quand il l'a miée &quot; (GH) = il n'est pas maître chez lui.
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉDERDON</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        édredon. Le mot a conservé la pron. eder, comme l'orig. eider (l'oiseau dont le duvet est à l'origine des édredons).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        édredon. Le mot a conservé la pron. eder, comme l'orig. eider (l'oiseau dont le duvet est à l'origine des édredons).
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">édredon</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉDUSS</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : d'us).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : d'us).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉFORCHES</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f. pl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote> (é prosthétique) : forces, grands ciseaux à tondre.</quote>
+    </def>
+    <def label="française">
+      <quote> (é prosthétique) : forces, grands ciseaux à tondre.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉFOUFIÉ</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : infoufié).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : infoufié).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉGAMBER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : agamber).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : agamber).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉGASIAUTER (S') ou ÉGAVIOTER (S') (GF)</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        s'égosiller. &quot; Et les côs, su l' fien, s'égasiotent &quot;. (Voir : gasiau, gaviot).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>s'égosiller. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">s'égosiller</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Voir : gasiau, gaviot).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Et les côs, su l' fien, s'égasiotent &quot;. (</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉGAVÉLER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        mettre en javelles. &quot; ... arcôyeuss's, aoûteux / Wuèv'nt à égavéler les blés mûrs &quot; (GF). (Voir : gaviau).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>mettre en javelles. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉGAYIR</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        égayer. &quot; Un bon bravo pou nos bouchers / Qui veutt'nt égayir nos quartiers &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>égayer. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">égayer</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Un bon bravo pou nos bouchers / Qui veutt'nt égayir nos quartiers &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉGLUIR</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - secouer de la paille pour en faire tomber les petits bouts, avant de faire des loïens ; palle égluie : longue paille (GD).
+      </quote>
+      <quote>
+        2 - trier les tiges de lin après l'arrachage (GD). ANC. : glui (s. m.) ou gluie (s. f.) : paille de seigle ; chaume pour les toits ; botte de paille (Chrétien de Troyes, 1175) du lat. pop. glodium. (Voir : gluiant.)
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        1 - secouer de la paille pour en faire tomber les petits bouts, avant de faire des loïens ; palle égluie : longue paille (GD).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : glui (s. m.) ou gluie (s. f.) : paille de seigle ; chaume pour les toits ; botte de paille (Chrétien de Troyes, 1175) du lat. pop. glodium. (Voir : gluiant.)
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>2 - trier les tiges de lin après l'arrachage (GD). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : glui (s. m.) ou gluie (s. f.) : paille de seigle ; chaume pour les toits ; botte de paille (Chrétien de Troyes, 1175) du lat. pop. glodium. (Voir : gluiant.)
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉGOUSILLER (S')</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        s'égosiller. L'alouette, au mitan des prés, s'égousill' tant all' s'égasiotte &quot; (GF).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        s'égosiller. L'alouette, au mitan des prés, s'égousill' tant all' s'égasiotte
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">s'égosiller</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉGREUILLÉ (GLec)</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>griffé par une bête, des épines. (Voir : grau, greulles.)</quote>
+    </def>
+    <def label="française">
+      <quote>griffé par une bête, des épines. (Voir : grau, greulles.)</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉHANCÉ</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        hors d'haleine, essoufflé. ANC. : l'onom. han marque l'effort. Enhaner (Saint Grégoire, fin XIIe) : essouffler, haleter.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>hors d'haleine, essoufflé. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">hors d'haleine</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">essoufflé</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : l'onom. han marque l'effort. Enhaner (Saint Grégoire, fin XIIe) : essouffler, haleter.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉJOU.</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        .. ? &quot; Ejou qu' té prinds m' bras pour eune inseine ? &quot; (Voir : jou.)
+      </quote>
+    </def>
+    <def label="française">
+      <quote>.. ? </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Voir : jou.)</quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Ejou qu' té prinds m' bras pour eune inseine ? &quot; (</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉL(E)VER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        (S'), v. : se lever : &quot; Tin r'gard qui s'éliève / Aux fleurs du rideau &quot; (JM). Chez RD : s'alever. &quot; Qu'est-ce qué tu t'alièves déjà ? Il est à peine six heures ! &quot;
+      </quote>
+    </def>
+    <def label="française">
+      <quote>(S'), v. : se lever : </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Chez RD : s'alever. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Tin r'gard qui s'éliève / Aux fleurs du rideau &quot; (JM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Qu'est-ce qué tu t'alièves déjà ? Il est à peine six heures ! &quot;
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉLI</orth>
+    </form>
+    <gramGrp>
+      <pos>part. pas.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        du v. élire. &quot; Ein m'a éli commissaire aux fiêtes &quot; (RD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote> du v. élire. </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">élire</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Ein m'a éli commissaire aux fiêtes &quot; (RD).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉLOGNER (S')</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        s'éloigner. &quot; Taindis qu' les quiens l'impêch'nt ed s'élogner &quot; (GF).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>s'éloigner. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">s'éloigner</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Taindis qu' les quiens l'impêch'nt ed s'élogner &quot; (GF).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉMEN</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        ? (GF) : queue de phrase interr. : n'est-ce pas ? &quot; On n' plurot pas les truch's, ément ? &quot;
+      </quote>
+    </def>
+    <def label="française">
+      <quote>? (GF) : queue de phrase interr. : n'est-ce pas ? </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; On n' plurot pas les truch's, ément ? &quot;</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉMONTÉES</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f. pl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        escalier. &quot; Ch'est t' père avec Zidor. I's sont dins les émontées (GF).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>escalier. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">escalier</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉMOUILLANTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        compresse d'eau chaude. &quot; J'connos les hierp's t'qu'aux pus p'tit's émouillantes &quot; (JM). ANC. : peut être une contam. entre mouiller et émollient ?
+      </quote>
+    </def>
+    <def label="française">
+      <quote>compresse d'eau chaude. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J'connos les hierp's t'qu'aux pus p'tit's émouillantes &quot; (JM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : peut être une contam. entre mouiller et émollient ?</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉNERVÉ D' SEUT</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>expr. courante pour désigner une personne nerveuse, agitée.</quote>
+    </def>
+    <def label="française">
+      <quote>expr. courante pour désigner une personne nerveuse, agitée.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">agitée</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉOUT(R)E</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : outre).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : outre).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉPAGNOTER (S')</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        prendre du bon temps, paresser. &quot; I s'épagnote comme un pourcheau dins l' puriau &quot; (GH).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>prendre du bon temps, paresser. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">prendre du bon temps</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">paresser</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I s'épagnote comme un pourcheau dins l' puriau &quot; (GH).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉPAMURE (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>assemblage à mi-bois.</quote>
+    </def>
+    <def label="française">
+      <quote>assemblage à mi-bois.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉPANÉ (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>se dit du bois dont l'intérieur commence à se gâter.</quote>
+    </def>
+    <def label="française">
+      <quote>se dit du bois dont l'intérieur commence à se gâter.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉPANGUER (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        débarrasser le lin de la paille la plus grossière avant de le cherincher (peigner).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        débarrasser le lin de la paille la plus grossière avant de le cherincher (peigner).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉPANIR</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : apanir).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : apanir).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉPANTER (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>effrayer.</quote>
+    </def>
+    <def label="française">
+      <quote>effrayer.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">effrayer</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉPATTER (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>entrayer (les pieds</quote>
+    </def>
+    <def label="française">
+      <quote>entrayer (les pieds</quote>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉPAUTRER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        écraser, meurtrir, serrer, êt' épautré : être trop serré dans ses vêtements. &quot; Les wagonnets, l'un su l'aut', tout à l' presse, / Sont épautrés comm' des pièches d' burr' mou &quot; (JM). &quot; I crie et s' déclaminte / Après l' piquet qui li-a épautré l' vinte &quot;. (JM). &quot; Epautré deins l' tramway comme enne sardine eddeins s' boîte &quot; (RD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        écraser, meurtrir, serrer, êt' épautré : être trop serré dans ses vêtements.
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">écraser</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">meurtrir</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">serrer</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>JM). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Les wagonnets, l'un su l'aut', tout à l' presse, / Sont épautrés comm' des pièches d' burr' mou &quot; (JM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I crie et s' déclaminte / Après l' piquet qui li-a épautré l' vinte &quot;. (
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Epautré deins l' tramway comme enne sardine eddeins s' boîte &quot; (RD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Épautreux d' waroques</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        écraseur de mottes (sobriquet appliqué aux arpenteurs). ANC. : espaltrer : briser, écraser, éventrer (Chevalerie Ogier, XIIe). &quot; Devant moi vous ferai le chervele espautrer &quot; (Baudouin de Sebourg, v. 1360).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>écraseur de mottes (sobriquet appliqué aux arpenteurs). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : espaltrer : briser, écraser, éventrer (Chevalerie Ogier, XIIe). &quot; Devant moi vous ferai le chervele espautrer &quot; (Baudouin de Sebourg, v. 1360).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉPÉNACHE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : spinache).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : spinache).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉPÉNE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        épine. &quot; N'y avot tant d' geins qu'on arot povu j'ter eun' épeine su euss' sans qu'al quéch' pa' tierre &quot; (JQ). Cha fait eine fameuse épéne déhors dé m' dos = ouf ! je suis soulagé ! (quand un motif de souci a disparu).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>épine. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">épine</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        Cha fait eine fameuse épéne déhors dé m' dos = ouf ! je suis soulagé ! (quand un motif de souci a disparu).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; N'y avot tant d' geins qu'on arot povu j'ter eun' épeine su euss' sans qu'al quéch' pa' tierre &quot; (JQ).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉPÉNIR</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>1 - épanouir ; </quote>
+      <quote>
+        2 - sevrer (GH donne ce second sens comme campagnard ; voir : apanir, épanir). ANC. : espanir : s'ouvrir, se dilater (Partonopeus de Blois, XIIe), du francique spannjan : étendre. Le sens &quot; sevrer &quot; a la même origine, spannjan signifiant aussi : écarter (le bébé de la mère).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - épanouir ; </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : espanir : s'ouvrir, se dilater (Partonopeus de Blois, XIIe), du francique spannjan : étendre. Le sens &quot; sevrer &quot; a la même origine, spannjan signifiant aussi : écarter (le bébé de la mère).
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>
+        2 - sevrer (GH donne ce second sens comme campagnard ; voir : apanir, épanir).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : espanir : s'ouvrir, se dilater (Partonopeus de Blois, XIIe), du francique spannjan : étendre. Le sens &quot; sevrer &quot; a la même origine, spannjan signifiant aussi : écarter (le bébé de la mère).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉPÉNOQUE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - épinoche (poisson). &quot; Car on péquot à z'épénoques / Avec eune épingle et un vier &quot; (GF).
+      </quote>
+      <quote>
+        2 - enfant délicat, chétif. &quot; Tell'mint ç' pétiot jonn' d'épénoque / Vous danse avec un air grâcieux &quot; (JM).
+      </quote>
+      <quote>
+        3 - petite chose, affaire minime. &quot; Cha va querre dins les 920 francs. Ch'est qué ch' n'est mie eune épénoque ! &quot; (RD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - épinoche (poisson). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Car on péquot à z'épénoques / Avec eune épingle et un vier &quot; (GF).
+      </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>2 - enfant délicat, chétif. </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">chétif</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Tell'mint ç' pétiot jonn' d'épénoque / Vous danse avec un air grâcieux &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>3 - petite chose, affaire minime. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉPILLER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>1 - faire tomber le grain des épis. </quote>
+      <quote>
+        2 - émietter : &quot; Ej' culbute... / Mes jatt's s'évill'nt in mill' morciaux ! &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - faire tomber le grain des épis. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>2 - émietter : </quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ej' culbute... / Mes jatt's s'évill'nt in mill' morciaux ! &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉPILVAUDER ; ou APILVAUDER (AH)</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        disperser, éparpiller. &quot; Ses canards, ses glainn' et ses ozons étott' souvint épilvodés &quot; (JQ). &quot; Notre bibliothécaire a battu le rappel de ses manuscrits peinturlurés qui s'étaient épilevaudés aux quatre coins de la terre &quot; (FP). &quot; Nos pauv's meubl's... / Qu' les sal's Boch's ont épilvaudés &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>disperser, éparpiller. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">disperser</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">éparpiller</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ses canards, ses glainn' et ses ozons étott' souvint épilvodés &quot; (JQ).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Notre bibliothécaire a battu le rappel de ses manuscrits peinturlurés qui s'étaient épilevaudés aux quatre coins de la terre &quot; (FP).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Nos pauv's meubl's... / Qu' les sal's Boch's ont épilvaudés &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Épilvaudé</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : s. m. et adj. : indécis, instable de caractère. &quot; Un peu épilevaudé, Delpuche se grattait la tête &quot; (FP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>: s. m. et adj. : indécis, instable de caractère. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Un peu épilevaudé, Delpuche se grattait la tête &quot; (FP).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉPINACHE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : spinache).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : spinache).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉPINCHER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>épincer (les bouts de rameaux), ébourgeonner.</quote>
+    </def>
+    <def label="française">
+      <quote>épincer (les bouts de rameaux), ébourgeonner.</quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">ébourgeonner</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Épincheux</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>épinceur.</quote>
+    </def>
+    <def label="française">
+      <quote>épinceur.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">épinceur</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Épinchure</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>rameau coupé.</quote>
+    </def>
+    <def label="française">
+      <quote>rameau coupé.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉPINCHES</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f. pl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>pinces (é prosthétique).</quote>
+    </def>
+    <def label="française">
+      <quote>pinces (é prosthétique).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉPLEUMETTE ; ÉPLÉNURES (PMa)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        copeau. &quot; In juant avec les épleumettes / Des bouquets d' bos et l' gros maillet &quot; (JM). &quot; Mes éplénures au couan d'in coeur &quot;.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>copeau. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">copeau</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; In juant avec les épleumettes / Des bouquets d' bos et l' gros maillet &quot; (JM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Mes éplénures au couan d'in coeur &quot;.</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉPLINQUE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        épingle. (Voir : aiwuille ; rénicter). ANC. : &quot; Bertran ch' l'éplinguié &quot; (Fl, S, 1648) = le marchand d'épingles.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>épingle. (Voir : aiwuille ; rénicter). </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">épingle</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : &quot; Bertran ch' l'éplinguié &quot; (Fl, S, 1648) = le marchand d'épingles.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉPOMONNER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        époumonner. &quot; Honneur à qui pinse à l' santé / Du malhéreux qui s'épomonne &quot; (JM). (voir : pomon).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>époumonner. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>voir : pomon).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Honneur à qui pinse à l' santé / Du malhéreux qui s'épomonne &quot; (JM). (
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉPONCE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        planche formant le côté d'un lit. ANC. : esponde : bord d'une table, d'un lit, etc. (Voyage de Charlemagne, XIIe), du lat. sponda : bois de lit, châlit.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>planche formant le côté d'un lit. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : esponde : bord d'une table, d'un lit, etc. (Voyage de Charlemagne, XIIe), du lat. sponda : bois de lit, châlit.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉPONTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        ce mot, orig. de notre région, est passé en fr. (1774) dans le sens : terrain stérile qui borde une couche ou un filon (mines). ANC. : m. orig. que le préc. : sponda : bord.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        ce mot, orig. de notre région, est passé en fr. (1774) dans le sens : terrain stérile qui borde une couche ou un filon (mines).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : m. orig. que le préc. : sponda : bord.</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉPOQUER (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>serrer (quelqu'un) contre un mur.</quote>
+    </def>
+    <def label="française">
+      <quote>serrer (quelqu'un) contre un mur.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉPOTRER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : épautrer).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : épautrer).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉPOURRER (S')</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>1 - se rouler dans la poussière (pour une poule). </quote>
+      <quote>
+        2 - faire de grands gestes en parlant (GD). Epourrer : rabrouer (GD). (Voir : pourre).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - se rouler dans la poussière (pour une poule). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>
+        2 - faire de grands gestes en parlant (GD). Epourrer : rabrouer (GD). (Voir : pourre).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉPOUTI (PMa)</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        entassé, écrasé. &quot; Les sangs époutis d'zous les funkes &quot;.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>entassé, écrasé. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">entassé</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">écrasé</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Les sangs époutis d'zous les funkes &quot;.</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉPRISSE (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        morceau de bois que les boulangers faisaient sécher et dont ils se servaient pour éclairer le four quand ils enfournaient.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        morceau de bois que les boulangers faisaient sécher et dont ils se servaient pour éclairer le four quand ils enfournaient.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* ÉPROUVER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : aprouver).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : aprouver).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Éprouvettes (passer par les) (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: être mis à l'épreuve sans s'en rendre compte.</quote>
+    </def>
+    <def label="française">
+      <quote>: être mis à l'épreuve sans s'en rendre compte.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉPUIELLE (GL)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>navette d'un métier à tisser.</quote>
+    </def>
+    <def label="française">
+      <quote>navette d'un métier à tisser.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉQUELLE ou ÉTIELLE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        échelle. Monter à l'équelle = se mettre en colère. &quot; Allons, Pèr', y n' faut mie monter à l'équell' pou si peu d' coss ! &quot; (JQ). &quot; Monter au ciel sans étielle &quot; (BD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>échelle. Monter à l'équelle = se mettre en colère. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">échelle</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">se mettre en colère</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Allons, Pèr', y n' faut mie monter à l'équell' pou si peu d' coss ! &quot; (JQ).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Monter au ciel sans étielle &quot; (BD).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Équellaches</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m. pl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        fourragères, cadres de bois ajoutés à un chariot pour en augmenter la capacité (GL).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        fourragères, cadres de bois ajoutés à un chariot pour en augmenter la capacité (GL).
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fourragères</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉQUERVICHE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        écrevisse. Equerviche d'hôpital : pou ; équerviche ed corps dé garde : morpion.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        écrevisse. Equerviche d'hôpital : pou ; équerviche ed corps dé garde : morpion.
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">écrevisse</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉQUET</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : éché).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : éché).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉQUETTE ou ESQUETTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - éclat de bois, détaché à la hache (voir : esquetter). &quot; Ils avisèrent dans une clairière un feu de copeaux ou, pour mieux dire, d'équettes &quot; (CD). &quot; Ein allumerot enne chigarette à côté d' li, i preind feu comme enne équette &quot; (RD) = il est imbibé d'alcool. &quot; (Gaspard) li fout eune esquette (à la toupie) / Qui n' d'inlèv' presque ed la motié &quot; (GF).
+      </quote>
+      <quote>2 - rognures de métal : &quot; In</quote>
+    </def>
+    <def label="française">
+      <quote>1 - éclat de bois, détaché à la hache (voir : esquetter). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ils avisèrent dans une clairière un feu de copeaux ou, pour mieux dire, d'équettes &quot; (CD).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ein allumerot enne chigarette à côté d' li, i preind feu comme enne équette &quot; (RD) = il est imbibé d'alcool.
+      </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>2 - rognures de métal : </quote>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉQUEUCHER (GL)</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>aiguiser avec la queuche.</quote>
+    </def>
+    <def label="française">
+      <quote>aiguiser avec la queuche.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉQUINON (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        éclisse ; petit panier carré avec un fond à claire-voies, utilisé pour égoutter le fromage.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        éclisse ; petit panier carré avec un fond à claire-voies, utilisé pour égoutter le fromage.
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">éclisse</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉRANER (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>éreinter, casser les reins.</quote>
+    </def>
+    <def label="française">
+      <quote>éreinter, casser les reins.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">éreinter</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉRÈQUE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        arête (de poisson). (Il est curieux de noter l'homophonie avec des mots de la famille de erigere (dresser), comme érectile ; et de penser au hérisson du lat. ericius).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        arête (de poisson). (Il est curieux de noter l'homophonie avec des mots de la famille de erigere (dresser), comme érectile ; et de penser au hérisson du lat. ericius).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉRIPEUSE (GD)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>machine servant à égrener le lin.</quote>
+    </def>
+    <def label="française">
+      <quote>machine servant à égrener le lin.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Étanchon</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        étançon. &quot; Un verre ed vin dins ein' viell' panche / Ch't un étanchon à n'ein' viell' granche &quot; (prov. pop. repris par PB ; cité aussi par GH, FP, EM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>étançon. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">étançon</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Un verre ed vin dins ein' viell' panche / Ch't un étanchon à n'ein' viell' granche &quot; (prov. pop. repris par PB ; cité aussi par GH, FP, EM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉTAMBI ou ÉTOMBI</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - engourdi (par le froid). &quot; J'ai les mains étombies &quot; (GH).
+      </quote>
+      <quote>
+        2 - ébranlé, étourdi par des coups. ANC. : tombir : retentir, résonner (G. d'Arras, 1167). &quot; Tant saint et tante cloche sonne, / Tout en tombist, tout en résonne &quot; (Coincy, 1220).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - engourdi (par le froid). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; J'ai les mains étombies &quot; (GH). </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : tombir : retentir, résonner (G. d'Arras, 1167). &quot; Tant saint et tante cloche sonne, / Tout en tombist, tout en résonne &quot; (Coincy, 1220).
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>2 - ébranlé, étourdi par des coups. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : tombir : retentir, résonner (G. d'Arras, 1167). &quot; Tant saint et tante cloche sonne, / Tout en tombist, tout en résonne &quot; (Coincy, 1220).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉTAMÈNE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>S. f. : étamine : fine toile servant à filtrer le lait.</quote>
+    </def>
+    <def label="française">
+      <quote>S. f. : étamine : fine toile servant à filtrer le lait.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉTAMPER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : atamper).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : atamper).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Étampo d'osiau (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>épouvantail.</quote>
+    </def>
+    <def label="française">
+      <quote>épouvantail.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">épouvantail</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉTANCHON</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>ÉTANCHONNER : (voir : es tancener).</quote>
+    </def>
+    <def label="française">
+      <quote>ÉTANCHONNER : (voir : es tancener).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉTAQUE (AH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>pieu (voir : estaque).</quote>
+    </def>
+    <def label="française">
+      <quote>pieu (voir : estaque).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉTAULE ou ÉTEULE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        étable. &quot; S'n hochénoire / Ch'est un bac, pou l' minger des biêt's, dins l' éteul' noire &quot; (JD). &quot; A l' cinse, un viau brait dins s'n étole &quot; (GF). GL donne : étaule à g'vaux : écurie ; étaule à pourchaux : porcherie ; étaule à lapins : clapier.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>étable. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">étable</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        GL donne : étaule à g'vaux : écurie ; étaule à pourchaux : porcherie ; étaule à lapins : clapier.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; S'n hochénoire / Ch'est un bac, pou l' minger des biêt's, dins l' éteul' noire &quot; (JD).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; A l' cinse, un viau brait dins s'n étole &quot; (GF). </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Étauler</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>mettre (les bêtes) à l'étable.</quote>
+    </def>
+    <def label="française">
+      <quote>mettre (les bêtes) à l'étable.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Étaulette ou éteulette</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        petite étable, clapier, porcherie. &quot; Des ouverriers débloquent d' l'étaulette / L' cadavr' des qu'vaux pourrissant d'puis un mos &quot; (JM). &quot; Pis, tout in bas, ch'est l'z étaulettes ; / Pau grillage, on vot les lapins &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>petite étable, clapier, porcherie. </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">clapier</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">porcherie</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Des ouverriers débloquent d' l'étaulette / L' cadavr' des qu'vaux pourrissant d'puis un mos &quot; (JM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Pis, tout in bas, ch'est l'z étaulettes ; / Pau grillage, on vot les lapins &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉTEINDU</orth>
+    </form>
+    <gramGrp>
+      <pos>part. pas.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote> d'éteindre : &quot; J'ai éteindu l' lampe &quot;.</quote>
+    </def>
+    <def label="française">
+      <quote> d'éteindre : </quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; J'ai éteindu l' lampe &quot;.</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Éteino</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        éteignoir. &quot; Il a un nez comme un éténô (GH) = il a un grand nez.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>éteignoir. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">éteignoir</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉT(E)NIELLES</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f. pl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        pinces, pincettes à feu (voir : épinchettes). &quot; Elle lui eût certainement mordu la main s'il ne s'était servi des étenielles, je veux dire des pincettes, pour ôter la racine &quot; (CD). Chez EM : tenailles de forgeron : &quot; Les ét'nielles, il s'agissait bien sûr des tenailles avec lesquelles le maréchal-ferrant tient le fer à cheval &quot;.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>pinces, pincettes à feu (voir : épinchettes). </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">pinces</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Chez EM : tenailles de forgeron : </quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Elle lui eût certainement mordu la main s'il ne s'était servi des étenielles, je veux dire des pincettes, pour ôter la racine &quot; (CD).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Les ét'nielles, il s'agissait bien sûr des tenailles avec lesquelles le maréchal-ferrant tient le fer à cheval &quot;.
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉTEULE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : étaule).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : étaule).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉTEULIÈRES</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f. pl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>éteule, chaume qui reste après la moisson.</quote>
+    </def>
+    <def label="française">
+      <quote>éteule, chaume qui reste après la moisson.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">éteule</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉTIELLE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : équelle).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : équelle).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉTIL</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>métier à tisser.</quote>
+    </def>
+    <def label="française">
+      <quote>métier à tisser.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">métier à tisser</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉTIQU(E)TEUX</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>employé de la lampisterie chargé de classer les taillettes (AL).</quote>
+    </def>
+    <def label="française">
+      <quote>employé de la lampisterie chargé de classer les taillettes (AL).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉTOILE A QUEUE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - comète. &quot; Ch'étot du temps d' l'Etoile à queue, / Annoncé' par les arménachs &quot; (JM).
+      </quote>
+      <quote>
+        2 - chose extraordinaire. &quot; On parlot d' Romainvill' comme ed l'Étoile à Queue &quot; (JQ).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - comète. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ch'étot du temps d' l'Etoile à queue, / Annoncé' par les arménachs &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>2 - chose extraordinaire. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; On parlot d' Romainvill' comme ed l'Étoile à Queue &quot; (JQ).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉTON (GL)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        boule de fil utilisé par le tisserand pour faire sa toile ; tresse de fils avec laquelle on fera la chaîne pour le métier à tisser.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        boule de fil utilisé par le tisserand pour faire sa toile ; tresse de fils avec laquelle on fera la chaîne pour le métier à tisser.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉTOQUER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : estoquer).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : estoquer).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉTOUPE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        avoir d' l'étoupe à détouiller : avoir beaucoup de difficultés. &quot; J' cros que l' Commission al ara pus d'eun' fos d'z' étoupes à détouiller &quot; (JQ).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>avoir d' l'étoupe à détouiller : avoir beaucoup de difficultés. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J' cros que l' Commission al ara pus d'eun' fos d'z' étoupes à détouiller &quot; (JQ).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉTOUPELLE (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        porte de four ; plaque de fer posée devant les cheminées dites à oeil de boeuf.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        porte de four ; plaque de fer posée devant les cheminées dites à oeil de boeuf.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉTOURDISIONS</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f. pl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        vertiges, étourdissements (contam. possible de &quot; étourdissement &quot; par tourbision).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>vertiges, étourdissements (contam. possible de </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>par tourbision).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; étourdissement &quot; </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉTRAIN ou ESTRAIN</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        paille. &quot; Sans pus s'fouler qu' si avot manié eune botte d'étrain &quot; (BD). ANC. : estrain : paille servant de litière (Perceval, Chrétien de Troyes, 1170), du lat. stramen, m. sens. &quot; Sa meson n'estoit pas de teule, / Ainçois estoit d'estrain couverte &quot; (Roman du Comte d'Anjou, J. Maillart, 1316).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>paille. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">paille</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Sans pus s'fouler qu' si avot manié eune botte d'étrain &quot; (BD).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : estrain : paille servant de litière (Perceval, Chrétien de Troyes, 1170), du lat. stramen, m. sens. &quot; Sa meson n'estoit pas de teule, / Ainçois estoit d'estrain couverte &quot; (Roman du Comte d'Anjou, J. Maillart, 1316).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉTRANNER ou ÉTRONNER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - étrangler (voir : dogts). &quot; L' tchien du visin a étranné les lapins dins leur baraque &quot; (RD).
+      </quote>
+      <quote>
+        2 - gronder, se mettre en colère contre quelqu'un. &quot; I-est toudis prêt à étronner les gins. &quot; Etronner d' faim = avoir très faim. ANC. : estraner : étrangler (God.).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - étrangler (voir : dogts). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; L' tchien du visin a étranné les lapins dins leur baraque &quot; (RD).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : estraner : étrangler (God.).</quote>
+    </etym>
+    <def label="française">
+      <quote>2 - gronder, se mettre en colère contre quelqu'un. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Etronner d' faim = avoir très faim. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; I-est toudis prêt à étronner les gins. &quot; </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : estraner : étrangler (God.).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>* ÉTRENNER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        aller présenter ses voeux de nouvel an (ce mot est employé par ceux qui pensent ainsi parler français). L'expr. la plus pop. est mett' in bon an. Dans la rég. d'Onnaing, on dit : atrinner, atrinnache. &quot; Ein n' s'atrinne point l' lindemain. Ch'est l' jour même qu'in s' met in bon an &quot; (RD). Ch'est enne corvée aussi, cha, l'z atrinnaches &quot; (RD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        aller présenter ses voeux de nouvel an (ce mot est employé par ceux qui pensent ainsi parler français). L'expr. la plus pop. est mett' in bon an. Dans la rég. d'Onnaing, on dit : atrinner, atrinnache.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Ch'est enne corvée aussi, cha, l'z atrinnaches </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ein n' s'atrinne point l' lindemain. Ch'est l' jour même qu'in s' met in bon an &quot; (RD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉTROT</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        étroit, s. m. : &quot; Il a passé pa l's étrots &quot; (GH) = on l'a examiné de près. (Voir : éprouvette).
+      </quote>
+    </def>
+    <def label="française">
+      <quote> étroit, s. m. : </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">étroit</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Il a passé pa l's étrots &quot; (GH) = on l'a examiné de près. (Voir : éprouvette).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* ÉTUVE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        poële flamand. &quot; Vo n'étufe... dot ête toute rouche &quot; (BD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>poële flamand. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Vo n'étufe... dot ête toute rouche &quot; (BD).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Éü</orth>
+    </form>
+    <gramGrp>
+      <pos>part. pas.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote> de avoir.</quote>
+    </def>
+    <def label="française">
+      <quote> de avoir.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉVACUACHE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>évacuation (1918, 1940). (Voir : bombardache).</quote>
+    </def>
+    <def label="française">
+      <quote>évacuation (1918, 1940). (Voir : bombardache).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* ÉVASURES (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f. pl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>chutes de tissu lorsqu'on taille un habit.</quote>
+    </def>
+    <def label="française">
+      <quote>chutes de tissu lorsqu'on taille un habit.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉWIDIER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : (voir : widier). S'éwidier : se vider (pour un mort dont les sphincters se relâchent).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        : (voir : widier). S'éwidier : se vider (pour un mort dont les sphincters se relâchent).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ÉYÉ</orth>
+    </form>
+    <gramGrp>
+      <pos>conj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        de coord. : et, ainsi que. Le mot n' est pas valenciennois. GF, RD l'ont emprunté aux frontaliers. &quot; Em' famé éyé m' fille al sont à la mer &quot; (RD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        de coord. : et, ainsi que. Le mot n' est pas valenciennois. GF, RD l'ont emprunté aux frontaliers.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">ainsi que</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Em' famé éyé m' fille al sont à la mer &quot; (RD).</quote>
+    </cit>
+    <etym/>
+  </entry>
+</TEI>

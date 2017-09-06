@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Nomenclature>
           <Entrée>
-        <Vocable>W </Vocable>
+        <Vocable>W</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: cette lettre, improprement appelée double v, alors qu'elle est une semi-voyelle, doit se prononcer comme en angl. et non comme en all. A rappeler, car les &quot; Parisiens &quot; disent toujours &quot; Vatteau &quot; et &quot; Vallon &quot; pour Waîteau et Wallon (Ouato, Oualon), alors qu'ils prononcent correctement Wallonie et l'adj. wallon.</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: cette lettre, improprement appelée double v, alors qu'elle est une semi-voyelle, doit se prononcer comme en angl. et non comme en all. A rappeler, car les </dfEntière><Trad><CandidatTraduction>cette lettre</CandidatTraduction></Trad><Trad><CandidatTraduction>improprement appelée double v</CandidatTraduction></Trad><Trad><CandidatTraduction>alors qu'elle est une semi-voyelle</CandidatTraduction></Trad><Trad><CandidatTraduction>doit se prononcer comme en angl</CandidatTraduction></Trad><Trad><CandidatTraduction>et non comme en all</CandidatTraduction></Trad><Trad><CandidatTraduction>A rappeler</CandidatTraduction></Trad><Trad><CandidatTraduction>car les</CandidatTraduction></Trad></df><df><dfEntière>disent toujours </dfEntière><Trad><CandidatTraduction>disent toujours</CandidatTraduction></Trad></df><df><dfEntière>et </dfEntière><Trad><CandidatTraduction>et</CandidatTraduction><Traduction>et</Traduction></Trad></df><df><dfEntière>pour Waîteau et Wallon (Ouato, Oualon), alors qu'ils prononcent correctement Wallonie et l'adj. wallon.</dfEntière><Trad><CandidatTraduction>pour Waîteau et Wallon (Ouato, Oualon)</CandidatTraduction></Trad><Trad><CandidatTraduction>alors qu'ils prononcent correctement Wallonie et l'adj</CandidatTraduction></Trad><Trad><CandidatTraduction>wallon</CandidatTraduction><Traduction>wallon</Traduction></Trad></df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Parisiens &quot; </ExemplePicard><ExemplePicard id="2">&quot; Vatteau &quot; </ExemplePicard><ExemplePicard id="3">&quot; Vallon &quot; </ExemplePicard></Exemples><Ancien/></DéfinitionDétaillée></Définition>
@@ -116,7 +116,7 @@
         <Définition><DéfinitionEntiere>mare servant d'abreuvoir.</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>mare servant d'abreuvoir.</dfEntière><Trad><CandidatTraduction>mare servant d'abreuvoir</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>WETTIER </Vocable>
+        <Vocable>WETTIER</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: (voir : vettier).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: (voir : vettier).</dfEntière><Trad><CandidatTraduction>(voir : vettier)</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>

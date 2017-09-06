@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Nomenclature>
-
         <ArticleDeDictionnaire>
         <Entrée>abaisser</Entrée>
         <Complément></Complément>
@@ -12488,5 +12487,4 @@
         <LexieEntiere>titi.</LexieEntiere>
         <Lexie><SousLexie>titi.</SousLexie></Lexie>
       </ArticleDeDictionnaire>
-</Nomenclature>
-      
+      </Nomenclature>

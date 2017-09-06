@@ -1,0 +1,39 @@
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+  <entry>
+    <form>
+      <orth>Kent</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        la Geste d'Aliscans, XIIIe). &quot; Me vela tout croté, mouillé, flauhé, wandi &quot; (Fl, H, 1654) = fourbu. On trouve, en all. flau, et en néerl. flauw (faible).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>la Geste d'Aliscans, XIIIe). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        Fl, H, 1654) = fourbu. On trouve, en all. flau, et en néerl. flauw (faible).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">fourbu</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Me vela tout croté, mouillé, flauhé, wandi &quot; (</quote>
+    </cit>
+    <etym/>
+  </entry>
+</TEI>

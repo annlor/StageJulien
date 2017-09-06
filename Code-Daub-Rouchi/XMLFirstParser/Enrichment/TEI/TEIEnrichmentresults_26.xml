@@ -1,0 +1,214 @@
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+  <entry>
+    <form>
+      <orth>ZANTE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: dim. d'Alexandre. Prénom du héros de RD : l' Zante Boursiau.</quote>
+    </def>
+    <def label="française">
+      <quote>: dim. d'Alexandre. Prénom du héros de RD : l' Zante Boursiau.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ZEPH</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: dim. de Joseph. Prénom du héros de JM : l' Zeph Cafougnette.</quote>
+    </def>
+    <def label="française">
+      <quote>: dim. de Joseph. Prénom du héros de JM : l' Zeph Cafougnette.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ZINE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - ivresse, cuite. &quot; Quand i s'in r'va avec enn' zine, / Su s' feimme, i bat core l' tambour &quot; (PB).
+      </quote>
+      <quote>
+        2 - idée bizarre, caprice. &quot; Queun' zinn' qui li a pris ... ed mette ses chabots tout findus d'vant l' quéménée ? &quot; (PP).
+      </quote>
+      <quote>
+        3 - passion. &quot; J' connos des fèmes qu'alles ont l' zinn' des fleurs &quot; (PP) (voir : quint, dadale),
+      </quote>
+      <quote>4 - donner eune zine : rosser (GH).</quote>
+    </def>
+    <def label="française">
+      <quote>1 - ivresse, cuite. </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">cuite</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Quand i s'in r'va avec enn' zine, / Su s' feimme, i bat core l' tambour &quot; (PB).
+      </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>2 - idée bizarre, caprice. </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">caprice</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Queun' zinn' qui li a pris ... ed mette ses chabots tout findus d'vant l' quéménée ? &quot; (PP).
+      </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>3 - passion. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J' connos des fèmes qu'alles ont l' zinn' des fleurs &quot; (PP) (voir : quint, dadale),
+      </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>4 - donner eune zine : rosser (GH).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ZIQUE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        eine zique : petite quantité. &quot; Pis in n' va pas faire eune histoire / Pou eun' tiot' zique ed' marée noire ! &quot; (PM). Pas eine zique : pas du tout. &quot; Du pinard, pas ein' zique ! &quot; (EM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>eine zique : petite quantité. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Pas eine zique : pas du tout. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Pis in n' va pas faire eune histoire / Pou eun' tiot' zique ed' marée noire ! &quot; (PM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Du pinard, pas ein' zique ! &quot; (EM).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Ziquette</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        dim. de zique. &quot; Cha n' fait point enne ziquette ed doute ! &quot; (RD). &quot; Elle n'oubliait pas la ziquette de sel et trois ués bien touillés &quot; (EM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>dim. de zique. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Cha n' fait point enne ziquette ed doute ! &quot; (RD). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Elle n'oubliait pas la ziquette de sel et trois ués bien touillés &quot; (EM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ZUITE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>crachat gras. Peut-être de huître, par analogie d'aspect.</quote>
+    </def>
+    <def label="française">
+      <quote>crachat gras. Peut-être de huître, par analogie d'aspect.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>ZUSSIER</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        déform. pour huissier. &quot; L' zussier y avanche au juche des paperasses &quot; (GF). (Voir : lussier).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>déform. pour huissier. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Voir : lussier).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; L' zussier y avanche au juche des paperasses &quot; (GF). (
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+</TEI>

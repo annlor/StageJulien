@@ -1,0 +1,3035 @@
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+  <entry>
+    <form>
+      <orth>HABILE !</orth>
+    </form>
+    <gramGrp>
+      <pos>adv.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        , génér. répété : habile ! habile ! : vite. Dans ce sens, figure dans Lit. Il a disparu en fr. alors qu'il reste très employé en rouchi. &quot; File à l'église, habile ! habile !, la grand messe va commencer &quot; (EM). &quot; Afin qu' l'ouvrache i marche habile, / In a mobilisé l' famille &quot; (JM). I-est tondis habile ! habile ! = il est toujours pressé. Cor pus vit' qu'habil, j' saut' in bas dé m' lit &quot; (JQ) = précipitamment. Tout l' monde habile défait s' casquette &quot; (AD). &quot; L' compte il étot fait jusse et in l' réglot habile &quot; (PB).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        , génér. répété : habile ! habile ! : vite. Dans ce sens, figure dans Lit. Il a disparu en fr. alors qu'il reste très employé en rouchi.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        I-est tondis habile ! habile ! = il est toujours pressé. Cor pus vit' qu'habil, j' saut' in bas dé m' lit
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; File à l'église, habile ! habile !, la grand messe va commencer &quot; (EM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Afin qu' l'ouvrache i marche habile, / In a mobilisé l' famille &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HABERSA</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>havresac. ANC. : all. Habersack.</quote>
+    </def>
+    <def label="française">
+      <quote>havresac. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">havresac</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : all. Habersack.</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>HABILL(E)MINT</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        , HABILLURE, s. f. : costume, habit. &quot; Et dins l' train, j'ai fripé m' biel habill'mint tout nué &quot; (GF). &quot; J'avos m'n habillure ed mariache / Et min biau capiau à plumache &quot; (RP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>, HABILLURE, s. f. : costume, habit. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">habit</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Et dins l' train, j'ai fripé m' biel habill'mint tout nué &quot; (GF).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J'avos m'n habillure ed mariache / Et min biau capiau à plumache &quot; (RP).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* HABLEUX</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>tricheur. &quot; Jé n' jue point avec des ableux &quot; (RD).</quote>
+    </def>
+    <def label="française">
+      <quote>tricheur. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">tricheur</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Jé n' jue point avec des ableux &quot; (RD).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HACH(E)PÉTER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        HACH(E)POTER, v. : couper au couteau, grossièrement. &quot; Je ne vais pas réveiller tout le régiment à hachepoter à cette heure &quot; (A.S.) : il s'agit de hacher les légumes de la soupe.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>HACH(E)POTER, v. : couper au couteau, grossièrement. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">grossièrement</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>A.S.) : il s'agit de hacher les légumes de la soupe.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Je ne vais pas réveiller tout le régiment à hachepoter à cette heure &quot; (
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Hach(e)poteux</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>mauvais ouvrier.</quote>
+    </def>
+    <def label="française">
+      <quote>mauvais ouvrier.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HAGNER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        mordre avec avidité. &quot; Et l'infant s'in va, l'air joyeux, / In hagnant des bouchi's juteuses &quot; (JM). M' tchien ara vite fait d'agnier l' bas d' vos cotrons &quot; (RD). &quot; Et l' tchien qui hagnot les pattes du taur ! &quot; (PP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>mordre avec avidité. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>M' tchien ara vite fait d'agnier l' bas d' vos cotrons </quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Et l'infant s'in va, l'air joyeux, / In hagnant des bouchi's juteuses &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Hagnure</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        morsure. &quot; Pou n' souffrir des agniur's d' l'hiver &quot; (GF).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>morsure. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">morsure</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Pou n' souffrir des agniur's d' l'hiver &quot; (GF).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HAIM ou AIM</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        hameçon. &quot; Cha n' dot pont êt' un gros, i n' fét qu' pluquer autour dé m'nin &quot; (pour : m'n haim) (BD). ANC. : lat. hamus, m. sens.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>hameçon. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">hameçon</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>BD). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Cha n' dot pont êt' un gros, i n' fét qu' pluquer autour dé m'nin &quot; (pour : m'n haim) (
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : lat. hamus, m. sens.</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>HALBRAN</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : albran).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : albran).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HALLETTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        petite halle. La rue de la Halle, à Val., couverte jusqu'en 1810, s'appelait auparavant rue des Hallettes.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        petite halle. La rue de la Halle, à Val., couverte jusqu'en 1810, s'appelait auparavant rue des Hallettes.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HALON</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        , HALONNE, s. f. : pauvres qui, à Valenciennes, recevaient des secours de l'Hôtellerie sans y habiter (Vx).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        , HALONNE, s. f. : pauvres qui, à Valenciennes, recevaient des secours de l'Hôtellerie sans y habiter (Vx).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HALOT</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        HALEU, ALO, s. m. : saule étêté. &quot; Elle se cacha dans le creux d'un halot ou vieux saule étêté qui se penchait sur la fontaine &quot; (CD). Sec comme un halot = très maigre.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>HALEU, ALO, s. m. : saule étêté. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Sec comme un halot = très maigre.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Elle se cacha dans le creux d'un halot ou vieux saule étêté qui se penchait sur la fontaine &quot; (CD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Halot(e)ries</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f. pl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>petit bois. ANC. : halot : branche, bûche ; buisson, hallier (</quote>
+    </def>
+    <def label="française">
+      <quote>petit bois. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">petit bois</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : halot : branche, bûche ; buisson, hallier (</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Haloter</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: émonder, couper des branches (</quote>
+    </def>
+    <def label="française">
+      <quote>: émonder, couper des branches (</quote>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HANAS (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m. pl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        pièces de la batterie de cuisine. ANC. : peut être hanap (vase à boire) du francique hnapp (Cf. all. Napf : écuelle, jatte, bol) ?
+      </quote>
+    </def>
+    <def label="française">
+      <quote>pièces de la batterie de cuisine. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : peut être hanap (vase à boire) du francique hnapp (Cf. all. Napf : écuelle, jatte, bol) ?
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>HANQUETTE (AVOIR L') (GLec)</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : avoir mal aux hanches, boiter. ANC. : francique hanka qui a donné hanche en fr. ; et, en all. et en néerl. hinken (boiter).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>: avoir mal aux hanches, boiter. </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">boiter</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : francique hanka qui a donné hanche en fr. ; et, en all. et en néerl. hinken (boiter).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>HANSER (AH)</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>respirer péniblement, suffoquer (voir : éhancé).</quote>
+    </def>
+    <def label="française">
+      <quote>respirer péniblement, suffoquer (voir : éhancé).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HAPE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>hache.</quote>
+    </def>
+    <def label="française">
+      <quote>hache.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">hache</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Hapiette</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        hachette, munie d'un arrache-clous, outil de couvreur et de boiseur. &quot; A ch't' heure, lé v'là au billot avec enne hapiette &quot; (RD). ANC. : hape : sorte de serpe (Livre des Métiers, Etienne Boileau, 1268).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        hachette, munie d'un arrache-clous, outil de couvreur et de boiseur.
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">hachette</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; A ch't' heure, lé v'là au billot avec enne hapiette &quot; (RD).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : hape : sorte de serpe (Livre des Métiers, Etienne Boileau, 1268).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>* HAPPER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        brûler superficiellement par flamme. &quot; J'ai eu m' main happée in arsaquant l' goyère. &quot; Sens plus ancien : attraper (une maladie). &quot; Quand i fait caud, un est in risque / D'hapé fort bien eun' bonn' coleique &quot; (Fl, F, XVIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>brûler superficiellement par flamme. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Sens plus ancien : attraper (une maladie). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; J'ai eu m' main happée in arsaquant l' goyère. &quot; </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Quand i fait caud, un est in risque / D'hapé fort bien eun' bonn' coleique &quot; (Fl, F, XVIIe).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Happe-char</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        ; happe-chair, avare (le v. happer a ici le sens habituel du fr. : saisir). &quot; Les propiétair' qui sont presque tertous d' vrais hap'-chars y tiennent à conserver leu vieux monchau d' briqu' &quot; (JQ). &quot; Tachu, un sale apchar, un satané gripp' sou / Qui coup'rot bin un iard in quatre &quot; (GF). Sur la graphie apchar s' est formé apchardise, s. f. : avarice. ANC. : on trouve happe-chair dans un texte de Lille (1578). (GLL donne des citations de La Fontaine, Hugo, Pourrat).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        ; happe-chair, avare (le v. happer a ici le sens habituel du fr. : saisir).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">happe-chair</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Sur la graphie apchar s' est formé apchardise, s. f. : avarice. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Les propiétair' qui sont presque tertous d' vrais hap'-chars y tiennent à conserver leu vieux monchau d' briqu' &quot; (JQ).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Tachu, un sale apchar, un satané gripp' sou / Qui coup'rot bin un iard in quatre &quot; (GF).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : on trouve happe-chair dans un texte de Lille (1578). (GLL donne des citations de La Fontaine, Hugo, Pourrat).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>HAPPE-LOUTE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir aploute).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir aploute).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HARCHELLE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : archelle).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : archelle).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HARCULE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : déform. pour hercule. &quot; Queuess' qu'i n' fait point comm' ch'ti qu'in nomm' l'harcul' du Nord ? &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>: déform. pour hercule. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Queuess' qu'i n' fait point comm' ch'ti qu'in nomm' l'harcul' du Nord ? &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HARD</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>hardi. &quot; In est pus hard</quote>
+    </def>
+    <def label="française">
+      <quote>hardi. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">hardi</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HARDÉLÉE (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        trousseau de chandelles pendu par une ficelle (Vx). ANC. : hardée : botte liée par une corde, la hart (XIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>trousseau de chandelles pendu par une ficelle (Vx). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : hardée : botte liée par une corde, la hart (XIIe).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>HARDI</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : ardi).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : ardi).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HARDIÈRE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>crampon de fer pour attacher la herse à la bateniérette.</quote>
+    </def>
+    <def label="française">
+      <quote>crampon de fer pour attacher la herse à la bateniérette.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HARICOEUT</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        haricot. &quot; A ch't' heure qué j' n'ai pus un rotin, / Ej' minche des hariqueus d' la Halle &quot; (GT) : les haricots de la prison de Val., alors située rue de la Halle.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>haricot. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">haricot</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; A ch't' heure qué j' n'ai pus un rotin, / Ej' minche des hariqueus d' la Halle &quot; (GT) : les haricots de la prison de Val., alors située rue de la Halle.
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HARLOCHER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : arlocher).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : arlocher).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HARNAS</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        charrue avec son équipage. &quot; L' laboureur et s'n arnat vienn'nt faire el ranguilliache &quot; (GF). ANC. : harnois (Wace, 1155), du scand. hernest, provisions de bouche d'une armée. Le terme s'est appliqué à toutes sortes d'équipements : armure, harnais, bagages... et jusqu'au sexe de l'homme.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>charrue avec son équipage. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; L' laboureur et s'n arnat vienn'nt faire el ranguilliache &quot; (GF).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : harnois (Wace, 1155), du scand. hernest, provisions de bouche d'une armée. Le terme s'est appliqué à toutes sortes d'équipements : armure, harnais, bagages... et jusqu'au sexe de l'homme.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Harniquer</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>harnicler, v. : </quote>
+      <quote>1 - harnacher. </quote>
+      <quote>
+        2 - habiller (péj.). &quot; ... Les croqu'morts, harniqués au pus drôle / D'un habit queue d' morue &quot; (PB). &quot; Bon sang, queul ténue : té v'là chi arniclé comme Ivanhoé. &quot; (RD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>harnicler, v. : </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>1 - harnacher. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>2 - habiller (péj.). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Harniqures</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f. pl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - harnais. &quot; I faut r'mettr' les harnicures / Sur el dos d' chaque animal &quot; (JM).
+      </quote>
+      <quote>
+        2 - fantaisies vestimentaires. &quot; Al' n'arot mie volu tous les fanferluches et l'z harnachures d'aujord'hui &quot; (JQ).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - harnais. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I faut r'mettr' les harnicures / Sur el dos d' chaque animal &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>2 - fantaisies vestimentaires. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Al' n'arot mie volu tous les fanferluches et l'z harnachures d'aujord'hui &quot; (JQ).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HARONDIELLE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : arondielle).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : arondielle).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HAROTE (GLec)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        vieux cheval ; Aroute (GH), s. f. : mauvais cheval. ANC. : peut-être du vx normand harr (qui a le poil gris) puisque ce mot a pu donner, en fr. : haras et haridelle.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>vieux cheval ; Aroute (GH), s. f. : mauvais cheval. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : peut-être du vx normand harr (qui a le poil gris) puisque ce mot a pu donner, en fr. : haras et haridelle.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>HASARD</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        faire un biau hasard = faire une bonne affaire, tomber sur un beau parti. &quot; Mi, j' aros cor compris l'affaire / Si all' faisot un biau hasard &quot; (PB). D'hasard : par hasard. &quot; Si d'hasard i v'not à crier &quot; (PB). &quot; Si d'hasard, in f'rot fortune &quot; (JM). Adv. : &quot; Vos pinsez, hasard, qué... &quot; (BD) = peut-être.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        faire un biau hasard = faire une bonne affaire, tomber sur un beau parti.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>D'hasard : par hasard. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Adv. : </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Mi, j' aros cor compris l'affaire / Si all' faisot un biau hasard &quot; (PB).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Si d'hasard i v'not à crier &quot; (PB). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Si d'hasard, in f'rot fortune &quot; (JM). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Vos pinsez, hasard, qué... &quot; (BD) = peut-être.</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HASIAU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        porte à claire-voie. &quot; I no fait vir clair comme à travers un aziau &quot; (JQ). ANC. : haise ou hase : clôture de branches entrelacées, barrière, porte (Roman de Renart, 1250) du germ. hasa.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>porte à claire-voie. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I no fait vir clair comme à travers un aziau &quot; (JQ).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : haise ou hase : clôture de branches entrelacées, barrière, porte (Roman de Renart, 1250) du germ. hasa.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>HASTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        broche à rôtir ; pièce de viande rôtie (le terme n'est pas spécifique au rouchi). ANC. : croisement entre le lat. hasta (lance) et le germ. harsta (gril). (Chrétien de Troyes, 1175). &quot; A grant planté haste rostis &quot; (l'Atre périlleux, 1250).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        broche à rôtir ; pièce de viande rôtie (le terme n'est pas spécifique au rouchi).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : croisement entre le lat. hasta (lance) et le germ. harsta (gril). (Chrétien de Troyes, 1175). &quot; A grant planté haste rostis &quot; (l'Atre périlleux, 1250).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Haster (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>sécher en mettant sur la haste.</quote>
+    </def>
+    <def label="française">
+      <quote>sécher en mettant sur la haste.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Haste-levée ou ate-levée</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>morceau de poitrine de porc proche du cou (GH) (Vx).</quote>
+    </def>
+    <def label="française">
+      <quote>morceau de poitrine de porc proche du cou (GH) (Vx).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HAUCHE-MAIN</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>HAUCHE-MINOME : termes de jeu de billes.</quote>
+    </def>
+    <def label="française">
+      <quote>HAUCHE-MINOME : termes de jeu de billes.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HAUCHER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        hausser, élever, soulever. &quot; I s'hochot pa d'zeur les épaules / A n' d'attraper l' torticolis &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>hausser, élever, soulever. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">hausser</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">élever</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">soulever</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I s'hochot pa d'zeur les épaules / A n' d'attraper l' torticolis &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Hauches</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f. pl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        planches servant à rehausser la caisse d'un chariot (voir : réhauches).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        planches servant à rehausser la caisse d'un chariot (voir : réhauches).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Hauchette (s' faire l')</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : se faire la courte échelle. &quot; Pou l'z avoir (les cordons de sonnettes), on s' faisot l'hauchette &quot; (GF).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>: se faire la courte échelle. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Pou l'z avoir (les cordons de sonnettes), on s' faisot l'hauchette &quot; (GF).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HAUTELISSEUR</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>hautelissier, qui faisait des tapisseries de haute-lisse.</quote>
+    </def>
+    <def label="française">
+      <quote>hautelissier, qui faisait des tapisseries de haute-lisse.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">hautelissier</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HAUTON</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        ce qui surnage quand on lave le grain avant de semer ; déchets qui tombent sous le tamis pendant le battage (GD). ANC. : hauton, m. sens. &quot; Tous le hauton et tous les fourrages et le grain &quot; (Cartulaire noir de Corbie, 1253).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        ce qui surnage quand on lave le grain avant de semer ; déchets qui tombent sous le tamis pendant le battage (GD).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : hauton, m. sens. &quot; Tous le hauton et tous les fourrages et le grain &quot; (Cartulaire noir de Corbie, 1253).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>HAUVIAU</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        HOVIAU (GL), s. m. : javelle ; poignée de blé scié, demi-gerbe (voir : gaviau). ANC. : hoc : crochet, houe (Pastorales, (poignée (XIIe) ; havet : crochet (XIIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        HOVIAU (GL), s. m. : javelle ; poignée de blé scié, demi-gerbe (voir : gaviau).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : hoc : crochet, houe (Pastorales, (poignée (XIIe) ; havet : crochet (XIIIe).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>HAUWÉ</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        fourche à dents recourbées pour tirer le fumier (voir : graué). &quot; On vot un homme / Qui arsaqu' rien avec l'auwé &quot; (GF).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>fourche à dents recourbées pour tirer le fumier (voir : graué). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; On vot un homme / Qui arsaqu' rien avec l'auwé &quot; (GF).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Hauwer</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        travailler avec un hauwé, houer. ANC. : francique hauwa qui donnera hoe : houe, pioche (Livre des Rois, XIIe), puis houe en fr., Haue en all., hoe en angl.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>travailler avec un hauwé, houer. </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">houer</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : francique hauwa qui donnera hoe : houe, pioche (Livre des Rois, XIIe), puis houe en fr., Haue en all., hoe en angl.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>HAVÉE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>distance entre deux boisages dans une taille (mines) (AL).</quote>
+    </def>
+    <def label="française">
+      <quote>distance entre deux boisages dans une taille (mines) (AL).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HAVET</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : croc, crochet. Havet d' piquet : crochet de fer à manche de bois que l'on tient dans la main gauche pour isoler une javelle que l'on fauche avec le piquet ou sape. (Voir : ercoiéresse). ANC. : havet : crochet emmanché (Fet des Romains, 1213).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        : croc, crochet. Havet d' piquet : crochet de fer à manche de bois que l'on tient dans la main gauche pour isoler une javelle que l'on fauche avec le piquet ou sape. (Voir : ercoiéresse).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">crochet</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : havet : crochet emmanché (Fet des Romains, 1213).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>HAVIAU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        pic courbe utilisé par les mineurs. ANC. : même orig. que hauwé, havet.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>pic courbe utilisé par les mineurs. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : même orig. que hauwé, havet.</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>HAVRON</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>folle avoine. (Cf. all. Hafer et néerl. haver : avoine).</quote>
+    </def>
+    <def label="française">
+      <quote>folle avoine. (Cf. all. Hafer et néerl. haver : avoine).</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">folle avoine</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HAYURE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f. haie.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        &quot; Jé m' délaminte comme eune vielle maguette qu'alle a fini d' morfier s'n hayure &quot; (JD). &quot; Aniché derrière eune haïure, / I dévorot s' festin à l' p'lure &quot; (PM). (Voir : baudet). ANC. : du francique hagja.
+      </quote>
+    </def>
+    <def label="française">
+      <quote> </quote>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Voir : baudet). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Jé m' délaminte comme eune vielle maguette qu'alle a fini d' morfier s'n hayure &quot; (JD).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Aniché derrière eune haïure, / I dévorot s' festin à l' p'lure &quot; (PM). (
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : du francique hagja.</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>HÉ</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        hé à quat' dints : croc. (Voir : diale, graué, hauwé). ANC. : (voir : havet).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>hé à quat' dints : croc. (Voir : diale, graué, hauwé). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : (voir : havet).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>* HÉBREU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        ahuri, hurluberlu. &quot; Ch'ti qui n' s'in va mie (in vagances), ch't' un hébreu, un artard &quot; (PP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>ahuri, hurluberlu. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">ahuri</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">hurluberlu</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ch'ti qui n' s'in va mie (in vagances), ch't' un hébreu, un artard &quot; (PP).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HELBUTE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : elbute).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : elbute).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HÉREUX</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        heureux. &quot; Moins héreux qu' certain's biêt's, l' pauvr' n'a point d' caracole &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>heureux. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">heureux</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Moins héreux qu' certain's biêt's, l' pauvr' n'a point d' caracole &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HÉRING</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        hareng. (Voir : sec-héring). Chacun s' pain, chacun s'n héring (prov.) = chacun pour soi. &quot; J'ai apporté ce soir mon pain et mon héring &quot; (EM). ANC. : germ. hâring (Cf. all. Hering, angl. herring).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        hareng. (Voir : sec-héring). Chacun s' pain, chacun s'n héring (prov.) = chacun pour soi.
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">hareng</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">chacun pour soi</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; J'ai apporté ce soir mon pain et mon héring &quot; (EM). </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : germ. hâring (Cf. all. Hering, angl. herring).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>HÉRITANCE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        héritage. &quot; Ah ! qu' j'ai ti del chance ! / J' sus dins l' grante héritance ! &quot; (AD) : (allusion à un héritage mirifique qu'espéraient se partager, au siècle dernier, à Condé, les descendants d'un mythique milliardaire). &quot; T'aros fait eune héritance qué cha n' m'étonn'rot mie. T'es là fin biau ! &quot; (PP). ANC. : héritance = héritage (God.).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>héritage. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">héritage</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ah ! qu' j'ai ti del chance ! / J' sus dins l' grante héritance ! &quot; (AD) : (allusion à un héritage mirifique qu'espéraient se partager, au siècle dernier, à Condé, les descendants d'un mythique milliardaire).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; T'aros fait eune héritance qué cha n' m'étonn'rot mie. T'es là fin biau ! &quot; (PP).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : héritance = héritage (God.).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>HERNU</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        orageux (temps) ; s. m. : orage. &quot; L'hernu est dins l' par'mint &quot; (colle à parer le fil à tisser) (GL) = il y a de la brouille dans le ménage. ANC. : hernu : ancien nom du mois de juillet (Gautier de Metz, 1246).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>orageux (temps) ; s. m. : orage. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>GL) = il y a de la brouille dans le ménage. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; L'hernu est dins l' par'mint &quot; (colle à parer le fil à tisser) (
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : hernu : ancien nom du mois de juillet (Gautier de Metz, 1246).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>HEUCHE-POT</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>(AL), s. m. : grand louche (voir : louche-pot).</quote>
+    </def>
+    <def label="française">
+      <quote>(AL), s. m. : grand louche (voir : louche-pot).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HEURE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        pou l'heure : pour le moment. &quot; Et pou l'heur', leu famill', ch'est nous &quot; (GF). A ch't'heure : à cette heure, maintenant. &quot; Des Saint-Martin d'ach't'heur' qui donn'tent leus mantiaux &quot; (EM). ANC. : &quot; Je suis esté autrefois très bien cultivée. A st'heure, je ne le suis point &quot; (Brantôme, XVIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>pou l'heure : pour le moment. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>A ch't'heure : à cette heure, maintenant. </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">maintenant</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Et pou l'heur', leu famill', ch'est nous &quot; (GF). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Des Saint-Martin d'ach't'heur' qui donn'tent leus mantiaux &quot; (EM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : &quot; Je suis esté autrefois très bien cultivée. A st'heure, je ne le suis point &quot; (Brantôme, XVIe).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>HICHE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : niche).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : niche).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HIERBE (pron. yerp)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        herbe. Liste de plantes donnée par GH : Hierbe d'arondielle : grande éclaire. H à z'aulx : alliaire. H. ed cat : chataire, cataire (GD traduit : valériane). H. ed carpintier ou h. ed copure : sedum, orpin. H. ed dragon : rumex oseille. H. ed mi' tros : millepertuis. H. Noter-Dame : valériane des jardins. H. ed pain d'épices : inula. H. ed pourcheau : renouée. H. à puches : tanaisie. H. ed St Antoine : épilobe. H. ed St Jacques : jacobée. H. ed St Jean : armoise. H. ed sorcielle : circée. H. ed ténieux : bardane. H. dé l' Ternité : pensée des champs. H. ed tonnerre : euphorbe.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        herbe. Liste de plantes donnée par GH : Hierbe d'arondielle : grande éclaire. H à z'aulx : alliaire. H. ed cat : chataire, cataire (GD traduit : valériane). H. ed carpintier ou h. ed copure : sedum, orpin. H. ed dragon : rumex oseille. H. ed mi' tros : millepertuis. H. Noter-Dame : valériane des jardins. H. ed pain d'épices : inula. H. ed pourcheau : renouée. H. à puches : tanaisie. H. ed St Antoine : épilobe. H. ed St Jacques : jacobée. H. ed St Jean : armoise. H. ed sorcielle : circée. H. ed ténieux : bardane. H. dé l' Ternité : pensée des champs. H. ed tonnerre : euphorbe.
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">herbe</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">orpin</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HIERCHE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        herse. Hierche ed bos : herse à dents tournées vers l'avant, utilisée après les labours. Hierche articulée : herse à dents de fer plantées perpend. (voir : ploutro, diale).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        herse. Hierche ed bos : herse à dents tournées vers l'avant, utilisée après les labours. Hierche articulée : herse à dents de fer plantées perpend. (voir : ploutro, diale).
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">herse</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Hiercher</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>1 - herser. </quote>
+      <quote>2 - pousser à bras une berline (mines).</quote>
+    </def>
+    <def label="française">
+      <quote>1 - herser. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>2 - pousser à bras une berline (mines).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Hiercheux</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>1 - herseur (agric). </quote>
+      <quote>
+        2 - hercheur (mines), mineur qui pousse les berlines. ANC. : herce (Livre des Rois, fin XIIe du lat. pop. herpicem. Hercier : (les Aliscans, fin
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - herseur (agric). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : herce (Livre des Rois, fin XIIe du lat. pop. herpicem. Hercier : (les Aliscans, fin
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>2 - hercheur (mines), mineur qui pousse les berlines. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : herce (Livre des Rois, fin XIIe du lat. pop. herpicem. Hercier : (les Aliscans, fin
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>HIHANNER (GF)</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        braire (baudet). &quot; L' pauv' baudet hihann' parc' qu'il a frod &quot;.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>braire (baudet). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; L' pauv' baudet hihann' parc' qu'il a frod &quot;.</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HIMEUR</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        déform. de humeur. &quot; D' bonn' himeur, bras d'zous, bras d'zeur &quot; (JQ).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>déform. de humeur. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; D' bonn' himeur, bras d'zous, bras d'zeur &quot; (JQ).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HINGUER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        essayer (vx). ANC. : &quot; On les vô... / Toudis nacquez à tous cottez / Pour haingué à nous atrappez &quot; (Fl, F, XVIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote> essayer (vx). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : &quot; On les vô... / Toudis nacquez à tous cottez / Pour haingué à nous atrappez &quot; (Fl, F, XVIIe).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Henguier</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : pencher vers (avant 1300). &quot; Mes a celui ou son coeur va henguant / N'ose escondire &quot;
+      </quote>
+    </def>
+    <def label="française">
+      <quote>: pencher vers (avant 1300). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Mes a celui ou son coeur va henguant / N'ose escondire &quot;
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HITE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : à hite, à hute !, interj. : ordre donné à un cheval pour tourner à droite (contr. : à dia).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        : à hite, à hute !, interj. : ordre donné à un cheval pour tourner à droite (contr. : à dia).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HOBETTE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : aubette).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : aubette).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HOC</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        crochet ; instrument de fer pourvu de pointes recourbées, attaché au bout d'une corde et servant à retirer les objets tombés dans un puits. (Voir : ahoquer ; cat d' puche). ANC. : hoc : crochet, houe (Pastorales, XIIIe), du germ. hok (Cf. all. Haken).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        crochet ; instrument de fer pourvu de pointes recourbées, attaché au bout d'une corde et servant à retirer les objets tombés dans un puits. (Voir : ahoquer ; cat d' puche).
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">crochet</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : hoc : crochet, houe (Pastorales, XIIIe), du germ. hok (Cf. all. Haken).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>HOCHE-CUL !</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : (au mardi-gras) &quot; Dins tous les cabarets dé l' ville / On rintrot in criant hoche-cu &quot; (AD) = allons ! debout !
+      </quote>
+    </def>
+    <def label="française">
+      <quote>: (au mardi-gras) </quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Dins tous les cabarets dé l' ville / On rintrot in criant hoche-cu &quot; (AD) = allons ! debout !
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HOCHÉNER HOCHINER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - secouer. &quot; Hochine-moi ! Je succombe sous le poids de mes pommes ! disait le pommier &quot; (CD).
+      </quote>
+      <quote>
+        2 - bercer. &quot; Un infant qué dins s' berche in hochène &quot; (JD). ANC. : hochier : secouer. (Jean Bodel, 1190), du francique hottisôn, m. sens. &quot; Tout enmi le paume / Les hocherés &quot; (J. Bodel) = Je les secouerai (les dés).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - secouer. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Hochine-moi ! Je succombe sous le poids de mes pommes ! disait le pommier &quot; (CD).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : hochier : secouer. (Jean Bodel, 1190), du francique hottisôn, m. sens. &quot; Tout enmi le paume / Les hocherés &quot; (J. Bodel) = Je les secouerai (les dés).
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>2 - bercer. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Un infant qué dins s' berche in hochène &quot; (JD). </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : hochier : secouer. (Jean Bodel, 1190), du francique hottisôn, m. sens. &quot; Tout enmi le paume / Les hocherés &quot; (J. Bodel) = Je les secouerai (les dés).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Hochénoire</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        berceau. &quot; L'infant Jésus n'a mêm' point d' berche ; et s'n hochénoire, / Ch'est un bac, pou l' minger des biêt's, dins l'éteul' noire &quot; (JD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>berceau. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">berceau</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; L'infant Jésus n'a mêm' point d' berche ; et s'n hochénoire, / Ch'est un bac, pou l' minger des biêt's, dins l'éteul' noire &quot; (JD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Hochequeue</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        (comme en fr.) bergeronnette. &quot; Jé n' vodros mie passer pou un hoch'queue &quot; (JQ) = passer pour un bon à rien. &quot; Bein ch'est bon ! Les geins d' Douai, ch'est des fameux hoche-queue ! &quot; (FP). = des imbéciles. &quot; Alle a du hoche-queue pou les misserons &quot; (GH) = c'est une fille excitante.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>(comme en fr.) bergeronnette. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>des imbéciles. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Jé n' vodros mie passer pou un hoch'queue &quot; (JQ) = passer pour un bon à rien.
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Bein ch'est bon ! Les geins d' Douai, ch'est des fameux hoche-queue ! &quot; (FP). =
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Alle a du hoche-queue pou les misserons &quot; (GH) = c'est une fille excitante.
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HOFE ou HAUFE</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        bien levé (en parlant de la pâte). &quot; Avec dé l' get toute fraîche, em pâte alle est bin ofe. &quot; GH définit : se tenir mou sans s'affaisser (édredon) ; pâtisserie quand elle ne devient pas massive (sic). Il donne aussi : auflu : souple (oreiller). ANC. : (Cf. néerl. heffen : lever).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>bien levé (en parlant de la pâte). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        GH définit : se tenir mou sans s'affaisser (édredon) ; pâtisserie quand elle ne devient pas massive (sic). Il donne aussi : auflu : souple (oreiller).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Avec dé l' get toute fraîche, em pâte alle est bin ofe. &quot;
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : (Cf. néerl. heffen : lever).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>HOLE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : ole).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : ole).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HOLÈNE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        chenille. &quot; Quand il arot autant d' pattes qu'eune oléne, i n'in verrot pas à bout &quot; (GH) = la tâche le dépasserait. &quot; Et vous fait's la guerre aux holènes, / Lum'chons, mill'-patt's, viers et mulots &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>chenille. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">chenille</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Quand il arot autant d' pattes qu'eune oléne, i n'in verrot pas à bout &quot; (GH) = la tâche le dépasserait.
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Et vous fait's la guerre aux holènes, / Lum'chons, mill'-patt's, viers et mulots &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HOLETTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote> houlette ; échardonnoir.</quote>
+    </def>
+    <def label="française">
+      <quote> houlette ; échardonnoir.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">houlette</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">échardonnoir</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HOMME s. m.</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: m'n homm' là = celui-</quote>
+    </def>
+    <def label="française">
+      <quote>: m'n homm' là = celui-</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HONNEUR (AVOIR L')</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : avoir la réputation (de faire quelque chose de mal, ou d'interdit). &quot; I avot l'honneur d'péquer à l' trimmel pindant les nuits sans lune &quot; (Alec).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        : avoir la réputation (de faire quelque chose de mal, ou d'interdit).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I avot l'honneur d'péquer à l' trimmel pindant les nuits sans lune &quot; (Alec).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HOPITA</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        hôpital, hospice. &quot; A l' ville, incore, y-a l'hôpita, / Ch' l'asil' des vieux &quot;, (GF).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>hôpital, hospice. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">hôpital</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">hospice</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>GF).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; A l' ville, incore, y-a l'hôpita, / Ch' l'asil' des vieux &quot;, (
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HORÉE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : orée).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : orée).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HORLOGE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        &quot; L' cat i-est dins l' horloge &quot; = il y a de la brouille dans le ménage. Armonter l'horloge : faire l'amour. &quot; Pindant qu' les bons i s' front casser l' caboche, / Tous les bochus et les autr's estropiés / Avec nos femm's, ils armontront l'horloche &quot; (JM). Pour GD, horloge : rouet à filer le lin.
+      </quote>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* HOSTEAU</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        HOSTO, s. m. : prison (et non hôpital). &quot; Vite arrive el gard' champête, / I li dit : Vite à l'hosteau ! &quot; (JM). &quot; No péqueux veut s' sauver / Peur d'aller à l'och'tot &quot; (BD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>HOSTO, s. m. : prison (et non hôpital). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Vite arrive el gard' champête, / I li dit : Vite à l'hosteau ! &quot; (JM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; No péqueux veut s' sauver / Peur d'aller à l'och'tot &quot; (BD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HOTELLERIE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        fondation hospitalière valenciennoise qui existe toujours. Une tradition en attribue la création à l'empereur Valentinien vers 367 (mais les archives ne remontent qu'au XIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        fondation hospitalière valenciennoise qui existe toujours. Une tradition en attribue la création à l'empereur Valentinien vers 367 (mais les archives ne remontent qu'au XIIe).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HOUBLON</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        &quot; Il avait avalé une vingtaine de pintes et les houblons commençaient à dépasser les perches &quot; (CD) = il était ivre. Autre sens de l'expr. : je commence à en avoir assez !
+      </quote>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HOULES</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (Voir: oules).</quote>
+    </def>
+    <def label="française">
+      <quote>: (Voir: oules).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HOUPER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        héler, appeler en criant. ANC. : &quot; A ché mo, no saudar queminchitte à houpé &quot; (Fl, H, 1654).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>héler, appeler en criant. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">héler</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : &quot; A ché mo, no saudar queminchitte à houpé &quot; (Fl, H, 1654).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>HOUPPETTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        &quot; (Il) implit eun' bonn' pipe à houppette &quot; (JM) : une pipe dont' le tabac forme une houppe. &quot; Quoiss' qui rest'ra ? Rien que l' souv'nir ! Eun' bell' oupett', hein ! &quot; (JQ) (Lamentations sur le démantèlement de Val.).
+      </quote>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Houppon (GL)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>haut d'une gerbe de blé, ensemble des épis.</quote>
+    </def>
+    <def label="française">
+      <quote>haut d'une gerbe de blé, ensemble des épis.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* HOURDAGE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        le mot rouchi, comme le mot fr., s'applique aux techniques du bâtiment, mais avec des sens diff. L'hourdache, échafaudage de maçon, permet une hourdée, s. f. : hauteur de maçonnerie posée sans changer l'échafaudage. Quand l'hourdache est un échafaudage dans le fenil, on note les mots : à l'hourd (en haut, au-dessus de l'étable ; un hourd (couche de gerbes ou de bottes de paille) ; un hourdache (contenu d'une couche). ANC. : hourd : palissade (Fabliau, XIIIe) du francique hurd (cf. all. Hürde : claie, haie à sauter ; angl. hurdle, m. sens.).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        le mot rouchi, comme le mot fr., s'applique aux techniques du bâtiment, mais avec des sens diff. L'hourdache, échafaudage de maçon, permet une hourdée, s. f. : hauteur de maçonnerie posée sans changer l'échafaudage. Quand l'hourdache est un échafaudage dans le fenil, on note les mots : à l'hourd (en haut, au-dessus de l'étable ; un hourd (couche de gerbes ou de bottes de paille) ; un hourdache (contenu d'une couche).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : hourd : palissade (Fabliau, XIIIe) du francique hurd (cf. all. Hürde : claie, haie à sauter ; angl. hurdle, m. sens.).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>HOURÉE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : orée).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : orée).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HOURER (AH)</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>exciter un chien.</quote>
+    </def>
+    <def label="française">
+      <quote>exciter un chien.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HOUSETTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        dimin. de houseau, guêtre de toile qui s'attachait avec deux cordons sous le genou et au-dessus de la cheville. &quot; Duss qué t'as cor té ??? des
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        dimin. de houseau, guêtre de toile qui s'attachait avec deux cordons sous le genou et au-dessus de la cheville.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HOUSPAILLER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>houspiller.</quote>
+    </def>
+    <def label="française">
+      <quote>houspiller.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">houspiller</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Houspaillé (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>malpropre, désordonné dans sa tenue (voir : ousté).</quote>
+    </def>
+    <def label="française">
+      <quote>malpropre, désordonné dans sa tenue (voir : ousté).</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">malpropre</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HOUSTÉ</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : ousté).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : ousté).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HOVIAU</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : hauviau).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : hauviau).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HUBERLU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        métaplasme pour : hurluberlu. &quot; Soudain, comme un huberlu, / Notre homm'... / S'drèche &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>métaplasme pour : hurluberlu. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Soudain, comme un huberlu, / Notre homm'... / S'drèche &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* HUCHE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        UCHE, s. f. : huis, porte. A l'huche ! ou : au l'huche ! : à la porte ! Déform. chez PB : &quot; Té t'as marié deux fos ?... Au lute, au lut', biec-bos ! / Apprinds qué l' Paradis n'est point l'asil' des sots &quot;. Ruer à l'huche : se débarrasser de quelque chose (GLec). &quot; In poussant l'huche à l' mon Armance, y-avot un carillon qui s' mettot à tinter &quot; (PP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        UCHE, s. f. : huis, porte. A l'huche ! ou : au l'huche ! : à la porte ! Déform. chez PB :
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">porte</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Ruer à l'huche : se débarrasser de quelque chose (GLec). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Té t'as marié deux fos ?... Au lute, au lut', biec-bos ! / Apprinds qué l' Paradis n'est point l'asil' des sots &quot;.
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; In poussant l'huche à l' mon Armance, y-avot un carillon qui s' mettot à tinter &quot; (PP).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Huch(e)let</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        petite porte s'ouvrant dans une plus grande ; partie supérieure d'une porte coupée à hauteur d'appui. &quot; Elle ouvrit l'huchelet de la porte et vit une pauvresse &quot; (CD). (Voir : wuidiau). ANC. : uis, huis : porte (Voyages de Charlemagne, déb. du XIIe). Uissent : petite porte, guichet (Roman de la Rose, J. de Meung, 1277). Du lat. pop. ustium pour ostium. Un h graphique est ajouté, pour éviter la confusion entre uis et vis (visage), le u et le v ayant le même dessin dans l'écriture médiévale.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        petite porte s'ouvrant dans une plus grande ; partie supérieure d'une porte coupée à hauteur d'appui.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Voir : wuidiau). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Elle ouvrit l'huchelet de la porte et vit une pauvresse &quot; (CD). (
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : uis, huis : porte (Voyages de Charlemagne, déb. du XIIe). Uissent : petite porte, guichet (Roman de la Rose, J. de Meung, 1277). Du lat. pop. ustium pour ostium. Un h graphique est ajouté, pour éviter la confusion entre uis et vis (visage), le u et le v ayant le même dessin dans l'écriture médiévale.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>HUE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : (voir : ahue). &quot; Il aime mieux deux &quot; ho &quot; qu'un &quot; hue &quot; (ho fait arrêter le cheval ; hue le fait avancer) = il préfère le repos au travail.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : ahue). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>ho </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">ho</cit>
+      </cit>
+    </def>
+    <def label="française">
+      <quote>hue </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">hue</cit>
+      </cit>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Il aime mieux deux &quot; </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; qu'un &quot; </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HUIGNER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>grincer (pour une roue mal graissée).</quote>
+    </def>
+    <def label="française">
+      <quote>grincer (pour une roue mal graissée).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HUILE (A L')</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : terme de jeu, à la corde à sauter, quand on tourne celle-ci lentement. Contraire : au vinaigre. &quot; Julia et Nicolas tournottent, / Et Marie et Anna dansottent, / D'abord à l'huil', pis au vinaique &quot; (GF).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        : terme de jeu, à la corde à sauter, quand on tourne celle-ci lentement. Contraire : au vinaigre.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Julia et Nicolas tournottent, / Et Marie et Anna dansottent, / D'abord à l'huil', pis au vinaique &quot; (GF).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HUI(S)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>porte (voir : huche).</quote>
+    </def>
+    <def label="française">
+      <quote>porte (voir : huche).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Huis-à-wuidiau</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : porte s'ouvrant en deux parties dont la supérieure (voir : huchelet) reste ouverte quand il fait beau (voir : wuidiau).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        : porte s'ouvrant en deux parties dont la supérieure (voir : huchelet) reste ouverte quand il fait beau (voir : wuidiau).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HUISEUX</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : wiseux).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : wiseux).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HURBÉLER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        s'engouffrer (à propos de l'eau, ou du vent qui souffle avec force). &quot; Les pauvres gens soufflaient souvent dans leurs doigts quand hurbélait le vent de bise &quot; (CD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        s'engouffrer (à propos de l'eau, ou du vent qui souffle avec force).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Les pauvres gens soufflaient souvent dans leurs doigts quand hurbélait le vent de bise &quot; (CD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HURCHON-PICOT</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        hérisson. &quot; Ch'est des culs pourris, fait Sosthène, l'Hurchon Picots &quot; (EM). &quot; T'as dé l' pareinté du côté des hurchons : t'es toudi ein boule, avec tes piquants à l' cour &quot; (RD). ANC. : contam. de héricier : hérisser (Chrétien de Troyes, 1175), du lat. pop. erictare, par le germ. hurer, m. sens (Roman d'Alexandre, 1180).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>hérisson. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">hérisson</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ch'est des culs pourris, fait Sosthène, l'Hurchon Picots &quot; (EM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; T'as dé l' pareinté du côté des hurchons : t'es toudi ein boule, avec tes piquants à l' cour &quot; (RD).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : contam. de héricier : hérisser (Chrétien de Troyes, 1175), du lat. pop. erictare, par le germ. hurer, m. sens (Roman d'Alexandre, 1180).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>HUREUX</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        heureux. &quot; Il est hureux comme el pisson su l' guernier &quot; = il est malheureux. &quot; J'vos la souhaite bonne et hureuse &quot; (BD) : formule de voeux de nouvel an.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>heureux. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">heureux</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Il est hureux comme el pisson su l' guernier &quot; = il est malheureux.
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J'vos la souhaite bonne et hureuse &quot; (BD) : formule de voeux de nouvel an.
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HURION</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        hanneton. (Voir : bruant). &quot; Abasse, hurion ! / Hurion, hurion, prinds tes z'ailes, z'ailes. / Si té n' prinds pas tes z'ailes z'ailes. / J' te coperai la tête / Aveucq l' corbet d' no maîte / Qui est là sur la fenêtre &quot; (comptine notée par JQ). L'hurion symbolise une agitation bruyante et stérile (cf. la mouche du coche). &quot; Is sont là fin bénache à bruir' comm' des hurions &quot; (JD). &quot; Té t' démènes comme un hurion &quot; (EM). (Voir : bruant). Cet insecte a pratiquement disparu. Avant la guerre, il était envahissant, destructeur, mais aussi jouet aux multiples possibilités. En juin 1939, mes élèves m'en apportèrent vingt mille au cours d'une campagne de hannetonage.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>hanneton. (Voir : bruant). </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">hanneton</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        L'hurion symbolise une agitation bruyante et stérile (cf. la mouche du coche).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        Voir : bruant). Cet insecte a pratiquement disparu. Avant la guerre, il était envahissant, destructeur, mais aussi jouet aux multiples possibilités. En juin 1939, mes élèves m'en apportèrent vingt mille au cours d'une campagne de hannetonage.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">destructeur</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Abasse, hurion ! / Hurion, hurion, prinds tes z'ailes, z'ailes. / Si té n' prinds pas tes z'ailes z'ailes. / J' te coperai la tête / Aveucq l' corbet d' no maîte / Qui est là sur la fenêtre &quot; (comptine notée par JQ).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Is sont là fin bénache à bruir' comm' des hurions &quot; (JD).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Té t' démènes comme un hurion &quot; (EM). (</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>HUVETTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>ancienne coiffe de nuit.</quote>
+    </def>
+    <def label="française">
+      <quote>ancienne coiffe de nuit.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+</TEI>

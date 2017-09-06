@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<Nomenclature>
-        <ArticleDeDictionnaire>
-        <Entrée>kiosque</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>(à journaux) aubette, hobette.</LexieEntiere>
-        <Lexie><SousLexie>(à journaux) aubette</SousLexie><SousLexie> hobette.</SousLexie></Lexie>
-      </ArticleDeDictionnaire>
-      </Nomenclature>
+<TEI>
+        <entry>
+        <form><orth>kiosque</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>(à journaux) aubette, hobette.</quote></def>
+        <cit type="translation"><quote>(à journaux) aubette</quote><quote> hobette.</quote></cit>
+      </entry>
+      </TEI>

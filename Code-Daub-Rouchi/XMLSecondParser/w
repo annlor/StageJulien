@@ -1,10 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<Nomenclature>
-        <ArticleDeDictionnaire>
-        <Entrée>wagonnet</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>balle, berline.</LexieEntiere>
-        <Lexie><SousLexie>balle</SousLexie><SousLexie> berline.</SousLexie></Lexie>
-      </ArticleDeDictionnaire>
-      </Nomenclature>
+<TEI>
+        <entry>
+        <form><orth>wagonnet</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>balle, berline.</quote></def>
+        <cit type="translation"><quote>balle</quote><quote> berline.</quote></cit>
+      </entry>
+      </TEI>

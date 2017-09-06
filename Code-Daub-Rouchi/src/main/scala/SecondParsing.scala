@@ -5,6 +5,7 @@
 import scala.io.Source
 import java.io._
 
+import Config.Configuration
 import fastparse.all._
 
 import scala.xml._
@@ -55,12 +56,9 @@ object SecondParsing {
 
 
   def main(args: Array[String]): Unit = {
-/*
-/people/khamphousone/Documents/Dictionnaires/daub_rouchi_197S_CU.txt
-*/
-    println("Entrez le chemin du dictionnaire Dauby Rouchi")
-    val path = scala.io.StdIn.readLine()
-    val buff: Source = Source.fromFile(path)
+
+    val classpath = new Configuration()
+    val buff: Source = Source.fromFile(classpath.pathDaubyRouchi)
     val Parsing = new SecondParsing()
     val tradtoxml = new toXML()
 
@@ -82,9 +80,9 @@ object SecondParsing {
 
         }
 
-      val listXml = <Nomenclature>
+      val listXml = <TEI>
         {listTrad}
-      </Nomenclature>
+      </TEI>
       val dir = new File("./XMLSecondParser")
       dir.mkdir
       XML.save(s"./XMLSecondParser/$elements", listXml, "utf-8", true, null)

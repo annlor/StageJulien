@@ -1,0 +1,2292 @@
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+  <entry>
+    <form>
+      <orth>Quéhir fav'lotte</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : tomber en syncope, s'évanouir. &quot; On abattot un qu'vau ou deux qu'on distribuot... pou l'z impêcher d' quéhir fav'lotte &quot; (JQ). &quot; I tranne dins ses loques, i va querre favelotte &quot; (PP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>: tomber en syncope, s'évanouir. </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">s'évanouir</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; On abattot un qu'vau ou deux qu'on distribuot... pou l'z impêcher d' quéhir fav'lotte &quot; (JQ).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I tranne dins ses loques, i va querre favelotte &quot; (PP).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUAIRE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : quéir).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : quéir).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUARANTAINE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>mesure agraire de Douai, valant sept verges et demi, soit 266 m</quote>
+    </def>
+    <def label="française">
+      <quote>mesure agraire de Douai, valant sept verges et demi, soit 266 m</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUARTÉLETTE ou CARTÉLETTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        petit baril, caque à poisson. &quot; Les saurets, dins leux quartélettes, sont beaucoup mieux assurémint &quot; (PB). &quot; I s' serront comm' d' zérins dins eun' cartélette &quot; (JQ).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>petit baril, caque à poisson. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Les saurets, dins leux quartélettes, sont beaucoup mieux assurémint &quot; (PB).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I s' serront comm' d' zérins dins eun' cartélette &quot; (JQ).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUART(E)RON</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - mesure agraire de Saint-Amand (un seizième de quartier) valant environ deux ares.
+      </quote>
+      <quote>2 - ancienne mesure de poids d'un quart de livre. </quote>
+      <quote>
+        3 - ancienne unité de vente pour les fruits (36) ou pour les oeufs (26). &quot; Allons, i n' faut point tant d' burre pour un quartron (GH) = ça suffit, assez de commentaires. &quot; Et té cros qu' ch'est pour un quartron d' graisse ed pourchau qu'ein m' fait canger d'idée ! &quot; (RD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        1 - mesure agraire de Saint-Amand (un seizième de quartier) valant environ deux ares.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>2 - ancienne mesure de poids d'un quart de livre. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>
+        3 - ancienne unité de vente pour les fruits (36) ou pour les oeufs (26).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        Et té cros qu' ch'est pour un quartron d' graisse ed pourchau qu'ein m' fait canger d'idée !
+      </quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Allons, i n' faut point tant d' burre pour un quartron (GH) = ça suffit, assez de commentaires. &quot;
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* QUARTIER</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - mesure agraire de Valenciennes valant un quart de mencaudée (
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        1 - mesure agraire de Valenciennes valant un quart de mencaudée (
+      </quote>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUATÉRIÈME</orth>
+    </form>
+    <gramGrp>
+      <pos>adj. num.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        quatrième. &quot; Cha fait l' quatérièm' qué l' cinsière / Donne à sin homme in pus d' chinq ans &quot; (GF).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>quatrième. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">quatrième</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Cha fait l' quatérièm' qué l' cinsière / Donne à sin homme in pus d' chinq ans &quot; (GF).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUATERLANGUES</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : Marie).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : Marie).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUATERPIÈCHE</orth>
+    </form>
+    <gramGrp>
+      <pos>s.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>m. : </quote>
+      <quote>
+        1 - orvet, serpent de verre (qui peut se casser en quatre). &quot; Pus d' caterpièches après l'agrandissement &quot; (AD).
+      </quote>
+      <quote>2 - enfant remuant ; femme vive.</quote>
+    </def>
+    <def label="française">
+      <quote>m. : </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>1 - orvet, serpent de verre (qui peut se casser en quatre). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Pus d' caterpièches après l'agrandissement &quot; (AD). </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>2 - enfant remuant ; femme vive.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUATER-VINGTS</orth>
+    </form>
+    <gramGrp>
+      <pos>adj. num.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>quatre-vingts.</quote>
+    </def>
+    <def label="française">
+      <quote>quatre-vingts.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">quatre-vingts</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUAT(R)E-OSSIAUX</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>personne très maigre (voir : ossiau).</quote>
+    </def>
+    <def label="française">
+      <quote>personne très maigre (voir : ossiau).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUÉIR (graphies CAÏR</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        KAI-IR, KAIRE, KÉIR, QUÉHIR...), v. : tomber, choir. Quéir faib(l)e, quéir fav(e)lotte : s'évanouir. Quéir ed somme : tomber de sommeil. Quéir mort : mourir subitement. Quéir dins l' puche : mourir au cours de la lune de miel (pour un barbon qui a épousé une jeune femme). Quéir du r'vers : éprouver une vive surprise. &quot; Alle arot bin kaïu du r'vers ! &quot; (JM). / quet d's ours (GD) : il fait un temps épouvantable. &quot; Alle a kéu su s' dos ; alle s'a fait un boursiau à s' panche &quot; = elle s'est laissé faire un enfant. &quot; Assis-t-té, té n' querras pas d' si haut &quot; (JQ) : formule d'accueil. &quot; I quérot au canal, il armont'rot avec du pisson dins ses poches &quot; (GLec) = il a toujours de la chance : &quot; Chu qui ket d'in haut / Ch'est du bren d' corbeau. / Chu qui ket d'in bas / Ch'est du bren d' colas &quot; (GH), dit-on lorsqu'on entend quelqu'un débiter des sottises. &quot; Saint Jean a quéhu à l'iau, / Saint Pierr' vient de l' rattraper ! / Donnez-min du bos / Pou l'
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        KAI-IR, KAIRE, KÉIR, QUÉHIR...), v. : tomber, choir. Quéir faib(l)e, quéir fav(e)lotte : s'évanouir. Quéir ed somme : tomber de sommeil. Quéir mort : mourir subitement. Quéir dins l' puche : mourir au cours de la lune de miel (pour un barbon qui a épousé une jeune femme). Quéir du r'vers : éprouver une vive surprise.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">choir</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>quet d's ours (GD) : il fait un temps épouvantable. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>il a toujours de la chance : </quote>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>dit-on lorsqu'on entend quelqu'un débiter des sottises. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Alle arot bin kaïu du r'vers ! &quot; (JM). / </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Alle a kéu su s' dos ; alle s'a fait un boursiau à s' panche &quot; = elle s'est laissé faire un enfant.
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Assis-t-té, té n' querras pas d' si haut &quot; (JQ) : formule d'accueil.
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I quérot au canal, il armont'rot avec du pisson dins ses poches &quot; (GLec) =
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Chu qui ket d'in haut / Ch'est du bren d' corbeau. / Chu qui ket d'in bas / Ch'est du bren d' colas &quot; (GH),
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUÉMÉNÉE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        cheminée. (Voir : rabatiau). &quot; Les briqu's dins les qu'méné's, du haut des tots, dévalent &quot; (GF). Voie d'évacuation du charbon vers une galerie de roulage inférieure (AL). ANC. : bas-lat. caminata, de caminus (âtre), du grec kaminos. &quot; ... O cornet d'eune queminée &quot; (Fl, E, 1634) = à l'angle d'une cheminée.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>cheminée. (Voir : rabatiau). </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">cheminée</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        Voie d'évacuation du charbon vers une galerie de roulage inférieure (AL).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Les briqu's dins les qu'méné's, du haut des tots, dévalent &quot; (GF).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : bas-lat. caminata, de caminus (âtre), du grec kaminos. &quot; ... O cornet d'eune queminée &quot; (Fl, E, 1634) = à l'angle d'une cheminée.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUÉMIN</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        chemin. I-est toudis su l' quémin = il est toujours en route ; il est toujours dans la rue. Té t'artrouv'ras su l' quémin = tu te ruineras. &quot; Ej' m'in d'iros ..., tout drot m' quémin &quot; (GF) = je partirais droit devant moi, par désespoir.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        chemin. I-est toudis su l' quémin = il est toujours en route ; il est toujours dans la rue. Té t'artrouv'ras su l' quémin = tu te ruineras.
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">chemin</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ej' m'in d'iros ..., tout drot m' quémin &quot; (GF) = je partirais droit devant moi, par désespoir.
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Quémin d' fier</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : chemin de fer. ANC. : lat. pop. camminus, d'orig. gauloise. &quot; Jes zacoutô en qu'min fésan &quot; (Fl, F, XVIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>: chemin de fer. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>
+        ANC. : lat. pop. camminus, d'orig. gauloise. &quot; Jes zacoutô en qu'min fésan &quot; (Fl, F, XVIIe).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUÉMINCH(E)MINT</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : comminch(e)mint).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : comminch(e)mint).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUÉMISE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        QUÉMISSE, QUÉMICHE, s. f. : chemise. A la question : &quot; D'us qu'il est ? &quot;, on répond iron. : &quot; Il est dins s' quémisse, et s' tiête alle dépasse. &quot; Expr. notées par GH : &quot; Sans qu'misse, in arot vu m' cul &quot; = si je n'avais pas pris de précautions, on aurait su ce que je faisais. &quot; L'ourlet dé m' quémisse va pus près qué l' bas dé m' cotron &quot; = mes parents me sont plus chers que mes amis. &quot; Ch'est tout cul tout qu'misse &quot; = ils sont comme cul et chemise, inséparables. ANC. : bas-lat. camisia (IVe). &quot; ... aprè y hauchy me quemize &quot; (Fl, E, 1634).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>QUÉMISSE, QUÉMICHE, s. f. : chemise. A la question : </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>on répond iron. : </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Expr. notées par GH : </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; D'us qu'il est ? &quot;, </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Il est dins s' quémisse, et s' tiête alle dépasse. &quot;
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Sans qu'misse, in arot vu m' cul &quot; = si je n'avais pas pris de précautions, on aurait su ce que je faisais.
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; L'ourlet dé m' quémisse va pus près qué l' bas dé m' cotron &quot; = mes parents me sont plus chers que mes amis.
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ch'est tout cul tout qu'misse &quot; = ils sont comme cul et chemise, inséparables.
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : bas-lat. camisia (IVe). &quot; ... aprè y hauchy me quemize &quot; (Fl, E, 1634).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Qu(e)misière</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        chemise de femme. &quot; Eun' gross' mère... / In cotron, gorch' nue, in qu'misière &quot; (GT).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>chemise de femme. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Eun' gross' mère... / In cotron, gorch' nue, in qu'misière &quot; (GT).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUÊNE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        QUESNE, S. m. : chêne (arbre, bois) : &quot; Il y avait, dans la cavée, un gros chêne habillé de lierre, qu'on appelait le Quesne au leu &quot; (CD). &quot; Des panneaux in quêne épais &quot; (EM). Patronyme sous diverses formes : Duquesne, Lequesne, Quesnay, Quesnoy, Duquesnoy, Quesnel, Beauquesne, etc. ANC. : bas-lat. cassanus, d'orig. gauloise.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>QUESNE, S. m. : chêne (arbre, bois) : </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>
+        Patronyme sous diverses formes : Duquesne, Lequesne, Quesnay, Quesnoy, Duquesnoy, Quesnel, Beauquesne, etc.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">Duquesnoy</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">Beauquesne</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">etc</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Il y avait, dans la cavée, un gros chêne habillé de lierre, qu'on appelait le Quesne au leu &quot; (CD).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Des panneaux in quêne épais &quot; (EM). </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : bas-lat. cassanus, d'orig. gauloise.</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUEN(E)BUISSE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>chénevis, graine de chanvre. ANC. : lat. pop. : cannabis.</quote>
+    </def>
+    <def label="française">
+      <quote>chénevis, graine de chanvre. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : lat. pop. : cannabis.</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUÉNET (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote> :</quote>
+    </def>
+    <def label="française">
+      <quote> :</quote>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUÉNIOLE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        QUEUNIOLE, CONIOLE (Aulnoy), COUNIOLE (Onnaing), QUEUNIOU (Cambrai), etc. : brioche de Noël, en forme de fuseau (coquille à Lille, couque à Condé) que l'on continue à offrir en quantités impressionnantes aux fêtes de fin d'année. (Substantifs féminin sauf le dernier.) &quot; Une fois l'an, à Noël, l'école distribue, avec une ou deux oranges à chacun, une queniolle toute fraîche, brioche allongée en forme d'enfant Jésus, et donc de quenouille &quot; (AS). &quot; Alle m'a fait minger del quéniole ! In pleine guerre ! &quot; (EM). &quot; In dirot un Jésus d'un sou /A l' Noël, sur eun' gross' quéniolle &quot; (JM). &quot; (Il était) d'une telle bonté d'âme qu'on lui avait donné le nom de Quéniole, qu'on donne chez nous aux gâteaux de Noël &quot; (CD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        QUEUNIOLE, CONIOLE (Aulnoy), COUNIOLE (Onnaing), QUEUNIOU (Cambrai), etc. : brioche de Noël, en forme de fuseau (coquille à Lille, couque à Condé) que l'on continue à offrir en quantités impressionnantes aux fêtes de fin d'année. (Substantifs féminin sauf le dernier.)
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">etc</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Une fois l'an, à Noël, l'école distribue, avec une ou deux oranges à chacun, une queniolle toute fraîche, brioche allongée en forme d'enfant Jésus, et donc de quenouille &quot; (AS).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Alle m'a fait minger del quéniole ! In pleine guerre ! &quot; (EM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; In dirot un Jésus d'un sou /A l' Noël, sur eun' gross' quéniolle &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUÉNÉQUE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        QUÉNIQUE, s. f. : bille de silex ou de terre cuite. &quot; Si j'ai remémoré ici ces vieilles histoires, c'est simplement pour amuser les petits lieux qui jouent à quenèques &quot; (CD). &quot; Et qu'est-ce que tu paries ? - Des boutons et des quéniques &quot; (RD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>QUÉNIQUE, s. f. : bille de silex ou de terre cuite. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Si j'ai remémoré ici ces vieilles histoires, c'est simplement pour amuser les petits lieux qui jouent à quenèques &quot; (CD).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Et qu'est-ce que tu paries ? - Des boutons et des quéniques &quot; (RD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUENN(E)BUTIN</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>(voir : canebutin). GH donne à ce mot deux sens tout diff. : </quote>
+      <quote>1 - cahier, calepin (vx). </quote>
+      <quote>2 - grand panier d'osier ventru, avec une anse.</quote>
+    </def>
+    <def label="française">
+      <quote>(voir : canebutin). GH donne à ce mot deux sens tout diff. : </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>1 - cahier, calepin (vx). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>2 - grand panier d'osier ventru, avec une anse.</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUEN(NES)SON</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>cresson de fontaine ; camomille puante.</quote>
+    </def>
+    <def label="française">
+      <quote>cresson de fontaine ; camomille puante.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">cresson de fontaine</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUÉQU'</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : quet').</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : quet').</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* QUÉQUETTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        vulve (et non pénis, comme en fr.). Faire quéquette : faire l'amour (ou faire semblant, dans les jeux érot. enf.). Quéquette dé rat : femme bavarde.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        vulve (et non pénis, comme en fr.). Faire quéquette : faire l'amour (ou faire semblant, dans les jeux érot. enf.). Quéquette dé rat : femme bavarde.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Quette</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        vulve, parfois pénis. Terme d'affection à un enfant, à une femme. &quot; A bétôt, m' quette ! - A r'voir, pépère ! &quot; (PP). &quot; I dit si bin : Bonjour, tiot' quette / In m' faisant des bais' à bouquette &quot; (RP). Quette dé burre (AD) : renoncule. &quot; Pus d' quettes dé bure pour orner leur mason &quot;.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        vulve, parfois pénis. Terme d'affection à un enfant, à une femme.
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">vulve</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Quette dé burre (AD) : renoncule. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; A bétôt, m' quette ! - A r'voir, pépère ! &quot; (PP). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I dit si bin : Bonjour, tiot' quette / In m' faisant des bais' à bouquette &quot; (RP).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Pus d' quettes dé bure pour orner leur mason &quot;.</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUER'</orth>
+    </form>
+    <gramGrp>
+      <pos>conj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        car. &quot; Quer un les vô diminche et fiette &quot; (Fl, F, XVIIe). Représente le latin quare (c'est pourquoi).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>car. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">car</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Représente le latin quare (c'est pourquoi).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Quer un les vô diminche et fiette &quot; (Fl, F, XVIIe). </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUER'</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        QUIER' (AVOIR), expr. verb. : aimer, chérir. Avoir pus quer' : préférer. J'ai si quer' : ça m'est égal. &quot; El queu qu' t'as pus quer' des deux, el bleu o bin l' vert ? - Bah ! j'ai si quer' &quot;. &quot; J'ai aussi quère la vie d' dins l' temps &quot; (JD) = j'aime autant. &quot; J' l'ai aussi kèr' qué mes deux yeux &quot; (EM). Ch'ti qui l'approch', faut qu'i l'euch' quère &quot; (JM). &quot; In dirot qu'té n' m'as pus si quier &quot; (RP) = tu m'aimes moins. &quot; J' t'ai si ker qué si j' t'avos dins m' panche, j' t'iros jeter à l' rivière &quot; (GH) = je ne t'aime pas. (Voir : raquer). ANC. : formation : verbe avoir
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        QUIER' (AVOIR), expr. verb. : aimer, chérir. Avoir pus quer' : préférer. J'ai si quer' : ça m'est égal.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">chérir</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Ch'ti qui l'approch', faut qu'i l'euch' quère </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; El queu qu' t'as pus quer' des deux, el bleu o bin l' vert ? - Bah ! j'ai si quer' &quot;.
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J'ai aussi quère la vie d' dins l' temps &quot; (JD) = j'aime autant.
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; J' l'ai aussi kèr' qué mes deux yeux &quot; (EM). </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : formation : verbe avoir </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUERCHER (AL)</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>charger. (Voir : querquer).</quote>
+    </def>
+    <def label="française">
+      <quote>charger. (Voir : querquer).</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">charger</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Quercheux-ch'vaux</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        ouvrier occupé à la recette d'un puits de mine. &quot; L' quercheux-ch'faux viv'mint s'active / A nous wuidier d' not' wagon &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>ouvrier occupé à la recette d'un puits de mine. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; L' quercheux-ch'faux viv'mint s'active / A nous wuidier d' not' wagon &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUERCHI</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>chiffonné, ridé. (Voir : raquerchir).</quote>
+    </def>
+    <def label="française">
+      <quote>chiffonné, ridé. (Voir : raquerchir).</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">chiffonné</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">ridé</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUÉRELLE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        querelle. &quot; Quérelle ed gueux s' raccommode à l'écuelle &quot; (GF).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>querelle. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">querelle</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Quérelle ed gueux s' raccommode à l'écuelle &quot; (GF).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUERNET</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        ruisseau d'écoulement des eaux vers l'accrochage dans les grandes galeries (mines). &quot; L'iau, qui coule au kernet, fait s' course in chuchotant &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        ruisseau d'écoulement des eaux vers l'accrochage dans les grandes galeries (mines).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; L'iau, qui coule au kernet, fait s' course in chuchotant &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Quernote</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        quernate, s. f. : fente, crevasse. &quot; L' paysan, dins s' cambus', vient arboucher l' quernote / D' l'huis... &quot; (GF). ANC. : quernel, carnel : cran, entaille (du germ. karn).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>quernate, s. f. : fente, crevasse. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">crevasse</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; L' paysan, dins s' cambus', vient arboucher l' quernote / D' l'huis... &quot; (GF).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : quernel, carnel : cran, entaille (du germ. karn).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUERNEU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        chacune des deux poutres parallèles, horizontales, soutenues par les montants du bâtis et supportant le porte-lame et le porte-battant d'un métier à tisser (GL).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        chacune des deux poutres parallèles, horizontales, soutenues par les montants du bâtis et supportant le porte-lame et le porte-battant d'un métier à tisser (GL).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">horizontales</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUERQUE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>QUERQUER : (voir : carque, carquer).</quote>
+    </def>
+    <def label="française">
+      <quote>QUERQUER : (voir : carque, carquer).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUERRE</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        quérir, chercher (voir : cacher). Ne s'emploie qu'à l'infinitif après des v. comme aller, vénir, invoïer, coeurir... &quot; Cha va querre dins les neuf chint vingt francs &quot; (RD). &quot; In v'not l' quère à chaqu' minute &quot; (JM). &quot; D'ù qu' j'irai l' querre ? = je n'en ai pas les moyens ; où irais-je chercher l'argent ? &quot; &quot; Y-a des momints, jé m' démande duss' qué tu vas les querre ! &quot; (RD) = où tu vas chercher les histoires que tu racontes. ANC. : lat. quaerere. &quot; Par tot le champ faites querre les noz &quot; (Ch. de Roland, 1080). &quot; Il va un autre siège querre / Que cil ne lui agree pas &quot; (L'âtre périlleux, XIIIe). &quot; J' d'envorai quer' drochy tout préz &quot; (Fl, F, XVIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        quérir, chercher (voir : cacher). Ne s'emploie qu'à l'infinitif après des v. comme aller, vénir, invoïer, coeurir...
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">quérir</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Cha va querre dins les neuf chint vingt francs &quot; (RD).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; In v'not l' quère à chaqu' minute &quot; (JM). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; D'ù qu' j'irai l' querre ? = je n'en ai pas les moyens ; où irais-je chercher l'argent ? &quot;
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Y-a des momints, jé m' démande duss' qué tu vas les querre ! &quot; (RD) = où tu vas chercher les histoires que tu racontes.
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : lat. quaerere. &quot; Par tot le champ faites querre les noz &quot; (Ch. de Roland, 1080). &quot; Il va un autre siège querre / Que cil ne lui agree pas &quot; (L'âtre périlleux, XIIIe). &quot; J' d'envorai quer' drochy tout préz &quot; (Fl, F, XVIIe).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUERRUE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : carrue).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : carrue).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUERTIN</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        panier d'osier à anse. &quot; Des tartin's qué l' mendiant portot dins s' grand quertin &quot; (JM). &quot; N' démeure point cor là comme enne souche avec et' quertin à t' main &quot; (RD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>panier d'osier à anse. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Des tartin's qué l' mendiant portot dins s' grand quertin &quot; (JM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; N' démeure point cor là comme enne souche avec et' quertin à t' main &quot; (RD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Quertinée</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        contenu d'un quertin. &quot; Le monarque mangea au dessert une pleine quertinée, ou, si vous le préférez, une pleine hottée de pêches &quot; (CD). ANC. : cretin : sorte de hotte ou de panier d'osier à anse en forme de cône renversé ; cretignee : contenu d'un cretin (God.).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>contenu d'un quertin. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Le monarque mangea au dessert une pleine quertinée, ou, si vous le préférez, une pleine hottée de pêches &quot; (CD).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : cretin : sorte de hotte ou de panier d'osier à anse en forme de cône renversé ; cretignee : contenu d'un cretin (God.).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUERVÉ</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        ivre. Quervé comme : un g'vau, el quévau Moneuse, eun' bourrique, l' bourrique à Robespierre, eun' rosse, quarante mille hommes, chint mille hommes, eun' grive. &quot; Quervé au point qu'i n' veyot pus clair &quot; (JM). S. m. : ivrogne. &quot; Assis-t-té, vieux quervé, tu n' tiens pus d'sus tes guilles &quot; (GT). &quot; Y n'y a bin quequ's batall' inter quervés &quot; (JQ).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        ivre. Quervé comme : un g'vau, el quévau Moneuse, eun' bourrique, l' bourrique à Robespierre, eun' rosse, quarante mille hommes, chint mille hommes, eun' grive.
+      </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">ivre</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>S. m. : ivrogne. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Quervé au point qu'i n' veyot pus clair &quot; (JM). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Assis-t-té, vieux quervé, tu n' tiens pus d'sus tes guilles &quot; (GT).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Y n'y a bin quequ's batall' inter quervés &quot; (JQ).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Querver (s')</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        se saouler. &quot; Si fort souvint t' aimos t' querver &quot; (GF).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>se saouler. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">se saouler</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Si fort souvint t' aimos t' querver &quot; (GF).</quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUERVURE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        crevasse, gerçure. ANC. : creveure (Livre de Job, 1130), dér. de crever.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>crevasse, gerçure. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">crevasse</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">gerçure</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : creveure (Livre de Job, 1130), dér. de crever.</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUÉSIR (JQ)</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        CHUSIR (GH), v. : choisir. &quot; On peut quésir à volonté &quot; (JQ). &quot; A force ed chusir on met s' nez dins l' bren &quot; (GH) = on finit par choisir le moins bon. &quot; I chusit toudis l' trou du cul dé l' nuit &quot; = il attend la nuit pour faire ses achats et ne trouve plus de choix. ANC. : du germ. kausjan : goûter, éprouver.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>CHUSIR (GH), v. : choisir. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; On peut quésir à volonté &quot; (JQ). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; A force ed chusir on met s' nez dins l' bren &quot; (GH) = on finit par choisir le moins bon.
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I chusit toudis l' trou du cul dé l' nuit &quot; = il attend la nuit pour faire ses achats et ne trouve plus de choix.
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : du germ. kausjan : goûter, éprouver.</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUET' COSE</orth>
+    </form>
+    <gramGrp>
+      <pos>pr. ind.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>pron. courante de quéqu' cose : quelque chose.</quote>
+    </def>
+    <def label="française">
+      <quote>pron. courante de quéqu' cose : quelque chose.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">pron</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUET'FOS</orth>
+    </form>
+    <gramGrp>
+      <pos>adv.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>pron. courante de quéqu'fos : quelquefois.</quote>
+    </def>
+    <def label="française">
+      <quote>pron. courante de quéqu'fos : quelquefois.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">pron</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUET' PART</orth>
+    </form>
+    <gramGrp>
+      <pos>adv.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>pron. courante de quequ' part : quelque part.</quote>
+    </def>
+    <def label="française">
+      <quote>pron. courante de quequ' part : quelque part.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">pron</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUÉTRON</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>surgeon (d'un arbre).</quote>
+    </def>
+    <def label="française">
+      <quote>surgeon (d'un arbre).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUETTE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : quéquette).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : quéquette).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUEU</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        QUEUL, adj. interr. et excl. : quel. Fém. : queule, queune. Queu malheur ! Queu n'ouvrache ou queul ouvrache ! Queu nouvelles ? = comment ça va ? Queune frousse ! Queule histoire ! Au pl., queu est suivi de l'art. ind. des : &quot; Queu des zouaves ! &quot; (RD). &quot; Ah ! queu des cris les gins i faitent ! &quot; (JM). Queu tout ! : quelle quantité ! ANC. : &quot; Ba ! queus covens, biau fius ? &quot; : quelle promesse, beau fils ? (Aucassin et Nicolette, XIIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        QUEUL, adj. interr. et excl. : quel. Fém. : queule, queune. Queu malheur ! Queu n'ouvrache ou queul ouvrache ! Queu nouvelles ? = comment ça va ? Queune frousse ! Queule histoire ! Au pl., queu est suivi de l'art. ind. des :
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">adj</cit>
+      </cit>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Queu tout ! : quelle quantité ! </quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Queu des zouaves ! &quot; (RD). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Ah ! queu des cris les gins i faitent ! &quot; (JM). </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : &quot; Ba ! queus covens, biau fius ? &quot; : quelle promesse, beau fils ? (Aucassin et Nicolette, XIIIe).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUEUCHE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>queux, pierre à aiguiser.</quote>
+    </def>
+    <def label="française">
+      <quote>queux, pierre à aiguiser.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">queux</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">pierre à aiguiser</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Queuch(e)ter</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>aiguiser la faux. ANC. : queusse (XIIe).</quote>
+    </def>
+    <def label="française">
+      <quote>aiguiser la faux. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : queusse (XIIe).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUEUCHE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        QUEUE, s. f. : bois brut de garnissage, long d'environ un mètre et d'un diamètre de
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        QUEUE, s. f. : bois brut de garnissage, long d'environ un mètre et d'un diamètre de
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUEUE D' RAT</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>prêle.</quote>
+    </def>
+    <def label="française">
+      <quote>prêle.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">prêle</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUEUE D' SORIS</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : cate-soris).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : cate-soris).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUEUESS' (phon. kwes)</orth>
+    </form>
+    <gramGrp>
+      <pos>adv. interr.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        quoi, pourquoi. &quot; Queuëss' qu'i n' fait point comm' ch'ti qu'in nomm' l'harcul' du Nord ? &quot; (JM). (Graphie curieuse !)
+      </quote>
+    </def>
+    <def label="française">
+      <quote>quoi, pourquoi. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">quoi</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">pourquoi</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Graphie curieuse !)</quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Queuëss' qu'i n' fait point comm' ch'ti qu'in nomm' l'harcul' du Nord ? &quot; (JM). (
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUEUETTE (FAIRE)</orth>
+    </form>
+    <gramGrp>
+      <pos>loc. verb.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>faire l'école buissonnière.</quote>
+    </def>
+    <def label="française">
+      <quote>faire l'école buissonnière.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">faire l'école buissonnière</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUEULES</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : cuelles).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : cuelles).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUEURELLE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        sorte de grès. &quot; Ch'est du koeurelle, l' caillau l' pus dur ed tout &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>sorte de grès. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ch'est du koeurelle, l' caillau l' pus dur ed tout &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUEUTE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>QUEUTE-FI : (voir : coeute).</quote>
+    </def>
+    <def label="française">
+      <quote>QUEUTE-FI : (voir : coeute).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUÉVAU</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        QU'VAU, G'VAU, s. m. : cheval (on trouve la prononc. quévau après une syl. fermée, qu'vau, normalement sonorisé en g'vau après une syl. ouverte). &quot; Ch'est un bon qu'vau d' trompette, al' n' s'épouvinte mie pou l' bruit &quot; (JQ). &quot; Comm' ch'ti
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        QU'VAU, G'VAU, s. m. : cheval (on trouve la prononc. quévau après une syl. fermée, qu'vau, normalement sonorisé en g'vau après une syl. ouverte).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ch'est un bon qu'vau d' trompette, al' n' s'épouvinte mie pou l' bruit &quot; (JQ).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Quévaux d' bos</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        quévau marin : chevaux de bois (voir : jeu de bidets). &quot; Y n'y a même un qu'vau marin et, alfos des montan' russ' &quot; (JQ). &quot; Va dire cha à les qu'vaux d' bos, té n'aras pas d' cops d' pied &quot; = va dire ça à d'autres. ANC. : lat. pop. caballus : mauvais cheval, d'un mot gaulois.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>quévau marin : chevaux de bois (voir : jeu de bidets). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Y n'y a même un qu'vau marin et, alfos des montan' russ' &quot; (JQ).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Va dire cha à les qu'vaux d' bos, té n'aras pas d' cops d' pied &quot; = va dire ça à d'autres.
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : lat. pop. caballus : mauvais cheval, d'un mot gaulois.</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUÉVET ou CAVET</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>1 - chevet (de lit). </quote>
+      <quote>2 - traversin, oreiller.</quote>
+    </def>
+    <def label="française">
+      <quote>1 - chevet (de lit). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+    <def label="française">
+      <quote>2 - traversin, oreiller.</quote>
+      <cit type="translation"/>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">oreiller</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUÉVILLE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        cheville (voir : queue). ANC. : lat. pop. cavicula, de clavicula : petite clef.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>cheville (voir : queue). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : lat. pop. cavicula, de clavicula : petite clef.</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUIEN</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : tchien).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : tchien).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUIER'</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : quer').</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : quer').</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUIER</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : tchier).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : tchier).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUIÈVRE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        chèvre (vx). Il en reste, à Valenciennes, les rues Askièvre (= aux chèvres) et Askiévrette.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        chèvre (vx). Il en reste, à Valenciennes, les rues Askièvre (= aux chèvres) et Askiévrette.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUINQUIN</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : caquin).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : caquin).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUINT</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>quinte, caprice.</quote>
+    </def>
+    <def label="française">
+      <quote>quinte, caprice.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">quinte</cit>
+      </cit>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">caprice</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>Quinteux</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>capricieux.</quote>
+    </def>
+    <def label="française">
+      <quote>capricieux.</quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">capricieux</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>* QUINTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        farce. &quot; J'ai voulu tout bonn'mint vous raconter dé m' mieux / Des quintes d' bons vivants &quot; (PB). &quot; I n'y a foque à vous qu'i vous arrive des quintes parelles &quot; (PP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>farce. </quote>
+      <cit type="translation">
+        <cit xml:lang="fr" type="translation">farce</cit>
+      </cit>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J'ai voulu tout bonn'mint vous raconter dé m' mieux / Des quintes d' bons vivants &quot; (PB).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I n'y a foque à vous qu'i vous arrive des quintes parelles &quot; (PP).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUINT(E)-TOUSSE</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        QUENN'TOUSSE, s. f. : coqueluche. &quot; J' guéris tout ... / Tapur', quenn'touss'... &quot; (JM). &quot; Ein dirot qu' j'ai l' quenne-tousse, tell'mint qu' cha roule sus m' poitrine &quot; (RD). ANC. : quinte de toux, quinte étant le fém. de l'adj. quint, car cette toux semble revenir toutes les cinq heures (XVIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>QUENN'TOUSSE, s. f. : coqueluche. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; J' guéris tout ... / Tapur', quenn'touss'... &quot; (JM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ein dirot qu' j'ai l' quenne-tousse, tell'mint qu' cha roule sus m' poitrine &quot; (RD).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : quinte de toux, quinte étant le fém. de l'adj. quint, car cette toux semble revenir toutes les cinq heures (XVIe).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUINV(R)E</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        QUIM.ME, s. m. : chanvre. (Voir : quénebuisse). ANC. : lat. cannabis.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>QUIM.ME, s. m. : chanvre. (Voir : quénebuisse). </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym>
+      <quote>ANC. : lat. cannabis.</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUINZAINE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        salaire de deux semaines (ce sens existe en fr. mais le mot est plus pop. en rouchi). Ch'est l' quinzaine : c'est jour de paie. Payer à l' quinzaine : régler ses dettes le jour de paie. Eun' quinzaine ed péqueux : un maigre salaire. &quot; Quand i touchot s' quinzain', recta, / I buvot pindant eun' sémaine &quot; (JM). &quot; I n'ont point l'air gai. Ein dirot qu'i z'ont tertouss pierdu leu quinzaine &quot; (RD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        salaire de deux semaines (ce sens existe en fr. mais le mot est plus pop. en rouchi). Ch'est l' quinzaine : c'est jour de paie. Payer à l' quinzaine : régler ses dettes le jour de paie. Eun' quinzaine ed péqueux : un maigre salaire.
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Quand i touchot s' quinzain', recta, / I buvot pindant eun' sémaine &quot; (JM).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I n'ont point l'air gai. Ein dirot qu'i z'ont tertouss pierdu leu quinzaine &quot; (RD).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUINZERLIQUE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        soldat autrichien. &quot; Ch' est aussi dins l' rue Tilloy / Qué les Quinzerliques (sobriquet ?) / Donnutent des séances publiques &quot; (AD). ANC. : déform. de kaiserlich (impérial).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>soldat autrichien. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Ch' est aussi dins l' rue Tilloy / Qué les Quinzerliques (sobriquet ?) / Donnutent des séances publiques &quot; (AD).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : déform. de kaiserlich (impérial).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUIOU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        pomme enveloppée de pâte et cuite au four (mot du Cambrésis ; voir : pagnon, riboche, tachibure).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        pomme enveloppée de pâte et cuite au four (mot du Cambrésis ; voir : pagnon, riboche, tachibure).
+      </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUIQUISSE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - mauvaise soupe. &quot; Et pou fair' del soup' - del quiquisse - / All' ramassot des haricots / N'import' dû, mêm' dins l' rucheau &quot; (JM).
+      </quote>
+      <quote>
+        2 - avoir el quiquisse : avoir une petite maladie : &quot; I-a du maux à ses dints ou bin cor' i-a l' quiquisse &quot; (RP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - mauvaise soupe. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Et pou fair' del soup' - del quiquisse - / All' ramassot des haricots / N'import' dû, mêm' dins l' rucheau &quot; (JM).
+      </quote>
+    </cit>
+    <etym/>
+    <def label="française">
+      <quote>2 - avoir el quiquisse : avoir une petite maladie : </quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; I-a du maux à ses dints ou bin cor' i-a l' quiquisse &quot; (RP).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUITTE</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        &quot; Pus vite fait, pus vite quitte &quot;, prov. courant qui semble ne pas exister en fr. &quot; Jé m' dépêche à l'ouvrach', pus vit' fait, pus vit' quitte &quot; (RP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>prov. courant qui semble ne pas exister en fr. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Jé m' dépêche à l'ouvrach', pus vit' fait, pus vit' quitte &quot; (RP).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Pus vite fait, pus vite quitte &quot;, </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QU'MINSS</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : commint).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : commint).</quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUO</orth>
+    </form>
+    <gramGrp>
+      <pos/>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        QUOÉ, pr. rel. : quoi. &quot; D' quo fair' eun' bonn' salat' pou nous souper &quot; (JQ). Interj. : &quot; Quoé ! sans savoir écrire ! &quot; (EM). &quot; Allons, mes frères, savez quoi et qu'est-ce, anon ? &quot; (PP) = vous êtes au courant ?
+      </quote>
+    </def>
+    <def label="française">
+      <quote>QUOÉ, pr. rel. : quoi. </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <def label="française">
+      <quote>Interj. : </quote>
+      <cit type="translation"/>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; D' quo fair' eun' bonn' salat' pou nous souper &quot; (JQ).
+      </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>&quot; Quoé ! sans savoir écrire ! &quot; (EM). </quote>
+    </cit>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Allons, mes frères, savez quoi et qu'est-ce, anon ? &quot; (PP) = vous êtes au courant ?
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+  <entry>
+    <form>
+      <orth>QUOISS</orth>
+    </form>
+    <gramGrp>
+      <pos>interr.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        qu'est-ce ? &quot; Quoiss qué cha veut dire qué vous baillez tertous in lisant ? &quot; (GT).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>qu'est-ce ? </quote>
+      <cit type="translation"/>
+    </def>
+    <cit xml:lang="pcd" type="example">
+      <quote>
+        &quot; Quoiss qué cha veut dire qué vous baillez tertous in lisant ? &quot; (GT).
+      </quote>
+    </cit>
+    <etym/>
+  </entry>
+</TEI>
