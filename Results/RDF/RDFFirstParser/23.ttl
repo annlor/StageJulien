@@ -1,22 +1,20 @@
 @prefix restaure: <http://restaure.limsi.fr/2017/rdf#> .
-@prefix vartrans: <https://www.w3.org/ns/lemon/vartrans#> .
 @prefix lime:  <http://www.w3.org/ns/lemon/lime#> .
 @prefix ontolex: <http://www.w3.org/ns/lemon/ontolex#> .
 @prefix lexinfo: <http://lexinfo.net/ontology/2.0/lexinfo#> .
 
-<http://restaure.limsi.fr/2017/rdf#loup-garou.%20Patronyme.%20ANC.%20:%20francique%20werwulf%20:%20homme-loup.%20(Cf.%20all.%20Werwolf).%20%22%20...%20%C3%A9rouillant%20m%C3%A9%20zieu%20ensin%20qu'en%20leu-warou%20%22%20(Fl,%20H,%201654).>
-        ontolex:writtenRep  "loup-garou. Patronyme. ANC. : francique werwulf : homme-loup. (Cf. all. Werwolf). \" ... érouillant mé zieu ensin qu'en leu-warou \" (Fl, H, 1654)." .
-
-<http://restaure.limsi.fr/2017/rdf#varlope.%20ANC.%20:%20on%20trouve,%20en%201564,%20une%20forme%20uuarlope.%20Du%20n%C3%A9erl.%20voorloper,%20riflard%20de%20charpentier.>
-        ontolex:writtenRep  "varlope. ANC. : on trouve, en 1564, une forme uuarlope. Du néerl. voorloper, riflard de charpentier." .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20agiter%20un%20liquide%20dans%20un%20r%C3%A9cipient.%20(Voir%20:%20arlocher).%20ANC.%20:%20warlocquier%20:%20branler,%20osciller.%20%22%20...je%20veu...%20/%20Foaire%20tenir%20%C3%A0%20clau%20no%20verrou%20qui%20warlocque%20%22%20(Fl,%20H,%201654).%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        agiter un liquide dans un récipient. (Voir : arlocher). ANC. : warlocquier : branler, osciller. \" ...je veu... / Foaire tenir à clau no verrou qui warlocque \" (Fl, H, 1654).\n      " .
 
 restaure:le23PicardVersFrançais_12
-        a                              ontolex:LexicalEntry ;
-        lexinfo:partOfSpeech           lexinfo:Verb ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#nettoyer%20par%20terre%20avec%20une%20wassingue%20mouill%C3%A9e.%20%22%20Em'n%20occasion%20(ma%20promise),%20ch'%20t'eune%20cr%C3%A2ne%20comm%C3%A8re,%20/%20%C3%80l%20sait%20pertrir> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#nettoyer%20par%20terre%20avec%20une%20wassingue%20mouill%C3%A9e.%20> ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_Wassinguer%20(donner%20un%20cop%20d'%20wassingue)> .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:partOfSpeech     lexinfo:Verb ;
+        restaure:etymology       restaure: ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20nettoyer%20par%20terre%20avec%20une%20wassingue%20mouill%C3%A9e.%20%22%20Em'n%20occasion%20(ma%20promise),%20ch'%20t'eune%20cr%C3%A2ne%20comm%C3%A8re,%20/%20%C3%80l%20sait%20pertrir%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#nettoyer%20par%20terre%20avec%20une%20wassingue%20mouill%C3%A9e.%20> ;
+        ontolex:lexicalForm      <http://restaure.limsi.fr/2017/rdf#lf_Wassinguer%20(donner%20un%20cop%20d'%20wassingue)> .
 
 restaure:Traductionet
         a                   ontolex:Form ;
@@ -26,43 +24,42 @@ restaure:lf_WIDIER  a       ontolex:Form ;
         ontolex:writtenRep  "widier" .
 
 restaure:le23PicardVersFrançais_4
-        a                              ontolex:LexicalEntry ;
-        lexinfo:partOfSpeech           lexinfo:Verb ;
-        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20J'aros%20d%C3%BB%20rester%20%C3%A0%20l'%20coyette%20/%20Pr%C3%A8s%20d%C3%A9%20m'%20feu%20in%20wardiant%20m'%20fricot%20%22%20(PM).> , <http://restaure.limsi.fr/2017/rdf#%22%20Warde%20chu%20qu'%20t'as,%20j'%20warderai%20chu%20qu'%20j'ai%20!%20%22%20(GH)%20> , <http://restaure.limsi.fr/2017/rdf#%22%20Warde%20chu%20qu'%20t'as,%20t%C3%A9%20n'd'as%20pas%20d'%20trop%20%22%20:%20formules%20pour%20refuser%20une%20offre%20:%20> , <http://restaure.limsi.fr/2017/rdf#%22%20Un%20cur%C3%A9%20dot%20tout%20warder%20pour%20li%20et%20n'%20rin%20dire%20%C3%A0%20personne%20%22%20(PP)%20(vertu%20de%20discr%C3%A9tion).%20> , <http://restaure.limsi.fr/2017/rdf#%22%20L'%20coeur%20du%20pauvr',%20pou%20l'amour,%20dot%20warder%20l'%20meilleu%20coin%20%22%20(JM).%20> , <http://restaure.limsi.fr/2017/rdf#%22%20J%C3%A9%20l'%20warderai%20jusqu'%C3%A0%20l'ann%C3%A9e%20qui%20vient%20pou%20faire%20des%20%C3%A9trennes%20au%20diale%20%22%20(GH),%20> ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#garder.%20%22%20Warde%20chu%20qu'%20t'as,%20j'%20warderai%20chu%20qu'%20j'ai%20!%20%22%20(GH)%20ou%20%22%20Warde%20chu%20qu'%20t'as,%20t%C3%A9%20n'd'as%20pas%20d'%20trop%20%22%20:%20formules%20pour%20refuser%20une%20offre%20:%20%22%20J%C3%A9%20l'%20warderai%20jusqu'%C3%A0%20l'ann%C3%A9e%20qui%20vient%20pou%20faire%20des%20%C3%A9trennes%20au%20diale%20%22%20(GH),%20dit-on%20d'un%20pr%C3%A9sent%20dont%20on%20fait%20peu%20de%20cas.%20%22%20L'%20coeur%20du%20pauvr',%20pou%20l'amour,%20dot%20warder%20l'%20meilleu%20coin%20%22%20(JM).%20%22%20Un%20cur%C3%A9%20dot%20tout%20warder%20pour%20li%20et%20n'%20rin%20dire%20%C3%A0%20personne%20%22%20(PP)%20(vertu%20de%20discr%C3%A9tion).%20%22%20J'aros%20d%C3%BB%20rester%20%C3%A0%20l'%20coyette%20/%20Pr%C3%A8s%20d%C3%A9%20m'%20feu%20in%20wardiant%20m'%20fricot%20%22%20(PM).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#garder.%20> , <http://restaure.limsi.fr/2017/rdf#dit-on%20d'un%20pr%C3%A9sent%20dont%20on%20fait%20peu%20de%20cas.%20> , <http://restaure.limsi.fr/2017/rdf#ou%20> ;
-        restaure:TranslatableInFrenchOneWord
-                restaure:Traductionou , restaure:Traductiongarder ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            restaure:lf_WARDER .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:partOfSpeech     lexinfo:Verb ;
+        restaure:etymology       restaure: ;
+        restaure:hasExample      <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20J'aros%20d%C3%BB%20rester%20%C3%A0%20l'%20coyette%20/%20Pr%C3%A8s%20d%C3%A9%20m'%20feu%20in%20wardiant%20m'%20fricot%20%22%20(PM).%0A%20%20%20%20%20%20> , <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20J%C3%A9%20l'%20warderai%20jusqu'%C3%A0%20l'ann%C3%A9e%20qui%20vient%20pou%20faire%20des%20%C3%A9trennes%20au%20diale%20%22%20(GH),%0A%20%20%20%20%20%20> , <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Warde%20chu%20qu'%20t'as,%20t%C3%A9%20n'd'as%20pas%20d'%20trop%20%22%20:%20formules%20pour%20refuser%20une%20offre%20:%0A%20%20%20%20%20%20> , <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Warde%20chu%20qu'%20t'as,%20j'%20warderai%20chu%20qu'%20j'ai%20!%20%22%20(GH)%0A%20%20%20%20%20%20> , <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Un%20cur%C3%A9%20dot%20tout%20warder%20pour%20li%20et%20n'%20rin%20dire%20%C3%A0%20personne%20%22%20(PP)%20(vertu%20de%20discr%C3%A9tion).%0A%20%20%20%20%20%20> , <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20L'%20coeur%20du%20pauvr',%20pou%20l'amour,%20dot%20warder%20l'%20meilleu%20coin%20%22%20(JM).%0A%20%20%20%20%20%20> ;
+        restaure:translatableAs  restaure:Traductiongarder , restaure:Traductionou , restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20garder.%20%22%20Warde%20chu%20qu'%20t'as,%20j'%20warderai%20chu%20qu'%20j'ai%20!%20%22%20(GH)%20ou%20%22%20Warde%20chu%20qu'%20t'as,%20t%C3%A9%20n'd'as%20pas%20d'%20trop%20%22%20:%20formules%20pour%20refuser%20une%20offre%20:%20%22%20J%C3%A9%20l'%20warderai%20jusqu'%C3%A0%20l'ann%C3%A9e%20qui%20vient%20pou%20faire%20des%20%C3%A9trennes%20au%20diale%20%22%20(GH),%20dit-on%20d'un%20pr%C3%A9sent%20dont%20on%20fait%20peu%20de%20cas.%20%22%20L'%20coeur%20du%20pauvr',%20pou%20l'amour,%20dot%20warder%20l'%20meilleu%20coin%20%22%20(JM).%20%22%20Un%20cur%C3%A9%20dot%20tout%20warder%20pour%20li%20et%20n'%20rin%20dire%20%C3%A0%20personne%20%22%20(PP)%20(vertu%20de%20discr%C3%A9tion).%20%22%20J'aros%20d%C3%BB%20rester%20%C3%A0%20l'%20coyette%20/%20Pr%C3%A8s%20d%C3%A9%20m'%20feu%20in%20wardiant%20m'%20fricot%20%22%20(PM).%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#garder.%20> , <http://restaure.limsi.fr/2017/rdf#dit-on%20d'un%20pr%C3%A9sent%20dont%20on%20fait%20peu%20de%20cas.%20> , <http://restaure.limsi.fr/2017/rdf#ou%20> ;
+        ontolex:lexicalForm      restaure:lf_WARDER .
 
-<http://restaure.limsi.fr/2017/rdf#:%20cette%20lettre,%20improprement%20appel%C3%A9e%20double%20v,%20alors%20qu'elle%20est%20une%20semi-voyelle,%20doit%20se%20prononcer%20comme%20en%20angl.%20et%20non%20comme%20en%20all.%20A%20rappeler,%20car%20les%20>
-        ontolex:writtenRep  ": cette lettre, improprement appelée double v, alors qu'elle est une semi-voyelle, doit se prononcer comme en angl. et non comme en all. A rappeler, car les " .
-
-<http://restaure.limsi.fr/2017/rdf#%22%20Le%20plus%20beau,%20ce%20sont%20les%20soirs%20de%20gaufres.%20Encore%20ce%20w%20francique,%20les%20waufres,%20presque%20effac%C3%A9%20d%C3%A9sormais%20%22%20(AS).%20>
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20J%C3%A9%20l'%20warderai%20jusqu'%C3%A0%20l'ann%C3%A9e%20qui%20vient%20pou%20faire%20des%20%C3%A9trennes%20au%20diale%20%22%20(GH),%0A%20%20%20%20%20%20>
         a                   ontolex:Form ;
-        ontolex:writtenRep  "\" Le plus beau, ce sont les soirs de gaufres. Encore ce w francique, les waufres, presque effacé désormais \" (AS). " .
+        ontolex:writtenRep  "\n        \" Jé l' warderai jusqu'à l'année qui vient pou faire des étrennes au diale \" (GH),\n      " .
 
-<http://restaure.limsi.fr/2017/rdf#ANC.%20:%20du%20francique%20want%20;%20gant.>
-        ontolex:writtenRep  "ANC. : du francique want ; gant." .
+<http://restaure.limsi.fr/2017/rdf#WAUTER,%20v.%20:%20%0A%20%20%20%20%20%20%20%201%20-%20g%C3%A2ter%20(sens%20;%20faire%20des%20g%C3%A2teries,%20combler%20d'affection,%20d'attentions).%20%22%20M%C3%A9m%C3%A8r'%20La%C3%AFte,%20quand%20j'%C3%A9tos%20jonne,%20/%20M'a%20w%C3%A2t%C3%A9%20d'%20ses%20vieux%20r'frains%20bercheurs%20%22%20(JM).%20%22%20Ch'est%20l'eintant%20d%C3%A9%20m'%20fille,%20mais%20il%20est%20wot%C3%A9%20!%20Qu'est-ce%20qu%C3%A9%20j'%20dis%20!%20I-est%20pourri%20!%20%22%20(RD)%20(g%C3%A2ter%20%C3%A0%20l'exc%C3%A8s).%20La%20premi%C3%A8re%20partie%20du%20r%C3%A9cent%20roman%20d'Andr%C3%A9%20Stil,%20%22%20Dieu%20est%20un%20enfant%20%22%20s'appelle%20%22%20L'enfant%20ouat%C3%A9%20%22%20:%20%22%20Selon%20les%20familles,%20il%20y%20a%20les%20%22ouat%C3%A9s%20du%20p%C3%A8re%22%20et%20les%20%22ouat%C3%A9s%20de%20la%20m%C3%A8re%22.%20Lui%20l'est%20des%20deux.%20%22%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%202%20-%20g%C3%A2cher.%20%22%20N'%20viens%20pas%20chi%20wauter%20m'%20fi%C3%AAte%20%22%20(RD).%20ANC.%20:%20l'initiale%20du%20lat.%20vastare%20(ravager,%20saccager)%20s'est%20modifi%C3%A9e%20en%20w%20sous%20l'influence%20du%20radical%20germ.%20wost%20(cf.%20verw%C3%BCsten%20:%20ravager,%20saccager).%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "WAUTER, v. : \n        1 - gâter (sens ; faire des gâteries, combler d'affection, d'attentions). \" Mémèr' Laïte, quand j'étos jonne, / M'a wâté d' ses vieux r'frains bercheurs \" (JM). \" Ch'est l'eintant dé m' fille, mais il est woté ! Qu'est-ce qué j' dis ! I-est pourri ! \" (RD) (gâter à l'excès). La première partie du récent roman d'André Stil, \" Dieu est un enfant \" s'appelle \" L'enfant ouaté \" : \" Selon les familles, il y a les \"ouatés du père\" et les \"ouatés de la mère\". Lui l'est des deux. \"\n      \n        2 - gâcher. \" N' viens pas chi wauter m' fiête \" (RD). ANC. : l'initiale du lat. vastare (ravager, saccager) s'est modifiée en w sous l'influence du radical germ. wost (cf. verwüsten : ravager, saccager).\n      " .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20motte%20de%20terre%20durcie.%20%22%20Belz%C3%A9buth%20campa%20une%20cholette%20sur%20une%20waroque,%20ou%20motte%20gel%C3%A9e%20%22%20(CD).%20(Voir%20:%20%C3%A9pautrer%20;%20maroque).%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        motte de terre durcie. \" Belzébuth campa une cholette sur une waroque, ou motte gelée \" (CD). (Voir : épautrer ; maroque).\n      " .
 
 restaure:le23PicardVersFrançais_20
-        a                              ontolex:LexicalEntry ;
-        lexinfo:gender                 lexinfo:Masculine ;
-        lexinfo:partOfSpeech           lexinfo:Noun ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#mise%20en%20possession%20(terme> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#mise%20en%20possession%20(terme> ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            restaure:lf_WERP .
-
-<http://restaure.limsi.fr/2017/rdf#ANC.%20:%20francique%20walu%20(b%C3%A2ton).>
-        ontolex:writtenRep  "ANC. : francique walu (bâton)." .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:gender           lexinfo:Masculine ;
+        lexinfo:partOfSpeech     lexinfo:Noun ;
+        restaure:etymology       restaure: ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#mise%20en%20possession%20(terme> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#mise%20en%20possession%20(terme> ;
+        ontolex:lexicalForm      restaure:lf_WERP .
 
 <http://restaure.limsi.fr/2017/rdf#mare%20servant%20d'abreuvoir.>
         ontolex:writtenRep  "mare servant d'abreuvoir." .
 
-<http://restaure.limsi.fr/2017/rdf#ANC.%20:%20l'initiale%20du%20lat.%20vastare%20(ravager,%20saccager)%20s'est%20modifi%C3%A9e%20en%20w%20sous%20l'influence%20du%20radical%20germ.%20wost%20(cf.%20verw%C3%BCsten%20:%20ravager,%20saccager).ANC.%20:%20l'initiale%20du%20lat.%20vastare%20(ravager,%20saccager)%20s'est%20modifi%C3%A9e%20en%20w%20sous%20l'influence%20du%20radical%20germ.%20wost%20(cf.%20verw%C3%BCsten%20:%20ravager,%20saccager).ANC.%20:%20l'initiale%20du%20lat.%20vastare%20(ravager,%20saccager)%20s'est%20modifi%C3%A9e%20en%20w%20sous%20l'influence%20du%20radical%20germ.%20wost%20(cf.%20verw%C3%BCsten%20:%20ravager,%20saccager).>
-        ontolex:writtenRep  "ANC. : l'initiale du lat. vastare (ravager, saccager) s'est modifiée en w sous l'influence du radical germ. wost (cf. verwüsten : ravager, saccager).ANC. : l'initiale du lat. vastare (ravager, saccager) s'est modifiée en w sous l'influence du radical germ. wost (cf. verwüsten : ravager, saccager).ANC. : l'initiale du lat. vastare (ravager, saccager) s'est modifiée en w sous l'influence du radical germ. wost (cf. verwüsten : ravager, saccager)." .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20cocu.%20%22%20I%20vaut%20mieux%20%C3%AAte%20wio%20qu'aveule,%20on%20vot%20ses%20confr%C3%A8res%20%22%20(GH).%20Les%20Wios%20d'%20Tournay%20(GH%20dixit),%20parce%20que%20les%20Tournaisiennes%20sont%20belles,%20donc%20recherch%C3%A9es.%20ANC.%20:%20wihot,%20m.%20sens%20(d%C3%A9b.%20XIIe).%20%22%20Ki%20ont%20fais%20wihos%20lor%20maris%20%22%20(Renart%20le%20Nouvel,%201288).%20Du%20francique%20widuhoppa%20:%20huppe%20(oiseau).%20(Cf.%20all.%20Wiedehopf).%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        cocu. \" I vaut mieux ête wio qu'aveule, on vot ses confrères \" (GH). Les Wios d' Tournay (GH dixit), parce que les Tournaisiennes sont belles, donc recherchées. ANC. : wihot, m. sens (déb. XIIe). \" Ki ont fais wihos lor maris \" (Renart le Nouvel, 1288). Du francique widuhoppa : huppe (oiseau). (Cf. all. Wiedehopf).\n      " .
 
 <http://restaure.limsi.fr/2017/rdf#nettoyer%20par%20terre%20avec%20une%20wassingue%20mouill%C3%A9e.%20>
         ontolex:writtenRep  "nettoyer par terre avec une wassingue mouillée. " .
@@ -70,63 +67,68 @@ restaure:le23PicardVersFrançais_20
 restaure:lf_WARLOPE  a      ontolex:Form ;
         ontolex:writtenRep  "warlope" .
 
-<http://restaure.limsi.fr/2017/rdf#g%C3%A2teau.%20Vx.%20Patronyme%20sous%20diverses%20graphies%20:%20Watteau,%20Wastiaux,%20Wastel,%20Wattel,%20Wattelet,%20Wattier%20(Dauzat%20leur%20donne%20une%20orig.%20toute%20diff%C3%A9rente%20:%20germ.%20Wad-hari%20(wad%20:%20gage%20;%20hari%20:%20arm%C3%A9e).%20Louis%20Cellier,%20cite%20un%20nom%20trouv%C3%A9%20dans%20les%20archives%20valenciennoises,%20celui%20de%20Watier%20Blancpain,%20dit%20Wateau%20(1522)%20et%20commente%20:%20%22%20Watiau%20ou%20wateau,%20tout%20le%20monde%20le%20sait,%20est%20la%20traduction%20patoise%20du%20mot%20g%C3%A2teau%20;%20il%20se%20peut%20faire%20que%20quelque%20buveur%20en%20goguette%20ait%20trouv%C3%A9%20ing%C3%A9nieux%20de%20surnommer%20Wateau%20tel%20bourgeois%20qui%20s'appelait%20Blancpain%20du%20nom%20de%20sa%20famille%20%22%20(Wateau%20en%20Angleterre.%20Revue%20de%20la%20Soc.%20d'Agric,%20sc.%20et%20arts%20de%20Val.,%20tome%20XXII).%20(A%20noter%20que%20le%20nom%20du%20c%C3%A9l%C3%A8bre%20peintre%20est%20bien%20Wateau%20avec%20un%20seul%20t%20sur%20son%20acte%20de%20naissance).>
-        ontolex:writtenRep  "gâteau. Vx. Patronyme sous diverses graphies : Watteau, Wastiaux, Wastel, Wattel, Wattelet, Wattier (Dauzat leur donne une orig. toute différente : germ. Wad-hari (wad : gage ; hari : armée). Louis Cellier, cite un nom trouvé dans les archives valenciennoises, celui de Watier Blancpain, dit Wateau (1522) et commente : \" Watiau ou wateau, tout le monde le sait, est la traduction patoise du mot gâteau ; il se peut faire que quelque buveur en goguette ait trouvé ingénieux de surnommer Wateau tel bourgeois qui s'appelait Blancpain du nom de sa famille \" (Wateau en Angleterre. Revue de la Soc. d'Agric, sc. et arts de Val., tome XXII). (A noter que le nom du célèbre peintre est bien Wateau avec un seul t sur son acte de naissance)." .
+restaure:lf_WATER  a        ontolex:Form ;
+        ontolex:writtenRep  "water" .
 
 <http://restaure.limsi.fr/2017/rdf#2%20-%20sortir.%20>
         ontolex:writtenRep  "2 - sortir. " .
 
-<http://restaure.limsi.fr/2017/rdf#terrains%20vagues%20o%C3%B9%20le%20petit%20b%C3%A9tail%20peut%20pa%C3%AEtre.%20%22%20Le%20bosquet%20formait%20une%20sorte%20de%20triangle%20entour%C3%A9%20de%20war%C3%A9chaix%20ou%20terrains%20vagues%20%22%20(CD).%20ANC.%20:%20warescais,%20wareschel,%20m.%20sens%20(XIIIe).>
-        ontolex:writtenRep  "terrains vagues où le petit bétail peut paître. \" Le bosquet formait une sorte de triangle entouré de waréchaix ou terrains vagues \" (CD). ANC. : warescais, wareschel, m. sens (XIIIe)." .
-
-restaure:lf_WATER  a        ontolex:Form ;
-        ontolex:writtenRep  "water" .
-
 lexinfo:Female  ontolex:writtenRep  "Féminin"@fra .
 
-restaure:xAmiens  ontolex:writtenRep  "Amiens"@fra .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20terrains%20vagues%20o%C3%B9%20le%20petit%20b%C3%A9tail%20peut%20pa%C3%AEtre.%20%22%20Le%20bosquet%20formait%20une%20sorte%20de%20triangle%20entour%C3%A9%20de%20war%C3%A9chaix%20ou%20terrains%20vagues%20%22%20(CD).%20ANC.%20:%20warescais,%20wareschel,%20m.%20sens%20(XIIIe).%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        terrains vagues où le petit bétail peut paître. \" Le bosquet formait une sorte de triangle entouré de waréchaix ou terrains vagues \" (CD). ANC. : warescais, wareschel, m. sens (XIIIe).\n      " .
 
-<http://restaure.limsi.fr/2017/rdf#gantier,%20fabricant%20de%20gants.%20Il%20y%20a%20encore,%20%C3%A0%20Valenciennes,%20une%20Place%20des%20Wantiers.%20Elle%20portait%20d%C3%A9j%C3%A0%20ce%20nom%20%C3%A0%20la%20fin%20du%20XIVe%20(A.%20Gauvin).%20>
-        ontolex:writtenRep  "gantier, fabricant de gants. Il y a encore, à Valenciennes, une Place des Wantiers. Elle portait déjà ce nom à la fin du XIVe (A. Gauvin). " .
-
-<http://restaure.limsi.fr/2017/rdf#1%20-%20g%C3%A2ter%20(sens%20;%20faire%20des%20g%C3%A2teries,%20combler%20d'affection,%20d'attentions).%20>
-        ontolex:writtenRep  "1 - gâter (sens ; faire des gâteries, combler d'affection, d'attentions). " .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20A%20noter%20que%20le%20nom%20du%20c%C3%A9l%C3%A8bre%20peintre%20est%20bien%20Wateau%20avec%20un%20seul%20t%20sur%20son%20acte%20de%20naissance).%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        A noter que le nom du célèbre peintre est bien Wateau avec un seul t sur son acte de naissance).\n      " .
 
 <http://restaure.limsi.fr/2017/rdf#varlope.%20>
         ontolex:writtenRep  "varlope. " .
 
-<http://restaure.limsi.fr/2017/rdf#%22%20Watiau%20ou%20wateau,%20tout%20le%20monde%20le%20sait,%20est%20la%20traduction%20patoise%20du%20mot%20g%C3%A2teau%20;%20il%20se%20peut%20faire%20que%20quelque%20buveur%20en%20goguette%20ait%20trouv%C3%A9%20ing%C3%A9nieux%20de%20surnommer%20Wateau%20tel%20bourgeois%20qui%20s'appelait%20Blancpain%20du%20nom%20de%20sa%20famille%20%22%20(Wateau%20en%20Angleterre.%20Revue%20de%20la%20Soc.%20d'Agric,%20sc.%20et%20arts%20de%20Val.,%20tome%20XXII).%20(>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "\" Watiau ou wateau, tout le monde le sait, est la traduction patoise du mot gâteau ; il se peut faire que quelque buveur en goguette ait trouvé ingénieux de surnommer Wateau tel bourgeois qui s'appelait Blancpain du nom de sa famille \" (Wateau en Angleterre. Revue de la Soc. d'Agric, sc. et arts de Val., tome XXII). (" .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20ANC.%20:%20francique%20werwulf%20:%20homme-loup.%20(Cf.%20all.%20Werwolf).%20%22%20...%20%C3%A9rouillant%20m%C3%A9%20zieu%20ensin%20qu'en%20leu-warou%20%22%20(Fl,%20H,%201654).%0A%20%20%20%20%20%20%0A%20%20%20%20>
+        ontolex:writtenRep  "\n      \n        ANC. : francique werwulf : homme-loup. (Cf. all. Werwolf). \" ... érouillant mé zieu ensin qu'en leu-warou \" (Fl, H, 1654).\n      \n    " .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20serpilli%C3%A8re.%20%22%20(Il)%20le%20tordit%20comme%20une%20servante%20tord%20sa%20wassingue%20%22%20(CD).%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        serpillière. \" (Il) le tordit comme une servante tord sa wassingue \" (CD).\n      " .
+
+restaure:xValenciennes
+        ontolex:writtenRep  "Valenciennes"@fra .
 
 lexinfo:Noun  ontolex:writtenRep  "Nom"@fra .
 
-<http://restaure.limsi.fr/2017/rdf#gantier,%20fabricant%20de%20gants.%20Il%20y%20a%20encore,%20%C3%A0%20Valenciennes,%20une%20Place%20des%20Wantiers.%20Elle%20portait%20d%C3%A9j%C3%A0%20ce%20nom%20%C3%A0%20la%20fin%20du%20XIVe%20(A.%20Gauvin).%20ANC.%20:%20du%20francique%20want%20;%20gant.>
-        ontolex:writtenRep  "gantier, fabricant de gants. Il y a encore, à Valenciennes, une Place des Wantiers. Elle portait déjà ce nom à la fin du XIVe (A. Gauvin). ANC. : du francique want ; gant." .
-
-<http://restaure.limsi.fr/2017/rdf#%22%20Ch'est%20l'eintant%20d%C3%A9%20m'%20fille,%20mais%20il%20est%20wot%C3%A9%20!%20Qu'est-ce%20qu%C3%A9%20j'%20dis%20!%20I-est%20pourri%20!%20%22%20(RD)%20(g%C3%A2ter%20%C3%A0%20l'exc%C3%A8s).%20>
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Le%20plus%20beau,%20ce%20sont%20les%20soirs%20de%20gaufres.%20Encore%20ce%20w%20francique,%20les%20waufres,%20presque%20effac%C3%A9%20d%C3%A9sormais%20%22%20(AS).%0A%20%20%20%20%20%20>
         a                   ontolex:Form ;
-        ontolex:writtenRep  "\" Ch'est l'eintant dé m' fille, mais il est woté ! Qu'est-ce qué j' dis ! I-est pourri ! \" (RD) (gâter à l'excès). " .
+        ontolex:writtenRep  "\n        \" Le plus beau, ce sont les soirs de gaufres. Encore ce w francique, les waufres, presque effacé désormais \" (AS).\n      " .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20gaufre.%20%22%20Le%20plus%20beau,%20ce%20sont%20les%20soirs%20de%20gaufres.%20Encore%20ce%20w%20francique,%20les%20waufres,%20presque%20effac%C3%A9%20d%C3%A9sormais%20%22%20(AS).%20L'aph%C3%A9r%C3%A8se%20du%20w%20a%20donn%C3%A9%20aufe.%20ANC.%20:%20francique%20wafel,%20qui%20donne,%20au%20XIIe%20:%20walfre%20:%20(Huon%20de%20Bordeaux,%201190),%20le%20mot%20d%C3%A9signant%20(anal.%20de%20structure)%20rayon%20de%20miel%20et%20gaufre.%20(Cf.%20:%20n%C3%A9erl.%20wafel%20;%20all.%20Waffel%20;%20angl.%20waffle%20:%20gaufre).%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        gaufre. \" Le plus beau, ce sont les soirs de gaufres. Encore ce w francique, les waufres, presque effacé désormais \" (AS). L'aphérèse du w a donné aufe. ANC. : francique wafel, qui donne, au XIIe : walfre : (Huon de Bordeaux, 1190), le mot désignant (anal. de structure) rayon de miel et gaufre. (Cf. : néerl. wafel ; all. Waffel ; angl. waffle : gaufre).\n      " .
 
 lexinfo:Adjective  ontolex:writtenRep  "Adjectif"@fra .
 
 restaure:le23PicardVersFrançais_15
-        a                              ontolex:LexicalEntry ;
-        lexinfo:gender                 lexinfo:Masculine ;
-        lexinfo:partOfSpeech           lexinfo:Noun ;
-        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Watiau%20ou%20wateau,%20tout%20le%20monde%20le%20sait,%20est%20la%20traduction%20patoise%20du%20mot%20g%C3%A2teau%20;%20il%20se%20peut%20faire%20que%20quelque%20buveur%20en%20goguette%20ait%20trouv%C3%A9%20ing%C3%A9nieux%20de%20surnommer%20Wateau%20tel%20bourgeois%20qui%20s'appelait%20Blancpain%20du%20nom%20de%20sa%20famille%20%22%20(Wateau%20en%20Angleterre.%20Revue%20de%20la%20Soc.%20d'Agric,%20sc.%20et%20arts%20de%20Val.,%20tome%20XXII).%20(> ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#g%C3%A2teau.%20Vx.%20Patronyme%20sous%20diverses%20graphies%20:%20Watteau,%20Wastiaux,%20Wastel,%20Wattel,%20Wattelet,%20Wattier%20(Dauzat%20leur%20donne%20une%20orig.%20toute%20diff%C3%A9rente%20:%20germ.%20Wad-hari%20(wad%20:%20gage%20;%20hari%20:%20arm%C3%A9e).%20Louis%20Cellier,%20cite%20un%20nom%20trouv%C3%A9%20dans%20les%20archives%20valenciennoises,%20celui%20de%20Watier%20Blancpain,%20dit%20Wateau%20(1522)%20et%20commente%20:%20%22%20Watiau%20ou%20wateau,%20tout%20le%20monde%20le%20sait,%20est%20la%20traduction%20patoise%20du%20mot%20g%C3%A2teau%20;%20il%20se%20peut%20faire%20que%20quelque%20buveur%20en%20goguette%20ait%20trouv%C3%A9%20ing%C3%A9nieux%20de%20surnommer%20Wateau%20tel%20bourgeois%20qui%20s'appelait%20Blancpain%20du%20nom%20de%20sa%20famille%20%22%20(Wateau%20en%20Angleterre.%20Revue%20de%20la%20Soc.%20d'Agric,%20sc.%20et%20arts%20de%20Val.,%20tome%20XXII).%20(A%20noter%20que%20le%20nom%20du%20c%C3%A9l%C3%A8bre%20peintre%20est%20bien%20Wateau%20avec%20un%20seul%20t%20sur%20son%20acte%20de%20naissance).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#A%20noter%20que%20le%20nom%20du%20c%C3%A9l%C3%A8bre%20peintre%20est%20bien%20Wateau%20avec%20un%20seul%20t%20sur%20son%20acte%20de%20naissance).> , <http://restaure.limsi.fr/2017/rdf#g%C3%A2teau.%20Vx.%20Patronyme%20sous%20diverses%20graphies%20:%20Watteau,%20Wastiaux,%20Wastel,%20Wattel,%20Wattelet,%20Wattier%20(Dauzat%20leur%20donne%20une%20orig.%20toute%20diff%C3%A9rente%20:%20germ.%20Wad-hari%20(wad%20:%20gage%20;%20hari%20:%20arm%C3%A9e).%20Louis%20Cellier,%20cite%20un%20nom%20trouv%C3%A9%20dans%20les%20archives%20valenciennoises,%20celui%20de%20Watier%20Blancpain,%20dit%20Wateau%20(1522)%20et%20commente%20:%20> ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_WATIAU%20ou%20WATEAU> .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:gender           lexinfo:Masculine ;
+        lexinfo:partOfSpeech     lexinfo:Noun ;
+        restaure:etymology       restaure: ;
+        restaure:hasExample      <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Watiau%20ou%20wateau,%20tout%20le%20monde%20le%20sait,%20est%20la%20traduction%20patoise%20du%20mot%20g%C3%A2teau%20;%20il%20se%20peut%20faire%20que%20quelque%20buveur%20en%20goguette%20ait%20trouv%C3%A9%20ing%C3%A9nieux%20de%20surnommer%20Wateau%20tel%20bourgeois%20qui%20s'appelait%20Blancpain%20du%20nom%20de%20sa%20famille%20%22%20(Wateau%20en%20Angleterre.%20Revue%20de%20la%20Soc.%20d'Agric,%20sc.%20et%20arts%20de%20Val.,%20tome%20XXII).%20(%0A%20%20%20%20%20%20> ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20g%C3%A2teau.%20Vx.%20Patronyme%20sous%20diverses%20graphies%20:%20Watteau,%20Wastiaux,%20Wastel,%20Wattel,%20Wattelet,%20Wattier%20(Dauzat%20leur%20donne%20une%20orig.%20toute%20diff%C3%A9rente%20:%20germ.%20Wad-hari%20(wad%20:%20gage%20;%20hari%20:%20arm%C3%A9e).%20Louis%20Cellier,%20cite%20un%20nom%20trouv%C3%A9%20dans%20les%20archives%20valenciennoises,%20celui%20de%20Watier%20Blancpain,%20dit%20Wateau%20(1522)%20et%20commente%20:%20%22%20Watiau%20ou%20wateau,%20tout%20le%20monde%20le%20sait,%20est%20la%20traduction%20patoise%20du%20mot%20g%C3%A2teau%20;%20il%20se%20peut%20faire%20que%20quelque%20buveur%20en%20goguette%20ait%20trouv%C3%A9%20ing%C3%A9nieux%20de%20surnommer%20Wateau%20tel%20bourgeois%20qui%20s'appelait%20Blancpain%20du%20nom%20de%20sa%20famille%20%22%20(Wateau%20en%20Angleterre.%20Revue%20de%20la%20Soc.%20d'Agric,%20sc.%20et%20arts%20de%20Val.,%20tome%20XXII).%20(A%20noter%20que%20le%20nom%20du%20c%C3%A9l%C3%A8bre%20peintre%20est%20bien%20Wateau%20avec%20un%20seul%20t%20sur%20son%20acte%20de%20naissance).%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20g%C3%A2teau.%20Vx.%20Patronyme%20sous%20diverses%20graphies%20:%20Watteau,%20Wastiaux,%20Wastel,%20Wattel,%20Wattelet,%20Wattier%20(Dauzat%20leur%20donne%20une%20orig.%20toute%20diff%C3%A9rente%20:%20germ.%20Wad-hari%20(wad%20:%20gage%20;%20hari%20:%20arm%C3%A9e).%20Louis%20Cellier,%20cite%20un%20nom%20trouv%C3%A9%20dans%20les%20archives%20valenciennoises,%20celui%20de%20Watier%20Blancpain,%20dit%20Wateau%20(1522)%20et%20commente%20:%0A%20%20%20%20%20%20> , <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20A%20noter%20que%20le%20nom%20du%20c%C3%A9l%C3%A8bre%20peintre%20est%20bien%20Wateau%20avec%20un%20seul%20t%20sur%20son%20acte%20de%20naissance).%0A%20%20%20%20%20%20> ;
+        ontolex:lexicalForm      <http://restaure.limsi.fr/2017/rdf#lf_WATIAU%20ou%20WATEAU> .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Li%20qui%20tot%20fort%20comme%20Hercule%20/%20Aujourd'hui%20l%C3%A9%20v'l%C3%A0%20wuidi%C3%A9%20%22%20(EM)%20=%20vid%C3%A9,%20%C3%A9puis%C3%A9.%0A%20%20%20%20%20%20>
+        a                   ontolex:Form ;
+        ontolex:writtenRep  "\n        \" Li qui tot fort comme Hercule / Aujourd'hui lé v'là wuidié \" (EM) = vidé, épuisé.\n      " .
 
 restaure:le23PicardVersFrançais_7
-        a                              ontolex:LexicalEntry ;
-        lexinfo:partOfSpeech           lexinfo:Verb ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#agiter%20un%20liquide%20dans%20un%20r%C3%A9cipient.%20(Voir%20:%20arlocher).%20ANC.%20:%20warlocquier%20:%20branler,%20osciller.%20%22%20...je%20veu...%20/%20Foaire%20tenir%20%C3%A0%20clau%20no%20verrou%20qui%20warlocque%20%22%20(Fl,%20H,%201654).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#agiter%20un%20liquide%20dans%20un%20r%C3%A9cipient.%20(Voir%20:%20arlocher).%20> ;
-        restaure:oldInformation        <http://restaure.limsi.fr/2017/rdf#ANC.%20:%20warlocquier%20:%20branler,%20osciller.%20%22%20...je%20veu...%20/%20Foaire%20tenir%20%C3%A0%20clau%20no%20verrou%20qui%20warlocque%20%22%20(Fl,%20H,%201654).> ;
-        ontolex:lexicalForm            restaure:lf_WARLOQUER .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:partOfSpeech     lexinfo:Verb ;
+        restaure:etymology       <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20ANC.%20:%20warlocquier%20:%20branler,%20osciller.%20%22%20...je%20veu...%20/%20Foaire%20tenir%20%C3%A0%20clau%20no%20verrou%20qui%20warlocque%20%22%20(Fl,%20H,%201654).%0A%20%20%20%20%20%20%0A%20%20%20%20> ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20agiter%20un%20liquide%20dans%20un%20r%C3%A9cipient.%20(Voir%20:%20arlocher).%20ANC.%20:%20warlocquier%20:%20branler,%20osciller.%20%22%20...je%20veu...%20/%20Foaire%20tenir%20%C3%A0%20clau%20no%20verrou%20qui%20warlocque%20%22%20(Fl,%20H,%201654).%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#agiter%20un%20liquide%20dans%20un%20r%C3%A9cipient.%20(Voir%20:%20arlocher).%20> ;
+        ontolex:lexicalForm      restaure:lf_WARLOQUER .
 
 restaure:Traductionloup-garou
         a                   ontolex:Form ;
@@ -136,10 +138,6 @@ restaure:Traductioncocu
         a                   ontolex:Form ;
         ontolex:writtenRep  "cocu" .
 
-<http://restaure.limsi.fr/2017/rdf#%22%20Mais,%20si%20al%20%C3%A9tot%20reintr%C3%A9e%20vite,%20al%20d%C3%A9vot%20%C3%AAt'%20pus%20longtemps%20pour%20wuidier%20%22%20(RD).%20>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "\" Mais, si al étot reintrée vite, al dévot êt' pus longtemps pour wuidier \" (RD). " .
-
 restaure:lf_WARLOQUER
         a                   ontolex:Form ;
         ontolex:writtenRep  "warloquer" .
@@ -147,37 +145,39 @@ restaure:lf_WARLOQUER
 <http://restaure.limsi.fr/2017/rdf#g%C3%A2te-champs.%20Patronyme.>
         ontolex:writtenRep  "gâte-champs. Patronyme." .
 
-<http://restaure.limsi.fr/2017/rdf#%22%20Li%20qui%20tot%20fort%20comme%20Hercule%20/%20Aujourd'hui%20l%C3%A9%20v'l%C3%A0%20wuidi%C3%A9%20%22%20(EM)%20=%20vid%C3%A9,%20%C3%A9puis%C3%A9.%20>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "\" Li qui tot fort comme Hercule / Aujourd'hui lé v'là wuidié \" (EM) = vidé, épuisé. " .
-
 <http://restaure.limsi.fr/2017/rdf#%20mettre%20en%20possession.%20(Vx).>
         ontolex:writtenRep  " mettre en possession. (Vx)." .
 
 restaure:le23PicardVersFrançais_23
-        a                              ontolex:LexicalEntry ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20vettier).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20vettier).> ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_WETTIER%20> .
+        a                        ontolex:LexicalEntry ;
+        restaure:etymology       restaure: ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20vettier).> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20vettier).> ;
+        ontolex:lexicalForm      restaure:lf_WETTIER .
 
 <http://restaure.limsi.fr/2017/rdf#4%20-%20arriver,%20d%C3%A9boucher.%20>
         ontolex:writtenRep  "4 - arriver, déboucher. " .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Il%20aprouvot%20(=%20essayait)%20d'%20printe%20el%20caudron%20pou%20d'aller%20l'%20vuidier%20%C3%A0%20l'%20cour%20%22%20(PP).%0A%20%20%20%20%20%20>
+        a                   ontolex:Form ;
+        ontolex:writtenRep  "\n        \" Il aprouvot (= essayait) d' printe el caudron pou d'aller l' vuidier à l' cour \" (PP).\n      " .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20J'aros%20d%C3%BB%20rester%20%C3%A0%20l'%20coyette%20/%20Pr%C3%A8s%20d%C3%A9%20m'%20feu%20in%20wardiant%20m'%20fricot%20%22%20(PM).%0A%20%20%20%20%20%20>
+        a                   ontolex:Form ;
+        ontolex:writtenRep  "\n        \" J'aros dû rester à l' coyette / Près dé m' feu in wardiant m' fricot \" (PM).\n      " .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20ANC.%20:%20francique%20walu%20(b%C3%A2ton).%0A%20%20%20%20>
+        ontolex:writtenRep  "\n      ANC. : francique walu (bâton).\n    " .
 
 restaure:Traductiongazon
         a                   ontolex:Form ;
         ontolex:writtenRep  "gazon" .
 
-<http://restaure.limsi.fr/2017/rdf#%22%20Warde%20chu%20qu'%20t'as,%20t%C3%A9%20n'd'as%20pas%20d'%20trop%20%22%20:%20formules%20pour%20refuser%20une%20offre%20:%20>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "\" Warde chu qu' t'as, té n'd'as pas d' trop \" : formules pour refuser une offre : " .
-
 restaure:lf_WASSINGUE
         a                   ontolex:Form ;
         ontolex:writtenRep  "wassingue" .
-
-<http://restaure.limsi.fr/2017/rdf#agiter%20un%20liquide%20dans%20un%20r%C3%A9cipient.%20(Voir%20:%20arlocher).%20ANC.%20:%20warlocquier%20:%20branler,%20osciller.%20%22%20...je%20veu...%20/%20Foaire%20tenir%20%C3%A0%20clau%20no%20verrou%20qui%20warlocque%20%22%20(Fl,%20H,%201654).>
-        ontolex:writtenRep  "agiter un liquide dans un récipient. (Voir : arlocher). ANC. : warlocquier : branler, osciller. \" ...je veu... / Foaire tenir à clau no verrou qui warlocque \" (Fl, H, 1654)." .
 
 <http://restaure.limsi.fr/2017/rdf#lf_WATIAU%20ou%20WATEAU>
         a                   ontolex:Form ;
@@ -195,39 +195,33 @@ restaure:lf_WARDER  a       ontolex:Form ;
 <http://restaure.limsi.fr/2017/rdf#ou%20>
         ontolex:writtenRep  "ou " .
 
-restaure:le23PicardVersFrançais_10
-        a                              ontolex:LexicalEntry ;
-        lexinfo:gender                 lexinfo:Masculine ;
-        lexinfo:partOfSpeech           lexinfo:Noun ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#loup-garou.%20Patronyme.%20ANC.%20:%20francique%20werwulf%20:%20homme-loup.%20(Cf.%20all.%20Werwolf).%20%22%20...%20%C3%A9rouillant%20m%C3%A9%20zieu%20ensin%20qu'en%20leu-warou%20%22%20(Fl,%20H,%201654).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#loup-garou.%20Patronyme.%20> ;
-        restaure:TranslatableInFrenchOneWord
-                restaure:Traductionloup-garou ;
-        restaure:oldInformation        <http://restaure.limsi.fr/2017/rdf#ANC.%20:%20francique%20werwulf%20:%20homme-loup.%20(Cf.%20all.%20Werwolf).%20%22%20...%20%C3%A9rouillant%20m%C3%A9%20zieu%20ensin%20qu'en%20leu-warou%20%22%20(Fl,%20H,%201654).> ;
-        ontolex:lexicalForm            restaure:lf_WAROU .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20ANC.%20:%20vuidier%20:%20vider,%20%C3%A9vacuer,%20quitter%20(Beno%C3%AEt%20de%20Ste%20Maure,%201160).%20%22%20Mais%20widi%C3%A9s%20me%20tost%20me%20maison%20%22%20(Jean%20Bodel,%201190).%0A%20%20%20%20%20%20%0A%20%20%20%20%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20ANC.%20:%20vuidier%20:%20vider,%20%C3%A9vacuer,%20quitter%20(Beno%C3%AEt%20de%20Ste%20Maure,%201160).%20%22%20Mais%20widi%C3%A9s%20me%20tost%20me%20maison%20%22%20(Jean%20Bodel,%201190).%0A%20%20%20%20%20%20%0A%20%20%20%20%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20ANC.%20:%20vuidier%20:%20vider,%20%C3%A9vacuer,%20quitter%20(Beno%C3%AEt%20de%20Ste%20Maure,%201160).%20%22%20Mais%20widi%C3%A9s%20me%20tost%20me%20maison%20%22%20(Jean%20Bodel,%201190).%0A%20%20%20%20%20%20%0A%20%20%20%20%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20ANC.%20:%20vuidier%20:%20vider,%20%C3%A9vacuer,%20quitter%20(Beno%C3%AEt%20de%20Ste%20Maure,%201160).%20%22%20Mais%20widi%C3%A9s%20me%20tost%20me%20maison%20%22%20(Jean%20Bodel,%201190).%0A%20%20%20%20%20%20%0A%20%20%20%20%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20ANC.%20:%20vuidier%20:%20vider,%20%C3%A9vacuer,%20quitter%20(Beno%C3%AEt%20de%20Ste%20Maure,%201160).%20%22%20Mais%20widi%C3%A9s%20me%20tost%20me%20maison%20%22%20(Jean%20Bodel,%201190).%0A%20%20%20%20%20%20%0A%20%20%20%20>
+        ontolex:writtenRep  "\n      \n        ANC. : vuidier : vider, évacuer, quitter (Benoît de Ste Maure, 1160). \" Mais widiés me tost me maison \" (Jean Bodel, 1190).\n      \n    \n      \n        ANC. : vuidier : vider, évacuer, quitter (Benoît de Ste Maure, 1160). \" Mais widiés me tost me maison \" (Jean Bodel, 1190).\n      \n    \n      \n        ANC. : vuidier : vider, évacuer, quitter (Benoît de Ste Maure, 1160). \" Mais widiés me tost me maison \" (Jean Bodel, 1190).\n      \n    \n      \n        ANC. : vuidier : vider, évacuer, quitter (Benoît de Ste Maure, 1160). \" Mais widiés me tost me maison \" (Jean Bodel, 1190).\n      \n    \n      \n        ANC. : vuidier : vider, évacuer, quitter (Benoît de Ste Maure, 1160). \" Mais widiés me tost me maison \" (Jean Bodel, 1190).\n      \n    " .
 
-<http://restaure.limsi.fr/2017/rdf#serpilli%C3%A8re.%20%22%20(Il)%20le%20tordit%20comme%20une%20servante%20tord%20sa%20wassingue%20%22%20(CD).>
-        ontolex:writtenRep  "serpillière. \" (Il) le tordit comme une servante tord sa wassingue \" (CD)." .
+restaure:le23PicardVersFrançais_10
+        a                        ontolex:LexicalEntry ;
+        lexinfo:gender           lexinfo:Masculine ;
+        lexinfo:partOfSpeech     lexinfo:Noun ;
+        restaure:etymology       <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20ANC.%20:%20francique%20werwulf%20:%20homme-loup.%20(Cf.%20all.%20Werwolf).%20%22%20...%20%C3%A9rouillant%20m%C3%A9%20zieu%20ensin%20qu'en%20leu-warou%20%22%20(Fl,%20H,%201654).%0A%20%20%20%20%20%20%0A%20%20%20%20> ;
+        restaure:translatableAs  restaure:Traduction , restaure:Traductionloup-garou ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20loup-garou.%20Patronyme.%20ANC.%20:%20francique%20werwulf%20:%20homme-loup.%20(Cf.%20all.%20Werwolf).%20%22%20...%20%C3%A9rouillant%20m%C3%A9%20zieu%20ensin%20qu'en%20leu-warou%20%22%20(Fl,%20H,%201654).%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#loup-garou.%20Patronyme.%20> ;
+        ontolex:lexicalForm      restaure:lf_WAROU .
 
 restaure:lf_WAROU  a        ontolex:Form ;
         ontolex:writtenRep  "warou" .
 
-<http://restaure.limsi.fr/2017/rdf#Les%20Wios%20d'%20Tournay%20(GH%20dixit),%20parce%20que%20les%20Tournaisiennes%20sont%20belles,%20donc%20recherch%C3%A9es.%20>
-        ontolex:writtenRep  "Les Wios d' Tournay (GH dixit), parce que les Tournaisiennes sont belles, donc recherchées. " .
-
 restaure:le23PicardVersFrançais_2
-        a                              ontolex:LexicalEntry ;
-        lexinfo:gender                 lexinfo:Masculine ;
-        lexinfo:partOfSpeech           lexinfo:Noun ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#gantier,%20fabricant%20de%20gants.%20Il%20y%20a%20encore,%20%C3%A0%20Valenciennes,%20une%20Place%20des%20Wantiers.%20Elle%20portait%20d%C3%A9j%C3%A0%20ce%20nom%20%C3%A0%20la%20fin%20du%20XIVe%20(A.%20Gauvin).%20ANC.%20:%20du%20francique%20want%20;%20gant.> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#gantier,%20fabricant%20de%20gants.%20Il%20y%20a%20encore,%20%C3%A0%20Valenciennes,%20une%20Place%20des%20Wantiers.%20Elle%20portait%20d%C3%A9j%C3%A0%20ce%20nom%20%C3%A0%20la%20fin%20du%20XIVe%20(A.%20Gauvin).%20> ;
-        restaure:TranslatableInFrenchOneWord
-                restaure:Traductiongantier ;
-        restaure:oldInformation        <http://restaure.limsi.fr/2017/rdf#ANC.%20:%20du%20francique%20want%20;%20gant.> ;
-        ontolex:lexicalForm            restaure:lf_WANTTER .
-
-<http://restaure.limsi.fr/2017/rdf#WUIDIER,%20VUIDIER,%20V.%20:%201%20-%20vider.%20%22%20Il%20aprouvot%20(=%20essayait)%20d'%20printe%20el%20caudron%20pou%20d'aller%20l'%20vuidier%20%C3%A0%20l'%20cour%20%22%20(PP).%20%22%20A%20wuidier%20l'%20bac%20comme%20in%20s'%20d%C3%A9p%C3%AAche%20%22%20(JM).%20%22%20Li%20qui%20tot%20fort%20comme%20Hercule%20/%20Aujourd'hui%20l%C3%A9%20v'l%C3%A0%20wuidi%C3%A9%20%22%20(EM)%20=%20vid%C3%A9,%20%C3%A9puis%C3%A9.%202%20-%20sortir.%20%22%20Mais,%20si%20al%20%C3%A9tot%20reintr%C3%A9e%20vite,%20al%20d%C3%A9vot%20%C3%AAt'%20pus%20longtemps%20pour%20wuidier%20%22%20(RD).%20%22%20In%20n'%20m%C3%A9%20wuidera%20point%20d%C3%A9%20l'%20ti%C3%AAte%20qu'i%20n'y%20a%20qu%C3%A9que%20cose%20qui%20n'%20va%20point%20l%C3%A0%20ein%20haut%20%22%20(RD)%20=%20on%20ne%20m'enl%C3%A8vera%20pas%20de%20la%20t%C3%AAte.%203%20-%20s'en%20sortir.%20%22%20J'%20n'ai%20pus%20foc%20tros%20jours%20pour%20ein%20wuidier%20%22%20(RD).%204%20-%20arriver,%20d%C3%A9boucher.%20%22%20Les%20gamins%20/%20Qui%20wuidiott'nt%20pa%20tous%20les%20qu'mins%20%22%20(JM).%20ANC.%20:%20vuidier%20:%20vider,%20%C3%A9vacuer,%20quitter%20(Beno%C3%AEt%20de%20Ste%20Maure,%201160).%20%22%20Mais%20widi%C3%A9s%20me%20tost%20me%20maison%20%22%20(Jean%20Bodel,%201190).>
-        ontolex:writtenRep  "WUIDIER, VUIDIER, V. : 1 - vider. \" Il aprouvot (= essayait) d' printe el caudron pou d'aller l' vuidier à l' cour \" (PP). \" A wuidier l' bac comme in s' dépêche \" (JM). \" Li qui tot fort comme Hercule / Aujourd'hui lé v'là wuidié \" (EM) = vidé, épuisé. 2 - sortir. \" Mais, si al étot reintrée vite, al dévot êt' pus longtemps pour wuidier \" (RD). \" In n' mé wuidera point dé l' tiête qu'i n'y a quéque cose qui n' va point là ein haut \" (RD) = on ne m'enlèvera pas de la tête. 3 - s'en sortir. \" J' n'ai pus foc tros jours pour ein wuidier \" (RD). 4 - arriver, déboucher. \" Les gamins / Qui wuidiott'nt pa tous les qu'mins \" (JM). ANC. : vuidier : vider, évacuer, quitter (Benoît de Ste Maure, 1160). \" Mais widiés me tost me maison \" (Jean Bodel, 1190)." .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:gender           lexinfo:Masculine ;
+        lexinfo:partOfSpeech     lexinfo:Noun ;
+        restaure:etymology       <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20ANC.%20:%20du%20francique%20want%20;%20gant.%0A%20%20%20%20> ;
+        restaure:translatableAs  restaure:Traduction , restaure:Traductiongantier ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20gantier,%20fabricant%20de%20gants.%20Il%20y%20a%20encore,%20%C3%A0%20Valenciennes,%20une%20Place%20des%20Wantiers.%20Elle%20portait%20d%C3%A9j%C3%A0%20ce%20nom%20%C3%A0%20la%20fin%20du%20XIVe%20(A.%20Gauvin).%20ANC.%20:%20du%20francique%20want%20;%20gant.%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20gantier,%20fabricant%20de%20gants.%20Il%20y%20a%20encore,%20%C3%A0%20Valenciennes,%20une%20Place%20des%20Wantiers.%20Elle%20portait%20d%C3%A9j%C3%A0%20ce%20nom%20%C3%A0%20la%20fin%20du%20XIVe%20(A.%20Gauvin).%0A%20%20%20%20%20%20> ;
+        ontolex:lexicalForm      restaure:lf_WANTTER .
 
 <http://restaure.limsi.fr/2017/rdf#WAUTER,%20v.%20:%20>
         ontolex:writtenRep  "WAUTER, v. : " .
@@ -236,9 +230,9 @@ restaure:Traductiongaule
         a                   ontolex:Form ;
         ontolex:writtenRep  "gaule" .
 
-<http://restaure.limsi.fr/2017/rdf#%22%20Les%20gamins%20/%20Qui%20wuidiott'nt%20pa%20tous%20les%20qu'mins%20%22%20(JM).%20>
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Mais,%20si%20al%20%C3%A9tot%20reintr%C3%A9e%20vite,%20al%20d%C3%A9vot%20%C3%AAt'%20pus%20longtemps%20pour%20wuidier%20%22%20(RD).%0A%20%20%20%20%20%20>
         a                   ontolex:Form ;
-        ontolex:writtenRep  "\" Les gamins / Qui wuidiott'nt pa tous les qu'mins \" (JM). " .
+        ontolex:writtenRep  "\n        \" Mais, si al étot reintrée vite, al dévot êt' pus longtemps pour wuidier \" (RD).\n      " .
 
 <http://restaure.limsi.fr/2017/rdf#agiter%20un%20liquide%20dans%20un%20r%C3%A9cipient.%20(Voir%20:%20arlocher).%20>
         ontolex:writtenRep  "agiter un liquide dans un récipient. (Voir : arlocher). " .
@@ -246,60 +240,70 @@ restaure:Traductiongaule
 <http://restaure.limsi.fr/2017/rdf#L'aph%C3%A9r%C3%A8se%20du%20w%20a%20donn%C3%A9%20aufe.%20>
         ontolex:writtenRep  "L'aphérèse du w a donné aufe. " .
 
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20loup-garou.%20Patronyme.%20ANC.%20:%20francique%20werwulf%20:%20homme-loup.%20(Cf.%20all.%20Werwolf).%20%22%20...%20%C3%A9rouillant%20m%C3%A9%20zieu%20ensin%20qu'en%20leu-warou%20%22%20(Fl,%20H,%201654).%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        loup-garou. Patronyme. ANC. : francique werwulf : homme-loup. (Cf. all. Werwolf). \" ... érouillant mé zieu ensin qu'en leu-warou \" (Fl, H, 1654).\n      " .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20ANC.%20:%20francique%20wafel,%20qui%20donne,%20au%20XIIe%20:%20walfre%20:%20(Huon%20de%20Bordeaux,%201190),%20le%20mot%20d%C3%A9signant%20(anal.%20de%20structure)%20rayon%20de%20miel%20et%20gaufre.%20(Cf.%20:%20n%C3%A9erl.%20wafel%20;%20all.%20Waffel%20;%20angl.%20waffle%20:%20gaufre).%0A%20%20%20%20%20%20%0A%20%20%20%20>
+        ontolex:writtenRep  "\n      \n        ANC. : francique wafel, qui donne, au XIIe : walfre : (Huon de Bordeaux, 1190), le mot désignant (anal. de structure) rayon de miel et gaufre. (Cf. : néerl. wafel ; all. Waffel ; angl. waffle : gaufre).\n      \n    " .
+
 <http://restaure.limsi.fr/2017/rdf#lf_Watelet%20ou%20wastelet>
         a                   ontolex:Form ;
         ontolex:writtenRep  "watelet ou wastelet" .
 
-<http://restaure.limsi.fr/2017/rdf#g%C3%A2teau.%20Vx.%20Patronyme%20sous%20diverses%20graphies%20:%20Watteau,%20Wastiaux,%20Wastel,%20Wattel,%20Wattelet,%20Wattier%20(Dauzat%20leur%20donne%20une%20orig.%20toute%20diff%C3%A9rente%20:%20germ.%20Wad-hari%20(wad%20:%20gage%20;%20hari%20:%20arm%C3%A9e).%20Louis%20Cellier,%20cite%20un%20nom%20trouv%C3%A9%20dans%20les%20archives%20valenciennoises,%20celui%20de%20Watier%20Blancpain,%20dit%20Wateau%20(1522)%20et%20commente%20:%20>
-        ontolex:writtenRep  "gâteau. Vx. Patronyme sous diverses graphies : Watteau, Wastiaux, Wastel, Wattel, Wattelet, Wattier (Dauzat leur donne une orig. toute différente : germ. Wad-hari (wad : gage ; hari : armée). Louis Cellier, cite un nom trouvé dans les archives valenciennoises, celui de Watier Blancpain, dit Wateau (1522) et commente : " .
-
 restaure:le23PicardVersFrançais_18
-        a                              ontolex:LexicalEntry ;
-        lexinfo:gender                 lexinfo:Female ;
-        lexinfo:partOfSpeech           lexinfo:Noun ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#gaule.%20(Vx).%20ANC.%20:%20francique%20walu%20(b%C3%A2ton).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#gaule.%20(Vx).%20> ;
-        restaure:TranslatableInFrenchOneWord
-                restaure:Traductiongaule ;
-        restaure:oldInformation        <http://restaure.limsi.fr/2017/rdf#ANC.%20:%20francique%20walu%20(b%C3%A2ton).> ;
-        ontolex:lexicalForm            restaure:lf_WAULE .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:gender           lexinfo:Female ;
+        lexinfo:partOfSpeech     lexinfo:Noun ;
+        restaure:etymology       <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20ANC.%20:%20francique%20walu%20(b%C3%A2ton).%0A%20%20%20%20> ;
+        restaure:translatableAs  restaure:Traduction , restaure:Traductiongaule ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#gaule.%20(Vx).%20ANC.%20:%20francique%20walu%20(b%C3%A2ton).> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#gaule.%20(Vx).%20> ;
+        ontolex:lexicalForm      restaure:lf_WAULE .
 
 restaure:Traductiongarder
         a                   ontolex:Form ;
         ontolex:writtenRep  "garder" .
 
-<http://restaure.limsi.fr/2017/rdf#%22%20In%20n'%20m%C3%A9%20wuidera%20point%20d%C3%A9%20l'%20ti%C3%AAte%20qu'i%20n'y%20a%20qu%C3%A9que%20cose%20qui%20n'%20va%20point%20l%C3%A0%20ein%20haut%20%22%20(RD)%20=%20on%20ne%20m'enl%C3%A8vera%20pas%20de%20la%20t%C3%AAte.%20>
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20In%20n'%20m%C3%A9%20wuidera%20point%20d%C3%A9%20l'%20ti%C3%AAte%20qu'i%20n'y%20a%20qu%C3%A9que%20cose%20qui%20n'%20va%20point%20l%C3%A0%20ein%20haut%20%22%20(RD)%20=%20on%20ne%20m'enl%C3%A8vera%20pas%20de%20la%20t%C3%AAte.%0A%20%20%20%20%20%20>
         a                   ontolex:Form ;
-        ontolex:writtenRep  "\" In n' mé wuidera point dé l' tiête qu'i n'y a quéque cose qui n' va point là ein haut \" (RD) = on ne m'enlèvera pas de la tête. " .
+        ontolex:writtenRep  "\n        \" In n' mé wuidera point dé l' tiête qu'i n'y a quéque cose qui n' va point là ein haut \" (RD) = on ne m'enlèvera pas de la tête.\n      " .
 
 <http://restaure.limsi.fr/2017/rdf#gaufre.%20>
         ontolex:writtenRep  "gaufre. " .
 
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20ANC.%20:%20wihot,%20m.%20sens%20(d%C3%A9b.%20XIIe).%20%22%20Ki%20ont%20fais%20wihos%20lor%20maris%20%22%20(Renart%20le%20Nouvel,%201288).%20Du%20francique%20widuhoppa%20:%20huppe%20(oiseau).%20(Cf.%20all.%20Wiedehopf).%0A%20%20%20%20%20%20%0A%20%20%20%20>
+        ontolex:writtenRep  "\n      \n        ANC. : wihot, m. sens (déb. XIIe). \" Ki ont fais wihos lor maris \" (Renart le Nouvel, 1288). Du francique widuhoppa : huppe (oiseau). (Cf. all. Wiedehopf).\n      \n    " .
+
 <http://restaure.limsi.fr/2017/rdf#2%20-%20g%C3%A2cher.%20>
         ontolex:writtenRep  "2 - gâcher. " .
-
-<http://restaure.limsi.fr/2017/rdf#ANC.%20:%20on%20trouve,%20en%201564,%20une%20forme%20uuarlope.%20Du%20n%C3%A9erl.%20voorloper,%20riflard%20de%20charpentier.>
-        ontolex:writtenRep  "ANC. : on trouve, en 1564, une forme uuarlope. Du néerl. voorloper, riflard de charpentier." .
-
-restaure:coordinate  restaure:xAmiens  "49.895"^^<http://www.w3.org/2001/XMLSchema#double> ;
-        restaure:yAmiens  "2.3022"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 <http://restaure.limsi.fr/2017/rdf#ouat%C3%A9s%20du%20p%C3%A8re>
         ontolex:writtenRep  "ouatés du père" .
 
-<http://restaure.limsi.fr/2017/rdf#WAUTER,%20v.%20:%201%20-%20g%C3%A2ter%20(sens%20;%20faire%20des%20g%C3%A2teries,%20combler%20d'affection,%20d'attentions).%20%22%20M%C3%A9m%C3%A8r'%20La%C3%AFte,%20quand%20j'%C3%A9tos%20jonne,%20/%20M'a%20w%C3%A2t%C3%A9%20d'%20ses%20vieux%20r'frains%20bercheurs%20%22%20(JM).%20%22%20Ch'est%20l'eintant%20d%C3%A9%20m'%20fille,%20mais%20il%20est%20wot%C3%A9%20!%20Qu'est-ce%20qu%C3%A9%20j'%20dis%20!%20I-est%20pourri%20!%20%22%20(RD)%20(g%C3%A2ter%20%C3%A0%20l'exc%C3%A8s).%20La%20premi%C3%A8re%20partie%20du%20r%C3%A9cent%20roman%20d'Andr%C3%A9%20Stil,%20%22%20Dieu%20est%20un%20enfant%20%22%20s'appelle%20%22%20L'enfant%20ouat%C3%A9%20%22%20:%20%22%20Selon%20les%20familles,%20il%20y%20a%20les%20%22ouat%C3%A9s%20du%20p%C3%A8re%22%20et%20les%20%22ouat%C3%A9s%20de%20la%20m%C3%A8re%22.%20Lui%20l'est%20des%20deux.%20%22%202%20-%20g%C3%A2cher.%20%22%20N'%20viens%20pas%20chi%20wauter%20m'%20fi%C3%AAte%20%22%20(RD).%20ANC.%20:%20l'initiale%20du%20lat.%20vastare%20(ravager,%20saccager)%20s'est%20modifi%C3%A9e%20en%20w%20sous%20l'influence%20du%20radical%20germ.%20wost%20(cf.%20verw%C3%BCsten%20:%20ravager,%20saccager).>
-        ontolex:writtenRep  "WAUTER, v. : 1 - gâter (sens ; faire des gâteries, combler d'affection, d'attentions). \" Mémèr' Laïte, quand j'étos jonne, / M'a wâté d' ses vieux r'frains bercheurs \" (JM). \" Ch'est l'eintant dé m' fille, mais il est woté ! Qu'est-ce qué j' dis ! I-est pourri ! \" (RD) (gâter à l'excès). La première partie du récent roman d'André Stil, \" Dieu est un enfant \" s'appelle \" L'enfant ouaté \" : \" Selon les familles, il y a les \"ouatés du père\" et les \"ouatés de la mère\". Lui l'est des deux. \" 2 - gâcher. \" N' viens pas chi wauter m' fiête \" (RD). ANC. : l'initiale du lat. vastare (ravager, saccager) s'est modifiée en w sous l'influence du radical germ. wost (cf. verwüsten : ravager, saccager)." .
+restaure:coordinate  restaure:xValenciennes
+                "50.35"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        restaure:yValenciennes  "3.53333"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20vanner.%20(Cf.%20n%C3%A9erl.%20:%20wan%20:%20van,%20vanneuse%20;%20wannen%20:%20vanner,%20etc.).%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        vanner. (Cf. néerl. : wan : van, vanneuse ; wannen : vanner, etc.).\n      " .
 
 restaure:le23PicardVersFrançais_26
-        a                              ontolex:LexicalEntry ;
-        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Y%20n'y%20a%20mie%20d'%20bon%20sins%20d'%C3%AAt'%20aussi%20wiseux%20qu'%20cha%20%22%20(JQ).%20> , <http://restaure.limsi.fr/2017/rdf#%22%20Les%20wiseux,%20autrement%20dit%20les%20oiseux%20du%20carrefour%20de%20la%20Capelette,%20%C3%A9taient%20regard%C3%A9s%20comme%20les%20plus%20grands%20farceurs%20de%20Cond%C3%A9%20%22%20(CD).%20> ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#VISEUX,%20s.%20m.%20et%20adj.%20:%20paresseux.%20%22%20Les%20wiseux,%20autrement%20dit%20les%20oiseux%20du%20carrefour%20de%20la%20Capelette,%20%C3%A9taient%20regard%C3%A9s%20comme%20les%20plus%20grands%20farceurs%20de%20Cond%C3%A9%20%22%20(CD).%20%22%20Y%20n'y%20a%20mie%20d'%20bon%20sins%20d'%C3%AAt'%20aussi%20wiseux%20qu'%20cha%20%22%20(JQ).%20ANC.%20:%20oisos,%20uiseus,%20adj.%20paresseux,%20qui%20reste%20%C3%A0%20ne%20rien%20faire%20(Chr%C3%A9tien%20de%20Troyes,%201175),%20du%20lat.%20otiosus%20:%20oisif,%20d%C3%A9soeuvr%C3%A9.%20%22%20N'ierent%20huiseuses%20mes%20tenailles%20%22%20(Jean%20Bodel,%201190).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#VISEUX,%20s.%20m.%20et%20adj.%20:%20paresseux.%20> ;
-        restaure:oldInformation        <http://restaure.limsi.fr/2017/rdf#ANC.%20:%20oisos,%20uiseus,%20adj.%20paresseux,%20qui%20reste%20%C3%A0%20ne%20rien%20faire%20(Chr%C3%A9tien%20de%20Troyes,%201175),%20du%20lat.%20otiosus%20:%20oisif,%20d%C3%A9soeuvr%C3%A9.%20%22%20N'ierent%20huiseuses%20mes%20tenailles%20%22%20(Jean%20Bodel,%201190).> ;
-        ontolex:lexicalForm            restaure:lf_WISEUX .
+        a                        ontolex:LexicalEntry ;
+        restaure:etymology       <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20ANC.%20:%20oisos,%20uiseus,%20adj.%20paresseux,%20qui%20reste%20%C3%A0%20ne%20rien%20faire%20(Chr%C3%A9tien%20de%20Troyes,%201175),%20du%20lat.%20otiosus%20:%20oisif,%20d%C3%A9soeuvr%C3%A9.%20%22%20N'ierent%20huiseuses%20mes%20tenailles%20%22%20(Jean%20Bodel,%201190).%0A%20%20%20%20%20%20%0A%20%20%20%20> ;
+        restaure:hasExample      <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Y%20n'y%20a%20mie%20d'%20bon%20sins%20d'%C3%AAt'%20aussi%20wiseux%20qu'%20cha%20%22%20(JQ).%0A%20%20%20%20%20%20> , <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Les%20wiseux,%20autrement%20dit%20les%20oiseux%20du%20carrefour%20de%20la%20Capelette,%20%C3%A9taient%20regard%C3%A9s%20comme%20les%20plus%20grands%20farceurs%20de%20Cond%C3%A9%20%22%20(CD).%0A%20%20%20%20%20%20> ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20VISEUX,%20s.%20m.%20et%20adj.%20:%20paresseux.%20%22%20Les%20wiseux,%20autrement%20dit%20les%20oiseux%20du%20carrefour%20de%20la%20Capelette,%20%C3%A9taient%20regard%C3%A9s%20comme%20les%20plus%20grands%20farceurs%20de%20Cond%C3%A9%20%22%20(CD).%20%22%20Y%20n'y%20a%20mie%20d'%20bon%20sins%20d'%C3%AAt'%20aussi%20wiseux%20qu'%20cha%20%22%20(JQ).%20ANC.%20:%20oisos,%20uiseus,%20adj.%20paresseux,%20qui%20reste%20%C3%A0%20ne%20rien%20faire%20(Chr%C3%A9tien%20de%20Troyes,%201175),%20du%20lat.%20otiosus%20:%20oisif,%20d%C3%A9soeuvr%C3%A9.%20%22%20N'ierent%20huiseuses%20mes%20tenailles%20%22%20(Jean%20Bodel,%201190).%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#VISEUX,%20s.%20m.%20et%20adj.%20:%20paresseux.%20> ;
+        ontolex:lexicalForm      restaure:lf_WISEUX .
 
 restaure:lf_WIHOT  a        ontolex:Form ;
         ontolex:writtenRep  "wihot" .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Warde%20chu%20qu'%20t'as,%20t%C3%A9%20n'd'as%20pas%20d'%20trop%20%22%20:%20formules%20pour%20refuser%20une%20offre%20:%0A%20%20%20%20%20%20>
+        a                   ontolex:Form ;
+        ontolex:writtenRep  "\n        \" Warde chu qu' t'as, té n'd'as pas d' trop \" : formules pour refuser une offre :\n      " .
 
 <http://restaure.limsi.fr/2017/rdf#3%20-%20s'en%20sortir.%20>
         ontolex:writtenRep  "3 - s'en sortir. " .
@@ -314,80 +318,71 @@ restaure:lf_WIHOT  a        ontolex:Form ;
 <http://restaure.limsi.fr/2017/rdf#s'appelle%20>
         ontolex:writtenRep  "s'appelle " .
 
-<http://restaure.limsi.fr/2017/rdf#%22%20M%C3%A9m%C3%A8r'%20La%C3%AFte,%20quand%20j'%C3%A9tos%20jonne,%20/%20M'a%20w%C3%A2t%C3%A9%20d'%20ses%20vieux%20r'frains%20bercheurs%20%22%20(JM).%20>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "\" Mémèr' Laïte, quand j'étos jonne, / M'a wâté d' ses vieux r'frains bercheurs \" (JM). " .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20varlope.%20ANC.%20:%20on%20trouve,%20en%201564,%20une%20forme%20uuarlope.%20Du%20n%C3%A9erl.%20voorloper,%20riflard%20de%20charpentier.%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        varlope. ANC. : on trouve, en 1564, une forme uuarlope. Du néerl. voorloper, riflard de charpentier.\n      " .
 
 lexinfo:Masculine  ontolex:writtenRep  "Masculin"@fra .
-
-<http://restaure.limsi.fr/2017/rdf#lf_WETTIER%20>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "wettier " .
 
 <http://restaure.limsi.fr/2017/rdf#Traductiond%C3%A9boucher>
         a                   ontolex:Form ;
         ontolex:writtenRep  "déboucher" .
 
 restaure:le23PicardVersFrançais_13
-        a                              ontolex:LexicalEntry ;
-        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Selon%20les%20familles,%20il%20y%20a%20les%20%22> , <http://restaure.limsi.fr/2017/rdf#%22%20et%20les%20%22> , <http://restaure.limsi.fr/2017/rdf#%22%20L'enfant%20ouat%C3%A9%20%22%20:%20> , <http://restaure.limsi.fr/2017/rdf#%22%20N'%20viens%20pas%20chi%20wauter%20m'%20fi%C3%AAte%20%22%20(RD).%20> , <http://restaure.limsi.fr/2017/rdf#%22%20Ch'est%20l'eintant%20d%C3%A9%20m'%20fille,%20mais%20il%20est%20wot%C3%A9%20!%20Qu'est-ce%20qu%C3%A9%20j'%20dis%20!%20I-est%20pourri%20!%20%22%20(RD)%20(g%C3%A2ter%20%C3%A0%20l'exc%C3%A8s).%20> , <http://restaure.limsi.fr/2017/rdf#%22%20M%C3%A9m%C3%A8r'%20La%C3%AFte,%20quand%20j'%C3%A9tos%20jonne,%20/%20M'a%20w%C3%A2t%C3%A9%20d'%20ses%20vieux%20r'frains%20bercheurs%20%22%20(JM).%20> , <http://restaure.limsi.fr/2017/rdf#%22%20Dieu%20est%20un%20enfant%20%22%20> ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#WAUTER,%20v.%20:%201%20-%20g%C3%A2ter%20(sens%20;%20faire%20des%20g%C3%A2teries,%20combler%20d'affection,%20d'attentions).%20%22%20M%C3%A9m%C3%A8r'%20La%C3%AFte,%20quand%20j'%C3%A9tos%20jonne,%20/%20M'a%20w%C3%A2t%C3%A9%20d'%20ses%20vieux%20r'frains%20bercheurs%20%22%20(JM).%20%22%20Ch'est%20l'eintant%20d%C3%A9%20m'%20fille,%20mais%20il%20est%20wot%C3%A9%20!%20Qu'est-ce%20qu%C3%A9%20j'%20dis%20!%20I-est%20pourri%20!%20%22%20(RD)%20(g%C3%A2ter%20%C3%A0%20l'exc%C3%A8s).%20La%20premi%C3%A8re%20partie%20du%20r%C3%A9cent%20roman%20d'Andr%C3%A9%20Stil,%20%22%20Dieu%20est%20un%20enfant%20%22%20s'appelle%20%22%20L'enfant%20ouat%C3%A9%20%22%20:%20%22%20Selon%20les%20familles,%20il%20y%20a%20les%20%22ouat%C3%A9s%20du%20p%C3%A8re%22%20et%20les%20%22ouat%C3%A9s%20de%20la%20m%C3%A8re%22.%20Lui%20l'est%20des%20deux.%20%22%202%20-%20g%C3%A2cher.%20%22%20N'%20viens%20pas%20chi%20wauter%20m'%20fi%C3%AAte%20%22%20(RD).%20ANC.%20:%20l'initiale%20du%20lat.%20vastare%20(ravager,%20saccager)%20s'est%20modifi%C3%A9e%20en%20w%20sous%20l'influence%20du%20radical%20germ.%20wost%20(cf.%20verw%C3%BCsten%20:%20ravager,%20saccager).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#s'appelle%20> , <http://restaure.limsi.fr/2017/rdf#La%20premi%C3%A8re%20partie%20du%20r%C3%A9cent%20roman%20d'Andr%C3%A9%20Stil,%20> , <http://restaure.limsi.fr/2017/rdf#WAUTER,%20v.%20:%20> , <http://restaure.limsi.fr/2017/rdf#2%20-%20g%C3%A2cher.%20> , <http://restaure.limsi.fr/2017/rdf#ouat%C3%A9s%20du%20p%C3%A8re> , <http://restaure.limsi.fr/2017/rdf#ouat%C3%A9s%20de%20la%20m%C3%A8re> , <http://restaure.limsi.fr/2017/rdf#1%20-%20g%C3%A2ter%20(sens%20;%20faire%20des%20g%C3%A2teries,%20combler%20d'affection,%20d'attentions).%20> ;
-        restaure:oldInformation        <http://restaure.limsi.fr/2017/rdf#ANC.%20:%20l'initiale%20du%20lat.%20vastare%20(ravager,%20saccager)%20s'est%20modifi%C3%A9e%20en%20w%20sous%20l'influence%20du%20radical%20germ.%20wost%20(cf.%20verw%C3%BCsten%20:%20ravager,%20saccager).ANC.%20:%20l'initiale%20du%20lat.%20vastare%20(ravager,%20saccager)%20s'est%20modifi%C3%A9e%20en%20w%20sous%20l'influence%20du%20radical%20germ.%20wost%20(cf.%20verw%C3%BCsten%20:%20ravager,%20saccager).ANC.%20:%20l'initiale%20du%20lat.%20vastare%20(ravager,%20saccager)%20s'est%20modifi%C3%A9e%20en%20w%20sous%20l'influence%20du%20radical%20germ.%20wost%20(cf.%20verw%C3%BCsten%20:%20ravager,%20saccager).> ;
-        ontolex:lexicalForm            restaure:lf_WATER .
-
-<http://restaure.limsi.fr/2017/rdf#%22%20Les%20wiseux,%20autrement%20dit%20les%20oiseux%20du%20carrefour%20de%20la%20Capelette,%20%C3%A9taient%20regard%C3%A9s%20comme%20les%20plus%20grands%20farceurs%20de%20Cond%C3%A9%20%22%20(CD).%20>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "\" Les wiseux, autrement dit les oiseux du carrefour de la Capelette, étaient regardés comme les plus grands farceurs de Condé \" (CD). " .
+        a                        ontolex:LexicalEntry ;
+        restaure:etymology       <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20ANC.%20:%20l'initiale%20du%20lat.%20vastare%20(ravager,%20saccager)%20s'est%20modifi%C3%A9e%20en%20w%20sous%20l'influence%20du%20radical%20germ.%20wost%20(cf.%20verw%C3%BCsten%20:%20ravager,%20saccager).%0A%20%20%20%20%20%20%0A%20%20%20%20%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20ANC.%20:%20l'initiale%20du%20lat.%20vastare%20(ravager,%20saccager)%20s'est%20modifi%C3%A9e%20en%20w%20sous%20l'influence%20du%20radical%20germ.%20wost%20(cf.%20verw%C3%BCsten%20:%20ravager,%20saccager).%0A%20%20%20%20%20%20%0A%20%20%20%20%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20ANC.%20:%20l'initiale%20du%20lat.%20vastare%20(ravager,%20saccager)%20s'est%20modifi%C3%A9e%20en%20w%20sous%20l'influence%20du%20radical%20germ.%20wost%20(cf.%20verw%C3%BCsten%20:%20ravager,%20saccager).%0A%20%20%20%20%20%20%0A%20%20%20%20> ;
+        restaure:hasExample      <http://restaure.limsi.fr/2017/rdf#%22%20N'%20viens%20pas%20chi%20wauter%20m'%20fi%C3%AAte%20%22%20(RD).%20> , <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Ch'est%20l'eintant%20d%C3%A9%20m'%20fille,%20mais%20il%20est%20wot%C3%A9%20!%20Qu'est-ce%20qu%C3%A9%20j'%20dis%20!%20I-est%20pourri%20!%20%22%20(RD)%20(g%C3%A2ter%20%C3%A0%20l'exc%C3%A8s).%0A%20%20%20%20%20%20> , <http://restaure.limsi.fr/2017/rdf#%22%20Selon%20les%20familles,%20il%20y%20a%20les%20%22> , <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20M%C3%A9m%C3%A8r'%20La%C3%AFte,%20quand%20j'%C3%A9tos%20jonne,%20/%20M'a%20w%C3%A2t%C3%A9%20d'%20ses%20vieux%20r'frains%20bercheurs%20%22%20(JM).%0A%20%20%20%20%20%20> , <http://restaure.limsi.fr/2017/rdf#%22%20et%20les%20%22> , <http://restaure.limsi.fr/2017/rdf#%22%20Dieu%20est%20un%20enfant%20%22%20> , <http://restaure.limsi.fr/2017/rdf#%22%20L'enfant%20ouat%C3%A9%20%22%20:%20> ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#WAUTER,%20v.%20:%20%0A%20%20%20%20%20%20%20%201%20-%20g%C3%A2ter%20(sens%20;%20faire%20des%20g%C3%A2teries,%20combler%20d'affection,%20d'attentions).%20%22%20M%C3%A9m%C3%A8r'%20La%C3%AFte,%20quand%20j'%C3%A9tos%20jonne,%20/%20M'a%20w%C3%A2t%C3%A9%20d'%20ses%20vieux%20r'frains%20bercheurs%20%22%20(JM).%20%22%20Ch'est%20l'eintant%20d%C3%A9%20m'%20fille,%20mais%20il%20est%20wot%C3%A9%20!%20Qu'est-ce%20qu%C3%A9%20j'%20dis%20!%20I-est%20pourri%20!%20%22%20(RD)%20(g%C3%A2ter%20%C3%A0%20l'exc%C3%A8s).%20La%20premi%C3%A8re%20partie%20du%20r%C3%A9cent%20roman%20d'Andr%C3%A9%20Stil,%20%22%20Dieu%20est%20un%20enfant%20%22%20s'appelle%20%22%20L'enfant%20ouat%C3%A9%20%22%20:%20%22%20Selon%20les%20familles,%20il%20y%20a%20les%20%22ouat%C3%A9s%20du%20p%C3%A8re%22%20et%20les%20%22ouat%C3%A9s%20de%20la%20m%C3%A8re%22.%20Lui%20l'est%20des%20deux.%20%22%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%202%20-%20g%C3%A2cher.%20%22%20N'%20viens%20pas%20chi%20wauter%20m'%20fi%C3%AAte%20%22%20(RD).%20ANC.%20:%20l'initiale%20du%20lat.%20vastare%20(ravager,%20saccager)%20s'est%20modifi%C3%A9e%20en%20w%20sous%20l'influence%20du%20radical%20germ.%20wost%20(cf.%20verw%C3%BCsten%20:%20ravager,%20saccager).%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#ouat%C3%A9s%20du%20p%C3%A8re> , <http://restaure.limsi.fr/2017/rdf#2%20-%20g%C3%A2cher.%20> , <http://restaure.limsi.fr/2017/rdf#ouat%C3%A9s%20de%20la%20m%C3%A8re> , <http://restaure.limsi.fr/2017/rdf#WAUTER,%20v.%20:%20> , <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%201%20-%20g%C3%A2ter%20(sens%20;%20faire%20des%20g%C3%A2teries,%20combler%20d'affection,%20d'attentions).%0A%20%20%20%20%20%20> , <http://restaure.limsi.fr/2017/rdf#La%20premi%C3%A8re%20partie%20du%20r%C3%A9cent%20roman%20d'Andr%C3%A9%20Stil,%20> , <http://restaure.limsi.fr/2017/rdf#s'appelle%20> ;
+        ontolex:lexicalForm      restaure:lf_WATER .
 
 <http://restaure.limsi.fr/2017/rdf#lf_WAR%C3%89CHAIX>
         a                   ontolex:Form ;
         ontolex:writtenRep  "waréchaix" .
 
 restaure:le23PicardVersFrançais_5
-        a                              ontolex:LexicalEntry ;
-        lexinfo:gender                 lexinfo:Masculine ;
-        lexinfo:partOfSpeech           lexinfo:Noun ;
-        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Le%20bosquet%20formait%20une%20sorte%20de%20triangle%20entour%C3%A9%20de%20war%C3%A9chaix%20ou%20terrains%20vagues%20%22%20(CD).%20> ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#terrains%20vagues%20o%C3%B9%20le%20petit%20b%C3%A9tail%20peut%20pa%C3%AEtre.%20%22%20Le%20bosquet%20formait%20une%20sorte%20de%20triangle%20entour%C3%A9%20de%20war%C3%A9chaix%20ou%20terrains%20vagues%20%22%20(CD).%20ANC.%20:%20warescais,%20wareschel,%20m.%20sens%20(XIIIe).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#terrains%20vagues%20o%C3%B9%20le%20petit%20b%C3%A9tail%20peut%20pa%C3%AEtre.%20> ;
-        restaure:oldInformation        <http://restaure.limsi.fr/2017/rdf#ANC.%20:%20warescais,%20wareschel,%20m.%20sens%20(XIIIe).> ;
-        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_WAR%C3%89CHAIX> .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:gender           lexinfo:Masculine ;
+        lexinfo:partOfSpeech     lexinfo:Noun ;
+        restaure:etymology       <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20ANC.%20:%20warescais,%20wareschel,%20m.%20sens%20(XIIIe).%0A%20%20%20%20> ;
+        restaure:hasExample      <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Le%20bosquet%20formait%20une%20sorte%20de%20triangle%20entour%C3%A9%20de%20war%C3%A9chaix%20ou%20terrains%20vagues%20%22%20(CD).%0A%20%20%20%20%20%20> ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20terrains%20vagues%20o%C3%B9%20le%20petit%20b%C3%A9tail%20peut%20pa%C3%AEtre.%20%22%20Le%20bosquet%20formait%20une%20sorte%20de%20triangle%20entour%C3%A9%20de%20war%C3%A9chaix%20ou%20terrains%20vagues%20%22%20(CD).%20ANC.%20:%20warescais,%20wareschel,%20m.%20sens%20(XIIIe).%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#terrains%20vagues%20o%C3%B9%20le%20petit%20b%C3%A9tail%20peut%20pa%C3%AEtre.%20> ;
+        ontolex:lexicalForm      <http://restaure.limsi.fr/2017/rdf#lf_WAR%C3%89CHAIX> .
 
-<http://restaure.limsi.fr/2017/rdf#%22%20Le%20bosquet%20formait%20une%20sorte%20de%20triangle%20entour%C3%A9%20de%20war%C3%A9chaix%20ou%20terrains%20vagues%20%22%20(CD).%20>
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Le%20bosquet%20formait%20une%20sorte%20de%20triangle%20entour%C3%A9%20de%20war%C3%A9chaix%20ou%20terrains%20vagues%20%22%20(CD).%0A%20%20%20%20%20%20>
         a                   ontolex:Form ;
-        ontolex:writtenRep  "\" Le bosquet formait une sorte de triangle entouré de waréchaix ou terrains vagues \" (CD). " .
+        ontolex:writtenRep  "\n        \" Le bosquet formait une sorte de triangle entouré de waréchaix ou terrains vagues \" (CD).\n      " .
 
 <http://restaure.limsi.fr/2017/rdf#%22%20Vatteau%20%22%20>
         a                   ontolex:Form ;
         ontolex:writtenRep  "\" Vatteau \" " .
 
 restaure:le23PicardVersFrançais_21
-        a                              ontolex:LexicalEntry ;
-        lexinfo:partOfSpeech           lexinfo:Verb ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#%20mettre%20en%20possession.%20(Vx).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#%20mettre%20en%20possession.%20(Vx).> ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            restaure:lf_Werpir .
-
-<http://restaure.limsi.fr/2017/rdf#pour%20Wa%C3%AEteau%20et%20Wallon%20(Ouato,%20Oualon),%20alors%20qu'ils%20prononcent%20correctement%20Wallonie%20et%20l'adj.%20wallon.>
-        ontolex:writtenRep  "pour Waîteau et Wallon (Ouato, Oualon), alors qu'ils prononcent correctement Wallonie et l'adj. wallon." .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:partOfSpeech     lexinfo:Verb ;
+        restaure:etymology       restaure: ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%20mettre%20en%20possession.%20(Vx).> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#%20mettre%20en%20possession.%20(Vx).> ;
+        ontolex:lexicalForm      restaure:lf_Werpir .
 
 restaure:lf_WERP  a         ontolex:Form ;
         ontolex:writtenRep  "werp" .
 
-<http://restaure.limsi.fr/2017/rdf#%22%20I%20vaut%20mieux%20%C3%AAte%20wio%20qu'aveule,%20on%20vot%20ses%20confr%C3%A8res%20%22%20(GH).%20>
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Watiau%20ou%20wateau,%20tout%20le%20monde%20le%20sait,%20est%20la%20traduction%20patoise%20du%20mot%20g%C3%A2teau%20;%20il%20se%20peut%20faire%20que%20quelque%20buveur%20en%20goguette%20ait%20trouv%C3%A9%20ing%C3%A9nieux%20de%20surnommer%20Wateau%20tel%20bourgeois%20qui%20s'appelait%20Blancpain%20du%20nom%20de%20sa%20famille%20%22%20(Wateau%20en%20Angleterre.%20Revue%20de%20la%20Soc.%20d'Agric,%20sc.%20et%20arts%20de%20Val.,%20tome%20XXII).%20(%0A%20%20%20%20%20%20>
         a                   ontolex:Form ;
-        ontolex:writtenRep  "\" I vaut mieux ête wio qu'aveule, on vot ses confrères \" (GH). " .
+        ontolex:writtenRep  "\n        \" Watiau ou wateau, tout le monde le sait, est la traduction patoise du mot gâteau ; il se peut faire que quelque buveur en goguette ait trouvé ingénieux de surnommer Wateau tel bourgeois qui s'appelait Blancpain du nom de sa famille \" (Wateau en Angleterre. Revue de la Soc. d'Agric, sc. et arts de Val., tome XXII). (\n      " .
 
-<http://restaure.limsi.fr/2017/rdf#garder.%20%22%20Warde%20chu%20qu'%20t'as,%20j'%20warderai%20chu%20qu'%20j'ai%20!%20%22%20(GH)%20ou%20%22%20Warde%20chu%20qu'%20t'as,%20t%C3%A9%20n'd'as%20pas%20d'%20trop%20%22%20:%20formules%20pour%20refuser%20une%20offre%20:%20%22%20J%C3%A9%20l'%20warderai%20jusqu'%C3%A0%20l'ann%C3%A9e%20qui%20vient%20pou%20faire%20des%20%C3%A9trennes%20au%20diale%20%22%20(GH),%20dit-on%20d'un%20pr%C3%A9sent%20dont%20on%20fait%20peu%20de%20cas.%20%22%20L'%20coeur%20du%20pauvr',%20pou%20l'amour,%20dot%20warder%20l'%20meilleu%20coin%20%22%20(JM).%20%22%20Un%20cur%C3%A9%20dot%20tout%20warder%20pour%20li%20et%20n'%20rin%20dire%20%C3%A0%20personne%20%22%20(PP)%20(vertu%20de%20discr%C3%A9tion).%20%22%20J'aros%20d%C3%BB%20rester%20%C3%A0%20l'%20coyette%20/%20Pr%C3%A8s%20d%C3%A9%20m'%20feu%20in%20wardiant%20m'%20fricot%20%22%20(PM).>
-        ontolex:writtenRep  "garder. \" Warde chu qu' t'as, j' warderai chu qu' j'ai ! \" (GH) ou \" Warde chu qu' t'as, té n'd'as pas d' trop \" : formules pour refuser une offre : \" Jé l' warderai jusqu'à l'année qui vient pou faire des étrennes au diale \" (GH), dit-on d'un présent dont on fait peu de cas. \" L' coeur du pauvr', pou l'amour, dot warder l' meilleu coin \" (JM). \" Un curé dot tout warder pour li et n' rin dire à personne \" (PP) (vertu de discrétion). \" J'aros dû rester à l' coyette / Près dé m' feu in wardiant m' fricot \" (PM)." .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20gantier,%20fabricant%20de%20gants.%20Il%20y%20a%20encore,%20%C3%A0%20Valenciennes,%20une%20Place%20des%20Wantiers.%20Elle%20portait%20d%C3%A9j%C3%A0%20ce%20nom%20%C3%A0%20la%20fin%20du%20XIVe%20(A.%20Gauvin).%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        gantier, fabricant de gants. Il y a encore, à Valenciennes, une Place des Wantiers. Elle portait déjà ce nom à la fin du XIVe (A. Gauvin).\n      " .
 
 <http://restaure.limsi.fr/2017/rdf#herbe,%20gazon.%20(Vx).%20>
         ontolex:writtenRep  "herbe, gazon. (Vx). " .
-
-<http://restaure.limsi.fr/2017/rdf#cocu.%20%22%20I%20vaut%20mieux%20%C3%AAte%20wio%20qu'aveule,%20on%20vot%20ses%20confr%C3%A8res%20%22%20(GH).%20Les%20Wios%20d'%20Tournay%20(GH%20dixit),%20parce%20que%20les%20Tournaisiennes%20sont%20belles,%20donc%20recherch%C3%A9es.%20ANC.%20:%20wihot,%20m.%20sens%20(d%C3%A9b.%20XIIe).%20%22%20Ki%20ont%20fais%20wihos%20lor%20maris%20%22%20(Renart%20le%20Nouvel,%201288).%20Du%20francique%20widuhoppa%20:%20huppe%20(oiseau).%20(Cf.%20all.%20Wiedehopf).>
-        ontolex:writtenRep  "cocu. \" I vaut mieux ête wio qu'aveule, on vot ses confrères \" (GH). Les Wios d' Tournay (GH dixit), parce que les Tournaisiennes sont belles, donc recherchées. ANC. : wihot, m. sens (déb. XIIe). \" Ki ont fais wihos lor maris \" (Renart le Nouvel, 1288). Du francique widuhoppa : huppe (oiseau). (Cf. all. Wiedehopf)." .
 
 <http://restaure.limsi.fr/2017/rdf#lf_WAROQUE%20;%20WARUQUE%20(GD)>
         a                   ontolex:Form ;
@@ -403,32 +398,38 @@ restaure:Traductionou
 <http://restaure.limsi.fr/2017/rdf#%20et%20f.%20:%20bigle,%20personne%20qui%20louche.%20Vx.%20(Voir%20:%20arlouquer).%20>
         ontolex:writtenRep  " et f. : bigle, personne qui louche. Vx. (Voir : arlouquer). " .
 
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20ANC.%20:%20oisos,%20uiseus,%20adj.%20paresseux,%20qui%20reste%20%C3%A0%20ne%20rien%20faire%20(Chr%C3%A9tien%20de%20Troyes,%201175),%20du%20lat.%20otiosus%20:%20oisif,%20d%C3%A9soeuvr%C3%A9.%20%22%20N'ierent%20huiseuses%20mes%20tenailles%20%22%20(Jean%20Bodel,%201190).%0A%20%20%20%20%20%20%0A%20%20%20%20>
+        ontolex:writtenRep  "\n      \n        ANC. : oisos, uiseus, adj. paresseux, qui reste à ne rien faire (Chrétien de Troyes, 1175), du lat. otiosus : oisif, désoeuvré. \" N'ierent huiseuses mes tenailles \" (Jean Bodel, 1190).\n      \n    " .
+
 <http://restaure.limsi.fr/2017/rdf#et%20>
         ontolex:writtenRep  "et " .
 
-<http://restaure.limsi.fr/2017/rdf#%20et%20f.%20:%20bigle,%20personne%20qui%20louche.%20Vx.%20(Voir%20:%20arlouquer).%20ANC.%20:%20warlousketer%20:%20loucher,%20regarder%20de%20c%C3%B4t%C3%A9%20(Renart%20le%20Novel,%201288).>
-        ontolex:writtenRep  " et f. : bigle, personne qui louche. Vx. (Voir : arlouquer). ANC. : warlousketer : loucher, regarder de côté (Renart le Novel, 1288)." .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20:%20cette%20lettre,%20improprement%20appel%C3%A9e%20double%20v,%20alors%20qu'elle%20est%20une%20semi-voyelle,%20doit%20se%20prononcer%20comme%20en%20angl.%20et%20non%20comme%20en%20all.%20A%20rappeler,%20car%20les%20%22%20Parisiens%20%22%20disent%20toujours%20%22%20Vatteau%20%22%20et%20%22%20Vallon%20%22%20pour%20Wa%C3%AEteau%20et%20Wallon%20(Ouato,%20Oualon),%20alors%20qu'ils%20prononcent%20correctement%20Wallonie%20et%20l'adj.%20wallon.%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        : cette lettre, improprement appelée double v, alors qu'elle est une semi-voyelle, doit se prononcer comme en angl. et non comme en all. A rappeler, car les \" Parisiens \" disent toujours \" Vatteau \" et \" Vallon \" pour Waîteau et Wallon (Ouato, Oualon), alors qu'ils prononcent correctement Wallonie et l'adj. wallon.\n      " .
 
-<http://restaure.limsi.fr/2017/rdf#ANC.%20:%20wihot,%20m.%20sens%20(d%C3%A9b.%20XIIe).%20%22%20Ki%20ont%20fais%20wihos%20lor%20maris%20%22%20(Renart%20le%20Nouvel,%201288).%20Du%20francique%20widuhoppa%20:%20huppe%20(oiseau).%20(Cf.%20all.%20Wiedehopf).>
-        ontolex:writtenRep  "ANC. : wihot, m. sens (déb. XIIe). \" Ki ont fais wihos lor maris \" (Renart le Nouvel, 1288). Du francique widuhoppa : huppe (oiseau). (Cf. all. Wiedehopf)." .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Ch'est%20l'eintant%20d%C3%A9%20m'%20fille,%20mais%20il%20est%20wot%C3%A9%20!%20Qu'est-ce%20qu%C3%A9%20j'%20dis%20!%20I-est%20pourri%20!%20%22%20(RD)%20(g%C3%A2ter%20%C3%A0%20l'exc%C3%A8s).%0A%20%20%20%20%20%20>
+        a                   ontolex:Form ;
+        ontolex:writtenRep  "\n        \" Ch'est l'eintant dé m' fille, mais il est woté ! Qu'est-ce qué j' dis ! I-est pourri ! \" (RD) (gâter à l'excès).\n      " .
 
 <http://restaure.limsi.fr/2017/rdf#%22%20L'enfant%20ouat%C3%A9%20%22%20:%20>
         a                   ontolex:Form ;
         ontolex:writtenRep  "\" L'enfant ouaté \" : " .
 
 restaure:le23PicardVersFrançais_0
-        a                              ontolex:LexicalEntry ;
-        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Vatteau%20%22%20> , <http://restaure.limsi.fr/2017/rdf#%22%20Parisiens%20%22%20> , <http://restaure.limsi.fr/2017/rdf#%22%20Vallon%20%22%20> ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#:%20cette%20lettre,%20improprement%20appel%C3%A9e%20double%20v,%20alors%20qu'elle%20est%20une%20semi-voyelle,%20doit%20se%20prononcer%20comme%20en%20angl.%20et%20non%20comme%20en%20all.%20A%20rappeler,%20car%20les%20%22%20Parisiens%20%22%20disent%20toujours%20%22%20Vatteau%20%22%20et%20%22%20Vallon%20%22%20pour%20Wa%C3%AEteau%20et%20Wallon%20(Ouato,%20Oualon),%20alors%20qu'ils%20prononcent%20correctement%20Wallonie%20et%20l'adj.%20wallon.> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#:%20cette%20lettre,%20improprement%20appel%C3%A9e%20double%20v,%20alors%20qu'elle%20est%20une%20semi-voyelle,%20doit%20se%20prononcer%20comme%20en%20angl.%20et%20non%20comme%20en%20all.%20A%20rappeler,%20car%20les%20> , <http://restaure.limsi.fr/2017/rdf#disent%20toujours%20> , <http://restaure.limsi.fr/2017/rdf#et%20> , <http://restaure.limsi.fr/2017/rdf#pour%20Wa%C3%AEteau%20et%20Wallon%20(Ouato,%20Oualon),%20alors%20qu'ils%20prononcent%20correctement%20Wallonie%20et%20l'adj.%20wallon.> ;
-        restaure:TranslatableInFrenchOneWord
-                restaure:Traductionet , restaure:Traductionwallon ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_W%20> .
+        a                        ontolex:LexicalEntry ;
+        restaure:etymology       restaure: ;
+        restaure:hasExample      <http://restaure.limsi.fr/2017/rdf#%22%20Vallon%20%22%20> , <http://restaure.limsi.fr/2017/rdf#%22%20Parisiens%20%22%20> , <http://restaure.limsi.fr/2017/rdf#%22%20Vatteau%20%22%20> ;
+        restaure:translatableAs  restaure:Traductionwallon , restaure:Traduction , restaure:Traductionet ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20:%20cette%20lettre,%20improprement%20appel%C3%A9e%20double%20v,%20alors%20qu'elle%20est%20une%20semi-voyelle,%20doit%20se%20prononcer%20comme%20en%20angl.%20et%20non%20comme%20en%20all.%20A%20rappeler,%20car%20les%20%22%20Parisiens%20%22%20disent%20toujours%20%22%20Vatteau%20%22%20et%20%22%20Vallon%20%22%20pour%20Wa%C3%AEteau%20et%20Wallon%20(Ouato,%20Oualon),%20alors%20qu'ils%20prononcent%20correctement%20Wallonie%20et%20l'adj.%20wallon.%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20pour%20Wa%C3%AEteau%20et%20Wallon%20(Ouato,%20Oualon),%20alors%20qu'ils%20prononcent%20correctement%20Wallonie%20et%20l'adj.%20wallon.%0A%20%20%20%20%20%20> , <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20:%20cette%20lettre,%20improprement%20appel%C3%A9e%20double%20v,%20alors%20qu'elle%20est%20une%20semi-voyelle,%20doit%20se%20prononcer%20comme%20en%20angl.%20et%20non%20comme%20en%20all.%20A%20rappeler,%20car%20les%0A%20%20%20%20%20%20> , <http://restaure.limsi.fr/2017/rdf#disent%20toujours%20> , <http://restaure.limsi.fr/2017/rdf#et%20> ;
+        ontolex:lexicalForm      restaure:lf_W .
 
-<http://restaure.limsi.fr/2017/rdf#%22%20Belz%C3%A9buth%20campa%20une%20cholette%20sur%20une%20waroque,%20ou%20motte%20gel%C3%A9e%20%22%20(CD).%20(>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "\" Belzébuth campa une cholette sur une waroque, ou motte gelée \" (CD). (" .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20ANC.%20:%20warescais,%20wareschel,%20m.%20sens%20(XIIIe).%0A%20%20%20%20>
+        ontolex:writtenRep  "\n      ANC. : warescais, wareschel, m. sens (XIIIe).\n    " .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20ANC.%20:%20warlousketer%20:%20loucher,%20regarder%20de%20c%C3%B4t%C3%A9%20(Renart%20le%20Novel,%201288).%0A%20%20%20%20%20%20%0A%20%20%20%20>
+        ontolex:writtenRep  "\n      \n        ANC. : warlousketer : loucher, regarder de côté (Renart le Novel, 1288).\n      \n    " .
 
 <http://restaure.limsi.fr/2017/rdf#VISEUX,%20s.%20m.%20et%20adj.%20:%20paresseux.%20>
         ontolex:writtenRep  "VISEUX, s. m. et adj. : paresseux. " .
@@ -440,67 +441,88 @@ restaure:Traductionvanner
         a                   ontolex:Form ;
         ontolex:writtenRep  "vanner" .
 
+<http://restaure.limsi.fr/2017/rdf#WUIDIER,%20VUIDIER,%20V.%20:%20%0A%20%20%20%20%20%20%20%201%20-%20vider.%20%22%20Il%20aprouvot%20(=%20essayait)%20d'%20printe%20el%20caudron%20pou%20d'aller%20l'%20vuidier%20%C3%A0%20l'%20cour%20%22%20(PP).%20%22%20A%20wuidier%20l'%20bac%20comme%20in%20s'%20d%C3%A9p%C3%AAche%20%22%20(JM).%20%22%20Li%20qui%20tot%20fort%20comme%20Hercule%20/%20Aujourd'hui%20l%C3%A9%20v'l%C3%A0%20wuidi%C3%A9%20%22%20(EM)%20=%20vid%C3%A9,%20%C3%A9puis%C3%A9.%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%202%20-%20sortir.%20%22%20Mais,%20si%20al%20%C3%A9tot%20reintr%C3%A9e%20vite,%20al%20d%C3%A9vot%20%C3%AAt'%20pus%20longtemps%20pour%20wuidier%20%22%20(RD).%20%22%20In%20n'%20m%C3%A9%20wuidera%20point%20d%C3%A9%20l'%20ti%C3%AAte%20qu'i%20n'y%20a%20qu%C3%A9que%20cose%20qui%20n'%20va%20point%20l%C3%A0%20ein%20haut%20%22%20(RD)%20=%20on%20ne%20m'enl%C3%A8vera%20pas%20de%20la%20t%C3%AAte.%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%203%20-%20s'en%20sortir.%20%22%20J'%20n'ai%20pus%20foc%20tros%20jours%20pour%20ein%20wuidier%20%22%20(RD).%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%204%20-%20arriver,%20d%C3%A9boucher.%20%22%20Les%20gamins%20/%20Qui%20wuidiott'nt%20pa%20tous%20les%20qu'mins%20%22%20(JM).%20ANC.%20:%20vuidier%20:%20vider,%20%C3%A9vacuer,%20quitter%20(Beno%C3%AEt%20de%20Ste%20Maure,%201160).%20%22%20Mais%20widi%C3%A9s%20me%20tost%20me%20maison%20%22%20(Jean%20Bodel,%201190).%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "WUIDIER, VUIDIER, V. : \n        1 - vider. \" Il aprouvot (= essayait) d' printe el caudron pou d'aller l' vuidier à l' cour \" (PP). \" A wuidier l' bac comme in s' dépêche \" (JM). \" Li qui tot fort comme Hercule / Aujourd'hui lé v'là wuidié \" (EM) = vidé, épuisé.\n      \n        2 - sortir. \" Mais, si al étot reintrée vite, al dévot êt' pus longtemps pour wuidier \" (RD). \" In n' mé wuidera point dé l' tiête qu'i n'y a quéque cose qui n' va point là ein haut \" (RD) = on ne m'enlèvera pas de la tête.\n      \n        3 - s'en sortir. \" J' n'ai pus foc tros jours pour ein wuidier \" (RD).\n      \n        4 - arriver, déboucher. \" Les gamins / Qui wuidiott'nt pa tous les qu'mins \" (JM). ANC. : vuidier : vider, évacuer, quitter (Benoît de Ste Maure, 1160). \" Mais widiés me tost me maison \" (Jean Bodel, 1190).\n      " .
+
 restaure:le23PicardVersFrançais_16
-        a                              ontolex:LexicalEntry ;
-        lexinfo:gender                 lexinfo:Masculine ;
-        lexinfo:partOfSpeech           lexinfo:Noun ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#petit%20g%C3%A2teau%20appel%C3%A9%20plus%20tard%20mastelle%20(Vx).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#petit%20g%C3%A2teau%20appel%C3%A9%20plus%20tard%20mastelle%20(Vx).> ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_Watelet%20ou%20wastelet> .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:gender           lexinfo:Masculine ;
+        lexinfo:partOfSpeech     lexinfo:Noun ;
+        restaure:etymology       restaure: ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#petit%20g%C3%A2teau%20appel%C3%A9%20plus%20tard%20mastelle%20(Vx).> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#petit%20g%C3%A2teau%20appel%C3%A9%20plus%20tard%20mastelle%20(Vx).> ;
+        ontolex:lexicalForm      <http://restaure.limsi.fr/2017/rdf#lf_Watelet%20ou%20wastelet> .
 
 <http://restaure.limsi.fr/2017/rdf#Voir%20:%20%C3%A9pautrer%20;%20maroque).>
         ontolex:writtenRep  "Voir : épautrer ; maroque)." .
 
-<http://restaure.limsi.fr/2017/rdf#ANC.%20:%20francique%20wafel,%20qui%20donne,%20au%20XIIe%20:%20walfre%20:%20(Huon%20de%20Bordeaux,%201190),%20le%20mot%20d%C3%A9signant%20(anal.%20de%20structure)%20rayon%20de%20miel%20et%20gaufre.%20(Cf.%20:%20n%C3%A9erl.%20wafel%20;%20all.%20Waffel%20;%20angl.%20waffle%20:%20gaufre).>
-        ontolex:writtenRep  "ANC. : francique wafel, qui donne, au XIIe : walfre : (Huon de Bordeaux, 1190), le mot désignant (anal. de structure) rayon de miel et gaufre. (Cf. : néerl. wafel ; all. Waffel ; angl. waffle : gaufre)." .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20ANC.%20:%20du%20francique%20want%20;%20gant.%0A%20%20%20%20>
+        ontolex:writtenRep  "\n      ANC. : du francique want ; gant.\n    " .
 
-<http://restaure.limsi.fr/2017/rdf#%22%20Un%20cur%C3%A9%20dot%20tout%20warder%20pour%20li%20et%20n'%20rin%20dire%20%C3%A0%20personne%20%22%20(PP)%20(vertu%20de%20discr%C3%A9tion).%20>
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20L'%20coeur%20du%20pauvr',%20pou%20l'amour,%20dot%20warder%20l'%20meilleu%20coin%20%22%20(JM).%0A%20%20%20%20%20%20>
         a                   ontolex:Form ;
-        ontolex:writtenRep  "\" Un curé dot tout warder pour li et n' rin dire à personne \" (PP) (vertu de discrétion). " .
+        ontolex:writtenRep  "\n        \" L' coeur du pauvr', pou l'amour, dot warder l' meilleu coin \" (JM).\n      " .
 
-<http://restaure.limsi.fr/2017/rdf#%22%20Il%20aprouvot%20(=%20essayait)%20d'%20printe%20el%20caudron%20pou%20d'aller%20l'%20vuidier%20%C3%A0%20l'%20cour%20%22%20(PP).%20>
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20M%C3%A9m%C3%A8r'%20La%C3%AFte,%20quand%20j'%C3%A9tos%20jonne,%20/%20M'a%20w%C3%A2t%C3%A9%20d'%20ses%20vieux%20r'frains%20bercheurs%20%22%20(JM).%0A%20%20%20%20%20%20>
         a                   ontolex:Form ;
-        ontolex:writtenRep  "\" Il aprouvot (= essayait) d' printe el caudron pou d'aller l' vuidier à l' cour \" (PP). " .
+        ontolex:writtenRep  "\n        \" Mémèr' Laïte, quand j'étos jonne, / M'a wâté d' ses vieux r'frains bercheurs \" (JM).\n      " .
 
 restaure:le23PicardVersFrançais_8
-        a                              ontolex:LexicalEntry ;
-        lexinfo:gender                 lexinfo:Masculine ;
-        lexinfo:partOfSpeech           lexinfo:Noun ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#%20et%20f.%20:%20bigle,%20personne%20qui%20louche.%20Vx.%20(Voir%20:%20arlouquer).%20ANC.%20:%20warlousketer%20:%20loucher,%20regarder%20de%20c%C3%B4t%C3%A9%20(Renart%20le%20Novel,%201288).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#%20et%20f.%20:%20bigle,%20personne%20qui%20louche.%20Vx.%20(Voir%20:%20arlouquer).%20> ;
-        restaure:oldInformation        <http://restaure.limsi.fr/2017/rdf#ANC.%20:%20warlousketer%20:%20loucher,%20regarder%20de%20c%C3%B4t%C3%A9%20(Renart%20le%20Novel,%201288).> ;
-        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_WARLOUQUE%20(GH)> .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:gender           lexinfo:Masculine ;
+        lexinfo:partOfSpeech     lexinfo:Noun ;
+        restaure:etymology       <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20ANC.%20:%20warlousketer%20:%20loucher,%20regarder%20de%20c%C3%B4t%C3%A9%20(Renart%20le%20Novel,%201288).%0A%20%20%20%20%20%20%0A%20%20%20%20> ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20et%20f.%20:%20bigle,%20personne%20qui%20louche.%20Vx.%20(Voir%20:%20arlouquer).%20ANC.%20:%20warlousketer%20:%20loucher,%20regarder%20de%20c%C3%B4t%C3%A9%20(Renart%20le%20Novel,%201288).%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#%20et%20f.%20:%20bigle,%20personne%20qui%20louche.%20Vx.%20(Voir%20:%20arlouquer).%20> ;
+        ontolex:lexicalForm      <http://restaure.limsi.fr/2017/rdf#lf_WARLOUQUE%20(GH)> .
 
 <http://restaure.limsi.fr/2017/rdf#%22%20Dieu%20est%20un%20enfant%20%22%20>
         a                   ontolex:Form ;
         ontolex:writtenRep  "\" Dieu est un enfant \" " .
 
-<http://restaure.limsi.fr/2017/rdf#gaufre.%20%22%20Le%20plus%20beau,%20ce%20sont%20les%20soirs%20de%20gaufres.%20Encore%20ce%20w%20francique,%20les%20waufres,%20presque%20effac%C3%A9%20d%C3%A9sormais%20%22%20(AS).%20L'aph%C3%A9r%C3%A8se%20du%20w%20a%20donn%C3%A9%20aufe.%20ANC.%20:%20francique%20wafel,%20qui%20donne,%20au%20XIIe%20:%20walfre%20:%20(Huon%20de%20Bordeaux,%201190),%20le%20mot%20d%C3%A9signant%20(anal.%20de%20structure)%20rayon%20de%20miel%20et%20gaufre.%20(Cf.%20:%20n%C3%A9erl.%20wafel%20;%20all.%20Waffel%20;%20angl.%20waffle%20:%20gaufre).>
-        ontolex:writtenRep  "gaufre. \" Le plus beau, ce sont les soirs de gaufres. Encore ce w francique, les waufres, presque effacé désormais \" (AS). L'aphérèse du w a donné aufe. ANC. : francique wafel, qui donne, au XIIe : walfre : (Huon de Bordeaux, 1190), le mot désignant (anal. de structure) rayon de miel et gaufre. (Cf. : néerl. wafel ; all. Waffel ; angl. waffle : gaufre)." .
+restaure:lf_WETTIER  a      ontolex:Form ;
+        ontolex:writtenRep  "wettier" .
 
 restaure:le23PicardVersFrançais_24
-        a                              ontolex:LexicalEntry ;
-        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Il%20aprouvot%20(=%20essayait)%20d'%20printe%20el%20caudron%20pou%20d'aller%20l'%20vuidier%20%C3%A0%20l'%20cour%20%22%20(PP).%20> , <http://restaure.limsi.fr/2017/rdf#%22%20In%20n'%20m%C3%A9%20wuidera%20point%20d%C3%A9%20l'%20ti%C3%AAte%20qu'i%20n'y%20a%20qu%C3%A9que%20cose%20qui%20n'%20va%20point%20l%C3%A0%20ein%20haut%20%22%20(RD)%20=%20on%20ne%20m'enl%C3%A8vera%20pas%20de%20la%20t%C3%AAte.%20> , <http://restaure.limsi.fr/2017/rdf#%22%20Li%20qui%20tot%20fort%20comme%20Hercule%20/%20Aujourd'hui%20l%C3%A9%20v'l%C3%A0%20wuidi%C3%A9%20%22%20(EM)%20=%20vid%C3%A9,%20%C3%A9puis%C3%A9.%20> , <http://restaure.limsi.fr/2017/rdf#%22%20Les%20gamins%20/%20Qui%20wuidiott'nt%20pa%20tous%20les%20qu'mins%20%22%20(JM).%20> , <http://restaure.limsi.fr/2017/rdf#%22%20Mais,%20si%20al%20%C3%A9tot%20reintr%C3%A9e%20vite,%20al%20d%C3%A9vot%20%C3%AAt'%20pus%20longtemps%20pour%20wuidier%20%22%20(RD).%20> , <http://restaure.limsi.fr/2017/rdf#%22%20A%20wuidier%20l'%20bac%20comme%20in%20s'%20d%C3%A9p%C3%AAche%20%22%20(JM).%20> , <http://restaure.limsi.fr/2017/rdf#%22%20J'%20n'ai%20pus%20foc%20tros%20jours%20pour%20ein%20wuidier%20%22%20(RD).%20> ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#WUIDIER,%20VUIDIER,%20V.%20:%201%20-%20vider.%20%22%20Il%20aprouvot%20(=%20essayait)%20d'%20printe%20el%20caudron%20pou%20d'aller%20l'%20vuidier%20%C3%A0%20l'%20cour%20%22%20(PP).%20%22%20A%20wuidier%20l'%20bac%20comme%20in%20s'%20d%C3%A9p%C3%AAche%20%22%20(JM).%20%22%20Li%20qui%20tot%20fort%20comme%20Hercule%20/%20Aujourd'hui%20l%C3%A9%20v'l%C3%A0%20wuidi%C3%A9%20%22%20(EM)%20=%20vid%C3%A9,%20%C3%A9puis%C3%A9.%202%20-%20sortir.%20%22%20Mais,%20si%20al%20%C3%A9tot%20reintr%C3%A9e%20vite,%20al%20d%C3%A9vot%20%C3%AAt'%20pus%20longtemps%20pour%20wuidier%20%22%20(RD).%20%22%20In%20n'%20m%C3%A9%20wuidera%20point%20d%C3%A9%20l'%20ti%C3%AAte%20qu'i%20n'y%20a%20qu%C3%A9que%20cose%20qui%20n'%20va%20point%20l%C3%A0%20ein%20haut%20%22%20(RD)%20=%20on%20ne%20m'enl%C3%A8vera%20pas%20de%20la%20t%C3%AAte.%203%20-%20s'en%20sortir.%20%22%20J'%20n'ai%20pus%20foc%20tros%20jours%20pour%20ein%20wuidier%20%22%20(RD).%204%20-%20arriver,%20d%C3%A9boucher.%20%22%20Les%20gamins%20/%20Qui%20wuidiott'nt%20pa%20tous%20les%20qu'mins%20%22%20(JM).%20ANC.%20:%20vuidier%20:%20vider,%20%C3%A9vacuer,%20quitter%20(Beno%C3%AEt%20de%20Ste%20Maure,%201160).%20%22%20Mais%20widi%C3%A9s%20me%20tost%20me%20maison%20%22%20(Jean%20Bodel,%201190).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#WUIDIER,%20VUIDIER,%20V.%20:%20> , <http://restaure.limsi.fr/2017/rdf#2%20-%20sortir.%20> , <http://restaure.limsi.fr/2017/rdf#3%20-%20s'en%20sortir.%20> , <http://restaure.limsi.fr/2017/rdf#1%20-%20vider.%20> , <http://restaure.limsi.fr/2017/rdf#4%20-%20arriver,%20d%C3%A9boucher.%20> ;
-        restaure:TranslatableInFrenchOneWord
-                <http://restaure.limsi.fr/2017/rdf#Traductiond%C3%A9boucher> ;
-        restaure:oldInformation        <http://restaure.limsi.fr/2017/rdf#ANC.%20:%20vuidier%20:%20vider,%20%C3%A9vacuer,%20quitter%20(Beno%C3%AEt%20de%20Ste%20Maure,%201160).%20%22%20Mais%20widi%C3%A9s%20me%20tost%20me%20maison%20%22%20(Jean%20Bodel,%201190).ANC.%20:%20vuidier%20:%20vider,%20%C3%A9vacuer,%20quitter%20(Beno%C3%AEt%20de%20Ste%20Maure,%201160).%20%22%20Mais%20widi%C3%A9s%20me%20tost%20me%20maison%20%22%20(Jean%20Bodel,%201190).ANC.%20:%20vuidier%20:%20vider,%20%C3%A9vacuer,%20quitter%20(Beno%C3%AEt%20de%20Ste%20Maure,%201160).%20%22%20Mais%20widi%C3%A9s%20me%20tost%20me%20maison%20%22%20(Jean%20Bodel,%201190).ANC.%20:%20vuidier%20:%20vider,%20%C3%A9vacuer,%20quitter%20(Beno%C3%AEt%20de%20Ste%20Maure,%201160).%20%22%20Mais%20widi%C3%A9s%20me%20tost%20me%20maison%20%22%20(Jean%20Bodel,%201190).ANC.%20:%20vuidier%20:%20vider,%20%C3%A9vacuer,%20quitter%20(Beno%C3%AEt%20de%20Ste%20Maure,%201160).%20%22%20Mais%20widi%C3%A9s%20me%20tost%20me%20maison%20%22%20(Jean%20Bodel,%201190).> ;
-        ontolex:lexicalForm            restaure:lf_WIDIER .
+        a                        ontolex:LexicalEntry ;
+        restaure:etymology       <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20ANC.%20:%20vuidier%20:%20vider,%20%C3%A9vacuer,%20quitter%20(Beno%C3%AEt%20de%20Ste%20Maure,%201160).%20%22%20Mais%20widi%C3%A9s%20me%20tost%20me%20maison%20%22%20(Jean%20Bodel,%201190).%0A%20%20%20%20%20%20%0A%20%20%20%20%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20ANC.%20:%20vuidier%20:%20vider,%20%C3%A9vacuer,%20quitter%20(Beno%C3%AEt%20de%20Ste%20Maure,%201160).%20%22%20Mais%20widi%C3%A9s%20me%20tost%20me%20maison%20%22%20(Jean%20Bodel,%201190).%0A%20%20%20%20%20%20%0A%20%20%20%20%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20ANC.%20:%20vuidier%20:%20vider,%20%C3%A9vacuer,%20quitter%20(Beno%C3%AEt%20de%20Ste%20Maure,%201160).%20%22%20Mais%20widi%C3%A9s%20me%20tost%20me%20maison%20%22%20(Jean%20Bodel,%201190).%0A%20%20%20%20%20%20%0A%20%20%20%20%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20ANC.%20:%20vuidier%20:%20vider,%20%C3%A9vacuer,%20quitter%20(Beno%C3%AEt%20de%20Ste%20Maure,%201160).%20%22%20Mais%20widi%C3%A9s%20me%20tost%20me%20maison%20%22%20(Jean%20Bodel,%201190).%0A%20%20%20%20%20%20%0A%20%20%20%20%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20ANC.%20:%20vuidier%20:%20vider,%20%C3%A9vacuer,%20quitter%20(Beno%C3%AEt%20de%20Ste%20Maure,%201160).%20%22%20Mais%20widi%C3%A9s%20me%20tost%20me%20maison%20%22%20(Jean%20Bodel,%201190).%0A%20%20%20%20%20%20%0A%20%20%20%20> ;
+        restaure:hasExample      <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20In%20n'%20m%C3%A9%20wuidera%20point%20d%C3%A9%20l'%20ti%C3%AAte%20qu'i%20n'y%20a%20qu%C3%A9que%20cose%20qui%20n'%20va%20point%20l%C3%A0%20ein%20haut%20%22%20(RD)%20=%20on%20ne%20m'enl%C3%A8vera%20pas%20de%20la%20t%C3%AAte.%0A%20%20%20%20%20%20> , <http://restaure.limsi.fr/2017/rdf#%22%20A%20wuidier%20l'%20bac%20comme%20in%20s'%20d%C3%A9p%C3%AAche%20%22%20(JM).%20> , <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Les%20gamins%20/%20Qui%20wuidiott'nt%20pa%20tous%20les%20qu'mins%20%22%20(JM).%0A%20%20%20%20%20%20> , <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Il%20aprouvot%20(=%20essayait)%20d'%20printe%20el%20caudron%20pou%20d'aller%20l'%20vuidier%20%C3%A0%20l'%20cour%20%22%20(PP).%0A%20%20%20%20%20%20> , <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Mais,%20si%20al%20%C3%A9tot%20reintr%C3%A9e%20vite,%20al%20d%C3%A9vot%20%C3%AAt'%20pus%20longtemps%20pour%20wuidier%20%22%20(RD).%0A%20%20%20%20%20%20> , <http://restaure.limsi.fr/2017/rdf#%22%20J'%20n'ai%20pus%20foc%20tros%20jours%20pour%20ein%20wuidier%20%22%20(RD).%20> , <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Li%20qui%20tot%20fort%20comme%20Hercule%20/%20Aujourd'hui%20l%C3%A9%20v'l%C3%A0%20wuidi%C3%A9%20%22%20(EM)%20=%20vid%C3%A9,%20%C3%A9puis%C3%A9.%0A%20%20%20%20%20%20> ;
+        restaure:translatableAs  <http://restaure.limsi.fr/2017/rdf#Traductiond%C3%A9boucher> , restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#WUIDIER,%20VUIDIER,%20V.%20:%20%0A%20%20%20%20%20%20%20%201%20-%20vider.%20%22%20Il%20aprouvot%20(=%20essayait)%20d'%20printe%20el%20caudron%20pou%20d'aller%20l'%20vuidier%20%C3%A0%20l'%20cour%20%22%20(PP).%20%22%20A%20wuidier%20l'%20bac%20comme%20in%20s'%20d%C3%A9p%C3%AAche%20%22%20(JM).%20%22%20Li%20qui%20tot%20fort%20comme%20Hercule%20/%20Aujourd'hui%20l%C3%A9%20v'l%C3%A0%20wuidi%C3%A9%20%22%20(EM)%20=%20vid%C3%A9,%20%C3%A9puis%C3%A9.%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%202%20-%20sortir.%20%22%20Mais,%20si%20al%20%C3%A9tot%20reintr%C3%A9e%20vite,%20al%20d%C3%A9vot%20%C3%AAt'%20pus%20longtemps%20pour%20wuidier%20%22%20(RD).%20%22%20In%20n'%20m%C3%A9%20wuidera%20point%20d%C3%A9%20l'%20ti%C3%AAte%20qu'i%20n'y%20a%20qu%C3%A9que%20cose%20qui%20n'%20va%20point%20l%C3%A0%20ein%20haut%20%22%20(RD)%20=%20on%20ne%20m'enl%C3%A8vera%20pas%20de%20la%20t%C3%AAte.%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%203%20-%20s'en%20sortir.%20%22%20J'%20n'ai%20pus%20foc%20tros%20jours%20pour%20ein%20wuidier%20%22%20(RD).%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%204%20-%20arriver,%20d%C3%A9boucher.%20%22%20Les%20gamins%20/%20Qui%20wuidiott'nt%20pa%20tous%20les%20qu'mins%20%22%20(JM).%20ANC.%20:%20vuidier%20:%20vider,%20%C3%A9vacuer,%20quitter%20(Beno%C3%AEt%20de%20Ste%20Maure,%201160).%20%22%20Mais%20widi%C3%A9s%20me%20tost%20me%20maison%20%22%20(Jean%20Bodel,%201190).%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#3%20-%20s'en%20sortir.%20> , <http://restaure.limsi.fr/2017/rdf#1%20-%20vider.%20> , <http://restaure.limsi.fr/2017/rdf#2%20-%20sortir.%20> , <http://restaure.limsi.fr/2017/rdf#4%20-%20arriver,%20d%C3%A9boucher.%20> , <http://restaure.limsi.fr/2017/rdf#WUIDIER,%20VUIDIER,%20V.%20:%20> ;
+        ontolex:lexicalForm      restaure:lf_WIDIER .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Les%20wiseux,%20autrement%20dit%20les%20oiseux%20du%20carrefour%20de%20la%20Capelette,%20%C3%A9taient%20regard%C3%A9s%20comme%20les%20plus%20grands%20farceurs%20de%20Cond%C3%A9%20%22%20(CD).%0A%20%20%20%20%20%20>
+        a                   ontolex:Form ;
+        ontolex:writtenRep  "\n        \" Les wiseux, autrement dit les oiseux du carrefour de la Capelette, étaient regardés comme les plus grands farceurs de Condé \" (CD).\n      " .
 
 <http://restaure.limsi.fr/2017/rdf#gaule.%20(Vx).%20>
         ontolex:writtenRep  "gaule. (Vx). " .
 
-<http://restaure.limsi.fr/2017/rdf#%22%20Y%20n'y%20a%20mie%20d'%20bon%20sins%20d'%C3%AAt'%20aussi%20wiseux%20qu'%20cha%20%22%20(JQ).%20>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "\" Y n'y a mie d' bon sins d'êt' aussi wiseux qu' cha \" (JQ). " .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20gantier,%20fabricant%20de%20gants.%20Il%20y%20a%20encore,%20%C3%A0%20Valenciennes,%20une%20Place%20des%20Wantiers.%20Elle%20portait%20d%C3%A9j%C3%A0%20ce%20nom%20%C3%A0%20la%20fin%20du%20XIVe%20(A.%20Gauvin).%20ANC.%20:%20du%20francique%20want%20;%20gant.%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        gantier, fabricant de gants. Il y a encore, à Valenciennes, une Place des Wantiers. Elle portait déjà ce nom à la fin du XIVe (A. Gauvin). ANC. : du francique want ; gant.\n      " .
 
-<http://restaure.limsi.fr/2017/rdf#herbe,%20gazon.%20(Vx).%20ANC.%20:%20francique%20wazo%20:%20motte%20de%20terre%20garnie%20d'herbe.%20On%20trouve%20wason%20en%20fr.%20(Fet%20des%20Romains,%201213).>
-        ontolex:writtenRep  "herbe, gazon. (Vx). ANC. : francique wazo : motte de terre garnie d'herbe. On trouve wason en fr. (Fet des Romains, 1213)." .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20herbe,%20gazon.%20(Vx).%20ANC.%20:%20francique%20wazo%20:%20motte%20de%20terre%20garnie%20d'herbe.%20On%20trouve%20wason%20en%20fr.%20(Fet%20des%20Romains,%201213).%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        herbe, gazon. (Vx). ANC. : francique wazo : motte de terre garnie d'herbe. On trouve wason en fr. (Fet des Romains, 1213).\n      " .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Y%20n'y%20a%20mie%20d'%20bon%20sins%20d'%C3%AAt'%20aussi%20wiseux%20qu'%20cha%20%22%20(JQ).%0A%20%20%20%20%20%20>
+        a                   ontolex:Form ;
+        ontolex:writtenRep  "\n        \" Y n'y a mie d' bon sins d'êt' aussi wiseux qu' cha \" (JQ).\n      " .
 
 <http://restaure.limsi.fr/2017/rdf#La%20premi%C3%A8re%20partie%20du%20r%C3%A9cent%20roman%20d'Andr%C3%A9%20Stil,%20>
         ontolex:writtenRep  "La première partie du récent roman d'André Stil, " .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Warde%20chu%20qu'%20t'as,%20j'%20warderai%20chu%20qu'%20j'ai%20!%20%22%20(GH)%0A%20%20%20%20%20%20>
+        a                   ontolex:Form ;
+        ontolex:writtenRep  "\n        \" Warde chu qu' t'as, j' warderai chu qu' j'ai ! \" (GH)\n      " .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20g%C3%A2teau.%20Vx.%20Patronyme%20sous%20diverses%20graphies%20:%20Watteau,%20Wastiaux,%20Wastel,%20Wattel,%20Wattelet,%20Wattier%20(Dauzat%20leur%20donne%20une%20orig.%20toute%20diff%C3%A9rente%20:%20germ.%20Wad-hari%20(wad%20:%20gage%20;%20hari%20:%20arm%C3%A9e).%20Louis%20Cellier,%20cite%20un%20nom%20trouv%C3%A9%20dans%20les%20archives%20valenciennoises,%20celui%20de%20Watier%20Blancpain,%20dit%20Wateau%20(1522)%20et%20commente%20:%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        gâteau. Vx. Patronyme sous diverses graphies : Watteau, Wastiaux, Wastel, Wattel, Wattelet, Wattier (Dauzat leur donne une orig. toute différente : germ. Wad-hari (wad : gage ; hari : armée). Louis Cellier, cite un nom trouvé dans les archives valenciennoises, celui de Watier Blancpain, dit Wateau (1522) et commente :\n      " .
 
 lexinfo:Verb  ontolex:writtenRep  "Verbe"@fra .
 
@@ -513,35 +535,41 @@ lexinfo:Verb  ontolex:writtenRep  "Verbe"@fra .
         ontolex:writtenRep  "serpillière" .
 
 restaure:le23PicardVersFrançais_11
-        a                              ontolex:LexicalEntry ;
-        lexinfo:gender                 lexinfo:Female ;
-        lexinfo:partOfSpeech           lexinfo:Noun ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#serpilli%C3%A8re.%20%22%20(Il)%20le%20tordit%20comme%20une%20servante%20tord%20sa%20wassingue%20%22%20(CD).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#serpilli%C3%A8re.%20> ;
-        restaure:TranslatableInFrenchOneWord
-                <http://restaure.limsi.fr/2017/rdf#Traductionserpilli%C3%A8re> ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            restaure:lf_WASSINGUE .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:gender           lexinfo:Female ;
+        lexinfo:partOfSpeech     lexinfo:Noun ;
+        restaure:etymology       restaure: ;
+        restaure:translatableAs  restaure:Traduction , <http://restaure.limsi.fr/2017/rdf#Traductionserpilli%C3%A8re> ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20serpilli%C3%A8re.%20%22%20(Il)%20le%20tordit%20comme%20une%20servante%20tord%20sa%20wassingue%20%22%20(CD).%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#serpilli%C3%A8re.%20> ;
+        ontolex:lexicalForm      restaure:lf_WASSINGUE .
 
 restaure:le23PicardVersFrançais_3
-        a                              ontolex:LexicalEntry ;
-        lexinfo:gender                 lexinfo:Female ;
-        lexinfo:partOfSpeech           lexinfo:Noun ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#jach%C3%A8re.%20(Voir%20gaqui%C3%A8re).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#jach%C3%A8re.%20(Voir%20gaqui%C3%A8re).> ;
-        restaure:TranslatableInFrenchOneWord
-                <http://restaure.limsi.fr/2017/rdf#Traductionjach%C3%A8re> ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_WAQUI%C3%88RE> .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:gender           lexinfo:Female ;
+        lexinfo:partOfSpeech     lexinfo:Noun ;
+        restaure:etymology       restaure: ;
+        restaure:translatableAs  restaure:Traduction , <http://restaure.limsi.fr/2017/rdf#Traductionjach%C3%A8re> ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#jach%C3%A8re.%20(Voir%20gaqui%C3%A8re).> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#jach%C3%A8re.%20(Voir%20gaqui%C3%A8re).> ;
+        ontolex:lexicalForm      <http://restaure.limsi.fr/2017/rdf#lf_WAQUI%C3%88RE> .
 
 <http://restaure.limsi.fr/2017/rdf#%22%20Parisiens%20%22%20>
         a                   ontolex:Form ;
         ontolex:writtenRep  "\" Parisiens \" " .
 
-<http://restaure.limsi.fr/2017/rdf#ANC.%20:%20warescais,%20wareschel,%20m.%20sens%20(XIIIe).>
-        ontolex:writtenRep  "ANC. : warescais, wareschel, m. sens (XIIIe)." .
-
 restaure:  ontolex:writtenRep  "" .
+
+restaure:Traduction  a      ontolex:Form ;
+        ontolex:writtenRep  "" .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20ANC.%20:%20warlocquier%20:%20branler,%20osciller.%20%22%20...je%20veu...%20/%20Foaire%20tenir%20%C3%A0%20clau%20no%20verrou%20qui%20warlocque%20%22%20(Fl,%20H,%201654).%0A%20%20%20%20%20%20%0A%20%20%20%20>
+        ontolex:writtenRep  "\n      \n        ANC. : warlocquier : branler, osciller. \" ...je veu... / Foaire tenir à clau no verrou qui warlocque \" (Fl, H, 1654).\n      \n    " .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20:%20cette%20lettre,%20improprement%20appel%C3%A9e%20double%20v,%20alors%20qu'elle%20est%20une%20semi-voyelle,%20doit%20se%20prononcer%20comme%20en%20angl.%20et%20non%20comme%20en%20all.%20A%20rappeler,%20car%20les%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        : cette lettre, improprement appelée double v, alors qu'elle est une semi-voyelle, doit se prononcer comme en angl. et non comme en all. A rappeler, car les\n      " .
 
 <http://restaure.limsi.fr/2017/rdf#disent%20toujours%20>
         ontolex:writtenRep  "disent toujours " .
@@ -549,48 +577,58 @@ restaure:  ontolex:writtenRep  "" .
 lexinfo:Preposition  ontolex:writtenRep
                 "Préposition"@fra .
 
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Les%20gamins%20/%20Qui%20wuidiott'nt%20pa%20tous%20les%20qu'mins%20%22%20(JM).%0A%20%20%20%20%20%20>
+        a                   ontolex:Form ;
+        ontolex:writtenRep  "\n        \" Les gamins / Qui wuidiott'nt pa tous les qu'mins \" (JM).\n      " .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20Les%20Wios%20d'%20Tournay%20(GH%20dixit),%20parce%20que%20les%20Tournaisiennes%20sont%20belles,%20donc%20recherch%C3%A9es.%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        Les Wios d' Tournay (GH dixit), parce que les Tournaisiennes sont belles, donc recherchées.\n      " .
+
 <http://restaure.limsi.fr/2017/rdf#%22%20A%20wuidier%20l'%20bac%20comme%20in%20s'%20d%C3%A9p%C3%AAche%20%22%20(JM).%20>
         a                   ontolex:Form ;
         ontolex:writtenRep  "\" A wuidier l' bac comme in s' dépêche \" (JM). " .
 
 restaure:le23PicardVersFrançais_19
-        a                              ontolex:LexicalEntry ;
-        lexinfo:gender                 lexinfo:Masculine ;
-        lexinfo:partOfSpeech           lexinfo:Noun ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#herbe,%20gazon.%20(Vx).%20ANC.%20:%20francique%20wazo%20:%20motte%20de%20terre%20garnie%20d'herbe.%20On%20trouve%20wason%20en%20fr.%20(Fet%20des%20Romains,%201213).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#herbe,%20gazon.%20(Vx).%20> ;
-        restaure:TranslatableInFrenchOneWord
-                restaure:Traductiongazon , restaure:Traductionherbe ;
-        restaure:oldInformation        <http://restaure.limsi.fr/2017/rdf#ANC.%20:%20francique%20wazo%20:%20motte%20de%20terre%20garnie%20d'herbe.%20On%20trouve%20wason%20en%20fr.%20(Fet%20des%20Romains,%201213).> ;
-        ontolex:lexicalForm            restaure:lf_WAZON .
-
-<http://restaure.limsi.fr/2017/rdf#motte%20de%20terre%20durcie.%20%22%20Belz%C3%A9buth%20campa%20une%20cholette%20sur%20une%20waroque,%20ou%20motte%20gel%C3%A9e%20%22%20(CD).%20(Voir%20:%20%C3%A9pautrer%20;%20maroque).>
-        ontolex:writtenRep  "motte de terre durcie. \" Belzébuth campa une cholette sur une waroque, ou motte gelée \" (CD). (Voir : épautrer ; maroque)." .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:gender           lexinfo:Masculine ;
+        lexinfo:partOfSpeech     lexinfo:Noun ;
+        restaure:etymology       <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20ANC.%20:%20francique%20wazo%20:%20motte%20de%20terre%20garnie%20d'herbe.%20On%20trouve%20wason%20en%20fr.%20(Fet%20des%20Romains,%201213).%0A%20%20%20%20%20%20%0A%20%20%20%20> ;
+        restaure:translatableAs  restaure:Traductiongazon , restaure:Traduction , restaure:Traductionherbe ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20herbe,%20gazon.%20(Vx).%20ANC.%20:%20francique%20wazo%20:%20motte%20de%20terre%20garnie%20d'herbe.%20On%20trouve%20wason%20en%20fr.%20(Fet%20des%20Romains,%201213).%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#herbe,%20gazon.%20(Vx).%20> ;
+        ontolex:lexicalForm      restaure:lf_WAZON .
 
 <http://restaure.limsi.fr/2017/rdf#motte%20de%20terre%20durcie.%20>
         ontolex:writtenRep  "motte de terre durcie. " .
 
 restaure:LexiqueDaubyRouchiPicard
-        restaure:Coordinate  restaure:coordinate ;
-        lime:entry           restaure:le23PicardVersFrançais_19 , restaure:le23PicardVersFrançais_3 , restaure:le23PicardVersFrançais_8 , restaure:le23PicardVersFrançais_17 , restaure:le23PicardVersFrançais_12 , restaure:le23PicardVersFrançais_1 , restaure:le23PicardVersFrançais_22 , restaure:le23PicardVersFrançais_25 , restaure:le23PicardVersFrançais_6 , restaure:le23PicardVersFrançais_15 , restaure:le23PicardVersFrançais_10 , restaure:le23PicardVersFrançais_9 , restaure:le23PicardVersFrançais_20 , restaure:le23PicardVersFrançais_18 , restaure:le23PicardVersFrançais_4 , restaure:le23PicardVersFrançais_13 , restaure:le23PicardVersFrançais_23 , restaure:le23PicardVersFrançais_7 , restaure:le23PicardVersFrançais_16 , restaure:le23PicardVersFrançais_2 , restaure:le23PicardVersFrançais_26 , restaure:le23PicardVersFrançais_21 , restaure:le23PicardVersFrançais_5 , restaure:le23PicardVersFrançais_14 , restaure:le23PicardVersFrançais_11 , restaure:le23PicardVersFrançais_0 , restaure:le23PicardVersFrançais_24 .
+        restaure:Coordinate             restaure:coordinate ;
+        restaure:lexiconAuthorWrittenRep
+                "Jean Dauby"@fra ;
+        restaure:lexiconDirectionWrittenRep
+                "picard vers français"@fra ;
+        restaure:lexiconNameWrittenRep  "Le Livre du \"Rouchi\" Parler Picard de Valenciennes"@fra ;
+        lime:entry                      restaure:le23PicardVersFrançais_19 , restaure:le23PicardVersFrançais_3 , restaure:le23PicardVersFrançais_8 , restaure:le23PicardVersFrançais_17 , restaure:le23PicardVersFrançais_12 , restaure:le23PicardVersFrançais_1 , restaure:le23PicardVersFrançais_22 , restaure:le23PicardVersFrançais_25 , restaure:le23PicardVersFrançais_6 , restaure:le23PicardVersFrançais_15 , restaure:le23PicardVersFrançais_10 , restaure:le23PicardVersFrançais_9 , restaure:le23PicardVersFrançais_20 , restaure:le23PicardVersFrançais_18 , restaure:le23PicardVersFrançais_4 , restaure:le23PicardVersFrançais_13 , restaure:le23PicardVersFrançais_23 , restaure:le23PicardVersFrançais_7 , restaure:le23PicardVersFrançais_16 , restaure:le23PicardVersFrançais_2 , restaure:le23PicardVersFrançais_26 , restaure:le23PicardVersFrançais_21 , restaure:le23PicardVersFrançais_5 , restaure:le23PicardVersFrançais_14 , restaure:le23PicardVersFrançais_11 , restaure:le23PicardVersFrançais_0 , restaure:le23PicardVersFrançais_24 ;
+        lime:language                   "pcd"@fra .
 
-<http://restaure.limsi.fr/2017/rdf#ANC.%20:%20warlocquier%20:%20branler,%20osciller.%20%22%20...je%20veu...%20/%20Foaire%20tenir%20%C3%A0%20clau%20no%20verrou%20qui%20warlocque%20%22%20(Fl,%20H,%201654).>
-        ontolex:writtenRep  "ANC. : warlocquier : branler, osciller. \" ...je veu... / Foaire tenir à clau no verrou qui warlocque \" (Fl, H, 1654)." .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20et%20f.%20:%20bigle,%20personne%20qui%20louche.%20Vx.%20(Voir%20:%20arlouquer).%20ANC.%20:%20warlousketer%20:%20loucher,%20regarder%20de%20c%C3%B4t%C3%A9%20(Renart%20le%20Novel,%201288).%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        et f. : bigle, personne qui louche. Vx. (Voir : arlouquer). ANC. : warlousketer : loucher, regarder de côté (Renart le Novel, 1288).\n      " .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Belz%C3%A9buth%20campa%20une%20cholette%20sur%20une%20waroque,%20ou%20motte%20gel%C3%A9e%20%22%20(CD).%20(%0A%20%20%20%20%20%20>
+        a                   ontolex:Form ;
+        ontolex:writtenRep  "\n        \" Belzébuth campa une cholette sur une waroque, ou motte gelée \" (CD). (\n      " .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%201%20-%20g%C3%A2ter%20(sens%20;%20faire%20des%20g%C3%A2teries,%20combler%20d'affection,%20d'attentions).%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        1 - gâter (sens ; faire des gâteries, combler d'affection, d'attentions).\n      " .
 
 restaure:Traductiongantier
         a                   ontolex:Form ;
         ontolex:writtenRep  "gantier" .
 
-<http://restaure.limsi.fr/2017/rdf#%22%20J'aros%20d%C3%BB%20rester%20%C3%A0%20l'%20coyette%20/%20Pr%C3%A8s%20d%C3%A9%20m'%20feu%20in%20wardiant%20m'%20fricot%20%22%20(PM).>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "\" J'aros dû rester à l' coyette / Près dé m' feu in wardiant m' fricot \" (PM)." .
-
 <http://restaure.limsi.fr/2017/rdf#lf_WAQUI%C3%88RE>
         a                   ontolex:Form ;
         ontolex:writtenRep  "waquière" .
-
-<http://restaure.limsi.fr/2017/rdf#ANC.%20:%20francique%20werwulf%20:%20homme-loup.%20(Cf.%20all.%20Werwolf).%20%22%20...%20%C3%A9rouillant%20m%C3%A9%20zieu%20ensin%20qu'en%20leu-warou%20%22%20(Fl,%20H,%201654).>
-        ontolex:writtenRep  "ANC. : francique werwulf : homme-loup. (Cf. all. Werwolf). \" ... érouillant mé zieu ensin qu'en leu-warou \" (Fl, H, 1654)." .
 
 <http://restaure.limsi.fr/2017/rdf#lf_WET%20(GH)>
         a                   ontolex:Form ;
@@ -610,18 +648,12 @@ restaure:lf_Wate-camps
 <http://restaure.limsi.fr/2017/rdf#mise%20en%20possession%20(terme>
         ontolex:writtenRep  "mise en possession (terme" .
 
-<http://restaure.limsi.fr/2017/rdf#ANC.%20:%20warlousketer%20:%20loucher,%20regarder%20de%20c%C3%B4t%C3%A9%20(Renart%20le%20Novel,%201288).>
-        ontolex:writtenRep  "ANC. : warlousketer : loucher, regarder de côté (Renart le Novel, 1288)." .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20I%20vaut%20mieux%20%C3%AAte%20wio%20qu'aveule,%20on%20vot%20ses%20confr%C3%A8res%20%22%20(GH).%0A%20%20%20%20%20%20>
+        a                   ontolex:Form ;
+        ontolex:writtenRep  "\n        \" I vaut mieux ête wio qu'aveule, on vot ses confrères \" (GH).\n      " .
 
 <http://restaure.limsi.fr/2017/rdf#petit%20g%C3%A2teau%20appel%C3%A9%20plus%20tard%20mastelle%20(Vx).>
         ontolex:writtenRep  "petit gâteau appelé plus tard mastelle (Vx)." .
-
-<http://restaure.limsi.fr/2017/rdf#ANC.%20:%20francique%20wazo%20:%20motte%20de%20terre%20garnie%20d'herbe.%20On%20trouve%20wason%20en%20fr.%20(Fet%20des%20Romains,%201213).>
-        ontolex:writtenRep  "ANC. : francique wazo : motte de terre garnie d'herbe. On trouve wason en fr. (Fet des Romains, 1213)." .
-
-<http://restaure.limsi.fr/2017/rdf#lf_W%20>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "w " .
 
 restaure:Traductionwallon
         a                   ontolex:Form ;
@@ -631,17 +663,28 @@ restaure:Traductionvarlope
         a                   ontolex:Form ;
         ontolex:writtenRep  "varlope" .
 
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20ANC.%20:%20francique%20wazo%20:%20motte%20de%20terre%20garnie%20d'herbe.%20On%20trouve%20wason%20en%20fr.%20(Fet%20des%20Romains,%201213).%0A%20%20%20%20%20%20%0A%20%20%20%20>
+        ontolex:writtenRep  "\n      \n        ANC. : francique wazo : motte de terre garnie d'herbe. On trouve wason en fr. (Fet des Romains, 1213).\n      \n    " .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20garder.%20%22%20Warde%20chu%20qu'%20t'as,%20j'%20warderai%20chu%20qu'%20j'ai%20!%20%22%20(GH)%20ou%20%22%20Warde%20chu%20qu'%20t'as,%20t%C3%A9%20n'd'as%20pas%20d'%20trop%20%22%20:%20formules%20pour%20refuser%20une%20offre%20:%20%22%20J%C3%A9%20l'%20warderai%20jusqu'%C3%A0%20l'ann%C3%A9e%20qui%20vient%20pou%20faire%20des%20%C3%A9trennes%20au%20diale%20%22%20(GH),%20dit-on%20d'un%20pr%C3%A9sent%20dont%20on%20fait%20peu%20de%20cas.%20%22%20L'%20coeur%20du%20pauvr',%20pou%20l'amour,%20dot%20warder%20l'%20meilleu%20coin%20%22%20(JM).%20%22%20Un%20cur%C3%A9%20dot%20tout%20warder%20pour%20li%20et%20n'%20rin%20dire%20%C3%A0%20personne%20%22%20(PP)%20(vertu%20de%20discr%C3%A9tion).%20%22%20J'aros%20d%C3%BB%20rester%20%C3%A0%20l'%20coyette%20/%20Pr%C3%A8s%20d%C3%A9%20m'%20feu%20in%20wardiant%20m'%20fricot%20%22%20(PM).%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        garder. \" Warde chu qu' t'as, j' warderai chu qu' j'ai ! \" (GH) ou \" Warde chu qu' t'as, té n'd'as pas d' trop \" : formules pour refuser une offre : \" Jé l' warderai jusqu'à l'année qui vient pou faire des étrennes au diale \" (GH), dit-on d'un présent dont on fait peu de cas. \" L' coeur du pauvr', pou l'amour, dot warder l' meilleu coin \" (JM). \" Un curé dot tout warder pour li et n' rin dire à personne \" (PP) (vertu de discrétion). \" J'aros dû rester à l' coyette / Près dé m' feu in wardiant m' fricot \" (PM).\n      " .
+
 restaure:lf_WAZON  a        ontolex:Form ;
         ontolex:writtenRep  "wazon" .
 
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20VISEUX,%20s.%20m.%20et%20adj.%20:%20paresseux.%20%22%20Les%20wiseux,%20autrement%20dit%20les%20oiseux%20du%20carrefour%20de%20la%20Capelette,%20%C3%A9taient%20regard%C3%A9s%20comme%20les%20plus%20grands%20farceurs%20de%20Cond%C3%A9%20%22%20(CD).%20%22%20Y%20n'y%20a%20mie%20d'%20bon%20sins%20d'%C3%AAt'%20aussi%20wiseux%20qu'%20cha%20%22%20(JQ).%20ANC.%20:%20oisos,%20uiseus,%20adj.%20paresseux,%20qui%20reste%20%C3%A0%20ne%20rien%20faire%20(Chr%C3%A9tien%20de%20Troyes,%201175),%20du%20lat.%20otiosus%20:%20oisif,%20d%C3%A9soeuvr%C3%A9.%20%22%20N'ierent%20huiseuses%20mes%20tenailles%20%22%20(Jean%20Bodel,%201190).%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        VISEUX, s. m. et adj. : paresseux. \" Les wiseux, autrement dit les oiseux du carrefour de la Capelette, étaient regardés comme les plus grands farceurs de Condé \" (CD). \" Y n'y a mie d' bon sins d'êt' aussi wiseux qu' cha \" (JQ). ANC. : oisos, uiseus, adj. paresseux, qui reste à ne rien faire (Chrétien de Troyes, 1175), du lat. otiosus : oisif, désoeuvré. \" N'ierent huiseuses mes tenailles \" (Jean Bodel, 1190).\n      " .
+
 restaure:le23PicardVersFrançais_14
-        a                              ontolex:LexicalEntry ;
-        lexinfo:gender                 lexinfo:Masculine ;
-        lexinfo:partOfSpeech           lexinfo:Noun ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#g%C3%A2te-champs.%20Patronyme.> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#g%C3%A2te-champs.%20Patronyme.> ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            restaure:lf_Wate-camps .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:gender           lexinfo:Masculine ;
+        lexinfo:partOfSpeech     lexinfo:Noun ;
+        restaure:etymology       restaure: ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#g%C3%A2te-champs.%20Patronyme.> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#g%C3%A2te-champs.%20Patronyme.> ;
+        ontolex:lexicalForm      restaure:lf_Wate-camps .
 
 <http://restaure.limsi.fr/2017/rdf#1%20-%20vider.%20>
         ontolex:writtenRep  "1 - vider. " .
@@ -656,21 +699,18 @@ restaure:le23PicardVersFrançais_14
         ontolex:writtenRep  "loup-garou. Patronyme. " .
 
 restaure:le23PicardVersFrançais_6
-        a                              ontolex:LexicalEntry ;
-        lexinfo:gender                 lexinfo:Female ;
-        lexinfo:partOfSpeech           lexinfo:Noun ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#varlope.%20ANC.%20:%20on%20trouve,%20en%201564,%20une%20forme%20uuarlope.%20Du%20n%C3%A9erl.%20voorloper,%20riflard%20de%20charpentier.> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#varlope.%20> ;
-        restaure:TranslatableInFrenchOneWord
-                restaure:Traductionvarlope ;
-        restaure:oldInformation        <http://restaure.limsi.fr/2017/rdf#ANC.%20:%20on%20trouve,%20en%201564,%20une%20forme%20uuarlope.%20Du%20n%C3%A9erl.%20voorloper,%20riflard%20de%20charpentier.> ;
-        ontolex:lexicalForm            restaure:lf_WARLOPE .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:gender           lexinfo:Female ;
+        lexinfo:partOfSpeech     lexinfo:Noun ;
+        restaure:etymology       <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20ANC.%20:%20on%20trouve,%20en%201564,%20une%20forme%20uuarlope.%20Du%20n%C3%A9erl.%20voorloper,%20riflard%20de%20charpentier.%0A%20%20%20%20%20%20%0A%20%20%20%20> ;
+        restaure:translatableAs  restaure:Traduction , restaure:Traductionvarlope ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20varlope.%20ANC.%20:%20on%20trouve,%20en%201564,%20une%20forme%20uuarlope.%20Du%20n%C3%A9erl.%20voorloper,%20riflard%20de%20charpentier.%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#varlope.%20> ;
+        ontolex:lexicalForm      restaure:lf_WARLOPE .
 
 restaure:lf_WANTTER  a      ontolex:Form ;
         ontolex:writtenRep  "wantter" .
-
-<http://restaure.limsi.fr/2017/rdf#nettoyer%20par%20terre%20avec%20une%20wassingue%20mouill%C3%A9e.%20%22%20Em'n%20occasion%20(ma%20promise),%20ch'%20t'eune%20cr%C3%A2ne%20comm%C3%A8re,%20/%20%C3%80l%20sait%20pertrir>
-        ontolex:writtenRep  "nettoyer par terre avec une wassingue mouillée. \" Em'n occasion (ma promise), ch' t'eune crâne commère, / Àl sait pertrir" .
 
 <http://restaure.limsi.fr/2017/rdf#%22%20Selon%20les%20familles,%20il%20y%20a%20les%20%22>
         a                   ontolex:Form ;
@@ -679,26 +719,19 @@ restaure:lf_WANTTER  a      ontolex:Form ;
 restaure:lf_WAULE  a        ontolex:Form ;
         ontolex:writtenRep  "waule" .
 
-<http://restaure.limsi.fr/2017/rdf#%22%20L'%20coeur%20du%20pauvr',%20pou%20l'amour,%20dot%20warder%20l'%20meilleu%20coin%20%22%20(JM).%20>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "\" L' coeur du pauvr', pou l'amour, dot warder l' meilleu coin \" (JM). " .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20ANC.%20:%20l'initiale%20du%20lat.%20vastare%20(ravager,%20saccager)%20s'est%20modifi%C3%A9e%20en%20w%20sous%20l'influence%20du%20radical%20germ.%20wost%20(cf.%20verw%C3%BCsten%20:%20ravager,%20saccager).%0A%20%20%20%20%20%20%0A%20%20%20%20%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20ANC.%20:%20l'initiale%20du%20lat.%20vastare%20(ravager,%20saccager)%20s'est%20modifi%C3%A9e%20en%20w%20sous%20l'influence%20du%20radical%20germ.%20wost%20(cf.%20verw%C3%BCsten%20:%20ravager,%20saccager).%0A%20%20%20%20%20%20%0A%20%20%20%20%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20ANC.%20:%20l'initiale%20du%20lat.%20vastare%20(ravager,%20saccager)%20s'est%20modifi%C3%A9e%20en%20w%20sous%20l'influence%20du%20radical%20germ.%20wost%20(cf.%20verw%C3%BCsten%20:%20ravager,%20saccager).%0A%20%20%20%20%20%20%0A%20%20%20%20>
+        ontolex:writtenRep  "\n      \n        ANC. : l'initiale du lat. vastare (ravager, saccager) s'est modifiée en w sous l'influence du radical germ. wost (cf. verwüsten : ravager, saccager).\n      \n    \n      \n        ANC. : l'initiale du lat. vastare (ravager, saccager) s'est modifiée en w sous l'influence du radical germ. wost (cf. verwüsten : ravager, saccager).\n      \n    \n      \n        ANC. : l'initiale du lat. vastare (ravager, saccager) s'est modifiée en w sous l'influence du radical germ. wost (cf. verwüsten : ravager, saccager).\n      \n    " .
 
 restaure:le23PicardVersFrançais_22
-        a                              ontolex:LexicalEntry ;
-        lexinfo:gender                 lexinfo:Masculine ;
-        lexinfo:partOfSpeech           lexinfo:Noun ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#mare%20servant%20d'abreuvoir.> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#mare%20servant%20d'abreuvoir.> ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_WET%20(GH)> .
-
-restaure:yAmiens  ontolex:writtenRep  "Amiens"@fra .
-
-<http://restaure.limsi.fr/2017/rdf#ANC.%20:%20oisos,%20uiseus,%20adj.%20paresseux,%20qui%20reste%20%C3%A0%20ne%20rien%20faire%20(Chr%C3%A9tien%20de%20Troyes,%201175),%20du%20lat.%20otiosus%20:%20oisif,%20d%C3%A9soeuvr%C3%A9.%20%22%20N'ierent%20huiseuses%20mes%20tenailles%20%22%20(Jean%20Bodel,%201190).>
-        ontolex:writtenRep  "ANC. : oisos, uiseus, adj. paresseux, qui reste à ne rien faire (Chrétien de Troyes, 1175), du lat. otiosus : oisif, désoeuvré. \" N'ierent huiseuses mes tenailles \" (Jean Bodel, 1190)." .
-
-<http://restaure.limsi.fr/2017/rdf#ANC.%20:%20vuidier%20:%20vider,%20%C3%A9vacuer,%20quitter%20(Beno%C3%AEt%20de%20Ste%20Maure,%201160).%20%22%20Mais%20widi%C3%A9s%20me%20tost%20me%20maison%20%22%20(Jean%20Bodel,%201190).ANC.%20:%20vuidier%20:%20vider,%20%C3%A9vacuer,%20quitter%20(Beno%C3%AEt%20de%20Ste%20Maure,%201160).%20%22%20Mais%20widi%C3%A9s%20me%20tost%20me%20maison%20%22%20(Jean%20Bodel,%201190).ANC.%20:%20vuidier%20:%20vider,%20%C3%A9vacuer,%20quitter%20(Beno%C3%AEt%20de%20Ste%20Maure,%201160).%20%22%20Mais%20widi%C3%A9s%20me%20tost%20me%20maison%20%22%20(Jean%20Bodel,%201190).ANC.%20:%20vuidier%20:%20vider,%20%C3%A9vacuer,%20quitter%20(Beno%C3%AEt%20de%20Ste%20Maure,%201160).%20%22%20Mais%20widi%C3%A9s%20me%20tost%20me%20maison%20%22%20(Jean%20Bodel,%201190).ANC.%20:%20vuidier%20:%20vider,%20%C3%A9vacuer,%20quitter%20(Beno%C3%AEt%20de%20Ste%20Maure,%201160).%20%22%20Mais%20widi%C3%A9s%20me%20tost%20me%20maison%20%22%20(Jean%20Bodel,%201190).>
-        ontolex:writtenRep  "ANC. : vuidier : vider, évacuer, quitter (Benoît de Ste Maure, 1160). \" Mais widiés me tost me maison \" (Jean Bodel, 1190).ANC. : vuidier : vider, évacuer, quitter (Benoît de Ste Maure, 1160). \" Mais widiés me tost me maison \" (Jean Bodel, 1190).ANC. : vuidier : vider, évacuer, quitter (Benoît de Ste Maure, 1160). \" Mais widiés me tost me maison \" (Jean Bodel, 1190).ANC. : vuidier : vider, évacuer, quitter (Benoît de Ste Maure, 1160). \" Mais widiés me tost me maison \" (Jean Bodel, 1190).ANC. : vuidier : vider, évacuer, quitter (Benoît de Ste Maure, 1160). \" Mais widiés me tost me maison \" (Jean Bodel, 1190)." .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:gender           lexinfo:Masculine ;
+        lexinfo:partOfSpeech     lexinfo:Noun ;
+        restaure:etymology       restaure: ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#mare%20servant%20d'abreuvoir.> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#mare%20servant%20d'abreuvoir.> ;
+        ontolex:lexicalForm      <http://restaure.limsi.fr/2017/rdf#lf_WET%20(GH)> .
 
 restaure:Traductiongaufre
         a                   ontolex:Form ;
@@ -707,26 +740,22 @@ restaure:Traductiongaufre
 <http://restaure.limsi.fr/2017/rdf#serpilli%C3%A8re.%20>
         ontolex:writtenRep  "serpillière. " .
 
-<http://restaure.limsi.fr/2017/rdf#:%20cette%20lettre,%20improprement%20appel%C3%A9e%20double%20v,%20alors%20qu'elle%20est%20une%20semi-voyelle,%20doit%20se%20prononcer%20comme%20en%20angl.%20et%20non%20comme%20en%20all.%20A%20rappeler,%20car%20les%20%22%20Parisiens%20%22%20disent%20toujours%20%22%20Vatteau%20%22%20et%20%22%20Vallon%20%22%20pour%20Wa%C3%AEteau%20et%20Wallon%20(Ouato,%20Oualon),%20alors%20qu'ils%20prononcent%20correctement%20Wallonie%20et%20l'adj.%20wallon.>
-        ontolex:writtenRep  ": cette lettre, improprement appelée double v, alors qu'elle est une semi-voyelle, doit se prononcer comme en angl. et non comme en all. A rappeler, car les \" Parisiens \" disent toujours \" Vatteau \" et \" Vallon \" pour Waîteau et Wallon (Ouato, Oualon), alors qu'ils prononcent correctement Wallonie et l'adj. wallon." .
+restaure:yValenciennes
+        ontolex:writtenRep  "Valenciennes"@fra .
 
 <http://restaure.limsi.fr/2017/rdf#%22%20Vallon%20%22%20>
         a                   ontolex:Form ;
         ontolex:writtenRep  "\" Vallon \" " .
 
 restaure:le23PicardVersFrançais_1
-        a                              ontolex:LexicalEntry ;
-        lexinfo:partOfSpeech           lexinfo:Verb ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#vanner.%20(Cf.%20n%C3%A9erl.%20:%20wan%20:%20van,%20vanneuse%20;%20wannen%20:%20vanner,%20etc.).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#vanner.%20(Cf.%20n%C3%A9erl.%20:%20wan%20:%20van,%20vanneuse%20;%20wannen%20:%20vanner,%20etc.).> ;
-        restaure:TranslatableInFrenchOneWord
-                restaure:Traductionvanner ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_WANNER%20(GH)> .
-
-<http://restaure.limsi.fr/2017/rdf#%22%20J%C3%A9%20l'%20warderai%20jusqu'%C3%A0%20l'ann%C3%A9e%20qui%20vient%20pou%20faire%20des%20%C3%A9trennes%20au%20diale%20%22%20(GH),%20>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "\" Jé l' warderai jusqu'à l'année qui vient pou faire des étrennes au diale \" (GH), " .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:partOfSpeech     lexinfo:Verb ;
+        restaure:etymology       restaure: ;
+        restaure:translatableAs  restaure:Traduction , restaure:Traductionvanner ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20vanner.%20(Cf.%20n%C3%A9erl.%20:%20wan%20:%20van,%20vanneuse%20;%20wannen%20:%20vanner,%20etc.).%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20vanner.%20(Cf.%20n%C3%A9erl.%20:%20wan%20:%20van,%20vanneuse%20;%20wannen%20:%20vanner,%20etc.).%0A%20%20%20%20%20%20> ;
+        ontolex:lexicalForm      <http://restaure.limsi.fr/2017/rdf#lf_WANNER%20(GH)> .
 
 <http://restaure.limsi.fr/2017/rdf#lf_WARLOUQUE%20(GH)>
         a                   ontolex:Form ;
@@ -745,29 +774,35 @@ restaure:Traductionherbe
         ontolex:writtenRep  "wassinguer (donner un cop d' wassingue)" .
 
 restaure:le23PicardVersFrançais_17
-        a                              ontolex:LexicalEntry ;
-        lexinfo:gender                 lexinfo:Female ;
-        lexinfo:partOfSpeech           lexinfo:Noun ;
-        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Le%20plus%20beau,%20ce%20sont%20les%20soirs%20de%20gaufres.%20Encore%20ce%20w%20francique,%20les%20waufres,%20presque%20effac%C3%A9%20d%C3%A9sormais%20%22%20(AS).%20> ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#gaufre.%20%22%20Le%20plus%20beau,%20ce%20sont%20les%20soirs%20de%20gaufres.%20Encore%20ce%20w%20francique,%20les%20waufres,%20presque%20effac%C3%A9%20d%C3%A9sormais%20%22%20(AS).%20L'aph%C3%A9r%C3%A8se%20du%20w%20a%20donn%C3%A9%20aufe.%20ANC.%20:%20francique%20wafel,%20qui%20donne,%20au%20XIIe%20:%20walfre%20:%20(Huon%20de%20Bordeaux,%201190),%20le%20mot%20d%C3%A9signant%20(anal.%20de%20structure)%20rayon%20de%20miel%20et%20gaufre.%20(Cf.%20:%20n%C3%A9erl.%20wafel%20;%20all.%20Waffel%20;%20angl.%20waffle%20:%20gaufre).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#L'aph%C3%A9r%C3%A8se%20du%20w%20a%20donn%C3%A9%20aufe.%20> , <http://restaure.limsi.fr/2017/rdf#gaufre.%20> ;
-        restaure:TranslatableInFrenchOneWord
-                restaure:Traductiongaufre ;
-        restaure:oldInformation        <http://restaure.limsi.fr/2017/rdf#ANC.%20:%20francique%20wafel,%20qui%20donne,%20au%20XIIe%20:%20walfre%20:%20(Huon%20de%20Bordeaux,%201190),%20le%20mot%20d%C3%A9signant%20(anal.%20de%20structure)%20rayon%20de%20miel%20et%20gaufre.%20(Cf.%20:%20n%C3%A9erl.%20wafel%20;%20all.%20Waffel%20;%20angl.%20waffle%20:%20gaufre).> ;
-        ontolex:lexicalForm            restaure:lf_WAUFE .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:gender           lexinfo:Female ;
+        lexinfo:partOfSpeech     lexinfo:Noun ;
+        restaure:etymology       <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20ANC.%20:%20francique%20wafel,%20qui%20donne,%20au%20XIIe%20:%20walfre%20:%20(Huon%20de%20Bordeaux,%201190),%20le%20mot%20d%C3%A9signant%20(anal.%20de%20structure)%20rayon%20de%20miel%20et%20gaufre.%20(Cf.%20:%20n%C3%A9erl.%20wafel%20;%20all.%20Waffel%20;%20angl.%20waffle%20:%20gaufre).%0A%20%20%20%20%20%20%0A%20%20%20%20> ;
+        restaure:hasExample      <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Le%20plus%20beau,%20ce%20sont%20les%20soirs%20de%20gaufres.%20Encore%20ce%20w%20francique,%20les%20waufres,%20presque%20effac%C3%A9%20d%C3%A9sormais%20%22%20(AS).%0A%20%20%20%20%20%20> ;
+        restaure:translatableAs  restaure:Traductiongaufre , restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20gaufre.%20%22%20Le%20plus%20beau,%20ce%20sont%20les%20soirs%20de%20gaufres.%20Encore%20ce%20w%20francique,%20les%20waufres,%20presque%20effac%C3%A9%20d%C3%A9sormais%20%22%20(AS).%20L'aph%C3%A9r%C3%A8se%20du%20w%20a%20donn%C3%A9%20aufe.%20ANC.%20:%20francique%20wafel,%20qui%20donne,%20au%20XIIe%20:%20walfre%20:%20(Huon%20de%20Bordeaux,%201190),%20le%20mot%20d%C3%A9signant%20(anal.%20de%20structure)%20rayon%20de%20miel%20et%20gaufre.%20(Cf.%20:%20n%C3%A9erl.%20wafel%20;%20all.%20Waffel%20;%20angl.%20waffle%20:%20gaufre).%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#gaufre.%20> , <http://restaure.limsi.fr/2017/rdf#L'aph%C3%A9r%C3%A8se%20du%20w%20a%20donn%C3%A9%20aufe.%20> ;
+        ontolex:lexicalForm      restaure:lf_WAUFE .
 
-<http://restaure.limsi.fr/2017/rdf#A%20noter%20que%20le%20nom%20du%20c%C3%A9l%C3%A8bre%20peintre%20est%20bien%20Wateau%20avec%20un%20seul%20t%20sur%20son%20acte%20de%20naissance).>
-        ontolex:writtenRep  "A noter que le nom du célèbre peintre est bien Wateau avec un seul t sur son acte de naissance)." .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Un%20cur%C3%A9%20dot%20tout%20warder%20pour%20li%20et%20n'%20rin%20dire%20%C3%A0%20personne%20%22%20(PP)%20(vertu%20de%20discr%C3%A9tion).%0A%20%20%20%20%20%20>
+        a                   ontolex:Form ;
+        ontolex:writtenRep  "\n        \" Un curé dot tout warder pour li et n' rin dire à personne \" (PP) (vertu de discrétion).\n      " .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20ANC.%20:%20on%20trouve,%20en%201564,%20une%20forme%20uuarlope.%20Du%20n%C3%A9erl.%20voorloper,%20riflard%20de%20charpentier.%0A%20%20%20%20%20%20%0A%20%20%20%20>
+        ontolex:writtenRep  "\n      \n        ANC. : on trouve, en 1564, une forme uuarlope. Du néerl. voorloper, riflard de charpentier.\n      \n    " .
 
 restaure:le23PicardVersFrançais_9
-        a                              ontolex:LexicalEntry ;
-        lexinfo:gender                 lexinfo:Female ;
-        lexinfo:partOfSpeech           lexinfo:Noun ;
-        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Belz%C3%A9buth%20campa%20une%20cholette%20sur%20une%20waroque,%20ou%20motte%20gel%C3%A9e%20%22%20(CD).%20(> ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#motte%20de%20terre%20durcie.%20%22%20Belz%C3%A9buth%20campa%20une%20cholette%20sur%20une%20waroque,%20ou%20motte%20gel%C3%A9e%20%22%20(CD).%20(Voir%20:%20%C3%A9pautrer%20;%20maroque).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#Voir%20:%20%C3%A9pautrer%20;%20maroque).> , <http://restaure.limsi.fr/2017/rdf#motte%20de%20terre%20durcie.%20> ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_WAROQUE%20;%20WARUQUE%20(GD)> .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:gender           lexinfo:Female ;
+        lexinfo:partOfSpeech     lexinfo:Noun ;
+        restaure:etymology       restaure: ;
+        restaure:hasExample      <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Belz%C3%A9buth%20campa%20une%20cholette%20sur%20une%20waroque,%20ou%20motte%20gel%C3%A9e%20%22%20(CD).%20(%0A%20%20%20%20%20%20> ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20motte%20de%20terre%20durcie.%20%22%20Belz%C3%A9buth%20campa%20une%20cholette%20sur%20une%20waroque,%20ou%20motte%20gel%C3%A9e%20%22%20(CD).%20(Voir%20:%20%C3%A9pautrer%20;%20maroque).%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#Voir%20:%20%C3%A9pautrer%20;%20maroque).> , <http://restaure.limsi.fr/2017/rdf#motte%20de%20terre%20durcie.%20> ;
+        ontolex:lexicalForm      <http://restaure.limsi.fr/2017/rdf#lf_WAROQUE%20;%20WARUQUE%20(GD)> .
 
 <http://restaure.limsi.fr/2017/rdf#ouat%C3%A9s%20de%20la%20m%C3%A8re>
         ontolex:writtenRep  "ouatés de la mère" .
@@ -776,33 +811,35 @@ restaure:le23PicardVersFrançais_9
         a                   ontolex:Form ;
         ontolex:writtenRep  "\" N' viens pas chi wauter m' fiête \" (RD). " .
 
-<http://restaure.limsi.fr/2017/rdf#vanner.%20(Cf.%20n%C3%A9erl.%20:%20wan%20:%20van,%20vanneuse%20;%20wannen%20:%20vanner,%20etc.).>
-        ontolex:writtenRep  "vanner. (Cf. néerl. : wan : van, vanneuse ; wannen : vanner, etc.)." .
-
 restaure:lf_WISEUX  a       ontolex:Form ;
         ontolex:writtenRep  "wiseux" .
 
 <http://restaure.limsi.fr/2017/rdf#garder.%20>
         ontolex:writtenRep  "garder. " .
 
-<http://restaure.limsi.fr/2017/rdf#%22%20Warde%20chu%20qu'%20t'as,%20j'%20warderai%20chu%20qu'%20j'ai%20!%20%22%20(GH)%20>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "\" Warde chu qu' t'as, j' warderai chu qu' j'ai ! \" (GH) " .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20g%C3%A2teau.%20Vx.%20Patronyme%20sous%20diverses%20graphies%20:%20Watteau,%20Wastiaux,%20Wastel,%20Wattel,%20Wattelet,%20Wattier%20(Dauzat%20leur%20donne%20une%20orig.%20toute%20diff%C3%A9rente%20:%20germ.%20Wad-hari%20(wad%20:%20gage%20;%20hari%20:%20arm%C3%A9e).%20Louis%20Cellier,%20cite%20un%20nom%20trouv%C3%A9%20dans%20les%20archives%20valenciennoises,%20celui%20de%20Watier%20Blancpain,%20dit%20Wateau%20(1522)%20et%20commente%20:%20%22%20Watiau%20ou%20wateau,%20tout%20le%20monde%20le%20sait,%20est%20la%20traduction%20patoise%20du%20mot%20g%C3%A2teau%20;%20il%20se%20peut%20faire%20que%20quelque%20buveur%20en%20goguette%20ait%20trouv%C3%A9%20ing%C3%A9nieux%20de%20surnommer%20Wateau%20tel%20bourgeois%20qui%20s'appelait%20Blancpain%20du%20nom%20de%20sa%20famille%20%22%20(Wateau%20en%20Angleterre.%20Revue%20de%20la%20Soc.%20d'Agric,%20sc.%20et%20arts%20de%20Val.,%20tome%20XXII).%20(A%20noter%20que%20le%20nom%20du%20c%C3%A9l%C3%A8bre%20peintre%20est%20bien%20Wateau%20avec%20un%20seul%20t%20sur%20son%20acte%20de%20naissance).%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        gâteau. Vx. Patronyme sous diverses graphies : Watteau, Wastiaux, Wastel, Wattel, Wattelet, Wattier (Dauzat leur donne une orig. toute différente : germ. Wad-hari (wad : gage ; hari : armée). Louis Cellier, cite un nom trouvé dans les archives valenciennoises, celui de Watier Blancpain, dit Wateau (1522) et commente : \" Watiau ou wateau, tout le monde le sait, est la traduction patoise du mot gâteau ; il se peut faire que quelque buveur en goguette ait trouvé ingénieux de surnommer Wateau tel bourgeois qui s'appelait Blancpain du nom de sa famille \" (Wateau en Angleterre. Revue de la Soc. d'Agric, sc. et arts de Val., tome XXII). (A noter que le nom du célèbre peintre est bien Wateau avec un seul t sur son acte de naissance).\n      " .
 
-<http://restaure.limsi.fr/2017/rdf#VISEUX,%20s.%20m.%20et%20adj.%20:%20paresseux.%20%22%20Les%20wiseux,%20autrement%20dit%20les%20oiseux%20du%20carrefour%20de%20la%20Capelette,%20%C3%A9taient%20regard%C3%A9s%20comme%20les%20plus%20grands%20farceurs%20de%20Cond%C3%A9%20%22%20(CD).%20%22%20Y%20n'y%20a%20mie%20d'%20bon%20sins%20d'%C3%AAt'%20aussi%20wiseux%20qu'%20cha%20%22%20(JQ).%20ANC.%20:%20oisos,%20uiseus,%20adj.%20paresseux,%20qui%20reste%20%C3%A0%20ne%20rien%20faire%20(Chr%C3%A9tien%20de%20Troyes,%201175),%20du%20lat.%20otiosus%20:%20oisif,%20d%C3%A9soeuvr%C3%A9.%20%22%20N'ierent%20huiseuses%20mes%20tenailles%20%22%20(Jean%20Bodel,%201190).>
-        ontolex:writtenRep  "VISEUX, s. m. et adj. : paresseux. \" Les wiseux, autrement dit les oiseux du carrefour de la Capelette, étaient regardés comme les plus grands farceurs de Condé \" (CD). \" Y n'y a mie d' bon sins d'êt' aussi wiseux qu' cha \" (JQ). ANC. : oisos, uiseus, adj. paresseux, qui reste à ne rien faire (Chrétien de Troyes, 1175), du lat. otiosus : oisif, désoeuvré. \" N'ierent huiseuses mes tenailles \" (Jean Bodel, 1190)." .
+restaure:lf_W  a            ontolex:Form ;
+        ontolex:writtenRep  "w" .
 
 restaure:le23PicardVersFrançais_25
-        a                              ontolex:LexicalEntry ;
-        lexinfo:gender                 lexinfo:Masculine ;
-        lexinfo:partOfSpeech           lexinfo:Noun ;
-        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20I%20vaut%20mieux%20%C3%AAte%20wio%20qu'aveule,%20on%20vot%20ses%20confr%C3%A8res%20%22%20(GH).%20> ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#cocu.%20%22%20I%20vaut%20mieux%20%C3%AAte%20wio%20qu'aveule,%20on%20vot%20ses%20confr%C3%A8res%20%22%20(GH).%20Les%20Wios%20d'%20Tournay%20(GH%20dixit),%20parce%20que%20les%20Tournaisiennes%20sont%20belles,%20donc%20recherch%C3%A9es.%20ANC.%20:%20wihot,%20m.%20sens%20(d%C3%A9b.%20XIIe).%20%22%20Ki%20ont%20fais%20wihos%20lor%20maris%20%22%20(Renart%20le%20Nouvel,%201288).%20Du%20francique%20widuhoppa%20:%20huppe%20(oiseau).%20(Cf.%20all.%20Wiedehopf).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#Les%20Wios%20d'%20Tournay%20(GH%20dixit),%20parce%20que%20les%20Tournaisiennes%20sont%20belles,%20donc%20recherch%C3%A9es.%20> , <http://restaure.limsi.fr/2017/rdf#cocu.%20> ;
-        restaure:TranslatableInFrenchOneWord
-                restaure:Traductioncocu ;
-        restaure:oldInformation        <http://restaure.limsi.fr/2017/rdf#ANC.%20:%20wihot,%20m.%20sens%20(d%C3%A9b.%20XIIe).%20%22%20Ki%20ont%20fais%20wihos%20lor%20maris%20%22%20(Renart%20le%20Nouvel,%201288).%20Du%20francique%20widuhoppa%20:%20huppe%20(oiseau).%20(Cf.%20all.%20Wiedehopf).> ;
-        ontolex:lexicalForm            restaure:lf_WIHOT .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:gender           lexinfo:Masculine ;
+        lexinfo:partOfSpeech     lexinfo:Noun ;
+        restaure:etymology       <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20ANC.%20:%20wihot,%20m.%20sens%20(d%C3%A9b.%20XIIe).%20%22%20Ki%20ont%20fais%20wihos%20lor%20maris%20%22%20(Renart%20le%20Nouvel,%201288).%20Du%20francique%20widuhoppa%20:%20huppe%20(oiseau).%20(Cf.%20all.%20Wiedehopf).%0A%20%20%20%20%20%20%0A%20%20%20%20> ;
+        restaure:hasExample      <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20I%20vaut%20mieux%20%C3%AAte%20wio%20qu'aveule,%20on%20vot%20ses%20confr%C3%A8res%20%22%20(GH).%0A%20%20%20%20%20%20> ;
+        restaure:translatableAs  restaure:Traductioncocu , restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20cocu.%20%22%20I%20vaut%20mieux%20%C3%AAte%20wio%20qu'aveule,%20on%20vot%20ses%20confr%C3%A8res%20%22%20(GH).%20Les%20Wios%20d'%20Tournay%20(GH%20dixit),%20parce%20que%20les%20Tournaisiennes%20sont%20belles,%20donc%20recherch%C3%A9es.%20ANC.%20:%20wihot,%20m.%20sens%20(d%C3%A9b.%20XIIe).%20%22%20Ki%20ont%20fais%20wihos%20lor%20maris%20%22%20(Renart%20le%20Nouvel,%201288).%20Du%20francique%20widuhoppa%20:%20huppe%20(oiseau).%20(Cf.%20all.%20Wiedehopf).%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20Les%20Wios%20d'%20Tournay%20(GH%20dixit),%20parce%20que%20les%20Tournaisiennes%20sont%20belles,%20donc%20recherch%C3%A9es.%0A%20%20%20%20%20%20> , <http://restaure.limsi.fr/2017/rdf#cocu.%20> ;
+        ontolex:lexicalForm      restaure:lf_WIHOT .
 
 restaure:lf_WAUFE  a        ontolex:Form ;
         ontolex:writtenRep  "waufe" .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20nettoyer%20par%20terre%20avec%20une%20wassingue%20mouill%C3%A9e.%20%22%20Em'n%20occasion%20(ma%20promise),%20ch'%20t'eune%20cr%C3%A2ne%20comm%C3%A8re,%20/%20%C3%80l%20sait%20pertrir%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        nettoyer par terre avec une wassingue mouillée. \" Em'n occasion (ma promise), ch' t'eune crâne commère, / Àl sait pertrir\n      " .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20pour%20Wa%C3%AEteau%20et%20Wallon%20(Ouato,%20Oualon),%20alors%20qu'ils%20prononcent%20correctement%20Wallonie%20et%20l'adj.%20wallon.%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        pour Waîteau et Wallon (Ouato, Oualon), alors qu'ils prononcent correctement Wallonie et l'adj. wallon.\n      " .

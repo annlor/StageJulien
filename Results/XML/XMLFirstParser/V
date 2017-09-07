@@ -1,559 +1,2484 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Nomenclature>
-          <Entrée>
-        <Vocable>Val. après </Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition>
-          <DéfinitionDétaillée></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VACABOND</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>vagabond, mais aussi, vaurien. &quot; Il a l'air brave comme cha, mais deins l' fond, ch'est un vacabond &quot; (RD). &quot; Va-t-in, vacabond, j'iros brissauder du bon pain d' huit jours &quot; (PP).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">vagabond, mais aussi, vaurien. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Il a l'air brave comme cha, mais deins l' fond, ch'est un vacabond &quot; (RD). </ExemplePicard><ExemplePicard id="2">&quot; Va-t-in, vacabond, j'iros brissauder du bon pain d' huit jours &quot; (PP).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VACCINAGE</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>vaccination. &quot; J' trouv' qué ch'est d' l'infantillage, / L' vaccinag', tout l' saint-frusquin &quot; (JM).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">vaccination. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; J' trouv' qué ch'est d' l'infantillage, / L' vaccinag', tout l' saint-frusquin &quot; (JM).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VACLETTE</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>équivalent lillois du couvet.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">équivalent lillois du couvet.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VAGANCES</Vocable>
-        <CatégorieGrammaticale>s. f. pl.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>vacances. &quot; Les vagances, ch'est esquintant &quot; (RD). &quot; L' dadale, à ch't'heure, ch'est les vagances &quot; (PP).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">vacances. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Les vagances, ch'est esquintant &quot; (RD). </ExemplePicard><ExemplePicard id="2">&quot; L' dadale, à ch't'heure, ch'est les vagances &quot; (PP).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VALINCIENNOS</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>Valenciennois. &quot; Tous l'z artist's qu'in connot, ch'est des Valinciennos &quot; (GT).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">Valenciennois. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Tous l'z artist's qu'in connot, ch'est des Valinciennos &quot; (GT).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VALLONNE (GL)</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>val, vallon. Courir les caimps et les vallonnes : aller par monts et par vaux.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">val, vallon. Courir les caimps et les vallonnes : aller par monts et par vaux.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VANTARD(E)RIE</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>vantardise. &quot; Probap' qué ch'étot cor par esprit d' vantard'rie &quot; (JM).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">vantardise. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Probap' qué ch'étot cor par esprit d' vantard'rie &quot; (JM).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VAQUE</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>vache. Vaque beutor : vache ayant des allures de mâle. Vaque d'Hollande (GH) : femme très grasse. &quot; T'as tout l'allure d'ein' vaque qui n'a pus l' forche ed braire &quot; (EM). &quot; Vaque qu'alle broque perd es gueulée &quot; : en fr., brebis qui bêle perd sa gueulée (voir : abeyer). &quot; Les vaques aront cor bésoin d' leux queues &quot; (GH) dit-on à un ingrat. &quot; A Rombies, les vaques alles ont des gros pis &quot; (GLec), disent les Onnaingeois à qui exagère en parlant (= va conter ça à d'autres). L' vaque à Navarre : dépôt de genièvre, à la Capelette, Condé, au siècle dernier. &quot; Queu plaisir dé boire / Du p'tit lait del vaque à Navarre &quot; (AD) = du genièvre. (Voir : pleuvoir). ANC. : lat. vacca ; vaque (Le Jeu St Nicolas, Jean Bodel, 1210).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">vache. Vaque beutor : vache ayant des allures de mâle. Vaque d'Hollande (GH) : femme très grasse. </df><df id="2">dit-on à un ingrat. </df><df id="3">disent les Onnaingeois à qui exagère en parlant (= va conter ça à d'autres). L' vaque à Navarre : dépôt de genièvre, à la Capelette, Condé, au siècle dernier. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; T'as tout l'allure d'ein' vaque qui n'a pus l' forche ed braire &quot; (EM). </ExemplePicard><ExemplePicard id="2">&quot; Vaque qu'alle broque perd es gueulée &quot; : en fr., brebis qui bêle perd sa gueulée (voir : abeyer). </ExemplePicard><ExemplePicard id="3">&quot; Les vaques aront cor bésoin d' leux queues &quot; (GH) </ExemplePicard><ExemplePicard id="4">&quot; A Rombies, les vaques alles ont des gros pis &quot; (GLec), </ExemplePicard><ExemplePicard id="5">&quot; Queu plaisir dé boire / Du p'tit lait del vaque à Navarre &quot; (AD) = du genièvre. (Voir : pleuvoir). </ExemplePicard></Exemples><Ancien>ANC. : lat. vacca ; vaque (Le Jeu St Nicolas, Jean Bodel, 1210).</Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Vaquer ou vaquier</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>vacher.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">vacher.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VAQU(E)LER </Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>(GD), v. : se promener (péj.).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">(GD), v. : se promener (péj.).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VARLET</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>valet de ferme, palefrenier. &quot; L' ceinsière avot, au p'tit varlet, / Taillé ... enne assez gross' tartine &quot; (PB). Patronyme. ANC. : varlet : enfant mâle, jeune homme, apprenti, domestique (XIIe). &quot; Li dui varlets molt l'en mercïent &quot; (Roman du Comte d'Anjou, Jehan Maillart, 1316).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">valet de ferme, palefrenier. </df><df id="2">Patronyme. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; L' ceinsière avot, au p'tit varlet, / Taillé ... enne assez gross' tartine &quot; (PB). </ExemplePicard></Exemples><Ancien>ANC. : varlet : enfant mâle, jeune homme, apprenti, domestique (XIIe). &quot; Li dui varlets molt l'en mercïent &quot; (Roman du Comte d'Anjou, Jehan Maillart, 1316).</Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Varloter</Vocable>
-        <CatégorieGrammaticale>v.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>travailler un peu, par ci par là.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">travailler un peu, par ci par là.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VASSIAU</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>1 - récipient ; vaisselle. &quot; Ein a soupé léger : enne paire ed gâteaux deins deux tros vassiaux d' thé &quot; (c'est en Angleterre !) (RD). </DéfinitionEntiere><DéfinitionEntiere>2 - mesure pour les grains valant 25 litres. &quot; Tu me rapporteras sept vassiaux et une pinte de blé de semence &quot; (CD). ANC. : vaissel, vase, récipient (Wace, 1155) du lat. pop. vascellum).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">1 - récipient ; vaisselle. </df><df id="2">RD). </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Ein a soupé léger : enne paire ed gâteaux deins deux tros vassiaux d' thé &quot; (c'est en Angleterre !) (</ExemplePicard></Exemples><Ancien>ANC. : vaissel, vase, récipient (Wace, 1155) du lat. pop. vascellum).</Ancien><DéfinitionFrançaise><df id="1">2 - mesure pour les grains valant 25 litres. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Tu me rapporteras sept vassiaux et une pinte de blé de semence &quot; (CD). </ExemplePicard></Exemples><Ancien>ANC. : vaissel, vase, récipient (Wace, 1155) du lat. pop. vascellum).</Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VAULOIR</Vocable>
-        <CatégorieGrammaticale>v.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>valoir. &quot; Des pièches... / Vautent quéqu' fos leu pésant d'or &quot; (JM). Comparaisons : I n' vaut pas les quat' fiers d'un tchien, les quat' fiers d'un pindu, l' pain qu'i minge, eune pipe ed toubac, eune baffe, eune coule, s' cul plein d'iaut l' démotié d' Paris (GH).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">valoir. </df><df id="2">Comparaisons : I n' vaut pas les quat' fiers d'un tchien, les quat' fiers d'un pindu, l' pain qu'i minge, eune pipe ed toubac, eune baffe, eune coule, s' cul plein d'iaut l' démotié d' Paris (GH).</df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Des pièches... / Vautent quéqu' fos leu pésant d'or &quot; (JM). </ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VAUTO</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>vautoir, peigne de métier à tisser.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">vautoir, peigne de métier à tisser.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VA-VITE (AH)</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>binette à démarier les betteraves.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">binette à démarier les betteraves.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>* VEILLEUSE</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>verre de genièvre. &quot; Nous avons eu soin d'envaler chacun eun'</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">verre de genièvre. </df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VÉLOT ou VÉLEAU</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>veau qui vient de naître. ANC. : veelet : jeune veau (Chanson, XIIIe), de veel : veau (Psautier de Cambridge, XIIe), du lat. vitellum.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">veau qui vient de naître. </df></DéfinitionFrançaise><Exemples></Exemples><Ancien>ANC. : veelet : jeune veau (Chanson, XIIIe), de veel : veau (Psautier de Cambridge, XIIe), du lat. vitellum.</Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VÉNIAU (GH)</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>noue, tuile creuse.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">noue, tuile creuse.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VÉNIR</Vocable>
-        <CatégorieGrammaticale>v.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>venir. (Voir : gram., conjug.). &quot; Pus i verra avant, pis qu' cha s'ra &quot; (RD) = les choses iront de mal en pis (Voir : pire). &quot; Un jour verra, heureus' quand même, / Duss qué t'artrouv'ras tin bonheur &quot; (EM). L' mos qui vient : le mois prochain. (Même tournure avec sémaine, année, hiver...)</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">venir. (Voir : gram., conjug.). </df><df id="2">L' mos qui vient : le mois prochain. (Même tournure avec sémaine, année, hiver...)</df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Pus i verra avant, pis qu' cha s'ra &quot; (RD) = les choses iront de mal en pis (Voir : pire). </ExemplePicard><ExemplePicard id="2">&quot; Un jour verra, heureus' quand même, / Duss qué t'artrouv'ras tin bonheur &quot; (EM). </ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Vénure</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>venue, croissance. &quot; Comm' les feuill's sont d'eun' bell' vénure, / Es figure all' s'épanouit &quot; (JM). D'eun' vénure : brusquement, d'un seul coup, sans nuances. &quot; Alors, à l' marchant', l'un del clique, / D'eun' vénur' criot pou tertous &quot; (JM). Tout d'eune vénure : se dit d'une jambe sans galbe, d'une poitrine plate, d'épaules effacées, etc.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">venue, croissance. </df><df id="2">D'eun' vénure : brusquement, d'un seul coup, sans nuances. </df><df id="3">Tout d'eune vénure : se dit d'une jambe sans galbe, d'une poitrine plate, d'épaules effacées, etc.</df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Comm' les feuill's sont d'eun' bell' vénure, / Es figure all' s'épanouit &quot; (JM). </ExemplePicard><ExemplePicard id="2">&quot; Alors, à l' marchant', l'un del clique, / D'eun' vénur' criot pou tertous &quot; (JM). </ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VENTEL </Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>: (vir : vintel).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">: (vir : vintel).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VENTILLET</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>châssis de fenêtre qui s'ouvre en levant (GH). ANC. : ventaile : volet (milieu XIIIe), ventail, sens divers (déb. XIVe), de vent. En fr., s'écrit vantail au XVIIIe, dans le sens de châssis de fenêtre.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">châssis de fenêtre qui s'ouvre en levant (GH). </df></DéfinitionFrançaise><Exemples></Exemples><Ancien>ANC. : ventaile : volet (milieu XIIIe), ventail, sens divers (déb. XIVe), de vent. En fr., s'écrit vantail au XVIIIe, dans le sens de châssis de fenêtre.</Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VÉNURE </Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>: (voir : vénir).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">: (voir : vénir).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VERDÉLOT</Vocable>
-        <CatégorieGrammaticale>adj.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere> ; </DéfinitionEntiere><DéfinitionEntiere>1 - verdelet, verdâtre. &quot; Enne sorte ed sale loripe toute verdélote. &quot; (RD). </DéfinitionEntiere><DéfinitionEntiere>2 - encore vigoureux, vert, malgré l'âge. &quot; I vaut mieux morir incor verdélot &quot; (GH).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1"> ; </df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien><DéfinitionFrançaise><df id="1">1 - verdelet, verdâtre. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Enne sorte ed sale loripe toute verdélote. &quot; (RD). </ExemplePicard></Exemples><Ancien></Ancien><DéfinitionFrançaise><df id="1">2 - encore vigoureux, vert, malgré l'âge. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; I vaut mieux morir incor verdélot &quot; (GH).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VERDI</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>vendredi. &quot; Tel verdi, tel diminche &quot;, ou, au contraire : &quot; Biau verdi, laid diminche &quot;. &quot; Ein a foc el bien qu'in s' donne. Pou tros quate verdis qu'ein a cor à vive &quot; (RD). On trouve vinderdi chez JQ. ANC. : &quot; les verdi et les semedis y mengent dé gros pichons &quot; (Fl, D</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">vendredi. </df><df id="2">ou, au contraire : </df><df id="3">On trouve vinderdi chez JQ. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Tel verdi, tel diminche &quot;, </ExemplePicard><ExemplePicard id="2">&quot; Biau verdi, laid diminche &quot;. </ExemplePicard><ExemplePicard id="3">&quot; Ein a foc el bien qu'in s' donne. Pou tros quate verdis qu'ein a cor à vive &quot; (RD). </ExemplePicard></Exemples><Ancien>ANC. : &quot; les verdi et les semedis y mengent dé gros pichons &quot; (Fl, D</Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VERDISON (GH)</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>état des récoltes qui sont encore vertes. &quot; Vendre en verdison &quot; = vendre sur pied.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">état des récoltes qui sont encore vertes. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Vendre en verdison &quot; = vendre sur pied.</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VERGE</Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>VERGEON, VERGUÉLETTE : (voir : vergue).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">VERGEON, VERGUÉLETTE : (voir : vergue).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VÉRINER (S')</Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>VERSINER (S'), VERTÉNER (S'), v. : se tordre, s'agiter pour se débarrasser de quelqu'un ou de quelque chose. &quot; Queu n'infant arpiant ! Comme i s' vérine ! &quot; Se dit d'un cheval qui essaie de se débarrasser de son collier en bougeant la tête de bas en haut (GD, qui donne le mot vériner). &quot; Tu versines sus t' kaïère comme ein vier qui arot archu ein coup d' loucher &quot; (RD).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">VERSINER (S'), VERTÉNER (S'), v. : se tordre, s'agiter pour se débarrasser de quelqu'un ou de quelque chose. </df><df id="2">Se dit d'un cheval qui essaie de se débarrasser de son collier en bougeant la tête de bas en haut (GD, qui donne le mot vériner). </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Queu n'infant arpiant ! Comme i s' vérine ! &quot; </ExemplePicard><ExemplePicard id="2">&quot; Tu versines sus t' kaïère comme ein vier qui arot archu ein coup d' loucher &quot; (RD).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VERME (RD)</Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>VERPIÉRE, VERPE (GD), VIERME (AH), s. f. : guêpe, &quot; Ein vignéron qui avot avalé enne verme, i-est mort atoffé enne démi-heure après &quot;. ANC. : le rouchi, sous diverses formes, a</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">VERPIÉRE, VERPE (GD), VIERME (AH), s. f. : guêpe, </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Ein vignéron qui avot avalé enne verme, i-est mort atoffé enne démi-heure après &quot;. </ExemplePicard></Exemples><Ancien>ANC. : le rouchi, sous diverses formes, a</Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VERQUE</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>verge (baguette, tige de bois ou de fer). Quévau d' verque : sous-verge (= sous le fouet), cheval de droite dans un attelage à deux ; l'autre étant l' quévau d' main. Verque ou verge : ancienne mesure de longueur, </DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">verge (baguette, tige de bois ou de fer). Quévau d' verque : sous-verge (= sous le fouet), cheval de droite dans un attelage à deux ; l'autre étant l' quévau d' main. Verque ou verge : ancienne mesure de longueur, </df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Vergeon</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>brin de balai (GH) ; gros bout du manche d'un fouet (GD) ; manche d'un fouet (GL).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">brin de balai (GH) ; gros bout du manche d'un fouet (GD) ; manche d'un fouet (GL).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Verguélette</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>petite verge, bâton blanc orné de pervenche que les confrères portaient à la procession (GH). (Voir : roïé).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">petite verge, bâton blanc orné de pervenche que les confrères portaient à la procession (GH). (Voir : roïé).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VERQUIN (GH)</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>petit verre (Vx). ANC. : le suff. est d'orig. néerl. : ken (diminutif).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">petit verre (Vx). </df></DéfinitionFrançaise><Exemples></Exemples><Ancien>ANC. : le suff. est d'orig. néerl. : ken (diminutif).</Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VERSINER</Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>VERTÉNER : (voir : vériner).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">VERTÉNER : (voir : vériner).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VERT-FRION</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>1 - bruant (oiseau). &quot; Les verfrions, les fauvettes à noire tiette &quot; (AD). </DéfinitionEntiere><DéfinitionEntiere>2 - jeune homme faraud (GH).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">1 - bruant (oiseau). </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Les verfrions, les fauvettes à noire tiette &quot; (AD). </ExemplePicard></Exemples><Ancien></Ancien><DéfinitionFrançaise><df id="1">2 - jeune homme faraud (GH).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VERTIAU</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>vermisseau. &quot; Ming' les vertiaux qu' décafoure l' carrue &quot; (GF).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">vermisseau. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Ming' les vertiaux qu' décafoure l' carrue &quot; (GF).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VERT-MONTANT</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>tarin (oiseau).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">tarin (oiseau).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VERVÉLU (GH)</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>renvoi aigre ; acidité stomacale qui remonte dans la bouche.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">renvoi aigre ; acidité stomacale qui remonte dans la bouche.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VERT-VESSOU (PB) ou VERVESSOU (GH)</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>personne pâle, souffreteuse. &quot; ... nous sommes... / Des pauf' bernioull', des vert-vessoux &quot;.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">personne pâle, souffreteuse. </df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VERZIN (GH)</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>germe d'oeuf.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">germe d'oeuf.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VERZOULEUX (GH)</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>alcoolique au visage bouffi.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">alcoolique au visage bouffi.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VETTIER ou WETTIER</Vocable>
-        <CatégorieGrammaticale>v.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>regarder. &quot; Vett' qu'i dit l' lum'chon sans bile, / In s'artournant d' l'aut' côté &quot; (JM). &quot; Vet' un peu t' s'ros cor au fond, / T'aros tes ortels pleins d' carbon &quot; (PM). ANC. : la forme anc. est wettier = guetter, avec la mutation fréquente w-g. &quot; Wette, hé ! v'là justémen lavau / Des jonomm' té qui nous en faut &quot; (Fl, F, XVIIe).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">regarder. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Vett' qu'i dit l' lum'chon sans bile, / In s'artournant d' l'aut' côté &quot; (JM). </ExemplePicard><ExemplePicard id="2">&quot; Vet' un peu t' s'ros cor au fond, / T'aros tes ortels pleins d' carbon &quot; (PM). </ExemplePicard></Exemples><Ancien>ANC. : la forme anc. est wettier = guetter, avec la mutation fréquente w-g. &quot; Wette, hé ! v'là justémen lavau / Des jonomm' té qui nous en faut &quot; (Fl, F, XVIIe).</Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>* VEULE</Vocable>
-        <CatégorieGrammaticale>adj.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>meuble (en parlant d'une terre). ANC. : veule : volage, frivole, léger (XIIe). &quot; Celle ki le cuer a moult vuele &quot;.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">meuble (en parlant d'une terre). </df></DéfinitionFrançaise><Exemples></Exemples><Ancien>ANC. : veule : volage, frivole, léger (XIIe). &quot; Celle ki le cuer a moult vuele &quot;.</Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VI</Vocable>
-        <CatégorieGrammaticale>part. pas.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>vécu. &quot; Alle n'a foque vi pou ses infants &quot;.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">vécu. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Alle n'a foque vi pou ses infants &quot;.</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VIAU</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>1 - veau. &quot; Tant puss qu'on prie un viau, et tant moinss' qu'i veut boire &quot; (PB) = plus on le prie, plus il est réticent. &quot; Cha li va comme un cop d' poing su l' gueule d'un viau &quot; (GLec) = son vêtement ne lui va pas. &quot; Queu fourbi ! Eune vaque alle n'y r'trouverot pus s' viau ! (GLec). &quot; Té t' trompes, ch'est du viau, /</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">1 - veau. </df><df id="2">son vêtement ne lui va pas. </df><df id="3">Té t' trompes, ch'est du viau, /</df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Tant puss qu'on prie un viau, et tant moinss' qu'i veut boire &quot; (PB) = plus on le prie, plus il est réticent. </ExemplePicard><ExemplePicard id="2">&quot; Cha li va comme un cop d' poing su l' gueule d'un viau &quot; (GLec) = </ExemplePicard><ExemplePicard id="3">&quot; Queu fourbi ! Eune vaque alle n'y r'trouverot pus s' viau ! (GLec). &quot; </ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Viau d' mars </Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>: </DéfinitionEntiere><DéfinitionEntiere>1 - giboulée de mars. </DéfinitionEntiere><DéfinitionEntiere>2 - enfant né en mars.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">: </df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien><DéfinitionFrançaise><df id="1">1 - giboulée de mars. </df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien><DéfinitionFrançaise><df id="1">2 - enfant né en mars.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VIELLE</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>avoir eine vielle = perdre une partie de balle sans prendre un seul jeu (sur les quinze de la rencontre). &quot; L' partie d'Anzin a bin manqué d'attraper eun' vielle &quot; (JQ).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">avoir eine vielle = perdre une partie de balle sans prendre un seul jeu (sur les quinze de la rencontre). </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; L' partie d'Anzin a bin manqué d'attraper eun' vielle &quot; (JQ).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VIÉP(R)ES</Vocable>
-        <CatégorieGrammaticale>s. f. pl.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>vêpres. &quot; Nous irons bien et biau à vieppe (Fl, F, XVIIe).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">vêpres. </df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VIER</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>ver. Vier à queue : </DéfinitionEntiere><DéfinitionEntiere>1 - larve de la mouque à bren qui grouillait dans les fosses d'aisance. </DéfinitionEntiere><DéfinitionEntiere>2 - enfant chétif.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">ver. Vier à queue : </df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien><DéfinitionFrançaise><df id="1">1 - larve de la mouque à bren qui grouillait dans les fosses d'aisance. </df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien><DéfinitionFrançaise><df id="1">2 - enfant chétif.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Viéreux</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere> et adj. : qui a des vers (intestinaux) ; qui a le teint pâle et maladif. &quot; T'as l'air d'un viéreux avec ta mine de fromage blanc &quot; (FP).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1"> et adj. : qui a des vers (intestinaux) ; qui a le teint pâle et maladif. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; T'as l'air d'un viéreux avec ta mine de fromage blanc &quot; (FP).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VIERGE</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>à Val., la Vierge : Notre-Dame des Affligés, au Faubourg de Paris. &quot; Un p'tit cosse au d'sus d' l'écluse du Faubourg Paris, avant d'arriver à la Vierche &quot; (GT). Le titre de Notre-Dame est réservé à Noter-Dame du Saint-Cordon. (Voir : tour). Inter deux vierges (AH) : période entre l'Assomption et la Nativité.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">à Val., la Vierge : Notre-Dame des Affligés, au Faubourg de Paris. </df><df id="2">Le titre de Notre-Dame est réservé à Noter-Dame du Saint-Cordon. (Voir : tour). Inter deux vierges (AH) : période entre l'Assomption et la Nativité.</df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Un p'tit cosse au d'sus d' l'écluse du Faubourg Paris, avant d'arriver à la Vierche &quot; (GT). </ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VIEUX</Vocable>
-        <CatégorieGrammaticale>adj.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>&quot; Té véras (= deviendras) vieux, si in n' té pinds pas jone &quot; (GH), dit-on à ceux qui se moquent des vieillards. Un vieux jonne homme : un vieux célibataire. &quot; Y a bé des années qu'in l'a intierré à Tuchelle, mort vieux jonne homme &quot; (PP).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">dit-on à ceux qui se moquent des vieillards. Un vieux jonne homme : un vieux célibataire. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Y a bé des années qu'in l'a intierré à Tuchelle, mort vieux jonne homme &quot; (PP).</ExemplePicard><ExemplePicard id="2">&quot; Té véras (= deviendras) vieux, si in n' té pinds pas jone &quot; (GH), </ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Viés(e)ries</Vocable>
-        <CatégorieGrammaticale>s. f. pl.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>vieilleries, haillons, objets sans valeur. &quot; In sort tous les viéz'ri's d' dins l' temps / Crinolin's et capiaux-montants &quot; (JM). &quot; On partait parfois jouer avec sur le dos des vieuseries sans nom &quot; (AS). ANC. : viéserie : vieillerie, friperie ; lieu où on les vend (1301). A Valenciennes, la rue de la Viéwarde (des marchands de vieilles hardes) s'appelait autrefois rue de la Viéserie (André Gauvin).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">vieilleries, haillons, objets sans valeur. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; In sort tous les viéz'ri's d' dins l' temps / Crinolin's et capiaux-montants &quot; (JM). </ExemplePicard><ExemplePicard id="2">&quot; On partait parfois jouer avec sur le dos des vieuseries sans nom &quot; (AS). </ExemplePicard></Exemples><Ancien>ANC. : viéserie : vieillerie, friperie ; lieu où on les vend (1301). A Valenciennes, la rue de la Viéwarde (des marchands de vieilles hardes) s'appelait autrefois rue de la Viéserie (André Gauvin).</Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Vieusir</Vocable>
-        <CatégorieGrammaticale>v.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>vieillir, &quot; Laîte, in vieusissant, n' pouvot pus dire eune parole sans répéter : T'as compris ? &quot; (PP). ANC. : viésir : vieillir (Wace, Roce, 1169).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">vieillir, </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Laîte, in vieusissant, n' pouvot pus dire eune parole sans répéter : T'as compris ? &quot; (PP). </ExemplePicard></Exemples><Ancien>ANC. : viésir : vieillir (Wace, Roce, 1169).</Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Vieuwardier ou vieswarier</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>marchand de vieilles hardes, fripier. (Voir : viéserie, ci-dessus). (Vx.) ANC. : viesvarier : marchand fripier (Archives de Tournai, 1263) ; viesvare (Archives de Valenciennes, 1348).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">marchand de vieilles hardes, fripier. (Voir : viéserie, ci-dessus). (Vx.) </df></DéfinitionFrançaise><Exemples></Exemples><Ancien>ANC. : viesvarier : marchand fripier (Archives de Tournai, 1263) ; viesvare (Archives de Valenciennes, 1348).</Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VIF</Vocable>
-        <CatégorieGrammaticale>adj.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>Vif comme un patar (lent), comme un qu'vau qui coeurt la posse ed'pus dix ans (fatigué).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">Vif comme un patar (lent), comme un qu'vau qui coeurt la posse ed'pus dix ans (fatigué).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VILETTE (GH)</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>violette. Vilette</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">violette. Vilette</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VIN</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>&quot; C'est du vin d'apôt' tiré à l' corde &quot; = c'est du Château-Lapompe, de l'eau du puits.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VINAIQUE</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>vinaigre. Au vinaique : (voir : huile).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">vinaigre. Au vinaique : (voir : huile).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VIND(R)E</Vocable>
-        <CatégorieGrammaticale>v.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>vendre. &quot; J' vinds et j'acate / Frip's et chavattes &quot; (GF).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">vendre. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; J' vinds et j'acate / Frip's et chavattes &quot; (GF).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Vindeux</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>vendeur.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">vendeur.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Vindue (AH)</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>vente publique.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">vente publique.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Vindure</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>lieu où l'on vend ; bureau de vente. &quot; Pou acater à l' vindure / Jé n' sus mie r'targé &quot; (JQ).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">lieu où l'on vend ; bureau de vente. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Pou acater à l' vindure / Jé n' sus mie r'targé &quot; (JQ).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VINGT</Vocable>
-        <CatégorieGrammaticale>adj. num.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>élém. de plusieurs jurons : vingt noms ! vingt dieux ! vingt dious' !</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">élém. de plusieurs jurons : vingt noms ! vingt dieux ! vingt dious' !</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VINIGOUTTE ou VONIGOUTTE</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>myope, qui n'y voit goutte. In vinigoutte (GL), loc. adv. : dans l'obscurité.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">myope, qui n'y voit goutte. In vinigoutte (GL), loc. adv. : dans l'obscurité.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VINQUE (GH)</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>pervenche. (Vinca pervinca).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">pervenche. (Vinca pervinca).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VINT</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>vent. Vint d' bise : vent du Nord. Vint des Ardennes (GD) : vent d'Est. L' vint i 't in bise (au Nord), l' vint i 't in France (à l'ouest) (GLec). &quot; L' vint il est sûr &quot; (AH) : le vent est au Nord-Ouest. Ch'est du grand vint et rien d'dins &quot; (PP), se dit de quelqu'un qui est tout en apparence. &quot; Si t'es pas contint, tourne et' cul au vint, t'aras d' l'air ! &quot; = si tu n'es pas content, c'est la même chose ! &quot; Bon vint ! L' palle au drère (la paille au cul) et l' feu d'deins ! &quot; (RD) : formule énergique pour renvoyer quelqu'un. &quot; I va toudi abatt' el vint avant l' puèfe ! &quot; (RD) = il va toujours tout abattre (mais ne fait rien).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">vent. Vint d' bise : vent du Nord. Vint des Ardennes (GD) : vent d'Est. L' vint i 't in bise (au Nord), l' vint i 't in France (à l'ouest) (GLec). </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; L' vint il est sûr &quot; (AH) : le vent est au Nord-Ouest. Ch'est du grand vint et rien d'dins </ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VINTEL(LE) ou VENTEL(LE)</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere> ou f. : vanne d'écluse. (Les routoirs à eau courante en étaient munis, GD - qui donne ce mot au masc). ANC. : ventele, s. m. et f. : écluse, vanne ; en plein ventele : toutes écluses ouvertes (XIIIe). (Voir : ventillet).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1"> ou f. : vanne d'écluse. (Les routoirs à eau courante en étaient munis, GD - qui donne ce mot au masc). </df></DéfinitionFrançaise><Exemples></Exemples><Ancien>ANC. : ventele, s. m. et f. : écluse, vanne ; en plein ventele : toutes écluses ouvertes (XIIIe). (Voir : ventillet).</Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VINT(R)E</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>ventre. J'ai mau à m' vinte : j'ai mal au ventre. &quot; S' vintre i colle à s' dos ! L' pauvr' Cafougnette a eun' faim d' diape ! &quot; (JM). (Voir : panche).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">ventre. J'ai mau à m' vinte : j'ai mal au ventre. </df><df id="2">Voir : panche).</df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; S' vintre i colle à s' dos ! L' pauvr' Cafougnette a eun' faim d' diape ! &quot; (JM). (</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>* VIOLE</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>piano mécanique. &quot; Un air qu'i-a intindu à l' viole, el piano mécanique du cabaret del Broque &quot; (PP). (Voir : tardiole, berline).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">piano mécanique. </df><df id="2">Voir : tardiole, berline).</df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Un air qu'i-a intindu à l' viole, el piano mécanique du cabaret del Broque &quot; (PP). (</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VIOLON</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>&quot; Ch'est comme si on soufflot dins un violon pou li donner du son &quot; (dicton rapporté par FP) = c'est une démarche inutile.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">c'est une démarche inutile.</df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Ch'est comme si on soufflot dins un violon pou li donner du son &quot; (dicton rapporté par FP) = </ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VIR</Vocable>
-        <CatégorieGrammaticale>v.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>(voir : gram., conjug.). Vir voloniiers : avoir de l'estime, de l'affection. &quot; Ch'ti qué j'vos cor el pus volontiers, ch'est l'pétit dernier &quot; (JD). Va vir cha ! ou va t'in vir cha ! = tu te rends compte ! &quot; La rue Deromby que je confondais, va vir cha !, avec el rue Désiré Gernez ! &quot; (EM). D'aller vir : fréquenter (sentimentalement). &quot; J' démande à ses parints / Pou pouvoir d'aller l' vire &quot; (JM). &quot; Comme ej' t'ai vu, comme ej' té vos ! &quot; = je t'ai connu prospère, je te retrouve misérable ou malade. I n' d'</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">(voir : gram., conjug.). Vir voloniiers : avoir de l'estime, de l'affection. </df><df id="2">Va vir cha ! ou va t'in vir cha ! = tu te rends compte ! </df><df id="3">D'aller vir : fréquenter (sentimentalement). </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Ch'ti qué j'vos cor el pus volontiers, ch'est l'pétit dernier &quot; (JD). </ExemplePicard><ExemplePicard id="2">&quot; La rue Deromby que je confondais, va vir cha !, avec el rue Désiré Gernez ! &quot; (EM). </ExemplePicard><ExemplePicard id="3">&quot; J' démande à ses parints / Pou pouvoir d'aller l' vire &quot; (JM). </ExemplePicard><ExemplePicard id="4">&quot; Comme ej' t'ai vu, comme ej' té vos ! &quot; = je t'ai connu prospère, je te retrouve misérable ou malade. I n' d'</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VIRLER (GH)</Vocable>
-        <CatégorieGrammaticale>v.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>rouler, tourner. (Le pic. du Sud Amiénois donne : viroler et varouler : voltiger, tourbillonner - Louis Seurvat).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">rouler, tourner. (Le pic. du Sud Amiénois donne : viroler et varouler : voltiger, tourbillonner - Louis Seurvat).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Virolet (FP) </Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>: jouet d'enfant, moulin formé de </DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">: jouet d'enfant, moulin formé de </df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Viroulé</Vocable>
-        <CatégorieGrammaticale>adj.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>tourné. En hélice, en colimaçon (GH). &quot; Bossu et bancroche, il paraissait si drôlement viroulé qu'on ne pouvait le regarder sans rire &quot; (CD).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">tourné. En hélice, en colimaçon (GH). </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Bossu et bancroche, il paraissait si drôlement viroulé qu'on ne pouvait le regarder sans rire &quot; (CD).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Viroulette (GLec)</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>fruit de la pomme de terre. Est-ce parce qu'on la fait virouler, du bout d'un bâton ? (Voir : ballote, bisou).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">fruit de la pomme de terre. Est-ce parce qu'on la fait virouler, du bout d'un bâton ? (Voir : ballote, bisou).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VISE</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>ruse, habileté. T'as core belle vise ! (iron.) = tu t'y prends bien ! (tu es bien maladroit). (Voir : avisses). ANC. : vise, adj. : rusé, habile (Benoît de Ste Maure, 1160). &quot; La dame fut sage et viseuse &quot; (avisée) (Chrétien de Troyes). Orig. germ. : cf. all. weise, néerl. wifs, angl. wise.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">ruse, habileté. T'as core belle vise ! (iron.) = tu t'y prends bien ! (tu es bien maladroit). (Voir : avisses). </df></DéfinitionFrançaise><Exemples></Exemples><Ancien>ANC. : vise, adj. : rusé, habile (Benoît de Ste Maure, 1160). &quot; La dame fut sage et viseuse &quot; (avisée) (Chrétien de Troyes). Orig. germ. : cf. all. weise, néerl. wifs, angl. wise.</Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>* VISER</Vocable>
-        <CatégorieGrammaticale>v.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>y regarder de près, être quelque peu avare. S'emploie surtout nég. : I n'y vise pas = il est prodigue, ou généreux. (Voir : raviser). ANC. : viser, regarder attentivement, du lat. visare, intensif de videre.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">y regarder de près, être quelque peu avare. S'emploie surtout nég. : I n'y vise pas = il est prodigue, ou généreux. (Voir : raviser). </df></DéfinitionFrançaise><Exemples></Exemples><Ancien>ANC. : viser, regarder attentivement, du lat. visare, intensif de videre.</Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VISEUX </Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>: (voir : wiseux).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">: (voir : wiseux).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VISIN</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>, VISIN.NE (ou VISENNE), s. f. : voisin, voisine. &quot; S'n ancienn' visenne, / L' rouss' Pélagi' du Carreau d' Bos &quot; (JM). Aller au visin : aller chez le voisin. ANC. : lat. pop. vécinus du lat. clas. vicinus, m. sens ; vicus : hameau, village.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">, VISIN.NE (ou VISENNE), s. f. : voisin, voisine. </df><df id="2">Aller au visin : aller chez le voisin. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; S'n ancienn' visenne, / L' rouss' Pélagi' du Carreau d' Bos &quot; (JM). </ExemplePicard></Exemples><Ancien>ANC. : lat. pop. vécinus du lat. clas. vicinus, m. sens ; vicus : hameau, village.</Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VITE</Vocable>
-        <CatégorieGrammaticale>adv.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>&quot; Alors, el biau temps i-arvient ? - Faut l' dire vite ! - j'ai peur que ça ne dure pas !</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VIT(E)LOT</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>morceau de pâte cylindrique que l'on fait cuire dans du lait (AH donne viclot : attraction, peut-être, de vicquelot, nom des habitants de Vicq d'où AH est originaire) (Voir : couille). Pour EM, rouleau de pâte servant à faire les auflettes. &quot; Mon père se mettait en devoir d'allonger les vitelots de pâte entre ses larges mains... Les Anzinois appelaient ces vitelots des &quot; bit'lots &quot;. Va savoir pourquoi ! &quot; ANC. : vitelot semble d'usage général dans le sens de pâtisserie longue et mince (BW, 1680). Flutre donne des att. plus anciennes (vitto, S., 1648). Le mot semble bien un mot pic. passé en fr. ; comme plus tard : vitelotte ou souris : pomme de terre allongée. Vitelot et le bitelot d'EM viennent respectivement, par anal. de forme, de vit (1260) et bite (</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">morceau de pâte cylindrique que l'on fait cuire dans du lait (AH donne viclot : attraction, peut-être, de vicquelot, nom des habitants de Vicq d'où AH est originaire) (Voir : couille). Pour EM, rouleau de pâte servant à faire les auflettes. </df><df id="2">bit'lots </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Mon père se mettait en devoir d'allonger les vitelots de pâte entre ses larges mains... Les Anzinois appelaient ces vitelots des &quot; </ExemplePicard></Exemples><Ancien>ANC. : vitelot semble d'usage général dans le sens de pâtisserie longue et mince (BW, 1680). Flutre donne des att. plus anciennes (vitto, S., 1648). Le mot semble bien un mot pic. passé en fr. ; comme plus tard : vitelotte ou souris : pomme de terre allongée. Vitelot et le bitelot d'EM viennent respectivement, par anal. de forme, de vit (1260) et bite (</Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VIVAGE</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>manière de vivre. &quot; Ch'est des geins d' la ville. I n'ont point l' même vivage qué nous &quot; (RD).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">manière de vivre. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Ch'est des geins d' la ville. I n'ont point l' même vivage qué nous &quot; (RD).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>V'LA</Vocable>
-        <CatégorieGrammaticale>prép.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>voilà. Les v'za ! Les ev'là !</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">voilà. Les v'za ! Les ev'là !</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VLIMEUX (GH)</Vocable>
-        <CatégorieGrammaticale>adj.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>venimeux, malsain. ANC. : BW signale une forme velin pour venin, subsistant jusqu'au XVIIe. &quot; Plus enflée qu'un vlimeux escarbot &quot; (Villon, XVe).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">venimeux, malsain. </df></DéfinitionFrançaise><Exemples></Exemples><Ancien>ANC. : BW signale une forme velin pour venin, subsistant jusqu'au XVIIe. &quot; Plus enflée qu'un vlimeux escarbot &quot; (Villon, XVe).</Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VO</Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>VOU, adj. pos. : votre, &quot; Vo première fimme, ed quoi qu' ch'est qu'alle est morte ? &quot; (GT). Est-ce qué ç' grand bâtimint-là y bougera, à vou mot' ? &quot; (JQ).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">VOU, adj. pos. : votre, </df><df id="2">Est-ce qué ç' grand bâtimint-là y bougera, à vou mot' ? </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Vo première fimme, ed quoi qu' ch'est qu'alle est morte ? &quot; (GT). </ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VOÉE </Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>: (voir : voie).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">: (voir : voie).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VOÏAGE</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>voyage. &quot; Bon voïache, mauvais qu'min ! / Bon appétit, pas d' pain ! &quot; (GH) souhait ironique.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">voyage. </df><df id="2">souhait ironique.</df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Bon voïache, mauvais qu'min ! / Bon appétit, pas d' pain ! &quot; (GH) </ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VOÏANDISE (AH)</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere> jeu du bâtonnet. (Voir : taillette).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1"> jeu du bâtonnet. (Voir : taillette).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>* VOIE</Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>VOÉ, VOUÉE, s. f. : à côté du sens gén. fr. (voir : avoïer, attarge), le mot a ici d'autres emplois. </DéfinitionEntiere><DéfinitionEntiere>1 - sentier. &quot; A Auno, el Voée des Dix alle va dé l' rue del Chapelle au Quartier Populaire &quot;. (Voir : piéchinte). </DéfinitionEntiere><DéfinitionEntiere>2 - voée d' quévaux : galerie de roulage (mines). &quot; J' m'étonnos, dins l' voée d' quévaux, / Dé n' point être à pieds décaux &quot; (JM). </DéfinitionEntiere><DéfinitionEntiere>3 - largeur d'herbe embrassée par chaque mouvement de la faux (GD). &quot; Vous êtes toudi ein voués et ein vouélettes : queul osiau migrateur qué vous faites ! &quot; (RD).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">VOÉ, VOUÉE, s. f. : à côté du sens gén. fr. (voir : avoïer, attarge), le mot a ici d'autres emplois. </df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien><DéfinitionFrançaise><df id="1">1 - sentier. </df><df id="2">Voir : piéchinte). </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; A Auno, el Voée des Dix alle va dé l' rue del Chapelle au Quartier Populaire &quot;. (</ExemplePicard></Exemples><Ancien></Ancien><DéfinitionFrançaise><df id="1">2 - voée d' quévaux : galerie de roulage (mines). </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; J' m'étonnos, dins l' voée d' quévaux, / Dé n' point être à pieds décaux &quot; (JM). </ExemplePicard></Exemples><Ancien></Ancien><DéfinitionFrançaise><df id="1">3 - largeur d'herbe embrassée par chaque mouvement de la faux (GD). </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Vous êtes toudi ein voués et ein vouélettes : queul osiau migrateur qué vous faites ! &quot; (RD).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Voïette</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>sentier. &quot; In s'in rallot pa les voïettes &quot; (JD). ANC. : voiete : petite voie, sentier (Girart d'Amiens, 1260).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">sentier. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; In s'in rallot pa les voïettes &quot; (JD). </ExemplePicard></Exemples><Ancien>ANC. : voiete : petite voie, sentier (Girart d'Amiens, 1260).</Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VOIRE</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>verre à boire (forme disparue). ANC. : voire (Roman de la Rose, J. de Meung, 1277). &quot; Buvez puto un voir' dé vin &quot; (Fl, F, XVIIe).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">verre à boire (forme disparue). </df></DéfinitionFrançaise><Exemples></Exemples><Ancien>ANC. : voire (Roman de la Rose, J. de Meung, 1277). &quot; Buvez puto un voir' dé vin &quot; (Fl, F, XVIIe).</Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VOIX</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>Expr. (iron.) notées par GH : &quot; Il a eune belle voix pour écrire et eune belle main pou canter &quot; = il chante mal, n'écrit pas mieux; &quot; Il a l' voix organisée comme el cul d'un baudet &quot; = il a une vilaine voix. &quot; Il a eune voix pou porter l' diale in tierre &quot; ou &quot; Il a eune voix d' diale inrheumé &quot; = il a une voix rauque. &quot; Il a l' voix organisée comme el cor dé chasse d'un apothicaire &quot; = il a une voix grêle et fausse.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">Expr. (iron.) notées par GH : </df><df id="2">ou </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Il a eune belle voix pour écrire et eune belle main pou canter &quot; = il chante mal, n'écrit pas mieux; </ExemplePicard><ExemplePicard id="2">&quot; Il a l' voix organisée comme el cul d'un baudet &quot; = il a une vilaine voix. </ExemplePicard><ExemplePicard id="3">&quot; Il a eune voix pou porter l' diale in tierre &quot; </ExemplePicard><ExemplePicard id="4">&quot; Il a eune voix d' diale inrheumé &quot; = il a une voix rauque. </ExemplePicard><ExemplePicard id="5">&quot; Il a l' voix organisée comme el cor dé chasse d'un apothicaire &quot; = il a une voix grêle et fausse.</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VOLANDRÊ (LH)</Vocable>
-        <CatégorieGrammaticale>adj.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>gauchi. Planque volandrée.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">gauchi. Planque volandrée.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>* VOLER (GH)</Vocable>
-        <CatégorieGrammaticale>v.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>n'être pas d'aplomb (pour un mur). A rapprocher du précédent, c'est le fr. voiler (roue voilée).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">n'être pas d'aplomb (pour un mur). A rapprocher du précédent, c'est le fr. voiler (roue voilée).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VOLETTE</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>claie à mettre les fruits (GH). Plateau en fil de fer pour poser les tartes (LH). ANC. : à rattacher à voler dont est venu volet, dont l'un des sens est : tamis, tablette sur laquelle on triait les fruits ou d'autres petits objets (1542). On trouve volette au XVe.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">claie à mettre les fruits (GH). Plateau en fil de fer pour poser les tartes (LH). </df></DéfinitionFrançaise><Exemples></Exemples><Ancien>ANC. : à rattacher à voler dont est venu volet, dont l'un des sens est : tamis, tablette sur laquelle on triait les fruits ou d'autres petits objets (1542). On trouve volette au XVe.</Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VOLEUR</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>&quot; Voleur volé, l' Bon Dieu n' fait qu'in rire &quot; (Prov. rapporté</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">Prov. rapporté</df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Voleur volé, l' Bon Dieu n' fait qu'in rire &quot; (</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VOLOIR</Vocable>
-        <CatégorieGrammaticale>v.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>vouloir (voir : gram., conjug.). Quand vous vorez ! : quand vous voudrez ! (invitation à faire une visite). &quot; J' veuros qu' vous l' connaiss'rotte ! &quot; (JM) = je voudrais que vous le connaissiez (= il ne vaut pas cher !). &quot; I vorott'nt dév'nir su l' mêm' jour / Comm' des nonett's qu'in sort' du four ! &quot; (JM) = il s'agit des estivants des plages. &quot; Ch'est un veux-jé n' peux &quot; = il veut vivre au-dessus de ses moyens. &quot; Ch'est du veux-jé n'peux &quot; = c'est du &quot; bricolage &quot;, un travail fait sans les moyens nécessaires. &quot; Vos êtes ein' bell' tiote fille ; vos volez bin qué j'vous veuche ? (Jules Auguste, Denain) : formule habituelle pour un jeune homme qui souhaitait fréquenter une jeune fille.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">vouloir (voir : gram., conjug.). Quand vous vorez ! : quand vous voudrez ! (invitation à faire une visite). </df><df id="2">un travail fait sans les moyens nécessaires. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; J' veuros qu' vous l' connaiss'rotte ! &quot; (JM) = je voudrais que vous le connaissiez (= il ne vaut pas cher !). </ExemplePicard><ExemplePicard id="2">&quot; I vorott'nt dév'nir su l' mêm' jour / Comm' des nonett's qu'in sort' du four ! &quot; (JM) = il s'agit des estivants des plages. </ExemplePicard><ExemplePicard id="3">&quot; Ch'est un veux-jé n' peux &quot; = il veut vivre au-dessus de ses moyens. </ExemplePicard><ExemplePicard id="4">&quot; Ch'est du veux-jé n'peux &quot; = c'est du </ExemplePicard><ExemplePicard id="5">&quot; bricolage &quot;, </ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VONIGOUTTE </Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>: (voir : vinigoutte).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">: (voir : vinigoutte).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VOS</Vocable>
-        <CatégorieGrammaticale>pr. pers. suj.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>vous. &quot; Vos porez s'in fair' eun' idée comm' vos sarez &quot; (JQ).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">vous. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Vos porez s'in fair' eun' idée comm' vos sarez &quot; (JQ).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VOTAGE</Vocable>
-        <CatégorieGrammaticale>s. m.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>vote, élection, scrutin. &quot; Quoi ? l' femm' dévrot él'ver d'z infants / Et all' n' s'rot point bonn' pour l' votache? &quot; (JM).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">vote, élection, scrutin. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Quoi ? l' femm' dévrot él'ver d'z infants / Et all' n' s'rot point bonn' pour l' votache? &quot; (JM).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VOU </Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>: (voir : vo).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">: (voir : vo).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VOUÉE </Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>: (voir : voée).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">: (voir : voée).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VOUS-IN ! </Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>: ellipse pour allez-vous-in ! &quot; Vous, femm', vous-in à vos mioches ! &quot; (JM). Vous-in vir ! = voyez donc !</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">: ellipse pour allez-vous-in ! </df><df id="2">Vous-in vir ! = voyez donc !</df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Vous, femm', vous-in à vos mioches ! &quot; (JM). </ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VOUSSE</Vocable>
-        <CatégorieGrammaticale>s. f.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>voûte. &quot; Dins tous les pièches, y-a des belles vousses comme dins l' temps &quot; (PP).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">voûte. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Dins tous les pièches, y-a des belles vousses comme dins l' temps &quot; (PP).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>Voussé</Vocable>
-        <CatégorieGrammaticale>adj.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>voûté. &quot; I s'in va là tout voussé, à bas dos &quot;. ANC. : voussure (1150) du lat. pop. volsus, part. pas. : tourné, enroulé. &quot; En une roche fut cavee / ... / Dedens fu vossee e ben faite &quot; (La Folie Tristan, XIIIe).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">voûté. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; I s'in va là tout voussé, à bas dos &quot;. </ExemplePicard></Exemples><Ancien>ANC. : voussure (1150) du lat. pop. volsus, part. pas. : tourné, enroulé. &quot; En une roche fut cavee / ... / Dedens fu vossee e ben faite &quot; (La Folie Tristan, XIIIe).</Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VRAI</Vocable>
-        <CatégorieGrammaticale>adj.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>&quot; Si ch'est vrai, j' l'irai dire à Rome &quot; = j'ai du mal à le croire. (Voir : St Pierre).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VUIDIER </Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>: (voir : widier).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">: (voir : widier).</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>VUTE. s. m. et adj. </Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>: vide. &quot; Rimblay' les vutes, / Voies et cahutes &quot; (JM). &quot; Les berlin's plein's, les berlin's vutes &quot; (JM). A vute : vide. &quot; Panche à vute et la gale aux dints &quot; (JM) : affamé. &quot; Fallot l' vir tailler dins les tich's (de séu) à vute (= évidées) / Des chifflots comme in n'in fait pus &quot; (PM).</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">: vide. </df><df id="2">A vute : vide. </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Rimblay' les vutes, / Voies et cahutes &quot; (JM). </ExemplePicard><ExemplePicard id="2">&quot; Les berlin's plein's, les berlin's vutes &quot; (JM). </ExemplePicard><ExemplePicard id="3">&quot; Panche à vute et la gale aux dints &quot; (JM) : affamé. </ExemplePicard><ExemplePicard id="4">&quot; Fallot l' vir tailler dins les tich's (de séu) à vute (= évidées) / Des chifflots comme in n'in fait pus &quot; (PM).</ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée>
-        </Nomenclature>
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+  <entry>
+    <form>
+      <orth>Val. après</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim"></def>
+  </entry>
+  <entry>
+    <form>
+      <orth>VACABOND</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        vagabond, mais aussi, vaurien. &quot; Il a l'air brave comme cha, mais deins l' fond, ch'est un vacabond &quot; (RD). &quot; Va-t-in, vacabond, j'iros brissauder du bon pain d' huit jours &quot; (PP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>vagabond, mais aussi, vaurien. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Il a l'air brave comme cha, mais deins l' fond, ch'est un vacabond &quot; (RD).
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Va-t-in, vacabond, j'iros brissauder du bon pain d' huit jours &quot; (PP).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VACCINAGE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        vaccination. &quot; J' trouv' qué ch'est d' l'infantillage, / L' vaccinag', tout l' saint-frusquin &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>vaccination. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; J' trouv' qué ch'est d' l'infantillage, / L' vaccinag', tout l' saint-frusquin &quot; (JM).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VACLETTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>équivalent lillois du couvet.</quote>
+    </def>
+    <def label="française">
+      <quote>équivalent lillois du couvet.</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VAGANCES</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f. pl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        vacances. &quot; Les vagances, ch'est esquintant &quot; (RD). &quot; L' dadale, à ch't'heure, ch'est les vagances &quot; (PP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>vacances. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; Les vagances, ch'est esquintant &quot; (RD). </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; L' dadale, à ch't'heure, ch'est les vagances &quot; (PP).</quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VALINCIENNOS</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        Valenciennois. &quot; Tous l'z artist's qu'in connot, ch'est des Valinciennos &quot; (GT).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>Valenciennois. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Tous l'z artist's qu'in connot, ch'est des Valinciennos &quot; (GT).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VALLONNE (GL)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        val, vallon. Courir les caimps et les vallonnes : aller par monts et par vaux.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        val, vallon. Courir les caimps et les vallonnes : aller par monts et par vaux.
+      </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VANTARD(E)RIE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        vantardise. &quot; Probap' qué ch'étot cor par esprit d' vantard'rie &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>vantardise. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Probap' qué ch'étot cor par esprit d' vantard'rie &quot; (JM).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VAQUE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        vache. Vaque beutor : vache ayant des allures de mâle. Vaque d'Hollande (GH) : femme très grasse. &quot; T'as tout l'allure d'ein' vaque qui n'a pus l' forche ed braire &quot; (EM). &quot; Vaque qu'alle broque perd es gueulée &quot; : en fr., brebis qui bêle perd sa gueulée (voir : abeyer). &quot; Les vaques aront cor bésoin d' leux queues &quot; (GH) dit-on à un ingrat. &quot; A Rombies, les vaques alles ont des gros pis &quot; (GLec), disent les Onnaingeois à qui exagère en parlant (= va conter ça à d'autres). L' vaque à Navarre : dépôt de genièvre, à la Capelette, Condé, au siècle dernier. &quot; Queu plaisir dé boire / Du p'tit lait del vaque à Navarre &quot; (AD) = du genièvre. (Voir : pleuvoir). ANC. : lat. vacca ; vaque (Le Jeu St Nicolas, Jean Bodel, 1210).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        vache. Vaque beutor : vache ayant des allures de mâle. Vaque d'Hollande (GH) : femme très grasse.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        disent les Onnaingeois à qui exagère en parlant (= va conter ça à d'autres). L' vaque à Navarre : dépôt de genièvre, à la Capelette, Condé, au siècle dernier.
+      </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; T'as tout l'allure d'ein' vaque qui n'a pus l' forche ed braire &quot; (EM).
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Vaque qu'alle broque perd es gueulée &quot; : en fr., brebis qui bêle perd sa gueulée (voir : abeyer).
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Les vaques aront cor bésoin d' leux queues &quot; (GH) dit-on à un ingrat.
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; A Rombies, les vaques alles ont des gros pis &quot; (GLec),
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Queu plaisir dé boire / Du p'tit lait del vaque à Navarre &quot; (AD) = du genièvre. (Voir : pleuvoir).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : lat. vacca ; vaque (Le Jeu St Nicolas, Jean Bodel, 1210).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Vaquer ou vaquier</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>vacher.</quote>
+    </def>
+    <def label="française">
+      <quote>vacher.</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VAQU(E)LER</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>(GD), v. : se promener (péj.).</quote>
+    </def>
+    <def label="française">
+      <quote>(GD), v. : se promener (péj.).</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VARLET</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        valet de ferme, palefrenier. &quot; L' ceinsière avot, au p'tit varlet, / Taillé ... enne assez gross' tartine &quot; (PB). Patronyme. ANC. : varlet : enfant mâle, jeune homme, apprenti, domestique (XIIe). &quot; Li dui varlets molt l'en mercïent &quot; (Roman du Comte d'Anjou, Jehan Maillart, 1316).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>valet de ferme, palefrenier. </quote>
+    </def>
+    <def label="française">
+      <quote>Patronyme. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; L' ceinsière avot, au p'tit varlet, / Taillé ... enne assez gross' tartine &quot; (PB).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : varlet : enfant mâle, jeune homme, apprenti, domestique (XIIe). &quot; Li dui varlets molt l'en mercïent &quot; (Roman du Comte d'Anjou, Jehan Maillart, 1316).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Varloter</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>travailler un peu, par ci par là.</quote>
+    </def>
+    <def label="française">
+      <quote>travailler un peu, par ci par là.</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VASSIAU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - récipient ; vaisselle. &quot; Ein a soupé léger : enne paire ed gâteaux deins deux tros vassiaux d' thé &quot; (c'est en Angleterre !) (RD).
+      </quote>
+      <quote>
+        2 - mesure pour les grains valant 25 litres. &quot; Tu me rapporteras sept vassiaux et une pinte de blé de semence &quot; (CD). ANC. : vaissel, vase, récipient (Wace, 1155) du lat. pop. vascellum).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - récipient ; vaisselle. </quote>
+    </def>
+    <def label="française">
+      <quote>RD). </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Ein a soupé léger : enne paire ed gâteaux deins deux tros vassiaux d' thé &quot; (c'est en Angleterre !) (
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : vaissel, vase, récipient (Wace, 1155) du lat. pop. vascellum).
+      </quote>
+    </etym>
+    <def label="française">
+      <quote>2 - mesure pour les grains valant 25 litres. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Tu me rapporteras sept vassiaux et une pinte de blé de semence &quot; (CD).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : vaissel, vase, récipient (Wace, 1155) du lat. pop. vascellum).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VAULOIR</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        valoir. &quot; Des pièches... / Vautent quéqu' fos leu pésant d'or &quot; (JM). Comparaisons : I n' vaut pas les quat' fiers d'un tchien, les quat' fiers d'un pindu, l' pain qu'i minge, eune pipe ed toubac, eune baffe, eune coule, s' cul plein d'iaut l' démotié d' Paris (GH).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>valoir. </quote>
+    </def>
+    <def label="française">
+      <quote>
+        Comparaisons : I n' vaut pas les quat' fiers d'un tchien, les quat' fiers d'un pindu, l' pain qu'i minge, eune pipe ed toubac, eune baffe, eune coule, s' cul plein d'iaut l' démotié d' Paris (GH).
+      </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Des pièches... / Vautent quéqu' fos leu pésant d'or &quot; (JM).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VAUTO</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>vautoir, peigne de métier à tisser.</quote>
+    </def>
+    <def label="française">
+      <quote>vautoir, peigne de métier à tisser.</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VA-VITE (AH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>binette à démarier les betteraves.</quote>
+    </def>
+    <def label="française">
+      <quote>binette à démarier les betteraves.</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>* VEILLEUSE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        verre de genièvre. &quot; Nous avons eu soin d'envaler chacun eun'
+      </quote>
+    </def>
+    <def label="française">
+      <quote>verre de genièvre. </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VÉLOT ou VÉLEAU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        veau qui vient de naître. ANC. : veelet : jeune veau (Chanson, XIIIe), de veel : veau (Psautier de Cambridge, XIIe), du lat. vitellum.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>veau qui vient de naître. </quote>
+    </def>
+    <etym>
+      <quote>
+        ANC. : veelet : jeune veau (Chanson, XIIIe), de veel : veau (Psautier de Cambridge, XIIe), du lat. vitellum.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VÉNIAU (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>noue, tuile creuse.</quote>
+    </def>
+    <def label="française">
+      <quote>noue, tuile creuse.</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VÉNIR</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        venir. (Voir : gram., conjug.). &quot; Pus i verra avant, pis qu' cha s'ra &quot; (RD) = les choses iront de mal en pis (Voir : pire). &quot; Un jour verra, heureus' quand même, / Duss qué t'artrouv'ras tin bonheur &quot; (EM). L' mos qui vient : le mois prochain. (Même tournure avec sémaine, année, hiver...)
+      </quote>
+    </def>
+    <def label="française">
+      <quote>venir. (Voir : gram., conjug.). </quote>
+    </def>
+    <def label="française">
+      <quote>
+        L' mos qui vient : le mois prochain. (Même tournure avec sémaine, année, hiver...)
+      </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Pus i verra avant, pis qu' cha s'ra &quot; (RD) = les choses iront de mal en pis (Voir : pire).
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Un jour verra, heureus' quand même, / Duss qué t'artrouv'ras tin bonheur &quot; (EM).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Vénure</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        venue, croissance. &quot; Comm' les feuill's sont d'eun' bell' vénure, / Es figure all' s'épanouit &quot; (JM). D'eun' vénure : brusquement, d'un seul coup, sans nuances. &quot; Alors, à l' marchant', l'un del clique, / D'eun' vénur' criot pou tertous &quot; (JM). Tout d'eune vénure : se dit d'une jambe sans galbe, d'une poitrine plate, d'épaules effacées, etc.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>venue, croissance. </quote>
+    </def>
+    <def label="française">
+      <quote>D'eun' vénure : brusquement, d'un seul coup, sans nuances. </quote>
+    </def>
+    <def label="française">
+      <quote>
+        Tout d'eune vénure : se dit d'une jambe sans galbe, d'une poitrine plate, d'épaules effacées, etc.
+      </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Comm' les feuill's sont d'eun' bell' vénure, / Es figure all' s'épanouit &quot; (JM).
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Alors, à l' marchant', l'un del clique, / D'eun' vénur' criot pou tertous &quot; (JM).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VENTEL</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (vir : vintel).</quote>
+    </def>
+    <def label="française">
+      <quote>: (vir : vintel).</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VENTILLET</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        châssis de fenêtre qui s'ouvre en levant (GH). ANC. : ventaile : volet (milieu XIIIe), ventail, sens divers (déb. XIVe), de vent. En fr., s'écrit vantail au XVIIIe, dans le sens de châssis de fenêtre.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>châssis de fenêtre qui s'ouvre en levant (GH). </quote>
+    </def>
+    <etym>
+      <quote>
+        ANC. : ventaile : volet (milieu XIIIe), ventail, sens divers (déb. XIVe), de vent. En fr., s'écrit vantail au XVIIIe, dans le sens de châssis de fenêtre.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VÉNURE</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : vénir).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : vénir).</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VERDÉLOT</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote> ; </quote>
+      <quote>
+        1 - verdelet, verdâtre. &quot; Enne sorte ed sale loripe toute verdélote. &quot; (RD).
+      </quote>
+      <quote>
+        2 - encore vigoureux, vert, malgré l'âge. &quot; I vaut mieux morir incor verdélot &quot; (GH).
+      </quote>
+    </def>
+    <def label="française">
+      <quote> ; </quote>
+    </def>
+    <etym></etym>
+    <def label="française">
+      <quote>1 - verdelet, verdâtre. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; Enne sorte ed sale loripe toute verdélote. &quot; (RD). </quote>
+    </cit>
+    <etym></etym>
+    <def label="française">
+      <quote>2 - encore vigoureux, vert, malgré l'âge. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; I vaut mieux morir incor verdélot &quot; (GH).</quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VERDI</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        vendredi. &quot; Tel verdi, tel diminche &quot;, ou, au contraire : &quot; Biau verdi, laid diminche &quot;. &quot; Ein a foc el bien qu'in s' donne. Pou tros quate verdis qu'ein a cor à vive &quot; (RD). On trouve vinderdi chez JQ. ANC. : &quot; les verdi et les semedis y mengent dé gros pichons &quot; (Fl, D
+      </quote>
+    </def>
+    <def label="française">
+      <quote>vendredi. </quote>
+    </def>
+    <def label="française">
+      <quote>ou, au contraire : </quote>
+    </def>
+    <def label="française">
+      <quote>On trouve vinderdi chez JQ. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; Tel verdi, tel diminche &quot;, </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; Biau verdi, laid diminche &quot;. </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Ein a foc el bien qu'in s' donne. Pou tros quate verdis qu'ein a cor à vive &quot; (RD).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : &quot; les verdi et les semedis y mengent dé gros pichons &quot; (Fl, D
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VERDISON (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        état des récoltes qui sont encore vertes. &quot; Vendre en verdison &quot; = vendre sur pied.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>état des récoltes qui sont encore vertes. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; Vendre en verdison &quot; = vendre sur pied.</quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VERGE</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>VERGEON, VERGUÉLETTE : (voir : vergue).</quote>
+    </def>
+    <def label="française">
+      <quote>VERGEON, VERGUÉLETTE : (voir : vergue).</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VÉRINER (S')</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        VERSINER (S'), VERTÉNER (S'), v. : se tordre, s'agiter pour se débarrasser de quelqu'un ou de quelque chose. &quot; Queu n'infant arpiant ! Comme i s' vérine ! &quot; Se dit d'un cheval qui essaie de se débarrasser de son collier en bougeant la tête de bas en haut (GD, qui donne le mot vériner). &quot; Tu versines sus t' kaïère comme ein vier qui arot archu ein coup d' loucher &quot; (RD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        VERSINER (S'), VERTÉNER (S'), v. : se tordre, s'agiter pour se débarrasser de quelqu'un ou de quelque chose.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        Se dit d'un cheval qui essaie de se débarrasser de son collier en bougeant la tête de bas en haut (GD, qui donne le mot vériner).
+      </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; Queu n'infant arpiant ! Comme i s' vérine ! &quot; </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Tu versines sus t' kaïère comme ein vier qui arot archu ein coup d' loucher &quot; (RD).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VERME (RD)</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        VERPIÉRE, VERPE (GD), VIERME (AH), s. f. : guêpe, &quot; Ein vignéron qui avot avalé enne verme, i-est mort atoffé enne démi-heure après &quot;. ANC. : le rouchi, sous diverses formes, a
+      </quote>
+    </def>
+    <def label="française">
+      <quote>VERPIÉRE, VERPE (GD), VIERME (AH), s. f. : guêpe, </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Ein vignéron qui avot avalé enne verme, i-est mort atoffé enne démi-heure après &quot;.
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : le rouchi, sous diverses formes, a</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VERQUE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        verge (baguette, tige de bois ou de fer). Quévau d' verque : sous-verge (= sous le fouet), cheval de droite dans un attelage à deux ; l'autre étant l' quévau d' main. Verque ou verge : ancienne mesure de longueur,
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        verge (baguette, tige de bois ou de fer). Quévau d' verque : sous-verge (= sous le fouet), cheval de droite dans un attelage à deux ; l'autre étant l' quévau d' main. Verque ou verge : ancienne mesure de longueur,
+      </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Vergeon</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        brin de balai (GH) ; gros bout du manche d'un fouet (GD) ; manche d'un fouet (GL).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        brin de balai (GH) ; gros bout du manche d'un fouet (GD) ; manche d'un fouet (GL).
+      </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Verguélette</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        petite verge, bâton blanc orné de pervenche que les confrères portaient à la procession (GH). (Voir : roïé).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        petite verge, bâton blanc orné de pervenche que les confrères portaient à la procession (GH). (Voir : roïé).
+      </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VERQUIN (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        petit verre (Vx). ANC. : le suff. est d'orig. néerl. : ken (diminutif).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>petit verre (Vx). </quote>
+    </def>
+    <etym>
+      <quote>ANC. : le suff. est d'orig. néerl. : ken (diminutif).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VERSINER</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>VERTÉNER : (voir : vériner).</quote>
+    </def>
+    <def label="française">
+      <quote>VERTÉNER : (voir : vériner).</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VERT-FRION</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - bruant (oiseau). &quot; Les verfrions, les fauvettes à noire tiette &quot; (AD).
+      </quote>
+      <quote>2 - jeune homme faraud (GH).</quote>
+    </def>
+    <def label="française">
+      <quote>1 - bruant (oiseau). </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; Les verfrions, les fauvettes à noire tiette &quot; (AD). </quote>
+    </cit>
+    <etym></etym>
+    <def label="française">
+      <quote>2 - jeune homme faraud (GH).</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VERTIAU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        vermisseau. &quot; Ming' les vertiaux qu' décafoure l' carrue &quot; (GF).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>vermisseau. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; Ming' les vertiaux qu' décafoure l' carrue &quot; (GF).</quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VERT-MONTANT</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>tarin (oiseau).</quote>
+    </def>
+    <def label="française">
+      <quote>tarin (oiseau).</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VERVÉLU (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>renvoi aigre ; acidité stomacale qui remonte dans la bouche.</quote>
+    </def>
+    <def label="française">
+      <quote>renvoi aigre ; acidité stomacale qui remonte dans la bouche.</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VERT-VESSOU (PB) ou VERVESSOU (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        personne pâle, souffreteuse. &quot; ... nous sommes... / Des pauf' bernioull', des vert-vessoux &quot;.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>personne pâle, souffreteuse. </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VERZIN (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>germe d'oeuf.</quote>
+    </def>
+    <def label="française">
+      <quote>germe d'oeuf.</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VERZOULEUX (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>alcoolique au visage bouffi.</quote>
+    </def>
+    <def label="française">
+      <quote>alcoolique au visage bouffi.</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VETTIER ou WETTIER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        regarder. &quot; Vett' qu'i dit l' lum'chon sans bile, / In s'artournant d' l'aut' côté &quot; (JM). &quot; Vet' un peu t' s'ros cor au fond, / T'aros tes ortels pleins d' carbon &quot; (PM). ANC. : la forme anc. est wettier = guetter, avec la mutation fréquente w-g. &quot; Wette, hé ! v'là justémen lavau / Des jonomm' té qui nous en faut &quot; (Fl, F, XVIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>regarder. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Vett' qu'i dit l' lum'chon sans bile, / In s'artournant d' l'aut' côté &quot; (JM).
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Vet' un peu t' s'ros cor au fond, / T'aros tes ortels pleins d' carbon &quot; (PM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : la forme anc. est wettier = guetter, avec la mutation fréquente w-g. &quot; Wette, hé ! v'là justémen lavau / Des jonomm' té qui nous en faut &quot; (Fl, F, XVIIe).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>* VEULE</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        meuble (en parlant d'une terre). ANC. : veule : volage, frivole, léger (XIIe). &quot; Celle ki le cuer a moult vuele &quot;.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>meuble (en parlant d'une terre). </quote>
+    </def>
+    <etym>
+      <quote>
+        ANC. : veule : volage, frivole, léger (XIIe). &quot; Celle ki le cuer a moult vuele &quot;.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VI</orth>
+    </form>
+    <gramGrp>
+      <pos>part. pas.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>vécu. &quot; Alle n'a foque vi pou ses infants &quot;.</quote>
+    </def>
+    <def label="française">
+      <quote>vécu. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; Alle n'a foque vi pou ses infants &quot;.</quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VIAU</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        1 - veau. &quot; Tant puss qu'on prie un viau, et tant moinss' qu'i veut boire &quot; (PB) = plus on le prie, plus il est réticent. &quot; Cha li va comme un cop d' poing su l' gueule d'un viau &quot; (GLec) = son vêtement ne lui va pas. &quot; Queu fourbi ! Eune vaque alle n'y r'trouverot pus s' viau ! (GLec). &quot; Té t' trompes, ch'est du viau, /
+      </quote>
+    </def>
+    <def label="française">
+      <quote>1 - veau. </quote>
+    </def>
+    <def label="française">
+      <quote>son vêtement ne lui va pas. </quote>
+    </def>
+    <def label="française">
+      <quote>Té t' trompes, ch'est du viau, /</quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Tant puss qu'on prie un viau, et tant moinss' qu'i veut boire &quot; (PB) = plus on le prie, plus il est réticent.
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Cha li va comme un cop d' poing su l' gueule d'un viau &quot; (GLec) =
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Queu fourbi ! Eune vaque alle n'y r'trouverot pus s' viau ! (GLec). &quot;
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Viau d' mars</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: </quote>
+      <quote>1 - giboulée de mars. </quote>
+      <quote>2 - enfant né en mars.</quote>
+    </def>
+    <def label="française">
+      <quote>: </quote>
+    </def>
+    <etym></etym>
+    <def label="française">
+      <quote>1 - giboulée de mars. </quote>
+    </def>
+    <etym></etym>
+    <def label="française">
+      <quote>2 - enfant né en mars.</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VIELLE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        avoir eine vielle = perdre une partie de balle sans prendre un seul jeu (sur les quinze de la rencontre). &quot; L' partie d'Anzin a bin manqué d'attraper eun' vielle &quot; (JQ).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        avoir eine vielle = perdre une partie de balle sans prendre un seul jeu (sur les quinze de la rencontre).
+      </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; L' partie d'Anzin a bin manqué d'attraper eun' vielle &quot; (JQ).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VIÉP(R)ES</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f. pl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>vêpres. &quot; Nous irons bien et biau à vieppe (Fl, F, XVIIe).</quote>
+    </def>
+    <def label="française">
+      <quote>vêpres. </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VIER</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>ver. Vier à queue : </quote>
+      <quote>
+        1 - larve de la mouque à bren qui grouillait dans les fosses d'aisance.
+      </quote>
+      <quote>2 - enfant chétif.</quote>
+    </def>
+    <def label="française">
+      <quote>ver. Vier à queue : </quote>
+    </def>
+    <etym></etym>
+    <def label="française">
+      <quote>
+        1 - larve de la mouque à bren qui grouillait dans les fosses d'aisance.
+      </quote>
+    </def>
+    <etym></etym>
+    <def label="française">
+      <quote>2 - enfant chétif.</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Viéreux</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        et adj. : qui a des vers (intestinaux) ; qui a le teint pâle et maladif. &quot; T'as l'air d'un viéreux avec ta mine de fromage blanc &quot; (FP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        et adj. : qui a des vers (intestinaux) ; qui a le teint pâle et maladif.
+      </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; T'as l'air d'un viéreux avec ta mine de fromage blanc &quot; (FP).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VIERGE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        à Val., la Vierge : Notre-Dame des Affligés, au Faubourg de Paris. &quot; Un p'tit cosse au d'sus d' l'écluse du Faubourg Paris, avant d'arriver à la Vierche &quot; (GT). Le titre de Notre-Dame est réservé à Noter-Dame du Saint-Cordon. (Voir : tour). Inter deux vierges (AH) : période entre l'Assomption et la Nativité.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        à Val., la Vierge : Notre-Dame des Affligés, au Faubourg de Paris.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        Le titre de Notre-Dame est réservé à Noter-Dame du Saint-Cordon. (Voir : tour). Inter deux vierges (AH) : période entre l'Assomption et la Nativité.
+      </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Un p'tit cosse au d'sus d' l'écluse du Faubourg Paris, avant d'arriver à la Vierche &quot; (GT).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VIEUX</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        &quot; Té véras (= deviendras) vieux, si in n' té pinds pas jone &quot; (GH), dit-on à ceux qui se moquent des vieillards. Un vieux jonne homme : un vieux célibataire. &quot; Y a bé des années qu'in l'a intierré à Tuchelle, mort vieux jonne homme &quot; (PP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        dit-on à ceux qui se moquent des vieillards. Un vieux jonne homme : un vieux célibataire.
+      </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Y a bé des années qu'in l'a intierré à Tuchelle, mort vieux jonne homme &quot; (PP).
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Té véras (= deviendras) vieux, si in n' té pinds pas jone &quot; (GH),
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Viés(e)ries</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f. pl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        vieilleries, haillons, objets sans valeur. &quot; In sort tous les viéz'ri's d' dins l' temps / Crinolin's et capiaux-montants &quot; (JM). &quot; On partait parfois jouer avec sur le dos des vieuseries sans nom &quot; (AS). ANC. : viéserie : vieillerie, friperie ; lieu où on les vend (1301). A Valenciennes, la rue de la Viéwarde (des marchands de vieilles hardes) s'appelait autrefois rue de la Viéserie (André Gauvin).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>vieilleries, haillons, objets sans valeur. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; In sort tous les viéz'ri's d' dins l' temps / Crinolin's et capiaux-montants &quot; (JM).
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; On partait parfois jouer avec sur le dos des vieuseries sans nom &quot; (AS).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : viéserie : vieillerie, friperie ; lieu où on les vend (1301). A Valenciennes, la rue de la Viéwarde (des marchands de vieilles hardes) s'appelait autrefois rue de la Viéserie (André Gauvin).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Vieusir</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        vieillir, &quot; Laîte, in vieusissant, n' pouvot pus dire eune parole sans répéter : T'as compris ? &quot; (PP). ANC. : viésir : vieillir (Wace, Roce, 1169).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>vieillir, </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Laîte, in vieusissant, n' pouvot pus dire eune parole sans répéter : T'as compris ? &quot; (PP).
+      </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : viésir : vieillir (Wace, Roce, 1169).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Vieuwardier ou vieswarier</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        marchand de vieilles hardes, fripier. (Voir : viéserie, ci-dessus). (Vx.) ANC. : viesvarier : marchand fripier (Archives de Tournai, 1263) ; viesvare (Archives de Valenciennes, 1348).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        marchand de vieilles hardes, fripier. (Voir : viéserie, ci-dessus). (Vx.)
+      </quote>
+    </def>
+    <etym>
+      <quote>
+        ANC. : viesvarier : marchand fripier (Archives de Tournai, 1263) ; viesvare (Archives de Valenciennes, 1348).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VIF</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        Vif comme un patar (lent), comme un qu'vau qui coeurt la posse ed'pus dix ans (fatigué).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        Vif comme un patar (lent), comme un qu'vau qui coeurt la posse ed'pus dix ans (fatigué).
+      </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VILETTE (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>violette. Vilette</quote>
+    </def>
+    <def label="française">
+      <quote>violette. Vilette</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VIN</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        &quot; C'est du vin d'apôt' tiré à l' corde &quot; = c'est du Château-Lapompe, de l'eau du puits.
+      </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VINAIQUE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>vinaigre. Au vinaique : (voir : huile).</quote>
+    </def>
+    <def label="française">
+      <quote>vinaigre. Au vinaique : (voir : huile).</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VIND(R)E</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        vendre. &quot; J' vinds et j'acate / Frip's et chavattes &quot; (GF).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>vendre. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; J' vinds et j'acate / Frip's et chavattes &quot; (GF).</quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Vindeux</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>vendeur.</quote>
+    </def>
+    <def label="française">
+      <quote>vendeur.</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Vindue (AH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>vente publique.</quote>
+    </def>
+    <def label="française">
+      <quote>vente publique.</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Vindure</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        lieu où l'on vend ; bureau de vente. &quot; Pou acater à l' vindure / Jé n' sus mie r'targé &quot; (JQ).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>lieu où l'on vend ; bureau de vente. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Pou acater à l' vindure / Jé n' sus mie r'targé &quot; (JQ).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VINGT</orth>
+    </form>
+    <gramGrp>
+      <pos>adj. num.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        élém. de plusieurs jurons : vingt noms ! vingt dieux ! vingt dious' !
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        élém. de plusieurs jurons : vingt noms ! vingt dieux ! vingt dious' !
+      </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VINIGOUTTE ou VONIGOUTTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        myope, qui n'y voit goutte. In vinigoutte (GL), loc. adv. : dans l'obscurité.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        myope, qui n'y voit goutte. In vinigoutte (GL), loc. adv. : dans l'obscurité.
+      </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VINQUE (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>pervenche. (Vinca pervinca).</quote>
+    </def>
+    <def label="française">
+      <quote>pervenche. (Vinca pervinca).</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VINT</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        vent. Vint d' bise : vent du Nord. Vint des Ardennes (GD) : vent d'Est. L' vint i 't in bise (au Nord), l' vint i 't in France (à l'ouest) (GLec). &quot; L' vint il est sûr &quot; (AH) : le vent est au Nord-Ouest. Ch'est du grand vint et rien d'dins &quot; (PP), se dit de quelqu'un qui est tout en apparence. &quot; Si t'es pas contint, tourne et' cul au vint, t'aras d' l'air ! &quot; = si tu n'es pas content, c'est la même chose ! &quot; Bon vint ! L' palle au drère (la paille au cul) et l' feu d'deins ! &quot; (RD) : formule énergique pour renvoyer quelqu'un. &quot; I va toudi abatt' el vint avant l' puèfe ! &quot; (RD) = il va toujours tout abattre (mais ne fait rien).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        vent. Vint d' bise : vent du Nord. Vint des Ardennes (GD) : vent d'Est. L' vint i 't in bise (au Nord), l' vint i 't in France (à l'ouest) (GLec).
+      </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; L' vint il est sûr &quot; (AH) : le vent est au Nord-Ouest. Ch'est du grand vint et rien d'dins
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VINTEL(LE) ou VENTEL(LE)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        ou f. : vanne d'écluse. (Les routoirs à eau courante en étaient munis, GD - qui donne ce mot au masc). ANC. : ventele, s. m. et f. : écluse, vanne ; en plein ventele : toutes écluses ouvertes (XIIIe). (Voir : ventillet).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        ou f. : vanne d'écluse. (Les routoirs à eau courante en étaient munis, GD - qui donne ce mot au masc).
+      </quote>
+    </def>
+    <etym>
+      <quote>
+        ANC. : ventele, s. m. et f. : écluse, vanne ; en plein ventele : toutes écluses ouvertes (XIIIe). (Voir : ventillet).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VINT(R)E</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        ventre. J'ai mau à m' vinte : j'ai mal au ventre. &quot; S' vintre i colle à s' dos ! L' pauvr' Cafougnette a eun' faim d' diape ! &quot; (JM). (Voir : panche).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>ventre. J'ai mau à m' vinte : j'ai mal au ventre. </quote>
+    </def>
+    <def label="française">
+      <quote>Voir : panche).</quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; S' vintre i colle à s' dos ! L' pauvr' Cafougnette a eun' faim d' diape ! &quot; (JM). (
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>* VIOLE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        piano mécanique. &quot; Un air qu'i-a intindu à l' viole, el piano mécanique du cabaret del Broque &quot; (PP). (Voir : tardiole, berline).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>piano mécanique. </quote>
+    </def>
+    <def label="française">
+      <quote>Voir : tardiole, berline).</quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Un air qu'i-a intindu à l' viole, el piano mécanique du cabaret del Broque &quot; (PP). (
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VIOLON</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        &quot; Ch'est comme si on soufflot dins un violon pou li donner du son &quot; (dicton rapporté par FP) = c'est une démarche inutile.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>c'est une démarche inutile.</quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Ch'est comme si on soufflot dins un violon pou li donner du son &quot; (dicton rapporté par FP) =
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VIR</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        (voir : gram., conjug.). Vir voloniiers : avoir de l'estime, de l'affection. &quot; Ch'ti qué j'vos cor el pus volontiers, ch'est l'pétit dernier &quot; (JD). Va vir cha ! ou va t'in vir cha ! = tu te rends compte ! &quot; La rue Deromby que je confondais, va vir cha !, avec el rue Désiré Gernez ! &quot; (EM). D'aller vir : fréquenter (sentimentalement). &quot; J' démande à ses parints / Pou pouvoir d'aller l' vire &quot; (JM). &quot; Comme ej' t'ai vu, comme ej' té vos ! &quot; = je t'ai connu prospère, je te retrouve misérable ou malade. I n' d'
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        (voir : gram., conjug.). Vir voloniiers : avoir de l'estime, de l'affection.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>Va vir cha ! ou va t'in vir cha ! = tu te rends compte ! </quote>
+    </def>
+    <def label="française">
+      <quote>D'aller vir : fréquenter (sentimentalement). </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Ch'ti qué j'vos cor el pus volontiers, ch'est l'pétit dernier &quot; (JD).
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; La rue Deromby que je confondais, va vir cha !, avec el rue Désiré Gernez ! &quot; (EM).
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; J' démande à ses parints / Pou pouvoir d'aller l' vire &quot; (JM).
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Comme ej' t'ai vu, comme ej' té vos ! &quot; = je t'ai connu prospère, je te retrouve misérable ou malade. I n' d'
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VIRLER (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        rouler, tourner. (Le pic. du Sud Amiénois donne : viroler et varouler : voltiger, tourbillonner - Louis Seurvat).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        rouler, tourner. (Le pic. du Sud Amiénois donne : viroler et varouler : voltiger, tourbillonner - Louis Seurvat).
+      </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Virolet (FP)</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: jouet d'enfant, moulin formé de </quote>
+    </def>
+    <def label="française">
+      <quote>: jouet d'enfant, moulin formé de </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Viroulé</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        tourné. En hélice, en colimaçon (GH). &quot; Bossu et bancroche, il paraissait si drôlement viroulé qu'on ne pouvait le regarder sans rire &quot; (CD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>tourné. En hélice, en colimaçon (GH). </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Bossu et bancroche, il paraissait si drôlement viroulé qu'on ne pouvait le regarder sans rire &quot; (CD).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Viroulette (GLec)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        fruit de la pomme de terre. Est-ce parce qu'on la fait virouler, du bout d'un bâton ? (Voir : ballote, bisou).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        fruit de la pomme de terre. Est-ce parce qu'on la fait virouler, du bout d'un bâton ? (Voir : ballote, bisou).
+      </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VISE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        ruse, habileté. T'as core belle vise ! (iron.) = tu t'y prends bien ! (tu es bien maladroit). (Voir : avisses). ANC. : vise, adj. : rusé, habile (Benoît de Ste Maure, 1160). &quot; La dame fut sage et viseuse &quot; (avisée) (Chrétien de Troyes). Orig. germ. : cf. all. weise, néerl. wifs, angl. wise.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        ruse, habileté. T'as core belle vise ! (iron.) = tu t'y prends bien ! (tu es bien maladroit). (Voir : avisses).
+      </quote>
+    </def>
+    <etym>
+      <quote>
+        ANC. : vise, adj. : rusé, habile (Benoît de Ste Maure, 1160). &quot; La dame fut sage et viseuse &quot; (avisée) (Chrétien de Troyes). Orig. germ. : cf. all. weise, néerl. wifs, angl. wise.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>* VISER</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        y regarder de près, être quelque peu avare. S'emploie surtout nég. : I n'y vise pas = il est prodigue, ou généreux. (Voir : raviser). ANC. : viser, regarder attentivement, du lat. visare, intensif de videre.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        y regarder de près, être quelque peu avare. S'emploie surtout nég. : I n'y vise pas = il est prodigue, ou généreux. (Voir : raviser).
+      </quote>
+    </def>
+    <etym>
+      <quote>
+        ANC. : viser, regarder attentivement, du lat. visare, intensif de videre.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VISEUX</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : wiseux).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : wiseux).</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VISIN</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        , VISIN.NE (ou VISENNE), s. f. : voisin, voisine. &quot; S'n ancienn' visenne, / L' rouss' Pélagi' du Carreau d' Bos &quot; (JM). Aller au visin : aller chez le voisin. ANC. : lat. pop. vécinus du lat. clas. vicinus, m. sens ; vicus : hameau, village.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>, VISIN.NE (ou VISENNE), s. f. : voisin, voisine. </quote>
+    </def>
+    <def label="française">
+      <quote>Aller au visin : aller chez le voisin. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; S'n ancienn' visenne, / L' rouss' Pélagi' du Carreau d' Bos &quot; (JM).
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : lat. pop. vécinus du lat. clas. vicinus, m. sens ; vicus : hameau, village.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VITE</orth>
+    </form>
+    <gramGrp>
+      <pos>adv.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        &quot; Alors, el biau temps i-arvient ? - Faut l' dire vite ! - j'ai peur que ça ne dure pas !
+      </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VIT(E)LOT</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        morceau de pâte cylindrique que l'on fait cuire dans du lait (AH donne viclot : attraction, peut-être, de vicquelot, nom des habitants de Vicq d'où AH est originaire) (Voir : couille). Pour EM, rouleau de pâte servant à faire les auflettes. &quot; Mon père se mettait en devoir d'allonger les vitelots de pâte entre ses larges mains... Les Anzinois appelaient ces vitelots des &quot; bit'lots &quot;. Va savoir pourquoi ! &quot; ANC. : vitelot semble d'usage général dans le sens de pâtisserie longue et mince (BW, 1680). Flutre donne des att. plus anciennes (vitto, S., 1648). Le mot semble bien un mot pic. passé en fr. ; comme plus tard : vitelotte ou souris : pomme de terre allongée. Vitelot et le bitelot d'EM viennent respectivement, par anal. de forme, de vit (1260) et bite (
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        morceau de pâte cylindrique que l'on fait cuire dans du lait (AH donne viclot : attraction, peut-être, de vicquelot, nom des habitants de Vicq d'où AH est originaire) (Voir : couille). Pour EM, rouleau de pâte servant à faire les auflettes.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>bit'lots </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Mon père se mettait en devoir d'allonger les vitelots de pâte entre ses larges mains... Les Anzinois appelaient ces vitelots des &quot;
+      </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : vitelot semble d'usage général dans le sens de pâtisserie longue et mince (BW, 1680). Flutre donne des att. plus anciennes (vitto, S., 1648). Le mot semble bien un mot pic. passé en fr. ; comme plus tard : vitelotte ou souris : pomme de terre allongée. Vitelot et le bitelot d'EM viennent respectivement, par anal. de forme, de vit (1260) et bite (
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VIVAGE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        manière de vivre. &quot; Ch'est des geins d' la ville. I n'ont point l' même vivage qué nous &quot; (RD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>manière de vivre. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Ch'est des geins d' la ville. I n'ont point l' même vivage qué nous &quot; (RD).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>V'LA</orth>
+    </form>
+    <gramGrp>
+      <pos>prép.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>voilà. Les v'za ! Les ev'là !</quote>
+    </def>
+    <def label="française">
+      <quote>voilà. Les v'za ! Les ev'là !</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VLIMEUX (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        venimeux, malsain. ANC. : BW signale une forme velin pour venin, subsistant jusqu'au XVIIe. &quot; Plus enflée qu'un vlimeux escarbot &quot; (Villon, XVe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>venimeux, malsain. </quote>
+    </def>
+    <etym>
+      <quote>
+        ANC. : BW signale une forme velin pour venin, subsistant jusqu'au XVIIe. &quot; Plus enflée qu'un vlimeux escarbot &quot; (Villon, XVe).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VO</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        VOU, adj. pos. : votre, &quot; Vo première fimme, ed quoi qu' ch'est qu'alle est morte ? &quot; (GT). Est-ce qué ç' grand bâtimint-là y bougera, à vou mot' ? &quot; (JQ).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>VOU, adj. pos. : votre, </quote>
+    </def>
+    <def label="française">
+      <quote>Est-ce qué ç' grand bâtimint-là y bougera, à vou mot' ? </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Vo première fimme, ed quoi qu' ch'est qu'alle est morte ? &quot; (GT).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VOÉE</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : voie).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : voie).</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VOÏAGE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        voyage. &quot; Bon voïache, mauvais qu'min ! / Bon appétit, pas d' pain ! &quot; (GH) souhait ironique.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>voyage. </quote>
+    </def>
+    <def label="française">
+      <quote>souhait ironique.</quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Bon voïache, mauvais qu'min ! / Bon appétit, pas d' pain ! &quot; (GH)
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VOÏANDISE (AH)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote> jeu du bâtonnet. (Voir : taillette).</quote>
+    </def>
+    <def label="française">
+      <quote> jeu du bâtonnet. (Voir : taillette).</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>* VOIE</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        VOÉ, VOUÉE, s. f. : à côté du sens gén. fr. (voir : avoïer, attarge), le mot a ici d'autres emplois.
+      </quote>
+      <quote>
+        1 - sentier. &quot; A Auno, el Voée des Dix alle va dé l' rue del Chapelle au Quartier Populaire &quot;. (Voir : piéchinte).
+      </quote>
+      <quote>
+        2 - voée d' quévaux : galerie de roulage (mines). &quot; J' m'étonnos, dins l' voée d' quévaux, / Dé n' point être à pieds décaux &quot; (JM).
+      </quote>
+      <quote>
+        3 - largeur d'herbe embrassée par chaque mouvement de la faux (GD). &quot; Vous êtes toudi ein voués et ein vouélettes : queul osiau migrateur qué vous faites ! &quot; (RD).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        VOÉ, VOUÉE, s. f. : à côté du sens gén. fr. (voir : avoïer, attarge), le mot a ici d'autres emplois.
+      </quote>
+    </def>
+    <etym></etym>
+    <def label="française">
+      <quote>1 - sentier. </quote>
+    </def>
+    <def label="française">
+      <quote>Voir : piéchinte). </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; A Auno, el Voée des Dix alle va dé l' rue del Chapelle au Quartier Populaire &quot;. (
+      </quote>
+    </cit>
+    <etym></etym>
+    <def label="française">
+      <quote>2 - voée d' quévaux : galerie de roulage (mines). </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; J' m'étonnos, dins l' voée d' quévaux, / Dé n' point être à pieds décaux &quot; (JM).
+      </quote>
+    </cit>
+    <etym></etym>
+    <def label="française">
+      <quote>
+        3 - largeur d'herbe embrassée par chaque mouvement de la faux (GD).
+      </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Vous êtes toudi ein voués et ein vouélettes : queul osiau migrateur qué vous faites ! &quot; (RD).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Voïette</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        sentier. &quot; In s'in rallot pa les voïettes &quot; (JD). ANC. : voiete : petite voie, sentier (Girart d'Amiens, 1260).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>sentier. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; In s'in rallot pa les voïettes &quot; (JD). </quote>
+    </cit>
+    <etym>
+      <quote>ANC. : voiete : petite voie, sentier (Girart d'Amiens, 1260).</quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VOIRE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        verre à boire (forme disparue). ANC. : voire (Roman de la Rose, J. de Meung, 1277). &quot; Buvez puto un voir' dé vin &quot; (Fl, F, XVIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>verre à boire (forme disparue). </quote>
+    </def>
+    <etym>
+      <quote>
+        ANC. : voire (Roman de la Rose, J. de Meung, 1277). &quot; Buvez puto un voir' dé vin &quot; (Fl, F, XVIIe).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VOIX</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        Expr. (iron.) notées par GH : &quot; Il a eune belle voix pour écrire et eune belle main pou canter &quot; = il chante mal, n'écrit pas mieux; &quot; Il a l' voix organisée comme el cul d'un baudet &quot; = il a une vilaine voix. &quot; Il a eune voix pou porter l' diale in tierre &quot; ou &quot; Il a eune voix d' diale inrheumé &quot; = il a une voix rauque. &quot; Il a l' voix organisée comme el cor dé chasse d'un apothicaire &quot; = il a une voix grêle et fausse.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>Expr. (iron.) notées par GH : </quote>
+    </def>
+    <def label="française">
+      <quote>ou </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Il a eune belle voix pour écrire et eune belle main pou canter &quot; = il chante mal, n'écrit pas mieux;
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Il a l' voix organisée comme el cul d'un baudet &quot; = il a une vilaine voix.
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; Il a eune voix pou porter l' diale in tierre &quot; </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Il a eune voix d' diale inrheumé &quot; = il a une voix rauque.
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Il a l' voix organisée comme el cor dé chasse d'un apothicaire &quot; = il a une voix grêle et fausse.
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VOLANDRÊ (LH)</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>gauchi. Planque volandrée.</quote>
+    </def>
+    <def label="française">
+      <quote>gauchi. Planque volandrée.</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>* VOLER (GH)</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        n'être pas d'aplomb (pour un mur). A rapprocher du précédent, c'est le fr. voiler (roue voilée).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        n'être pas d'aplomb (pour un mur). A rapprocher du précédent, c'est le fr. voiler (roue voilée).
+      </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VOLETTE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        claie à mettre les fruits (GH). Plateau en fil de fer pour poser les tartes (LH). ANC. : à rattacher à voler dont est venu volet, dont l'un des sens est : tamis, tablette sur laquelle on triait les fruits ou d'autres petits objets (1542). On trouve volette au XVe.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        claie à mettre les fruits (GH). Plateau en fil de fer pour poser les tartes (LH).
+      </quote>
+    </def>
+    <etym>
+      <quote>
+        ANC. : à rattacher à voler dont est venu volet, dont l'un des sens est : tamis, tablette sur laquelle on triait les fruits ou d'autres petits objets (1542). On trouve volette au XVe.
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VOLEUR</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        &quot; Voleur volé, l' Bon Dieu n' fait qu'in rire &quot; (Prov. rapporté
+      </quote>
+    </def>
+    <def label="française">
+      <quote>Prov. rapporté</quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; Voleur volé, l' Bon Dieu n' fait qu'in rire &quot; (</quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VOLOIR</orth>
+    </form>
+    <gramGrp>
+      <pos>v.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        vouloir (voir : gram., conjug.). Quand vous vorez ! : quand vous voudrez ! (invitation à faire une visite). &quot; J' veuros qu' vous l' connaiss'rotte ! &quot; (JM) = je voudrais que vous le connaissiez (= il ne vaut pas cher !). &quot; I vorott'nt dév'nir su l' mêm' jour / Comm' des nonett's qu'in sort' du four ! &quot; (JM) = il s'agit des estivants des plages. &quot; Ch'est un veux-jé n' peux &quot; = il veut vivre au-dessus de ses moyens. &quot; Ch'est du veux-jé n'peux &quot; = c'est du &quot; bricolage &quot;, un travail fait sans les moyens nécessaires. &quot; Vos êtes ein' bell' tiote fille ; vos volez bin qué j'vous veuche ? (Jules Auguste, Denain) : formule habituelle pour un jeune homme qui souhaitait fréquenter une jeune fille.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        vouloir (voir : gram., conjug.). Quand vous vorez ! : quand vous voudrez ! (invitation à faire une visite).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>un travail fait sans les moyens nécessaires. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; J' veuros qu' vous l' connaiss'rotte ! &quot; (JM) = je voudrais que vous le connaissiez (= il ne vaut pas cher !).
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; I vorott'nt dév'nir su l' mêm' jour / Comm' des nonett's qu'in sort' du four ! &quot; (JM) = il s'agit des estivants des plages.
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Ch'est un veux-jé n' peux &quot; = il veut vivre au-dessus de ses moyens.
+      </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; Ch'est du veux-jé n'peux &quot; = c'est du </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; bricolage &quot;, </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VONIGOUTTE</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : vinigoutte).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : vinigoutte).</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VOS</orth>
+    </form>
+    <gramGrp>
+      <pos>pr. pers. suj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        vous. &quot; Vos porez s'in fair' eun' idée comm' vos sarez &quot; (JQ).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>vous. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Vos porez s'in fair' eun' idée comm' vos sarez &quot; (JQ).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VOTAGE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        vote, élection, scrutin. &quot; Quoi ? l' femm' dévrot él'ver d'z infants / Et all' n' s'rot point bonn' pour l' votache? &quot; (JM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>vote, élection, scrutin. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Quoi ? l' femm' dévrot él'ver d'z infants / Et all' n' s'rot point bonn' pour l' votache? &quot; (JM).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VOU</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : vo).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : vo).</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VOUÉE</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : voée).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : voée).</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VOUS-IN !</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : ellipse pour allez-vous-in ! &quot; Vous, femm', vous-in à vos mioches ! &quot; (JM). Vous-in vir ! = voyez donc !
+      </quote>
+    </def>
+    <def label="française">
+      <quote>: ellipse pour allez-vous-in ! </quote>
+    </def>
+    <def label="française">
+      <quote>Vous-in vir ! = voyez donc !</quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; Vous, femm', vous-in à vos mioches ! &quot; (JM). </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VOUSSE</orth>
+    </form>
+    <gramGrp>
+      <pos>s. f.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        voûte. &quot; Dins tous les pièches, y-a des belles vousses comme dins l' temps &quot; (PP).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>voûte. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Dins tous les pièches, y-a des belles vousses comme dins l' temps &quot; (PP).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>Voussé</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        voûté. &quot; I s'in va là tout voussé, à bas dos &quot;. ANC. : voussure (1150) du lat. pop. volsus, part. pas. : tourné, enroulé. &quot; En une roche fut cavee / ... / Dedens fu vossee e ben faite &quot; (La Folie Tristan, XIIIe).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>voûté. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; I s'in va là tout voussé, à bas dos &quot;. </quote>
+    </cit>
+    <etym>
+      <quote>
+        ANC. : voussure (1150) du lat. pop. volsus, part. pas. : tourné, enroulé. &quot; En une roche fut cavee / ... / Dedens fu vossee e ben faite &quot; (La Folie Tristan, XIIIe).
+      </quote>
+    </etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VRAI</orth>
+    </form>
+    <gramGrp>
+      <pos>adj.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        &quot; Si ch'est vrai, j' l'irai dire à Rome &quot; = j'ai du mal à le croire. (Voir : St Pierre).
+      </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VUIDIER</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>: (voir : widier).</quote>
+    </def>
+    <def label="française">
+      <quote>: (voir : widier).</quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>VUTE. s. m. et adj.</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : vide. &quot; Rimblay' les vutes, / Voies et cahutes &quot; (JM). &quot; Les berlin's plein's, les berlin's vutes &quot; (JM). A vute : vide. &quot; Panche à vute et la gale aux dints &quot; (JM) : affamé. &quot; Fallot l' vir tailler dins les tich's (de séu) à vute (= évidées) / Des chifflots comme in n'in fait pus &quot; (PM).
+      </quote>
+    </def>
+    <def label="française">
+      <quote>: vide. </quote>
+    </def>
+    <def label="française">
+      <quote>A vute : vide. </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; Rimblay' les vutes, / Voies et cahutes &quot; (JM). </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; Les berlin's plein's, les berlin's vutes &quot; (JM). </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; Panche à vute et la gale aux dints &quot; (JM) : affamé. </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Fallot l' vir tailler dins les tich's (de séu) à vute (= évidées) / Des chifflots comme in n'in fait pus &quot; (PM).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+</TEI>

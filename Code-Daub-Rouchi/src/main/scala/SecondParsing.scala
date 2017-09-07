@@ -80,7 +80,7 @@ object SecondParsing {
 
         }
 
-      val listXml = <TEI>
+      val listXml = <TEI  xml:lang="fr"  xmlns="http://www.tei-c.org/ns/1.0">
         {listTrad}
       </TEI>
       val dir = new File("./XMLSecondParser")

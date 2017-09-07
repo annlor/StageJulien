@@ -11,7 +11,7 @@ object mainRDF {
     val xml = XML.loadFile(classpath.pathXMLtoRDFSecondParser)
 
     val ClassModele = new ModelBuilder(xml)
-
+    println("RDF Second Parser DONE")
     ClassModele.dumpModel(classpath.pathOutputRDFSecondParser)
   }
 }

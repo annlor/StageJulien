@@ -1,5 +1,4 @@
 @prefix restaure: <http://restaure.limsi.fr/2017/rdf#> .
-@prefix vartrans: <https://www.w3.org/ns/lemon/vartrans#> .
 @prefix lime:  <http://www.w3.org/ns/lemon/lime#> .
 @prefix ontolex: <http://www.w3.org/ns/lemon/ontolex#> .
 @prefix lexinfo: <http://lexinfo.net/ontology/2.0/lexinfo#> .
@@ -8,52 +7,53 @@
         a                   ontolex:Form ;
         ontolex:writtenRep  "* usance" .
 
-<http://restaure.limsi.fr/2017/rdf#%22%20I%20n'%20donn'rot%20point%20par%20charit%C3%A9%20/%20L'iau%20dins%20l'quelle%20i%20fait%20cuir'%20ses%20eu%C3%A9s%20%22%20(JM%20qui%20reprend%20un%20dicton%20att.%20par%20JQ).%20>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "\" I n' donn'rot point par charité / L'iau dins l'quelle i fait cuir' ses eués \" (JM qui reprend un dicton att. par JQ). " .
-
 restaure:  ontolex:writtenRep  "" .
 
 <http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20hurechon-picot).>
         ontolex:writtenRep  ": (voir : hurechon-picot)." .
 
-<http://restaure.limsi.fr/2017/rdf#%22%20I-a%20pus%20quer%20deux%20uefs%20qu'eune%20truche%20%22%20(EC)%20=%20il%20pr%C3%A9f%C3%A8re%20ce%20qui%20est%20bon,%20et%20cher.%20>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "\" I-a pus quer deux uefs qu'eune truche \" (EC) = il préfère ce qui est bon, et cher. " .
-
-<http://restaure.limsi.fr/2017/rdf#lf_URCHON%20>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "urchon " .
-
 restaure:le21PicardVersFrançais_9
-        a                              ontolex:LexicalEntry ;
-        lexinfo:gender                 lexinfo:Female ;
-        lexinfo:partOfSpeech           lexinfo:Noun ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#solidit%C3%A9,%20permettant%20un%20long%20usage.> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#solidit%C3%A9,%20permettant%20un%20long%20usage.> ;
-        restaure:TranslatableInFrenchOneWord
-                <http://restaure.limsi.fr/2017/rdf#Traductionsolidit%C3%A9> ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_*%20Usance> .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:gender           lexinfo:Female ;
+        lexinfo:partOfSpeech     lexinfo:Noun ;
+        restaure:etymology       restaure: ;
+        restaure:translatableAs  restaure:Traduction , <http://restaure.limsi.fr/2017/rdf#Traductionsolidit%C3%A9> ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#solidit%C3%A9,%20permettant%20un%20long%20usage.> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#solidit%C3%A9,%20permettant%20un%20long%20usage.> ;
+        ontolex:lexicalForm      <http://restaure.limsi.fr/2017/rdf#lf_*%20Usance> .
 
 <http://restaure.limsi.fr/2017/rdf#lf_UN%20(BD)>
         a                   ontolex:Form ;
         ontolex:writtenRep  "un (bd)" .
 
-restaure:xAmiens  ontolex:writtenRep  "Amiens"@fra .
+restaure:lf_URCHON  a       ontolex:Form ;
+        ontolex:writtenRep  "urchon" .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20ANC.%20:%20Uef,%20oeuf%20(Philippe%20de%20Thaun,%201119).%20Du%20lat.%20ovum.%0A%20%20%20%20>
+        ontolex:writtenRep  "\n      ANC. : Uef, oeuf (Philippe de Thaun, 1119). Du lat. ovum.\n    " .
 
 restaure:le21PicardVersFrançais_3
-        a                              ontolex:LexicalEntry ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20ouverre,%20ouvrer).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20ouverre,%20ouvrer).> ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_U%C3%88VE%20> .
+        a                        ontolex:LexicalEntry ;
+        restaure:etymology       restaure: ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20ouverre,%20ouvrer).> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20ouverre,%20ouvrer).> ;
+        ontolex:lexicalForm      <http://restaure.limsi.fr/2017/rdf#lf_U%C3%88VE> .
 
 <http://restaure.limsi.fr/2017/rdf#solidit%C3%A9,%20permettant%20un%20long%20usage.>
         ontolex:writtenRep  "solidité, permettant un long usage." .
 
-restaure:coordinate  restaure:xAmiens  "49.895"^^<http://www.w3.org/2001/XMLSchema#double> ;
-        restaure:yAmiens  "2.3022"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20de%20sub.%20:%20o%C3%B9.%20%22%20...%C3%A0%20moins%20qu%C3%A9%20j%C3%A9%20n'%20seuche%20/%20U%20qu'%20ch'est%20%22%20(Fl,%20F,%20XVIIe).%20(Voir%20:%20d'%C3%BB,%20d'us,%20duss...).%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        de sub. : où. \" ...à moins qué jé n' seuche / U qu' ch'est \" (Fl, F, XVIIe). (Voir : d'û, d'us, duss...).\n      " .
+
+restaure:coordinate  restaure:xValenciennes
+                "50.35"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        restaure:yValenciennes  "3.53333"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+restaure:lf_UCHE  a         ontolex:Form ;
+        ontolex:writtenRep  "uche" .
 
 <http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20ouverre,%20ouvrer).>
         ontolex:writtenRep  ": (voir : ouverre, ouvrer)." .
@@ -63,18 +63,15 @@ lexinfo:Noun  ontolex:writtenRep  "Nom"@fra .
 <http://restaure.limsi.fr/2017/rdf#simplement.%20>
         ontolex:writtenRep  "simplement. " .
 
-<http://restaure.limsi.fr/2017/rdf#simplement.%20%22%20In%20buvot,%20au%20baril,%20d%C3%A9%20l'iau,%20tout%20unimint%20%22%20(JM).>
-        ontolex:writtenRep  "simplement. \" In buvot, au baril, dé l'iau, tout unimint \" (JM)." .
-
-<http://restaure.limsi.fr/2017/rdf#ANC.%20:%20il%20est%20peut-%C3%AAtre%20curieux%20de%20signaler%20que%20le%20mot%20usine%20n'est%20attest%C3%A9%20en%20fr.%20qu'en%201732,%20mais%20que%20c'est%20un%20mot%20du%20Nord-Est%20de%20la%20France%20et,%20singuli%C3%A8rement,%20de%20Val.%20o%C3%B9%20l'on%20trouve%20la%20premi%C3%A8re%20attestation,%20en%201274,%20sous%20la%20forme%20wisine%20:%20atelier,%20boutique.>
-        ontolex:writtenRep  "ANC. : il est peut-être curieux de signaler que le mot usine n'est attesté en fr. qu'en 1732, mais que c'est un mot du Nord-Est de la France et, singulièrement, de Val. où l'on trouve la première attestation, en 1274, sous la forme wisine : atelier, boutique." .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20:%20w%C3%A9),%20s.%20m.%20:%20oeuf.%20(On%20trouve%20les%20graphies%20:%20eu%C3%A9,%20ou%C3%A9,%20oeu%C3%A9,%20u%C3%A9.%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        : wé), s. m. : oeuf. (On trouve les graphies : eué, oué, oeué, ué.\n      " .
 
 restaure:le21PicardVersFrançais_8
-        a                           ontolex:LexicalEntry ;
-        lexinfo:partOfSpeech        lexinfo:Verb ;
-        restaure:TranslatableAsDef  <http://restaure.limsi.fr/2017/rdf#%22%20I%20faut%20les%20user%20comme%20in%20les%20a%20%22%20=%20il%20faut%20vivre%20avec%20les%20gens%20tels%20qu'ils%20sont.> ;
-        restaure:oldInformation     restaure: ;
-        ontolex:lexicalForm         restaure:lf_USER .
+        a                     ontolex:LexicalEntry ;
+        lexinfo:partOfSpeech  lexinfo:Verb ;
+        restaure:etymology    restaure: ;
+        restaure:verbatim     <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20I%20faut%20les%20user%20comme%20in%20les%20a%20%22%20=%20il%20faut%20vivre%20avec%20les%20gens%20tels%20qu'ils%20sont.%0A%20%20%20%20%20%20> ;
+        ontolex:lexicalForm   restaure:lf_USER .
 
 lexinfo:Masculine  ontolex:writtenRep  "Masculin"@fra .
 
@@ -82,35 +79,39 @@ lexinfo:Masculine  ontolex:writtenRep  "Masculin"@fra .
         a                   ontolex:Form ;
         ontolex:writtenRep  "* usinier" .
 
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20ANC.%20:%20il%20est%20peut-%C3%AAtre%20curieux%20de%20signaler%20que%20le%20mot%20usine%20n'est%20attest%C3%A9%20en%20fr.%20qu'en%201732,%20mais%20que%20c'est%20un%20mot%20du%20Nord-Est%20de%20la%20France%20et,%20singuli%C3%A8rement,%20de%20Val.%20o%C3%B9%20l'on%20trouve%20la%20premi%C3%A8re%20attestation,%20en%201274,%20sous%20la%20forme%20wisine%20:%20atelier,%20boutique.%0A%20%20%20%20%20%20%0A%20%20%20%20>
+        ontolex:writtenRep  "\n      \n        ANC. : il est peut-être curieux de signaler que le mot usine n'est attesté en fr. qu'en 1732, mais que c'est un mot du Nord-Est de la France et, singulièrement, de Val. où l'on trouve la première attestation, en 1274, sous la forme wisine : atelier, boutique.\n      \n    " .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20I%20faut%20les%20user%20comme%20in%20les%20a%20%22%20=%20il%20faut%20vivre%20avec%20les%20gens%20tels%20qu'ils%20sont.%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        \" I faut les user comme in les a \" = il faut vivre avec les gens tels qu'ils sont.\n      " .
+
 restaure:le21PicardVersFrançais_2
-        a                              ontolex:LexicalEntry ;
-        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Il%20a%20d's%20ou%C3%A9s%20d'zous%20les%20bras%20%22%20=%20c'est%20un%20paresseux%20(il%20ne%20se%20remue%20pas%20crainte%20de%20les%20casser%20;%20cf.%20en%20fr.%20pop.%20:%20il%20ne%20se%20casse%20rien).%20> , <http://restaure.limsi.fr/2017/rdf#%22%20I%20n'%20donn'rot%20point%20par%20charit%C3%A9%20/%20L'iau%20dins%20l'quelle%20i%20fait%20cuir'%20ses%20eu%C3%A9s%20%22%20(JM%20qui%20reprend%20un%20dicton%20att.%20par%20JQ).%20> , <http://restaure.limsi.fr/2017/rdf#%22%20I-a%20pus%20quer%20deux%20uefs%20qu'eune%20truche%20%22%20(EC)%20=%20il%20pr%C3%A9f%C3%A8re%20ce%20qui%20est%20bon,%20et%20cher.%20> ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#:%20w%C3%A9),%20s.%20m.%20:%20oeuf.%20(On%20trouve%20les%20graphies%20:%20eu%C3%A9,%20ou%C3%A9,%20oeu%C3%A9,%20u%C3%A9.%20%22%20I-a%20pus%20quer%20deux%20uefs%20qu'eune%20truche%20%22%20(EC)%20=%20il%20pr%C3%A9f%C3%A8re%20ce%20qui%20est%20bon,%20et%20cher.%20%22%20I%20n'%20donn'rot%20point%20par%20charit%C3%A9%20/%20L'iau%20dins%20l'quelle%20i%20fait%20cuir'%20ses%20eu%C3%A9s%20%22%20(JM%20qui%20reprend%20un%20dicton%20att.%20par%20JQ).%20%22%20Il%20a%20d's%20ou%C3%A9s%20d'zous%20les%20bras%20%22%20=%20c'est%20un%20paresseux%20(il%20ne%20se%20remue%20pas%20crainte%20de%20les%20casser%20;%20cf.%20en%20fr.%20pop.%20:%20il%20ne%20se%20casse%20rien).%20ANC.%20:%20Uef,%20oeuf%20(Philippe%20de%20Thaun,%201119).%20Du%20lat.%20ovum.> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#:%20w%C3%A9),%20s.%20m.%20:%20oeuf.%20(On%20trouve%20les%20graphies%20:%20eu%C3%A9,%20ou%C3%A9,%20oeu%C3%A9,%20u%C3%A9.%20> ;
-        restaure:oldInformation        <http://restaure.limsi.fr/2017/rdf#ANC.%20:%20Uef,%20oeuf%20(Philippe%20de%20Thaun,%201119).%20Du%20lat.%20ovum.> ;
-        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_UE(F)%20(phon.%20> .
-
-<http://restaure.limsi.fr/2017/rdf#:%20w%C3%A9),%20s.%20m.%20:%20oeuf.%20(On%20trouve%20les%20graphies%20:%20eu%C3%A9,%20ou%C3%A9,%20oeu%C3%A9,%20u%C3%A9.%20>
-        ontolex:writtenRep  ": wé), s. m. : oeuf. (On trouve les graphies : eué, oué, oeué, ué. " .
-
-<http://restaure.limsi.fr/2017/rdf#lf_URB%C3%89LER%20>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "urbéler " .
+        a                        ontolex:LexicalEntry ;
+        restaure:etymology       <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20ANC.%20:%20Uef,%20oeuf%20(Philippe%20de%20Thaun,%201119).%20Du%20lat.%20ovum.%0A%20%20%20%20> ;
+        restaure:hasExample      <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Il%20a%20d's%20ou%C3%A9s%20d'zous%20les%20bras%20%22%20=%20c'est%20un%20paresseux%20(il%20ne%20se%20remue%20pas%20crainte%20de%20les%20casser%20;%20cf.%20en%20fr.%20pop.%20:%20il%20ne%20se%20casse%20rien).%0A%20%20%20%20%20%20> , <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20I%20n'%20donn'rot%20point%20par%20charit%C3%A9%20/%20L'iau%20dins%20l'quelle%20i%20fait%20cuir'%20ses%20eu%C3%A9s%20%22%20(JM%20qui%20reprend%20un%20dicton%20att.%20par%20JQ).%0A%20%20%20%20%20%20> , <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20I-a%20pus%20quer%20deux%20uefs%20qu'eune%20truche%20%22%20(EC)%20=%20il%20pr%C3%A9f%C3%A8re%20ce%20qui%20est%20bon,%20et%20cher.%0A%20%20%20%20%20%20> ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20:%20w%C3%A9),%20s.%20m.%20:%20oeuf.%20(On%20trouve%20les%20graphies%20:%20eu%C3%A9,%20ou%C3%A9,%20oeu%C3%A9,%20u%C3%A9.%20%22%20I-a%20pus%20quer%20deux%20uefs%20qu'eune%20truche%20%22%20(EC)%20=%20il%20pr%C3%A9f%C3%A8re%20ce%20qui%20est%20bon,%20et%20cher.%20%22%20I%20n'%20donn'rot%20point%20par%20charit%C3%A9%20/%20L'iau%20dins%20l'quelle%20i%20fait%20cuir'%20ses%20eu%C3%A9s%20%22%20(JM%20qui%20reprend%20un%20dicton%20att.%20par%20JQ).%20%22%20Il%20a%20d's%20ou%C3%A9s%20d'zous%20les%20bras%20%22%20=%20c'est%20un%20paresseux%20(il%20ne%20se%20remue%20pas%20crainte%20de%20les%20casser%20;%20cf.%20en%20fr.%20pop.%20:%20il%20ne%20se%20casse%20rien).%20ANC.%20:%20Uef,%20oeuf%20(Philippe%20de%20Thaun,%201119).%20Du%20lat.%20ovum.%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20:%20w%C3%A9),%20s.%20m.%20:%20oeuf.%20(On%20trouve%20les%20graphies%20:%20eu%C3%A9,%20ou%C3%A9,%20oeu%C3%A9,%20u%C3%A9.%0A%20%20%20%20%20%20> ;
+        ontolex:lexicalForm      <http://restaure.limsi.fr/2017/rdf#lf_UE(F)%20(phon.> .
 
 <http://restaure.limsi.fr/2017/rdf#%22%20Un%20m'a%20dit%20%22.>
         a                   ontolex:Form ;
         ontolex:writtenRep  "\" Un m'a dit \"." .
 
 restaure:le21PicardVersFrançais_10
-        a                              ontolex:LexicalEntry ;
-        lexinfo:gender                 lexinfo:Masculine ;
-        lexinfo:partOfSpeech           lexinfo:Noun ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#ouvrier%20d'usine,%20m%C3%A9tallurgiste.%20%22%20...%20vir%20si%20gracieus'mint%20danser%20/%20L'usinier,%20l'ouverrier%20%C3%A0%20l'%20veine%20%22%20(JM).%20ANC.%20:%20il%20est%20peut-%C3%AAtre%20curieux%20de%20signaler%20que%20le%20mot%20usine%20n'est%20attest%C3%A9%20en%20fr.%20qu'en%201732,%20mais%20que%20c'est%20un%20mot%20du%20Nord-Est%20de%20la%20France%20et,%20singuli%C3%A8rement,%20de%20Val.%20o%C3%B9%20l'on%20trouve%20la%20premi%C3%A8re%20attestation,%20en%201274,%20sous%20la%20forme%20wisine%20:%20atelier,%20boutique.> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#ouvrier%20d'usine,%20m%C3%A9tallurgiste.%20> ;
-        restaure:TranslatableInFrenchOneWord
-                <http://restaure.limsi.fr/2017/rdf#Traductionm%C3%A9tallurgiste> ;
-        restaure:oldInformation        <http://restaure.limsi.fr/2017/rdf#ANC.%20:%20il%20est%20peut-%C3%AAtre%20curieux%20de%20signaler%20que%20le%20mot%20usine%20n'est%20attest%C3%A9%20en%20fr.%20qu'en%201732,%20mais%20que%20c'est%20un%20mot%20du%20Nord-Est%20de%20la%20France%20et,%20singuli%C3%A8rement,%20de%20Val.%20o%C3%B9%20l'on%20trouve%20la%20premi%C3%A8re%20attestation,%20en%201274,%20sous%20la%20forme%20wisine%20:%20atelier,%20boutique.> ;
-        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_*%20USINIER> .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:gender           lexinfo:Masculine ;
+        lexinfo:partOfSpeech     lexinfo:Noun ;
+        restaure:etymology       <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20ANC.%20:%20il%20est%20peut-%C3%AAtre%20curieux%20de%20signaler%20que%20le%20mot%20usine%20n'est%20attest%C3%A9%20en%20fr.%20qu'en%201732,%20mais%20que%20c'est%20un%20mot%20du%20Nord-Est%20de%20la%20France%20et,%20singuli%C3%A8rement,%20de%20Val.%20o%C3%B9%20l'on%20trouve%20la%20premi%C3%A8re%20attestation,%20en%201274,%20sous%20la%20forme%20wisine%20:%20atelier,%20boutique.%0A%20%20%20%20%20%20%0A%20%20%20%20> ;
+        restaure:translatableAs  <http://restaure.limsi.fr/2017/rdf#Traductionm%C3%A9tallurgiste> , restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20ouvrier%20d'usine,%20m%C3%A9tallurgiste.%20%22%20...%20vir%20si%20gracieus'mint%20danser%20/%20L'usinier,%20l'ouverrier%20%C3%A0%20l'%20veine%20%22%20(JM).%20ANC.%20:%20il%20est%20peut-%C3%AAtre%20curieux%20de%20signaler%20que%20le%20mot%20usine%20n'est%20attest%C3%A9%20en%20fr.%20qu'en%201732,%20mais%20que%20c'est%20un%20mot%20du%20Nord-Est%20de%20la%20France%20et,%20singuli%C3%A8rement,%20de%20Val.%20o%C3%B9%20l'on%20trouve%20la%20premi%C3%A8re%20attestation,%20en%201274,%20sous%20la%20forme%20wisine%20:%20atelier,%20boutique.%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#ouvrier%20d'usine,%20m%C3%A9tallurgiste.%20> ;
+        ontolex:lexicalForm      <http://restaure.limsi.fr/2017/rdf#lf_*%20USINIER> .
+
+restaure:xValenciennes
+        ontolex:writtenRep  "Valenciennes"@fra .
 
 restaure:lf_U  a            ontolex:Form ;
         ontolex:writtenRep  "u" .
@@ -121,52 +122,44 @@ restaure:lf_U  a            ontolex:Form ;
 
 lexinfo:Verb  ontolex:writtenRep  "Verbe"@fra .
 
-<http://restaure.limsi.fr/2017/rdf#lf_UE(F)%20(phon.%20>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "ue(f) (phon. " .
+restaure:Traduction  a      ontolex:Form ;
+        ontolex:writtenRep  "" .
 
 <http://restaure.limsi.fr/2017/rdf#ouvrier%20d'usine,%20m%C3%A9tallurgiste.%20>
         ontolex:writtenRep  "ouvrier d'usine, métallurgiste. " .
 
 restaure:le21PicardVersFrançais_7
-        a                              ontolex:LexicalEntry ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20hurechon-picot).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20hurechon-picot).> ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_URCHON%20> .
+        a                        ontolex:LexicalEntry ;
+        restaure:etymology       restaure: ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20hurechon-picot).> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20hurechon-picot).> ;
+        ontolex:lexicalForm      restaure:lf_URCHON .
 
-<http://restaure.limsi.fr/2017/rdf#:%20w%C3%A9),%20s.%20m.%20:%20oeuf.%20(On%20trouve%20les%20graphies%20:%20eu%C3%A9,%20ou%C3%A9,%20oeu%C3%A9,%20u%C3%A9.%20%22%20I-a%20pus%20quer%20deux%20uefs%20qu'eune%20truche%20%22%20(EC)%20=%20il%20pr%C3%A9f%C3%A8re%20ce%20qui%20est%20bon,%20et%20cher.%20%22%20I%20n'%20donn'rot%20point%20par%20charit%C3%A9%20/%20L'iau%20dins%20l'quelle%20i%20fait%20cuir'%20ses%20eu%C3%A9s%20%22%20(JM%20qui%20reprend%20un%20dicton%20att.%20par%20JQ).%20%22%20Il%20a%20d's%20ou%C3%A9s%20d'zous%20les%20bras%20%22%20=%20c'est%20un%20paresseux%20(il%20ne%20se%20remue%20pas%20crainte%20de%20les%20casser%20;%20cf.%20en%20fr.%20pop.%20:%20il%20ne%20se%20casse%20rien).%20ANC.%20:%20Uef,%20oeuf%20(Philippe%20de%20Thaun,%201119).%20Du%20lat.%20ovum.>
-        ontolex:writtenRep  ": wé), s. m. : oeuf. (On trouve les graphies : eué, oué, oeué, ué. \" I-a pus quer deux uefs qu'eune truche \" (EC) = il préfère ce qui est bon, et cher. \" I n' donn'rot point par charité / L'iau dins l'quelle i fait cuir' ses eués \" (JM qui reprend un dicton att. par JQ). \" Il a d's oués d'zous les bras \" = c'est un paresseux (il ne se remue pas crainte de les casser ; cf. en fr. pop. : il ne se casse rien). ANC. : Uef, oeuf (Philippe de Thaun, 1119). Du lat. ovum." .
+restaure:yValenciennes
+        ontolex:writtenRep  "Valenciennes"@fra .
 
-restaure:yAmiens  ontolex:writtenRep  "Amiens"@fra .
-
-<http://restaure.limsi.fr/2017/rdf#ouvrier%20d'usine,%20m%C3%A9tallurgiste.%20%22%20...%20vir%20si%20gracieus'mint%20danser%20/%20L'usinier,%20l'ouverrier%20%C3%A0%20l'%20veine%20%22%20(JM).%20ANC.%20:%20il%20est%20peut-%C3%AAtre%20curieux%20de%20signaler%20que%20le%20mot%20usine%20n'est%20attest%C3%A9%20en%20fr.%20qu'en%201732,%20mais%20que%20c'est%20un%20mot%20du%20Nord-Est%20de%20la%20France%20et,%20singuli%C3%A8rement,%20de%20Val.%20o%C3%B9%20l'on%20trouve%20la%20premi%C3%A8re%20attestation,%20en%201274,%20sous%20la%20forme%20wisine%20:%20atelier,%20boutique.>
-        ontolex:writtenRep  "ouvrier d'usine, métallurgiste. \" ... vir si gracieus'mint danser / L'usinier, l'ouverrier à l' veine \" (JM). ANC. : il est peut-être curieux de signaler que le mot usine n'est attesté en fr. qu'en 1732, mais que c'est un mot du Nord-Est de la France et, singulièrement, de Val. où l'on trouve la première attestation, en 1274, sous la forme wisine : atelier, boutique." .
-
-<http://restaure.limsi.fr/2017/rdf#ANC.%20:%20Uef,%20oeuf%20(Philippe%20de%20Thaun,%201119).%20Du%20lat.%20ovum.>
-        ontolex:writtenRep  "ANC. : Uef, oeuf (Philippe de Thaun, 1119). Du lat. ovum." .
+<http://restaure.limsi.fr/2017/rdf#lf_URB%C3%89LER>
+        a                   ontolex:Form ;
+        ontolex:writtenRep  "urbéler" .
 
 restaure:le21PicardVersFrançais_1
-        a                              ontolex:LexicalEntry ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#:%20(voir:%20huche).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#:%20(voir:%20huche).> ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_UCHE%20> .
-
-<http://restaure.limsi.fr/2017/rdf#lf_U%C3%88VE%20>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "uève " .
-
-<http://restaure.limsi.fr/2017/rdf#%22%20Il%20a%20d's%20ou%C3%A9s%20d'zous%20les%20bras%20%22%20=%20c'est%20un%20paresseux%20(il%20ne%20se%20remue%20pas%20crainte%20de%20les%20casser%20;%20cf.%20en%20fr.%20pop.%20:%20il%20ne%20se%20casse%20rien).%20>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "\" Il a d's oués d'zous les bras \" = c'est un paresseux (il ne se remue pas crainte de les casser ; cf. en fr. pop. : il ne se casse rien). " .
-
-<http://restaure.limsi.fr/2017/rdf#%22%20I%20faut%20les%20user%20comme%20in%20les%20a%20%22%20=%20il%20faut%20vivre%20avec%20les%20gens%20tels%20qu'ils%20sont.>
-        ontolex:writtenRep  "\" I faut les user comme in les a \" = il faut vivre avec les gens tels qu'ils sont." .
+        a                        ontolex:LexicalEntry ;
+        restaure:etymology       restaure: ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#:%20(voir:%20huche).> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#:%20(voir:%20huche).> ;
+        ontolex:lexicalForm      restaure:lf_UCHE .
 
 <http://restaure.limsi.fr/2017/rdf#Traductionm%C3%A9tallurgiste>
         a                   ontolex:Form ;
         ontolex:writtenRep  "métallurgiste" .
+
+<http://restaure.limsi.fr/2017/rdf#lf_UE(F)%20(phon.>
+        a                   ontolex:Form ;
+        ontolex:writtenRep  "ue(f) (phon." .
 
 restaure:Traductionon
         a                   ontolex:Form ;
@@ -174,22 +167,41 @@ restaure:Traductionon
 
 lexinfo:Female  ontolex:writtenRep  "Féminin"@fra .
 
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Il%20a%20d's%20ou%C3%A9s%20d'zous%20les%20bras%20%22%20=%20c'est%20un%20paresseux%20(il%20ne%20se%20remue%20pas%20crainte%20de%20les%20casser%20;%20cf.%20en%20fr.%20pop.%20:%20il%20ne%20se%20casse%20rien).%0A%20%20%20%20%20%20>
+        a                   ontolex:Form ;
+        ontolex:writtenRep  "\n        \" Il a d's oués d'zous les bras \" = c'est un paresseux (il ne se remue pas crainte de les casser ; cf. en fr. pop. : il ne se casse rien).\n      " .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20I%20n'%20donn'rot%20point%20par%20charit%C3%A9%20/%20L'iau%20dins%20l'quelle%20i%20fait%20cuir'%20ses%20eu%C3%A9s%20%22%20(JM%20qui%20reprend%20un%20dicton%20att.%20par%20JQ).%0A%20%20%20%20%20%20>
+        a                   ontolex:Form ;
+        ontolex:writtenRep  "\n        \" I n' donn'rot point par charité / L'iau dins l'quelle i fait cuir' ses eués \" (JM qui reprend un dicton att. par JQ).\n      " .
+
+<http://restaure.limsi.fr/2017/rdf#lf_U%C3%88VE>
+        a                   ontolex:Form ;
+        ontolex:writtenRep  "uève" .
+
 restaure:le21PicardVersFrançais_6
-        a                              ontolex:LexicalEntry ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20hurb%C3%A9ler).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20hurb%C3%A9ler).> ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_URB%C3%89LER%20> .
+        a                        ontolex:LexicalEntry ;
+        restaure:etymology       restaure: ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20hurb%C3%A9ler).> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20hurb%C3%A9ler).> ;
+        ontolex:lexicalForm      <http://restaure.limsi.fr/2017/rdf#lf_URB%C3%89LER> .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20:%20w%C3%A9),%20s.%20m.%20:%20oeuf.%20(On%20trouve%20les%20graphies%20:%20eu%C3%A9,%20ou%C3%A9,%20oeu%C3%A9,%20u%C3%A9.%20%22%20I-a%20pus%20quer%20deux%20uefs%20qu'eune%20truche%20%22%20(EC)%20=%20il%20pr%C3%A9f%C3%A8re%20ce%20qui%20est%20bon,%20et%20cher.%20%22%20I%20n'%20donn'rot%20point%20par%20charit%C3%A9%20/%20L'iau%20dins%20l'quelle%20i%20fait%20cuir'%20ses%20eu%C3%A9s%20%22%20(JM%20qui%20reprend%20un%20dicton%20att.%20par%20JQ).%20%22%20Il%20a%20d's%20ou%C3%A9s%20d'zous%20les%20bras%20%22%20=%20c'est%20un%20paresseux%20(il%20ne%20se%20remue%20pas%20crainte%20de%20les%20casser%20;%20cf.%20en%20fr.%20pop.%20:%20il%20ne%20se%20casse%20rien).%20ANC.%20:%20Uef,%20oeuf%20(Philippe%20de%20Thaun,%201119).%20Du%20lat.%20ovum.%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        : wé), s. m. : oeuf. (On trouve les graphies : eué, oué, oeué, ué. \" I-a pus quer deux uefs qu'eune truche \" (EC) = il préfère ce qui est bon, et cher. \" I n' donn'rot point par charité / L'iau dins l'quelle i fait cuir' ses eués \" (JM qui reprend un dicton att. par JQ). \" Il a d's oués d'zous les bras \" = c'est un paresseux (il ne se remue pas crainte de les casser ; cf. en fr. pop. : il ne se casse rien). ANC. : Uef, oeuf (Philippe de Thaun, 1119). Du lat. ovum.\n      " .
 
 restaure:lf_UNIMINT  a      ontolex:Form ;
         ontolex:writtenRep  "unimint" .
 
 restaure:le21PicardVersFrançais_0
-        a                              ontolex:LexicalEntry ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#%20de%20sub.%20:%20o%C3%B9.%20%22%20...%C3%A0%20moins%20qu%C3%A9%20j%C3%A9%20n'%20seuche%20/%20U%20qu'%20ch'est%20%22%20(Fl,%20F,%20XVIIe).%20(Voir%20:%20d'%C3%BB,%20d'us,%20duss...).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#%20de%20sub.%20:%20o%C3%B9.%20> ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            restaure:lf_U .
+        a                        ontolex:LexicalEntry ;
+        restaure:etymology       restaure: ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20de%20sub.%20:%20o%C3%B9.%20%22%20...%C3%A0%20moins%20qu%C3%A9%20j%C3%A9%20n'%20seuche%20/%20U%20qu'%20ch'est%20%22%20(Fl,%20F,%20XVIIe).%20(Voir%20:%20d'%C3%BB,%20d'us,%20duss...).%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#%20de%20sub.%20:%20o%C3%B9.%20> ;
+        ontolex:lexicalForm      restaure:lf_U .
 
 restaure:lf_USER  a         ontolex:Form ;
         ontolex:writtenRep  "user" .
@@ -198,25 +210,25 @@ restaure:Traductionsimplement
         a                   ontolex:Form ;
         ontolex:writtenRep  "simplement" .
 
-<http://restaure.limsi.fr/2017/rdf#%20de%20sub.%20:%20o%C3%B9.%20%22%20...%C3%A0%20moins%20qu%C3%A9%20j%C3%A9%20n'%20seuche%20/%20U%20qu'%20ch'est%20%22%20(Fl,%20F,%20XVIIe).%20(Voir%20:%20d'%C3%BB,%20d'us,%20duss...).>
-        ontolex:writtenRep  " de sub. : où. \" ...à moins qué jé n' seuche / U qu' ch'est \" (Fl, F, XVIIe). (Voir : d'û, d'us, duss...)." .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20ouvrier%20d'usine,%20m%C3%A9tallurgiste.%20%22%20...%20vir%20si%20gracieus'mint%20danser%20/%20L'usinier,%20l'ouverrier%20%C3%A0%20l'%20veine%20%22%20(JM).%20ANC.%20:%20il%20est%20peut-%C3%AAtre%20curieux%20de%20signaler%20que%20le%20mot%20usine%20n'est%20attest%C3%A9%20en%20fr.%20qu'en%201732,%20mais%20que%20c'est%20un%20mot%20du%20Nord-Est%20de%20la%20France%20et,%20singuli%C3%A8rement,%20de%20Val.%20o%C3%B9%20l'on%20trouve%20la%20premi%C3%A8re%20attestation,%20en%201274,%20sous%20la%20forme%20wisine%20:%20atelier,%20boutique.%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        ouvrier d'usine, métallurgiste. \" ... vir si gracieus'mint danser / L'usinier, l'ouverrier à l' veine \" (JM). ANC. : il est peut-être curieux de signaler que le mot usine n'est attesté en fr. qu'en 1732, mais que c'est un mot du Nord-Est de la France et, singulièrement, de Val. où l'on trouve la première attestation, en 1274, sous la forme wisine : atelier, boutique.\n      " .
 
-<http://restaure.limsi.fr/2017/rdf#lf_UCHE%20>
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20I-a%20pus%20quer%20deux%20uefs%20qu'eune%20truche%20%22%20(EC)%20=%20il%20pr%C3%A9f%C3%A8re%20ce%20qui%20est%20bon,%20et%20cher.%0A%20%20%20%20%20%20>
         a                   ontolex:Form ;
-        ontolex:writtenRep  "uche " .
+        ontolex:writtenRep  "\n        \" I-a pus quer deux uefs qu'eune truche \" (EC) = il préfère ce qui est bon, et cher.\n      " .
 
 lexinfo:Preposition  ontolex:writtenRep
                 "Préposition"@fra .
 
 restaure:le21PicardVersFrançais_5
-        a                              ontolex:LexicalEntry ;
-        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20In%20buvot,%20au%20baril,%20d%C3%A9%20l'iau,%20tout%20unimint%20%22%20(JM).> ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#simplement.%20%22%20In%20buvot,%20au%20baril,%20d%C3%A9%20l'iau,%20tout%20unimint%20%22%20(JM).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#simplement.%20> ;
-        restaure:TranslatableInFrenchOneWord
-                restaure:Traductionsimplement ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            restaure:lf_UNIMINT .
+        a                        ontolex:LexicalEntry ;
+        restaure:etymology       restaure: ;
+        restaure:hasExample      <http://restaure.limsi.fr/2017/rdf#%22%20In%20buvot,%20au%20baril,%20d%C3%A9%20l'iau,%20tout%20unimint%20%22%20(JM).> ;
+        restaure:translatableAs  restaure:Traduction , restaure:Traductionsimplement ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20simplement.%20%22%20In%20buvot,%20au%20baril,%20d%C3%A9%20l'iau,%20tout%20unimint%20%22%20(JM).%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#simplement.%20> ;
+        ontolex:lexicalForm      restaure:lf_UNIMINT .
 
 lexinfo:Adjective  ontolex:writtenRep  "Adjectif"@fra .
 
@@ -228,14 +240,23 @@ lexinfo:Adjective  ontolex:writtenRep  "Adjectif"@fra .
         ontolex:writtenRep  ": (voir: huche)." .
 
 restaure:LexiqueDaubyRouchiPicard
-        restaure:Coordinate  restaure:coordinate ;
-        lime:entry           restaure:le21PicardVersFrançais_9 , restaure:le21PicardVersFrançais_4 , restaure:le21PicardVersFrançais_10 , restaure:le21PicardVersFrançais_7 , restaure:le21PicardVersFrançais_2 , restaure:le21PicardVersFrançais_5 , restaure:le21PicardVersFrançais_0 , restaure:le21PicardVersFrançais_3 , restaure:le21PicardVersFrançais_8 , restaure:le21PicardVersFrançais_6 , restaure:le21PicardVersFrançais_1 .
+        restaure:Coordinate             restaure:coordinate ;
+        restaure:lexiconAuthorWrittenRep
+                "Jean Dauby"@fra ;
+        restaure:lexiconDirectionWrittenRep
+                "picard vers français"@fra ;
+        restaure:lexiconNameWrittenRep  "Le Livre du \"Rouchi\" Parler Picard de Valenciennes"@fra ;
+        lime:entry                      restaure:le21PicardVersFrançais_9 , restaure:le21PicardVersFrançais_4 , restaure:le21PicardVersFrançais_10 , restaure:le21PicardVersFrançais_7 , restaure:le21PicardVersFrançais_2 , restaure:le21PicardVersFrançais_5 , restaure:le21PicardVersFrançais_0 , restaure:le21PicardVersFrançais_3 , restaure:le21PicardVersFrançais_8 , restaure:le21PicardVersFrançais_6 , restaure:le21PicardVersFrançais_1 ;
+        lime:language                   "pcd"@fra .
 
 <http://restaure.limsi.fr/2017/rdf#%20de%20sub.%20:%20o%C3%B9.%20>
         ontolex:writtenRep  " de sub. : où. " .
 
 <http://restaure.limsi.fr/2017/rdf#on.%20>
         ontolex:writtenRep  "on. " .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20simplement.%20%22%20In%20buvot,%20au%20baril,%20d%C3%A9%20l'iau,%20tout%20unimint%20%22%20(JM).%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        simplement. \" In buvot, au baril, dé l'iau, tout unimint \" (JM).\n      " .
 
 <http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20hurb%C3%A9ler).>
         ontolex:writtenRep  ": (voir : hurbéler)." .
@@ -244,11 +265,11 @@ restaure:LexiqueDaubyRouchiPicard
         ontolex:writtenRep  "on. \" Un m'a dit \"." .
 
 restaure:le21PicardVersFrançais_4
-        a                              ontolex:LexicalEntry ;
-        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Un%20m'a%20dit%20%22.> ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#on.%20%22%20Un%20m'a%20dit%20%22.> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#on.%20> ;
-        restaure:TranslatableInFrenchOneWord
-                restaure:Traductionon ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_UN%20(BD)> .
+        a                        ontolex:LexicalEntry ;
+        restaure:etymology       restaure: ;
+        restaure:hasExample      <http://restaure.limsi.fr/2017/rdf#%22%20Un%20m'a%20dit%20%22.> ;
+        restaure:translatableAs  restaure:Traduction , restaure:Traductionon ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#on.%20%22%20Un%20m'a%20dit%20%22.> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#on.%20> ;
+        ontolex:lexicalForm      <http://restaure.limsi.fr/2017/rdf#lf_UN%20(BD)> .

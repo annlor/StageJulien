@@ -18,16 +18,22 @@ object Voc {
   val Form:Resource = m.createResource(ontolex + "Form")
   val lexicalForm:Property = m.createProperty(ontolex + "lexicalForm")
   val writtenRep:Property = m.createProperty(ontolex + "writtenRep")
-  val TranslatableAsForm:Property = m.createProperty(uri + "TranslatableAsForm")
-  val TranslatableInFrench:Property = m.createProperty(uri + "TranslatableInFrench")
-  val TranslatableInPicardOneWord:Property = m.createProperty(uri + "TranslatableInPicardOneWord")
-  val TranslatableInFrenchOneWord:Property = m.createProperty(uri + "TranslatableInFrenchOneWord")
-  val TranslatableAsDef:Property = m.createProperty(uri + "TranslatableAsDef")
-  val ExampleInPicard:Property = m.createProperty(uri + "ExampleInPicard")
-  val oldInformation:Property = m.createProperty(uri + "oldInformation")
+
+  val translatableAs:Property = m.createProperty(uri + "translatableAs")
+
+  //val TranslatableInPicardOneWord:Property = m.createProperty(uri + "TranslatableInPicardOneWord")
+
+  val verbatim:Property = m.createProperty(uri + "verbatim")
+
+  val hasExample:Property = m.createProperty(uri + "hasExample")
+
+  val etymology:Property = m.createProperty(uri + "etymology")
+
   m.read("http://www.w3.org/ns/lemon/lime#")
   val LInguisticMEtadata:Resource = m.getResource("http://www.w3.org/ns/lemon/lime#")
+  val language:Property = m.createProperty(LInguisticMEtadata+"language")
   val Entry:Property = m.createProperty(LInguisticMEtadata + "entry")
+
   m.read("http://lexinfo.net/ontology/2.0/lexinfo#")
   val lexinfo:Resource = m.getResource("http://lexinfo.net/ontology/2.0/lexinfo#")
   val lexicalInfo:Property = m.createProperty(lexinfo.toString)
@@ -40,13 +46,17 @@ object Voc {
 
 
 
-  m.read("https://www.w3.org/ns/lemon/vartrans#")
+ /*m.read("https://www.w3.org/ns/lemon/vartrans#")
   val vartrans:Resource = m.getResource("https://www.w3.org/ns/lemon/vartrans#")
-  val vttranslatableAs:Property = m.createProperty(vartrans + "TranslatableAs")
+  val vttranslatableAs:Property = m.createProperty(vartrans + "TranslatableAs")*/
 
 
   val coordinate:Property = m.createProperty(uri + "Coordinate")
   val lexiconNameWR:Property = m.createProperty(uri + "lexiconNameWrittenRep")
   val lexiconAuthorWR:Property = m.createProperty(uri + "lexiconAuthorWrittenRep")
   val lexiconDirectionWR:Property = m.createProperty(uri + "lexiconDirectionWrittenRep")
+
+  m.read("http://www.w3.org/2004/02/skos/core#")
+  val skos:Resource = m.getResource("http://www.w3.org/2004/02/skos/core#")
+  val definition:Property = m.createProperty(skos + "definition")
 }

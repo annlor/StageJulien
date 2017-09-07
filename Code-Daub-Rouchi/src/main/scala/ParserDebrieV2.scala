@@ -109,7 +109,7 @@ object ParserDebrieV2 {
       Traduction.toXml
     }
 
-    val listXml = <Nomenclature>{DictXML}</Nomenclature>
+    val listXml = <TEI  xml:lang="fr"  xmlns="http://www.tei-c.org/ns/1.0">{DictXML}</TEI>
 
     XML.save(classpath.pathOutputXMLDebrie2, listXml, "utf-8", true, null)
 

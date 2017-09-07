@@ -1,5 +1,4 @@
 @prefix restaure: <http://restaure.limsi.fr/2017/rdf#> .
-@prefix vartrans: <https://www.w3.org/ns/lemon/vartrans#> .
 @prefix lime:  <http://www.w3.org/ns/lemon/lime#> .
 @prefix ontolex: <http://www.w3.org/ns/lemon/ontolex#> .
 @prefix lexinfo: <http://lexinfo.net/ontology/2.0/lexinfo#> .
@@ -20,4 +19,5 @@ restaure:LexiqueDaubyRouchiPicard
                 "Jean Dauby"@fra ;
         restaure:lexiconDirectionWrittenRep
                 "picard vers français"@fra ;
-        restaure:lexiconNameWrittenRep  "Le Livre du \"Rouchi\" Parler Picard de Valenciennes"@fra .
+        restaure:lexiconNameWrittenRep  "Le Livre du \"Rouchi\" Parler Picard de Valenciennes"@fra ;
+        lime:language                   "pcd"@fra .

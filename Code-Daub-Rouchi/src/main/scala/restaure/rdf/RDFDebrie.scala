@@ -19,6 +19,7 @@ class RDFDebrie(xml : Elem) {
   lexicon.addProperty(lexiconNameWR,model.createLiteral("Lexique Picard des Parlers Ouest-Amiénois","fra"))
   lexicon.addProperty(lexiconAuthorWR,model.createLiteral("René Debrie","fra"))
   lexicon.addProperty(lexiconDirectionWR,model.createLiteral("picard vers français","fra"))
+  lexicon.addProperty(Voc.language,model.createLiteral("pcd","fra"))
     val lexiconcoordinate:Resource = model.createResource(uri + "coordinate")
     lexicon.addProperty(Voc.coordinate, lexiconcoordinate)
     val xcoordinateAmiens:Property = model.createProperty(uri + "xAmiens")
@@ -29,7 +30,7 @@ class RDFDebrie(xml : Elem) {
     lexiconcoordinate.addProperty(ycoordinateAmiens,model.createTypedLiteral(new java.lang.Double(2.3022)))
 
 
-    val articles:NodeSeq = xml \\ "Entrée"
+    val articles:NodeSeq = xml \\ "entry"
     val UF = new UsefulFunctionDebrie
     articles.zipWithIndex.foreach({case (a,i) => UF.RDFWriter(model,a,i,lexicon)})
 
@@ -40,7 +41,6 @@ class RDFDebrie(xml : Elem) {
       model.setNsPrefix("restaure", uri)
       model.setNsPrefix("ontolex", Voc.ontolex.getURI)
       model.setNsPrefix("lexinfo", Voc.lexinfo.getURI)
-      model.setNsPrefix("vartrans", Voc.vartrans.getURI)
       model.setNsPrefix("lime", Voc.LInguisticMEtadata.getURI)
       model.write(fw, "Turtle")
       fw.close()
@@ -64,11 +64,11 @@ class UsefulFunctionDebrie  {
 
   def LexicalEntryWriter (lexEntry:Resource, article: NodeSeq, leURI: String, m: Model): Unit = {
 
-    val Entry = article \ "Vocable"
-    val fEntry = m.createResource (URIref.encode(uri + s"Debrie_lf_${Entry.text}"))
+    val Entry = article \ "form"
+    val fEntry = m.createResource (URIref.encode(uri + s"Debrie_lf_${(Entry \ "orth").text}"))
 
     lexEntry.addProperty (Voc.lexicalForm, fEntry)
-    fEntry.addProperty(Voc.writtenRep,s"${Entry.text.toLowerCase}")
+    fEntry.addProperty(Voc.writtenRep,s"${(Entry \ "orth").text.toLowerCase}")
     fEntry.addProperty(RDF.`type`,Form)
 
   }
@@ -76,7 +76,7 @@ class UsefulFunctionDebrie  {
   def StructGramWriter(article : NodeSeq, lexEntry : Resource, m: Model): Unit ={
     val XMLUP = new XMLUnitParser
 
-    val CatégorieGrammaticale = article \ "CatégorieGrammaticale"
+    val CatégorieGrammaticale = article \ "gramGrp" \ "pos"
 
     val resStruct = XMLUP.XMLStructureGrammaticale.parse(CatégorieGrammaticale.text) match {
       case Parsed.Success(seq,_) => seq
@@ -129,11 +129,11 @@ class UsefulFunctionDebrie  {
   }
 
   def LexieEntiereWriter(article: NodeSeq, model:Model, lexEntry:Resource):Unit={
-    val Traduction = article \\ "Traduction"
+    val Traduction = article \\ "cit" \ "quote"
     for (elem <- Traduction){
       val RessourceTraduction =
         model.createResource(URIref.encode(uri + s"Traduction${elem.text}"))
-      lexEntry.addProperty(Voc.TranslatableInFrench, RessourceTraduction)
+      lexEntry.addProperty(Voc.verbatim, RessourceTraduction)
       RessourceTraduction.addProperty(RDF.`type`,Form)
       RessourceTraduction.addProperty(Voc.writtenRep,elem.text)
     }

@@ -1,5 +1,4 @@
 @prefix restaure: <http://restaure.limsi.fr/2017/rdf#> .
-@prefix vartrans: <https://www.w3.org/ns/lemon/vartrans#> .
 @prefix lime:  <http://www.w3.org/ns/lemon/lime#> .
 @prefix ontolex: <http://www.w3.org/ns/lemon/ontolex#> .
 @prefix lexinfo: <http://lexinfo.net/ontology/2.0/lexinfo#> .
@@ -7,14 +6,8 @@
 <http://restaure.limsi.fr/2017/rdf#s'amuser,%20fol%C3%A2trer.%20>
         ontolex:writtenRep  "s'amuser, folâtrer. " .
 
-<http://restaure.limsi.fr/2017/rdf#jolie.%20%22%20J'aperchos%20eun'%20fill'%20joulite%20comm'%20les%20amours%20%22%20(JQ).>
-        ontolex:writtenRep  "jolie. \" J'aperchos eun' fill' joulite comm' les amours \" (JQ)." .
-
-<http://restaure.limsi.fr/2017/rdf#ANC.%20:%20Jornee%20(Beno%C3%AEt%20de%20Ste%20Maure,%201160),%20jorn%20(XIe).%20%22%20Chan%20qui%20fu%20di%20et%20foai%20le%20deuzimme%20jorn%C3%A9e%20%22%20(Fl,%20H,%201654).>
-        ontolex:writtenRep  "ANC. : Jornee (Benoît de Ste Maure, 1160), jorn (XIe). \" Chan qui fu di et foai le deuzimme jornée \" (Fl, H, 1654)." .
-
-<http://restaure.limsi.fr/2017/rdf#tasse.%20P%C3%A9tite%20jatte%20:%20tasse%20%C3%A0%20caf%C3%A9.%20Grande%20jatte%20:%20bol%20%C3%A0%20d%C3%A9jeuner.%20>
-        ontolex:writtenRep  "tasse. Pétite jatte : tasse à café. Grande jatte : bol à déjeuner. " .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20le%20mot%20peut%20avoir%20de%20nombreux%20sens,%20en%20part.%20dans%20l'expr.%20faire%20les%20jeux%20:%20se%20conduire%20de%20fa%C3%A7on%20peu%20raisonnable.%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        le mot peut avoir de nombreux sens, en part. dans l'expr. faire les jeux : se conduire de façon peu raisonnable.\n      " .
 
 <http://restaure.limsi.fr/2017/rdf#musard.%20>
         ontolex:writtenRep  "musard. " .
@@ -22,42 +15,47 @@
 restaure:lf_JUMELLE  a      ontolex:Form ;
         ontolex:writtenRep  "jumelle" .
 
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20ANC.%20:%20Jornee%20(Beno%C3%AEt%20de%20Ste%20Maure,%201160),%20jorn%20(XIe).%20%22%20Chan%20qui%20fu%20di%20et%20foai%20le%20deuzimme%20jorn%C3%A9e%20%22%20(Fl,%20H,%201654).%0A%20%20%20%20%20%20%0A%20%20%20%20>
+        ontolex:writtenRep  "\n      \n        ANC. : Jornee (Benoît de Ste Maure, 1160), jorn (XIe). \" Chan qui fu di et foai le deuzimme jornée \" (Fl, H, 1654).\n      \n    " .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20:%20Jacques%20%C3%A0%20l'%20tarte%20:%20homme%20doux.%20Jacques%20saisi%20:%20homme%20timide,%20peu%20hardi.%20Un%20biau%20Jacques%20:%20un%20homme%20peu%20redoutable.%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        : Jacques à l' tarte : homme doux. Jacques saisi : homme timide, peu hardi. Un biau Jacques : un homme peu redoutable.\n      " .
+
 restaure:le10PicardVersFrançais_31
-        a                              ontolex:LexicalEntry ;
-        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Alle%20juerot%20s'%20cul%20dins%20l'iau%20%22%20(GH)%20=%20rien%20ne%20peut%20l'arr%C3%AAter%20dans%20ses%20jeux.%20Juer%20%C3%A0%20coulons%20:%20participer%20%C3%A0%20des%20concours%20de%20pigeons-voyageurs.> ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#JEUER%20(BD),%20v.%20:%20jouer.%20I%20m%20'a%20ju%C3%A9%20l'%20tour%20=%20il%20m'a%20bern%C3%A9.%20Ch'est%20ju%C3%A9%20d%C3%A9%20m'n%20argint%20(GH)%20=%20je%20suis%20d'accord.%20%22%20Alle%20juerot%20s'%20cul%20dins%20l'iau%20%22%20(GH)%20=%20rien%20ne%20peut%20l'arr%C3%AAter%20dans%20ses%20jeux.%20Juer%20%C3%A0%20coulons%20:%20participer%20%C3%A0%20des%20concours%20de%20pigeons-voyageurs.> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#JEUER%20(BD),%20v.%20:%20jouer.%20I%20m%20'a%20ju%C3%A9%20l'%20tour%20=%20il%20m'a%20bern%C3%A9.%20Ch'est%20ju%C3%A9%20d%C3%A9%20m'n%20argint%20(GH)%20=%20je%20suis%20d'accord.%20> ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            restaure:lf_JUER .
+        a                        ontolex:LexicalEntry ;
+        restaure:etymology       restaure: ;
+        restaure:hasExample      <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Alle%20juerot%20s'%20cul%20dins%20l'iau%20%22%20(GH)%20=%20rien%20ne%20peut%20l'arr%C3%AAter%20dans%20ses%20jeux.%20Juer%20%C3%A0%20coulons%20:%20participer%20%C3%A0%20des%20concours%20de%20pigeons-voyageurs.%0A%20%20%20%20%20%20> ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20JEUER%20(BD),%20v.%20:%20jouer.%20I%20m%20'a%20ju%C3%A9%20l'%20tour%20=%20il%20m'a%20bern%C3%A9.%20Ch'est%20ju%C3%A9%20d%C3%A9%20m'n%20argint%20(GH)%20=%20je%20suis%20d'accord.%20%22%20Alle%20juerot%20s'%20cul%20dins%20l'iau%20%22%20(GH)%20=%20rien%20ne%20peut%20l'arr%C3%AAter%20dans%20ses%20jeux.%20Juer%20%C3%A0%20coulons%20:%20participer%20%C3%A0%20des%20concours%20de%20pigeons-voyageurs.%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20JEUER%20(BD),%20v.%20:%20jouer.%20I%20m%20'a%20ju%C3%A9%20l'%20tour%20=%20il%20m'a%20bern%C3%A9.%20Ch'est%20ju%C3%A9%20d%C3%A9%20m'n%20argint%20(GH)%20=%20je%20suis%20d'accord.%0A%20%20%20%20%20%20> ;
+        ontolex:lexicalForm      restaure:lf_JUER .
 
 restaure:le10PicardVersFrançais_1
-        a                              ontolex:LexicalEntry ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#:%20s'amuser%20avec%20des%20riens%20(AH).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#:%20s'amuser%20avec%20des%20riens%20(AH).> ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_Juer%20au%20berlicoco> .
+        a                        ontolex:LexicalEntry ;
+        restaure:etymology       restaure: ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#:%20s'amuser%20avec%20des%20riens%20(AH).> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#:%20s'amuser%20avec%20des%20riens%20(AH).> ;
+        ontolex:lexicalForm      <http://restaure.limsi.fr/2017/rdf#lf_Juer%20au%20berlicoco> .
 
 restaure:lf_JEAN  a         ontolex:Form ;
         ontolex:writtenRep  "jean" .
 
 restaure:le10PicardVersFrançais_10
-        a                              ontolex:LexicalEntry ;
-        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Jean%20Bi%C3%AAte%20a%20lay%C3%A9%20bin%20des%20h%C3%A9ritiers,%20t'in%20es%20un%20%22%20(GH),%20> ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#:%20Jean%20du%20gauguer%20:%20(voir%20:%20gauguer).%20Jean%20sans%20rire%20:%20homme%20qui%20ne%20rit%20jamais,%20%22%20Jean%20Bi%C3%AAte%20a%20lay%C3%A9%20bin%20des%20h%C3%A9ritiers,%20t'in%20es%20un%20%22%20(GH),%20dit-on%20%C3%A0%20un%20importun%20qui%20tient%20de%20sots%20propos.> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#dit-on%20%C3%A0%20un%20importun%20qui%20tient%20de%20sots%20propos.> , <http://restaure.limsi.fr/2017/rdf#:%20Jean%20du%20gauguer%20:%20(voir%20:%20gauguer).%20Jean%20sans%20rire%20:%20homme%20qui%20ne%20rit%20jamais,%20> ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            restaure:lf_JEAN .
+        a                        ontolex:LexicalEntry ;
+        restaure:etymology       restaure: ;
+        restaure:hasExample      <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Jean%20Bi%C3%AAte%20a%20lay%C3%A9%20bin%20des%20h%C3%A9ritiers,%20t'in%20es%20un%20%22%20(GH),%0A%20%20%20%20%20%20> ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20:%20Jean%20du%20gauguer%20:%20(voir%20:%20gauguer).%20Jean%20sans%20rire%20:%20homme%20qui%20ne%20rit%20jamais,%20%22%20Jean%20Bi%C3%AAte%20a%20lay%C3%A9%20bin%20des%20h%C3%A9ritiers,%20t'in%20es%20un%20%22%20(GH),%20dit-on%20%C3%A0%20un%20importun%20qui%20tient%20de%20sots%20propos.%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#dit-on%20%C3%A0%20un%20importun%20qui%20tient%20de%20sots%20propos.> , <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20:%20Jean%20du%20gauguer%20:%20(voir%20:%20gauguer).%20Jean%20sans%20rire%20:%20homme%20qui%20ne%20rit%20jamais,%0A%20%20%20%20%20%20> ;
+        ontolex:lexicalForm      restaure:lf_JEAN .
 
 <http://restaure.limsi.fr/2017/rdf#lf_JORN%C3%89E>
         a                   ontolex:Form ;
         ontolex:writtenRep  "jornée" .
-
-<http://restaure.limsi.fr/2017/rdf#%22%20T'as%20fait%20les%20jeux%20pour%20eun'%20moto%20%22%20(RP)%20=%20tu%20as%20tout%20fait%20pour%20avoir%20une%20moto.%20>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "\" T'as fait les jeux pour eun' moto \" (RP) = tu as tout fait pour avoir une moto. " .
-
-<http://restaure.limsi.fr/2017/rdf#man%C3%A8ge%20de%20chevaux%20de%20bois.%20%22%20T%C3%A9%20n'%20f'ras%20chi%20rien,%20vieux%20jeu%20d'%20bidets,%20/%20T'as%20biau%20tourner,%20ch'est%20inutile%20%22%20(JM).%20ANC.%20:%20%22%20wette%20%C3%A0%20ten%20jeu%20com%20i%20t'compette%20%22%20(Fl,%20F,%20XVIIe)%20=%20organise-toi%20comme%20tu%20l'entends.>
-        ontolex:writtenRep  "manège de chevaux de bois. \" Té n' f'ras chi rien, vieux jeu d' bidets, / T'as biau tourner, ch'est inutile \" (JM). ANC. : \" wette à ten jeu com i t'compette \" (Fl, F, XVIIe) = organise-toi comme tu l'entends." .
 
 <http://restaure.limsi.fr/2017/rdf#Ch'est%20assez%20d'%20jeujeute,%20/%20Dors,%20min%20gros%20ch%C3%A9ri%20>
         ontolex:writtenRep  "Ch'est assez d' jeujeute, / Dors, min gros chéri " .
@@ -65,42 +63,31 @@ restaure:le10PicardVersFrançais_10
 <http://restaure.limsi.fr/2017/rdf#envoyer%20des%20postillons.>
         ontolex:writtenRep  "envoyer des postillons." .
 
-<http://restaure.limsi.fr/2017/rdf#%22%20Y-a%20peu%20d'%20temps,%20l'%20derni%C3%A8r'%20berline%20/%20Ed%20carbon%20a%20tout%20mis%20jus%20%22%20(JM)%20=%20a%20%C3%A9puis%C3%A9%20la%20veine.%20Et'%20jus%20:%20%C3%AAtre%20%C3%A9puis%C3%A9.%20Ruer%20jus%20:%20jeter%20%C3%A0%20terre.%20>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "\" Y-a peu d' temps, l' dernièr' berline / Ed carbon a tout mis jus \" (JM) = a épuisé la veine. Et' jus : être épuisé. Ruer jus : jeter à terre. " .
-
-<http://restaure.limsi.fr/2017/rdf#%22%20Ai-jou%20eu%20l'%20temps%20d'%20busier%20%C3%A0%20m'%20r%C3%A9volter%20?%20%22%20(JM).%20>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "\" Ai-jou eu l' temps d' busier à m' révolter ? \" (JM). " .
-
-<http://restaure.limsi.fr/2017/rdf#%22%20Commint%20qu'%20t'as%20fait%20l'%20jeu%20pou%20passer%20l'%20ligne%20ed%20d%C3%A9marcation%20?%20%22%20(RD)%20=%20comment%20t'y%20es-tu%20pris%20?%20S'%20m%C3%AAler%20d'%20ses%20jus%20(GL)%20=%20s'occuper%20de%20ses%20affaires.%20In%20n'%20vot%20pus%20clair%20%C3%A0%20s'%20jeu%20=%20on%20n'arrive%20plus%20%C3%A0%20joindre%20les%20deux%20bouts.%20>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "\" Commint qu' t'as fait l' jeu pou passer l' ligne ed démarcation ? \" (RD) = comment t'y es-tu pris ? S' mêler d' ses jus (GL) = s'occuper de ses affaires. In n' vot pus clair à s' jeu = on n'arrive plus à joindre les deux bouts. " .
-
-<http://restaure.limsi.fr/2017/rdf#JEUER%20(BD),%20v.%20:%20jouer.%20I%20m%20'a%20ju%C3%A9%20l'%20tour%20=%20il%20m'a%20bern%C3%A9.%20Ch'est%20ju%C3%A9%20d%C3%A9%20m'n%20argint%20(GH)%20=%20je%20suis%20d'accord.%20>
-        ontolex:writtenRep  "JEUER (BD), v. : jouer. I m 'a jué l' tour = il m'a berné. Ch'est jué dé m'n argint (GH) = je suis d'accord. " .
-
 <http://restaure.limsi.fr/2017/rdf#Jueux%20d'%C3%A9calette%20:%20propre%20%C3%A0%20rien.>
         ontolex:writtenRep  "Jueux d'écalette : propre à rien." .
 
 restaure:le10PicardVersFrançais_9
-        a                              ontolex:LexicalEntry ;
-        lexinfo:gender                 lexinfo:Masculine ;
-        lexinfo:partOfSpeech           lexinfo:Noun ;
-        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20A%20l'%20ducasse,%20y-avot%20les%20jav'loteux%20qui%20v'nutent%20tirer%20au%20cabaret%20pas%20lon%20d%C3%A9%20l'%20plache%20%22%20(PP).> ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#lanceur%20de%20javelot.%20%22%20A%20l'%20ducasse,%20y-avot%20les%20jav'loteux%20qui%20v'nutent%20tirer%20au%20cabaret%20pas%20lon%20d%C3%A9%20l'%20plache%20%22%20(PP).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#lanceur%20de%20javelot.%20> ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_Jav(e)loteux> .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:gender           lexinfo:Masculine ;
+        lexinfo:partOfSpeech     lexinfo:Noun ;
+        restaure:etymology       restaure: ;
+        restaure:hasExample      <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20A%20l'%20ducasse,%20y-avot%20les%20jav'loteux%20qui%20v'nutent%20tirer%20au%20cabaret%20pas%20lon%20d%C3%A9%20l'%20plache%20%22%20(PP).%0A%20%20%20%20%20%20> ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20lanceur%20de%20javelot.%20%22%20A%20l'%20ducasse,%20y-avot%20les%20jav'loteux%20qui%20v'nutent%20tirer%20au%20cabaret%20pas%20lon%20d%C3%A9%20l'%20plache%20%22%20(PP).%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#lanceur%20de%20javelot.%20> ;
+        ontolex:lexicalForm      <http://restaure.limsi.fr/2017/rdf#lf_Jav(e)loteux> .
 
 restaure:le10PicardVersFrançais_18
-        a                              ontolex:LexicalEntry ;
-        lexinfo:gender                 lexinfo:Masculine ;
-        lexinfo:partOfSpeech           lexinfo:Noun ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#ustensiles%20de%20m%C3%A9nage%20en%20bois%20(souvent%20tourn%C3%A9)%20encore%20fabriqu%C3%A9s%20dans%20certaines%20communes%20de%20l'Avesnois.> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#ustensiles%20de%20m%C3%A9nage%20en%20bois%20(souvent%20tourn%C3%A9)%20encore%20fabriqu%C3%A9s%20dans%20certaines%20communes%20de%20l'Avesnois.> ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_JOLI-BOIS%20(ou%20BOIS-JOLI)> .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:gender           lexinfo:Masculine ;
+        lexinfo:partOfSpeech     lexinfo:Noun ;
+        restaure:etymology       restaure: ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20ustensiles%20de%20m%C3%A9nage%20en%20bois%20(souvent%20tourn%C3%A9)%20encore%20fabriqu%C3%A9s%20dans%20certaines%20communes%20de%20l'Avesnois.%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20ustensiles%20de%20m%C3%A9nage%20en%20bois%20(souvent%20tourn%C3%A9)%20encore%20fabriqu%C3%A9s%20dans%20certaines%20communes%20de%20l'Avesnois.%0A%20%20%20%20%20%20> ;
+        ontolex:lexicalForm      <http://restaure.limsi.fr/2017/rdf#lf_JOLI-BOIS%20(ou%20BOIS-JOLI)> .
 
 <http://restaure.limsi.fr/2017/rdf#Traductionpar%20terre>
         a                   ontolex:Form ;
@@ -113,33 +100,25 @@ restaure:le10PicardVersFrançais_18
         a                   ontolex:Form ;
         ontolex:writtenRep  "\" El tiot monn' sur l' herbe i junguelle \" (JM)." .
 
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Par%20suit'%20d'un%20choc,%20/%20Il%20a%20fallu%20qu%C3%A9%20l'%20cache%20(=%20la%20cage%20de%20la%20mine),%20all'%20joque%20%22%20(LB).%0A%20%20%20%20%20%20>
+        a                   ontolex:Form ;
+        ontolex:writtenRep  "\n        \" Par suit' d'un choc, / Il a fallu qué l' cache (= la cage de la mine), all' joque \" (LB).\n      " .
+
 <http://restaure.limsi.fr/2017/rdf#blouse%20de%20mineur%20(avant%20la%20derni%C3%A8re%20guerre)%20;%20veste%20(vx).%20>
         ontolex:writtenRep  "blouse de mineur (avant la dernière guerre) ; veste (vx). " .
-
-<http://restaure.limsi.fr/2017/rdf#lanceur%20de%20javelot.%20%22%20A%20l'%20ducasse,%20y-avot%20les%20jav'loteux%20qui%20v'nutent%20tirer%20au%20cabaret%20pas%20lon%20d%C3%A9%20l'%20plache%20%22%20(PP).>
-        ontolex:writtenRep  "lanceur de javelot. \" A l' ducasse, y-avot les jav'loteux qui v'nutent tirer au cabaret pas lon dé l' plache \" (PP)." .
-
-<http://restaure.limsi.fr/2017/rdf#Ch'est%20eine%20jument%20d'%20brasseux%20=%20c'est%20une%20femme%20bien%20en%20chair%20et%20vigoureuse.>
-        ontolex:writtenRep  "Ch'est eine jument d' brasseux = c'est une femme bien en chair et vigoureuse." .
 
 lexinfo:Female  ontolex:writtenRep  "Féminin"@fra .
 
 <http://restaure.limsi.fr/2017/rdf#Disperser%20:%20>
         ontolex:writtenRep  "Disperser : " .
 
-<http://restaure.limsi.fr/2017/rdf#%C3%A0%20bas,%20par%20terre.%20Mett'%20jus%20:%20jeter%20%C3%A0%20terre,%20annuler,%20mettre%20%C3%A0%20n%C3%A9ant.%20%22%20Y-a%20peu%20d'%20temps,%20l'%20derni%C3%A8r'%20berline%20/%20Ed%20carbon%20a%20tout%20mis%20jus%20%22%20(JM)%20=%20a%20%C3%A9puis%C3%A9%20la%20veine.%20Et'%20jus%20:%20%C3%AAtre%20%C3%A9puis%C3%A9.%20Ruer%20jus%20:%20jeter%20%C3%A0%20terre.%20%22%20Place%20des%20arcs-boutants%20qui%20furent>
-        ontolex:writtenRep  "à bas, par terre. Mett' jus : jeter à terre, annuler, mettre à néant. \" Y-a peu d' temps, l' dernièr' berline / Ed carbon a tout mis jus \" (JM) = a épuisé la veine. Et' jus : être épuisé. Ruer jus : jeter à terre. \" Place des arcs-boutants qui furent" .
-
-<http://restaure.limsi.fr/2017/rdf#%22%20Et%20si%20un%20joque%20un%20pau%20tro%20tar,%20/%20I%20sanne%20%C3%A0%20vir%20qu'%20ch'est%20du%20azar%20%22%20(Fl,%20F.,%20XVIIe).%20>
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20J'ouvros%20comm'%20galibot%20%C3%A0%20l'%20fosse.%20/%20Quand,%20au%20jour,%20i%20passot%20un%20train,%20/%20Cha%20craquot,%20effrayant%20les%20gosses%20%22%20(JM).%0A%20%20%20%20%20%20>
         a                   ontolex:Form ;
-        ontolex:writtenRep  "\" Et si un joque un pau tro tar, / I sanne à vir qu' ch'est du azar \" (Fl, F., XVIIe). " .
+        ontolex:writtenRep  "\n        \" J'ouvros comm' galibot à l' fosse. / Quand, au jour, i passot un train, / Cha craquot, effrayant les gosses \" (JM).\n      " .
 
 restaure:Traductionannuler
         a                   ontolex:Form ;
         ontolex:writtenRep  "annuler" .
-
-restaure:lf_JUER  a         ontolex:Form ;
-        ontolex:writtenRep  "juer" .
 
 <http://restaure.limsi.fr/2017/rdf#lf_Jeu%20d'%20bidets>
         a                   ontolex:Form ;
@@ -148,34 +127,23 @@ restaure:lf_JUER  a         ontolex:Form ;
 restaure:lf_Jeuer  a        ontolex:Form ;
         ontolex:writtenRep  "jeuer" .
 
-<http://restaure.limsi.fr/2017/rdf#je,%20dans%20certaines%20constr.%20interr...%20%22%20N'%20sus%20jou%20point%20prope%20?%20%22%20(GF).%20%22%20Ai-jou%20eu%20l'%20temps%20d'%20busier%20%C3%A0%20m'%20r%C3%A9volter%20?%20%22%20(JM).%20Correspond%20%C3%A0%20:%20est-ce%20que%20?%20%20%22%20Jou%20qu'%20t%C3%A9%20cros%20qu'%20nous%20n'%20d'allons%20nin%20juer%20?%20%22%20(GF).%20%22%20Ch't'eun'%20gov%C3%A8r',%20eun'%20tart'>
-        ontolex:writtenRep  "je, dans certaines constr. interr... \" N' sus jou point prope ? \" (GF). \" Ai-jou eu l' temps d' busier à m' révolter ? \" (JM). Correspond à : est-ce que ?  \" Jou qu' té cros qu' nous n' d'allons nin juer ? \" (GF). \" Ch't'eun' govèr', eun' tart'" .
-
-<http://restaure.limsi.fr/2017/rdf#%22%20Mais%20l'%20jalous't%C3%A9%20des%20pauv's,%20vraimint,%20/%20M'a%20fait%20du%20mau%20%22%20(JM).>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "\" Mais l' jalous'té des pauv's, vraimint, / M'a fait du mau \" (JM)." .
+restaure:lf_JUER  a         ontolex:Form ;
+        ontolex:writtenRep  "juer" .
 
 <http://restaure.limsi.fr/2017/rdf#lf_J%C3%89E>
         a                   ontolex:Form ;
         ontolex:writtenRep  "jée" .
 
 restaure:le10PicardVersFrançais_26
-        a                              ontolex:LexicalEntry ;
-        lexinfo:partOfSpeech           lexinfo:Adjective ;
-        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20J'aperchos%20eun'%20fill'%20joulite%20comm'%20les%20amours%20%22%20(JQ).> ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#jolie.%20%22%20J'aperchos%20eun'%20fill'%20joulite%20comm'%20les%20amours%20%22%20(JQ).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#jolie.%20> ;
-        restaure:TranslatableInFrenchOneWord
-                restaure:Traductionjolie ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_JOULITE%20(JQ)> .
-
-<http://restaure.limsi.fr/2017/rdf#%22%20Quand%20j'%20vos%20un%20jeu%20parel,%20el%20ti%C3%AAte%20al%20m%C3%A9%20tourne%20%22%20(RD)%20=%20un%20d%C3%A9sordre%20semblable.%20Etc.%20(Voir%20:%20faiseux%20d'%20jeux).>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "\" Quand j' vos un jeu parel, el tiête al mé tourne \" (RD) = un désordre semblable. Etc. (Voir : faiseux d' jeux)." .
-
-<http://restaure.limsi.fr/2017/rdf#suffire%20(%C3%A0%20quelque%20chose)%20;%20arriver%20(%C3%A0%20faire%20quelque%20chose).%20Ne%20s'emploie%20qu'%C3%A0%20la%20forme%20n%C3%A9g.%20J%C3%A9%20n'%20peux%20jurvir%20:%20je%20ne%20peux%20plus%20y%20arriver.%20%22%20In%20n'%20sara%20mie%20jurvir%20/%20Si%20cha%20va%20cor%20comm'%20cha%20tout'%20qu'%C3%A0%20la%20fin%20d%C3%A9%20l'%20belle%20!%20%22%20(JD).>
-        ontolex:writtenRep  "suffire (à quelque chose) ; arriver (à faire quelque chose). Ne s'emploie qu'à la forme nég. Jé n' peux jurvir : je ne peux plus y arriver. \" In n' sara mie jurvir / Si cha va cor comm' cha tout' qu'à la fin dé l' belle ! \" (JD)." .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:partOfSpeech     lexinfo:Adjective ;
+        restaure:etymology       restaure: ;
+        restaure:hasExample      <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20J'aperchos%20eun'%20fill'%20joulite%20comm'%20les%20amours%20%22%20(JQ).%0A%20%20%20%20%20%20> ;
+        restaure:translatableAs  restaure:Traduction , restaure:Traductionjolie ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20jolie.%20%22%20J'aperchos%20eun'%20fill'%20joulite%20comm'%20les%20amours%20%22%20(JQ).%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#jolie.%20> ;
+        ontolex:lexicalForm      <http://restaure.limsi.fr/2017/rdf#lf_JOULITE%20(JQ)> .
 
 <http://restaure.limsi.fr/2017/rdf#babiller,%20gazouiller.>
         ontolex:writtenRep  "babiller, gazouiller." .
@@ -189,81 +157,98 @@ lexinfo:Noun  ontolex:writtenRep  "Nom"@fra .
         a                   ontolex:Form ;
         ontolex:writtenRep  "jaspider (gh)" .
 
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20Sp%C3%A9cial%20:%20faire%20un%20tapis,%20jadis%20de%20feuillages,%20maintenant%20de%20rognures%20de%20massicot%20(papier%20blanc),%20la%20jonqure,%20devant%20la%20porte%20des%20nouveaux%20mari%C3%A9s.%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        Spécial : faire un tapis, jadis de feuillages, maintenant de rognures de massicot (papier blanc), la jonqure, devant la porte des nouveaux mariés.\n      " .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20musard.%20ANC.%20:%20jongler,%20gengler%20:%20jaser,%20bavarder,%20railler%20(Psautier%20de%20Cambridge,%20d%C3%A9b.%20XIIe)%20du%20francique%20jangalon%20:%20crier.%20Il%20y%20a%20eu%20une%20confusion%20ancienne%20avec%20jogler%20(lat.%20joculari)%20:%20jongler,%20chanter,%20faire%20des%20tours.%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        musard. ANC. : jongler, gengler : jaser, bavarder, railler (Psautier de Cambridge, déb. XIIe) du francique jangalon : crier. Il y a eu une confusion ancienne avec jogler (lat. joculari) : jongler, chanter, faire des tours.\n      " .
+
+<http://restaure.limsi.fr/2017/rdf#Correspond%20%C3%A0%20:%20est-ce%20que%20?%20>
+        ontolex:writtenRep  "Correspond à : est-ce que ? " .
+
 lexinfo:Adjective  ontolex:writtenRep  "Adjectif"@fra .
 
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Et%20jocqu'%20!%20T%C3%A9%20farfouill'%20tous%20mes%20dens%20%22%20(Fl,%20F,%20XVIIe)%20=%0A%20%20%20%20%20%20>
+        a                   ontolex:Form ;
+        ontolex:writtenRep  "\n        \" Et jocqu' ! Té farfouill' tous mes dens \" (Fl, F, XVIIe) =\n      " .
+
 restaure:le10PicardVersFrançais_34
-        a                              ontolex:LexicalEntry ;
-        lexinfo:gender                 lexinfo:Female ;
-        lexinfo:partOfSpeech           lexinfo:Noun ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#Ch'est%20eine%20jument%20d'%20brasseux%20=%20c'est%20une%20femme%20bien%20en%20chair%20et%20vigoureuse.> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#Ch'est%20eine%20jument%20d'%20brasseux%20=%20c'est%20une%20femme%20bien%20en%20chair%20et%20vigoureuse.> ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            restaure:lf_JUMENT .
-
-<http://restaure.limsi.fr/2017/rdf#%22%20Tous%20les%20jours%20au%20soir,%20tu%20fais%20l'%20tour%20du%20villache%20%22%20(RD).%20>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "\" Tous les jours au soir, tu fais l' tour du villache \" (RD). " .
-
-<http://restaure.limsi.fr/2017/rdf#%22%20Suis%20min%20habile%20;%20/%20Car%20nous%20n'avons%20rien%20%C3%A0%20joquer%20%22%20(JM)%20=%20nous%20n'avons%20pas%20le%20temps%20de%20nous%20amuser.%20>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "\" Suis min habile ; / Car nous n'avons rien à joquer \" (JM) = nous n'avons pas le temps de nous amuser. " .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:gender           lexinfo:Female ;
+        lexinfo:partOfSpeech     lexinfo:Noun ;
+        restaure:etymology       restaure: ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20Ch'est%20eine%20jument%20d'%20brasseux%20=%20c'est%20une%20femme%20bien%20en%20chair%20et%20vigoureuse.%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20Ch'est%20eine%20jument%20d'%20brasseux%20=%20c'est%20une%20femme%20bien%20en%20chair%20et%20vigoureuse.%0A%20%20%20%20%20%20> ;
+        ontolex:lexicalForm      restaure:lf_JUMENT .
 
 restaure:le10PicardVersFrançais_4
-        a                              ontolex:LexicalEntry ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20gaqui%C3%A8re).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20gaqui%C3%A8re).> ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_JAQUI%C3%88RE> .
+        a                        ontolex:LexicalEntry ;
+        restaure:etymology       restaure: ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20gaqui%C3%A8re).> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20gaqui%C3%A8re).> ;
+        ontolex:lexicalForm      <http://restaure.limsi.fr/2017/rdf#lf_JAQUI%C3%88RE> .
 
 restaure:le10PicardVersFrançais_13
-        a                              ontolex:LexicalEntry ;
-        lexinfo:gender                 lexinfo:Masculine ;
-        lexinfo:partOfSpeech           lexinfo:Noun ;
-        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20T%C3%A9%20n'%20f'ras%20chi%20rien,%20vieux%20jeu%20d'%20bidets,%20/%20T'as%20biau%20tourner,%20ch'est%20inutile%20%22%20(JM).%20> ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#man%C3%A8ge%20de%20chevaux%20de%20bois.%20%22%20T%C3%A9%20n'%20f'ras%20chi%20rien,%20vieux%20jeu%20d'%20bidets,%20/%20T'as%20biau%20tourner,%20ch'est%20inutile%20%22%20(JM).%20ANC.%20:%20%22%20wette%20%C3%A0%20ten%20jeu%20com%20i%20t'compette%20%22%20(Fl,%20F,%20XVIIe)%20=%20organise-toi%20comme%20tu%20l'entends.> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#man%C3%A8ge%20de%20chevaux%20de%20bois.%20> ;
-        restaure:oldInformation        <http://restaure.limsi.fr/2017/rdf#ANC.%20:%20%22%20wette%20%C3%A0%20ten%20jeu%20com%20i%20t'compette%20%22%20(Fl,%20F,%20XVIIe)%20=%20organise-toi%20comme%20tu%20l'entends.> ;
-        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_Jeu%20d'%20bidets> .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:gender           lexinfo:Masculine ;
+        lexinfo:partOfSpeech     lexinfo:Noun ;
+        restaure:etymology       <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20ANC.%20:%20%22%20wette%20%C3%A0%20ten%20jeu%20com%20i%20t'compette%20%22%20(Fl,%20F,%20XVIIe)%20=%20organise-toi%20comme%20tu%20l'entends.%0A%20%20%20%20%20%20%0A%20%20%20%20> ;
+        restaure:hasExample      <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20T%C3%A9%20n'%20f'ras%20chi%20rien,%20vieux%20jeu%20d'%20bidets,%20/%20T'as%20biau%20tourner,%20ch'est%20inutile%20%22%20(JM).%0A%20%20%20%20%20%20> ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20man%C3%A8ge%20de%20chevaux%20de%20bois.%20%22%20T%C3%A9%20n'%20f'ras%20chi%20rien,%20vieux%20jeu%20d'%20bidets,%20/%20T'as%20biau%20tourner,%20ch'est%20inutile%20%22%20(JM).%20ANC.%20:%20%22%20wette%20%C3%A0%20ten%20jeu%20com%20i%20t'compette%20%22%20(Fl,%20F,%20XVIIe)%20=%20organise-toi%20comme%20tu%20l'entends.%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#man%C3%A8ge%20de%20chevaux%20de%20bois.%20> ;
+        ontolex:lexicalForm      <http://restaure.limsi.fr/2017/rdf#lf_Jeu%20d'%20bidets> .
 
-<http://restaure.limsi.fr/2017/rdf#ANC.%20:%20jongler,%20gengler%20:%20jaser,%20bavarder,%20railler%20(Psautier%20de%20Cambridge,%20d%C3%A9b.%20XIIe)%20du%20francique%20jangalon%20:%20crier.%20Il%20y%20a%20eu%20une%20confusion%20ancienne%20avec%20jogler%20(lat.%20joculari)%20:%20jongler,%20chanter,%20faire%20des%20tours.>
-        ontolex:writtenRep  "ANC. : jongler, gengler : jaser, bavarder, railler (Psautier de Cambridge, déb. XIIe) du francique jangalon : crier. Il y a eu une confusion ancienne avec jogler (lat. joculari) : jongler, chanter, faire des tours." .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Jou%20qu'%20t%C3%A9%20cros%20qu'%20nous%20n'%20d'allons%20nin%20juer%20?%20%22%20(GF).%0A%20%20%20%20%20%20>
+        a                   ontolex:Form ;
+        ontolex:writtenRep  "\n        \" Jou qu' té cros qu' nous n' d'allons nin juer ? \" (GF).\n      " .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20ANC.%20:%20joqier%20:%20se%20jucher%20(oiseaux),%20%C3%AAtre%20en%20repos,%20rester%20sans%20rien%20faire%20(Wace,%201155).%20%22%20Vous%20volies%20adies%20devancier%20/%20Ne%20mie%20en%20.I.%20seul%20lieu%20jokier%20%22%20(Regr.%20Guillaume).%20%22%20All%C3%A9%20to%20rademen,%20cour%C3%A9,%20ne%20joqui%C3%A9%20woaire%20!%20%22%20(Fl,%20S,%201648)%20=%20ne%20vous%20attardez%20gu%C3%A8re.%0A%20%20%20%20%20%20%0A%20%20%20%20>
+        ontolex:writtenRep  "\n      \n        ANC. : joqier : se jucher (oiseaux), être en repos, rester sans rien faire (Wace, 1155). \" Vous volies adies devancier / Ne mie en .I. seul lieu jokier \" (Regr. Guillaume). \" Allé to rademen, couré, ne joquié woaire ! \" (Fl, S, 1648) = ne vous attardez guère.\n      \n    " .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20joueur.%20%22%20Cha,%20un%20jueu%20d'%20balle%20?%20Eine%20passette%20!%20Il%20y%20faudrot%20un%20gant%20comme%20un%20couvi%C3%A8pe%20ed%20boulleuse%20!%20%22%20(EM).%20Jueux%20d'%C3%A9calette%20:%20propre%20%C3%A0%20rien.%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        joueur. \" Cha, un jueu d' balle ? Eine passette ! Il y faudrot un gant comme un couvièpe ed boulleuse ! \" (EM). Jueux d'écalette : propre à rien.\n      " .
 
 <http://restaure.limsi.fr/2017/rdf#man%C3%A8ge%20de%20chevaux%20de%20bois.%20>
         ontolex:writtenRep  "manège de chevaux de bois. " .
-
-<http://restaure.limsi.fr/2017/rdf#%20%22%20Ch'est%20jusse%20comme%20un%20pot%20d'%20chinq%20pintes%20%22%20(GH)%20=%20c'est%20faux,%20puisque%20le%20pot%20%C3%A9tait%20une%20mesure%20de%20quatre%20pintes.>
-        ontolex:writtenRep  " \" Ch'est jusse comme un pot d' chinq pintes \" (GH) = c'est faux, puisque le pot était une mesure de quatre pintes." .
 
 <http://restaure.limsi.fr/2017/rdf#Traductionjeune%20fille>
         a                   ontolex:Form ;
         ontolex:writtenRep  "jeune fille" .
 
-<http://restaure.limsi.fr/2017/rdf#tasse.%20P%C3%A9tite%20jatte%20:%20tasse%20%C3%A0%20caf%C3%A9.%20Grande%20jatte%20:%20bol%20%C3%A0%20d%C3%A9jeuner.%20%22%20Elle%20entra%20avec%20une%20jatte%20de%20caf%C3%A9%20dans%20la%20chambre%20de%20la%20dormeuse%20%22%20(CD).>
-        ontolex:writtenRep  "tasse. Pétite jatte : tasse à café. Grande jatte : bol à déjeuner. \" Elle entra avec une jatte de café dans la chambre de la dormeuse \" (CD)." .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%201%20-%20%C3%AAtre%20au%20repos,%20ne%20pas%20travailler,%20ch%C3%B4mer.%20%22%20Par%20suit'%20d'un%20choc,%20/%20Il%20a%20fallu%20qu%C3%A9%20l'%20cache%20(=%20la%20cage%20de%20la%20mine),%20all'%20joque%20%22%20(LB).%20%22%20Suis%20min%20habile%20;%20/%20Car%20nous%20n'avons%20rien%20%C3%A0%20joquer%20%22%20(JM)%20=%20nous%20n'avons%20pas%20le%20temps%20de%20nous%20amuser.%20%22%20Pierr'%20n'est%20pas%20souv%C3%AEnt%20%C3%A0%20joque%20%22%20(JM)%20=%20il%20n'est%20pas%20souvent%20inactif.%20%22%20A%20belle%20voie,%20i%20n'%20y%20a%20rien%20%C3%A0%20joquer%20%22%20=%20il%20ne%20faut%20pas%20s'arr%C3%AAter%20en%20si%20bon%20chemin.%20%22%20J'%20vas%20t'apprinte%20%C3%A0%20joquer,%20prale%20!%20%22%20(PP)%20=%20%C3%A0%20ne%20pas%20aller%20au%20travail.%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%202%20-%20arr%C3%AAter%20:%20%22%20Et%20jocqu'%20!%20T%C3%A9%20farfouill'%20tous%20mes%20dens%20%22%20(Fl,%20F,%20XVIIe)%20=%20arr%C3%AAte%20(de%20m'embrasser)%20!%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%203%20-%20s'attarder,%20lambiner.%20%22%20Et%20si%20un%20joque%20un%20pau%20tro%20tar,%20/%20I%20sanne%20%C3%A0%20vir%20qu'%20ch'est%20du%20azar%20%22%20(Fl,%20F.,%20XVIIe).%20%22%20M'%20montre%20all'%20joque%20%22%20=%20ma%20montre%20retarde.%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        1 - être au repos, ne pas travailler, chômer. \" Par suit' d'un choc, / Il a fallu qué l' cache (= la cage de la mine), all' joque \" (LB). \" Suis min habile ; / Car nous n'avons rien à joquer \" (JM) = nous n'avons pas le temps de nous amuser. \" Pierr' n'est pas souvînt à joque \" (JM) = il n'est pas souvent inactif. \" A belle voie, i n' y a rien à joquer \" = il ne faut pas s'arrêter en si bon chemin. \" J' vas t'apprinte à joquer, prale ! \" (PP) = à ne pas aller au travail.\n      \n        2 - arrêter : \" Et jocqu' ! Té farfouill' tous mes dens \" (Fl, F, XVIIe) = arrête (de m'embrasser) !\n      \n        3 - s'attarder, lambiner. \" Et si un joque un pau tro tar, / I sanne à vir qu' ch'est du azar \" (Fl, F., XVIIe). \" M' montre all' joque \" = ma montre retarde.\n      " .
 
-<http://restaure.limsi.fr/2017/rdf#S.%20f.%20:%20journ%C3%A9e.%20/%20L'%20grain%20qu'on%20carquot%20d'%20jorn%C3%A9es%20inti%C3%A8res%20%22%20(GF).%20ANC.%20:%20Jornee%20(Beno%C3%AEt%20de%20Ste%20Maure,%201160),%20jorn%20(XIe).%20%22%20Chan%20qui%20fu%20di%20et%20foai%20le%20deuzimme%20jorn%C3%A9e%20%22%20(Fl,%20H,%201654).>
-        ontolex:writtenRep  "S. f. : journée. / L' grain qu'on carquot d' jornées intières \" (GF). ANC. : Jornee (Benoît de Ste Maure, 1160), jorn (XIe). \" Chan qui fu di et foai le deuzimme jornée \" (Fl, H, 1654)." .
-
-<http://restaure.limsi.fr/2017/rdf#blouse%20de%20mineur%20(avant%20la%20derni%C3%A8re%20guerre)%20;%20veste%20(vx).%20%22%20Lamp',%20t%C3%A9%20restos,%20dins%20m'%20d%C3%A9tresse,%20/%20Pindue%20%C3%A0%20m'%20jupon%20d'%20mineur%20%22%20(JM).%20ANC.%20:%20jupel%20:%20pourpoint,%20tunique%20(Adam%20de%20la%20Halle,%201260).>
-        ontolex:writtenRep  "blouse de mineur (avant la dernière guerre) ; veste (vx). \" Lamp', té restos, dins m' détresse, / Pindue à m' jupon d' mineur \" (JM). ANC. : jupel : pourpoint, tunique (Adam de la Halle, 1260)." .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20T%C3%A9%20n'%20f'ras%20chi%20rien,%20vieux%20jeu%20d'%20bidets,%20/%20T'as%20biau%20tourner,%20ch'est%20inutile%20%22%20(JM).%0A%20%20%20%20%20%20>
+        a                   ontolex:Form ;
+        ontolex:writtenRep  "\n        \" Té n' f'ras chi rien, vieux jeu d' bidets, / T'as biau tourner, ch'est inutile \" (JM).\n      " .
 
 <http://restaure.limsi.fr/2017/rdf#jeunesse%20;%20jeune%20fille.%20>
         ontolex:writtenRep  "jeunesse ; jeune fille. " .
 
-restaure:le10PicardVersFrançais_21
-        a                              ontolex:LexicalEntry ;
-        lexinfo:partOfSpeech           lexinfo:Verb ;
-        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Et%20jocqu'%20!%20T%C3%A9%20farfouill'%20tous%20mes%20dens%20%22%20(Fl,%20F,%20XVIIe)%20=%20> , <http://restaure.limsi.fr/2017/rdf#%22%20Et%20si%20un%20joque%20un%20pau%20tro%20tar,%20/%20I%20sanne%20%C3%A0%20vir%20qu'%20ch'est%20du%20azar%20%22%20(Fl,%20F.,%20XVIIe).%20> , <http://restaure.limsi.fr/2017/rdf#%22%20Suis%20min%20habile%20;%20/%20Car%20nous%20n'avons%20rien%20%C3%A0%20joquer%20%22%20(JM)%20=%20nous%20n'avons%20pas%20le%20temps%20de%20nous%20amuser.%20> , <http://restaure.limsi.fr/2017/rdf#%22%20Pierr'%20n'est%20pas%20souv%C3%AEnt%20%C3%A0%20joque%20%22%20(JM)%20=%20il%20n'est%20pas%20souvent%20inactif.%20> , <http://restaure.limsi.fr/2017/rdf#%22%20M'%20montre%20all'%20joque%20%22%20=%20ma%20montre%20retarde.> , <http://restaure.limsi.fr/2017/rdf#%22%20Par%20suit'%20d'un%20choc,%20/%20Il%20a%20fallu%20qu%C3%A9%20l'%20cache%20(=%20la%20cage%20de%20la%20mine),%20all'%20joque%20%22%20(LB).%20> , <http://restaure.limsi.fr/2017/rdf#%22%20A%20belle%20voie,%20i%20n'%20y%20a%20rien%20%C3%A0%20joquer%20%22%20=%20il%20ne%20faut%20pas%20s'arr%C3%AAter%20en%20si%20bon%20chemin.%20> , <http://restaure.limsi.fr/2017/rdf#%22%20J'%20vas%20t'apprinte%20%C3%A0%20joquer,%20prale%20!%20%22%20(PP)%20=%20%C3%A0%20ne%20pas%20aller%20au%20travail.%20> ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#1%20-%20%C3%AAtre%20au%20repos,%20ne%20pas%20travailler,%20ch%C3%B4mer.%20%22%20Par%20suit'%20d'un%20choc,%20/%20Il%20a%20fallu%20qu%C3%A9%20l'%20cache%20(=%20la%20cage%20de%20la%20mine),%20all'%20joque%20%22%20(LB).%20%22%20Suis%20min%20habile%20;%20/%20Car%20nous%20n'avons%20rien%20%C3%A0%20joquer%20%22%20(JM)%20=%20nous%20n'avons%20pas%20le%20temps%20de%20nous%20amuser.%20%22%20Pierr'%20n'est%20pas%20souv%C3%AEnt%20%C3%A0%20joque%20%22%20(JM)%20=%20il%20n'est%20pas%20souvent%20inactif.%20%22%20A%20belle%20voie,%20i%20n'%20y%20a%20rien%20%C3%A0%20joquer%20%22%20=%20il%20ne%20faut%20pas%20s'arr%C3%AAter%20en%20si%20bon%20chemin.%20%22%20J'%20vas%20t'apprinte%20%C3%A0%20joquer,%20prale%20!%20%22%20(PP)%20=%20%C3%A0%20ne%20pas%20aller%20au%20travail.%202%20-%20arr%C3%AAter%20:%20%22%20Et%20jocqu'%20!%20T%C3%A9%20farfouill'%20tous%20mes%20dens%20%22%20(Fl,%20F,%20XVIIe)%20=%20arr%C3%AAte%20(de%20m'embrasser)%20!%203%20-%20s'attarder,%20lambiner.%20%22%20Et%20si%20un%20joque%20un%20pau%20tro%20tar,%20/%20I%20sanne%20%C3%A0%20vir%20qu'%20ch'est%20du%20azar%20%22%20(Fl,%20F.,%20XVIIe).%20%22%20M'%20montre%20all'%20joque%20%22%20=%20ma%20montre%20retarde.> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#1%20-%20%C3%AAtre%20au%20repos,%20ne%20pas%20travailler,%20ch%C3%B4mer.%20> , <http://restaure.limsi.fr/2017/rdf#3%20-%20s'attarder,%20lambiner.%20> , <http://restaure.limsi.fr/2017/rdf#arr%C3%AAte%20(de%20m'embrasser)%20!%20> , <http://restaure.limsi.fr/2017/rdf#2%20-%20arr%C3%AAter%20:%20> ;
-        restaure:TranslatableInFrenchOneWord
-                <http://restaure.limsi.fr/2017/rdf#Traductionch%C3%B4mer> , restaure:Traductionlambiner ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            restaure:lf_JOQUER .
-
-<http://restaure.limsi.fr/2017/rdf#%22%20Vous%20trouv'rez%20cor%20des%20journ%C3%A9ress',%20des%20buress',%20des%20gard'%20malat'...%20%22%20(JQ).>
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20In%20li%20fait%20eun'%20bell'%20jonqure%20/%20Ed%20fleurs,%20ed%20sabe%20et%20d'%20biau%20papier%20%22%20(JM).%0A%20%20%20%20%20%20>
         a                   ontolex:Form ;
-        ontolex:writtenRep  "\" Vous trouv'rez cor des journéress', des buress', des gard' malat'... \" (JQ)." .
+        ontolex:writtenRep  "\n        \" In li fait eun' bell' jonqure / Ed fleurs, ed sabe et d' biau papier \" (JM).\n      " .
+
+restaure:le10PicardVersFrançais_21
+        a                        ontolex:LexicalEntry ;
+        lexinfo:partOfSpeech     lexinfo:Verb ;
+        restaure:etymology       restaure: ;
+        restaure:hasExample      <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Suis%20min%20habile%20;%20/%20Car%20nous%20n'avons%20rien%20%C3%A0%20joquer%20%22%20(JM)%20=%20nous%20n'avons%20pas%20le%20temps%20de%20nous%20amuser.%0A%20%20%20%20%20%20> , <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Et%20jocqu'%20!%20T%C3%A9%20farfouill'%20tous%20mes%20dens%20%22%20(Fl,%20F,%20XVIIe)%20=%0A%20%20%20%20%20%20> , <http://restaure.limsi.fr/2017/rdf#%22%20M'%20montre%20all'%20joque%20%22%20=%20ma%20montre%20retarde.> , <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20A%20belle%20voie,%20i%20n'%20y%20a%20rien%20%C3%A0%20joquer%20%22%20=%20il%20ne%20faut%20pas%20s'arr%C3%AAter%20en%20si%20bon%20chemin.%0A%20%20%20%20%20%20> , <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Pierr'%20n'est%20pas%20souv%C3%AEnt%20%C3%A0%20joque%20%22%20(JM)%20=%20il%20n'est%20pas%20souvent%20inactif.%0A%20%20%20%20%20%20> , <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Par%20suit'%20d'un%20choc,%20/%20Il%20a%20fallu%20qu%C3%A9%20l'%20cache%20(=%20la%20cage%20de%20la%20mine),%20all'%20joque%20%22%20(LB).%0A%20%20%20%20%20%20> , <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Et%20si%20un%20joque%20un%20pau%20tro%20tar,%20/%20I%20sanne%20%C3%A0%20vir%20qu'%20ch'est%20du%20azar%20%22%20(Fl,%20F.,%20XVIIe).%0A%20%20%20%20%20%20> , <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20J'%20vas%20t'apprinte%20%C3%A0%20joquer,%20prale%20!%20%22%20(PP)%20=%20%C3%A0%20ne%20pas%20aller%20au%20travail.%0A%20%20%20%20%20%20> ;
+        restaure:translatableAs  restaure:Traductionlambiner , <http://restaure.limsi.fr/2017/rdf#Traductionch%C3%B4mer> , restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%201%20-%20%C3%AAtre%20au%20repos,%20ne%20pas%20travailler,%20ch%C3%B4mer.%20%22%20Par%20suit'%20d'un%20choc,%20/%20Il%20a%20fallu%20qu%C3%A9%20l'%20cache%20(=%20la%20cage%20de%20la%20mine),%20all'%20joque%20%22%20(LB).%20%22%20Suis%20min%20habile%20;%20/%20Car%20nous%20n'avons%20rien%20%C3%A0%20joquer%20%22%20(JM)%20=%20nous%20n'avons%20pas%20le%20temps%20de%20nous%20amuser.%20%22%20Pierr'%20n'est%20pas%20souv%C3%AEnt%20%C3%A0%20joque%20%22%20(JM)%20=%20il%20n'est%20pas%20souvent%20inactif.%20%22%20A%20belle%20voie,%20i%20n'%20y%20a%20rien%20%C3%A0%20joquer%20%22%20=%20il%20ne%20faut%20pas%20s'arr%C3%AAter%20en%20si%20bon%20chemin.%20%22%20J'%20vas%20t'apprinte%20%C3%A0%20joquer,%20prale%20!%20%22%20(PP)%20=%20%C3%A0%20ne%20pas%20aller%20au%20travail.%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%202%20-%20arr%C3%AAter%20:%20%22%20Et%20jocqu'%20!%20T%C3%A9%20farfouill'%20tous%20mes%20dens%20%22%20(Fl,%20F,%20XVIIe)%20=%20arr%C3%AAte%20(de%20m'embrasser)%20!%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%203%20-%20s'attarder,%20lambiner.%20%22%20Et%20si%20un%20joque%20un%20pau%20tro%20tar,%20/%20I%20sanne%20%C3%A0%20vir%20qu'%20ch'est%20du%20azar%20%22%20(Fl,%20F.,%20XVIIe).%20%22%20M'%20montre%20all'%20joque%20%22%20=%20ma%20montre%20retarde.%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#arr%C3%AAte%20(de%20m'embrasser)%20!%20> , <http://restaure.limsi.fr/2017/rdf#2%20-%20arr%C3%AAter%20:%20> , <http://restaure.limsi.fr/2017/rdf#1%20-%20%C3%AAtre%20au%20repos,%20ne%20pas%20travailler,%20ch%C3%B4mer.%20> , <http://restaure.limsi.fr/2017/rdf#3%20-%20s'attarder,%20lambiner.%20> ;
+        ontolex:lexicalForm      restaure:lf_JOQUER .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Vous%20trouv'rez%20cor%20des%20journ%C3%A9ress',%20des%20buress',%20des%20gard'%20malat'...%20%22%20(JQ).%0A%20%20%20%20%20%20>
+        a                   ontolex:Form ;
+        ontolex:writtenRep  "\n        \" Vous trouv'rez cor des journéress', des buress', des gard' malat'... \" (JQ).\n      " .
 
 <http://restaure.limsi.fr/2017/rdf#un%20jour%20au%20matin,%20un%20jour%20au%20soir%20:%20un%20matin,%20un%20soir.%20>
         ontolex:writtenRep  "un jour au matin, un jour au soir : un matin, un soir. " .
@@ -271,6 +256,13 @@ restaure:le10PicardVersFrançais_21
 <http://restaure.limsi.fr/2017/rdf#lf_JOUISS(E)MINT>
         a                   ontolex:Form ;
         ontolex:writtenRep  "jouiss(e)mint" .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20s'amuser,%20fol%C3%A2trer.%20%22%20Au%20jour,%20i%20(=%20le%20galibot)%20n'%20fait%20foque%20ed%20jingler%20%22%20(JM).%20%22%20El%20tiot%20monn'%20sur%20l'%20herbe%20i%20junguelle%20%22%20(JM).%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        s'amuser, folâtrer. \" Au jour, i (= le galibot) n' fait foque ed jingler \" (JM). \" El tiot monn' sur l' herbe i junguelle \" (JM).\n      " .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Et%20si%20un%20joque%20un%20pau%20tro%20tar,%20/%20I%20sanne%20%C3%A0%20vir%20qu'%20ch'est%20du%20azar%20%22%20(Fl,%20F.,%20XVIIe).%0A%20%20%20%20%20%20>
+        a                   ontolex:Form ;
+        ontolex:writtenRep  "\n        \" Et si un joque un pau tro tar, / I sanne à vir qu' ch'est du azar \" (Fl, F., XVIIe).\n      " .
 
 <http://restaure.limsi.fr/2017/rdf#lf_*%20JUPON>
         a                   ontolex:Form ;
@@ -280,9 +272,9 @@ restaure:Traductionlambiner
         a                   ontolex:Form ;
         ontolex:writtenRep  "lambiner" .
 
-<http://restaure.limsi.fr/2017/rdf#%22%20Pierr'%20n'est%20pas%20souv%C3%AEnt%20%C3%A0%20joque%20%22%20(JM)%20=%20il%20n'est%20pas%20souvent%20inactif.%20>
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20D'%20jeujeute%20in%20paquet%20d'%20ballon,%20cha%20fait%20eune%20sacr%C3%A9%20s%C3%A9quoi%20%C3%A0%20saquer%20du%20port%C3%A9-feulle%20%22%20(PP).%20(%0A%20%20%20%20%20%20>
         a                   ontolex:Form ;
-        ontolex:writtenRep  "\" Pierr' n'est pas souvînt à joque \" (JM) = il n'est pas souvent inactif. " .
+        ontolex:writtenRep  "\n        \" D' jeujeute in paquet d' ballon, cha fait eune sacré séquoi à saquer du porté-feulle \" (PP). (\n      " .
 
 <http://restaure.limsi.fr/2017/rdf#ouvrier%20en%20ch%C3%B4mage.%20>
         ontolex:writtenRep  "ouvrier en chômage. " .
@@ -297,15 +289,25 @@ restaure:Traductionjolie
 <http://restaure.limsi.fr/2017/rdf#femme%20qui%20travaille%20%C3%A0%20la%20journ%C3%A9e.%20>
         ontolex:writtenRep  "femme qui travaille à la journée. " .
 
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Ai-jou%20eu%20l'%20temps%20d'%20busier%20%C3%A0%20m'%20r%C3%A9volter%20?%20%22%20(JM).%0A%20%20%20%20%20%20>
+        a                   ontolex:Form ;
+        ontolex:writtenRep  "\n        \" Ai-jou eu l' temps d' busier à m' révolter ? \" (JM).\n      " .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Lamp',%20t%C3%A9%20restos,%20dins%20m'%20d%C3%A9tresse,%20/%20Pindue%20%C3%A0%20m'%20jupon%20d'%20mineur%20%22%20(JM).%0A%20%20%20%20%20%20>
+        a                   ontolex:Form ;
+        ontolex:writtenRep  "\n        \" Lamp', té restos, dins m' détresse, / Pindue à m' jupon d' mineur \" (JM).\n      " .
+
 restaure:le10PicardVersFrançais_29
-        a                              ontolex:LexicalEntry ;
-        lexinfo:gender                 lexinfo:Female ;
-        lexinfo:partOfSpeech           lexinfo:Noun ;
-        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Vous%20trouv'rez%20cor%20des%20journ%C3%A9ress',%20des%20buress',%20des%20gard'%20malat'...%20%22%20(JQ).> ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#femme%20qui%20travaille%20%C3%A0%20la%20journ%C3%A9e.%20%22%20Vous%20trouv'rez%20cor%20des%20journ%C3%A9ress',%20des%20buress',%20des%20gard'%20malat'...%20%22%20(JQ).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#femme%20qui%20travaille%20%C3%A0%20la%20journ%C3%A9e.%20> ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_JOURN%C3%89RESSE> .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:gender           lexinfo:Female ;
+        lexinfo:partOfSpeech     lexinfo:Noun ;
+        restaure:etymology       restaure: ;
+        restaure:hasExample      <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Vous%20trouv'rez%20cor%20des%20journ%C3%A9ress',%20des%20buress',%20des%20gard'%20malat'...%20%22%20(JQ).%0A%20%20%20%20%20%20> ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20femme%20qui%20travaille%20%C3%A0%20la%20journ%C3%A9e.%20%22%20Vous%20trouv'rez%20cor%20des%20journ%C3%A9ress',%20des%20buress',%20des%20gard'%20malat'...%20%22%20(JQ).%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#femme%20qui%20travaille%20%C3%A0%20la%20journ%C3%A9e.%20> ;
+        ontolex:lexicalForm      <http://restaure.limsi.fr/2017/rdf#lf_JOURN%C3%89RESSE> .
 
 <http://restaure.limsi.fr/2017/rdf#%20>
         ontolex:writtenRep  " " .
@@ -314,6 +316,9 @@ restaure:le10PicardVersFrançais_29
         a                   ontolex:Form ;
         ontolex:writtenRep  "juer au berlicoco" .
 
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20ANC.%20:%20%22%20wette%20%C3%A0%20ten%20jeu%20com%20i%20t'compette%20%22%20(Fl,%20F,%20XVIIe)%20=%20organise-toi%20comme%20tu%20l'entends.%0A%20%20%20%20%20%20%0A%20%20%20%20>
+        ontolex:writtenRep  "\n      \n        ANC. : \" wette à ten jeu com i t'compette \" (Fl, F, XVIIe) = organise-toi comme tu l'entends.\n      \n    " .
+
 <http://restaure.limsi.fr/2017/rdf#lf_JALOUS(E)RIE%20ou%20JALOUS(E)T%C3%89>
         a                   ontolex:Form ;
         ontolex:writtenRep  "jalous(e)rie ou jalous(e)té" .
@@ -321,79 +326,77 @@ restaure:le10PicardVersFrançais_29
 <http://restaure.limsi.fr/2017/rdf#jouissance.>
         ontolex:writtenRep  "jouissance." .
 
-<http://restaure.limsi.fr/2017/rdf#%22%20D'%20jeujeute%20in%20paquet%20d'%20ballon,%20cha%20fait%20eune%20sacr%C3%A9%20s%C3%A9quoi%20%C3%A0%20saquer%20du%20port%C3%A9-feulle%20%22%20(PP).%20(>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "\" D' jeujeute in paquet d' ballon, cha fait eune sacré séquoi à saquer du porté-feulle \" (PP). (" .
-
-<http://restaure.limsi.fr/2017/rdf#%22%20Il%20vit%20sa%20femme%20en%20train%20de%20jonquer%20du%20sable%20blanc%20sur%20les%20carreaux%20rouges%20%22%20(FP).%20>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "\" Il vit sa femme en train de jonquer du sable blanc sur les carreaux rouges \" (FP). " .
-
 restaure:lf_JOURNEL  a      ontolex:Form ;
         ontolex:writtenRep  "journel" .
 
-<http://restaure.limsi.fr/2017/rdf#ancienne%20charrue%20l%C3%A9g%C3%A8re.%20Elle%20avait%20deux%20socs%20identiques%20comme%20le%20culbutant%20mais%20tra%C3%A7ait%20des%20sillons%20plus%20%C3%A9troits.%20Les%20deux%20roues%20%C3%A9taient%20in%C3%A9gales,%20la%20plus%20grande%20restant%20au%20fond%20du%20sillon%20(GD).>
-        ontolex:writtenRep  "ancienne charrue légère. Elle avait deux socs identiques comme le culbutant mais traçait des sillons plus étroits. Les deux roues étaient inégales, la plus grande restant au fond du sillon (GD)." .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20I-est%20jeujeute%20ou%20ch'est%20un%20jeujeute%20=%20un%20rien%20l'amuse.%20%22%0A%20%20%20%20%20%20>
+        a                   ontolex:Form ;
+        ontolex:writtenRep  "\n        \" I-est jeujeute ou ch'est un jeujeute = un rien l'amuse. \"\n      " .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20A%20belle%20voie,%20i%20n'%20y%20a%20rien%20%C3%A0%20joquer%20%22%20=%20il%20ne%20faut%20pas%20s'arr%C3%AAter%20en%20si%20bon%20chemin.%0A%20%20%20%20%20%20>
+        a                   ontolex:Form ;
+        ontolex:writtenRep  "\n        \" A belle voie, i n' y a rien à joquer \" = il ne faut pas s'arrêter en si bon chemin.\n      " .
+
+restaure:le10PicardVersFrançais_37
+        a                        ontolex:LexicalEntry ;
+        restaure:etymology       restaure: ;
+        restaure:hasExample      <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Y-a%20peu%20d'%20temps,%20l'%20derni%C3%A8r'%20berline%20/%20Ed%20carbon%20a%20tout%20mis%20jus%20%22%20(JM)%20=%20a%20%C3%A9puis%C3%A9%20la%20veine.%20Et'%20jus%20:%20%C3%AAtre%20%C3%A9puis%C3%A9.%20Ruer%20jus%20:%20jeter%20%C3%A0%20terre.%0A%20%20%20%20%20%20> ;
+        restaure:translatableAs  restaure:Traduction , <http://restaure.limsi.fr/2017/rdf#Traduction%C3%A0%20bas> , restaure:Traductionannuler , <http://restaure.limsi.fr/2017/rdf#Traductionpar%20terre> ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%C3%A0%20bas,%20par%20terre.%20Mett'%20jus%20:%20jeter%20%C3%A0%20terre,%20annuler,%20mettre%20%C3%A0%20n%C3%A9ant.%20%22%20Y-a%20peu%20d'%20temps,%20l'%20derni%C3%A8r'%20berline%20/%20Ed%20carbon%20a%20tout%20mis%20jus%20%22%20(JM)%20=%20a%20%C3%A9puis%C3%A9%20la%20veine.%20Et'%20jus%20:%20%C3%AAtre%20%C3%A9puis%C3%A9.%20Ruer%20jus%20:%20jeter%20%C3%A0%20terre.%20%22%20Place%20des%20arcs-boutants%20qui%20furent%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%C3%A0%20bas,%20par%20terre.%20Mett'%20jus%20:%20jeter%20%C3%A0%20terre,%20annuler,%20mettre%20%C3%A0%20n%C3%A9ant.%0A%20%20%20%20%20%20> ;
+        ontolex:lexicalForm      restaure:lf_JUS .
 
 restaure:lf_Joqueux  a      ontolex:Form ;
         ontolex:writtenRep  "joqueux" .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20suffire%20(%C3%A0%20quelque%20chose)%20;%20arriver%20(%C3%A0%20faire%20quelque%20chose).%20Ne%20s'emploie%20qu'%C3%A0%20la%20forme%20n%C3%A9g.%20J%C3%A9%20n'%20peux%20jurvir%20:%20je%20ne%20peux%20plus%20y%20arriver.%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        suffire (à quelque chose) ; arriver (à faire quelque chose). Ne s'emploie qu'à la forme nég. Jé n' peux jurvir : je ne peux plus y arriver.\n      " .
 
 <http://restaure.limsi.fr/2017/rdf#Traductionfol%C3%A2trer>
         a                   ontolex:Form ;
         ontolex:writtenRep  "folâtrer" .
 
-restaure:le10PicardVersFrançais_37
-        a                              ontolex:LexicalEntry ;
-        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Y-a%20peu%20d'%20temps,%20l'%20derni%C3%A8r'%20berline%20/%20Ed%20carbon%20a%20tout%20mis%20jus%20%22%20(JM)%20=%20a%20%C3%A9puis%C3%A9%20la%20veine.%20Et'%20jus%20:%20%C3%AAtre%20%C3%A9puis%C3%A9.%20Ruer%20jus%20:%20jeter%20%C3%A0%20terre.%20> ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#%C3%A0%20bas,%20par%20terre.%20Mett'%20jus%20:%20jeter%20%C3%A0%20terre,%20annuler,%20mettre%20%C3%A0%20n%C3%A9ant.%20%22%20Y-a%20peu%20d'%20temps,%20l'%20derni%C3%A8r'%20berline%20/%20Ed%20carbon%20a%20tout%20mis%20jus%20%22%20(JM)%20=%20a%20%C3%A9puis%C3%A9%20la%20veine.%20Et'%20jus%20:%20%C3%AAtre%20%C3%A9puis%C3%A9.%20Ruer%20jus%20:%20jeter%20%C3%A0%20terre.%20%22%20Place%20des%20arcs-boutants%20qui%20furent> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#%C3%A0%20bas,%20par%20terre.%20Mett'%20jus%20:%20jeter%20%C3%A0%20terre,%20annuler,%20mettre%20%C3%A0%20n%C3%A9ant.%20> ;
-        restaure:TranslatableInFrenchOneWord
-                restaure:Traductionannuler , <http://restaure.limsi.fr/2017/rdf#Traductionpar%20terre> , <http://restaure.limsi.fr/2017/rdf#Traduction%C3%A0%20bas> ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            restaure:lf_JUS .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20ustensiles%20de%20m%C3%A9nage%20en%20bois%20(souvent%20tourn%C3%A9)%20encore%20fabriqu%C3%A9s%20dans%20certaines%20communes%20de%20l'Avesnois.%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        ustensiles de ménage en bois (souvent tourné) encore fabriqués dans certaines communes de l'Avesnois.\n      " .
 
 restaure:le10PicardVersFrançais_7
-        a                              ontolex:LexicalEntry ;
-        lexinfo:gender                 lexinfo:Female ;
-        lexinfo:partOfSpeech           lexinfo:Noun ;
-        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Elle%20entra%20avec%20une%20jatte%20de%20caf%C3%A9%20dans%20la%20chambre%20de%20la%20dormeuse%20%22%20(CD).> ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#tasse.%20P%C3%A9tite%20jatte%20:%20tasse%20%C3%A0%20caf%C3%A9.%20Grande%20jatte%20:%20bol%20%C3%A0%20d%C3%A9jeuner.%20%22%20Elle%20entra%20avec%20une%20jatte%20de%20caf%C3%A9%20dans%20la%20chambre%20de%20la%20dormeuse%20%22%20(CD).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#tasse.%20P%C3%A9tite%20jatte%20:%20tasse%20%C3%A0%20caf%C3%A9.%20Grande%20jatte%20:%20bol%20%C3%A0%20d%C3%A9jeuner.%20> ;
-        restaure:TranslatableInFrenchOneWord
-                restaure:Traductiontasse ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_*%20JATTE> .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:gender           lexinfo:Female ;
+        lexinfo:partOfSpeech     lexinfo:Noun ;
+        restaure:etymology       restaure: ;
+        restaure:hasExample      <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Elle%20entra%20avec%20une%20jatte%20de%20caf%C3%A9%20dans%20la%20chambre%20de%20la%20dormeuse%20%22%20(CD).%0A%20%20%20%20%20%20> ;
+        restaure:translatableAs  restaure:Traduction , restaure:Traductiontasse ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20tasse.%20P%C3%A9tite%20jatte%20:%20tasse%20%C3%A0%20caf%C3%A9.%20Grande%20jatte%20:%20bol%20%C3%A0%20d%C3%A9jeuner.%20%22%20Elle%20entra%20avec%20une%20jatte%20de%20caf%C3%A9%20dans%20la%20chambre%20de%20la%20dormeuse%20%22%20(CD).%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20tasse.%20P%C3%A9tite%20jatte%20:%20tasse%20%C3%A0%20caf%C3%A9.%20Grande%20jatte%20:%20bol%20%C3%A0%20d%C3%A9jeuner.%0A%20%20%20%20%20%20> ;
+        ontolex:lexicalForm      <http://restaure.limsi.fr/2017/rdf#lf_*%20JATTE> .
 
 <http://restaure.limsi.fr/2017/rdf#lf_JOLI-BOIS%20(ou%20BOIS-JOLI)>
         a                   ontolex:Form ;
         ontolex:writtenRep  "joli-bois (ou bois-joli)" .
 
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20J'%20vas%20t'apprinte%20%C3%A0%20joquer,%20prale%20!%20%22%20(PP)%20=%20%C3%A0%20ne%20pas%20aller%20au%20travail.%0A%20%20%20%20%20%20>
+        a                   ontolex:Form ;
+        ontolex:writtenRep  "\n        \" J' vas t'apprinte à joquer, prale ! \" (PP) = à ne pas aller au travail.\n      " .
+
 <http://restaure.limsi.fr/2017/rdf#%22%20M'%20montre%20all'%20joque%20%22%20=%20ma%20montre%20retarde.>
         a                   ontolex:Form ;
         ontolex:writtenRep  "\" M' montre all' joque \" = ma montre retarde." .
 
-<http://restaure.limsi.fr/2017/rdf#ANC.%20:%20joqier%20:%20se%20jucher%20(oiseaux),%20%C3%AAtre%20en%20repos,%20rester%20sans%20rien%20faire%20(Wace,%201155).%20%22%20Vous%20volies%20adies%20devancier%20/%20Ne%20mie%20en%20.I.%20seul%20lieu%20jokier%20%22%20(Regr.%20Guillaume).%20%22%20All%C3%A9%20to%20rademen,%20cour%C3%A9,%20ne%20joqui%C3%A9%20woaire%20!%20%22%20(Fl,%20S,%201648)%20=%20ne%20vous%20attardez%20gu%C3%A8re.>
-        ontolex:writtenRep  "ANC. : joqier : se jucher (oiseaux), être en repos, rester sans rien faire (Wace, 1155). \" Vous volies adies devancier / Ne mie en .I. seul lieu jokier \" (Regr. Guillaume). \" Allé to rademen, couré, ne joquié woaire ! \" (Fl, S, 1648) = ne vous attardez guère." .
-
 restaure:le10PicardVersFrançais_16
-        a                              ontolex:LexicalEntry ;
-        lexinfo:partOfSpeech           lexinfo:Verb ;
-        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20El%20tiot%20monn'%20sur%20l'%20herbe%20i%20junguelle%20%22%20(JM).> , <http://restaure.limsi.fr/2017/rdf#%22%20Au%20jour,%20i%20(=%20le%20galibot)%20n'%20fait%20foque%20ed%20jingler%20%22%20(JM).%20> ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#s'amuser,%20fol%C3%A2trer.%20%22%20Au%20jour,%20i%20(=%20le%20galibot)%20n'%20fait%20foque%20ed%20jingler%20%22%20(JM).%20%22%20El%20tiot%20monn'%20sur%20l'%20herbe%20i%20junguelle%20%22%20(JM).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#s'amuser,%20fol%C3%A2trer.%20> ;
-        restaure:TranslatableInFrenchOneWord
-                <http://restaure.limsi.fr/2017/rdf#Traductionfol%C3%A2trer> , <http://restaure.limsi.fr/2017/rdf#Traductions'amuser> ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            restaure:lf_JINGLER .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:partOfSpeech     lexinfo:Verb ;
+        restaure:etymology       restaure: ;
+        restaure:hasExample      <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Au%20jour,%20i%20(=%20le%20galibot)%20n'%20fait%20foque%20ed%20jingler%20%22%20(JM).%0A%20%20%20%20%20%20> , <http://restaure.limsi.fr/2017/rdf#%22%20El%20tiot%20monn'%20sur%20l'%20herbe%20i%20junguelle%20%22%20(JM).> ;
+        restaure:translatableAs  <http://restaure.limsi.fr/2017/rdf#Traductions'amuser> , restaure:Traduction , <http://restaure.limsi.fr/2017/rdf#Traductionfol%C3%A2trer> ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20s'amuser,%20fol%C3%A2trer.%20%22%20Au%20jour,%20i%20(=%20le%20galibot)%20n'%20fait%20foque%20ed%20jingler%20%22%20(JM).%20%22%20El%20tiot%20monn'%20sur%20l'%20herbe%20i%20junguelle%20%22%20(JM).%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#s'amuser,%20fol%C3%A2trer.%20> ;
+        ontolex:lexicalForm      restaure:lf_JINGLER .
 
 restaure:lf_JUDAS  a        ontolex:Form ;
         ontolex:writtenRep  "judas" .
-
-<http://restaure.limsi.fr/2017/rdf#jeu%20de%20plein%20air%20consistant%20%C3%A0%20lancer%20une%20grosse%20fl%C3%A8che%20courte%20et%20lourde,%20le%20javelot,%20dans%20une%20cible%20de%20bois%20ou%20de%20paille.>
-        ontolex:writtenRep  "jeu de plein air consistant à lancer une grosse flèche courte et lourde, le javelot, dans une cible de bois ou de paille." .
-
-<http://restaure.limsi.fr/2017/rdf#suffire%20(%C3%A0%20quelque%20chose)%20;%20arriver%20(%C3%A0%20faire%20quelque%20chose).%20Ne%20s'emploie%20qu'%C3%A0%20la%20forme%20n%C3%A9g.%20J%C3%A9%20n'%20peux%20jurvir%20:%20je%20ne%20peux%20plus%20y%20arriver.%20>
-        ontolex:writtenRep  "suffire (à quelque chose) ; arriver (à faire quelque chose). Ne s'emploie qu'à la forme nég. Jé n' peux jurvir : je ne peux plus y arriver. " .
 
 <http://restaure.limsi.fr/2017/rdf#jolie.%20>
         ontolex:writtenRep  "jolie. " .
@@ -402,6 +405,9 @@ restaure:coordinate  restaure:xValenciennes
                 "50.35"^^<http://www.w3.org/2001/XMLSchema#double> ;
         restaure:yValenciennes  "3.53333"^^<http://www.w3.org/2001/XMLSchema#double> .
 
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20jolie.%20%22%20J'aperchos%20eun'%20fill'%20joulite%20comm'%20les%20amours%20%22%20(JQ).%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        jolie. \" J'aperchos eun' fill' joulite comm' les amours \" (JQ).\n      " .
+
 <http://restaure.limsi.fr/2017/rdf#2%20-%20arr%C3%AAter%20:%20>
         ontolex:writtenRep  "2 - arrêter : " .
 
@@ -409,121 +415,149 @@ restaure:Traductionje
         a                   ontolex:Form ;
         ontolex:writtenRep  "je" .
 
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20lanceur%20de%20javelot.%20%22%20A%20l'%20ducasse,%20y-avot%20les%20jav'loteux%20qui%20v'nutent%20tirer%20au%20cabaret%20pas%20lon%20d%C3%A9%20l'%20plache%20%22%20(PP).%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        lanceur de javelot. \" A l' ducasse, y-avot les jav'loteux qui v'nutent tirer au cabaret pas lon dé l' plache \" (PP).\n      " .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20ancienne%20charrue%20l%C3%A9g%C3%A8re.%20Elle%20avait%20deux%20socs%20identiques%20comme%20le%20culbutant%20mais%20tra%C3%A7ait%20des%20sillons%20plus%20%C3%A9troits.%20Les%20deux%20roues%20%C3%A9taient%20in%C3%A9gales,%20la%20plus%20grande%20restant%20au%20fond%20du%20sillon%20(GD).%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        ancienne charrue légère. Elle avait deux socs identiques comme le culbutant mais traçait des sillons plus étroits. Les deux roues étaient inégales, la plus grande restant au fond du sillon (GD).\n      " .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Cha,%20un%20jueu%20d'%20balle%20?%20Eine%20passette%20!%20Il%20y%20faudrot%20un%20gant%20comme%20un%20couvi%C3%A8pe%20ed%20boulleuse%20!%20%22%20(EM).%0A%20%20%20%20%20%20>
+        a                   ontolex:Form ;
+        ontolex:writtenRep  "\n        \" Cha, un jueu d' balle ? Eine passette ! Il y faudrot un gant comme un couvièpe ed boulleuse ! \" (EM).\n      " .
+
 restaure:le10PicardVersFrançais_24
-        a                              ontolex:LexicalEntry ;
-        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20N'%20sus%20jou%20point%20prope%20?%20%22%20(GF).%20> , <http://restaure.limsi.fr/2017/rdf#%22%20Ai-jou%20eu%20l'%20temps%20d'%20busier%20%C3%A0%20m'%20r%C3%A9volter%20?%20%22%20(JM).%20> , <http://restaure.limsi.fr/2017/rdf#%22%20Jou%20qu'%20t%C3%A9%20cros%20qu'%20nous%20n'%20d'allons%20nin%20juer%20?%20%22%20(GF).%20> ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#je,%20dans%20certaines%20constr.%20interr...%20%22%20N'%20sus%20jou%20point%20prope%20?%20%22%20(GF).%20%22%20Ai-jou%20eu%20l'%20temps%20d'%20busier%20%C3%A0%20m'%20r%C3%A9volter%20?%20%22%20(JM).%20Correspond%20%C3%A0%20:%20est-ce%20que%20?%20%20%22%20Jou%20qu'%20t%C3%A9%20cros%20qu'%20nous%20n'%20d'allons%20nin%20juer%20?%20%22%20(GF).%20%22%20Ch't'eun'%20gov%C3%A8r',%20eun'%20tart'> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#je,%20dans%20certaines%20constr.%20interr...%20> , <http://restaure.limsi.fr/2017/rdf#Correspond%20%C3%A0%20:%20est-ce%20que%20?%20%20> ;
-        restaure:TranslatableInFrenchOneWord
-                restaure:Traductionje ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            restaure:lf_JOU .
+        a                        ontolex:LexicalEntry ;
+        restaure:etymology       restaure: ;
+        restaure:hasExample      <http://restaure.limsi.fr/2017/rdf#%22%20N'%20sus%20jou%20point%20prope%20?%20%22%20(GF).%20> , <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Jou%20qu'%20t%C3%A9%20cros%20qu'%20nous%20n'%20d'allons%20nin%20juer%20?%20%22%20(GF).%0A%20%20%20%20%20%20> , <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Ai-jou%20eu%20l'%20temps%20d'%20busier%20%C3%A0%20m'%20r%C3%A9volter%20?%20%22%20(JM).%0A%20%20%20%20%20%20> ;
+        restaure:translatableAs  restaure:Traduction , restaure:Traductionje ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20je,%20dans%20certaines%20constr.%20interr...%20%22%20N'%20sus%20jou%20point%20prope%20?%20%22%20(GF).%20%22%20Ai-jou%20eu%20l'%20temps%20d'%20busier%20%C3%A0%20m'%20r%C3%A9volter%20?%20%22%20(JM).%20Correspond%20%C3%A0%20:%20est-ce%20que%20?%20%20%22%20Jou%20qu'%20t%C3%A9%20cros%20qu'%20nous%20n'%20d'allons%20nin%20juer%20?%20%22%20(GF).%20%22%20Ch't'eun'%20gov%C3%A8r',%20eun'%20tart'%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#Correspond%20%C3%A0%20:%20est-ce%20que%20?%20> , <http://restaure.limsi.fr/2017/rdf#je,%20dans%20certaines%20constr.%20interr...%20> ;
+        ontolex:lexicalForm      restaure:lf_JOU .
 
 <http://restaure.limsi.fr/2017/rdf#joueur.%20>
         ontolex:writtenRep  "joueur. " .
-
-<http://restaure.limsi.fr/2017/rdf#ANC.%20:%20%22%20wette%20%C3%A0%20ten%20jeu%20com%20i%20t'compette%20%22%20(Fl,%20F,%20XVIIe)%20=%20organise-toi%20comme%20tu%20l'entends.>
-        ontolex:writtenRep  "ANC. : \" wette à ten jeu com i t'compette \" (Fl, F, XVIIe) = organise-toi comme tu l'entends." .
 
 restaure:Traductionmusard
         a                   ontolex:Form ;
         ontolex:writtenRep  "musard" .
 
-<http://restaure.limsi.fr/2017/rdf#Correspond%20%C3%A0%20:%20est-ce%20que%20?%20%20>
-        ontolex:writtenRep  "Correspond à : est-ce que ?  " .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20:%20Jean%20du%20gauguer%20:%20(voir%20:%20gauguer).%20Jean%20sans%20rire%20:%20homme%20qui%20ne%20rit%20jamais,%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        : Jean du gauguer : (voir : gauguer). Jean sans rire : homme qui ne rit jamais,\n      " .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Suis%20min%20habile%20;%20/%20Car%20nous%20n'avons%20rien%20%C3%A0%20joquer%20%22%20(JM)%20=%20nous%20n'avons%20pas%20le%20temps%20de%20nous%20amuser.%0A%20%20%20%20%20%20>
+        a                   ontolex:Form ;
+        ontolex:writtenRep  "\n        \" Suis min habile ; / Car nous n'avons rien à joquer \" (JM) = nous n'avons pas le temps de nous amuser.\n      " .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Jean%20Bi%C3%AAte%20a%20lay%C3%A9%20bin%20des%20h%C3%A9ritiers,%20t'in%20es%20un%20%22%20(GH),%0A%20%20%20%20%20%20>
+        a                   ontolex:Form ;
+        ontolex:writtenRep  "\n        \" Jean Biête a layé bin des héritiers, t'in es un \" (GH),\n      " .
 
 restaure:Traductionjouissance
         a                   ontolex:Form ;
         ontolex:writtenRep  "jouissance" .
-
-<http://restaure.limsi.fr/2017/rdf#s'amuser,%20fol%C3%A2trer.%20%22%20Au%20jour,%20i%20(=%20le%20galibot)%20n'%20fait%20foque%20ed%20jingler%20%22%20(JM).%20%22%20El%20tiot%20monn'%20sur%20l'%20herbe%20i%20junguelle%20%22%20(JM).>
-        ontolex:writtenRep  "s'amuser, folâtrer. \" Au jour, i (= le galibot) n' fait foque ed jingler \" (JM). \" El tiot monn' sur l' herbe i junguelle \" (JM)." .
 
 lexinfo:Masculine  ontolex:writtenRep  "Masculin"@fra .
 
 <http://restaure.limsi.fr/2017/rdf#je,%20dans%20certaines%20constr.%20interr...%20>
         ontolex:writtenRep  "je, dans certaines constr. interr... " .
 
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20joncher.%20%22%20Il%20vit%20sa%20femme%20en%20train%20de%20jonquer%20du%20sable%20blanc%20sur%20les%20carreaux%20rouges%20%22%20(FP).%20Sp%C3%A9cial%20:%20faire%20un%20tapis,%20jadis%20de%20feuillages,%20maintenant%20de%20rognures%20de%20massicot%20(papier%20blanc),%20la%20jonqure,%20devant%20la%20porte%20des%20nouveaux%20mari%C3%A9s.%20%22%20Madame%20Cantiau,%20les%20jours%20de%20mariache,%20/%20Pour%20elle%20jonquer%20in%20prenot%20plein%20s'%20cotron%20%22%20(AD).%20%22%20In%20li%20fait%20eun'%20bell'%20jonqure%20/%20Ed%20fleurs,%20ed%20sabe%20et%20d'%20biau%20papier%20%22%20(JM).%20Disperser%20:%20%22%20Carbon),%20Joncque%20t'%20feumi%C3%A8r'%20dins%20l'univers%20%22%20(JM).%20ANC.%20;%20jonc%20(lat.%20juncum),%20les%20jonqures%20se%20faisant%20autrefois%20avec%20des%20joncs%20coup%C3%A9s.%20%22%20Vo%20jonqueri%C3%A9%20vos%20huy%20de%20b%C3%A2me%20et%20romoerin%20%22%20(Fl,%20H,%201654).%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        joncher. \" Il vit sa femme en train de jonquer du sable blanc sur les carreaux rouges \" (FP). Spécial : faire un tapis, jadis de feuillages, maintenant de rognures de massicot (papier blanc), la jonqure, devant la porte des nouveaux mariés. \" Madame Cantiau, les jours de mariache, / Pour elle jonquer in prenot plein s' cotron \" (AD). \" In li fait eun' bell' jonqure / Ed fleurs, ed sabe et d' biau papier \" (JM). Disperser : \" Carbon), Joncque t' feumièr' dins l'univers \" (JM). ANC. ; jonc (lat. juncum), les jonqures se faisant autrefois avec des joncs coupés. \" Vo jonquerié vos huy de bâme et romoerin \" (Fl, H, 1654).\n      " .
+
 restaure:Traductionjoujou
         a                   ontolex:Form ;
         ontolex:writtenRep  "joujou" .
-
-<http://restaure.limsi.fr/2017/rdf#%22%20Madame%20Cantiau,%20les%20jours%20de%20mariache,%20/%20Pour%20elle%20jonquer%20in%20prenot%20plein%20s'%20cotron%20%22%20(AD).%20>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "\" Madame Cantiau, les jours de mariache, / Pour elle jonquer in prenot plein s' cotron \" (AD). " .
 
 <http://restaure.limsi.fr/2017/rdf#jalousie%20(Ces%20termes%20ne%20sont%20pas%20particuliers%20au%20rouchi).%20>
         ontolex:writtenRep  "jalousie (Ces termes ne sont pas particuliers au rouchi). " .
 
 restaure:le10PicardVersFrançais_32
-        a                              ontolex:LexicalEntry ;
-        lexinfo:gender                 lexinfo:Masculine ;
-        lexinfo:partOfSpeech           lexinfo:Noun ;
-        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Cha,%20un%20jueu%20d'%20balle%20?%20Eine%20passette%20!%20Il%20y%20faudrot%20un%20gant%20comme%20un%20couvi%C3%A8pe%20ed%20boulleuse%20!%20%22%20(EM).%20> ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#joueur.%20%22%20Cha,%20un%20jueu%20d'%20balle%20?%20Eine%20passette%20!%20Il%20y%20faudrot%20un%20gant%20comme%20un%20couvi%C3%A8pe%20ed%20boulleuse%20!%20%22%20(EM).%20Jueux%20d'%C3%A9calette%20:%20propre%20%C3%A0%20rien.> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#Jueux%20d'%C3%A9calette%20:%20propre%20%C3%A0%20rien.> , <http://restaure.limsi.fr/2017/rdf#joueur.%20> ;
-        restaure:TranslatableInFrenchOneWord
-                restaure:Traductionjoueur ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            restaure:lf_Jueux .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:gender           lexinfo:Masculine ;
+        lexinfo:partOfSpeech     lexinfo:Noun ;
+        restaure:etymology       restaure: ;
+        restaure:hasExample      <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Cha,%20un%20jueu%20d'%20balle%20?%20Eine%20passette%20!%20Il%20y%20faudrot%20un%20gant%20comme%20un%20couvi%C3%A8pe%20ed%20boulleuse%20!%20%22%20(EM).%0A%20%20%20%20%20%20> ;
+        restaure:translatableAs  restaure:Traductionjoueur , restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20joueur.%20%22%20Cha,%20un%20jueu%20d'%20balle%20?%20Eine%20passette%20!%20Il%20y%20faudrot%20un%20gant%20comme%20un%20couvi%C3%A8pe%20ed%20boulleuse%20!%20%22%20(EM).%20Jueux%20d'%C3%A9calette%20:%20propre%20%C3%A0%20rien.%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#Jueux%20d'%C3%A9calette%20:%20propre%20%C3%A0%20rien.> , <http://restaure.limsi.fr/2017/rdf#joueur.%20> ;
+        ontolex:lexicalForm      restaure:lf_Jueux .
 
 restaure:le10PicardVersFrançais_2
-        a                              ontolex:LexicalEntry ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#:%20Jacques%20%C3%A0%20l'%20tarte%20:%20homme%20doux.%20Jacques%20saisi%20:%20homme%20timide,%20peu%20hardi.%20Un%20biau%20Jacques%20:%20un%20homme%20peu%20redoutable.> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#:%20Jacques%20%C3%A0%20l'%20tarte%20:%20homme%20doux.%20Jacques%20saisi%20:%20homme%20timide,%20peu%20hardi.%20Un%20biau%20Jacques%20:%20un%20homme%20peu%20redoutable.> ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            restaure:lf_JACQUES .
+        a                        ontolex:LexicalEntry ;
+        restaure:etymology       restaure: ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20:%20Jacques%20%C3%A0%20l'%20tarte%20:%20homme%20doux.%20Jacques%20saisi%20:%20homme%20timide,%20peu%20hardi.%20Un%20biau%20Jacques%20:%20un%20homme%20peu%20redoutable.%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20:%20Jacques%20%C3%A0%20l'%20tarte%20:%20homme%20doux.%20Jacques%20saisi%20:%20homme%20timide,%20peu%20hardi.%20Un%20biau%20Jacques%20:%20un%20homme%20peu%20redoutable.%0A%20%20%20%20%20%20> ;
+        ontolex:lexicalForm      restaure:lf_JACQUES .
 
 restaure:le10PicardVersFrançais_11
-        a                              ontolex:LexicalEntry ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#JET%20:%20(voir%20:%20g%C3%A9e).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#JET%20:%20(voir%20:%20g%C3%A9e).> ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_J%C3%89E> .
+        a                        ontolex:LexicalEntry ;
+        restaure:etymology       restaure: ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#JET%20:%20(voir%20:%20g%C3%A9e).> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#JET%20:%20(voir%20:%20g%C3%A9e).> ;
+        ontolex:lexicalForm      <http://restaure.limsi.fr/2017/rdf#lf_J%C3%89E> .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%C3%A0%20bas,%20par%20terre.%20Mett'%20jus%20:%20jeter%20%C3%A0%20terre,%20annuler,%20mettre%20%C3%A0%20n%C3%A9ant.%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        à bas, par terre. Mett' jus : jeter à terre, annuler, mettre à néant.\n      " .
 
 <http://restaure.limsi.fr/2017/rdf#lf_*%20JATTE>
         a                   ontolex:Form ;
         ontolex:writtenRep  "* jatte" .
 
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20joujou.%20%22%20D'%20jeujeute%20in%20paquet%20d'%20ballon,%20cha%20fait%20eune%20sacr%C3%A9%20s%C3%A9quoi%20%C3%A0%20saquer%20du%20port%C3%A9-feulle%20%22%20(PP).%20(Cependant,%20on%20ne%20dit%20pas%20:%20un%20jeujeute%20pour%20un%20joujou).%20Faire%20jeujeute%20:%20s'amuser%20%C3%A0%20des%20riens.%20%22%20I-est%20jeujeute%20ou%20ch'est%20un%20jeujeute%20=%20un%20rien%20l'amuse.%20%22%20Ch'est%20assez%20d'%20jeujeute,%20/%20Dors,%20min%20gros%20ch%C3%A9ri%20%22%20(JM)%20=%20tu%20as%20assez%20jou%C3%A9.%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        joujou. \" D' jeujeute in paquet d' ballon, cha fait eune sacré séquoi à saquer du porté-feulle \" (PP). (Cependant, on ne dit pas : un jeujeute pour un joujou). Faire jeujeute : s'amuser à des riens. \" I-est jeujeute ou ch'est un jeujeute = un rien l'amuse. \" Ch'est assez d' jeujeute, / Dors, min gros chéri \" (JM) = tu as assez joué.\n      " .
+
 restaure:Traductionjeunesse
         a                   ontolex:Form ;
         ontolex:writtenRep  "jeunesse" .
 
-<http://restaure.limsi.fr/2017/rdf#%22%20J'%20vas%20t'apprinte%20%C3%A0%20joquer,%20prale%20!%20%22%20(PP)%20=%20%C3%A0%20ne%20pas%20aller%20au%20travail.%20>
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20T'as%20fait%20les%20jeux%20pour%20eun'%20moto%20%22%20(RP)%20=%20tu%20as%20tout%20fait%20pour%20avoir%20une%20moto.%0A%20%20%20%20%20%20>
         a                   ontolex:Form ;
-        ontolex:writtenRep  "\" J' vas t'apprinte à joquer, prale ! \" (PP) = à ne pas aller au travail. " .
+        ontolex:writtenRep  "\n        \" T'as fait les jeux pour eun' moto \" (RP) = tu as tout fait pour avoir une moto.\n      " .
 
-<http://restaure.limsi.fr/2017/rdf#1%20-%20%C3%AAtre%20au%20repos,%20ne%20pas%20travailler,%20ch%C3%B4mer.%20%22%20Par%20suit'%20d'un%20choc,%20/%20Il%20a%20fallu%20qu%C3%A9%20l'%20cache%20(=%20la%20cage%20de%20la%20mine),%20all'%20joque%20%22%20(LB).%20%22%20Suis%20min%20habile%20;%20/%20Car%20nous%20n'avons%20rien%20%C3%A0%20joquer%20%22%20(JM)%20=%20nous%20n'avons%20pas%20le%20temps%20de%20nous%20amuser.%20%22%20Pierr'%20n'est%20pas%20souv%C3%AEnt%20%C3%A0%20joque%20%22%20(JM)%20=%20il%20n'est%20pas%20souvent%20inactif.%20%22%20A%20belle%20voie,%20i%20n'%20y%20a%20rien%20%C3%A0%20joquer%20%22%20=%20il%20ne%20faut%20pas%20s'arr%C3%AAter%20en%20si%20bon%20chemin.%20%22%20J'%20vas%20t'apprinte%20%C3%A0%20joquer,%20prale%20!%20%22%20(PP)%20=%20%C3%A0%20ne%20pas%20aller%20au%20travail.%202%20-%20arr%C3%AAter%20:%20%22%20Et%20jocqu'%20!%20T%C3%A9%20farfouill'%20tous%20mes%20dens%20%22%20(Fl,%20F,%20XVIIe)%20=%20arr%C3%AAte%20(de%20m'embrasser)%20!%203%20-%20s'attarder,%20lambiner.%20%22%20Et%20si%20un%20joque%20un%20pau%20tro%20tar,%20/%20I%20sanne%20%C3%A0%20vir%20qu'%20ch'est%20du%20azar%20%22%20(Fl,%20F.,%20XVIIe).%20%22%20M'%20montre%20all'%20joque%20%22%20=%20ma%20montre%20retarde.>
-        ontolex:writtenRep  "1 - être au repos, ne pas travailler, chômer. \" Par suit' d'un choc, / Il a fallu qué l' cache (= la cage de la mine), all' joque \" (LB). \" Suis min habile ; / Car nous n'avons rien à joquer \" (JM) = nous n'avons pas le temps de nous amuser. \" Pierr' n'est pas souvînt à joque \" (JM) = il n'est pas souvent inactif. \" A belle voie, i n' y a rien à joquer \" = il ne faut pas s'arrêter en si bon chemin. \" J' vas t'apprinte à joquer, prale ! \" (PP) = à ne pas aller au travail. 2 - arrêter : \" Et jocqu' ! Té farfouill' tous mes dens \" (Fl, F, XVIIe) = arrête (de m'embrasser) ! 3 - s'attarder, lambiner. \" Et si un joque un pau tro tar, / I sanne à vir qu' ch'est du azar \" (Fl, F., XVIIe). \" M' montre all' joque \" = ma montre retarde." .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Allez,%20prinds%20t'n%20outil%20et%20comminche%20el%20jeu%20%22%20(RD)%20(il%20s'agit%20d'une%20coupe%20de%20cheveux).%0A%20%20%20%20%20%20>
+        a                   ontolex:Form ;
+        ontolex:writtenRep  "\n        \" Allez, prinds t'n outil et comminche el jeu \" (RD) (il s'agit d'une coupe de cheveux).\n      " .
 
 restaure:le10PicardVersFrançais_19
-        a                              ontolex:LexicalEntry ;
-        lexinfo:gender                 lexinfo:Female ;
-        lexinfo:partOfSpeech           lexinfo:Noun ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#jeunesse%20;%20jeune%20fille.%20ANC.%20:%20on%20trouve,%20au%20XIIe,%20joene%20(jeune)%20;%20au%20XIIIe%20:%20joenesse%20(jeunesse),%20du%20lat.%20pop.%20jovents,%20pour%20juvenis.%20%22%20...%20chan%20qu'en%20vi%20du%20tan%20de%20no%20jonn%C3%A8che%20%22%20(Fl,%20H,%201654).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#jeunesse%20;%20jeune%20fille.%20> ;
-        restaure:TranslatableInFrenchOneWord
-                <http://restaure.limsi.fr/2017/rdf#Traductionjeune%20fille> , restaure:Traductionjeunesse ;
-        restaure:oldInformation        <http://restaure.limsi.fr/2017/rdf#ANC.%20:%20on%20trouve,%20au%20XIIe,%20joene%20(jeune)%20;%20au%20XIIIe%20:%20joenesse%20(jeunesse),%20du%20lat.%20pop.%20jovents,%20pour%20juvenis.%20%22%20...%20chan%20qu'en%20vi%20du%20tan%20de%20no%20jonn%C3%A8che%20%22%20(Fl,%20H,%201654).> ;
-        ontolex:lexicalForm            restaure:lf_Jonnesse .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:gender           lexinfo:Female ;
+        lexinfo:partOfSpeech     lexinfo:Noun ;
+        restaure:etymology       <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20ANC.%20:%20on%20trouve,%20au%20XIIe,%20joene%20(jeune)%20;%20au%20XIIIe%20:%20joenesse%20(jeunesse),%20du%20lat.%20pop.%20jovents,%20pour%20juvenis.%20%22%20...%20chan%20qu'en%20vi%20du%20tan%20de%20no%20jonn%C3%A8che%20%22%20(Fl,%20H,%201654).%0A%20%20%20%20%20%20%0A%20%20%20%20> ;
+        restaure:translatableAs  restaure:Traductionjeunesse , restaure:Traduction , <http://restaure.limsi.fr/2017/rdf#Traductionjeune%20fille> ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20jeunesse%20;%20jeune%20fille.%20ANC.%20:%20on%20trouve,%20au%20XIIe,%20joene%20(jeune)%20;%20au%20XIIIe%20:%20joenesse%20(jeunesse),%20du%20lat.%20pop.%20jovents,%20pour%20juvenis.%20%22%20...%20chan%20qu'en%20vi%20du%20tan%20de%20no%20jonn%C3%A8che%20%22%20(Fl,%20H,%201654).%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#jeunesse%20;%20jeune%20fille.%20> ;
+        ontolex:lexicalForm      restaure:lf_Jonnesse .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Il%20vit%20sa%20femme%20en%20train%20de%20jonquer%20du%20sable%20blanc%20sur%20les%20carreaux%20rouges%20%22%20(FP).%0A%20%20%20%20%20%20>
+        a                   ontolex:Form ;
+        ontolex:writtenRep  "\n        \" Il vit sa femme en train de jonquer du sable blanc sur les carreaux rouges \" (FP).\n      " .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Y-a%20peu%20d'%20temps,%20l'%20derni%C3%A8r'%20berline%20/%20Ed%20carbon%20a%20tout%20mis%20jus%20%22%20(JM)%20=%20a%20%C3%A9puis%C3%A9%20la%20veine.%20Et'%20jus%20:%20%C3%AAtre%20%C3%A9puis%C3%A9.%20Ruer%20jus%20:%20jeter%20%C3%A0%20terre.%0A%20%20%20%20%20%20>
+        a                   ontolex:Form ;
+        ontolex:writtenRep  "\n        \" Y-a peu d' temps, l' dernièr' berline / Ed carbon a tout mis jus \" (JM) = a épuisé la veine. Et' jus : être épuisé. Ruer jus : jeter à terre.\n      " .
 
 <http://restaure.limsi.fr/2017/rdf#lf_*%20JAV(E)LOT>
         a                   ontolex:Form ;
         ontolex:writtenRep  "* jav(e)lot" .
 
-<http://restaure.limsi.fr/2017/rdf#%22%20I-est%20jeujeute%20ou%20ch'est%20un%20jeujeute%20=%20un%20rien%20l'amuse.%20%22%20>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "\" I-est jeujeute ou ch'est un jeujeute = un rien l'amuse. \" " .
-
 restaure:le10PicardVersFrançais_27
-        a                              ontolex:LexicalEntry ;
-        lexinfo:gender                 lexinfo:Masculine ;
-        lexinfo:partOfSpeech           lexinfo:Noun ;
-        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Tous%20les%20jours%20au%20soir,%20tu%20fais%20l'%20tour%20du%20villache%20%22%20(RD).%20> , <http://restaure.limsi.fr/2017/rdf#%22%20J'ouvros%20comm'%20galibot%20%C3%A0%20l'%20fosse.%20/%20Quand,%20au%20jour,%20i%20passot%20un%20train,%20/%20Cha%20craquot,%20effrayant%20les%20gosses%20%22%20(JM).> ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#un%20jour%20au%20matin,%20un%20jour%20au%20soir%20:%20un%20matin,%20un%20soir.%20%22%20Tous%20les%20jours%20au%20soir,%20tu%20fais%20l'%20tour%20du%20villache%20%22%20(RD).%20J'%20n'y%20vos%20pas%20d'%20jour%20=%20je%20ne%20sais%20comment%20faire,%20je%20n'y%20arrive%20pas.%20Ouvrer%20au%20jour%20:%20travailler%20dans%20les%20installations%20de%20surface%20(mines).%20%22%20J'ouvros%20comm'%20galibot%20%C3%A0%20l'%20fosse.%20/%20Quand,%20au%20jour,%20i%20passot%20un%20train,%20/%20Cha%20craquot,%20effrayant%20les%20gosses%20%22%20(JM).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#un%20jour%20au%20matin,%20un%20jour%20au%20soir%20:%20un%20matin,%20un%20soir.%20> , <http://restaure.limsi.fr/2017/rdf#J'%20n'y%20vos%20pas%20d'%20jour%20=%20je%20ne%20sais%20comment%20faire,%20je%20n'y%20arrive%20pas.%20Ouvrer%20au%20jour%20:%20travailler%20dans%20les%20installations%20de%20surface%20(mines).%20> ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            restaure:lf_JOUR .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:gender           lexinfo:Masculine ;
+        lexinfo:partOfSpeech     lexinfo:Noun ;
+        restaure:etymology       restaure: ;
+        restaure:hasExample      <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20J'ouvros%20comm'%20galibot%20%C3%A0%20l'%20fosse.%20/%20Quand,%20au%20jour,%20i%20passot%20un%20train,%20/%20Cha%20craquot,%20effrayant%20les%20gosses%20%22%20(JM).%0A%20%20%20%20%20%20> , <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Tous%20les%20jours%20au%20soir,%20tu%20fais%20l'%20tour%20du%20villache%20%22%20(RD).%0A%20%20%20%20%20%20> ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20un%20jour%20au%20matin,%20un%20jour%20au%20soir%20:%20un%20matin,%20un%20soir.%20%22%20Tous%20les%20jours%20au%20soir,%20tu%20fais%20l'%20tour%20du%20villache%20%22%20(RD).%20J'%20n'y%20vos%20pas%20d'%20jour%20=%20je%20ne%20sais%20comment%20faire,%20je%20n'y%20arrive%20pas.%20Ouvrer%20au%20jour%20:%20travailler%20dans%20les%20installations%20de%20surface%20(mines).%20%22%20J'ouvros%20comm'%20galibot%20%C3%A0%20l'%20fosse.%20/%20Quand,%20au%20jour,%20i%20passot%20un%20train,%20/%20Cha%20craquot,%20effrayant%20les%20gosses%20%22%20(JM).%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#un%20jour%20au%20matin,%20un%20jour%20au%20soir%20:%20un%20matin,%20un%20soir.%20> , <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20J'%20n'y%20vos%20pas%20d'%20jour%20=%20je%20ne%20sais%20comment%20faire,%20je%20n'y%20arrive%20pas.%20Ouvrer%20au%20jour%20:%20travailler%20dans%20les%20installations%20de%20surface%20(mines).%0A%20%20%20%20%20%20> ;
+        ontolex:lexicalForm      restaure:lf_JOUR .
 
 <http://restaure.limsi.fr/2017/rdf#lf_Jav(e)loteux>
         a                   ontolex:Form ;
@@ -535,108 +569,92 @@ restaure:le10PicardVersFrançais_27
 restaure:lf_JURVIR  a       ontolex:Form ;
         ontolex:writtenRep  "jurvir" .
 
-<http://restaure.limsi.fr/2017/rdf#%22%20J'aperchos%20eun'%20fill'%20joulite%20comm'%20les%20amours%20%22%20(JQ).>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "\" J'aperchos eun' fill' joulite comm' les amours \" (JQ)." .
-
 <http://restaure.limsi.fr/2017/rdf#lf_JASPILLER%20(GF)>
         a                   ontolex:Form ;
         ontolex:writtenRep  "jaspiller (gf)" .
 
-<http://restaure.limsi.fr/2017/rdf#%22%20J'ouvros%20comm'%20galibot%20%C3%A0%20l'%20fosse.%20/%20Quand,%20au%20jour,%20i%20passot%20un%20train,%20/%20Cha%20craquot,%20effrayant%20les%20gosses%20%22%20(JM).>
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Tous%20les%20jours%20au%20soir,%20tu%20fais%20l'%20tour%20du%20villache%20%22%20(RD).%0A%20%20%20%20%20%20>
         a                   ontolex:Form ;
-        ontolex:writtenRep  "\" J'ouvros comm' galibot à l' fosse. / Quand, au jour, i passot un train, / Cha craquot, effrayant les gosses \" (JM)." .
+        ontolex:writtenRep  "\n        \" Tous les jours au soir, tu fais l' tour du villache \" (RD).\n      " .
 
-<http://restaure.limsi.fr/2017/rdf#:%20Jean%20du%20gauguer%20:%20(voir%20:%20gauguer).%20Jean%20sans%20rire%20:%20homme%20qui%20ne%20rit%20jamais,%20>
-        ontolex:writtenRep  ": Jean du gauguer : (voir : gauguer). Jean sans rire : homme qui ne rit jamais, " .
-
-<http://restaure.limsi.fr/2017/rdf#jalousie%20(Ces%20termes%20ne%20sont%20pas%20particuliers%20au%20rouchi).%20%22%20Mais%20l'%20jalous't%C3%A9%20des%20pauv's,%20vraimint,%20/%20M'a%20fait%20du%20mau%20%22%20(JM).>
-        ontolex:writtenRep  "jalousie (Ces termes ne sont pas particuliers au rouchi). \" Mais l' jalous'té des pauv's, vraimint, / M'a fait du mau \" (JM)." .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Madame%20Cantiau,%20les%20jours%20de%20mariache,%20/%20Pour%20elle%20jonquer%20in%20prenot%20plein%20s'%20cotron%20%22%20(AD).%0A%20%20%20%20%20%20>
+        a                   ontolex:Form ;
+        ontolex:writtenRep  "\n        \" Madame Cantiau, les jours de mariache, / Pour elle jonquer in prenot plein s' cotron \" (AD).\n      " .
 
 <http://restaure.limsi.fr/2017/rdf#:%20s'amuser%20avec%20des%20riens%20(AH).>
         ontolex:writtenRep  ": s'amuser avec des riens (AH)." .
 
-<http://restaure.limsi.fr/2017/rdf#%22%20Et%20jocqu'%20!%20T%C3%A9%20farfouill'%20tous%20mes%20dens%20%22%20(Fl,%20F,%20XVIIe)%20=%20>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "\" Et jocqu' ! Té farfouill' tous mes dens \" (Fl, F, XVIIe) = " .
-
 restaure:le10PicardVersFrançais_35
-        a                              ontolex:LexicalEntry ;
-        lexinfo:gender                 lexinfo:Masculine ;
-        lexinfo:partOfSpeech           lexinfo:Noun ;
-        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Lamp',%20t%C3%A9%20restos,%20dins%20m'%20d%C3%A9tresse,%20/%20Pindue%20%C3%A0%20m'%20jupon%20d'%20mineur%20%22%20(JM).%20> ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#blouse%20de%20mineur%20(avant%20la%20derni%C3%A8re%20guerre)%20;%20veste%20(vx).%20%22%20Lamp',%20t%C3%A9%20restos,%20dins%20m'%20d%C3%A9tresse,%20/%20Pindue%20%C3%A0%20m'%20jupon%20d'%20mineur%20%22%20(JM).%20ANC.%20:%20jupel%20:%20pourpoint,%20tunique%20(Adam%20de%20la%20Halle,%201260).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#blouse%20de%20mineur%20(avant%20la%20derni%C3%A8re%20guerre)%20;%20veste%20(vx).%20> ;
-        restaure:oldInformation        <http://restaure.limsi.fr/2017/rdf#ANC.%20:%20jupel%20:%20pourpoint,%20tunique%20(Adam%20de%20la%20Halle,%201260).> ;
-        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_*%20JUPON> .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:gender           lexinfo:Masculine ;
+        lexinfo:partOfSpeech     lexinfo:Noun ;
+        restaure:etymology       <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20ANC.%20:%20jupel%20:%20pourpoint,%20tunique%20(Adam%20de%20la%20Halle,%201260).%0A%20%20%20%20> ;
+        restaure:hasExample      <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Lamp',%20t%C3%A9%20restos,%20dins%20m'%20d%C3%A9tresse,%20/%20Pindue%20%C3%A0%20m'%20jupon%20d'%20mineur%20%22%20(JM).%0A%20%20%20%20%20%20> ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20blouse%20de%20mineur%20(avant%20la%20derni%C3%A8re%20guerre)%20;%20veste%20(vx).%20%22%20Lamp',%20t%C3%A9%20restos,%20dins%20m'%20d%C3%A9tresse,%20/%20Pindue%20%C3%A0%20m'%20jupon%20d'%20mineur%20%22%20(JM).%20ANC.%20:%20jupel%20:%20pourpoint,%20tunique%20(Adam%20de%20la%20Halle,%201260).%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#blouse%20de%20mineur%20(avant%20la%20derni%C3%A8re%20guerre)%20;%20veste%20(vx).%20> ;
+        ontolex:lexicalForm      <http://restaure.limsi.fr/2017/rdf#lf_*%20JUPON> .
 
-<http://restaure.limsi.fr/2017/rdf#%22%20Par%20suit'%20d'un%20choc,%20/%20Il%20a%20fallu%20qu%C3%A9%20l'%20cache%20(=%20la%20cage%20de%20la%20mine),%20all'%20joque%20%22%20(LB).%20>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "\" Par suit' d'un choc, / Il a fallu qué l' cache (= la cage de la mine), all' joque \" (LB). " .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20blouse%20de%20mineur%20(avant%20la%20derni%C3%A8re%20guerre)%20;%20veste%20(vx).%20%22%20Lamp',%20t%C3%A9%20restos,%20dins%20m'%20d%C3%A9tresse,%20/%20Pindue%20%C3%A0%20m'%20jupon%20d'%20mineur%20%22%20(JM).%20ANC.%20:%20jupel%20:%20pourpoint,%20tunique%20(Adam%20de%20la%20Halle,%201260).%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        blouse de mineur (avant la dernière guerre) ; veste (vx). \" Lamp', té restos, dins m' détresse, / Pindue à m' jupon d' mineur \" (JM). ANC. : jupel : pourpoint, tunique (Adam de la Halle, 1260).\n      " .
 
 restaure:le10PicardVersFrançais_5
-        a                              ontolex:LexicalEntry ;
-        lexinfo:partOfSpeech           lexinfo:Verb ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#envoyer%20des%20postillons.> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#envoyer%20des%20postillons.> ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_JASPIDER%20(GH)> .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:partOfSpeech     lexinfo:Verb ;
+        restaure:etymology       restaure: ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#envoyer%20des%20postillons.> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#envoyer%20des%20postillons.> ;
+        ontolex:lexicalForm      <http://restaure.limsi.fr/2017/rdf#lf_JASPIDER%20(GH)> .
 
 restaure:le10PicardVersFrançais_14
-        a                              ontolex:LexicalEntry ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#:%20(vojr%20:%20juer).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#:%20(vojr%20:%20juer).> ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            restaure:lf_Jeuer .
-
-<http://restaure.limsi.fr/2017/rdf#%22%20Alle%20juerot%20s'%20cul%20dins%20l'iau%20%22%20(GH)%20=%20rien%20ne%20peut%20l'arr%C3%AAter%20dans%20ses%20jeux.%20Juer%20%C3%A0%20coulons%20:%20participer%20%C3%A0%20des%20concours%20de%20pigeons-voyageurs.>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "\" Alle juerot s' cul dins l'iau \" (GH) = rien ne peut l'arrêter dans ses jeux. Juer à coulons : participer à des concours de pigeons-voyageurs." .
-
-<http://restaure.limsi.fr/2017/rdf#ANC.%20:%20on%20trouve,%20au%20XIIe,%20joene%20(jeune)%20;%20au%20XIIIe%20:%20joenesse%20(jeunesse),%20du%20lat.%20pop.%20jovents,%20pour%20juvenis.%20%22%20...%20chan%20qu'en%20vi%20du%20tan%20de%20no%20jonn%C3%A8che%20%22%20(Fl,%20H,%201654).>
-        ontolex:writtenRep  "ANC. : on trouve, au XIIe, joene (jeune) ; au XIIIe : joenesse (jeunesse), du lat. pop. jovents, pour juvenis. \" ... chan qu'en vi du tan de no jonnèche \" (Fl, H, 1654)." .
-
-<http://restaure.limsi.fr/2017/rdf#%22%20Jou%20qu'%20t%C3%A9%20cros%20qu'%20nous%20n'%20d'allons%20nin%20juer%20?%20%22%20(GF).%20>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "\" Jou qu' té cros qu' nous n' d'allons nin juer ? \" (GF). " .
+        a                        ontolex:LexicalEntry ;
+        restaure:etymology       restaure: ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#:%20(vojr%20:%20juer).> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#:%20(vojr%20:%20juer).> ;
+        ontolex:lexicalForm      restaure:lf_Jeuer .
 
 <http://restaure.limsi.fr/2017/rdf#Traduction%C3%A0%20bas>
         a                   ontolex:Form ;
         ontolex:writtenRep  "à bas" .
 
-<http://restaure.limsi.fr/2017/rdf#%22%20Lamp',%20t%C3%A9%20restos,%20dins%20m'%20d%C3%A9tresse,%20/%20Pindue%20%C3%A0%20m'%20jupon%20d'%20mineur%20%22%20(JM).%20>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "\" Lamp', té restos, dins m' détresse, / Pindue à m' jupon d' mineur \" (JM). " .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20:%20Jean%20du%20gauguer%20:%20(voir%20:%20gauguer).%20Jean%20sans%20rire%20:%20homme%20qui%20ne%20rit%20jamais,%20%22%20Jean%20Bi%C3%AAte%20a%20lay%C3%A9%20bin%20des%20h%C3%A9ritiers,%20t'in%20es%20un%20%22%20(GH),%20dit-on%20%C3%A0%20un%20importun%20qui%20tient%20de%20sots%20propos.%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        : Jean du gauguer : (voir : gauguer). Jean sans rire : homme qui ne rit jamais, \" Jean Biête a layé bin des héritiers, t'in es un \" (GH), dit-on à un importun qui tient de sots propos.\n      " .
 
-<http://restaure.limsi.fr/2017/rdf#%22%20Au%20jour,%20i%20(=%20le%20galibot)%20n'%20fait%20foque%20ed%20jingler%20%22%20(JM).%20>
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Elle%20entra%20avec%20une%20jatte%20de%20caf%C3%A9%20dans%20la%20chambre%20de%20la%20dormeuse%20%22%20(CD).%0A%20%20%20%20%20%20>
         a                   ontolex:Form ;
-        ontolex:writtenRep  "\" Au jour, i (= le galibot) n' fait foque ed jingler \" (JM). " .
+        ontolex:writtenRep  "\n        \" Elle entra avec une jatte de café dans la chambre de la dormeuse \" (CD).\n      " .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20tasse.%20P%C3%A9tite%20jatte%20:%20tasse%20%C3%A0%20caf%C3%A9.%20Grande%20jatte%20:%20bol%20%C3%A0%20d%C3%A9jeuner.%20%22%20Elle%20entra%20avec%20une%20jatte%20de%20caf%C3%A9%20dans%20la%20chambre%20de%20la%20dormeuse%20%22%20(CD).%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        tasse. Pétite jatte : tasse à café. Grande jatte : bol à déjeuner. \" Elle entra avec une jatte de café dans la chambre de la dormeuse \" (CD).\n      " .
 
 restaure:le10PicardVersFrançais_22
-        a                              ontolex:LexicalEntry ;
-        lexinfo:gender                 lexinfo:Masculine ;
-        lexinfo:partOfSpeech           lexinfo:Noun ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#ouvrier%20en%20ch%C3%B4mage.%20ANC.%20:%20joqier%20:%20se%20jucher%20(oiseaux),%20%C3%AAtre%20en%20repos,%20rester%20sans%20rien%20faire%20(Wace,%201155).%20%22%20Vous%20volies%20adies%20devancier%20/%20Ne%20mie%20en%20.I.%20seul%20lieu%20jokier%20%22%20(Regr.%20Guillaume).%20%22%20All%C3%A9%20to%20rademen,%20cour%C3%A9,%20ne%20joqui%C3%A9%20woaire%20!%20%22%20(Fl,%20S,%201648)%20=%20ne%20vous%20attardez%20gu%C3%A8re.> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#ouvrier%20en%20ch%C3%B4mage.%20> ;
-        restaure:oldInformation        <http://restaure.limsi.fr/2017/rdf#ANC.%20:%20joqier%20:%20se%20jucher%20(oiseaux),%20%C3%AAtre%20en%20repos,%20rester%20sans%20rien%20faire%20(Wace,%201155).%20%22%20Vous%20volies%20adies%20devancier%20/%20Ne%20mie%20en%20.I.%20seul%20lieu%20jokier%20%22%20(Regr.%20Guillaume).%20%22%20All%C3%A9%20to%20rademen,%20cour%C3%A9,%20ne%20joqui%C3%A9%20woaire%20!%20%22%20(Fl,%20S,%201648)%20=%20ne%20vous%20attardez%20gu%C3%A8re.> ;
-        ontolex:lexicalForm            restaure:lf_Joqueux .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:gender           lexinfo:Masculine ;
+        lexinfo:partOfSpeech     lexinfo:Noun ;
+        restaure:etymology       <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20ANC.%20:%20joqier%20:%20se%20jucher%20(oiseaux),%20%C3%AAtre%20en%20repos,%20rester%20sans%20rien%20faire%20(Wace,%201155).%20%22%20Vous%20volies%20adies%20devancier%20/%20Ne%20mie%20en%20.I.%20seul%20lieu%20jokier%20%22%20(Regr.%20Guillaume).%20%22%20All%C3%A9%20to%20rademen,%20cour%C3%A9,%20ne%20joqui%C3%A9%20woaire%20!%20%22%20(Fl,%20S,%201648)%20=%20ne%20vous%20attardez%20gu%C3%A8re.%0A%20%20%20%20%20%20%0A%20%20%20%20> ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20ouvrier%20en%20ch%C3%B4mage.%20ANC.%20:%20joqier%20:%20se%20jucher%20(oiseaux),%20%C3%AAtre%20en%20repos,%20rester%20sans%20rien%20faire%20(Wace,%201155).%20%22%20Vous%20volies%20adies%20devancier%20/%20Ne%20mie%20en%20.I.%20seul%20lieu%20jokier%20%22%20(Regr.%20Guillaume).%20%22%20All%C3%A9%20to%20rademen,%20cour%C3%A9,%20ne%20joqui%C3%A9%20woaire%20!%20%22%20(Fl,%20S,%201648)%20=%20ne%20vous%20attardez%20gu%C3%A8re.%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#ouvrier%20en%20ch%C3%B4mage.%20> ;
+        ontolex:lexicalForm      restaure:lf_Joqueux .
 
-<http://restaure.limsi.fr/2017/rdf#%22%20Elle%20entra%20avec%20une%20jatte%20de%20caf%C3%A9%20dans%20la%20chambre%20de%20la%20dormeuse%20%22%20(CD).>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "\" Elle entra avec une jatte de café dans la chambre de la dormeuse \" (CD)." .
-
-<http://restaure.limsi.fr/2017/rdf#Sp%C3%A9cial%20:%20faire%20un%20tapis,%20jadis%20de%20feuillages,%20maintenant%20de%20rognures%20de%20massicot%20(papier%20blanc),%20la%20jonqure,%20devant%20la%20porte%20des%20nouveaux%20mari%C3%A9s.%20>
-        ontolex:writtenRep  "Spécial : faire un tapis, jadis de feuillages, maintenant de rognures de massicot (papier blanc), la jonqure, devant la porte des nouveaux mariés. " .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20un%20jour%20au%20matin,%20un%20jour%20au%20soir%20:%20un%20matin,%20un%20soir.%20%22%20Tous%20les%20jours%20au%20soir,%20tu%20fais%20l'%20tour%20du%20villache%20%22%20(RD).%20J'%20n'y%20vos%20pas%20d'%20jour%20=%20je%20ne%20sais%20comment%20faire,%20je%20n'y%20arrive%20pas.%20Ouvrer%20au%20jour%20:%20travailler%20dans%20les%20installations%20de%20surface%20(mines).%20%22%20J'ouvros%20comm'%20galibot%20%C3%A0%20l'%20fosse.%20/%20Quand,%20au%20jour,%20i%20passot%20un%20train,%20/%20Cha%20craquot,%20effrayant%20les%20gosses%20%22%20(JM).%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        un jour au matin, un jour au soir : un matin, un soir. \" Tous les jours au soir, tu fais l' tour du villache \" (RD). J' n'y vos pas d' jour = je ne sais comment faire, je n'y arrive pas. Ouvrer au jour : travailler dans les installations de surface (mines). \" J'ouvros comm' galibot à l' fosse. / Quand, au jour, i passot un train, / Cha craquot, effrayant les gosses \" (JM).\n      " .
 
 restaure:lf_JOU  a          ontolex:Form ;
         ontolex:writtenRep  "jou" .
 
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20J'%20n'y%20vos%20pas%20d'%20jour%20=%20je%20ne%20sais%20comment%20faire,%20je%20n'y%20arrive%20pas.%20Ouvrer%20au%20jour%20:%20travailler%20dans%20les%20installations%20de%20surface%20(mines).%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        J' n'y vos pas d' jour = je ne sais comment faire, je n'y arrive pas. Ouvrer au jour : travailler dans les installations de surface (mines).\n      " .
+
 <http://restaure.limsi.fr/2017/rdf#lf_JOULITE%20(JQ)>
         a                   ontolex:Form ;
         ontolex:writtenRep  "joulite (jq)" .
-
-<http://restaure.limsi.fr/2017/rdf#le%20mot%20peut%20avoir%20de%20nombreux%20sens,%20en%20part.%20dans%20l'expr.%20faire%20les%20jeux%20:%20se%20conduire%20de%20fa%C3%A7on%20peu%20raisonnable.%20%22%20T'as%20fait%20les%20jeux%20pour%20eun'%20moto%20%22%20(RP)%20=%20tu%20as%20tout%20fait%20pour%20avoir%20une%20moto.%20%22%20Commint%20qu'%20t'as%20fait%20l'%20jeu%20pou%20passer%20l'%20ligne%20ed%20d%C3%A9marcation%20?%20%22%20(RD)%20=%20comment%20t'y%20es-tu%20pris%20?%20S'%20m%C3%AAler%20d'%20ses%20jus%20(GL)%20=%20s'occuper%20de%20ses%20affaires.%20In%20n'%20vot%20pus%20clair%20%C3%A0%20s'%20jeu%20=%20on%20n'arrive%20plus%20%C3%A0%20joindre%20les%20deux%20bouts.%20%22%20Tu%20compteras%20l'%20prix%20qu'%20cha%20co%C3%BBte,%20des%20jeux%20parels%20!%20%22%20=%20de%20semblables%20fantaisies.%20%22%20Allez,%20prinds%20t'n%20outil%20et%20comminche%20el%20jeu%20%22%20(RD)%20(il%20s'agit%20d'une%20coupe%20de%20cheveux).%20%22%20Quand%20j'%20vos%20un%20jeu%20parel,%20el%20ti%C3%AAte%20al%20m%C3%A9%20tourne%20%22%20(RD)%20=%20un%20d%C3%A9sordre%20semblable.%20Etc.%20(Voir%20:%20faiseux%20d'%20jeux).>
-        ontolex:writtenRep  "le mot peut avoir de nombreux sens, en part. dans l'expr. faire les jeux : se conduire de façon peu raisonnable. \" T'as fait les jeux pour eun' moto \" (RP) = tu as tout fait pour avoir une moto. \" Commint qu' t'as fait l' jeu pou passer l' ligne ed démarcation ? \" (RD) = comment t'y es-tu pris ? S' mêler d' ses jus (GL) = s'occuper de ses affaires. In n' vot pus clair à s' jeu = on n'arrive plus à joindre les deux bouts. \" Tu compteras l' prix qu' cha coûte, des jeux parels ! \" = de semblables fantaisies. \" Allez, prinds t'n outil et comminche el jeu \" (RD) (il s'agit d'une coupe de cheveux). \" Quand j' vos un jeu parel, el tiête al mé tourne \" (RD) = un désordre semblable. Etc. (Voir : faiseux d' jeux)." .
 
 <http://restaure.limsi.fr/2017/rdf#lf_J'accat%C3%A9%20hier%20troi%20ou%20quatre%20chen%20de%20fin%20(>
         a                   ontolex:Form ;
@@ -644,44 +662,45 @@ restaure:lf_JOU  a          ontolex:Form ;
 
 lexinfo:Verb  ontolex:writtenRep  "Verbe"@fra .
 
-<http://restaure.limsi.fr/2017/rdf#joueur.%20%22%20Cha,%20un%20jueu%20d'%20balle%20?%20Eine%20passette%20!%20Il%20y%20faudrot%20un%20gant%20comme%20un%20couvi%C3%A8pe%20ed%20boulleuse%20!%20%22%20(EM).%20Jueux%20d'%C3%A9calette%20:%20propre%20%C3%A0%20rien.>
-        ontolex:writtenRep  "joueur. \" Cha, un jueu d' balle ? Eine passette ! Il y faudrot un gant comme un couvièpe ed boulleuse ! \" (EM). Jueux d'écalette : propre à rien." .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20jalousie%20(Ces%20termes%20ne%20sont%20pas%20particuliers%20au%20rouchi).%20%22%20Mais%20l'%20jalous't%C3%A9%20des%20pauv's,%20vraimint,%20/%20M'a%20fait%20du%20mau%20%22%20(JM).%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        jalousie (Ces termes ne sont pas particuliers au rouchi). \" Mais l' jalous'té des pauv's, vraimint, / M'a fait du mau \" (JM).\n      " .
 
-<http://restaure.limsi.fr/2017/rdf#joujou.%20%22%20D'%20jeujeute%20in%20paquet%20d'%20ballon,%20cha%20fait%20eune%20sacr%C3%A9%20s%C3%A9quoi%20%C3%A0%20saquer%20du%20port%C3%A9-feulle%20%22%20(PP).%20(Cependant,%20on%20ne%20dit%20pas%20:%20un%20jeujeute%20pour%20un%20joujou).%20Faire%20jeujeute%20:%20s'amuser%20%C3%A0%20des%20riens.%20%22%20I-est%20jeujeute%20ou%20ch'est%20un%20jeujeute%20=%20un%20rien%20l'amuse.%20%22%20Ch'est%20assez%20d'%20jeujeute,%20/%20Dors,%20min%20gros%20ch%C3%A9ri%20%22%20(JM)%20=%20tu%20as%20assez%20jou%C3%A9.>
-        ontolex:writtenRep  "joujou. \" D' jeujeute in paquet d' ballon, cha fait eune sacré séquoi à saquer du porté-feulle \" (PP). (Cependant, on ne dit pas : un jeujeute pour un joujou). Faire jeujeute : s'amuser à des riens. \" I-est jeujeute ou ch'est un jeujeute = un rien l'amuse. \" Ch'est assez d' jeujeute, / Dors, min gros chéri \" (JM) = tu as assez joué." .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20In%20n'%20sara%20mie%20jurvir%20/%20Si%20cha%20va%20cor%20comm'%20cha%20tout'%20qu'%C3%A0%20la%20fin%20d%C3%A9%20l'%20belle%20!%20%22%20(JD).%0A%20%20%20%20%20%20>
+        a                   ontolex:Form ;
+        ontolex:writtenRep  "\n        \" In n' sara mie jurvir / Si cha va cor comm' cha tout' qu'à la fin dé l' belle ! \" (JD).\n      " .
 
 restaure:lf_JOQUER  a       ontolex:Form ;
         ontolex:writtenRep  "joquer" .
 
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20jeunesse%20;%20jeune%20fille.%20ANC.%20:%20on%20trouve,%20au%20XIIe,%20joene%20(jeune)%20;%20au%20XIIIe%20:%20joenesse%20(jeunesse),%20du%20lat.%20pop.%20jovents,%20pour%20juvenis.%20%22%20...%20chan%20qu'en%20vi%20du%20tan%20de%20no%20jonn%C3%A8che%20%22%20(Fl,%20H,%201654).%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        jeunesse ; jeune fille. ANC. : on trouve, au XIIe, joene (jeune) ; au XIIIe : joenesse (jeunesse), du lat. pop. jovents, pour juvenis. \" ... chan qu'en vi du tan de no jonnèche \" (Fl, H, 1654).\n      " .
+
 restaure:le10PicardVersFrançais_30
-        a                              ontolex:LexicalEntry ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20brin).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20brin).> ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            restaure:lf_JUDAS .
-
-<http://restaure.limsi.fr/2017/rdf#le%20mot%20peut%20avoir%20de%20nombreux%20sens,%20en%20part.%20dans%20l'expr.%20faire%20les%20jeux%20:%20se%20conduire%20de%20fa%C3%A7on%20peu%20raisonnable.%20>
-        ontolex:writtenRep  "le mot peut avoir de nombreux sens, en part. dans l'expr. faire les jeux : se conduire de façon peu raisonnable. " .
-
-<http://restaure.limsi.fr/2017/rdf#:%20Jean%20du%20gauguer%20:%20(voir%20:%20gauguer).%20Jean%20sans%20rire%20:%20homme%20qui%20ne%20rit%20jamais,%20%22%20Jean%20Bi%C3%AAte%20a%20lay%C3%A9%20bin%20des%20h%C3%A9ritiers,%20t'in%20es%20un%20%22%20(GH),%20dit-on%20%C3%A0%20un%20importun%20qui%20tient%20de%20sots%20propos.>
-        ontolex:writtenRep  ": Jean du gauguer : (voir : gauguer). Jean sans rire : homme qui ne rit jamais, \" Jean Biête a layé bin des héritiers, t'in es un \" (GH), dit-on à un importun qui tient de sots propos." .
+        a                        ontolex:LexicalEntry ;
+        restaure:etymology       restaure: ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20brin).> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20brin).> ;
+        ontolex:lexicalForm      restaure:lf_JUDAS .
 
 restaure:le10PicardVersFrançais_0
-        a                              ontolex:LexicalEntry ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#=%20quintaux%20de%20foin),%201649,%20Fl.,%20D%20> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#=%20quintaux%20de%20foin),%201649,%20Fl.,%20D%20> ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_J'accat%C3%A9%20hier%20troi%20ou%20quatre%20chen%20de%20fin%20(> .
+        a                        ontolex:LexicalEntry ;
+        restaure:etymology       restaure: ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#=%20quintaux%20de%20foin),%201649,%20Fl.,%20D%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#=%20quintaux%20de%20foin),%201649,%20Fl.,%20D%20> ;
+        ontolex:lexicalForm      <http://restaure.limsi.fr/2017/rdf#lf_J'accat%C3%A9%20hier%20troi%20ou%20quatre%20chen%20de%20fin%20(> .
 
-<http://restaure.limsi.fr/2017/rdf#%22%20Cha,%20un%20jueu%20d'%20balle%20?%20Eine%20passette%20!%20Il%20y%20faudrot%20un%20gant%20comme%20un%20couvi%C3%A8pe%20ed%20boulleuse%20!%20%22%20(EM).%20>
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Au%20jour,%20i%20(=%20le%20galibot)%20n'%20fait%20foque%20ed%20jingler%20%22%20(JM).%0A%20%20%20%20%20%20>
         a                   ontolex:Form ;
-        ontolex:writtenRep  "\" Cha, un jueu d' balle ? Eine passette ! Il y faudrot un gant comme un couvièpe ed boulleuse ! \" (EM). " .
-
-<http://restaure.limsi.fr/2017/rdf#%22%20A%20l'%20ducasse,%20y-avot%20les%20jav'loteux%20qui%20v'nutent%20tirer%20au%20cabaret%20pas%20lon%20d%C3%A9%20l'%20plache%20%22%20(PP).>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "\" A l' ducasse, y-avot les jav'loteux qui v'nutent tirer au cabaret pas lon dé l' plache \" (PP)." .
+        ontolex:writtenRep  "\n        \" Au jour, i (= le galibot) n' fait foque ed jingler \" (JM).\n      " .
 
 restaure:  ontolex:writtenRep  "" .
+
+restaure:Traduction  a      ontolex:Form ;
+        ontolex:writtenRep  "" .
 
 <http://restaure.limsi.fr/2017/rdf#lf_JEU%20ou%20JU>
         a                   ontolex:Form ;
@@ -690,35 +709,35 @@ restaure:  ontolex:writtenRep  "" .
 lexinfo:Preposition  ontolex:writtenRep
                 "Préposition"@fra .
 
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20A%20l'%20ducasse,%20y-avot%20les%20jav'loteux%20qui%20v'nutent%20tirer%20au%20cabaret%20pas%20lon%20d%C3%A9%20l'%20plache%20%22%20(PP).%0A%20%20%20%20%20%20>
+        a                   ontolex:Form ;
+        ontolex:writtenRep  "\n        \" A l' ducasse, y-avot les jav'loteux qui v'nutent tirer au cabaret pas lon dé l' plache \" (PP).\n      " .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20ouvrier%20en%20ch%C3%B4mage.%20ANC.%20:%20joqier%20:%20se%20jucher%20(oiseaux),%20%C3%AAtre%20en%20repos,%20rester%20sans%20rien%20faire%20(Wace,%201155).%20%22%20Vous%20volies%20adies%20devancier%20/%20Ne%20mie%20en%20.I.%20seul%20lieu%20jokier%20%22%20(Regr.%20Guillaume).%20%22%20All%C3%A9%20to%20rademen,%20cour%C3%A9,%20ne%20joqui%C3%A9%20woaire%20!%20%22%20(Fl,%20S,%201648)%20=%20ne%20vous%20attardez%20gu%C3%A8re.%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        ouvrier en chômage. ANC. : joqier : se jucher (oiseaux), être en repos, rester sans rien faire (Wace, 1155). \" Vous volies adies devancier / Ne mie en .I. seul lieu jokier \" (Regr. Guillaume). \" Allé to rademen, couré, ne joquié woaire ! \" (Fl, S, 1648) = ne vous attardez guère.\n      " .
+
 <http://restaure.limsi.fr/2017/rdf#lanceur%20de%20javelot.%20>
         ontolex:writtenRep  "lanceur de javelot. " .
 
 <http://restaure.limsi.fr/2017/rdf#arr%C3%AAte%20(de%20m'embrasser)%20!%20>
         ontolex:writtenRep  "arrête (de m'embrasser) ! " .
 
-restaure:le10PicardVersFrançais_38
-        a                              ontolex:LexicalEntry ;
-        lexinfo:partOfSpeech           lexinfo:Adjective ;
-        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Ch'est%20jusse%20comme%20un%20pot%20d'%20chinq%20pintes%20%22%20(GH)%20=%20c'est%20faux,%20puisque%20le%20pot%20%C3%A9tait%20une%20mesure%20de%20quatre%20pintes.> ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#%20%22%20Ch'est%20jusse%20comme%20un%20pot%20d'%20chinq%20pintes%20%22%20(GH)%20=%20c'est%20faux,%20puisque%20le%20pot%20%C3%A9tait%20une%20mesure%20de%20quatre%20pintes.> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#%20> ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            restaure:lf_JUSSE .
-
 <http://restaure.limsi.fr/2017/rdf#dit-on%20%C3%A0%20un%20importun%20qui%20tient%20de%20sots%20propos.>
         ontolex:writtenRep  "dit-on à un importun qui tient de sots propos." .
 
-<http://restaure.limsi.fr/2017/rdf#J'%20n'y%20vos%20pas%20d'%20jour%20=%20je%20ne%20sais%20comment%20faire,%20je%20n'y%20arrive%20pas.%20Ouvrer%20au%20jour%20:%20travailler%20dans%20les%20installations%20de%20surface%20(mines).%20>
-        ontolex:writtenRep  "J' n'y vos pas d' jour = je ne sais comment faire, je n'y arrive pas. Ouvrer au jour : travailler dans les installations de surface (mines). " .
-
-<http://restaure.limsi.fr/2017/rdf#Cependant,%20on%20ne%20dit%20pas%20:%20un%20jeujeute%20pour%20un%20joujou).%20Faire%20jeujeute%20:%20s'amuser%20%C3%A0%20des%20riens.%20>
-        ontolex:writtenRep  "Cependant, on ne dit pas : un jeujeute pour un joujou). Faire jeujeute : s'amuser à des riens. " .
+restaure:le10PicardVersFrançais_38
+        a                        ontolex:LexicalEntry ;
+        lexinfo:partOfSpeech     lexinfo:Adjective ;
+        restaure:etymology       restaure: ;
+        restaure:hasExample      <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Ch'est%20jusse%20comme%20un%20pot%20d'%20chinq%20pintes%20%22%20(GH)%20=%20c'est%20faux,%20puisque%20le%20pot%20%C3%A9tait%20une%20mesure%20de%20quatre%20pintes.%0A%20%20%20%20%20%20> ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Ch'est%20jusse%20comme%20un%20pot%20d'%20chinq%20pintes%20%22%20(GH)%20=%20c'est%20faux,%20puisque%20le%20pot%20%C3%A9tait%20une%20mesure%20de%20quatre%20pintes.%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#%20> ;
+        ontolex:lexicalForm      restaure:lf_JUSSE .
 
 restaure:lf_JUS  a          ontolex:Form ;
         ontolex:writtenRep  "jus" .
-
-<http://restaure.limsi.fr/2017/rdf#femme%20qui%20travaille%20%C3%A0%20la%20journ%C3%A9e.%20%22%20Vous%20trouv'rez%20cor%20des%20journ%C3%A9ress',%20des%20buress',%20des%20gard'%20malat'...%20%22%20(JQ).>
-        ontolex:writtenRep  "femme qui travaille à la journée. \" Vous trouv'rez cor des journéress', des buress', des gard' malat'... \" (JQ)." .
 
 restaure:LexiqueDaubyRouchiPicard
         restaure:Coordinate             restaure:coordinate ;
@@ -727,7 +746,8 @@ restaure:LexiqueDaubyRouchiPicard
         restaure:lexiconDirectionWrittenRep
                 "picard vers français"@fra ;
         restaure:lexiconNameWrittenRep  "Le Livre du \"Rouchi\" Parler Picard de Valenciennes"@fra ;
-        lime:entry                      restaure:le10PicardVersFrançais_18 , restaure:le10PicardVersFrançais_19 , restaure:le10PicardVersFrançais_5 , restaure:le10PicardVersFrançais_30 , restaure:le10PicardVersFrançais_23 , restaure:le10PicardVersFrançais_6 , restaure:le10PicardVersFrançais_31 , restaure:le10PicardVersFrançais_24 , restaure:le10PicardVersFrançais_38 , restaure:le10PicardVersFrançais_21 , restaure:le10PicardVersFrançais_14 , restaure:le10PicardVersFrançais_15 , restaure:le10PicardVersFrançais_29 , restaure:le10PicardVersFrançais_2 , restaure:le10PicardVersFrançais_34 , restaure:le10PicardVersFrançais_35 , restaure:le10PicardVersFrançais_0 , restaure:le10PicardVersFrançais_7 , restaure:le10PicardVersFrançais_32 , restaure:le10PicardVersFrançais_11 , restaure:le10PicardVersFrançais_25 , restaure:le10PicardVersFrançais_8 , restaure:le10PicardVersFrançais_26 , restaure:le10PicardVersFrançais_16 , restaure:le10PicardVersFrançais_17 , restaure:le10PicardVersFrançais_3 , restaure:le10PicardVersFrançais_4 , restaure:le10PicardVersFrançais_22 , restaure:le10PicardVersFrançais_36 , restaure:le10PicardVersFrançais_37 , restaure:le10PicardVersFrançais_1 , restaure:le10PicardVersFrançais_12 , restaure:le10PicardVersFrançais_9 , restaure:le10PicardVersFrançais_20 , restaure:le10PicardVersFrançais_13 , restaure:le10PicardVersFrançais_27 , restaure:le10PicardVersFrançais_28 , restaure:le10PicardVersFrançais_10 , restaure:le10PicardVersFrançais_33 .
+        lime:entry                      restaure:le10PicardVersFrançais_18 , restaure:le10PicardVersFrançais_19 , restaure:le10PicardVersFrançais_5 , restaure:le10PicardVersFrançais_30 , restaure:le10PicardVersFrançais_23 , restaure:le10PicardVersFrançais_6 , restaure:le10PicardVersFrançais_31 , restaure:le10PicardVersFrançais_24 , restaure:le10PicardVersFrançais_38 , restaure:le10PicardVersFrançais_21 , restaure:le10PicardVersFrançais_14 , restaure:le10PicardVersFrançais_15 , restaure:le10PicardVersFrançais_29 , restaure:le10PicardVersFrançais_2 , restaure:le10PicardVersFrançais_34 , restaure:le10PicardVersFrançais_35 , restaure:le10PicardVersFrançais_0 , restaure:le10PicardVersFrançais_7 , restaure:le10PicardVersFrançais_32 , restaure:le10PicardVersFrançais_11 , restaure:le10PicardVersFrançais_25 , restaure:le10PicardVersFrançais_8 , restaure:le10PicardVersFrançais_26 , restaure:le10PicardVersFrançais_16 , restaure:le10PicardVersFrançais_17 , restaure:le10PicardVersFrançais_3 , restaure:le10PicardVersFrançais_4 , restaure:le10PicardVersFrançais_22 , restaure:le10PicardVersFrançais_36 , restaure:le10PicardVersFrançais_37 , restaure:le10PicardVersFrançais_1 , restaure:le10PicardVersFrançais_12 , restaure:le10PicardVersFrançais_9 , restaure:le10PicardVersFrançais_20 , restaure:le10PicardVersFrançais_13 , restaure:le10PicardVersFrançais_27 , restaure:le10PicardVersFrançais_28 , restaure:le10PicardVersFrançais_10 , restaure:le10PicardVersFrançais_33 ;
+        lime:language                   "pcd"@fra .
 
 restaure:lf_JINGLER  a      ontolex:Form ;
         ontolex:writtenRep  "jingler" .
@@ -740,30 +760,43 @@ restaure:lf_JUMENT  a       ontolex:Form ;
         ontolex:writtenRep  "jument" .
 
 restaure:le10PicardVersFrançais_8
-        a                              ontolex:LexicalEntry ;
-        lexinfo:gender                 lexinfo:Masculine ;
-        lexinfo:partOfSpeech           lexinfo:Noun ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#jeu%20de%20plein%20air%20consistant%20%C3%A0%20lancer%20une%20grosse%20fl%C3%A8che%20courte%20et%20lourde,%20le%20javelot,%20dans%20une%20cible%20de%20bois%20ou%20de%20paille.> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#jeu%20de%20plein%20air%20consistant%20%C3%A0%20lancer%20une%20grosse%20fl%C3%A8che%20courte%20et%20lourde,%20le%20javelot,%20dans%20une%20cible%20de%20bois%20ou%20de%20paille.> ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_*%20JAV(E)LOT> .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:gender           lexinfo:Masculine ;
+        lexinfo:partOfSpeech     lexinfo:Noun ;
+        restaure:etymology       restaure: ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20jeu%20de%20plein%20air%20consistant%20%C3%A0%20lancer%20une%20grosse%20fl%C3%A8che%20courte%20et%20lourde,%20le%20javelot,%20dans%20une%20cible%20de%20bois%20ou%20de%20paille.%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20jeu%20de%20plein%20air%20consistant%20%C3%A0%20lancer%20une%20grosse%20fl%C3%A8che%20courte%20et%20lourde,%20le%20javelot,%20dans%20une%20cible%20de%20bois%20ou%20de%20paille.%0A%20%20%20%20%20%20> ;
+        ontolex:lexicalForm      <http://restaure.limsi.fr/2017/rdf#lf_*%20JAV(E)LOT> .
 
 restaure:lf_Jeujeute  a     ontolex:Form ;
         ontolex:writtenRep  "jeujeute" .
 
 restaure:le10PicardVersFrançais_17
-        a                              ontolex:LexicalEntry ;
-        lexinfo:gender                 lexinfo:Masculine ;
-        lexinfo:partOfSpeech           lexinfo:Noun ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#musard.%20ANC.%20:%20jongler,%20gengler%20:%20jaser,%20bavarder,%20railler%20(Psautier%20de%20Cambridge,%20d%C3%A9b.%20XIIe)%20du%20francique%20jangalon%20:%20crier.%20Il%20y%20a%20eu%20une%20confusion%20ancienne%20avec%20jogler%20(lat.%20joculari)%20:%20jongler,%20chanter,%20faire%20des%20tours.> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#musard.%20> ;
-        restaure:TranslatableInFrenchOneWord
-                restaure:Traductionmusard ;
-        restaure:oldInformation        <http://restaure.limsi.fr/2017/rdf#ANC.%20:%20jongler,%20gengler%20:%20jaser,%20bavarder,%20railler%20(Psautier%20de%20Cambridge,%20d%C3%A9b.%20XIIe)%20du%20francique%20jangalon%20:%20crier.%20Il%20y%20a%20eu%20une%20confusion%20ancienne%20avec%20jogler%20(lat.%20joculari)%20:%20jongler,%20chanter,%20faire%20des%20tours.> ;
-        ontolex:lexicalForm            restaure:lf_Jingleux .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:gender           lexinfo:Masculine ;
+        lexinfo:partOfSpeech     lexinfo:Noun ;
+        restaure:etymology       <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20ANC.%20:%20jongler,%20gengler%20:%20jaser,%20bavarder,%20railler%20(Psautier%20de%20Cambridge,%20d%C3%A9b.%20XIIe)%20du%20francique%20jangalon%20:%20crier.%20Il%20y%20a%20eu%20une%20confusion%20ancienne%20avec%20jogler%20(lat.%20joculari)%20:%20jongler,%20chanter,%20faire%20des%20tours.%0A%20%20%20%20%20%20%0A%20%20%20%20> ;
+        restaure:translatableAs  restaure:Traduction , restaure:Traductionmusard ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20musard.%20ANC.%20:%20jongler,%20gengler%20:%20jaser,%20bavarder,%20railler%20(Psautier%20de%20Cambridge,%20d%C3%A9b.%20XIIe)%20du%20francique%20jangalon%20:%20crier.%20Il%20y%20a%20eu%20une%20confusion%20ancienne%20avec%20jogler%20(lat.%20joculari)%20:%20jongler,%20chanter,%20faire%20des%20tours.%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#musard.%20> ;
+        ontolex:lexicalForm      restaure:lf_Jingleux .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20S.%20f.%20:%20journ%C3%A9e.%20/%20L'%20grain%20qu'on%20carquot%20d'%20jorn%C3%A9es%20inti%C3%A8res%20%22%20(GF).%20ANC.%20:%20Jornee%20(Beno%C3%AEt%20de%20Ste%20Maure,%201160),%20jorn%20(XIe).%20%22%20Chan%20qui%20fu%20di%20et%20foai%20le%20deuzimme%20jorn%C3%A9e%20%22%20(Fl,%20H,%201654).%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        S. f. : journée. / L' grain qu'on carquot d' jornées intières \" (GF). ANC. : Jornee (Benoît de Ste Maure, 1160), jorn (XIe). \" Chan qui fu di et foai le deuzimme jornée \" (Fl, H, 1654).\n      " .
 
 <http://restaure.limsi.fr/2017/rdf#1%20-%20%C3%AAtre%20au%20repos,%20ne%20pas%20travailler,%20ch%C3%B4mer.%20>
         ontolex:writtenRep  "1 - être au repos, ne pas travailler, chômer. " .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Tu%20compteras%20l'%20prix%20qu'%20cha%20co%C3%BBte,%20des%20jeux%20parels%20!%20%22%20=%20de%20semblables%20fantaisies.%0A%20%20%20%20%20%20>
+        a                   ontolex:Form ;
+        ontolex:writtenRep  "\n        \" Tu compteras l' prix qu' cha coûte, des jeux parels ! \" = de semblables fantaisies.\n      " .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Pierr'%20n'est%20pas%20souv%C3%AEnt%20%C3%A0%20joque%20%22%20(JM)%20=%20il%20n'est%20pas%20souvent%20inactif.%0A%20%20%20%20%20%20>
+        a                   ontolex:Form ;
+        ontolex:writtenRep  "\n        \" Pierr' n'est pas souvînt à joque \" (JM) = il n'est pas souvent inactif.\n      " .
 
 restaure:Traductiongazouiller
         a                   ontolex:Form ;
@@ -780,33 +813,35 @@ restaure:Traductiongazouiller
         a                   ontolex:Form ;
         ontolex:writtenRep  "jaquière" .
 
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20JEUER%20(BD),%20v.%20:%20jouer.%20I%20m%20'a%20ju%C3%A9%20l'%20tour%20=%20il%20m'a%20bern%C3%A9.%20Ch'est%20ju%C3%A9%20d%C3%A9%20m'n%20argint%20(GH)%20=%20je%20suis%20d'accord.%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        JEUER (BD), v. : jouer. I m 'a jué l' tour = il m'a berné. Ch'est jué dé m'n argint (GH) = je suis d'accord.\n      " .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20J'aperchos%20eun'%20fill'%20joulite%20comm'%20les%20amours%20%22%20(JQ).%0A%20%20%20%20%20%20>
+        a                   ontolex:Form ;
+        ontolex:writtenRep  "\n        \" J'aperchos eun' fill' joulite comm' les amours \" (JQ).\n      " .
+
 <http://restaure.limsi.fr/2017/rdf#:%20(voir%20:%20brin).>
         ontolex:writtenRep  ": (voir : brin)." .
 
 restaure:le10PicardVersFrançais_25
-        a                              ontolex:LexicalEntry ;
-        lexinfo:gender                 lexinfo:Masculine ;
-        lexinfo:partOfSpeech           lexinfo:Noun ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#jouissance.> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#jouissance.> ;
-        restaure:TranslatableInFrenchOneWord
-                restaure:Traductionjouissance ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_JOUISS(E)MINT> .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:gender           lexinfo:Masculine ;
+        lexinfo:partOfSpeech     lexinfo:Noun ;
+        restaure:etymology       restaure: ;
+        restaure:translatableAs  restaure:Traduction , restaure:Traductionjouissance ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#jouissance.> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#jouissance.> ;
+        ontolex:lexicalForm      <http://restaure.limsi.fr/2017/rdf#lf_JOUISS(E)MINT> .
 
 <http://restaure.limsi.fr/2017/rdf#JET%20:%20(voir%20:%20g%C3%A9e).>
         ontolex:writtenRep  "JET : (voir : gée)." .
 
-<http://restaure.limsi.fr/2017/rdf#jeunesse%20;%20jeune%20fille.%20ANC.%20:%20on%20trouve,%20au%20XIIe,%20joene%20(jeune)%20;%20au%20XIIIe%20:%20joenesse%20(jeunesse),%20du%20lat.%20pop.%20jovents,%20pour%20juvenis.%20%22%20...%20chan%20qu'en%20vi%20du%20tan%20de%20no%20jonn%C3%A8che%20%22%20(Fl,%20H,%201654).>
-        ontolex:writtenRep  "jeunesse ; jeune fille. ANC. : on trouve, au XIIe, joene (jeune) ; au XIIIe : joenesse (jeunesse), du lat. pop. jovents, pour juvenis. \" ... chan qu'en vi du tan de no jonnèche \" (Fl, H, 1654)." .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20ANC.%20:%20on%20trouve,%20au%20XIIe,%20joene%20(jeune)%20;%20au%20XIIIe%20:%20joenesse%20(jeunesse),%20du%20lat.%20pop.%20jovents,%20pour%20juvenis.%20%22%20...%20chan%20qu'en%20vi%20du%20tan%20de%20no%20jonn%C3%A8che%20%22%20(Fl,%20H,%201654).%0A%20%20%20%20%20%20%0A%20%20%20%20>
+        ontolex:writtenRep  "\n      \n        ANC. : on trouve, au XIIe, joene (jeune) ; au XIIIe : joenesse (jeunesse), du lat. pop. jovents, pour juvenis. \" ... chan qu'en vi du tan de no jonnèche \" (Fl, H, 1654).\n      \n    " .
 
-<http://restaure.limsi.fr/2017/rdf#%22%20A%20belle%20voie,%20i%20n'%20y%20a%20rien%20%C3%A0%20joquer%20%22%20=%20il%20ne%20faut%20pas%20s'arr%C3%AAter%20en%20si%20bon%20chemin.%20>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "\" A belle voie, i n' y a rien à joquer \" = il ne faut pas s'arrêter en si bon chemin. " .
-
-<http://restaure.limsi.fr/2017/rdf#%22%20Jean%20Bi%C3%AAte%20a%20lay%C3%A9%20bin%20des%20h%C3%A9ritiers,%20t'in%20es%20un%20%22%20(GH),%20>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "\" Jean Biête a layé bin des héritiers, t'in es un \" (GH), " .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20ANC.%20:%20jupel%20:%20pourpoint,%20tunique%20(Adam%20de%20la%20Halle,%201260).%0A%20%20%20%20>
+        ontolex:writtenRep  "\n      ANC. : jupel : pourpoint, tunique (Adam de la Halle, 1260).\n    " .
 
 <http://restaure.limsi.fr/2017/rdf#%22%20N'%20sus%20jou%20point%20prope%20?%20%22%20(GF).%20>
         a                   ontolex:Form ;
@@ -816,45 +851,54 @@ restaure:le10PicardVersFrançais_25
         ontolex:writtenRep  ": (voir : gaquière)." .
 
 restaure:le10PicardVersFrançais_33
-        a                              ontolex:LexicalEntry ;
-        lexinfo:gender                 lexinfo:Female ;
-        lexinfo:partOfSpeech           lexinfo:Noun ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#ancienne%20charrue%20l%C3%A9g%C3%A8re.%20Elle%20avait%20deux%20socs%20identiques%20comme%20le%20culbutant%20mais%20tra%C3%A7ait%20des%20sillons%20plus%20%C3%A9troits.%20Les%20deux%20roues%20%C3%A9taient%20in%C3%A9gales,%20la%20plus%20grande%20restant%20au%20fond%20du%20sillon%20(GD).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#ancienne%20charrue%20l%C3%A9g%C3%A8re.%20Elle%20avait%20deux%20socs%20identiques%20comme%20le%20culbutant%20mais%20tra%C3%A7ait%20des%20sillons%20plus%20%C3%A9troits.%20Les%20deux%20roues%20%C3%A9taient%20in%C3%A9gales,%20la%20plus%20grande%20restant%20au%20fond%20du%20sillon%20(GD).> ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            restaure:lf_JUMELLE .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:gender           lexinfo:Female ;
+        lexinfo:partOfSpeech     lexinfo:Noun ;
+        restaure:etymology       restaure: ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20ancienne%20charrue%20l%C3%A9g%C3%A8re.%20Elle%20avait%20deux%20socs%20identiques%20comme%20le%20culbutant%20mais%20tra%C3%A7ait%20des%20sillons%20plus%20%C3%A9troits.%20Les%20deux%20roues%20%C3%A9taient%20in%C3%A9gales,%20la%20plus%20grande%20restant%20au%20fond%20du%20sillon%20(GD).%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20ancienne%20charrue%20l%C3%A9g%C3%A8re.%20Elle%20avait%20deux%20socs%20identiques%20comme%20le%20culbutant%20mais%20tra%C3%A7ait%20des%20sillons%20plus%20%C3%A9troits.%20Les%20deux%20roues%20%C3%A9taient%20in%C3%A9gales,%20la%20plus%20grande%20restant%20au%20fond%20du%20sillon%20(GD).%0A%20%20%20%20%20%20> ;
+        ontolex:lexicalForm      restaure:lf_JUMELLE .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Quand%20j'%20vos%20un%20jeu%20parel,%20el%20ti%C3%AAte%20al%20m%C3%A9%20tourne%20%22%20(RD)%20=%20un%20d%C3%A9sordre%20semblable.%20Etc.%20(Voir%20:%20faiseux%20d'%20jeux).%0A%20%20%20%20%20%20>
+        a                   ontolex:Form ;
+        ontolex:writtenRep  "\n        \" Quand j' vos un jeu parel, el tiête al mé tourne \" (RD) = un désordre semblable. Etc. (Voir : faiseux d' jeux).\n      " .
 
 restaure:le10PicardVersFrançais_3
-        a                              ontolex:LexicalEntry ;
-        lexinfo:gender                 lexinfo:Female ;
-        lexinfo:partOfSpeech           lexinfo:Noun ;
-        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Mais%20l'%20jalous't%C3%A9%20des%20pauv's,%20vraimint,%20/%20M'a%20fait%20du%20mau%20%22%20(JM).> ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#jalousie%20(Ces%20termes%20ne%20sont%20pas%20particuliers%20au%20rouchi).%20%22%20Mais%20l'%20jalous't%C3%A9%20des%20pauv's,%20vraimint,%20/%20M'a%20fait%20du%20mau%20%22%20(JM).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#jalousie%20(Ces%20termes%20ne%20sont%20pas%20particuliers%20au%20rouchi).%20> ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_JALOUS(E)RIE%20ou%20JALOUS(E)T%C3%89> .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:gender           lexinfo:Female ;
+        lexinfo:partOfSpeech     lexinfo:Noun ;
+        restaure:etymology       restaure: ;
+        restaure:hasExample      <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Mais%20l'%20jalous't%C3%A9%20des%20pauv's,%20vraimint,%20/%20M'a%20fait%20du%20mau%20%22%20(JM).%0A%20%20%20%20%20%20> ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20jalousie%20(Ces%20termes%20ne%20sont%20pas%20particuliers%20au%20rouchi).%20%22%20Mais%20l'%20jalous't%C3%A9%20des%20pauv's,%20vraimint,%20/%20M'a%20fait%20du%20mau%20%22%20(JM).%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#jalousie%20(Ces%20termes%20ne%20sont%20pas%20particuliers%20au%20rouchi).%20> ;
+        ontolex:lexicalForm      <http://restaure.limsi.fr/2017/rdf#lf_JALOUS(E)RIE%20ou%20JALOUS(E)T%C3%89> .
 
 restaure:le10PicardVersFrançais_12
-        a                              ontolex:LexicalEntry ;
-        lexinfo:gender                 lexinfo:Masculine ;
-        lexinfo:partOfSpeech           lexinfo:Noun ;
-        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20T'as%20fait%20les%20jeux%20pour%20eun'%20moto%20%22%20(RP)%20=%20tu%20as%20tout%20fait%20pour%20avoir%20une%20moto.%20> , <http://restaure.limsi.fr/2017/rdf#%22%20Quand%20j'%20vos%20un%20jeu%20parel,%20el%20ti%C3%AAte%20al%20m%C3%A9%20tourne%20%22%20(RD)%20=%20un%20d%C3%A9sordre%20semblable.%20Etc.%20(Voir%20:%20faiseux%20d'%20jeux).> , <http://restaure.limsi.fr/2017/rdf#%22%20Tu%20compteras%20l'%20prix%20qu'%20cha%20co%C3%BBte,%20des%20jeux%20parels%20!%20%22%20=%20de%20semblables%20fantaisies.%20> , <http://restaure.limsi.fr/2017/rdf#%22%20Commint%20qu'%20t'as%20fait%20l'%20jeu%20pou%20passer%20l'%20ligne%20ed%20d%C3%A9marcation%20?%20%22%20(RD)%20=%20comment%20t'y%20es-tu%20pris%20?%20S'%20m%C3%AAler%20d'%20ses%20jus%20(GL)%20=%20s'occuper%20de%20ses%20affaires.%20In%20n'%20vot%20pus%20clair%20%C3%A0%20s'%20jeu%20=%20on%20n'arrive%20plus%20%C3%A0%20joindre%20les%20deux%20bouts.%20> , <http://restaure.limsi.fr/2017/rdf#%22%20Allez,%20prinds%20t'n%20outil%20et%20comminche%20el%20jeu%20%22%20(RD)%20(il%20s'agit%20d'une%20coupe%20de%20cheveux).%20> ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#le%20mot%20peut%20avoir%20de%20nombreux%20sens,%20en%20part.%20dans%20l'expr.%20faire%20les%20jeux%20:%20se%20conduire%20de%20fa%C3%A7on%20peu%20raisonnable.%20%22%20T'as%20fait%20les%20jeux%20pour%20eun'%20moto%20%22%20(RP)%20=%20tu%20as%20tout%20fait%20pour%20avoir%20une%20moto.%20%22%20Commint%20qu'%20t'as%20fait%20l'%20jeu%20pou%20passer%20l'%20ligne%20ed%20d%C3%A9marcation%20?%20%22%20(RD)%20=%20comment%20t'y%20es-tu%20pris%20?%20S'%20m%C3%AAler%20d'%20ses%20jus%20(GL)%20=%20s'occuper%20de%20ses%20affaires.%20In%20n'%20vot%20pus%20clair%20%C3%A0%20s'%20jeu%20=%20on%20n'arrive%20plus%20%C3%A0%20joindre%20les%20deux%20bouts.%20%22%20Tu%20compteras%20l'%20prix%20qu'%20cha%20co%C3%BBte,%20des%20jeux%20parels%20!%20%22%20=%20de%20semblables%20fantaisies.%20%22%20Allez,%20prinds%20t'n%20outil%20et%20comminche%20el%20jeu%20%22%20(RD)%20(il%20s'agit%20d'une%20coupe%20de%20cheveux).%20%22%20Quand%20j'%20vos%20un%20jeu%20parel,%20el%20ti%C3%AAte%20al%20m%C3%A9%20tourne%20%22%20(RD)%20=%20un%20d%C3%A9sordre%20semblable.%20Etc.%20(Voir%20:%20faiseux%20d'%20jeux).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#le%20mot%20peut%20avoir%20de%20nombreux%20sens,%20en%20part.%20dans%20l'expr.%20faire%20les%20jeux%20:%20se%20conduire%20de%20fa%C3%A7on%20peu%20raisonnable.%20> ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_JEU%20ou%20JU> .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:gender           lexinfo:Masculine ;
+        lexinfo:partOfSpeech     lexinfo:Noun ;
+        restaure:etymology       restaure: ;
+        restaure:hasExample      <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Commint%20qu'%20t'as%20fait%20l'%20jeu%20pou%20passer%20l'%20ligne%20ed%20d%C3%A9marcation%20?%20%22%20(RD)%20=%20comment%20t'y%20es-tu%20pris%20?%20S'%20m%C3%AAler%20d'%20ses%20jus%20(GL)%20=%20s'occuper%20de%20ses%20affaires.%20In%20n'%20vot%20pus%20clair%20%C3%A0%20s'%20jeu%20=%20on%20n'arrive%20plus%20%C3%A0%20joindre%20les%20deux%20bouts.%0A%20%20%20%20%20%20> , <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20T'as%20fait%20les%20jeux%20pour%20eun'%20moto%20%22%20(RP)%20=%20tu%20as%20tout%20fait%20pour%20avoir%20une%20moto.%0A%20%20%20%20%20%20> , <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Allez,%20prinds%20t'n%20outil%20et%20comminche%20el%20jeu%20%22%20(RD)%20(il%20s'agit%20d'une%20coupe%20de%20cheveux).%0A%20%20%20%20%20%20> , <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Quand%20j'%20vos%20un%20jeu%20parel,%20el%20ti%C3%AAte%20al%20m%C3%A9%20tourne%20%22%20(RD)%20=%20un%20d%C3%A9sordre%20semblable.%20Etc.%20(Voir%20:%20faiseux%20d'%20jeux).%0A%20%20%20%20%20%20> , <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Tu%20compteras%20l'%20prix%20qu'%20cha%20co%C3%BBte,%20des%20jeux%20parels%20!%20%22%20=%20de%20semblables%20fantaisies.%0A%20%20%20%20%20%20> ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20le%20mot%20peut%20avoir%20de%20nombreux%20sens,%20en%20part.%20dans%20l'expr.%20faire%20les%20jeux%20:%20se%20conduire%20de%20fa%C3%A7on%20peu%20raisonnable.%20%22%20T'as%20fait%20les%20jeux%20pour%20eun'%20moto%20%22%20(RP)%20=%20tu%20as%20tout%20fait%20pour%20avoir%20une%20moto.%20%22%20Commint%20qu'%20t'as%20fait%20l'%20jeu%20pou%20passer%20l'%20ligne%20ed%20d%C3%A9marcation%20?%20%22%20(RD)%20=%20comment%20t'y%20es-tu%20pris%20?%20S'%20m%C3%AAler%20d'%20ses%20jus%20(GL)%20=%20s'occuper%20de%20ses%20affaires.%20In%20n'%20vot%20pus%20clair%20%C3%A0%20s'%20jeu%20=%20on%20n'arrive%20plus%20%C3%A0%20joindre%20les%20deux%20bouts.%20%22%20Tu%20compteras%20l'%20prix%20qu'%20cha%20co%C3%BBte,%20des%20jeux%20parels%20!%20%22%20=%20de%20semblables%20fantaisies.%20%22%20Allez,%20prinds%20t'n%20outil%20et%20comminche%20el%20jeu%20%22%20(RD)%20(il%20s'agit%20d'une%20coupe%20de%20cheveux).%20%22%20Quand%20j'%20vos%20un%20jeu%20parel,%20el%20ti%C3%AAte%20al%20m%C3%A9%20tourne%20%22%20(RD)%20=%20un%20d%C3%A9sordre%20semblable.%20Etc.%20(Voir%20:%20faiseux%20d'%20jeux).%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20le%20mot%20peut%20avoir%20de%20nombreux%20sens,%20en%20part.%20dans%20l'expr.%20faire%20les%20jeux%20:%20se%20conduire%20de%20fa%C3%A7on%20peu%20raisonnable.%0A%20%20%20%20%20%20> ;
+        ontolex:lexicalForm      <http://restaure.limsi.fr/2017/rdf#lf_JEU%20ou%20JU> .
 
 <http://restaure.limsi.fr/2017/rdf#lf_JOURN%C3%89RESSE>
         a                   ontolex:Form ;
         ontolex:writtenRep  "journéresse" .
 
-<http://restaure.limsi.fr/2017/rdf#%22%20Ch'est%20jusse%20comme%20un%20pot%20d'%20chinq%20pintes%20%22%20(GH)%20=%20c'est%20faux,%20puisque%20le%20pot%20%C3%A9tait%20une%20mesure%20de%20quatre%20pintes.>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "\" Ch'est jusse comme un pot d' chinq pintes \" (GH) = c'est faux, puisque le pot était une mesure de quatre pintes." .
-
 <http://restaure.limsi.fr/2017/rdf#Traductions'amuser>
         a                   ontolex:Form ;
         ontolex:writtenRep  "s'amuser" .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20le%20mot%20peut%20avoir%20de%20nombreux%20sens,%20en%20part.%20dans%20l'expr.%20faire%20les%20jeux%20:%20se%20conduire%20de%20fa%C3%A7on%20peu%20raisonnable.%20%22%20T'as%20fait%20les%20jeux%20pour%20eun'%20moto%20%22%20(RP)%20=%20tu%20as%20tout%20fait%20pour%20avoir%20une%20moto.%20%22%20Commint%20qu'%20t'as%20fait%20l'%20jeu%20pou%20passer%20l'%20ligne%20ed%20d%C3%A9marcation%20?%20%22%20(RD)%20=%20comment%20t'y%20es-tu%20pris%20?%20S'%20m%C3%AAler%20d'%20ses%20jus%20(GL)%20=%20s'occuper%20de%20ses%20affaires.%20In%20n'%20vot%20pus%20clair%20%C3%A0%20s'%20jeu%20=%20on%20n'arrive%20plus%20%C3%A0%20joindre%20les%20deux%20bouts.%20%22%20Tu%20compteras%20l'%20prix%20qu'%20cha%20co%C3%BBte,%20des%20jeux%20parels%20!%20%22%20=%20de%20semblables%20fantaisies.%20%22%20Allez,%20prinds%20t'n%20outil%20et%20comminche%20el%20jeu%20%22%20(RD)%20(il%20s'agit%20d'une%20coupe%20de%20cheveux).%20%22%20Quand%20j'%20vos%20un%20jeu%20parel,%20el%20ti%C3%AAte%20al%20m%C3%A9%20tourne%20%22%20(RD)%20=%20un%20d%C3%A9sordre%20semblable.%20Etc.%20(Voir%20:%20faiseux%20d'%20jeux).%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        le mot peut avoir de nombreux sens, en part. dans l'expr. faire les jeux : se conduire de façon peu raisonnable. \" T'as fait les jeux pour eun' moto \" (RP) = tu as tout fait pour avoir une moto. \" Commint qu' t'as fait l' jeu pou passer l' ligne ed démarcation ? \" (RD) = comment t'y es-tu pris ? S' mêler d' ses jus (GL) = s'occuper de ses affaires. In n' vot pus clair à s' jeu = on n'arrive plus à joindre les deux bouts. \" Tu compteras l' prix qu' cha coûte, des jeux parels ! \" = de semblables fantaisies. \" Allez, prinds t'n outil et comminche el jeu \" (RD) (il s'agit d'une coupe de cheveux). \" Quand j' vos un jeu parel, el tiête al mé tourne \" (RD) = un désordre semblable. Etc. (Voir : faiseux d' jeux).\n      " .
 
 <http://restaure.limsi.fr/2017/rdf#:%20(vojr%20:%20juer).>
         ontolex:writtenRep  ": (vojr : juer)." .
@@ -862,78 +906,73 @@ restaure:le10PicardVersFrançais_12
 restaure:lf_Jingleux  a     ontolex:Form ;
         ontolex:writtenRep  "jingleux" .
 
-<http://restaure.limsi.fr/2017/rdf#%22%20In%20n'%20sara%20mie%20jurvir%20/%20Si%20cha%20va%20cor%20comm'%20cha%20tout'%20qu'%C3%A0%20la%20fin%20d%C3%A9%20l'%20belle%20!%20%22%20(JD).>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "\" In n' sara mie jurvir / Si cha va cor comm' cha tout' qu'à la fin dé l' belle ! \" (JD)." .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20tasse.%20P%C3%A9tite%20jatte%20:%20tasse%20%C3%A0%20caf%C3%A9.%20Grande%20jatte%20:%20bol%20%C3%A0%20d%C3%A9jeuner.%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        tasse. Pétite jatte : tasse à café. Grande jatte : bol à déjeuner.\n      " .
 
 restaure:lf_JUSSE  a        ontolex:Form ;
         ontolex:writtenRep  "jusse" .
 
-<http://restaure.limsi.fr/2017/rdf#%22%20T%C3%A9%20n'%20f'ras%20chi%20rien,%20vieux%20jeu%20d'%20bidets,%20/%20T'as%20biau%20tourner,%20ch'est%20inutile%20%22%20(JM).%20>
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20suffire%20(%C3%A0%20quelque%20chose)%20;%20arriver%20(%C3%A0%20faire%20quelque%20chose).%20Ne%20s'emploie%20qu'%C3%A0%20la%20forme%20n%C3%A9g.%20J%C3%A9%20n'%20peux%20jurvir%20:%20je%20ne%20peux%20plus%20y%20arriver.%20%22%20In%20n'%20sara%20mie%20jurvir%20/%20Si%20cha%20va%20cor%20comm'%20cha%20tout'%20qu'%C3%A0%20la%20fin%20d%C3%A9%20l'%20belle%20!%20%22%20(JD).%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        suffire (à quelque chose) ; arriver (à faire quelque chose). Ne s'emploie qu'à la forme nég. Jé n' peux jurvir : je ne peux plus y arriver. \" In n' sara mie jurvir / Si cha va cor comm' cha tout' qu'à la fin dé l' belle ! \" (JD).\n      " .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Alle%20juerot%20s'%20cul%20dins%20l'iau%20%22%20(GH)%20=%20rien%20ne%20peut%20l'arr%C3%AAter%20dans%20ses%20jeux.%20Juer%20%C3%A0%20coulons%20:%20participer%20%C3%A0%20des%20concours%20de%20pigeons-voyageurs.%0A%20%20%20%20%20%20>
         a                   ontolex:Form ;
-        ontolex:writtenRep  "\" Té n' f'ras chi rien, vieux jeu d' bidets, / T'as biau tourner, ch'est inutile \" (JM). " .
+        ontolex:writtenRep  "\n        \" Alle juerot s' cul dins l'iau \" (GH) = rien ne peut l'arrêter dans ses jeux. Juer à coulons : participer à des concours de pigeons-voyageurs.\n      " .
 
 restaure:le10PicardVersFrançais_20
-        a                              ontolex:LexicalEntry ;
-        lexinfo:partOfSpeech           lexinfo:Verb ;
-        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Madame%20Cantiau,%20les%20jours%20de%20mariache,%20/%20Pour%20elle%20jonquer%20in%20prenot%20plein%20s'%20cotron%20%22%20(AD).%20> , <http://restaure.limsi.fr/2017/rdf#%22%20Il%20vit%20sa%20femme%20en%20train%20de%20jonquer%20du%20sable%20blanc%20sur%20les%20carreaux%20rouges%20%22%20(FP).%20> , <http://restaure.limsi.fr/2017/rdf#%22%20Carbon),%20Joncque%20t'%20feumi%C3%A8r'%20dins%20l'univers%20%22%20(JM).%20> , <http://restaure.limsi.fr/2017/rdf#%22%20In%20li%20fait%20eun'%20bell'%20jonqure%20/%20Ed%20fleurs,%20ed%20sabe%20et%20d'%20biau%20papier%20%22%20(JM).%20> ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#joncher.%20%22%20Il%20vit%20sa%20femme%20en%20train%20de%20jonquer%20du%20sable%20blanc%20sur%20les%20carreaux%20rouges%20%22%20(FP).%20Sp%C3%A9cial%20:%20faire%20un%20tapis,%20jadis%20de%20feuillages,%20maintenant%20de%20rognures%20de%20massicot%20(papier%20blanc),%20la%20jonqure,%20devant%20la%20porte%20des%20nouveaux%20mari%C3%A9s.%20%22%20Madame%20Cantiau,%20les%20jours%20de%20mariache,%20/%20Pour%20elle%20jonquer%20in%20prenot%20plein%20s'%20cotron%20%22%20(AD).%20%22%20In%20li%20fait%20eun'%20bell'%20jonqure%20/%20Ed%20fleurs,%20ed%20sabe%20et%20d'%20biau%20papier%20%22%20(JM).%20Disperser%20:%20%22%20Carbon),%20Joncque%20t'%20feumi%C3%A8r'%20dins%20l'univers%20%22%20(JM).%20ANC.%20;%20jonc%20(lat.%20juncum),%20les%20jonqures%20se%20faisant%20autrefois%20avec%20des%20joncs%20coup%C3%A9s.%20%22%20Vo%20jonqueri%C3%A9%20vos%20huy%20de%20b%C3%A2me%20et%20romoerin%20%22%20(Fl,%20H,%201654).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#Sp%C3%A9cial%20:%20faire%20un%20tapis,%20jadis%20de%20feuillages,%20maintenant%20de%20rognures%20de%20massicot%20(papier%20blanc),%20la%20jonqure,%20devant%20la%20porte%20des%20nouveaux%20mari%C3%A9s.%20> , <http://restaure.limsi.fr/2017/rdf#Disperser%20:%20> , <http://restaure.limsi.fr/2017/rdf#joncher.%20> ;
-        restaure:TranslatableInFrenchOneWord
-                restaure:Traductionjoncher ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            restaure:lf_JONQUER .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:partOfSpeech     lexinfo:Verb ;
+        restaure:etymology       restaure: ;
+        restaure:hasExample      <http://restaure.limsi.fr/2017/rdf#%22%20Carbon),%20Joncque%20t'%20feumi%C3%A8r'%20dins%20l'univers%20%22%20(JM).%20> , <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Il%20vit%20sa%20femme%20en%20train%20de%20jonquer%20du%20sable%20blanc%20sur%20les%20carreaux%20rouges%20%22%20(FP).%0A%20%20%20%20%20%20> , <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20In%20li%20fait%20eun'%20bell'%20jonqure%20/%20Ed%20fleurs,%20ed%20sabe%20et%20d'%20biau%20papier%20%22%20(JM).%0A%20%20%20%20%20%20> , <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Madame%20Cantiau,%20les%20jours%20de%20mariache,%20/%20Pour%20elle%20jonquer%20in%20prenot%20plein%20s'%20cotron%20%22%20(AD).%0A%20%20%20%20%20%20> ;
+        restaure:translatableAs  restaure:Traductionjoncher , restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20joncher.%20%22%20Il%20vit%20sa%20femme%20en%20train%20de%20jonquer%20du%20sable%20blanc%20sur%20les%20carreaux%20rouges%20%22%20(FP).%20Sp%C3%A9cial%20:%20faire%20un%20tapis,%20jadis%20de%20feuillages,%20maintenant%20de%20rognures%20de%20massicot%20(papier%20blanc),%20la%20jonqure,%20devant%20la%20porte%20des%20nouveaux%20mari%C3%A9s.%20%22%20Madame%20Cantiau,%20les%20jours%20de%20mariache,%20/%20Pour%20elle%20jonquer%20in%20prenot%20plein%20s'%20cotron%20%22%20(AD).%20%22%20In%20li%20fait%20eun'%20bell'%20jonqure%20/%20Ed%20fleurs,%20ed%20sabe%20et%20d'%20biau%20papier%20%22%20(JM).%20Disperser%20:%20%22%20Carbon),%20Joncque%20t'%20feumi%C3%A8r'%20dins%20l'univers%20%22%20(JM).%20ANC.%20;%20jonc%20(lat.%20juncum),%20les%20jonqures%20se%20faisant%20autrefois%20avec%20des%20joncs%20coup%C3%A9s.%20%22%20Vo%20jonqueri%C3%A9%20vos%20huy%20de%20b%C3%A2me%20et%20romoerin%20%22%20(Fl,%20H,%201654).%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#Disperser%20:%20> , <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20Sp%C3%A9cial%20:%20faire%20un%20tapis,%20jadis%20de%20feuillages,%20maintenant%20de%20rognures%20de%20massicot%20(papier%20blanc),%20la%20jonqure,%20devant%20la%20porte%20des%20nouveaux%20mari%C3%A9s.%0A%20%20%20%20%20%20> , <http://restaure.limsi.fr/2017/rdf#joncher.%20> ;
+        ontolex:lexicalForm      restaure:lf_JONQUER .
 
-<http://restaure.limsi.fr/2017/rdf#ANC.%20:%20jupel%20:%20pourpoint,%20tunique%20(Adam%20de%20la%20Halle,%201260).>
-        ontolex:writtenRep  "ANC. : jupel : pourpoint, tunique (Adam de la Halle, 1260)." .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20Cependant,%20on%20ne%20dit%20pas%20:%20un%20jeujeute%20pour%20un%20joujou).%20Faire%20jeujeute%20:%20s'amuser%20%C3%A0%20des%20riens.%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        Cependant, on ne dit pas : un jeujeute pour un joujou). Faire jeujeute : s'amuser à des riens.\n      " .
 
-<http://restaure.limsi.fr/2017/rdf#un%20jour%20au%20matin,%20un%20jour%20au%20soir%20:%20un%20matin,%20un%20soir.%20%22%20Tous%20les%20jours%20au%20soir,%20tu%20fais%20l'%20tour%20du%20villache%20%22%20(RD).%20J'%20n'y%20vos%20pas%20d'%20jour%20=%20je%20ne%20sais%20comment%20faire,%20je%20n'y%20arrive%20pas.%20Ouvrer%20au%20jour%20:%20travailler%20dans%20les%20installations%20de%20surface%20(mines).%20%22%20J'ouvros%20comm'%20galibot%20%C3%A0%20l'%20fosse.%20/%20Quand,%20au%20jour,%20i%20passot%20un%20train,%20/%20Cha%20craquot,%20effrayant%20les%20gosses%20%22%20(JM).>
-        ontolex:writtenRep  "un jour au matin, un jour au soir : un matin, un soir. \" Tous les jours au soir, tu fais l' tour du villache \" (RD). J' n'y vos pas d' jour = je ne sais comment faire, je n'y arrive pas. Ouvrer au jour : travailler dans les installations de surface (mines). \" J'ouvros comm' galibot à l' fosse. / Quand, au jour, i passot un train, / Cha craquot, effrayant les gosses \" (JM)." .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20jeu%20de%20plein%20air%20consistant%20%C3%A0%20lancer%20une%20grosse%20fl%C3%A8che%20courte%20et%20lourde,%20le%20javelot,%20dans%20une%20cible%20de%20bois%20ou%20de%20paille.%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        jeu de plein air consistant à lancer une grosse flèche courte et lourde, le javelot, dans une cible de bois ou de paille.\n      " .
 
-<http://restaure.limsi.fr/2017/rdf#%22%20Allez,%20prinds%20t'n%20outil%20et%20comminche%20el%20jeu%20%22%20(RD)%20(il%20s'agit%20d'une%20coupe%20de%20cheveux).%20>
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Ch'est%20jusse%20comme%20un%20pot%20d'%20chinq%20pintes%20%22%20(GH)%20=%20c'est%20faux,%20puisque%20le%20pot%20%C3%A9tait%20une%20mesure%20de%20quatre%20pintes.%0A%20%20%20%20%20%20>
         a                   ontolex:Form ;
-        ontolex:writtenRep  "\" Allez, prinds t'n outil et comminche el jeu \" (RD) (il s'agit d'une coupe de cheveux). " .
-
-<http://restaure.limsi.fr/2017/rdf#JEUER%20(BD),%20v.%20:%20jouer.%20I%20m%20'a%20ju%C3%A9%20l'%20tour%20=%20il%20m'a%20bern%C3%A9.%20Ch'est%20ju%C3%A9%20d%C3%A9%20m'n%20argint%20(GH)%20=%20je%20suis%20d'accord.%20%22%20Alle%20juerot%20s'%20cul%20dins%20l'iau%20%22%20(GH)%20=%20rien%20ne%20peut%20l'arr%C3%AAter%20dans%20ses%20jeux.%20Juer%20%C3%A0%20coulons%20:%20participer%20%C3%A0%20des%20concours%20de%20pigeons-voyageurs.>
-        ontolex:writtenRep  "JEUER (BD), v. : jouer. I m 'a jué l' tour = il m'a berné. Ch'est jué dé m'n argint (GH) = je suis d'accord. \" Alle juerot s' cul dins l'iau \" (GH) = rien ne peut l'arrêter dans ses jeux. Juer à coulons : participer à des concours de pigeons-voyageurs." .
+        ontolex:writtenRep  "\n        \" Ch'est jusse comme un pot d' chinq pintes \" (GH) = c'est faux, puisque le pot était une mesure de quatre pintes.\n      " .
 
 restaure:lf_Jueux  a        ontolex:Form ;
         ontolex:writtenRep  "jueux" .
 
-restaure:le10PicardVersFrançais_28
-        a                              ontolex:LexicalEntry ;
-        lexinfo:gender                 lexinfo:Masculine ;
-        lexinfo:partOfSpeech           lexinfo:Noun ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#mesure%20agraire%20valant%20de%2028%20%C3%A0%2030%20ares.> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#mesure%20agraire%20valant%20de%2028%20%C3%A0%2030%20ares.> ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            restaure:lf_JOURNEL .
-
 restaure:yValenciennes
         ontolex:writtenRep  "Valenciennes"@fra .
-
-<http://restaure.limsi.fr/2017/rdf#:%20Jacques%20%C3%A0%20l'%20tarte%20:%20homme%20doux.%20Jacques%20saisi%20:%20homme%20timide,%20peu%20hardi.%20Un%20biau%20Jacques%20:%20un%20homme%20peu%20redoutable.>
-        ontolex:writtenRep  ": Jacques à l' tarte : homme doux. Jacques saisi : homme timide, peu hardi. Un biau Jacques : un homme peu redoutable." .
 
 <http://restaure.limsi.fr/2017/rdf#=%20quintaux%20de%20foin),%201649,%20Fl.,%20D%20>
         ontolex:writtenRep  "= quintaux de foin), 1649, Fl., D " .
 
-<http://restaure.limsi.fr/2017/rdf#ouvrier%20en%20ch%C3%B4mage.%20ANC.%20:%20joqier%20:%20se%20jucher%20(oiseaux),%20%C3%AAtre%20en%20repos,%20rester%20sans%20rien%20faire%20(Wace,%201155).%20%22%20Vous%20volies%20adies%20devancier%20/%20Ne%20mie%20en%20.I.%20seul%20lieu%20jokier%20%22%20(Regr.%20Guillaume).%20%22%20All%C3%A9%20to%20rademen,%20cour%C3%A9,%20ne%20joqui%C3%A9%20woaire%20!%20%22%20(Fl,%20S,%201648)%20=%20ne%20vous%20attardez%20gu%C3%A8re.>
-        ontolex:writtenRep  "ouvrier en chômage. ANC. : joqier : se jucher (oiseaux), être en repos, rester sans rien faire (Wace, 1155). \" Vous volies adies devancier / Ne mie en .I. seul lieu jokier \" (Regr. Guillaume). \" Allé to rademen, couré, ne joquié woaire ! \" (Fl, S, 1648) = ne vous attardez guère." .
+restaure:le10PicardVersFrançais_28
+        a                        ontolex:LexicalEntry ;
+        lexinfo:gender           lexinfo:Masculine ;
+        lexinfo:partOfSpeech     lexinfo:Noun ;
+        restaure:etymology       restaure: ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#mesure%20agraire%20valant%20de%2028%20%C3%A0%2030%20ares.> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#mesure%20agraire%20valant%20de%2028%20%C3%A0%2030%20ares.> ;
+        ontolex:lexicalForm      restaure:lf_JOURNEL .
 
-<http://restaure.limsi.fr/2017/rdf#joncher.%20%22%20Il%20vit%20sa%20femme%20en%20train%20de%20jonquer%20du%20sable%20blanc%20sur%20les%20carreaux%20rouges%20%22%20(FP).%20Sp%C3%A9cial%20:%20faire%20un%20tapis,%20jadis%20de%20feuillages,%20maintenant%20de%20rognures%20de%20massicot%20(papier%20blanc),%20la%20jonqure,%20devant%20la%20porte%20des%20nouveaux%20mari%C3%A9s.%20%22%20Madame%20Cantiau,%20les%20jours%20de%20mariache,%20/%20Pour%20elle%20jonquer%20in%20prenot%20plein%20s'%20cotron%20%22%20(AD).%20%22%20In%20li%20fait%20eun'%20bell'%20jonqure%20/%20Ed%20fleurs,%20ed%20sabe%20et%20d'%20biau%20papier%20%22%20(JM).%20Disperser%20:%20%22%20Carbon),%20Joncque%20t'%20feumi%C3%A8r'%20dins%20l'univers%20%22%20(JM).%20ANC.%20;%20jonc%20(lat.%20juncum),%20les%20jonqures%20se%20faisant%20autrefois%20avec%20des%20joncs%20coup%C3%A9s.%20%22%20Vo%20jonqueri%C3%A9%20vos%20huy%20de%20b%C3%A2me%20et%20romoerin%20%22%20(Fl,%20H,%201654).>
-        ontolex:writtenRep  "joncher. \" Il vit sa femme en train de jonquer du sable blanc sur les carreaux rouges \" (FP). Spécial : faire un tapis, jadis de feuillages, maintenant de rognures de massicot (papier blanc), la jonqure, devant la porte des nouveaux mariés. \" Madame Cantiau, les jours de mariache, / Pour elle jonquer in prenot plein s' cotron \" (AD). \" In li fait eun' bell' jonqure / Ed fleurs, ed sabe et d' biau papier \" (JM). Disperser : \" Carbon), Joncque t' feumièr' dins l'univers \" (JM). ANC. ; jonc (lat. juncum), les jonqures se faisant autrefois avec des joncs coupés. \" Vo jonquerié vos huy de bâme et romoerin \" (Fl, H, 1654)." .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20Ch'est%20eine%20jument%20d'%20brasseux%20=%20c'est%20une%20femme%20bien%20en%20chair%20et%20vigoureuse.%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        Ch'est eine jument d' brasseux = c'est une femme bien en chair et vigoureuse.\n      " .
 
-<http://restaure.limsi.fr/2017/rdf#musard.%20ANC.%20:%20jongler,%20gengler%20:%20jaser,%20bavarder,%20railler%20(Psautier%20de%20Cambridge,%20d%C3%A9b.%20XIIe)%20du%20francique%20jangalon%20:%20crier.%20Il%20y%20a%20eu%20une%20confusion%20ancienne%20avec%20jogler%20(lat.%20joculari)%20:%20jongler,%20chanter,%20faire%20des%20tours.>
-        ontolex:writtenRep  "musard. ANC. : jongler, gengler : jaser, bavarder, railler (Psautier de Cambridge, déb. XIIe) du francique jangalon : crier. Il y a eu une confusion ancienne avec jogler (lat. joculari) : jongler, chanter, faire des tours." .
-
-<http://restaure.limsi.fr/2017/rdf#%22%20In%20li%20fait%20eun'%20bell'%20jonqure%20/%20Ed%20fleurs,%20ed%20sabe%20et%20d'%20biau%20papier%20%22%20(JM).%20>
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Commint%20qu'%20t'as%20fait%20l'%20jeu%20pou%20passer%20l'%20ligne%20ed%20d%C3%A9marcation%20?%20%22%20(RD)%20=%20comment%20t'y%20es-tu%20pris%20?%20S'%20m%C3%AAler%20d'%20ses%20jus%20(GL)%20=%20s'occuper%20de%20ses%20affaires.%20In%20n'%20vot%20pus%20clair%20%C3%A0%20s'%20jeu%20=%20on%20n'arrive%20plus%20%C3%A0%20joindre%20les%20deux%20bouts.%0A%20%20%20%20%20%20>
         a                   ontolex:Form ;
-        ontolex:writtenRep  "\" In li fait eun' bell' jonqure / Ed fleurs, ed sabe et d' biau papier \" (JM). " .
+        ontolex:writtenRep  "\n        \" Commint qu' t'as fait l' jeu pou passer l' ligne ed démarcation ? \" (RD) = comment t'y es-tu pris ? S' mêler d' ses jus (GL) = s'occuper de ses affaires. In n' vot pus clair à s' jeu = on n'arrive plus à joindre les deux bouts.\n      " .
 
-<http://restaure.limsi.fr/2017/rdf#%22%20Tu%20compteras%20l'%20prix%20qu'%20cha%20co%C3%BBte,%20des%20jeux%20parels%20!%20%22%20=%20de%20semblables%20fantaisies.%20>
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20JEUER%20(BD),%20v.%20:%20jouer.%20I%20m%20'a%20ju%C3%A9%20l'%20tour%20=%20il%20m'a%20bern%C3%A9.%20Ch'est%20ju%C3%A9%20d%C3%A9%20m'n%20argint%20(GH)%20=%20je%20suis%20d'accord.%20%22%20Alle%20juerot%20s'%20cul%20dins%20l'iau%20%22%20(GH)%20=%20rien%20ne%20peut%20l'arr%C3%AAter%20dans%20ses%20jeux.%20Juer%20%C3%A0%20coulons%20:%20participer%20%C3%A0%20des%20concours%20de%20pigeons-voyageurs.%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        JEUER (BD), v. : jouer. I m 'a jué l' tour = il m'a berné. Ch'est jué dé m'n argint (GH) = je suis d'accord. \" Alle juerot s' cul dins l'iau \" (GH) = rien ne peut l'arrêter dans ses jeux. Juer à coulons : participer à des concours de pigeons-voyageurs.\n      " .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Mais%20l'%20jalous't%C3%A9%20des%20pauv's,%20vraimint,%20/%20M'a%20fait%20du%20mau%20%22%20(JM).%0A%20%20%20%20%20%20>
         a                   ontolex:Form ;
-        ontolex:writtenRep  "\" Tu compteras l' prix qu' cha coûte, des jeux parels ! \" = de semblables fantaisies. " .
+        ontolex:writtenRep  "\n        \" Mais l' jalous'té des pauv's, vraimint, / M'a fait du mau \" (JM).\n      " .
 
 restaure:lf_JOUR  a         ontolex:Form ;
         ontolex:writtenRep  "jour" .
@@ -942,65 +981,78 @@ restaure:lf_JOUR  a         ontolex:Form ;
         a                   ontolex:Form ;
         ontolex:writtenRep  "chômer" .
 
-<http://restaure.limsi.fr/2017/rdf#%C3%A0%20bas,%20par%20terre.%20Mett'%20jus%20:%20jeter%20%C3%A0%20terre,%20annuler,%20mettre%20%C3%A0%20n%C3%A9ant.%20>
-        ontolex:writtenRep  "à bas, par terre. Mett' jus : jeter à terre, annuler, mettre à néant. " .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%C3%A0%20bas,%20par%20terre.%20Mett'%20jus%20:%20jeter%20%C3%A0%20terre,%20annuler,%20mettre%20%C3%A0%20n%C3%A9ant.%20%22%20Y-a%20peu%20d'%20temps,%20l'%20derni%C3%A8r'%20berline%20/%20Ed%20carbon%20a%20tout%20mis%20jus%20%22%20(JM)%20=%20a%20%C3%A9puis%C3%A9%20la%20veine.%20Et'%20jus%20:%20%C3%AAtre%20%C3%A9puis%C3%A9.%20Ruer%20jus%20:%20jeter%20%C3%A0%20terre.%20%22%20Place%20des%20arcs-boutants%20qui%20furent%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        à bas, par terre. Mett' jus : jeter à terre, annuler, mettre à néant. \" Y-a peu d' temps, l' dernièr' berline / Ed carbon a tout mis jus \" (JM) = a épuisé la veine. Et' jus : être épuisé. Ruer jus : jeter à terre. \" Place des arcs-boutants qui furent\n      " .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20ANC.%20:%20jongler,%20gengler%20:%20jaser,%20bavarder,%20railler%20(Psautier%20de%20Cambridge,%20d%C3%A9b.%20XIIe)%20du%20francique%20jangalon%20:%20crier.%20Il%20y%20a%20eu%20une%20confusion%20ancienne%20avec%20jogler%20(lat.%20joculari)%20:%20jongler,%20chanter,%20faire%20des%20tours.%0A%20%20%20%20%20%20%0A%20%20%20%20>
+        ontolex:writtenRep  "\n      \n        ANC. : jongler, gengler : jaser, bavarder, railler (Psautier de Cambridge, déb. XIIe) du francique jangalon : crier. Il y a eu une confusion ancienne avec jogler (lat. joculari) : jongler, chanter, faire des tours.\n      \n    " .
 
 <http://restaure.limsi.fr/2017/rdf#joncher.%20>
         ontolex:writtenRep  "joncher. " .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20femme%20qui%20travaille%20%C3%A0%20la%20journ%C3%A9e.%20%22%20Vous%20trouv'rez%20cor%20des%20journ%C3%A9ress',%20des%20buress',%20des%20gard'%20malat'...%20%22%20(JQ).%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        femme qui travaille à la journée. \" Vous trouv'rez cor des journéress', des buress', des gard' malat'... \" (JQ).\n      " .
 
 restaure:lf_JACQUES  a      ontolex:Form ;
         ontolex:writtenRep  "jacques" .
 
 restaure:le10PicardVersFrançais_36
-        a                              ontolex:LexicalEntry ;
-        lexinfo:partOfSpeech           lexinfo:Verb ;
-        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20In%20n'%20sara%20mie%20jurvir%20/%20Si%20cha%20va%20cor%20comm'%20cha%20tout'%20qu'%C3%A0%20la%20fin%20d%C3%A9%20l'%20belle%20!%20%22%20(JD).> ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#suffire%20(%C3%A0%20quelque%20chose)%20;%20arriver%20(%C3%A0%20faire%20quelque%20chose).%20Ne%20s'emploie%20qu'%C3%A0%20la%20forme%20n%C3%A9g.%20J%C3%A9%20n'%20peux%20jurvir%20:%20je%20ne%20peux%20plus%20y%20arriver.%20%22%20In%20n'%20sara%20mie%20jurvir%20/%20Si%20cha%20va%20cor%20comm'%20cha%20tout'%20qu'%C3%A0%20la%20fin%20d%C3%A9%20l'%20belle%20!%20%22%20(JD).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#suffire%20(%C3%A0%20quelque%20chose)%20;%20arriver%20(%C3%A0%20faire%20quelque%20chose).%20Ne%20s'emploie%20qu'%C3%A0%20la%20forme%20n%C3%A9g.%20J%C3%A9%20n'%20peux%20jurvir%20:%20je%20ne%20peux%20plus%20y%20arriver.%20> ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            restaure:lf_JURVIR .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:partOfSpeech     lexinfo:Verb ;
+        restaure:etymology       restaure: ;
+        restaure:hasExample      <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20In%20n'%20sara%20mie%20jurvir%20/%20Si%20cha%20va%20cor%20comm'%20cha%20tout'%20qu'%C3%A0%20la%20fin%20d%C3%A9%20l'%20belle%20!%20%22%20(JD).%0A%20%20%20%20%20%20> ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20suffire%20(%C3%A0%20quelque%20chose)%20;%20arriver%20(%C3%A0%20faire%20quelque%20chose).%20Ne%20s'emploie%20qu'%C3%A0%20la%20forme%20n%C3%A9g.%20J%C3%A9%20n'%20peux%20jurvir%20:%20je%20ne%20peux%20plus%20y%20arriver.%20%22%20In%20n'%20sara%20mie%20jurvir%20/%20Si%20cha%20va%20cor%20comm'%20cha%20tout'%20qu'%C3%A0%20la%20fin%20d%C3%A9%20l'%20belle%20!%20%22%20(JD).%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20suffire%20(%C3%A0%20quelque%20chose)%20;%20arriver%20(%C3%A0%20faire%20quelque%20chose).%20Ne%20s'emploie%20qu'%C3%A0%20la%20forme%20n%C3%A9g.%20J%C3%A9%20n'%20peux%20jurvir%20:%20je%20ne%20peux%20plus%20y%20arriver.%0A%20%20%20%20%20%20> ;
+        ontolex:lexicalForm      restaure:lf_JURVIR .
 
 restaure:le10PicardVersFrançais_6
-        a                              ontolex:LexicalEntry ;
-        lexinfo:partOfSpeech           lexinfo:Verb ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#babiller,%20gazouiller.> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#babiller,%20gazouiller.> ;
-        restaure:TranslatableInFrenchOneWord
-                restaure:Traductiongazouiller , restaure:Traductionbabiller ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_JASPILLER%20(GF)> .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:partOfSpeech     lexinfo:Verb ;
+        restaure:etymology       restaure: ;
+        restaure:translatableAs  restaure:Traduction , restaure:Traductiongazouiller , restaure:Traductionbabiller ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#babiller,%20gazouiller.> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#babiller,%20gazouiller.> ;
+        ontolex:lexicalForm      <http://restaure.limsi.fr/2017/rdf#lf_JASPILLER%20(GF)> .
 
 restaure:le10PicardVersFrançais_15
-        a                              ontolex:LexicalEntry ;
-        lexinfo:gender                 lexinfo:Masculine ;
-        lexinfo:partOfSpeech           lexinfo:Noun ;
-        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20D'%20jeujeute%20in%20paquet%20d'%20ballon,%20cha%20fait%20eune%20sacr%C3%A9%20s%C3%A9quoi%20%C3%A0%20saquer%20du%20port%C3%A9-feulle%20%22%20(PP).%20(> , <http://restaure.limsi.fr/2017/rdf#%22%20I-est%20jeujeute%20ou%20ch'est%20un%20jeujeute%20=%20un%20rien%20l'amuse.%20%22%20> ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#joujou.%20%22%20D'%20jeujeute%20in%20paquet%20d'%20ballon,%20cha%20fait%20eune%20sacr%C3%A9%20s%C3%A9quoi%20%C3%A0%20saquer%20du%20port%C3%A9-feulle%20%22%20(PP).%20(Cependant,%20on%20ne%20dit%20pas%20:%20un%20jeujeute%20pour%20un%20joujou).%20Faire%20jeujeute%20:%20s'amuser%20%C3%A0%20des%20riens.%20%22%20I-est%20jeujeute%20ou%20ch'est%20un%20jeujeute%20=%20un%20rien%20l'amuse.%20%22%20Ch'est%20assez%20d'%20jeujeute,%20/%20Dors,%20min%20gros%20ch%C3%A9ri%20%22%20(JM)%20=%20tu%20as%20assez%20jou%C3%A9.> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#joujou.%20> , <http://restaure.limsi.fr/2017/rdf#Ch'est%20assez%20d'%20jeujeute,%20/%20Dors,%20min%20gros%20ch%C3%A9ri%20> , <http://restaure.limsi.fr/2017/rdf#Cependant,%20on%20ne%20dit%20pas%20:%20un%20jeujeute%20pour%20un%20joujou).%20Faire%20jeujeute%20:%20s'amuser%20%C3%A0%20des%20riens.%20> ;
-        restaure:TranslatableInFrenchOneWord
-                restaure:Traductionjoujou ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            restaure:lf_Jeujeute .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:gender           lexinfo:Masculine ;
+        lexinfo:partOfSpeech     lexinfo:Noun ;
+        restaure:etymology       restaure: ;
+        restaure:hasExample      <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20D'%20jeujeute%20in%20paquet%20d'%20ballon,%20cha%20fait%20eune%20sacr%C3%A9%20s%C3%A9quoi%20%C3%A0%20saquer%20du%20port%C3%A9-feulle%20%22%20(PP).%20(%0A%20%20%20%20%20%20> , <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20I-est%20jeujeute%20ou%20ch'est%20un%20jeujeute%20=%20un%20rien%20l'amuse.%20%22%0A%20%20%20%20%20%20> ;
+        restaure:translatableAs  restaure:Traductionjoujou , restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20joujou.%20%22%20D'%20jeujeute%20in%20paquet%20d'%20ballon,%20cha%20fait%20eune%20sacr%C3%A9%20s%C3%A9quoi%20%C3%A0%20saquer%20du%20port%C3%A9-feulle%20%22%20(PP).%20(Cependant,%20on%20ne%20dit%20pas%20:%20un%20jeujeute%20pour%20un%20joujou).%20Faire%20jeujeute%20:%20s'amuser%20%C3%A0%20des%20riens.%20%22%20I-est%20jeujeute%20ou%20ch'est%20un%20jeujeute%20=%20un%20rien%20l'amuse.%20%22%20Ch'est%20assez%20d'%20jeujeute,%20/%20Dors,%20min%20gros%20ch%C3%A9ri%20%22%20(JM)%20=%20tu%20as%20assez%20jou%C3%A9.%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#joujou.%20> , <http://restaure.limsi.fr/2017/rdf#Ch'est%20assez%20d'%20jeujeute,%20/%20Dors,%20min%20gros%20ch%C3%A9ri%20> , <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20Cependant,%20on%20ne%20dit%20pas%20:%20un%20jeujeute%20pour%20un%20joujou).%20Faire%20jeujeute%20:%20s'amuser%20%C3%A0%20des%20riens.%0A%20%20%20%20%20%20> ;
+        ontolex:lexicalForm      restaure:lf_Jeujeute .
 
 restaure:lf_JONQUER  a      ontolex:Form ;
         ontolex:writtenRep  "jonquer" .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20man%C3%A8ge%20de%20chevaux%20de%20bois.%20%22%20T%C3%A9%20n'%20f'ras%20chi%20rien,%20vieux%20jeu%20d'%20bidets,%20/%20T'as%20biau%20tourner,%20ch'est%20inutile%20%22%20(JM).%20ANC.%20:%20%22%20wette%20%C3%A0%20ten%20jeu%20com%20i%20t'compette%20%22%20(Fl,%20F,%20XVIIe)%20=%20organise-toi%20comme%20tu%20l'entends.%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        manège de chevaux de bois. \" Té n' f'ras chi rien, vieux jeu d' bidets, / T'as biau tourner, ch'est inutile \" (JM). ANC. : \" wette à ten jeu com i t'compette \" (Fl, F, XVIIe) = organise-toi comme tu l'entends.\n      " .
 
 restaure:Traductionjoncher
         a                   ontolex:Form ;
         ontolex:writtenRep  "joncher" .
 
-<http://restaure.limsi.fr/2017/rdf#ustensiles%20de%20m%C3%A9nage%20en%20bois%20(souvent%20tourn%C3%A9)%20encore%20fabriqu%C3%A9s%20dans%20certaines%20communes%20de%20l'Avesnois.>
-        ontolex:writtenRep  "ustensiles de ménage en bois (souvent tourné) encore fabriqués dans certaines communes de l'Avesnois." .
-
 <http://restaure.limsi.fr/2017/rdf#mesure%20agraire%20valant%20de%2028%20%C3%A0%2030%20ares.>
         ontolex:writtenRep  "mesure agraire valant de 28 à 30 ares." .
 
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20je,%20dans%20certaines%20constr.%20interr...%20%22%20N'%20sus%20jou%20point%20prope%20?%20%22%20(GF).%20%22%20Ai-jou%20eu%20l'%20temps%20d'%20busier%20%C3%A0%20m'%20r%C3%A9volter%20?%20%22%20(JM).%20Correspond%20%C3%A0%20:%20est-ce%20que%20?%20%20%22%20Jou%20qu'%20t%C3%A9%20cros%20qu'%20nous%20n'%20d'allons%20nin%20juer%20?%20%22%20(GF).%20%22%20Ch't'eun'%20gov%C3%A8r',%20eun'%20tart'%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        je, dans certaines constr. interr... \" N' sus jou point prope ? \" (GF). \" Ai-jou eu l' temps d' busier à m' révolter ? \" (JM). Correspond à : est-ce que ?  \" Jou qu' té cros qu' nous n' d'allons nin juer ? \" (GF). \" Ch't'eun' govèr', eun' tart'\n      " .
+
 restaure:le10PicardVersFrançais_23
-        a                              ontolex:LexicalEntry ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#S.%20f.%20:%20journ%C3%A9e.%20/%20L'%20grain%20qu'on%20carquot%20d'%20jorn%C3%A9es%20inti%C3%A8res%20%22%20(GF).%20ANC.%20:%20Jornee%20(Beno%C3%AEt%20de%20Ste%20Maure,%201160),%20jorn%20(XIe).%20%22%20Chan%20qui%20fu%20di%20et%20foai%20le%20deuzimme%20jorn%C3%A9e%20%22%20(Fl,%20H,%201654).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#S.%20f.%20:%20journ%C3%A9e.%20/%20L'%20grain%20qu'on%20carquot%20d'%20jorn%C3%A9es%20inti%C3%A8res%20> ;
-        restaure:oldInformation        <http://restaure.limsi.fr/2017/rdf#ANC.%20:%20Jornee%20(Beno%C3%AEt%20de%20Ste%20Maure,%201160),%20jorn%20(XIe).%20%22%20Chan%20qui%20fu%20di%20et%20foai%20le%20deuzimme%20jorn%C3%A9e%20%22%20(Fl,%20H,%201654).> ;
-        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_JORN%C3%89E> .
+        a                        ontolex:LexicalEntry ;
+        restaure:etymology       <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20ANC.%20:%20Jornee%20(Beno%C3%AEt%20de%20Ste%20Maure,%201160),%20jorn%20(XIe).%20%22%20Chan%20qui%20fu%20di%20et%20foai%20le%20deuzimme%20jorn%C3%A9e%20%22%20(Fl,%20H,%201654).%0A%20%20%20%20%20%20%0A%20%20%20%20> ;
+        restaure:translatableAs  restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20S.%20f.%20:%20journ%C3%A9e.%20/%20L'%20grain%20qu'on%20carquot%20d'%20jorn%C3%A9es%20inti%C3%A8res%20%22%20(GF).%20ANC.%20:%20Jornee%20(Beno%C3%AEt%20de%20Ste%20Maure,%201160),%20jorn%20(XIe).%20%22%20Chan%20qui%20fu%20di%20et%20foai%20le%20deuzimme%20jorn%C3%A9e%20%22%20(Fl,%20H,%201654).%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#S.%20f.%20:%20journ%C3%A9e.%20/%20L'%20grain%20qu'on%20carquot%20d'%20jorn%C3%A9es%20inti%C3%A8res%20> ;
+        ontolex:lexicalForm      <http://restaure.limsi.fr/2017/rdf#lf_JORN%C3%89E> .
 
 restaure:Traductiontasse
         a                   ontolex:Form ;

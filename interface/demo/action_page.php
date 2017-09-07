@@ -23,20 +23,6 @@
     <link href="./starter-template.css" rel="stylesheet">
 <script src="bootstrap/docs/assets/js/ie-emulation-modes-warning.js"></script>
 
-<script type="text/javascript">
-      var nombreOnglets = 2;
-      function changeOnglet(numero)
-      {
-        // On commence par tout masquer
-        for (var i = 0; i < nombreOnglets; i++) {
-          document.getElementById("contenuOnglet" + i).style.display = "none";
-	}
-
-        // Puis on affiche celui qui a été sélectionné
-        document.getElementById("contenuOnglet" + numero).style.display = "block";
-      }
-
- </script>
 <style>
 .nav-pills > li.active > a, .nav-pills > li.active > a:focus {
     color: #f8f8f8;
@@ -164,11 +150,10 @@ return y.nodeValue;
 	yAmiens = yAmiens == null ? <?php echo json_encode($dataCoordy["Amiens"]); ?> : yAmiens;
 	xValenciennes = xValenciennes == null ? <?php echo json_encode($dataCoordx["Valenciennes"]); ?> : xValenciennes;
 	yValenciennes = yValenciennes == null ? <?php echo json_encode($dataCoordy["Valenciennes"]); ?> : yValenciennes;
-	xAmiens = xAmiens == null ? xValenciennes : xAmiens;
-	yAmiens = yAmiens == null ? yValenciennes: yAmiens;
 	// création de la carte, centrée autour d'Amiens pour le moment²
-
-	var amiens=[xAmiens, yAmiens];
+	var xcenter = xAmiens == null ? xValenciennes : xAmiens;
+var ycenter = yAmiens == null ? yValenciennes : yAmiens;
+	var amiens=[xcenter, ycenter];
 	var map = L.map('map').setView(amiens, 7);
 	// création du fond de la carte
 	L.tileLayer( //'https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
@@ -192,20 +177,6 @@ var unmot = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    yAmiens,
-                    xAmiens
-                ]
-            },
-            "type": "Feature",
-            "properties": {
-                "popupContent": <?php echo '"'.addslashes($traductions["Amiens"]).'"' ?>
-            },
-            "id": 28
-        },
-        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     yValenciennes,
                     xValenciennes
                 ]
@@ -216,6 +187,21 @@ var unmot = {
             },
             "id": 23
         },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    yAmiens,
+                    xAmiens
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "popupContent": <?php echo '"'.addslashes($traductions["Amiens"]).'"' ?>
+            },
+            "id": 28
+        },
+
     ]
 };
 
@@ -240,8 +226,6 @@ var unmot = {
 			});
 		}
 	}).addTo(map);
-//changeOnglet(0);
-//changeOnglet(1);
 
 </script>
 

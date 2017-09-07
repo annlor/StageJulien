@@ -1,32 +1,14 @@
 @prefix restaure: <http://restaure.limsi.fr/2017/rdf#> .
-@prefix vartrans: <https://www.w3.org/ns/lemon/vartrans#> .
 @prefix lime:  <http://www.w3.org/ns/lemon/lime#> .
 @prefix ontolex: <http://www.w3.org/ns/lemon/ontolex#> .
 @prefix lexinfo: <http://lexinfo.net/ontology/2.0/lexinfo#> .
 
-<http://restaure.limsi.fr/2017/rdf#la%20Geste%20d'Aliscans,%20XIIIe).%20>
-        ontolex:writtenRep  "la Geste d'Aliscans, XIIIe). " .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20la%20Geste%20d'Aliscans,%20XIIIe).%20%22%20Me%20vela%20tout%20crot%C3%A9,%20mouill%C3%A9,%20flauh%C3%A9,%20wandi%20%22%20(Fl,%20H,%201654)%20=%20fourbu.%20On%20trouve,%20en%20all.%20flau,%20et%20en%20n%C3%A9erl.%20flauw%20(faible).%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        la Geste d'Aliscans, XIIIe). \" Me vela tout croté, mouillé, flauhé, wandi \" (Fl, H, 1654) = fourbu. On trouve, en all. flau, et en néerl. flauw (faible).\n      " .
 
-restaure:yValenciennes
-        ontolex:writtenRep  "Valenciennes"@fra .
-
-lexinfo:Adjective  ontolex:writtenRep  "Adjectif"@fra .
-
-lexinfo:Preposition  ontolex:writtenRep
-                "Préposition"@fra .
-
-lexinfo:Verb  ontolex:writtenRep  "Verbe"@fra .
-
-restaure:xValenciennes
-        ontolex:writtenRep  "Valenciennes"@fra .
-
-restaure:  ontolex:writtenRep  "" .
-
-<http://restaure.limsi.fr/2017/rdf#%22%20Me%20vela%20tout%20crot%C3%A9,%20mouill%C3%A9,%20flauh%C3%A9,%20wandi%20%22%20(>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "\" Me vela tout croté, mouillé, flauhé, wandi \" (" .
-
-lexinfo:Female  ontolex:writtenRep  "Féminin"@fra .
+restaure:coordinate  restaure:xValenciennes
+                "50.35"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        restaure:yValenciennes  "3.53333"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 restaure:LexiqueDaubyRouchiPicard
         restaure:Coordinate             restaure:coordinate ;
@@ -35,29 +17,56 @@ restaure:LexiqueDaubyRouchiPicard
         restaure:lexiconDirectionWrittenRep
                 "picard vers français"@fra ;
         restaure:lexiconNameWrittenRep  "Le Livre du \"Rouchi\" Parler Picard de Valenciennes"@fra ;
-        lime:entry                      restaure:le11PicardVersFrançais_0 .
+        lime:entry                      restaure:le11PicardVersFrançais_0 ;
+        lime:language                   "pcd"@fra .
 
-<http://restaure.limsi.fr/2017/rdf#Fl,%20H,%201654)%20=%20fourbu.%20On%20trouve,%20en%20all.%20flau,%20et%20en%20n%C3%A9erl.%20flauw%20(faible).>
-        ontolex:writtenRep  "Fl, H, 1654) = fourbu. On trouve, en all. flau, et en néerl. flauw (faible)." .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20Fl,%20H,%201654)%20=%20fourbu.%20On%20trouve,%20en%20all.%20flau,%20et%20en%20n%C3%A9erl.%20flauw%20(faible).%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        Fl, H, 1654) = fourbu. On trouve, en all. flau, et en néerl. flauw (faible).\n      " .
 
-lexinfo:Masculine  ontolex:writtenRep  "Masculin"@fra .
+<http://restaure.limsi.fr/2017/rdf#%22%20Me%20vela%20tout%20crot%C3%A9,%20mouill%C3%A9,%20flauh%C3%A9,%20wandi%20%22%20(>
+        a                   ontolex:Form ;
+        ontolex:writtenRep  "\" Me vela tout croté, mouillé, flauhé, wandi \" (" .
 
-restaure:coordinate  restaure:xValenciennes
-                "50.35"^^<http://www.w3.org/2001/XMLSchema#double> ;
-        restaure:yValenciennes  "3.53333"^^<http://www.w3.org/2001/XMLSchema#double> .
+restaure:Traduction  a      ontolex:Form ;
+        ontolex:writtenRep  "" .
 
-<http://restaure.limsi.fr/2017/rdf#la%20Geste%20d'Aliscans,%20XIIIe).%20%22%20Me%20vela%20tout%20crot%C3%A9,%20mouill%C3%A9,%20flauh%C3%A9,%20wandi%20%22%20(Fl,%20H,%201654)%20=%20fourbu.%20On%20trouve,%20en%20all.%20flau,%20et%20en%20n%C3%A9erl.%20flauw%20(faible).>
-        ontolex:writtenRep  "la Geste d'Aliscans, XIIIe). \" Me vela tout croté, mouillé, flauhé, wandi \" (Fl, H, 1654) = fourbu. On trouve, en all. flau, et en néerl. flauw (faible)." .
+lexinfo:Female  ontolex:writtenRep  "Féminin"@fra .
 
 restaure:lf_Kent  a         ontolex:Form ;
         ontolex:writtenRep  "kent" .
 
-restaure:le11PicardVersFrançais_0
-        a                              ontolex:LexicalEntry ;
-        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Me%20vela%20tout%20crot%C3%A9,%20mouill%C3%A9,%20flauh%C3%A9,%20wandi%20%22%20(> ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#la%20Geste%20d'Aliscans,%20XIIIe).%20%22%20Me%20vela%20tout%20crot%C3%A9,%20mouill%C3%A9,%20flauh%C3%A9,%20wandi%20%22%20(Fl,%20H,%201654)%20=%20fourbu.%20On%20trouve,%20en%20all.%20flau,%20et%20en%20n%C3%A9erl.%20flauw%20(faible).> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#Fl,%20H,%201654)%20=%20fourbu.%20On%20trouve,%20en%20all.%20flau,%20et%20en%20n%C3%A9erl.%20flauw%20(faible).> , <http://restaure.limsi.fr/2017/rdf#la%20Geste%20d'Aliscans,%20XIIIe).%20> ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            restaure:lf_Kent .
+restaure:Traductionfourbu
+        a                   ontolex:Form ;
+        ontolex:writtenRep  "fourbu" .
+
+restaure:  ontolex:writtenRep  "" .
+
+lexinfo:Adjective  ontolex:writtenRep  "Adjectif"@fra .
+
+lexinfo:Masculine  ontolex:writtenRep  "Masculin"@fra .
+
+lexinfo:Verb  ontolex:writtenRep  "Verbe"@fra .
+
+<http://restaure.limsi.fr/2017/rdf#la%20Geste%20d'Aliscans,%20XIIIe).%20>
+        ontolex:writtenRep  "la Geste d'Aliscans, XIIIe). " .
+
+restaure:yValenciennes
+        ontolex:writtenRep  "Valenciennes"@fra .
 
 lexinfo:Noun  ontolex:writtenRep  "Nom"@fra .
+
+restaure:le11PicardVersFrançais_0
+        a                        ontolex:LexicalEntry ;
+        restaure:etymology       restaure: ;
+        restaure:hasExample      <http://restaure.limsi.fr/2017/rdf#%22%20Me%20vela%20tout%20crot%C3%A9,%20mouill%C3%A9,%20flauh%C3%A9,%20wandi%20%22%20(> ;
+        restaure:translatableAs  restaure:Traductionfourbu , restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20la%20Geste%20d'Aliscans,%20XIIIe).%20%22%20Me%20vela%20tout%20crot%C3%A9,%20mouill%C3%A9,%20flauh%C3%A9,%20wandi%20%22%20(Fl,%20H,%201654)%20=%20fourbu.%20On%20trouve,%20en%20all.%20flau,%20et%20en%20n%C3%A9erl.%20flauw%20(faible).%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20Fl,%20H,%201654)%20=%20fourbu.%20On%20trouve,%20en%20all.%20flau,%20et%20en%20n%C3%A9erl.%20flauw%20(faible).%0A%20%20%20%20%20%20> , <http://restaure.limsi.fr/2017/rdf#la%20Geste%20d'Aliscans,%20XIIIe).%20> ;
+        ontolex:lexicalForm      restaure:lf_Kent .
+
+lexinfo:Preposition  ontolex:writtenRep
+                "Préposition"@fra .
+
+restaure:xValenciennes
+        ontolex:writtenRep  "Valenciennes"@fra .

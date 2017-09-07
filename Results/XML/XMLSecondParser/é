@@ -1,514 +1,429 @@
 <?xml version='1.0' encoding='utf-8'?>
-<Nomenclature>
-        <ArticleDeDictionnaire>
-        <Entrée>éblouir</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>berluser, éberlouir.</LexieEntiere>
-        <Lexie><SousLexie>berluser</SousLexie><SousLexie> éberlouir.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>éblouissements</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m. pl.</StructureGrammaticale>
-        <LexieEntiere>ébluittes, tourbisions.</LexieEntiere>
-        <Lexie><SousLexie>ébluittes</SousLexie><SousLexie> tourbisions.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>éboueur</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>baroutier.</LexieEntiere>
-        <Lexie><SousLexie>baroutier.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>éboulement</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>fondrie.</LexieEntiere>
-        <Lexie><SousLexie>fondrie.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>ébrouer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>éwaquer.</LexieEntiere>
-        <Lexie><SousLexie>éwaquer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>écaler</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>décafoter, écaflier.</LexieEntiere>
-        <Lexie><SousLexie>décafoter</SousLexie><SousLexie> écaflier.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>écervelé</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>amusette, tourniole.</LexieEntiere>
-        <Lexie><SousLexie>amusette</SousLexie><SousLexie> tourniole.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>échapper</Entrée>
-        <Complément>(s')</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>dévoler.</LexieEntiere>
-        <Lexie><SousLexie>dévoler.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>écharde</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>piquion.</LexieEntiere>
-        <Lexie><SousLexie>piquion.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>échauffement</Entrée>
-        <Complément>(des cuisses)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>frognon, froïon.</LexieEntiere>
-        <Lexie><SousLexie>frognon</SousLexie><SousLexie> froïon.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>échelon</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>bougeon.</LexieEntiere>
-        <Lexie><SousLexie>bougeon.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>écheveau</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>èche.</LexieEntiere>
-        <Lexie><SousLexie>èche.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>échine</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>inquenne.</LexieEntiere>
-        <Lexie><SousLexie>inquenne.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>éclabousser</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>espiter, spiter.</LexieEntiere>
-        <Lexie><SousLexie>espiter</SousLexie><SousLexie> spiter.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>éclair</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>éclitte.</LexieEntiere>
-        <Lexie><SousLexie>éclitte.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>éclaircie</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>écappée.</LexieEntiere>
-        <Lexie><SousLexie>écappée.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>éclaire</Entrée>
-        <Complément>(grande)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>hierbe d'arondielle.</LexieEntiere>
-        <Lexie><SousLexie>hierbe d'arondielle.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>éclairer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>leumer.</LexieEntiere>
-        <Lexie><SousLexie>leumer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>éclater</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>camper.</LexieEntiere>
-        <Lexie><SousLexie>camper.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>éclisse</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>équinon.</LexieEntiere>
-        <Lexie><SousLexie>équinon.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>économe</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>rawettiant.</LexieEntiere>
-        <Lexie><SousLexie>rawettiant.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>économiser</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>rapiater.</LexieEntiere>
-        <Lexie><SousLexie>rapiater.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>écoper</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>esclaper.</LexieEntiere>
-        <Lexie><SousLexie>esclaper.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>écoute</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>acout.</LexieEntiere>
-        <Lexie><SousLexie>acout.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>écouter</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>acouter.</LexieEntiere>
-        <Lexie><SousLexie>acouter.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>écraser</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere>v : acravinter, écravinter, épautrer, rastapler, rasteupler.</LexieEntiere>
-        <Lexie><SousLexie>v : acravinter</SousLexie><SousLexie> écravinter</SousLexie><SousLexie> épautrer</SousLexie><SousLexie> rastapler</SousLexie><SousLexie> rasteupler.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>écrouelles</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f. pl.</StructureGrammaticale>
-        <LexieEntiere>margoulettes.</LexieEntiere>
-        <Lexie><SousLexie>margoulettes.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>écuelle</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>tellette.</LexieEntiere>
-        <Lexie><SousLexie>tellette.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>écumoire</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>écoeumette, écumette.</LexieEntiere>
-        <Lexie><SousLexie>écoeumette</SousLexie><SousLexie> écumette.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>écureuil</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>boc, boquet.</LexieEntiere>
-        <Lexie><SousLexie>boc</SousLexie><SousLexie> boquet.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>égayer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>régayir.</LexieEntiere>
-        <Lexie><SousLexie>régayir.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>égosiller</Entrée>
-        <Complément>(s')</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>s'agosiller, s'égasioter.</LexieEntiere>
-        <Lexie><SousLexie>s'agosiller</SousLexie><SousLexie> s'égasioter.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>égrener</Entrée>
-        <Complément>(le lin)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>éboucheler.</LexieEntiere>
-        <Lexie><SousLexie>éboucheler.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>égreneuse</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>éripeuse.</LexieEntiere>
-        <Lexie><SousLexie>éripeuse.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>élaguer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>débranquer.</LexieEntiere>
-        <Lexie><SousLexie>débranquer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>élancement</Entrée>
-        <Complément>(douleur)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>lanchure.</LexieEntiere>
-        <Lexie><SousLexie>lanchure.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>élancer</Entrée>
-        <Complément>(douleur)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>lancer.</LexieEntiere>
-        <Lexie><SousLexie>lancer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>élection</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>votage.</LexieEntiere>
-        <Lexie><SousLexie>votage.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>élégant</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>atourné.</LexieEntiere>
-        <Lexie><SousLexie>atourné.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>éleveur</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>norretier.</LexieEntiere>
-        <Lexie><SousLexie>norretier.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>émietter</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>décarpiller, démiocher, démioler, épiller, miletter.</LexieEntiere>
-        <Lexie><SousLexie>décarpiller</SousLexie><SousLexie> démiocher</SousLexie><SousLexie> démioler</SousLexie><SousLexie> épiller</SousLexie><SousLexie> miletter.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>émoi</Entrée>
-        <Complément>(en)</Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere>in ameur, à l' foufielle.</LexieEntiere>
-        <Lexie><SousLexie>in ameur</SousLexie><SousLexie> à l' foufielle.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>émotion</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>saisissure.</LexieEntiere>
-        <Lexie><SousLexie>saisissure.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>émouchet</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>mouquet.</LexieEntiere>
-        <Lexie><SousLexie>mouquet.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>émouvoir</Entrée>
-        <Complément>(s')</Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere>v : avoir el coeur poché, avoir el coeur à l' loque.</LexieEntiere>
-        <Lexie><SousLexie>v : avoir el coeur poché</SousLexie><SousLexie> avoir el coeur à l' loque.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>épaisseur</Entrée>
-        <Complément>(d'un mur)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>interfin.</LexieEntiere>
-        <Lexie><SousLexie>interfin.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>épandre</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>répar.</LexieEntiere>
-        <Lexie><SousLexie>répar.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>épanouir</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>épénir.</LexieEntiere>
-        <Lexie><SousLexie>épénir.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>épices</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f. pl.</StructureGrammaticale>
-        <LexieEntiere>(voir : pain).</LexieEntiere>
-        <Lexie><SousLexie>(voir : pain).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>épier</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>(voir : guigner).</LexieEntiere>
-        <Lexie><SousLexie>(voir : guigner).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>épilepsie</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>mal caduque.</LexieEntiere>
-        <Lexie><SousLexie>mal caduque.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>épi</Entrée>
-        <Complément>(cassé)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>écrapin.</LexieEntiere>
-        <Lexie><SousLexie>écrapin.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>épilobe</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>hierbe ed Saint-Antoine.</LexieEntiere>
-        <Lexie><SousLexie>hierbe ed Saint-Antoine.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>épinards</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m. pl.</StructureGrammaticale>
-        <LexieEntiere>épinaches, spinaches.</LexieEntiere>
-        <Lexie><SousLexie>épinaches</SousLexie><SousLexie> spinaches.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>épine</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>épène, picot, épine-vinette : noble-épène.</LexieEntiere>
-        <Lexie><SousLexie>épène</SousLexie><SousLexie> picot</SousLexie><SousLexie> épine-vinette : noble-épène.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>épingle</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>éplinque.</LexieEntiere>
-        <Lexie><SousLexie>éplinque.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>épinoche</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>épénoque.</LexieEntiere>
-        <Lexie><SousLexie>épénoque.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>épisser</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>archuquer.</LexieEntiere>
-        <Lexie><SousLexie>archuquer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>éplucher</Entrée>
-        <Complément>(des légumes)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>alire, pleumer.</LexieEntiere>
-        <Lexie><SousLexie>alire</SousLexie><SousLexie> pleumer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>éponte</Entrée>
-        <Complément>(inférieure)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>meur.</LexieEntiere>
-        <Lexie><SousLexie>meur.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>épouseur</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>marieux.</LexieEntiere>
-        <Lexie><SousLexie>marieux.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>épousseter</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>dépourrer, répourrer.</LexieEntiere>
-        <Lexie><SousLexie>dépourrer</SousLexie><SousLexie> répourrer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>érafler</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>rifler.</LexieEntiere>
-        <Lexie><SousLexie>rifler.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>éraflure</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>riflure.</LexieEntiere>
-        <Lexie><SousLexie>riflure.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>éreinter</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>éraner.</LexieEntiere>
-        <Lexie><SousLexie>éraner.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>érysipèle</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>résipère.</LexieEntiere>
-        <Lexie><SousLexie>résipère.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>étable</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>étaule, éteule. Ramener à l'étable : rétauler.</LexieEntiere>
-        <Lexie><SousLexie>étaule</SousLexie><SousLexie> éteule. Ramener à l'étable : rétauler.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>étalon</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>couillu.</LexieEntiere>
-        <Lexie><SousLexie>couillu.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>étai</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>asto, atoque.</LexieEntiere>
-        <Lexie><SousLexie>asto</SousLexie><SousLexie> atoque.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>étançon</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>boutiau, estancenure.</LexieEntiere>
-        <Lexie><SousLexie>boutiau</SousLexie><SousLexie> estancenure.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>étançonner</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere> ; aqueuter, estancener.</LexieEntiere>
-        <Lexie><SousLexie> </SousLexie><SousLexie> aqueuter</SousLexie><SousLexie> estancener.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>étang</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>plac.</LexieEntiere>
-        <Lexie><SousLexie>plac.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>étayer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>astoquer, atoquer.</LexieEntiere>
-        <Lexie><SousLexie>astoquer</SousLexie><SousLexie> atoquer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>étendre</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>rétindre.</LexieEntiere>
-        <Lexie><SousLexie>rétindre.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>éternuer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>esternir.</LexieEntiere>
-        <Lexie><SousLexie>esternir.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>étincelle</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>pette ed feu.</LexieEntiere>
-        <Lexie><SousLexie>pette ed feu.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>étoffe</Entrée>
-        <Complément>(mince)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>pélade.</LexieEntiere>
-        <Lexie><SousLexie>pélade.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>étouffer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>atoffer ; étouffé (par la nourriture) : estoqué, impaffé ; (par la boisson) : intonné.</LexieEntiere>
-        <Lexie><SousLexie>atoffer </SousLexie><SousLexie> étouffé (par la nourriture) : estoqué</SousLexie><SousLexie> impaffé </SousLexie><SousLexie> (par la boisson) : intonné.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>étourdi</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>éfoufié, infoufié, tape-à-travers.</LexieEntiere>
-        <Lexie><SousLexie>éfoufié</SousLexie><SousLexie> infoufié</SousLexie><SousLexie> tape-à-travers.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>étrangler</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
+<TEI>
+        <entry>
+        <form><orth>éblouir</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>berluser, éberlouir.</quote></def>
+        <cit type="translation"><quote>berluser</quote><quote> éberlouir.</quote></cit>
+      </entry><entry>
+        <form><orth>éblouissements</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m. pl.</pos></gramGrp>
+        <def><quote>ébluittes, tourbisions.</quote></def>
+        <cit type="translation"><quote>ébluittes</quote><quote> tourbisions.</quote></cit>
+      </entry><entry>
+        <form><orth>éboueur</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>baroutier.</quote></def>
+        <cit type="translation"><quote>baroutier.</quote></cit>
+      </entry><entry>
+        <form><orth>éboulement</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>fondrie.</quote></def>
+        <cit type="translation"><quote>fondrie.</quote></cit>
+      </entry><entry>
+        <form><orth>ébrouer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>éwaquer.</quote></def>
+        <cit type="translation"><quote>éwaquer.</quote></cit>
+      </entry><entry>
+        <form><orth>écaler</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>décafoter, écaflier.</quote></def>
+        <cit type="translation"><quote>décafoter</quote><quote> écaflier.</quote></cit>
+      </entry><entry>
+        <form><orth>écervelé</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>amusette, tourniole.</quote></def>
+        <cit type="translation"><quote>amusette</quote><quote> tourniole.</quote></cit>
+      </entry><entry>
+        <form><orth>échapper</orth><Complément>(s')</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>dévoler.</quote></def>
+        <cit type="translation"><quote>dévoler.</quote></cit>
+      </entry><entry>
+        <form><orth>écharde</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>piquion.</quote></def>
+        <cit type="translation"><quote>piquion.</quote></cit>
+      </entry><entry>
+        <form><orth>échauffement</orth><Complément>(des cuisses)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>frognon, froïon.</quote></def>
+        <cit type="translation"><quote>frognon</quote><quote> froïon.</quote></cit>
+      </entry><entry>
+        <form><orth>échelon</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>bougeon.</quote></def>
+        <cit type="translation"><quote>bougeon.</quote></cit>
+      </entry><entry>
+        <form><orth>écheveau</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>èche.</quote></def>
+        <cit type="translation"><quote>èche.</quote></cit>
+      </entry><entry>
+        <form><orth>échine</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>inquenne.</quote></def>
+        <cit type="translation"><quote>inquenne.</quote></cit>
+      </entry><entry>
+        <form><orth>éclabousser</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>espiter, spiter.</quote></def>
+        <cit type="translation"><quote>espiter</quote><quote> spiter.</quote></cit>
+      </entry><entry>
+        <form><orth>éclair</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>éclitte.</quote></def>
+        <cit type="translation"><quote>éclitte.</quote></cit>
+      </entry><entry>
+        <form><orth>éclaircie</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>écappée.</quote></def>
+        <cit type="translation"><quote>écappée.</quote></cit>
+      </entry><entry>
+        <form><orth>éclaire</orth><Complément>(grande)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>hierbe d'arondielle.</quote></def>
+        <cit type="translation"><quote>hierbe d'arondielle.</quote></cit>
+      </entry><entry>
+        <form><orth>éclairer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>leumer.</quote></def>
+        <cit type="translation"><quote>leumer.</quote></cit>
+      </entry><entry>
+        <form><orth>éclater</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>camper.</quote></def>
+        <cit type="translation"><quote>camper.</quote></cit>
+      </entry><entry>
+        <form><orth>éclisse</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>équinon.</quote></def>
+        <cit type="translation"><quote>équinon.</quote></cit>
+      </entry><entry>
+        <form><orth>économe</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>rawettiant.</quote></def>
+        <cit type="translation"><quote>rawettiant.</quote></cit>
+      </entry><entry>
+        <form><orth>économiser</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>rapiater.</quote></def>
+        <cit type="translation"><quote>rapiater.</quote></cit>
+      </entry><entry>
+        <form><orth>écoper</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>esclaper.</quote></def>
+        <cit type="translation"><quote>esclaper.</quote></cit>
+      </entry><entry>
+        <form><orth>écoute</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>acout.</quote></def>
+        <cit type="translation"><quote>acout.</quote></cit>
+      </entry><entry>
+        <form><orth>écouter</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>acouter.</quote></def>
+        <cit type="translation"><quote>acouter.</quote></cit>
+      </entry><entry>
+        <form><orth>écraser</orth><Complément></Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote>v : acravinter, écravinter, épautrer, rastapler, rasteupler.</quote></def>
+        <cit type="translation"><quote>v : acravinter</quote><quote> écravinter</quote><quote> épautrer</quote><quote> rastapler</quote><quote> rasteupler.</quote></cit>
+      </entry><entry>
+        <form><orth>écrouelles</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f. pl.</pos></gramGrp>
+        <def><quote>margoulettes.</quote></def>
+        <cit type="translation"><quote>margoulettes.</quote></cit>
+      </entry><entry>
+        <form><orth>écuelle</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>tellette.</quote></def>
+        <cit type="translation"><quote>tellette.</quote></cit>
+      </entry><entry>
+        <form><orth>écumoire</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>écoeumette, écumette.</quote></def>
+        <cit type="translation"><quote>écoeumette</quote><quote> écumette.</quote></cit>
+      </entry><entry>
+        <form><orth>écureuil</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>boc, boquet.</quote></def>
+        <cit type="translation"><quote>boc</quote><quote> boquet.</quote></cit>
+      </entry><entry>
+        <form><orth>égayer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>régayir.</quote></def>
+        <cit type="translation"><quote>régayir.</quote></cit>
+      </entry><entry>
+        <form><orth>égosiller</orth><Complément>(s')</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>s'agosiller, s'égasioter.</quote></def>
+        <cit type="translation"><quote>s'agosiller</quote><quote> s'égasioter.</quote></cit>
+      </entry><entry>
+        <form><orth>égrener</orth><Complément>(le lin)</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>éboucheler.</quote></def>
+        <cit type="translation"><quote>éboucheler.</quote></cit>
+      </entry><entry>
+        <form><orth>égreneuse</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>éripeuse.</quote></def>
+        <cit type="translation"><quote>éripeuse.</quote></cit>
+      </entry><entry>
+        <form><orth>élaguer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>débranquer.</quote></def>
+        <cit type="translation"><quote>débranquer.</quote></cit>
+      </entry><entry>
+        <form><orth>élancement</orth><Complément>(douleur)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>lanchure.</quote></def>
+        <cit type="translation"><quote>lanchure.</quote></cit>
+      </entry><entry>
+        <form><orth>élancer</orth><Complément>(douleur)</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>lancer.</quote></def>
+        <cit type="translation"><quote>lancer.</quote></cit>
+      </entry><entry>
+        <form><orth>élection</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>votage.</quote></def>
+        <cit type="translation"><quote>votage.</quote></cit>
+      </entry><entry>
+        <form><orth>élégant</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>atourné.</quote></def>
+        <cit type="translation"><quote>atourné.</quote></cit>
+      </entry><entry>
+        <form><orth>éleveur</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>norretier.</quote></def>
+        <cit type="translation"><quote>norretier.</quote></cit>
+      </entry><entry>
+        <form><orth>émietter</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>décarpiller, démiocher, démioler, épiller, miletter.</quote></def>
+        <cit type="translation"><quote>décarpiller</quote><quote> démiocher</quote><quote> démioler</quote><quote> épiller</quote><quote> miletter.</quote></cit>
+      </entry><entry>
+        <form><orth>émoi</orth><Complément>(en)</Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote>in ameur, à l' foufielle.</quote></def>
+        <cit type="translation"><quote>in ameur</quote><quote> à l' foufielle.</quote></cit>
+      </entry><entry>
+        <form><orth>émotion</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>saisissure.</quote></def>
+        <cit type="translation"><quote>saisissure.</quote></cit>
+      </entry><entry>
+        <form><orth>émouchet</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>mouquet.</quote></def>
+        <cit type="translation"><quote>mouquet.</quote></cit>
+      </entry><entry>
+        <form><orth>émouvoir</orth><Complément>(s')</Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote>v : avoir el coeur poché, avoir el coeur à l' loque.</quote></def>
+        <cit type="translation"><quote>v : avoir el coeur poché</quote><quote> avoir el coeur à l' loque.</quote></cit>
+      </entry><entry>
+        <form><orth>épaisseur</orth><Complément>(d'un mur)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>interfin.</quote></def>
+        <cit type="translation"><quote>interfin.</quote></cit>
+      </entry><entry>
+        <form><orth>épandre</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>répar.</quote></def>
+        <cit type="translation"><quote>répar.</quote></cit>
+      </entry><entry>
+        <form><orth>épanouir</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>épénir.</quote></def>
+        <cit type="translation"><quote>épénir.</quote></cit>
+      </entry><entry>
+        <form><orth>épices</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f. pl.</pos></gramGrp>
+        <def><quote>(voir : pain).</quote></def>
+        <cit type="translation"><quote>(voir : pain).</quote></cit>
+      </entry><entry>
+        <form><orth>épier</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>(voir : guigner).</quote></def>
+        <cit type="translation"><quote>(voir : guigner).</quote></cit>
+      </entry><entry>
+        <form><orth>épilepsie</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>mal caduque.</quote></def>
+        <cit type="translation"><quote>mal caduque.</quote></cit>
+      </entry><entry>
+        <form><orth>épi</orth><Complément>(cassé)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>écrapin.</quote></def>
+        <cit type="translation"><quote>écrapin.</quote></cit>
+      </entry><entry>
+        <form><orth>épilobe</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>hierbe ed Saint-Antoine.</quote></def>
+        <cit type="translation"><quote>hierbe ed Saint-Antoine.</quote></cit>
+      </entry><entry>
+        <form><orth>épinards</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m. pl.</pos></gramGrp>
+        <def><quote>épinaches, spinaches.</quote></def>
+        <cit type="translation"><quote>épinaches</quote><quote> spinaches.</quote></cit>
+      </entry><entry>
+        <form><orth>épine</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>épène, picot, épine-vinette : noble-épène.</quote></def>
+        <cit type="translation"><quote>épène</quote><quote> picot</quote><quote> épine-vinette : noble-épène.</quote></cit>
+      </entry><entry>
+        <form><orth>épingle</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>éplinque.</quote></def>
+        <cit type="translation"><quote>éplinque.</quote></cit>
+      </entry><entry>
+        <form><orth>épinoche</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>épénoque.</quote></def>
+        <cit type="translation"><quote>épénoque.</quote></cit>
+      </entry><entry>
+        <form><orth>épisser</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>archuquer.</quote></def>
+        <cit type="translation"><quote>archuquer.</quote></cit>
+      </entry><entry>
+        <form><orth>éplucher</orth><Complément>(des légumes)</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>alire, pleumer.</quote></def>
+        <cit type="translation"><quote>alire</quote><quote> pleumer.</quote></cit>
+      </entry><entry>
+        <form><orth>éponte</orth><Complément>(inférieure)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>meur.</quote></def>
+        <cit type="translation"><quote>meur.</quote></cit>
+      </entry><entry>
+        <form><orth>épouseur</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>marieux.</quote></def>
+        <cit type="translation"><quote>marieux.</quote></cit>
+      </entry><entry>
+        <form><orth>épousseter</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>dépourrer, répourrer.</quote></def>
+        <cit type="translation"><quote>dépourrer</quote><quote> répourrer.</quote></cit>
+      </entry><entry>
+        <form><orth>érafler</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>rifler.</quote></def>
+        <cit type="translation"><quote>rifler.</quote></cit>
+      </entry><entry>
+        <form><orth>éraflure</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>riflure.</quote></def>
+        <cit type="translation"><quote>riflure.</quote></cit>
+      </entry><entry>
+        <form><orth>éreinter</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>éraner.</quote></def>
+        <cit type="translation"><quote>éraner.</quote></cit>
+      </entry><entry>
+        <form><orth>érysipèle</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>résipère.</quote></def>
+        <cit type="translation"><quote>résipère.</quote></cit>
+      </entry><entry>
+        <form><orth>étable</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>étaule, éteule. Ramener à l'étable : rétauler.</quote></def>
+        <cit type="translation"><quote>étaule</quote><quote> éteule. Ramener à l'étable : rétauler.</quote></cit>
+      </entry><entry>
+        <form><orth>étalon</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>couillu.</quote></def>
+        <cit type="translation"><quote>couillu.</quote></cit>
+      </entry><entry>
+        <form><orth>étai</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>asto, atoque.</quote></def>
+        <cit type="translation"><quote>asto</quote><quote> atoque.</quote></cit>
+      </entry><entry>
+        <form><orth>étançon</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>boutiau, estancenure.</quote></def>
+        <cit type="translation"><quote>boutiau</quote><quote> estancenure.</quote></cit>
+      </entry><entry>
+        <form><orth>étançonner</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote> ; aqueuter, estancener.</quote></def>
+        <cit type="translation"><quote> </quote><quote> aqueuter</quote><quote> estancener.</quote></cit>
+      </entry><entry>
+        <form><orth>étang</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>plac.</quote></def>
+        <cit type="translation"><quote>plac.</quote></cit>
+      </entry><entry>
+        <form><orth>étayer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>astoquer, atoquer.</quote></def>
+        <cit type="translation"><quote>astoquer</quote><quote> atoquer.</quote></cit>
+      </entry><entry>
+        <form><orth>étendre</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>rétindre.</quote></def>
+        <cit type="translation"><quote>rétindre.</quote></cit>
+      </entry><entry>
+        <form><orth>éternuer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>esternir.</quote></def>
+        <cit type="translation"><quote>esternir.</quote></cit>
+      </entry><entry>
+        <form><orth>étincelle</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>pette ed feu.</quote></def>
+        <cit type="translation"><quote>pette ed feu.</quote></cit>
+      </entry><entry>
+        <form><orth>étoffe</orth><Complément>(mince)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>pélade.</quote></def>
+        <cit type="translation"><quote>pélade.</quote></cit>
+      </entry><entry>
+        <form><orth>étouffer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>atoffer ; étouffé (par la nourriture) : estoqué, impaffé ; (par la boisson) : intonné.</quote></def>
+        <cit type="translation"><quote>atoffer </quote><quote> étouffé (par la nourriture) : estoqué</quote><quote> impaffé </quote><quote> (par la boisson) : intonné.</quote></cit>
+      </entry><entry>
+        <form><orth>étourdi</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>éfoufié, infoufié, tape-à-travers.</quote></def>
+        <cit type="translation"><quote>éfoufié</quote><quote> infoufié</quote><quote> tape-à-travers.</quote></cit>
+      </entry><entry>
+        <form><orth>étrangler</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote></quote></def>
         
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>étrennes</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f. pl.</StructureGrammaticale>
-        <LexieEntiere>bon-an, parjuré.</LexieEntiere>
-        <Lexie><SousLexie>bon-an</SousLexie><SousLexie> parjuré.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>étui</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>cafotin, canebutin.</LexieEntiere>
-        <Lexie><SousLexie>cafotin</SousLexie><SousLexie> canebutin.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>étuvée</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>porée.</LexieEntiere>
-        <Lexie><SousLexie>porée.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>évanouir</Entrée>
-        <Complément>(s')</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>quéir faible ou favelotte.</LexieEntiere>
-        <Lexie><SousLexie>quéir faible ou favelotte.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>éveiller</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>dérinvier, révier, réviller, rinvier.</LexieEntiere>
-        <Lexie><SousLexie>dérinvier</SousLexie><SousLexie> révier</SousLexie><SousLexie> réviller</SousLexie><SousLexie> rinvier.</SousLexie></Lexie>
-      </ArticleDeDictionnaire>
-      </Nomenclature>
+      </entry><entry>
+        <form><orth>étrennes</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f. pl.</pos></gramGrp>
+        <def><quote>bon-an, parjuré.</quote></def>
+        <cit type="translation"><quote>bon-an</quote><quote> parjuré.</quote></cit>
+      </entry><entry>
+        <form><orth>étui</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>cafotin, canebutin.</quote></def>
+        <cit type="translation"><quote>cafotin</quote><quote> canebutin.</quote></cit>
+      </entry><entry>
+        <form><orth>étuvée</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>porée.</quote></def>
+        <cit type="translation"><quote>porée.</quote></cit>
+      </entry><entry>
+        <form><orth>évanouir</orth><Complément>(s')</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>quéir faible ou favelotte.</quote></def>
+        <cit type="translation"><quote>quéir faible ou favelotte.</quote></cit>
+      </entry><entry>
+        <form><orth>éveiller</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>dérinvier, révier, réviller, rinvier.</quote></def>
+        <cit type="translation"><quote>dérinvier</quote><quote> révier</quote><quote> réviller</quote><quote> rinvier.</quote></cit>
+      </entry>
+      </TEI>

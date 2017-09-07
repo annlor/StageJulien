@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Nomenclature>
           <Entrée>
-        <Vocable>Pierrot Bimberlot </Vocable>
+        <Vocable>Pierrot Bimberlot</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: personnage légendaire du Quesnoy, de l'époque de Marguerite de Bourgogne, et qui est resté le héros du carnaval de cette ville.</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: personnage légendaire du Quesnoy, de l'époque de Marguerite de Bourgogne, et qui est resté le héros du carnaval de cette ville.</dfEntière><Trad><CandidatTraduction>personnage légendaire du Quesnoy</CandidatTraduction></Trad><Trad><CandidatTraduction>de l'époque de Marguerite de Bourgogne</CandidatTraduction></Trad><Trad><CandidatTraduction>et qui est resté le héros du carnaval de cette ville</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>Panche à l' marlette ! (GT) </Vocable>
+        <Vocable>Panche à l' marlette ! (GT)</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: insulte.</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: insulte.</dfEntière><Trad><CandidatTraduction>insulte</CandidatTraduction><Traduction>insulte</Traduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
@@ -31,7 +31,7 @@
         <Définition><DéfinitionEntiere>par dessus. (Voir : pardéseur). &quot; Un prix pa d'zeur les masons &quot; (FP) : un prix exagéré.</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>par dessus. (Voir : pardéseur). </dfEntière><Trad><CandidatTraduction>par dessus</CandidatTraduction></Trad><Trad><CandidatTraduction>(Voir : pardéseur)</CandidatTraduction></Trad><Trad><CandidatTraduction></CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Un prix pa d'zeur les masons &quot; (FP) : un prix exagéré.</ExemplePicard></Exemples><Ancien/></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>* PAF (RESTER) </Vocable>
+        <Vocable>* PAF (RESTER)</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: être étonné, surpris, à en avoir le souffle coupé. Cette expr. est un région, employé dans le Nord et en Belgique.</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: être étonné, surpris, à en avoir le souffle coupé. Cette expr. est un région, employé dans le Nord et en Belgique.</dfEntière><Trad><CandidatTraduction>être étonné</CandidatTraduction></Trad><Trad><CandidatTraduction>surpris</CandidatTraduction><Traduction>surpris</Traduction></Trad><Trad><CandidatTraduction>à en avoir le souffle coupé</CandidatTraduction></Trad><Trad><CandidatTraduction>Cette expr</CandidatTraduction></Trad><Trad><CandidatTraduction>est un région</CandidatTraduction></Trad><Trad><CandidatTraduction>employé dans le Nord et en Belgique</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
@@ -66,7 +66,7 @@
         <Définition>
           <DéfinitionDétaillée></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>PALAIS DE CRISTAL </Vocable>
+        <Vocable>PALAIS DE CRISTAL</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: immeuble (disparu) du quartier de la Barre, à Val. où résidait une population grouillante et pittoresque ; il a été célébré par tous les</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: immeuble (disparu) du quartier de la Barre, à Val. où résidait une population grouillante et pittoresque ; il a été célébré par tous les</dfEntière><Trad><CandidatTraduction>immeuble (disparu) du quartier de la Barre</CandidatTraduction></Trad><Trad><CandidatTraduction>à Val</CandidatTraduction></Trad><Trad><CandidatTraduction>où résidait une population grouillante et pittoresque</CandidatTraduction></Trad><Trad><CandidatTraduction>il a été célébré par tous les</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
@@ -211,7 +211,7 @@
         <Définition><DéfinitionEntiere>&quot; Ch'étot aux invirons des Pâques. Pâques à beus (= à bois) : dimanche des Rameaux (AL). Pâques derrière sin deus ou Pâques aux voleurs : dimanche de Quasimodo, </DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>PAQUET (FAIRE ES') </Vocable>
+        <Vocable>PAQUET (FAIRE ES')</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: (pour un agonisant), ramener ses draps, ses couvertures.</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: (pour un agonisant), ramener ses draps, ses couvertures.</dfEntière><Trad><CandidatTraduction>(pour un agonisant)</CandidatTraduction></Trad><Trad><CandidatTraduction>ramener ses draps</CandidatTraduction></Trad><Trad><CandidatTraduction>ses couvertures</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
@@ -231,7 +231,7 @@
         <Définition><DéfinitionEntiere>parapet. &quot; On a garni les parapel' d' palizart' et d' nouvell' pièch' d' canon &quot; (JQ). &quot; J' grimpos avec mes camarates, / Su' les Parapels &quot; (GT).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>parapet. </dfEntière><Trad><CandidatTraduction>parapet</CandidatTraduction><Traduction>parapet</Traduction></Trad><Trad><CandidatTraduction></CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; On a garni les parapel' d' palizart' et d' nouvell' pièch' d' canon &quot; (JQ). </ExemplePicard><ExemplePicard id="2">&quot; J' grimpos avec mes camarates, / Su' les Parapels &quot; (GT).</ExemplePicard></Exemples><Ancien/></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>PARAVIRE </Vocable>
+        <Vocable>PARAVIRE</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: (voir : pare-à-virer).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: (voir : pare-à-virer).</dfEntière><Trad><CandidatTraduction>(voir : pare-à-virer)</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
@@ -316,7 +316,7 @@
         <Définition><DéfinitionEntiere>tailleur d'habits de drap (vx) ; (les couturiers travaillaient les autres étoffes). &quot; Tous ceux qui le dit mestier de parmentier levreront et qui désormais se mesleront de tailler draps... &quot; (Charte des Parmentiers de Valenciennes, Livre des Métiers, 1403). Patronyme.</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>tailleur d'habits de drap (vx) ; (les couturiers travaillaient les autres étoffes). </dfEntière><Trad><CandidatTraduction>tailleur d'habits de drap (vx)</CandidatTraduction></Trad><Trad><CandidatTraduction>(les couturiers travaillaient les autres étoffes)</CandidatTraduction></Trad><Trad><CandidatTraduction></CandidatTraduction></Trad></df><df><dfEntière>Charte des Parmentiers de Valenciennes, Livre des Métiers, 1403). Patronyme.</dfEntière><Trad><CandidatTraduction>Charte des Parmentiers de Valenciennes, Livre des Métiers, 1403)</CandidatTraduction></Trad><Trad><CandidatTraduction>Patronyme</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Tous ceux qui le dit mestier de parmentier levreront et qui désormais se mesleront de tailler draps... &quot; (</ExemplePicard></Exemples><Ancien/></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>PAROISSE A CHABOTS </Vocable>
+        <Vocable>PAROISSE A CHABOTS</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: paroisse Saint-Nicolas à Valenciennes. &quot; Il étot r'connu comme el pus méchant / Parmi les infants / Dé l' paroisse à chabots &quot; (GF). &quot; En fin de cortège, Carcel avait groupé toutes les ouailles de la paroisse à sabots &quot; (FP).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: paroisse Saint-Nicolas à Valenciennes. </dfEntière><Trad><CandidatTraduction>paroisse Saint-Nicolas à Valenciennes</CandidatTraduction></Trad><Trad><CandidatTraduction></CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Il étot r'connu comme el pus méchant / Parmi les infants / Dé l' paroisse à chabots &quot; (GF). </ExemplePicard><ExemplePicard id="2">&quot; En fin de cortège, Carcel avait groupé toutes les ouailles de la paroisse à sabots &quot; (FP).</ExemplePicard></Exemples><Ancien/></DéfinitionDétaillée></Définition>
@@ -361,7 +361,7 @@
         <Définition><DéfinitionEntiere>&quot; Il y-a aussi des p'tit's traînées / D' carbon trop minc's pou s'in servir. / Pa ces nervur's qu'in nomm' passées : El grisou vient souvint sortir &quot; (JM).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>Passe-tout-oute </Vocable>
+        <Vocable>Passe-tout-oute</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: (voir : outre).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: (voir : outre).</dfEntière><Trad><CandidatTraduction>(voir : outre)</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
@@ -456,7 +456,7 @@
         <Définition><DéfinitionEntiere>renoncule âcre (à cause de la forme de sa feuille).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>renoncule âcre (à cause de la forme de sa feuille).</dfEntière><Trad><CandidatTraduction>renoncule âcre (à cause de la forme de sa feuille)</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>PAU </Vocable>
+        <Vocable>PAU</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: peu. &quot; Si tu tiens un vau à t' piau. /</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: peu. </dfEntière><Trad><CandidatTraduction>peu</CandidatTraduction><Traduction>peu</Traduction></Trad><Trad><CandidatTraduction></CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
@@ -506,7 +506,7 @@
         <Définition><DéfinitionEntiere>P(E)LURE, s. f. : étoffe mince ; couverture trop légère ; vêtement insuffisant.</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>P(E)LURE, s. f. : étoffe mince ; couverture trop légère ; vêtement insuffisant.</dfEntière><Trad><CandidatTraduction>P(E)LURE</CandidatTraduction></Trad><Trad><CandidatTraduction>s</CandidatTraduction></Trad><Trad><CandidatTraduction>f</CandidatTraduction></Trad><Trad><CandidatTraduction>: étoffe mince</CandidatTraduction></Trad><Trad><CandidatTraduction>couverture trop légère</CandidatTraduction></Trad><Trad><CandidatTraduction>vêtement insuffisant</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>P(e)lure (GLec) </Vocable>
+        <Vocable>P(e)lure (GLec)</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: femme de mauvaise vie. ANC. : pel : peau, pelure (Ch. de Roland, 1080) du lat. pellem (peau d'animal).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: femme de mauvaise vie. </dfEntière><Trad><CandidatTraduction>femme de mauvaise vie</CandidatTraduction><Traduction>femme de mauvaise vie</Traduction></Trad><Trad><CandidatTraduction></CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien>ANC. : pel : peau, pelure (Ch. de Roland, 1080) du lat. pellem (peau d'animal).</Ancien></DéfinitionDétaillée></Définition>
@@ -586,7 +586,7 @@
         <Définition><DéfinitionEntiere>peureux.</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>peureux.</dfEntière><Trad><CandidatTraduction>peureux</CandidatTraduction><Traduction>peureux</Traduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>PERLICOCO </Vocable>
+        <Vocable>PERLICOCO</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: (voir : berlicoco).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: (voir : berlicoco).</dfEntière><Trad><CandidatTraduction>(voir : berlicoco)</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
@@ -616,7 +616,7 @@
         <Définition><DéfinitionEntiere>persil. ANC. : on trouve persinee : odeur de persil (God.).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>persil. </dfEntière><Trad><CandidatTraduction>persil</CandidatTraduction><Traduction>persil</Traduction></Trad><Trad><CandidatTraduction></CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien>ANC. : on trouve persinee : odeur de persil (God.).</Ancien></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>PERTIQUE </Vocable>
+        <Vocable>PERTIQUE</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: Et pertique et pertaque (RD) : et patati et patata.</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: Et pertique et pertaque (RD) : et patati et patata.</dfEntière><Trad><CandidatTraduction>Et pertique et pertaque (RD) : et patati et patata</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
@@ -646,7 +646,7 @@
         <Définition><DéfinitionEntiere>mortier de cuisine.</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>mortier de cuisine.</dfEntière><Trad><CandidatTraduction>mortier de cuisine</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>PET </Vocable>
+        <Vocable>PET</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: (voir : péter).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: (voir : péter).</dfEntière><Trad><CandidatTraduction>(voir : péter)</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
@@ -691,7 +691,7 @@
         <Définition><DéfinitionEntiere>à peine. &quot; J' m'in souviens cor, mais p'tit'mint &quot; (JM).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>à peine. </dfEntière><Trad><CandidatTraduction>à peine</CandidatTraduction><Traduction>à peine</Traduction></Trad><Trad><CandidatTraduction></CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; J' m'in souviens cor, mais p'tit'mint &quot; (JM).</ExemplePicard></Exemples><Ancien/></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>PÉTOQUER (voir </Vocable>
+        <Vocable>PÉTOQUER (voir</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: patrouquer).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: patrouquer).</dfEntière><Trad><CandidatTraduction>patrouquer)</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
@@ -726,7 +726,7 @@
         <Définition><DéfinitionEntiere>pot. (Voir : pot). Noir peut, s. m. : personne sale (voir : noirchir).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>pot. (Voir : pot). Noir peut, s. m. : personne sale (voir : noirchir).</dfEntière><Trad><CandidatTraduction>pot</CandidatTraduction><Traduction>pot</Traduction></Trad><Trad><CandidatTraduction>(Voir : pot)</CandidatTraduction></Trad><Trad><CandidatTraduction>Noir peut</CandidatTraduction></Trad><Trad><CandidatTraduction>s</CandidatTraduction></Trad><Trad><CandidatTraduction>m</CandidatTraduction></Trad><Trad><CandidatTraduction>: personne sale (voir : noirchir)</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>PEUT-ÊT(R)E </Vocable>
+        <Vocable>PEUT-ÊT(R)E</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: Ch'est pas peut-êt' ! = c'est certain.</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: Ch'est pas peut-êt' ! = c'est certain.</dfEntière><Trad><CandidatTraduction>Ch'est pas peut-êt' ! = c'est certain</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
@@ -766,12 +766,12 @@
         <Définition><DéfinitionEntiere>pic à fier : pic droit ; pic au meur : pic plus lourd (AL).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>pic à fier : pic droit ; pic au meur : pic plus lourd (AL).</dfEntière><Trad><CandidatTraduction>pic à fier : pic droit</CandidatTraduction></Trad><Trad><CandidatTraduction>pic au meur : pic plus lourd (AL)</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>PICARD </Vocable>
+        <Vocable>PICARD</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: Juer au picard : jouer à cache-cache. (Voir : franc-picard).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: Juer au picard : jouer à cache-cache. (Voir : franc-picard).</dfEntière><Trad><CandidatTraduction>Juer au picard : jouer à cache-cache</CandidatTraduction></Trad><Trad><CandidatTraduction>(Voir : franc-picard)</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>PICHOU </Vocable>
+        <Vocable>PICHOU</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: (voir : pissiou).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: (voir : pissiou).</dfEntière><Trad><CandidatTraduction>(voir : pissiou)</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
@@ -806,7 +806,7 @@
         <Définition><DéfinitionEntiere>Et' ed pied drot : rester debout, &quot; Ah ! les heur's ed pied drot / Qu'in fait quand i fait frod ! &quot; (GF). &quot; In n' peut mie les laisser su ç' pied-là ! &quot; (JD). = leur laisser croire cela, leur permettre cela. Suire pied-t'à-talon = suivre de très près. Avoir les quat' pieds blancs (GH) : avoir ses entrées partout. Et' servi à pieds baisés (GH) = être très bien servi.</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>Et' ed pied drot : rester debout, </dfEntière><Trad><CandidatTraduction>Et' ed pied drot : rester debout</CandidatTraduction></Trad><Trad><CandidatTraduction></CandidatTraduction></Trad></df><df><dfEntière>leur laisser croire cela, leur permettre cela. Suire pied-t'à-talon = suivre de très près. Avoir les quat' pieds blancs (GH) : avoir ses entrées partout. Et' servi à pieds baisés (GH) = être très bien servi.</dfEntière><Trad><CandidatTraduction>leur laisser croire cela</CandidatTraduction></Trad><Trad><CandidatTraduction>leur permettre cela</CandidatTraduction></Trad><Trad><CandidatTraduction>Suire pied-t'à-talon = suivre de très près</CandidatTraduction></Trad><Trad><CandidatTraduction>Avoir les quat' pieds blancs (GH) : avoir ses entrées partout</CandidatTraduction></Trad><Trad><CandidatTraduction>Et' servi à pieds baisés (GH) = être très bien servi</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Ah ! les heur's ed pied drot / Qu'in fait quand i fait frod ! &quot; (GF). </ExemplePicard><ExemplePicard id="2">&quot; In n' peut mie les laisser su ç' pied-là ! &quot; (JD). = </ExemplePicard></Exemples><Ancien/></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>Pied d'agache </Vocable>
+        <Vocable>Pied d'agache</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: jeu d'enfant. &quot; Je crois, fort qu'il s'agissait de sautiller à cloche-pied et de se lancer, les bras croisés, contre un camarade qui en faisait autant, afin que l'un fasse &quot;quéir&quot; l'autre &quot; (EM).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: jeu d'enfant. </dfEntière><Trad><CandidatTraduction>jeu d'enfant</CandidatTraduction><Traduction>jeu d'enfant</Traduction></Trad><Trad><CandidatTraduction></CandidatTraduction></Trad></df><df><dfEntière>quéir</dfEntière><Trad><CandidatTraduction>quéir</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Je crois, fort qu'il s'agissait de sautiller à cloche-pied et de se lancer, les bras croisés, contre un camarade qui en faisait autant, afin que l'un fasse &quot;</ExemplePicard><ExemplePicard id="2">&quot; l'autre &quot; (EM).</ExemplePicard></Exemples><Ancien/></DéfinitionDétaillée></Définition>
@@ -866,7 +866,7 @@
         <Définition><DéfinitionEntiere>bois de soutènement (mines). &quot; C't accrochage, où m' voix résonne, / Reste vaste et sans pilot &quot; (JM).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>bois de soutènement (mines). </dfEntière><Trad><CandidatTraduction>bois de soutènement (mines)</CandidatTraduction></Trad><Trad><CandidatTraduction></CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; C't accrochage, où m' voix résonne, / Reste vaste et sans pilot &quot; (JM).</ExemplePicard></Exemples><Ancien/></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>PILTEUX </Vocable>
+        <Vocable>PILTEUX</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: (voir : bilteux).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: (voir : bilteux).</dfEntière><Trad><CandidatTraduction>(voir : bilteux)</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
@@ -961,7 +961,7 @@
         <Définition><DéfinitionEntiere>1 - ancienne mesure de capacité assimilée au demi-litre (alors que la pinte de Paris valait 93 cl). </DéfinitionEntiere><DéfinitionEntiere>2 - mesure agraire, valant un seizième de mencaudée (143 à 208 m</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>1 - ancienne mesure de capacité assimilée au demi-litre (alors que la pinte de Paris valait 93 cl). </dfEntière><Trad><CandidatTraduction>1 - ancienne mesure de capacité assimilée au demi-litre (alors que la pinte de Paris valait 93 cl)</CandidatTraduction></Trad><Trad><CandidatTraduction></CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/><DéfinitionFrançaise><df><dfEntière>2 - mesure agraire, valant un seizième de mencaudée (143 à 208 m</dfEntière><Trad><CandidatTraduction>2 - mesure agraire, valant un seizième de mencaudée (143 à 208 m</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>Pinte ed galère </Vocable>
+        <Vocable>Pinte ed galère</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: pot en faïence, cylindrique, avec une anse, marqué d'un numéro ; servant à boire.</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: pot en faïence, cylindrique, avec une anse, marqué d'un numéro ; servant à boire.</dfEntière><Trad><CandidatTraduction>pot en faïence</CandidatTraduction></Trad><Trad><CandidatTraduction>cylindrique</CandidatTraduction><Traduction>cylindrique</Traduction></Trad><Trad><CandidatTraduction>avec une anse</CandidatTraduction></Trad><Trad><CandidatTraduction>marqué d'un numéro</CandidatTraduction></Trad><Trad><CandidatTraduction>servant à boire</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
@@ -1031,7 +1031,7 @@
         <Définition><DéfinitionEntiere>jeu de billes dont des petits sous (liard) sont les enjeux : &quot; Homm' marié, pis jonn' gaillard, / S'in vont juer au piquéliard &quot; (JM).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>jeu de billes dont des petits sous (liard) sont les enjeux : </dfEntière><Trad><CandidatTraduction>jeu de billes dont des petits sous (liard) sont les enjeux :</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Homm' marié, pis jonn' gaillard, / S'in vont juer au piquéliard &quot; (JM).</ExemplePicard></Exemples><Ancien/></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>PIQU(E)RELLE </Vocable>
+        <Vocable>PIQU(E)RELLE</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>(GLec), s. f. : femme qui fait des remarques désobligeantes.</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>(GLec), s. f. : femme qui fait des remarques désobligeantes.</dfEntière><Trad><CandidatTraduction>(GLec)</CandidatTraduction></Trad><Trad><CandidatTraduction>s</CandidatTraduction></Trad><Trad><CandidatTraduction>f</CandidatTraduction></Trad><Trad><CandidatTraduction>: femme qui fait des remarques désobligeantes</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
@@ -1096,7 +1096,7 @@
         <Définition><DéfinitionEntiere>pichou (GD), s. m. : </DéfinitionEntiere><DéfinitionEntiere>1 - lange. &quot; Les qu'miss', les pissioux, les bavettes / Etot't faits à la perfection &quot; (PB). </DéfinitionEntiere><DéfinitionEntiere>2 - enfant qui pisse beaucoup. &quot; Mais queu pissiou ! &quot;</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>pichou (GD), s. m. : </dfEntière><Trad><CandidatTraduction>pichou (GD)</CandidatTraduction></Trad><Trad><CandidatTraduction>s</CandidatTraduction></Trad><Trad><CandidatTraduction>m</CandidatTraduction></Trad><Trad><CandidatTraduction>:</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/><DéfinitionFrançaise><df><dfEntière>1 - lange. </dfEntière><Trad><CandidatTraduction>1 - lange</CandidatTraduction></Trad><Trad><CandidatTraduction></CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Les qu'miss', les pissioux, les bavettes / Etot't faits à la perfection &quot; (PB). </ExemplePicard></Exemples><Ancien/><DéfinitionFrançaise><df><dfEntière>2 - enfant qui pisse beaucoup. </dfEntière><Trad><CandidatTraduction>2 - enfant qui pisse beaucoup</CandidatTraduction></Trad><Trad><CandidatTraduction></CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Mais queu pissiou ! &quot;</ExemplePicard></Exemples><Ancien/></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>Pissote (rue) </Vocable>
+        <Vocable>Pissote (rue)</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: nom ancien de la rue de Paris, à Val., dans sa partie aboutissant à l'Esplanade. &quot; L' vint est à l' rue Pissote &quot; = le vent est à l'Ouest, il va pleuvoir.</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: nom ancien de la rue de Paris, à Val., dans sa partie aboutissant à l'Esplanade. </dfEntière><Trad><CandidatTraduction>nom ancien de la rue de Paris</CandidatTraduction></Trad><Trad><CandidatTraduction>à Val</CandidatTraduction></Trad><Trad><CandidatTraduction>dans sa partie aboutissant à l'Esplanade</CandidatTraduction></Trad><Trad><CandidatTraduction></CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; L' vint est à l' rue Pissote &quot; = le vent est à l'Ouest, il va pleuvoir.</ExemplePicard></Exemples><Ancien/></DéfinitionDétaillée></Définition>
@@ -1121,7 +1121,7 @@
         <Définition><DéfinitionEntiere>étang (Vieux-Condé, Hergnies). L' Plac ed Chabaud-Latour.</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>étang (Vieux-Condé, Hergnies). L' Plac ed Chabaud-Latour.</dfEntière><Trad><CandidatTraduction>étang (Vieux-Condé, Hergnies)</CandidatTraduction></Trad><Trad><CandidatTraduction>L' Plac ed Chabaud-Latour</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>PLACAGE </Vocable>
+        <Vocable>PLACAGE</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: (voir : plaquer).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: (voir : plaquer).</dfEntière><Trad><CandidatTraduction>(voir : plaquer)</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
@@ -1176,7 +1176,7 @@
         <Définition><DéfinitionEntiere>soufflet sur la joue donné avec la main tendue. ANC. : Peut-être du moy. néerl. appelmoes (marmelade de pommes).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>soufflet sur la joue donné avec la main tendue. </dfEntière><Trad><CandidatTraduction>soufflet sur la joue donné avec la main tendue</CandidatTraduction></Trad><Trad><CandidatTraduction></CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien>ANC. : Peut-être du moy. néerl. appelmoes (marmelade de pommes).</Ancien></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>PLANAR </Vocable>
+        <Vocable>PLANAR</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: (voir : plarna).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: (voir : plarna).</dfEntière><Trad><CandidatTraduction>(voir : plarna)</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
@@ -1231,7 +1231,7 @@
         <Définition><DéfinitionEntiere>plantoir (à repiquer les poireaux).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>plantoir (à repiquer les poireaux).</dfEntière><Trad><CandidatTraduction>plantoir (à repiquer les poireaux)</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>PLANTIVEUX </Vocable>
+        <Vocable>PLANTIVEUX</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: (voir : plentiveux).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: (voir : plentiveux).</dfEntière><Trad><CandidatTraduction>(voir : plentiveux)</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
@@ -1416,17 +1416,17 @@
         <Définition><DéfinitionEntiere>charpie (vx).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>charpie (vx).</dfEntière><Trad><CandidatTraduction>charpie (vx)</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>PLURER </Vocable>
+        <Vocable>PLURER</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: (voir : pelurer).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: (voir : pelurer).</dfEntière><Trad><CandidatTraduction>(voir : pelurer)</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>PLURETTE </Vocable>
+        <Vocable>PLURETTE</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: (voir : pelure ; pluque).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: (voir : pelure ; pluque).</dfEntière><Trad><CandidatTraduction>(voir : pelure ; pluque)</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>PLUVOIR </Vocable>
+        <Vocable>PLUVOIR</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: (voir : pleuvoir).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: (voir : pleuvoir).</dfEntière><Trad><CandidatTraduction>(voir : pleuvoir)</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
@@ -1491,7 +1491,7 @@
         <Définition><DéfinitionEntiere>poumon. &quot; Amateux d' nouvelles canchons, / Cantez à pleins pomons &quot; (JQ).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>poumon. </dfEntière><Trad><CandidatTraduction>poumon</CandidatTraduction><Traduction>poumon</Traduction></Trad><Trad><CandidatTraduction></CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Amateux d' nouvelles canchons, / Cantez à pleins pomons &quot; (JQ).</ExemplePicard></Exemples><Ancien/></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>PON </Vocable>
+        <Vocable>PON</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: (voir : pom).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: (voir : pom).</dfEntière><Trad><CandidatTraduction>(voir : pom)</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
@@ -1571,7 +1571,7 @@
         <Définition><DéfinitionEntiere>contremaître, dans les mines de Wallonie et du Nord de la France. (Voir : chef-porion). Porion de coupe, au poste du matin ; porion d' tierres, au poste de l'après-midi ; porion d' guide, de surveillance à la cage et au criblage. &quot; Jé m' sus nommé ç' jour-là, chef-porion d'F.F.I. &quot; (EM).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>contremaître, dans les mines de Wallonie et du Nord de la France. (Voir : chef-porion). Porion de coupe, au poste du matin ; porion d' tierres, au poste de l'après-midi ; porion d' guide, de surveillance à la cage et au criblage. </dfEntière><Trad><CandidatTraduction>contremaître</CandidatTraduction><Traduction>contremaître</Traduction></Trad><Trad><CandidatTraduction>dans les mines de Wallonie et du Nord de la France</CandidatTraduction></Trad><Trad><CandidatTraduction>(Voir : chef-porion)</CandidatTraduction></Trad><Trad><CandidatTraduction>Porion de coupe</CandidatTraduction></Trad><Trad><CandidatTraduction>au poste du matin</CandidatTraduction></Trad><Trad><CandidatTraduction>porion d' tierres</CandidatTraduction></Trad><Trad><CandidatTraduction>au poste de l'après-midi</CandidatTraduction></Trad><Trad><CandidatTraduction>porion d' guide</CandidatTraduction></Trad><Trad><CandidatTraduction>de surveillance à la cage et au criblage</CandidatTraduction></Trad><Trad><CandidatTraduction></CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Jé m' sus nommé ç' jour-là, chef-porion d'F.F.I. &quot; (EM).</ExemplePicard></Exemples><Ancien/></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>Poriontène </Vocable>
+        <Vocable>Poriontène</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: porion occupé, en dehors du charbon, au deuxième ou au troisième poste (Léon Faux, Bruay). ANC. : BW donne comme orig. : poireau, car le porion &quot; reste planté au même endroit pendant longtemps &quot; (?). Rappelons que l'expr. pop. faire le poireau et le v. poireauter sont de la fin du XIXe et que le mot porion est attesté au XVIIIe.</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: porion occupé, en dehors du charbon, au deuxième ou au troisième poste (Léon Faux, Bruay). </dfEntière><Trad><CandidatTraduction>porion occupé</CandidatTraduction></Trad><Trad><CandidatTraduction>en dehors du charbon</CandidatTraduction></Trad><Trad><CandidatTraduction>au deuxième ou au troisième poste (Léon Faux, Bruay)</CandidatTraduction></Trad><Trad><CandidatTraduction></CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien>ANC. : BW donne comme orig. : poireau, car le porion &quot; reste planté au même endroit pendant longtemps &quot; (?). Rappelons que l'expr. pop. faire le poireau et le v. poireauter sont de la fin du XIXe et que le mot porion est attesté au XVIIIe.</Ancien></DéfinitionDétaillée></Définition>
@@ -1581,7 +1581,7 @@
         <Définition>
           <DéfinitionDétaillée></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>PORMÉNER </Vocable>
+        <Vocable>PORMÉNER</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: (voir : pourméner).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: (voir : pourméner).</dfEntière><Trad><CandidatTraduction>(voir : pourméner)</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
@@ -1631,7 +1631,7 @@
         <Définition><DéfinitionEntiere>pois. &quot; Ch'est un pos pour eun' fèf (fève) &quot; (JQ) = c'est un prêté pour un rendu. &quot; J'ter les pos avant les coulons &quot; = sonder le terrain. &quot; Qu'est'ce qué t'as ? J' t'ai vindu des pos qui n'ont pas volu cuire ? &quot; dit-on à quelqu'un qui vous fait grise mine. &quot; In jett'rot un vassiau d'</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>pois. </dfEntière><Trad><CandidatTraduction>pois</CandidatTraduction><Traduction>pois</Traduction></Trad><Trad><CandidatTraduction></CandidatTraduction></Trad></df><df><dfEntière>dit-on à quelqu'un qui vous fait grise mine. </dfEntière><Trad><CandidatTraduction>dit-on à quelqu'un qui vous fait grise mine</CandidatTraduction></Trad><Trad><CandidatTraduction></CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Ch'est un pos pour eun' fèf (fève) &quot; (JQ) = c'est un prêté pour un rendu. </ExemplePicard><ExemplePicard id="2">&quot; J'ter les pos avant les coulons &quot; = sonder le terrain. </ExemplePicard><ExemplePicard id="3">&quot; Qu'est'ce qué t'as ? J' t'ai vindu des pos qui n'ont pas volu cuire ? &quot; </ExemplePicard></Exemples><Ancien/></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>Pos d' chuque </Vocable>
+        <Vocable>Pos d' chuque</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: dragée. &quot; Nous jett'rons des pod'chuq' et pis tout d' sorte dé bon &quot; (AD). A la sortie d'un baptême, les enfants rassemblés criaient, afin qu'on leur lance des dragées : &quot; Pos d' chuque, parrain, / Pos d' chuque, marraine, / L'infant i va morir &quot; ; après avoir reçu les dragées, ils changeaient le dernier vers : &quot; L'infant i n' morra point &quot; rapporté par PP).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: dragée. </dfEntière><Trad><CandidatTraduction>dragée</CandidatTraduction><Traduction>dragée</Traduction></Trad><Trad><CandidatTraduction></CandidatTraduction></Trad></df><df><dfEntière>A la sortie d'un baptême, les enfants rassemblés criaient, afin qu'on leur lance des dragées : </dfEntière><Trad><CandidatTraduction>A la sortie d'un baptême</CandidatTraduction></Trad><Trad><CandidatTraduction>les enfants rassemblés criaient</CandidatTraduction></Trad><Trad><CandidatTraduction>afin qu'on leur lance des dragées :</CandidatTraduction></Trad></df><df><dfEntière>après avoir reçu les dragées, ils changeaient le dernier vers : </dfEntière><Trad><CandidatTraduction>après avoir reçu les dragées</CandidatTraduction></Trad><Trad><CandidatTraduction>ils changeaient le dernier vers :</CandidatTraduction></Trad></df><df><dfEntière>rapporté par PP).</dfEntière><Trad><CandidatTraduction>rapporté par PP)</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Nous jett'rons des pod'chuq' et pis tout d' sorte dé bon &quot; (AD). </ExemplePicard><ExemplePicard id="2">&quot; Pos d' chuque, parrain, / Pos d' chuque, marraine, / L'infant i va morir &quot; ; </ExemplePicard><ExemplePicard id="3">&quot; L'infant i n' morra point &quot; </ExemplePicard></Exemples><Ancien/></DéfinitionDétaillée></Définition>
@@ -1641,12 +1641,12 @@
         <Définition><DéfinitionEntiere>poste (dans ses divers sens). Faire les posses : travailler en continu, suivant la formule des </DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>poste (dans ses divers sens). Faire les posses : travailler en continu, suivant la formule des </dfEntière><Trad><CandidatTraduction>poste (dans ses divers sens)</CandidatTraduction></Trad><Trad><CandidatTraduction>Faire les posses : travailler en continu</CandidatTraduction></Trad><Trad><CandidatTraduction>suivant la formule des</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>POST(E)RIE </Vocable>
+        <Vocable>POST(E)RIE</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>(GH), s. f. : jadis, poste aux chevaux.</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>(GH), s. f. : jadis, poste aux chevaux.</dfEntière><Trad><CandidatTraduction>(GH)</CandidatTraduction></Trad><Trad><CandidatTraduction>s</CandidatTraduction></Trad><Trad><CandidatTraduction>f</CandidatTraduction></Trad><Trad><CandidatTraduction>: jadis</CandidatTraduction></Trad><Trad><CandidatTraduction>poste aux chevaux</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>* POSTULER (RD) </Vocable>
+        <Vocable>* POSTULER (RD)</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: demander avec insistance. &quot; Ch'est Flavie qu'al m'a postulé pou mette ein route &quot;. ANC. : postuler : demander (XIIIe) du lat. postulare, m. sens. (Le rouchi d'Onnaing a gardé le sens latin alors que le fr. mod. s'en tient au sens : postuler un emploi).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: demander avec insistance. </dfEntière><Trad><CandidatTraduction>demander avec insistance</CandidatTraduction></Trad><Trad><CandidatTraduction></CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Ch'est Flavie qu'al m'a postulé pou mette ein route &quot;. </ExemplePicard></Exemples><Ancien>ANC. : postuler : demander (XIIIe) du lat. postulare, m. sens. (Le rouchi d'Onnaing a gardé le sens latin alors que le fr. mod. s'en tient au sens : postuler un emploi).</Ancien></DéfinitionDétaillée></Définition>
@@ -1676,12 +1676,12 @@
         <Définition><DéfinitionEntiere>anc. mesure de capacité valant un quart de pinte.</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>anc. mesure de capacité valant un quart de pinte.</dfEntière><Trad><CandidatTraduction>anc</CandidatTraduction></Trad><Trad><CandidatTraduction>mesure de capacité valant un quart de pinte</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>POTIA (phon. </Vocable>
+        <Vocable>POTIA (phon.</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: pôtcha), s. m. : fond d'un puits en cours de creusement (AL).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: pôtcha), s. m. : fond d'un puits en cours de creusement (AL).</dfEntière><Trad><CandidatTraduction>pôtcha)</CandidatTraduction></Trad><Trad><CandidatTraduction>s</CandidatTraduction></Trad><Trad><CandidatTraduction>m</CandidatTraduction></Trad><Trad><CandidatTraduction>: fond d'un puits en cours de creusement (AL)</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>POTIAU (phon. </Vocable>
+        <Vocable>POTIAU (phon.</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: pôtchô), s. m. : </DéfinitionEntiere><DéfinitionEntiere>1 - poteau. &quot; On in vot qui z'ont des bras comm' d' vrais potiaux &quot; (JQ). </DéfinitionEntiere><DéfinitionEntiere>2 - trou (au jeu de billes) (voir : mape).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: pôtchô), s. m. : </dfEntière><Trad><CandidatTraduction>pôtchô)</CandidatTraduction></Trad><Trad><CandidatTraduction>s</CandidatTraduction></Trad><Trad><CandidatTraduction>m</CandidatTraduction></Trad><Trad><CandidatTraduction>:</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/><DéfinitionFrançaise><df><dfEntière>1 - poteau. </dfEntière><Trad><CandidatTraduction>1 - poteau</CandidatTraduction></Trad><Trad><CandidatTraduction></CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; On in vot qui z'ont des bras comm' d' vrais potiaux &quot; (JQ). </ExemplePicard></Exemples><Ancien/><DéfinitionFrançaise><df><dfEntière>2 - trou (au jeu de billes) (voir : mape).</dfEntière><Trad><CandidatTraduction>2 - trou (au jeu de billes) (voir : mape)</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
@@ -1716,7 +1716,7 @@
         <Définition><DéfinitionEntiere>pauvre. &quot; Ein prête pus facilemint dix millions à un riche qué deux cheint mille francs à ein poufe &quot; (RD). GF écrit : pouffe.</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>pauvre. </dfEntière><Trad><CandidatTraduction>pauvre</CandidatTraduction><Traduction>pauvre</Traduction></Trad><Trad><CandidatTraduction></CandidatTraduction></Trad></df><df><dfEntière>GF écrit : pouffe.</dfEntière><Trad><CandidatTraduction>GF écrit : pouffe</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Ein prête pus facilemint dix millions à un riche qué deux cheint mille francs à ein poufe &quot; (RD). </ExemplePicard></Exemples><Ancien/></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>POUGNET </Vocable>
+        <Vocable>POUGNET</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: (voir : pognet).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: (voir : pognet).</dfEntière><Trad><CandidatTraduction>(voir : pognet)</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
@@ -1751,7 +1751,7 @@
         <Définition><DéfinitionEntiere>ensemble des poules de la basse-cour. ANC. : poleterie (1280) (Gr.) ; pouleterie (poulaille) (God.).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>ensemble des poules de la basse-cour. </dfEntière><Trad><CandidatTraduction>ensemble des poules de la basse-cour</CandidatTraduction></Trad><Trad><CandidatTraduction></CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien>ANC. : poleterie (1280) (Gr.) ; pouleterie (poulaille) (God.).</Ancien></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>POUILLÈRE </Vocable>
+        <Vocable>POUILLÈRE</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: (voir : pou).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: (voir : pou).</dfEntière><Trad><CandidatTraduction>(voir : pou)</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
@@ -1771,7 +1771,7 @@
         <Définition><DéfinitionEntiere>thym (Wallers).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>thym (Wallers).</dfEntière><Trad><CandidatTraduction>thym (Wallers)</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>POUPART </Vocable>
+        <Vocable>POUPART</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: (voir : papar).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: (voir : papar).</dfEntière><Trad><CandidatTraduction>(voir : papar)</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
@@ -1791,7 +1791,7 @@
         <Définition><DéfinitionEntiere>1 - porc, pourceau. &quot; In n'ingraisse pas les pourcheaux à l'iau claire &quot; = il ne faut pas être trop délicat sur le choix des moyens. &quot; Chu qu'in donne à un pourcheau, in l'artrouve au salo &quot;. &quot; Dé l' tisaine ed jus d' mélasse / Qu'all' nomm'</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>1 - porc, pourceau. </dfEntière><Trad><CandidatTraduction>1 - porc</CandidatTraduction></Trad><Trad><CandidatTraduction>pourceau</CandidatTraduction><Traduction>pourceau</Traduction></Trad><Trad><CandidatTraduction></CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; In n'ingraisse pas les pourcheaux à l'iau claire &quot; = il ne faut pas être trop délicat sur le choix des moyens. </ExemplePicard><ExemplePicard id="2">&quot; Chu qu'in donne à un pourcheau, in l'artrouve au salo &quot;. </ExemplePicard></Exemples><Ancien/></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>Pourcheau-singler </Vocable>
+        <Vocable>Pourcheau-singler</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: sanglier (voir : chingler).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: sanglier (voir : chingler).</dfEntière><Trad><CandidatTraduction>sanglier (voir : chingler)</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
@@ -1806,7 +1806,7 @@
         <Définition><DéfinitionEntiere>porcherie. &quot; Au pourchil un goret s' démuche &quot; (GF). &quot; Les saligauds, i l'ont arringée (la maison) comme un pourchi &quot; (BD). (Voir: ring.)</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>porcherie. </dfEntière><Trad><CandidatTraduction>porcherie</CandidatTraduction><Traduction>porcherie</Traduction></Trad><Trad><CandidatTraduction></CandidatTraduction></Trad></df><df><dfEntière>Voir: ring.)</dfEntière><Trad><CandidatTraduction>Voir: ring.)</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Au pourchil un goret s' démuche &quot; (GF). </ExemplePicard><ExemplePicard id="2">&quot; Les saligauds, i l'ont arringée (la maison) comme un pourchi &quot; (BD). (</ExemplePicard></Exemples><Ancien/></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>POURE </Vocable>
+        <Vocable>POURE</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: (voir : pourre).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: (voir : pourre).</dfEntière><Trad><CandidatTraduction>(voir : pourre)</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
@@ -1876,7 +1876,7 @@
         <Définition><DéfinitionEntiere>sorte de binette à lame en forme de rectangle étroit et que l'on utilise en poussant (à l'inverse de la rasette que l'on tire) (GD).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>sorte de binette à lame en forme de rectangle étroit et que l'on utilise en poussant (à l'inverse de la rasette que l'on tire) (GD).</dfEntière><Trad><CandidatTraduction>sorte de binette à lame en forme de rectangle étroit et que l'on utilise en poussant (à l'inverse de la rasette que l'on tire) (GD)</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>POUTERNER (GH) </Vocable>
+        <Vocable>POUTERNER (GH)</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: pouliner, mettre bas (pour une jument).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: pouliner, mettre bas (pour une jument).</dfEntière><Trad><CandidatTraduction>pouliner</CandidatTraduction><Traduction>pouliner</Traduction></Trad><Trad><CandidatTraduction>mettre bas (pour une jument)</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
@@ -1901,7 +1901,7 @@
         <Définition><DéfinitionEntiere>sieste après le repas de midi (signalé par Emric).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>sieste après le repas de midi (signalé par Emric).</dfEntière><Trad><CandidatTraduction>sieste après le repas de midi (signalé par Emric)</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>PRANNE </Vocable>
+        <Vocable>PRANNE</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: (voir : pronne).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: (voir : pronne).</dfEntière><Trad><CandidatTraduction>(voir : pronne)</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
@@ -2076,7 +2076,7 @@
         <Définition><DéfinitionEntiere>provigner, bouturer, marcotter.</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>provigner, bouturer, marcotter.</dfEntière><Trad><CandidatTraduction>provigner</CandidatTraduction><Traduction>provigner</Traduction></Trad><Trad><CandidatTraduction>bouturer</CandidatTraduction><Traduction>bouturer</Traduction></Trad><Trad><CandidatTraduction>marcotter</CandidatTraduction><Traduction>marcotter</Traduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>PRUMIER ; (voir </Vocable>
+        <Vocable>PRUMIER ; (voir</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: premier).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: premier).</dfEntière><Trad><CandidatTraduction>premier)</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
@@ -2086,12 +2086,12 @@
         <Définition><DéfinitionEntiere>la guerre de 1870 est sans doute à l'orig. d'une sémantique qui ne doit pas être propre au rouchi. &quot; Acore un qu' les Prussiens i n'aront point ! &quot; (GLec), dit-on à la fin d'un repas en se levant de table (variante postérieure :</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>la guerre de 1870 est sans doute à l'orig. d'une sémantique qui ne doit pas être propre au rouchi. </dfEntière><Trad><CandidatTraduction>la guerre de 1870 est sans doute à l'orig</CandidatTraduction></Trad><Trad><CandidatTraduction>d'une sémantique qui ne doit pas être propre au rouchi</CandidatTraduction></Trad><Trad><CandidatTraduction></CandidatTraduction></Trad></df><df><dfEntière>dit-on à la fin d'un repas en se levant de table (variante postérieure :</dfEntière><Trad><CandidatTraduction>dit-on à la fin d'un repas en se levant de table (variante postérieure</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Acore un qu' les Prussiens i n'aront point ! &quot; (GLec), </ExemplePicard></Exemples><Ancien/></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>P'TIOT </Vocable>
+        <Vocable>P'TIOT</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: (voir : pétiot).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: (voir : pétiot).</dfEntière><Trad><CandidatTraduction>(voir : pétiot)</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>P'TIT Z'A P'TIT (pron. mtizamti) </Vocable>
+        <Vocable>P'TIT Z'A P'TIT (pron. mtizamti)</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: peu à peu. &quot; P'tit z'à p'tit, tout cha va dévaler au premier cop d' baguette &quot; (JQ).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: peu à peu. </dfEntière><Trad><CandidatTraduction>peu à peu</CandidatTraduction><Traduction>peu à peu</Traduction></Trad><Trad><CandidatTraduction></CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; P'tit z'à p'tit, tout cha va dévaler au premier cop d' baguette &quot; (JQ).</ExemplePicard></Exemples><Ancien/></DéfinitionDétaillée></Définition>
@@ -2136,7 +2136,7 @@
         <Définition><DéfinitionEntiere>Les Puchots : jadis, compagnie de jeunes gens formée par les maraîchers de Valenciennes et des faubourgs pour la protection de la châsse de N.D. du Saint Cordon. ANC. : Peut-être de puche (= puy), société culturelle, au Moyen Age, placée sous la protection de Notre-Dame ?</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>Les Puchots : jadis, compagnie de jeunes gens formée par les maraîchers de Valenciennes et des faubourgs pour la protection de la châsse de N.D. du Saint Cordon. </dfEntière><Trad><CandidatTraduction>Les Puchots : jadis</CandidatTraduction></Trad><Trad><CandidatTraduction>compagnie de jeunes gens formée par les maraîchers de Valenciennes et des faubourgs pour la protection de la châsse de N</CandidatTraduction></Trad><Trad><CandidatTraduction>D</CandidatTraduction></Trad><Trad><CandidatTraduction>du Saint Cordon</CandidatTraduction></Trad><Trad><CandidatTraduction></CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien>ANC. : Peut-être de puche (= puy), société culturelle, au Moyen Age, placée sous la protection de Notre-Dame ?</Ancien></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>PUÈFE </Vocable>
+        <Vocable>PUÈFE</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: (voir : pleuve).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: (voir : pleuve).</dfEntière><Trad><CandidatTraduction>(voir : pleuve)</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
@@ -2171,7 +2171,7 @@
         <Définition><DéfinitionEntiere>plupart. &quot; L' pupart d'intre eux i s' sont fait décorer &quot; (JM).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>plupart. </dfEntière><Trad><CandidatTraduction>plupart</CandidatTraduction><Traduction>plupart</Traduction></Trad><Trad><CandidatTraduction></CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; L' pupart d'intre eux i s' sont fait décorer &quot; (JM).</ExemplePicard></Exemples><Ancien/></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>PUR </Vocable>
+        <Vocable>PUR</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: (voir : pu).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: (voir : pu).</dfEntière><Trad><CandidatTraduction>(voir : pu)</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
@@ -2186,7 +2186,7 @@
         <Définition><DéfinitionEntiere>déform. de pleurésie.</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>déform. de pleurésie.</dfEntière><Trad><CandidatTraduction>déform</CandidatTraduction></Trad><Trad><CandidatTraduction>de pleurésie</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>
       </Entrée><Entrée>
-        <Vocable>PURETTE </Vocable>
+        <Vocable>PURETTE</Vocable>
         <CatégorieGrammaticale/>
         <Définition><DéfinitionEntiere>: (voir: pu).</DéfinitionEntiere>
           <DéfinitionDétaillée><DéfinitionFrançaise><df><dfEntière>: (voir: pu).</dfEntière><Trad><CandidatTraduction>(voir: pu)</CandidatTraduction></Trad></df></DéfinitionFrançaise><Exemples/><Ancien/></DéfinitionDétaillée></Définition>

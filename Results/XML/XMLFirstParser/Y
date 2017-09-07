@@ -1,14 +1,49 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Nomenclature>
-          <Entrée>
-        <Vocable>Y </Vocable>
-        <CatégorieGrammaticale></CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>: on trouve, chez certains patoisants, la graphie y pour i : il, pr. pers. suj., ou lui, pr. pers. compl.</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">: on trouve, chez certains patoisants, la graphie y pour i : il, pr. pers. suj., ou lui, pr. pers. compl.</df></DéfinitionFrançaise><Exemples></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée><Entrée>
-        <Vocable>YEUX (phon. zieu)</Vocable>
-        <CatégorieGrammaticale>s. m. pl.</CatégorieGrammaticale>
-        <Définition><DéfinitionEntiere>&quot; Des-yeux bleus, / Té verras l' Bon Dieu. / Des-yeux gris, / T'iras au Paradis. / Des-yeux noirs, / T'iras au Purgatoire. / Des-yeux verts, / T'iras in Infer &quot; (comptine). Des yeux gadous : des yeux langoureux. Expr. notées par GH : &quot; Il a des yeux comme des poches d' voleur &quot; ou &quot; des</DéfinitionEntiere>
-          <DéfinitionDétaillée><DéfinitionFrançaise><df id="1">Des yeux gadous : des yeux langoureux. Expr. notées par GH : </df><df id="2">ou </df></DéfinitionFrançaise><Exemples><ExemplePicard id="1">&quot; Il a des yeux comme des poches d' voleur &quot; </ExemplePicard><ExemplePicard id="2">&quot; Des-yeux bleus, / Té verras l' Bon Dieu. / Des-yeux gris, / T'iras au Paradis. / Des-yeux noirs, / T'iras au Purgatoire. / Des-yeux verts, / T'iras in Infer &quot; (comptine). </ExemplePicard></Exemples><Ancien></Ancien></DéfinitionDétaillée></Définition>
-      </Entrée>
-        </Nomenclature>
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+  <entry>
+    <form>
+      <orth>Y</orth>
+    </form>
+    <gramGrp>
+      <pos></pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        : on trouve, chez certains patoisants, la graphie y pour i : il, pr. pers. suj., ou lui, pr. pers. compl.
+      </quote>
+    </def>
+    <def label="française">
+      <quote>
+        : on trouve, chez certains patoisants, la graphie y pour i : il, pr. pers. suj., ou lui, pr. pers. compl.
+      </quote>
+    </def>
+    <etym></etym>
+  </entry>
+  <entry>
+    <form>
+      <orth>YEUX (phon. zieu)</orth>
+    </form>
+    <gramGrp>
+      <pos>s. m. pl.</pos>
+    </gramGrp>
+    <def label="verbatim">
+      <quote>
+        &quot; Des-yeux bleus, / Té verras l' Bon Dieu. / Des-yeux gris, / T'iras au Paradis. / Des-yeux noirs, / T'iras au Purgatoire. / Des-yeux verts, / T'iras in Infer &quot; (comptine). Des yeux gadous : des yeux langoureux. Expr. notées par GH : &quot; Il a des yeux comme des poches d' voleur &quot; ou &quot; des
+      </quote>
+    </def>
+    <def label="française">
+      <quote>Des yeux gadous : des yeux langoureux. Expr. notées par GH : </quote>
+    </def>
+    <def label="française">
+      <quote>ou </quote>
+    </def>
+    <cit type="example" xml:lang="pcd">
+      <quote>&quot; Il a des yeux comme des poches d' voleur &quot; </quote>
+    </cit>
+    <cit type="example" xml:lang="pcd">
+      <quote>
+        &quot; Des-yeux bleus, / Té verras l' Bon Dieu. / Des-yeux gris, / T'iras au Paradis. / Des-yeux noirs, / T'iras au Purgatoire. / Des-yeux verts, / T'iras in Infer &quot; (comptine).
+      </quote>
+    </cit>
+    <etym></etym>
+  </entry>
+</TEI>

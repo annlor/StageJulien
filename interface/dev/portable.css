@@ -1,0 +1,205 @@
+/* 
+    Document   : rwd
+    Created on : 7 mai 2015, 10:43:10
+    Author     : zabeth
+    Description:
+       Adapter la page aux mobiles
+*/
+
+root { 
+    display: block;
+}
+
+html {
+    margin: 0;
+    padding: 0;    
+}
+
+body { 
+    background-repeat: no-repeat;
+    background-position:right top;
+    font: Open Sans, sans-serif;
+    line-height: 2;
+    background-color: #FFFFFF;
+    color: #333; 
+    margin: 0; 
+    padding-left: 1%;
+    padding-right: 1%;
+    position: relative;
+}
+
+.bandeau_haut {
+    display:block;
+    height: 60px;
+    box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.05);
+    background: #FFF none repeat scroll 0% 0%;
+   
+}
+
+.bandeau_haut img {
+    width: 50px;
+}
+
+nav, 
+section, 
+article, 
+aside, 
+footer {
+    display: block
+}
+
+header {
+  color: #FFFFFF;
+    font-size: 16pt;
+    font-weight: bold;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+article {
+     background-color: #FFFFFF;
+    padding: 0px 0px 20px 0px;
+    background-repeat: repeat;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 5pt;
+        border-bottom-style: solid;
+    border-bottom-color: #F39200;
+}
+
+article header {
+    text-decoration: none;
+    background-color: #EEE;
+    border-radius: 2px;
+    position: relative;
+    display: block;
+    padding: 1px 15px;
+    color: #337AB7;
+    box-sizing: border-box;
+    line-height: 24px;
+    font-size: 14px;
+}
+
+article a {
+    color: #428BCA;
+    text-decoration: none;
+    background-color: #FFFFFF;
+}
+
+article a:hover{
+    outline: thin dotted;
+    color: #FFF;
+    background-color: #428BCA;
+}
+
+article p {
+    max-width: 600px;
+    padding-left: auto;
+    padding-right: auto;
+}
+
+footer {
+    font: cursive;
+    color: #333;
+    background-color: #F5F5F5;
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+
+h3 {
+    padding-left : 1pt;
+    margin-top: 10pt;
+    font-size: 11pt;
+    color: #337AB7;
+}
+
+h2 {
+    padding-left : 1pt;
+    margin-top: 10pt;
+    padding-bottom: 0pt;
+    padding-top: 0pt;
+    font-size: 12pt;
+    font-weight: bold;
+    color: #337AB7;
+
+
+}
+
+h1 {
+    font: cursive;
+    color: #CCCCCC;
+    background-image: linear-gradient(to right, #42437D 0%, #20E4FE 130%);
+    font-size: 16pt;
+    font-weight: bold;
+    text-shadow: 2px 2px 2px #000000;
+    padding: 1px;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: #0000AA;
+    color: lightgray;
+}
+
+.context {
+    margin-top: 0px;
+    display: block;
+    color: lightgray;
+    background-color: black;
+    font-size: 10pt;
+    padding: 2pt 5pt 2pt 5pt;
+}
+
+.context a {
+    color: #F0E0E0;
+    text-decoration: none;
+    font-size: 12pt;
+    font-weight: 500;
+    background-color: #2076BD;
+    border-radius: 5px;
+    padding: 2pt;
+    border-color: #0000AA;
+}
+
+
+img {
+    margin-left : 5px;
+    max-width: 300px;
+}
+
+
+.photo {
+
+    padding: 5px;
+    float: right;
+}
+
+#coin-slider {
+    margin-left:100px;
+}
+
+.droite { border: 0; 
+          max-width: 600px;
+          float: right;}
+
+
+.cmd {
+    padding:2pt;
+    margin: 2px;
+    font-family: monospace;
+    font-size: 10pt;
+    color: #00FF00;
+    border-bottom : 1pt solid #F0E0E0;
+    border-top : 1pt solid #F0E0E0;
+    border-right : 1pt solid #F0E0E0;
+    border-left : 1pt solid #F0E0E0;
+    background-color: black;
+    max-width: 400px ;
+}

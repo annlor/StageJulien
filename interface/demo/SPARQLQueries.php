@@ -59,24 +59,24 @@ WHERE {
  
   OPTIONAL {
           restaure:LexiqueDebrie LIME:entry ?y.
-    restaure:LexiqueDebrie restaure:Coordinate ?coordinateValenciennes.
-      restaure:xValenciennes ontolex:writtenRep ?CoordinateWR.
-    ?coordinateValenciennes restaure:xValenciennes ?xcoord.
-    ?coordinateValenciennes restaure:yValenciennes ?ycoord.
+    restaure:LexiqueDebrie restaure:Coordinate ?coordinateAmiens.
+      restaure:xAmiens ontolex:writtenRep ?CoordinateWR.
+    ?coordinateAmiens restaure:xAmiens ?xcoord.
+    ?coordinateAmiens restaure:yAmiens ?ycoord.
   }
   OPTIONAL {
 {
       restaure:LexiqueDaubyRouchiFra LIME:entry ?y.
-  	restaure:LexiqueDaubyRouchiFra restaure:Coordinate ?cAmiens.
+  	restaure:LexiqueDaubyRouchiFra restaure:Coordinate ?cValenciennes.
 }
 UNION
 {
       restaure:LexiqueDaubyRouchiPicard LIME:entry ?y.
-  	restaure:LexiqueDaubyRouchiPicard restaure:Coordinate ?cAmiens.
+  	restaure:LexiqueDaubyRouchiPicard restaure:Coordinate ?cValenciennes.
 }
-     restaure:xAmiens ontolex:writtenRep ?CoordinateWR.
-    ?cAmiens restaure:xAmiens ?xcoord.
-    ?cAmiens restaure:yAmiens ?ycoord.
+     restaure:xValenciennes ontolex:writtenRep ?CoordinateWR.
+    ?cValenciennes restaure:xValenciennes ?xcoord.
+    ?cValenciennes restaure:yValenciennes ?ycoord.
   }
 
 }";
@@ -141,22 +141,22 @@ WHERE {
     ?z5 ontolex:writtenRep ?ANC.
   OPTIONAL {
           restaure:LexiqueDebrie LIME:entry ?le.
-    restaure:LexiqueDebrie restaure:Coordinate ?coordinateValenciennes.
-      restaure:xValenciennes ontolex:writtenRep ?CoordinateWR.
-    ?coordinateValenciennes restaure:xValenciennes ?xcoord.
-    ?coordinateValenciennes restaure:yValenciennes ?ycoord.
+    restaure:LexiqueDebrie restaure:Coordinate ?coordinateAmiens.
+      restaure:xAmiens ontolex:writtenRep ?CoordinateWR.
+    ?coordinateAmiens restaure:xAmiens ?xcoord.
+    ?coordinateAmiens restaure:yAmiens ?ycoord.
   }
   OPTIONAL {
 {
-  	restaure:LexiqueDaubyRouchiFra restaure:Coordinate ?cAmiens.
+  	restaure:LexiqueDaubyRouchiFra restaure:Coordinate ?cValenciennes.
 }
 UNION
 {
-  	restaure:LexiqueDaubyRouchiPicard restaure:Coordinate ?cAmiens.
+  	restaure:LexiqueDaubyRouchiPicard restaure:Coordinate ?cValenciennes.
 }
-     restaure:xAmiens ontolex:writtenRep ?CoordinateWR.
-    ?cAmiens restaure:xAmiens ?xcoord.
-    ?cAmiens restaure:yAmiens ?ycoord.
+     restaure:xValenciennes ontolex:writtenRep ?CoordinateWR.
+    ?cAmiens restaure:xValenciennes ?xcoord.
+    ?cAmiens restaure:yValenciennes ?ycoord.
   }
 }
 
@@ -223,24 +223,24 @@ WHERE {
    ?le2 restaure:TranslatableAsForm ?z3.
       ?z3 ontolex:writtenRep ?wrForm.
   OPTIONAL {
-    restaure:LexiqueDebrie restaure:Coordinate ?coordinateValenciennes.
-      restaure:xValenciennes ontolex:writtenRep ?CoordinateWR.
-    ?coordinateValenciennes restaure:xValenciennes ?xcoord.
-    ?coordinateValenciennes restaure:yValenciennes ?ycoord.
+    restaure:LexiqueDebrie restaure:Coordinate ?coordinateAmiens.
+      restaure:xAmiensontolex:writtenRep ?CoordinateWR.
+    ?coordinateAmiens restaure:xAmiens ?xcoord.
+    ?coordinateAmiens restaure:yAmiens ?ycoord.
   }
   OPTIONAL {
 {
       restaure:LexiqueDaubyRouchiFra LIME:entry ?le.
-  	restaure:LexiqueDaubyRouchiFra restaure:Coordinate ?cAmiens.
+  	restaure:LexiqueDaubyRouchiFra restaure:Coordinate ?cValenciennes.
 }
 UNION
 {
       restaure:LexiqueDaubyRouchiPicard LIME:entry ?le.
-  	restaure:LexiqueDaubyRouchiPicard restaure:Coordinate ?cAmiens.
+  	restaure:LexiqueDaubyRouchiPicard restaure:Coordinate ?cValenciennes.
 }
-     restaure:xAmiens ontolex:writtenRep ?CoordinateWR.
-    ?cAmiens restaure:xAmiens ?xcoord.
-    ?cAmiens restaure:yAmiens ?ycoord.
+     restaure:xValenciennes ontolex:writtenRep ?CoordinateWR.
+    ?cValenciennes restaure:xValenciennes ?xcoord.
+    ?cValenciennes restaure:yValenciennes ?ycoord.
   }
 
 }
@@ -257,9 +257,36 @@ foreach($dataLinks2 as $row){
 	$dataCoordy[$row[CoordinateWR]] = $row[ycoord]; 
 }
 
+$querySources = "PREFIX ontolex: <http://www.w3.org/ns/lemon/ontolex#>
+PREFIX restaure: <http://restaure.limsi.fr/2017/rdf#>
+PREFIX lexinfo: <http://lexinfo.net/ontology/2.0/lexinfo#>
+PREFIX LIME: <http://www.w3.org/ns/lemon/lime#>
+
+
+SELECT ?wrLexiqueName ?wrAuthor ?wrDirection
+WHERE {
+	?le ontolex:lexicalForm ?lf.
+  ?lf ontolex:writtenRep \"$output\".
+
+  ?lex  LIME:entry ?le.
+   ?lex restaure:lexiconNameWrittenRep ?wrLexiqueName.
+  ?lex restaure:lexiconAuthorWrittenRep ?wrAuthor.
+  ?lex restaure:lexiconDirectionWrittenRep ?wrDirection
+  
+}";
+/* execute the query */
+ $rowsSources = $store->query($querySources, 'rows'); 
+
+foreach($rowsSources as $row){
+	$dataSources[] = $row;
+}
+echo $dataSources['wrLexiqueName'];
+
 
 
 $wrTraductionFrancaisekeys = array_combine($wrTraductionFrancaise,$CoordinateWR);
+$wrDefkeys = array_combine($wrDef,$CoordinateWR);
+unset($wrDefkeys[null]);
 unset($wrTraductionFrancaisekeys[null]);
 $xcoordkeys = array_combine($CoordinateWR,$xcoord);
 $ycoordkeys = array_combine($CoordinateWR,$ycoord);

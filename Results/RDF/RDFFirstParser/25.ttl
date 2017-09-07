@@ -1,25 +1,19 @@
 @prefix restaure: <http://restaure.limsi.fr/2017/rdf#> .
-@prefix vartrans: <https://www.w3.org/ns/lemon/vartrans#> .
 @prefix lime:  <http://www.w3.org/ns/lemon/lime#> .
 @prefix ontolex: <http://www.w3.org/ns/lemon/ontolex#> .
 @prefix lexinfo: <http://lexinfo.net/ontology/2.0/lexinfo#> .
 
-<http://restaure.limsi.fr/2017/rdf#:%20on%20trouve,%20chez%20certains%20patoisants,%20la%20graphie%20y%20pour%20i%20:%20il,%20pr.%20pers.%20suj.,%20ou%20lui,%20pr.%20pers.%20compl.>
-        ontolex:writtenRep  ": on trouve, chez certains patoisants, la graphie y pour i : il, pr. pers. suj., ou lui, pr. pers. compl." .
-
-restaure:yAmiens  ontolex:writtenRep  "Amiens"@fra .
-
 restaure:le25PicardVersFrançais_1
-        a                              ontolex:LexicalEntry ;
-        lexinfo:gender                 lexinfo:Masculine ;
-        lexinfo:partOfSpeech           lexinfo:Noun ;
-        restaure:ExampleInPicard       <http://restaure.limsi.fr/2017/rdf#%22%20Il%20a%20des%20yeux%20comme%20des%20poches%20d'%20voleur%20%22%20> , <http://restaure.limsi.fr/2017/rdf#%22%20Des-yeux%20bleus,%20/%20T%C3%A9%20verras%20l'%20Bon%20Dieu.%20/%20Des-yeux%20gris,%20/%20T'iras%20au%20Paradis.%20/%20Des-yeux%20noirs,%20/%20T'iras%20au%20Purgatoire.%20/%20Des-yeux%20verts,%20/%20T'iras%20in%20Infer%20%22%20(comptine).%20> ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#%22%20Des-yeux%20bleus,%20/%20T%C3%A9%20verras%20l'%20Bon%20Dieu.%20/%20Des-yeux%20gris,%20/%20T'iras%20au%20Paradis.%20/%20Des-yeux%20noirs,%20/%20T'iras%20au%20Purgatoire.%20/%20Des-yeux%20verts,%20/%20T'iras%20in%20Infer%20%22%20(comptine).%20Des%20yeux%20gadous%20:%20des%20yeux%20langoureux.%20Expr.%20not%C3%A9es%20par%20GH%20:%20%22%20Il%20a%20des%20yeux%20comme%20des%20poches%20d'%20voleur%20%22%20ou%20%22%20des> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#ou%20> , <http://restaure.limsi.fr/2017/rdf#Des%20yeux%20gadous%20:%20des%20yeux%20langoureux.%20Expr.%20not%C3%A9es%20par%20GH%20:%20> ;
-        restaure:TranslatableInFrenchOneWord
-                restaure:Traductionou ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_YEUX%20(phon.%20zieu)> .
+        a                        ontolex:LexicalEntry ;
+        lexinfo:gender           lexinfo:Masculine ;
+        lexinfo:partOfSpeech     lexinfo:Noun ;
+        restaure:etymology       restaure: ;
+        restaure:hasExample      <http://restaure.limsi.fr/2017/rdf#%22%20Il%20a%20des%20yeux%20comme%20des%20poches%20d'%20voleur%20%22%20> , <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Des-yeux%20bleus,%20/%20T%C3%A9%20verras%20l'%20Bon%20Dieu.%20/%20Des-yeux%20gris,%20/%20T'iras%20au%20Paradis.%20/%20Des-yeux%20noirs,%20/%20T'iras%20au%20Purgatoire.%20/%20Des-yeux%20verts,%20/%20T'iras%20in%20Infer%20%22%20(comptine).%0A%20%20%20%20%20%20> ;
+        restaure:translatableAs  restaure:Traductionou , restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Des-yeux%20bleus,%20/%20T%C3%A9%20verras%20l'%20Bon%20Dieu.%20/%20Des-yeux%20gris,%20/%20T'iras%20au%20Paradis.%20/%20Des-yeux%20noirs,%20/%20T'iras%20au%20Purgatoire.%20/%20Des-yeux%20verts,%20/%20T'iras%20in%20Infer%20%22%20(comptine).%20Des%20yeux%20gadous%20:%20des%20yeux%20langoureux.%20Expr.%20not%C3%A9es%20par%20GH%20:%20%22%20Il%20a%20des%20yeux%20comme%20des%20poches%20d'%20voleur%20%22%20ou%20%22%20des%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#ou%20> , <http://restaure.limsi.fr/2017/rdf#Des%20yeux%20gadous%20:%20des%20yeux%20langoureux.%20Expr.%20not%C3%A9es%20par%20GH%20:%20> ;
+        ontolex:lexicalForm      <http://restaure.limsi.fr/2017/rdf#lf_YEUX%20(phon.%20zieu)> .
 
 <http://restaure.limsi.fr/2017/rdf#Des%20yeux%20gadous%20:%20des%20yeux%20langoureux.%20Expr.%20not%C3%A9es%20par%20GH%20:%20>
         ontolex:writtenRep  "Des yeux gadous : des yeux langoureux. Expr. notées par GH : " .
@@ -32,21 +26,37 @@ restaure:Traductionpers
         a                   ontolex:Form ;
         ontolex:writtenRep  "yeux (phon. zieu)" .
 
-restaure:coordinate  restaure:xAmiens  "49.895"^^<http://www.w3.org/2001/XMLSchema#double> ;
-        restaure:yAmiens  "2.3022"^^<http://www.w3.org/2001/XMLSchema#double> .
+restaure:coordinate  restaure:xValenciennes
+                "50.35"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        restaure:yValenciennes  "3.53333"^^<http://www.w3.org/2001/XMLSchema#double> .
 
 restaure:le25PicardVersFrançais_0
-        a                              ontolex:LexicalEntry ;
-        restaure:TranslatableAsDef     <http://restaure.limsi.fr/2017/rdf#:%20on%20trouve,%20chez%20certains%20patoisants,%20la%20graphie%20y%20pour%20i%20:%20il,%20pr.%20pers.%20suj.,%20ou%20lui,%20pr.%20pers.%20compl.> ;
-        restaure:TranslatableInFrench  <http://restaure.limsi.fr/2017/rdf#:%20on%20trouve,%20chez%20certains%20patoisants,%20la%20graphie%20y%20pour%20i%20:%20il,%20pr.%20pers.%20suj.,%20ou%20lui,%20pr.%20pers.%20compl.> ;
-        restaure:TranslatableInFrenchOneWord
-                restaure:Traductionpers ;
-        restaure:oldInformation        restaure: ;
-        ontolex:lexicalForm            <http://restaure.limsi.fr/2017/rdf#lf_Y%20> .
+        a                        ontolex:LexicalEntry ;
+        restaure:etymology       restaure: ;
+        restaure:translatableAs  restaure:Traductionpers , restaure:Traduction ;
+        restaure:verbatim        <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20:%20on%20trouve,%20chez%20certains%20patoisants,%20la%20graphie%20y%20pour%20i%20:%20il,%20pr.%20pers.%20suj.,%20ou%20lui,%20pr.%20pers.%20compl.%0A%20%20%20%20%20%20> ;
+        <http://www.w3.org/2004/02/skos/core#definition>
+                <http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20:%20on%20trouve,%20chez%20certains%20patoisants,%20la%20graphie%20y%20pour%20i%20:%20il,%20pr.%20pers.%20suj.,%20ou%20lui,%20pr.%20pers.%20compl.%0A%20%20%20%20%20%20> ;
+        ontolex:lexicalForm      restaure:lf_Y .
+
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Des-yeux%20bleus,%20/%20T%C3%A9%20verras%20l'%20Bon%20Dieu.%20/%20Des-yeux%20gris,%20/%20T'iras%20au%20Paradis.%20/%20Des-yeux%20noirs,%20/%20T'iras%20au%20Purgatoire.%20/%20Des-yeux%20verts,%20/%20T'iras%20in%20Infer%20%22%20(comptine).%20Des%20yeux%20gadous%20:%20des%20yeux%20langoureux.%20Expr.%20not%C3%A9es%20par%20GH%20:%20%22%20Il%20a%20des%20yeux%20comme%20des%20poches%20d'%20voleur%20%22%20ou%20%22%20des%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        \" Des-yeux bleus, / Té verras l' Bon Dieu. / Des-yeux gris, / T'iras au Paradis. / Des-yeux noirs, / T'iras au Purgatoire. / Des-yeux verts, / T'iras in Infer \" (comptine). Des yeux gadous : des yeux langoureux. Expr. notées par GH : \" Il a des yeux comme des poches d' voleur \" ou \" des\n      " .
 
 restaure:LexiqueDaubyRouchiPicard
-        restaure:Coordinate  restaure:coordinate ;
-        lime:entry           restaure:le25PicardVersFrançais_1 , restaure:le25PicardVersFrançais_0 .
+        restaure:Coordinate             restaure:coordinate ;
+        restaure:lexiconAuthorWrittenRep
+                "Jean Dauby"@fra ;
+        restaure:lexiconDirectionWrittenRep
+                "picard vers français"@fra ;
+        restaure:lexiconNameWrittenRep  "Le Livre du \"Rouchi\" Parler Picard de Valenciennes"@fra ;
+        lime:entry                      restaure:le25PicardVersFrançais_1 , restaure:le25PicardVersFrançais_0 ;
+        lime:language                   "pcd"@fra .
+
+restaure:lf_Y  a            ontolex:Form ;
+        ontolex:writtenRep  "y" .
+
+restaure:Traduction  a      ontolex:Form ;
+        ontolex:writtenRep  "" .
 
 lexinfo:Female  ontolex:writtenRep  "Féminin"@fra .
 
@@ -54,11 +64,12 @@ restaure:Traductionou
         a                   ontolex:Form ;
         ontolex:writtenRep  "ou" .
 
-<http://restaure.limsi.fr/2017/rdf#%22%20Des-yeux%20bleus,%20/%20T%C3%A9%20verras%20l'%20Bon%20Dieu.%20/%20Des-yeux%20gris,%20/%20T'iras%20au%20Paradis.%20/%20Des-yeux%20noirs,%20/%20T'iras%20au%20Purgatoire.%20/%20Des-yeux%20verts,%20/%20T'iras%20in%20Infer%20%22%20(comptine).%20>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "\" Des-yeux bleus, / Té verras l' Bon Dieu. / Des-yeux gris, / T'iras au Paradis. / Des-yeux noirs, / T'iras au Purgatoire. / Des-yeux verts, / T'iras in Infer \" (comptine). " .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20:%20on%20trouve,%20chez%20certains%20patoisants,%20la%20graphie%20y%20pour%20i%20:%20il,%20pr.%20pers.%20suj.,%20ou%20lui,%20pr.%20pers.%20compl.%0A%20%20%20%20%20%20>
+        ontolex:writtenRep  "\n        : on trouve, chez certains patoisants, la graphie y pour i : il, pr. pers. suj., ou lui, pr. pers. compl.\n      " .
 
-restaure:xAmiens  ontolex:writtenRep  "Amiens"@fra .
+<http://restaure.limsi.fr/2017/rdf#%0A%20%20%20%20%20%20%20%20%22%20Des-yeux%20bleus,%20/%20T%C3%A9%20verras%20l'%20Bon%20Dieu.%20/%20Des-yeux%20gris,%20/%20T'iras%20au%20Paradis.%20/%20Des-yeux%20noirs,%20/%20T'iras%20au%20Purgatoire.%20/%20Des-yeux%20verts,%20/%20T'iras%20in%20Infer%20%22%20(comptine).%0A%20%20%20%20%20%20>
+        a                   ontolex:Form ;
+        ontolex:writtenRep  "\n        \" Des-yeux bleus, / Té verras l' Bon Dieu. / Des-yeux gris, / T'iras au Paradis. / Des-yeux noirs, / T'iras au Purgatoire. / Des-yeux verts, / T'iras in Infer \" (comptine).\n      " .
 
 lexinfo:Adjective  ontolex:writtenRep  "Adjectif"@fra .
 
@@ -72,6 +83,9 @@ lexinfo:Verb  ontolex:writtenRep  "Verbe"@fra .
         a                   ontolex:Form ;
         ontolex:writtenRep  "\" Il a des yeux comme des poches d' voleur \" " .
 
+restaure:yValenciennes
+        ontolex:writtenRep  "Valenciennes"@fra .
+
 lexinfo:Noun  ontolex:writtenRep  "Nom"@fra .
 
 lexinfo:Preposition  ontolex:writtenRep
@@ -80,9 +94,5 @@ lexinfo:Preposition  ontolex:writtenRep
 <http://restaure.limsi.fr/2017/rdf#ou%20>
         ontolex:writtenRep  "ou " .
 
-<http://restaure.limsi.fr/2017/rdf#lf_Y%20>
-        a                   ontolex:Form ;
-        ontolex:writtenRep  "y " .
-
-<http://restaure.limsi.fr/2017/rdf#%22%20Des-yeux%20bleus,%20/%20T%C3%A9%20verras%20l'%20Bon%20Dieu.%20/%20Des-yeux%20gris,%20/%20T'iras%20au%20Paradis.%20/%20Des-yeux%20noirs,%20/%20T'iras%20au%20Purgatoire.%20/%20Des-yeux%20verts,%20/%20T'iras%20in%20Infer%20%22%20(comptine).%20Des%20yeux%20gadous%20:%20des%20yeux%20langoureux.%20Expr.%20not%C3%A9es%20par%20GH%20:%20%22%20Il%20a%20des%20yeux%20comme%20des%20poches%20d'%20voleur%20%22%20ou%20%22%20des>
-        ontolex:writtenRep  "\" Des-yeux bleus, / Té verras l' Bon Dieu. / Des-yeux gris, / T'iras au Paradis. / Des-yeux noirs, / T'iras au Purgatoire. / Des-yeux verts, / T'iras in Infer \" (comptine). Des yeux gadous : des yeux langoureux. Expr. notées par GH : \" Il a des yeux comme des poches d' voleur \" ou \" des" .
+restaure:xValenciennes
+        ontolex:writtenRep  "Valenciennes"@fra .

@@ -109,8 +109,9 @@ class enrichissementFirstParsing {
             Elem(pfx,"cit",attrs,ns,true)
         }
         else {
-          val pic = <cit xml:lang="fr" type="translation">{couple._1}</cit>
-          Elem(pfx,"cit",attrs,ns,true,pic)
+          //val pic = <cit xml:lang="fr" type="translation"></cit>
+          //pic
+          Elem(pfx,"cit",new xml.PrefixedAttribute("xml", "lang", xml.Text("fr"), attrs), ns,true,xml.Text(couple._1))
         }
       case Elem(p, l, a, n, ch @ _*) =>
         Elem(p, l, a, n, true, ch : _*)

@@ -19,12 +19,7 @@ object mainRDFFirstParsing {
     def main(args:Array[String]):Unit={
       val classpath = new Configuration
       val files = getListOfFiles(classpath.pathInputXMLFirstParsingEnrichment)
-      println("Entrez l'emplacement du résultat RDF :")
-      val path2 = scala.io.StdIn.readLine()
-      /*
-      /people/khamphousone/IdeaProjects/DictionnairePicard/RDFFirstParser/
-       */
-      new File(path2 + "*").delete()
+      new File(classpath.pathOutputRDFFrstParsing + "*").delete()
       for (file <- files.zipWithIndex) {
 
         val xml = XML.loadFile(file._1)
@@ -32,7 +27,7 @@ object mainRDFFirstParsing {
         val ClassModele = new RDFWriterFirstParsing(xml, file._2)
 
 
-        ClassModele.dumpModel(path2 + s"${file._2}.ttl")
+        ClassModele.dumpModel(classpath.pathOutputRDFFrstParsing + s"${file._2}.ttl")
 
 
       }

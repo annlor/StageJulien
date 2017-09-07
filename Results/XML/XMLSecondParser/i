@@ -1,166 +1,139 @@
 <?xml version='1.0' encoding='utf-8'?>
-<Nomenclature>
-        <ArticleDeDictionnaire>
-        <Entrée>ici</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adv.</StructureGrammaticale>
-        <LexieEntiere>chi, douchi, drochi, drouchi, ichi.</LexieEntiere>
-        <Lexie><SousLexie>chi</SousLexie><SousLexie> douchi</SousLexie><SousLexie> drochi</SousLexie><SousLexie> drouchi</SousLexie><SousLexie> ichi.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>imbécile</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>aploute (happe-loute), babin, badelot, baïou, béda, bièque-bos, colas, glaute, manonon, ornébot, papart.</LexieEntiere>
-        <Lexie><SousLexie>aploute (happe-loute)</SousLexie><SousLexie> babin</SousLexie><SousLexie> badelot</SousLexie><SousLexie> baïou</SousLexie><SousLexie> béda</SousLexie><SousLexie> bièque-bos</SousLexie><SousLexie> colas</SousLexie><SousLexie> glaute</SousLexie><SousLexie> manonon</SousLexie><SousLexie> ornébot</SousLexie><SousLexie> papart.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>imbroglio</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>imbrodio.</LexieEntiere>
-        <Lexie><SousLexie>imbrodio.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>inactif</Entrée>
-        <Complément>(être)</Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere>joquer.</LexieEntiere>
-        <Lexie><SousLexie>joquer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>incendiaire</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>metteux d' feu.</LexieEntiere>
-        <Lexie><SousLexie>metteux d' feu.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>incliner</Entrée>
-        <Complément>(manque d'aplomb)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>cléner.</LexieEntiere>
-        <Lexie><SousLexie>cléner.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>incommode</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>mal commode.</LexieEntiere>
-        <Lexie><SousLexie>mal commode.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>inculte</Entrée>
-        <Complément>(terre)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>sars, sart. (Voir : friche, jachère).</LexieEntiere>
-        <Lexie><SousLexie>sars</SousLexie><SousLexie> sart. (Voir : friche</SousLexie><SousLexie> jachère).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>index</Entrée>
-        <Complément>(doigt)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>Jean-laridé.</LexieEntiere>
-        <Lexie><SousLexie>Jean-laridé.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>indiscret</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere> et adj. : mêle-tout, métreux.</LexieEntiere>
-        <Lexie><SousLexie> et adj. : mêle-tout</SousLexie><SousLexie> métreux.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>indisposé</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>fayeux.</LexieEntiere>
-        <Lexie><SousLexie>fayeux.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>indocile</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>mal aisile.</LexieEntiere>
-        <Lexie><SousLexie>mal aisile.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>infatigable</Entrée>
-        <Complément>(femme)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>archelle, sara.</LexieEntiere>
-        <Lexie><SousLexie>archelle</SousLexie><SousLexie> sara.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>infirme</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>affligé.</LexieEntiere>
-        <Lexie><SousLexie>affligé.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>inflorescence</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>poquet.</LexieEntiere>
-        <Lexie><SousLexie>poquet.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>innocent</Entrée>
-        <Complément>(simplet)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>innochint, ninoche.</LexieEntiere>
-        <Lexie><SousLexie>innochint</SousLexie><SousLexie> ninoche.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>inquiéter</Entrée>
-        <Complément>(s')</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>s' marmouser, s' trimousser.</LexieEntiere>
-        <Lexie><SousLexie>s' marmouser</SousLexie><SousLexie> s' trimousser.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>insérer</Entrée>
-        <Complément>(s')</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>s'incerner.</LexieEntiere>
-        <Lexie><SousLexie>s'incerner.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>inspecteur</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>esward, reward (vx).</LexieEntiere>
-        <Lexie><SousLexie>esward</SousLexie><SousLexie> reward (vx).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>instable</Entrée>
-        <Complément>(être en équilibre)</Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere>marchander.</LexieEntiere>
-        <Lexie><SousLexie>marchander.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>insulter</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>traiter.</LexieEntiere>
-        <Lexie><SousLexie>traiter.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>insupportable</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>insipite ; être insupportable : passer l' diape.</LexieEntiere>
-        <Lexie><SousLexie>insipite </SousLexie><SousLexie> être insupportable : passer l' diape.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>intelligence</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>comperdo, comperdure.</LexieEntiere>
-        <Lexie><SousLexie>comperdo</SousLexie><SousLexie> comperdure.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>intervalle</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>interdeux.</LexieEntiere>
-        <Lexie><SousLexie>interdeux.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>intestin</Entrée>
-        <Complément>(gros)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>cras-boïau, maît'-boïau.</LexieEntiere>
-        <Lexie><SousLexie>cras-boïau</SousLexie><SousLexie> maît'-boïau.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>iris faux-acore</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>bié.</LexieEntiere>
-        <Lexie><SousLexie>bié.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>ivre</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>bersaique, quervé, roste, rousti ; ivre-mort : mortousse, mort-z'ije ; être ivre : êt' quervé, êt' inrosté, avoir es pronne, avoir es peun' tierre, avoir el vint dins l' dos.</LexieEntiere>
-        <Lexie><SousLexie>bersaique</SousLexie><SousLexie> quervé</SousLexie><SousLexie> roste</SousLexie><SousLexie> rousti </SousLexie><SousLexie> ivre-mort : mortousse</SousLexie><SousLexie> mort-z'ije </SousLexie><SousLexie> être ivre : êt' quervé</SousLexie><SousLexie> êt' inrosté</SousLexie><SousLexie> avoir es pronne</SousLexie><SousLexie> avoir es peun' tierre</SousLexie><SousLexie> avoir el vint dins l' dos.</SousLexie></Lexie>
-      </ArticleDeDictionnaire>
-      </Nomenclature>
+<TEI>
+        <entry>
+        <form><orth>ici</orth><Complément></Complément></form>
+        <gramGrp><pos>adv.</pos></gramGrp>
+        <def><quote>chi, douchi, drochi, drouchi, ichi.</quote></def>
+        <cit type="translation"><quote>chi</quote><quote> douchi</quote><quote> drochi</quote><quote> drouchi</quote><quote> ichi.</quote></cit>
+      </entry><entry>
+        <form><orth>imbécile</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>aploute (happe-loute), babin, badelot, baïou, béda, bièque-bos, colas, glaute, manonon, ornébot, papart.</quote></def>
+        <cit type="translation"><quote>aploute (happe-loute)</quote><quote> babin</quote><quote> badelot</quote><quote> baïou</quote><quote> béda</quote><quote> bièque-bos</quote><quote> colas</quote><quote> glaute</quote><quote> manonon</quote><quote> ornébot</quote><quote> papart.</quote></cit>
+      </entry><entry>
+        <form><orth>imbroglio</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>imbrodio.</quote></def>
+        <cit type="translation"><quote>imbrodio.</quote></cit>
+      </entry><entry>
+        <form><orth>inactif</orth><Complément>(être)</Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote>joquer.</quote></def>
+        <cit type="translation"><quote>joquer.</quote></cit>
+      </entry><entry>
+        <form><orth>incendiaire</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>metteux d' feu.</quote></def>
+        <cit type="translation"><quote>metteux d' feu.</quote></cit>
+      </entry><entry>
+        <form><orth>incliner</orth><Complément>(manque d'aplomb)</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>cléner.</quote></def>
+        <cit type="translation"><quote>cléner.</quote></cit>
+      </entry><entry>
+        <form><orth>incommode</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>mal commode.</quote></def>
+        <cit type="translation"><quote>mal commode.</quote></cit>
+      </entry><entry>
+        <form><orth>inculte</orth><Complément>(terre)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>sars, sart. (Voir : friche, jachère).</quote></def>
+        <cit type="translation"><quote>sars</quote><quote> sart. (Voir : friche</quote><quote> jachère).</quote></cit>
+      </entry><entry>
+        <form><orth>index</orth><Complément>(doigt)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>Jean-laridé.</quote></def>
+        <cit type="translation"><quote>Jean-laridé.</quote></cit>
+      </entry><entry>
+        <form><orth>indiscret</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote> et adj. : mêle-tout, métreux.</quote></def>
+        <cit type="translation"><quote> et adj. : mêle-tout</quote><quote> métreux.</quote></cit>
+      </entry><entry>
+        <form><orth>indisposé</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>fayeux.</quote></def>
+        <cit type="translation"><quote>fayeux.</quote></cit>
+      </entry><entry>
+        <form><orth>indocile</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>mal aisile.</quote></def>
+        <cit type="translation"><quote>mal aisile.</quote></cit>
+      </entry><entry>
+        <form><orth>infatigable</orth><Complément>(femme)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>archelle, sara.</quote></def>
+        <cit type="translation"><quote>archelle</quote><quote> sara.</quote></cit>
+      </entry><entry>
+        <form><orth>infirme</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>affligé.</quote></def>
+        <cit type="translation"><quote>affligé.</quote></cit>
+      </entry><entry>
+        <form><orth>inflorescence</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>poquet.</quote></def>
+        <cit type="translation"><quote>poquet.</quote></cit>
+      </entry><entry>
+        <form><orth>innocent</orth><Complément>(simplet)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>innochint, ninoche.</quote></def>
+        <cit type="translation"><quote>innochint</quote><quote> ninoche.</quote></cit>
+      </entry><entry>
+        <form><orth>inquiéter</orth><Complément>(s')</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>s' marmouser, s' trimousser.</quote></def>
+        <cit type="translation"><quote>s' marmouser</quote><quote> s' trimousser.</quote></cit>
+      </entry><entry>
+        <form><orth>insérer</orth><Complément>(s')</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>s'incerner.</quote></def>
+        <cit type="translation"><quote>s'incerner.</quote></cit>
+      </entry><entry>
+        <form><orth>inspecteur</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>esward, reward (vx).</quote></def>
+        <cit type="translation"><quote>esward</quote><quote> reward (vx).</quote></cit>
+      </entry><entry>
+        <form><orth>instable</orth><Complément>(être en équilibre)</Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote>marchander.</quote></def>
+        <cit type="translation"><quote>marchander.</quote></cit>
+      </entry><entry>
+        <form><orth>insulter</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>traiter.</quote></def>
+        <cit type="translation"><quote>traiter.</quote></cit>
+      </entry><entry>
+        <form><orth>insupportable</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>insipite ; être insupportable : passer l' diape.</quote></def>
+        <cit type="translation"><quote>insipite </quote><quote> être insupportable : passer l' diape.</quote></cit>
+      </entry><entry>
+        <form><orth>intelligence</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>comperdo, comperdure.</quote></def>
+        <cit type="translation"><quote>comperdo</quote><quote> comperdure.</quote></cit>
+      </entry><entry>
+        <form><orth>intervalle</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>interdeux.</quote></def>
+        <cit type="translation"><quote>interdeux.</quote></cit>
+      </entry><entry>
+        <form><orth>intestin</orth><Complément>(gros)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>cras-boïau, maît'-boïau.</quote></def>
+        <cit type="translation"><quote>cras-boïau</quote><quote> maît'-boïau.</quote></cit>
+      </entry><entry>
+        <form><orth>iris faux-acore</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>bié.</quote></def>
+        <cit type="translation"><quote>bié.</quote></cit>
+      </entry><entry>
+        <form><orth>ivre</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>bersaique, quervé, roste, rousti ; ivre-mort : mortousse, mort-z'ije ; être ivre : êt' quervé, êt' inrosté, avoir es pronne, avoir es peun' tierre, avoir el vint dins l' dos.</quote></def>
+        <cit type="translation"><quote>bersaique</quote><quote> quervé</quote><quote> roste</quote><quote> rousti </quote><quote> ivre-mort : mortousse</quote><quote> mort-z'ije </quote><quote> être ivre : êt' quervé</quote><quote> êt' inrosté</quote><quote> avoir es pronne</quote><quote> avoir es peun' tierre</quote><quote> avoir el vint dins l' dos.</quote></cit>
+      </entry>
+      </TEI>

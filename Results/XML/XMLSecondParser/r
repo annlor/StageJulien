@@ -1,1018 +1,849 @@
 <?xml version='1.0' encoding='utf-8'?>
-<Nomenclature>
-        <ArticleDeDictionnaire>
-        <Entrée>râble</Entrée>
-        <Complément>(de boulanger)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>ro.</LexieEntiere>
-        <Lexie><SousLexie>ro.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>râblé</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>rétu.</LexieEntiere>
-        <Lexie><SousLexie>rétu.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rabrouer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>racacher.</LexieEntiere>
-        <Lexie><SousLexie>racacher.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>raccommoder</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>(mal) rabistoquer, rachafter, rafouffeter ; (un drap, en intervertissant le milieu et les bords) rétumer.</LexieEntiere>
-        <Lexie><SousLexie>(mal) rabistoquer</SousLexie><SousLexie> rachafter</SousLexie><SousLexie> rafouffeter </SousLexie><SousLexie> (un drap</SousLexie><SousLexie> en intervertissant le milieu et les bords) rétumer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>racheter</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>racater.</LexieEntiere>
-        <Lexie><SousLexie>racater.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>racine</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
+<TEI>
+        <entry>
+        <form><orth>râble</orth><Complément>(de boulanger)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>ro.</quote></def>
+        <cit type="translation"><quote>ro.</quote></cit>
+      </entry><entry>
+        <form><orth>râblé</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>rétu.</quote></def>
+        <cit type="translation"><quote>rétu.</quote></cit>
+      </entry><entry>
+        <form><orth>rabrouer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>racacher.</quote></def>
+        <cit type="translation"><quote>racacher.</quote></cit>
+      </entry><entry>
+        <form><orth>raccommoder</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>(mal) rabistoquer, rachafter, rafouffeter ; (un drap, en intervertissant le milieu et les bords) rétumer.</quote></def>
+        <cit type="translation"><quote>(mal) rabistoquer</quote><quote> rachafter</quote><quote> rafouffeter </quote><quote> (un drap</quote><quote> en intervertissant le milieu et les bords) rétumer.</quote></cit>
+      </entry><entry>
+        <form><orth>racheter</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>racater.</quote></def>
+        <cit type="translation"><quote>racater.</quote></cit>
+      </entry><entry>
+        <form><orth>racine</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote></quote></def>
         
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>raclée</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>(voir : rossée).</LexieEntiere>
-        <Lexie><SousLexie>(voir : rossée).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>racler</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>écréper ; (une casserole) rasiner, rassoner.</LexieEntiere>
-        <Lexie><SousLexie>écréper </SousLexie><SousLexie> (une casserole) rasiner</SousLexie><SousLexie> rassoner.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>radis noir</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>rémola.</LexieEntiere>
-        <Lexie><SousLexie>rémola.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>radoter</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>décarocher, rabouter, rafantir, réler.</LexieEntiere>
-        <Lexie><SousLexie>décarocher</SousLexie><SousLexie> rabouter</SousLexie><SousLexie> rafantir</SousLexie><SousLexie> réler.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>raide</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>rod.</LexieEntiere>
-        <Lexie><SousLexie>rod.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>raie</Entrée>
-        <Complément>(ligne)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>roie, roile.</LexieEntiere>
-        <Lexie><SousLexie>roie</SousLexie><SousLexie> roile.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>railleur</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>fouteux d' gins.</LexieEntiere>
-        <Lexie><SousLexie>fouteux d' gins.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>raisin</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>rosin.</LexieEntiere>
-        <Lexie><SousLexie>rosin.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rajeunir</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>rajonnir.</LexieEntiere>
-        <Lexie><SousLexie>rajonnir.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>râle</Entrée>
-        <Complément>(des moribonds)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>rouet, roulet.</LexieEntiere>
-        <Lexie><SousLexie>rouet</SousLexie><SousLexie> roulet.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>râleur</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
+      </entry><entry>
+        <form><orth>raclée</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>(voir : rossée).</quote></def>
+        <cit type="translation"><quote>(voir : rossée).</quote></cit>
+      </entry><entry>
+        <form><orth>racler</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>écréper ; (une casserole) rasiner, rassoner.</quote></def>
+        <cit type="translation"><quote>écréper </quote><quote> (une casserole) rasiner</quote><quote> rassoner.</quote></cit>
+      </entry><entry>
+        <form><orth>radis noir</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>rémola.</quote></def>
+        <cit type="translation"><quote>rémola.</quote></cit>
+      </entry><entry>
+        <form><orth>radoter</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>décarocher, rabouter, rafantir, réler.</quote></def>
+        <cit type="translation"><quote>décarocher</quote><quote> rabouter</quote><quote> rafantir</quote><quote> réler.</quote></cit>
+      </entry><entry>
+        <form><orth>raide</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>rod.</quote></def>
+        <cit type="translation"><quote>rod.</quote></cit>
+      </entry><entry>
+        <form><orth>raie</orth><Complément>(ligne)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>roie, roile.</quote></def>
+        <cit type="translation"><quote>roie</quote><quote> roile.</quote></cit>
+      </entry><entry>
+        <form><orth>railleur</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>fouteux d' gins.</quote></def>
+        <cit type="translation"><quote>fouteux d' gins.</quote></cit>
+      </entry><entry>
+        <form><orth>raisin</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>rosin.</quote></def>
+        <cit type="translation"><quote>rosin.</quote></cit>
+      </entry><entry>
+        <form><orth>rajeunir</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>rajonnir.</quote></def>
+        <cit type="translation"><quote>rajonnir.</quote></cit>
+      </entry><entry>
+        <form><orth>râle</orth><Complément>(des moribonds)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>rouet, roulet.</quote></def>
+        <cit type="translation"><quote>rouet</quote><quote> roulet.</quote></cit>
+      </entry><entry>
+        <form><orth>râleur</orth><Complément></Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote></quote></def>
         
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>ramassis</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>ramassures.</LexieEntiere>
-        <Lexie><SousLexie>ramassures.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>ramener</Entrée>
-        <Complément>(se)</Complément>
-        <StructureGrammaticale>v. rabrouter.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
+      </entry><entry>
+        <form><orth>ramassis</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>ramassures.</quote></def>
+        <cit type="translation"><quote>ramassures.</quote></cit>
+      </entry><entry>
+        <form><orth>ramener</orth><Complément>(se)</Complément></form>
+        <gramGrp><pos>v. rabrouter.</pos></gramGrp>
+        <def><quote></quote></def>
         
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rampe</Entrée>
-        <Complément>(plan incliné)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>rame, rème.</LexieEntiere>
-        <Lexie><SousLexie>rame</SousLexie><SousLexie> rème.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rame</Entrée>
-        <Complément>(à pois)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>ramure.</LexieEntiere>
-        <Lexie><SousLexie>ramure.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rancunier</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>rancuneux.</LexieEntiere>
-        <Lexie><SousLexie>rancuneux.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rapetasser</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>rataconner, ratasseler. (Voir : raccommoder).</LexieEntiere>
-        <Lexie><SousLexie>rataconner</SousLexie><SousLexie> ratasseler. (Voir : raccommoder).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rapide</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>fèle, rade.</LexieEntiere>
-        <Lexie><SousLexie>fèle</SousLexie><SousLexie> rade.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rapidement</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adv.</StructureGrammaticale>
-        <LexieEntiere>rademint, à toute felté, d'un radent.</LexieEntiere>
-        <Lexie><SousLexie>rademint</SousLexie><SousLexie> à toute felté</SousLexie><SousLexie> d'un radent.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rapidité</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>felté.</LexieEntiere>
-        <Lexie><SousLexie>felté.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rapiécer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>rapiécheter. (Voir : rapetasser).</LexieEntiere>
-        <Lexie><SousLexie>rapiécheter. (Voir : rapetasser).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rare</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>rale.</LexieEntiere>
-        <Lexie><SousLexie>rale.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>ras</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>arasse.</LexieEntiere>
-        <Lexie><SousLexie>arasse.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rasoir</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>raso.</LexieEntiere>
-        <Lexie><SousLexie>raso.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rassasier</Entrée>
-        <Complément>(se)</Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere>v : s' rassufire, s' recorser.</LexieEntiere>
-        <Lexie><SousLexie>v : s' rassufire</SousLexie><SousLexie> s' recorser.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rassembler</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>ramoncheler, ras.san.ner.</LexieEntiere>
-        <Lexie><SousLexie>ramoncheler</SousLexie><SousLexie> ras.san.ner.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rasseoir</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>rassir.</LexieEntiere>
-        <Lexie><SousLexie>rassir.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rasséréner</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>rapurer.</LexieEntiere>
-        <Lexie><SousLexie>rapurer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>ratatiner</Entrée>
-        <Complément>(se)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
+      </entry><entry>
+        <form><orth>rampe</orth><Complément>(plan incliné)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>rame, rème.</quote></def>
+        <cit type="translation"><quote>rame</quote><quote> rème.</quote></cit>
+      </entry><entry>
+        <form><orth>rame</orth><Complément>(à pois)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>ramure.</quote></def>
+        <cit type="translation"><quote>ramure.</quote></cit>
+      </entry><entry>
+        <form><orth>rancunier</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>rancuneux.</quote></def>
+        <cit type="translation"><quote>rancuneux.</quote></cit>
+      </entry><entry>
+        <form><orth>rapetasser</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>rataconner, ratasseler. (Voir : raccommoder).</quote></def>
+        <cit type="translation"><quote>rataconner</quote><quote> ratasseler. (Voir : raccommoder).</quote></cit>
+      </entry><entry>
+        <form><orth>rapide</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>fèle, rade.</quote></def>
+        <cit type="translation"><quote>fèle</quote><quote> rade.</quote></cit>
+      </entry><entry>
+        <form><orth>rapidement</orth><Complément></Complément></form>
+        <gramGrp><pos>adv.</pos></gramGrp>
+        <def><quote>rademint, à toute felté, d'un radent.</quote></def>
+        <cit type="translation"><quote>rademint</quote><quote> à toute felté</quote><quote> d'un radent.</quote></cit>
+      </entry><entry>
+        <form><orth>rapidité</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>felté.</quote></def>
+        <cit type="translation"><quote>felté.</quote></cit>
+      </entry><entry>
+        <form><orth>rapiécer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>rapiécheter. (Voir : rapetasser).</quote></def>
+        <cit type="translation"><quote>rapiécheter. (Voir : rapetasser).</quote></cit>
+      </entry><entry>
+        <form><orth>rare</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>rale.</quote></def>
+        <cit type="translation"><quote>rale.</quote></cit>
+      </entry><entry>
+        <form><orth>ras</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>arasse.</quote></def>
+        <cit type="translation"><quote>arasse.</quote></cit>
+      </entry><entry>
+        <form><orth>rasoir</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>raso.</quote></def>
+        <cit type="translation"><quote>raso.</quote></cit>
+      </entry><entry>
+        <form><orth>rassasier</orth><Complément>(se)</Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote>v : s' rassufire, s' recorser.</quote></def>
+        <cit type="translation"><quote>v : s' rassufire</quote><quote> s' recorser.</quote></cit>
+      </entry><entry>
+        <form><orth>rassembler</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>ramoncheler, ras.san.ner.</quote></def>
+        <cit type="translation"><quote>ramoncheler</quote><quote> ras.san.ner.</quote></cit>
+      </entry><entry>
+        <form><orth>rasseoir</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>rassir.</quote></def>
+        <cit type="translation"><quote>rassir.</quote></cit>
+      </entry><entry>
+        <form><orth>rasséréner</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>rapurer.</quote></def>
+        <cit type="translation"><quote>rapurer.</quote></cit>
+      </entry><entry>
+        <form><orth>ratatiner</orth><Complément>(se)</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote></quote></def>
         
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>râteau</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>rétiau.</LexieEntiere>
-        <Lexie><SousLexie>rétiau.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>râtelier</Entrée>
-        <Complément>(d'écurie)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>rétier.</LexieEntiere>
-        <Lexie><SousLexie>rétier.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>ratisser</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>rételer.</LexieEntiere>
-        <Lexie><SousLexie>rételer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rattacher</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>rattiquer.</LexieEntiere>
-        <Lexie><SousLexie>rattiquer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rattraper</Entrée>
-        <Complément>(un objet)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>rascoudre.</LexieEntiere>
-        <Lexie><SousLexie>rascoudre.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>ravigoter</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>ravigorer.</LexieEntiere>
-        <Lexie><SousLexie>ravigorer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>re-</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere></LexieEntiere>
+      </entry><entry>
+        <form><orth>râteau</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>rétiau.</quote></def>
+        <cit type="translation"><quote>rétiau.</quote></cit>
+      </entry><entry>
+        <form><orth>râtelier</orth><Complément>(d'écurie)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>rétier.</quote></def>
+        <cit type="translation"><quote>rétier.</quote></cit>
+      </entry><entry>
+        <form><orth>ratisser</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>rételer.</quote></def>
+        <cit type="translation"><quote>rételer.</quote></cit>
+      </entry><entry>
+        <form><orth>rattacher</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>rattiquer.</quote></def>
+        <cit type="translation"><quote>rattiquer.</quote></cit>
+      </entry><entry>
+        <form><orth>rattraper</orth><Complément>(un objet)</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>rascoudre.</quote></def>
+        <cit type="translation"><quote>rascoudre.</quote></cit>
+      </entry><entry>
+        <form><orth>ravigoter</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>ravigorer.</quote></def>
+        <cit type="translation"><quote>ravigorer.</quote></cit>
+      </entry><entry>
+        <form><orth>re-</orth><Complément></Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote></quote></def>
         
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rebondir</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>erbonquer.</LexieEntiere>
-        <Lexie><SousLexie>erbonquer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rebouillir</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>arboulir.</LexieEntiere>
-        <Lexie><SousLexie>arboulir.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rebulet</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>cron.</LexieEntiere>
-        <Lexie><SousLexie>cron.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>receveur</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>archéveux.</LexieEntiere>
-        <Lexie><SousLexie>archéveux.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>recevoir</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>archévoir.</LexieEntiere>
-        <Lexie><SousLexie>archévoir.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>recharger</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>arquerquer.</LexieEntiere>
-        <Lexie><SousLexie>arquerquer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>réchauffer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>rescaudir.</LexieEntiere>
-        <Lexie><SousLexie>rescaudir.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rechausser</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>arcaucher.</LexieEntiere>
-        <Lexie><SousLexie>arcaucher.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>recherché</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>arserché (vx).</LexieEntiere>
-        <Lexie><SousLexie>arserché (vx).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rechercher</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>arquerre ; racacher.</LexieEntiere>
-        <Lexie><SousLexie>arquerre </SousLexie><SousLexie> racacher.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>récipient</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>vassiau.</LexieEntiere>
-        <Lexie><SousLexie>vassiau.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>reclouer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>arcloer.</LexieEntiere>
-        <Lexie><SousLexie>arcloer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>recoin</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>racoin.</LexieEntiere>
-        <Lexie><SousLexie>racoin.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>recommencer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere> ; arcommincher, erjaveler.</LexieEntiere>
-        <Lexie><SousLexie> </SousLexie><SousLexie> arcommincher</SousLexie><SousLexie> erjaveler.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>réconcilier</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>ramister.</LexieEntiere>
-        <Lexie><SousLexie>ramister.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>reconduire</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>arméner.</LexieEntiere>
-        <Lexie><SousLexie>arméner.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>réconforté</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>rabistoqué.</LexieEntiere>
-        <Lexie><SousLexie>rabistoqué.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>recoucher</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>arcouquer.</LexieEntiere>
-        <Lexie><SousLexie>arcouquer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>recoudre</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>arcoeute.</LexieEntiere>
-        <Lexie><SousLexie>arcoeute.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>recouper</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>arcoper.</LexieEntiere>
-        <Lexie><SousLexie>arcoper.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>recouvrir</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>arcouverre.</LexieEntiere>
-        <Lexie><SousLexie>arcouverre.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>recroqueviller</Entrée>
-        <Complément>(se)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>s' rafrogner, s' ramoncheler, s' raquerchir, s' raquerpir, s' rim.moncheler.</LexieEntiere>
-        <Lexie><SousLexie>s' rafrogner</SousLexie><SousLexie> s' ramoncheler</SousLexie><SousLexie> s' raquerchir</SousLexie><SousLexie> s' raquerpir</SousLexie><SousLexie> s' rim.moncheler.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>recueilleuse</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>arcoeuresse, arcoïeuse.</LexieEntiere>
-        <Lexie><SousLexie>arcoeuresse</SousLexie><SousLexie> arcoïeuse.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>recueilli</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>part. pas.</StructureGrammaticale>
-        <LexieEntiere>récou.</LexieEntiere>
-        <Lexie><SousLexie>récou.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>redescendre</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>ardéquindre.</LexieEntiere>
-        <Lexie><SousLexie>ardéquindre.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>redistribuer</Entrée>
-        <Complément>(les cartes)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>arcarter.</LexieEntiere>
-        <Lexie><SousLexie>arcarter.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>redoublement</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>ardoubelmint.</LexieEntiere>
-        <Lexie><SousLexie>ardoubelmint.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>redressement</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>ardressemint.</LexieEntiere>
-        <Lexie><SousLexie>ardressemint.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>redresser</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>ardercher.</LexieEntiere>
-        <Lexie><SousLexie>ardercher.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>refermer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>arfremer, arserrer.</LexieEntiere>
-        <Lexie><SousLexie>arfremer</SousLexie><SousLexie> arserrer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>réfléchir</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>busier, masuquer.</LexieEntiere>
-        <Lexie><SousLexie>busier</SousLexie><SousLexie> masuquer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>refouler</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>régibeler, régimeler.</LexieEntiere>
-        <Lexie><SousLexie>régibeler</SousLexie><SousLexie> régimeler.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>refrapper</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere> ; arbuquer, artaper.</LexieEntiere>
-        <Lexie><SousLexie> </SousLexie><SousLexie> arbuquer</SousLexie><SousLexie> artaper.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>refroidir</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>arfrodir, réfrodier.</LexieEntiere>
-        <Lexie><SousLexie>arfrodir</SousLexie><SousLexie> réfrodier.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>regain</Entrée>
-        <Complément>(foin)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>aimiau.</LexieEntiere>
-        <Lexie><SousLexie>aimiau.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>regarder</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>arwettier, avisier, ravettier, raviser, rawettier, wettier.</LexieEntiere>
-        <Lexie><SousLexie>arwettier</SousLexie><SousLexie> avisier</SousLexie><SousLexie> ravettier</SousLexie><SousLexie> raviser</SousLexie><SousLexie> rawettier</SousLexie><SousLexie> wettier.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>regermer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>argémeler.</LexieEntiere>
-        <Lexie><SousLexie>argémeler.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>registre</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>cartabel (vx).</LexieEntiere>
-        <Lexie><SousLexie>cartabel (vx).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>réglisse</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>(jus) dagué ; (pâte) tablette, noire tablette.</LexieEntiere>
-        <Lexie><SousLexie>(jus) dagué </SousLexie><SousLexie> (pâte) tablette</SousLexie><SousLexie> noire tablette.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>reglisser</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>arglicher.</LexieEntiere>
-        <Lexie><SousLexie>arglicher.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>régulier</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere>( dans son rythme de vie), adj. : aheuré.</LexieEntiere>
-        <Lexie><SousLexie>( dans son rythme de vie)</SousLexie><SousLexie> adj. : aheuré.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>reine-claude</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>reine-glaute, cul-crotté.</LexieEntiere>
-        <Lexie><SousLexie>reine-glaute</SousLexie><SousLexie> cul-crotté.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rejeter</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>décacholer, rachafter.</LexieEntiere>
-        <Lexie><SousLexie>décacholer</SousLexie><SousLexie> rachafter.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rejointoyer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>arparer.</LexieEntiere>
-        <Lexie><SousLexie>arparer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rejouer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>arjuer.</LexieEntiere>
-        <Lexie><SousLexie>arjuer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>relier</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>arloïer.</LexieEntiere>
-        <Lexie><SousLexie>arloïer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>reliquaire</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>fierté.</LexieEntiere>
-        <Lexie><SousLexie>fierté.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>reluire</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>terluire.</LexieEntiere>
-        <Lexie><SousLexie>terluire.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>remblai</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>estape.</LexieEntiere>
-        <Lexie><SousLexie>estape.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>remise</Entrée>
-        <Complément>(débarras)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>carin, garin.</LexieEntiere>
-        <Lexie><SousLexie>carin</SousLexie><SousLexie> garin.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>remmancher</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>rinfûter.</LexieEntiere>
-        <Lexie><SousLexie>rinfûter.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>remouiller</Entrée>
-        <Complément>(le linge)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>ramatir.</LexieEntiere>
-        <Lexie><SousLexie>ramatir.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rempart</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>barlet (vx).</LexieEntiere>
-        <Lexie><SousLexie>barlet (vx).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>remuant</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>archeillant, rouyant, ruchon.</LexieEntiere>
-        <Lexie><SousLexie>archeillant</SousLexie><SousLexie> rouyant</SousLexie><SousLexie> ruchon.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>remuer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>arpéier, arpier ; se remuer : s' délicoter.</LexieEntiere>
-        <Lexie><SousLexie>arpéier</SousLexie><SousLexie> arpier </SousLexie><SousLexie> se remuer : s' délicoter.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rendez-vous</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>artrouve.</LexieEntiere>
-        <Lexie><SousLexie>artrouve.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rêne</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>afilée, lénier.</LexieEntiere>
-        <Lexie><SousLexie>afilée</SousLexie><SousLexie> lénier.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>renfoncer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>rintasser.</LexieEntiere>
-        <Lexie><SousLexie>rintasser.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>renoncule âcre</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>caudron-païelle, patte ed glaine, quette dé burre.</LexieEntiere>
-        <Lexie><SousLexie>caudron-païelle</SousLexie><SousLexie> patte ed glaine</SousLexie><SousLexie> quette dé burre.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>renouée</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s.</StructureGrammaticale>
-        <LexieEntiere>f. : allotiau, hierbe ed pourcheau.</LexieEntiere>
-        <Lexie><SousLexie>f. : allotiau</SousLexie><SousLexie> hierbe ed pourcheau.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>renouveler</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>régarer.</LexieEntiere>
-        <Lexie><SousLexie>régarer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>renvoi</Entrée>
-        <Complément>(acide)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>vervélu.</LexieEntiere>
-        <Lexie><SousLexie>vervélu.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>répandre</Entrée>
-        <Complément>(un liquide)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>répancher.</LexieEntiere>
-        <Lexie><SousLexie>répancher.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>réparer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>arringer, rabloquer. (Voir : raccommoder).</LexieEntiere>
-        <Lexie><SousLexie>arringer</SousLexie><SousLexie> rabloquer. (Voir : raccommoder).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>repartir</Entrée>
-        <Complément>(chez soi)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>raller, s'in raller, rapprocher.</LexieEntiere>
-        <Lexie><SousLexie>raller</SousLexie><SousLexie> s'in raller</SousLexie><SousLexie> rapprocher.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>repasser</Entrée>
-        <Complément>(le linge)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>polir, poulir.</LexieEntiere>
-        <Lexie><SousLexie>polir</SousLexie><SousLexie> poulir.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>repêcher</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>arpéquer.</LexieEntiere>
-        <Lexie><SousLexie>arpéquer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>repenser</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>arbusier, arpinser.</LexieEntiere>
-        <Lexie><SousLexie>arbusier</SousLexie><SousLexie> arpinser.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>répéter</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>rintasser.</LexieEntiere>
-        <Lexie><SousLexie>rintasser.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>replacer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>arplacher.</LexieEntiere>
-        <Lexie><SousLexie>arplacher.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>replâtrer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>arplafonner.</LexieEntiere>
-        <Lexie><SousLexie>arplafonner.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>replier</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>arploïer.</LexieEntiere>
-        <Lexie><SousLexie>arploïer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>replonger</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>arplonquer.</LexieEntiere>
-        <Lexie><SousLexie>arplonquer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>reprendre</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>arprindre.</LexieEntiere>
-        <Lexie><SousLexie>arprindre.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>représenter</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>arprésinter.</LexieEntiere>
-        <Lexie><SousLexie>arprésinter.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>réprimande</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>gobisson (vx.)</LexieEntiere>
-        <Lexie><SousLexie>gobisson (vx.)</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>reprise</Entrée>
-        <Complément>(du travail l'après-midi)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>armontière.</LexieEntiere>
-        <Lexie><SousLexie>armontière.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>repriser</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>rassarcir, rassercir.</LexieEntiere>
-        <Lexie><SousLexie>rassarcir</SousLexie><SousLexie> rassercir.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>reprocher</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>rebouter.</LexieEntiere>
-        <Lexie><SousLexie>rebouter.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>ressembler</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>arsan.ner, arsonner.</LexieEntiere>
-        <Lexie><SousLexie>arsan.ner</SousLexie><SousLexie> arsonner.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>ressentir</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>arsintir.</LexieEntiere>
-        <Lexie><SousLexie>arsintir.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>resserrer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>constraindre.</LexieEntiere>
-        <Lexie><SousLexie>constraindre.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>retarder</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>ratarger, joquer.</LexieEntiere>
-        <Lexie><SousLexie>ratarger</SousLexie><SousLexie> joquer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>retenir</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>arroquer.</LexieEntiere>
-        <Lexie><SousLexie>arroquer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>retirer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>arsaquer, rassaquer.</LexieEntiere>
-        <Lexie><SousLexie>arsaquer</SousLexie><SousLexie> rassaquer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>retenue</Entrée>
-        <Complément>(modération)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>ratenance.</LexieEntiere>
-        <Lexie><SousLexie>ratenance.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rétrécir</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>ratrotir, restroitir.</LexieEntiere>
-        <Lexie><SousLexie>ratrotir</SousLexie><SousLexie> restroitir.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>retrousser</Entrée>
-        <Complément>(ses manches)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>s'accourcher, s'erbracher, s' raccourcher ; roler ses bras.</LexieEntiere>
-        <Lexie><SousLexie>s'accourcher</SousLexie><SousLexie> s'erbracher</SousLexie><SousLexie> s' raccourcher </SousLexie><SousLexie> roler ses bras.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>revanche</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>arvinche.</LexieEntiere>
-        <Lexie><SousLexie>arvinche.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>revendre</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>arvindre.</LexieEntiere>
-        <Lexie><SousLexie>arvindre.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>revenir</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>(sur ses pas) arbiner, arvénir ; (en courant) racourir, ratrotter.</LexieEntiere>
-        <Lexie><SousLexie>(sur ses pas) arbiner</SousLexie><SousLexie> arvénir </SousLexie><SousLexie> (en courant) racourir</SousLexie><SousLexie> ratrotter.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rhumatisme</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>rhomatique.</LexieEntiere>
-        <Lexie><SousLexie>rhomatique.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>ribambelle</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>ripopée.</LexieEntiere>
-        <Lexie><SousLexie>ripopée.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>ricin</Entrée>
-        <Complément>(plante)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>graine ed tchiou.</LexieEntiere>
-        <Lexie><SousLexie>graine ed tchiou.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rieur</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>riou.</LexieEntiere>
-        <Lexie><SousLexie>riou.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rire</Entrée>
-        <Complément>(action de rire)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>riage.</LexieEntiere>
-        <Lexie><SousLexie>riage.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>roder</Entrée>
-        <Complément>(se)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>s'agalir.</LexieEntiere>
-        <Lexie><SousLexie>s'agalir.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rogatons</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m. pl.</StructureGrammaticale>
-        <LexieEntiere>arléquins, raménants.</LexieEntiere>
-        <Lexie><SousLexie>arléquins</SousLexie><SousLexie> raménants.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rogner</Entrée>
-        <Complément>(sur le champ voisin)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>afamer.</LexieEntiere>
-        <Lexie><SousLexie>afamer.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rogue</Entrée>
-        <Complément>(oeufs de poisson)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>croque.</LexieEntiere>
-        <Lexie><SousLexie>croque.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>roi</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>ro.</LexieEntiere>
-        <Lexie><SousLexie>ro.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>roitelet</Entrée>
-        <Complément>(oiseau)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>pieuquart, roteleut, rotelot.</LexieEntiere>
-        <Lexie><SousLexie>pieuquart</SousLexie><SousLexie> roteleut</SousLexie><SousLexie> rotelot.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>ronces</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f. pl.</StructureGrammaticale>
-        <LexieEntiere>roinches.</LexieEntiere>
-        <Lexie><SousLexie>roinches.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>ronchonner</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>mourmacher (voir : grommeler).</LexieEntiere>
-        <Lexie><SousLexie>mourmacher (voir : grommeler).</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rondelle</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>(de pomme) rondiau ; (de pomme de terre), caquette, patacon.</LexieEntiere>
-        <Lexie><SousLexie>(de pomme) rondiau </SousLexie><SousLexie> (de pomme de terre)</SousLexie><SousLexie> caquette</SousLexie><SousLexie> patacon.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>ronfler</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>ronfier, soïer des planques.</LexieEntiere>
-        <Lexie><SousLexie>ronfier</SousLexie><SousLexie> soïer des planques.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rosser</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>arener, déraner, floner.</LexieEntiere>
-        <Lexie><SousLexie>arener</SousLexie><SousLexie> déraner</SousLexie><SousLexie> floner.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rossignol</Entrée>
-        <Complément>(marchandise de rebut)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>rapsodrie.</LexieEntiere>
-        <Lexie><SousLexie>rapsodrie.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>roter</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>reuper.</LexieEntiere>
-        <Lexie><SousLexie>reuper.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>roue</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>roule.</LexieEntiere>
-        <Lexie><SousLexie>roule.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rouer</Entrée>
-        <Complément>(de coups)</Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>abolir.</LexieEntiere>
-        <Lexie><SousLexie>abolir.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rouet</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>car à filer, cariot.</LexieEntiere>
-        <Lexie><SousLexie>car à filer</SousLexie><SousLexie> cariot.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rouge-gorge</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>magnon.</LexieEntiere>
-        <Lexie><SousLexie>magnon.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rougeole</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>rougeurs.</LexieEntiere>
-        <Lexie><SousLexie>rougeurs.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rouiller</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>s'inrouiller.</LexieEntiere>
-        <Lexie><SousLexie>s'inrouiller.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rouleau</Entrée>
-        <Complément>(à plouter)</Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>ploutro.</LexieEntiere>
-        <Lexie><SousLexie>ploutro.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rouler</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>birouler, bourler, débourler, débirouler, dévirouler, virler ; (en boule) bouloter, rabourloter ; (une terre) brandeler.</LexieEntiere>
-        <Lexie><SousLexie>birouler</SousLexie><SousLexie> bourler</SousLexie><SousLexie> débourler</SousLexie><SousLexie> débirouler</SousLexie><SousLexie> dévirouler</SousLexie><SousLexie> virler </SousLexie><SousLexie> (en boule) bouloter</SousLexie><SousLexie> rabourloter </SousLexie><SousLexie> (une terre) brandeler.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>roulotte</Entrée>
-        <Complément>(de saltimbanque)</Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>baraque.</LexieEntiere>
-        <Lexie><SousLexie>baraque.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>routine</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>raquette.</LexieEntiere>
-        <Lexie><SousLexie>raquette.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>ruche</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>catoire.</LexieEntiere>
-        <Lexie><SousLexie>catoire.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>ruine</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>arruinemint.</LexieEntiere>
-        <Lexie><SousLexie>arruinemint.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>ruisseau</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>réio, richelot, rieu, rio, rissiau, rucheau, ruiau, russiau ; (fil d'eau) gulot.</LexieEntiere>
-        <Lexie><SousLexie>réio</SousLexie><SousLexie> richelot</SousLexie><SousLexie> rieu</SousLexie><SousLexie> rio</SousLexie><SousLexie> rissiau</SousLexie><SousLexie> rucheau</SousLexie><SousLexie> ruiau</SousLexie><SousLexie> russiau </SousLexie><SousLexie> (fil d'eau) gulot.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rumex oseille</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale></StructureGrammaticale>
-        <LexieEntiere>s, m. : hierbe ed dragon.</LexieEntiere>
-        <Lexie><SousLexie>s</SousLexie><SousLexie> m. : hierbe ed dragon.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>ruminer</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>v.</StructureGrammaticale>
-        <LexieEntiere>roumir.</LexieEntiere>
-        <Lexie><SousLexie>roumir.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>ruse</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. f.</StructureGrammaticale>
-        <LexieEntiere>avise, vise.</LexieEntiere>
-        <Lexie><SousLexie>avise</SousLexie><SousLexie> vise.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rusé</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>adj.</StructureGrammaticale>
-        <LexieEntiere>rétu.</LexieEntiere>
-        <Lexie><SousLexie>rétu.</SousLexie></Lexie>
-      </ArticleDeDictionnaire><ArticleDeDictionnaire>
-        <Entrée>rustre</Entrée>
-        <Complément></Complément>
-        <StructureGrammaticale>s. m.</StructureGrammaticale>
-        <LexieEntiere>briqueteux.</LexieEntiere>
-        <Lexie><SousLexie>briqueteux.</SousLexie></Lexie>
-      </ArticleDeDictionnaire>
-      </Nomenclature>
+      </entry><entry>
+        <form><orth>rebondir</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>erbonquer.</quote></def>
+        <cit type="translation"><quote>erbonquer.</quote></cit>
+      </entry><entry>
+        <form><orth>rebouillir</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>arboulir.</quote></def>
+        <cit type="translation"><quote>arboulir.</quote></cit>
+      </entry><entry>
+        <form><orth>rebulet</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>cron.</quote></def>
+        <cit type="translation"><quote>cron.</quote></cit>
+      </entry><entry>
+        <form><orth>receveur</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>archéveux.</quote></def>
+        <cit type="translation"><quote>archéveux.</quote></cit>
+      </entry><entry>
+        <form><orth>recevoir</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>archévoir.</quote></def>
+        <cit type="translation"><quote>archévoir.</quote></cit>
+      </entry><entry>
+        <form><orth>recharger</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>arquerquer.</quote></def>
+        <cit type="translation"><quote>arquerquer.</quote></cit>
+      </entry><entry>
+        <form><orth>réchauffer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>rescaudir.</quote></def>
+        <cit type="translation"><quote>rescaudir.</quote></cit>
+      </entry><entry>
+        <form><orth>rechausser</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>arcaucher.</quote></def>
+        <cit type="translation"><quote>arcaucher.</quote></cit>
+      </entry><entry>
+        <form><orth>recherché</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>arserché (vx).</quote></def>
+        <cit type="translation"><quote>arserché (vx).</quote></cit>
+      </entry><entry>
+        <form><orth>rechercher</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>arquerre ; racacher.</quote></def>
+        <cit type="translation"><quote>arquerre </quote><quote> racacher.</quote></cit>
+      </entry><entry>
+        <form><orth>récipient</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>vassiau.</quote></def>
+        <cit type="translation"><quote>vassiau.</quote></cit>
+      </entry><entry>
+        <form><orth>reclouer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>arcloer.</quote></def>
+        <cit type="translation"><quote>arcloer.</quote></cit>
+      </entry><entry>
+        <form><orth>recoin</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>racoin.</quote></def>
+        <cit type="translation"><quote>racoin.</quote></cit>
+      </entry><entry>
+        <form><orth>recommencer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote> ; arcommincher, erjaveler.</quote></def>
+        <cit type="translation"><quote> </quote><quote> arcommincher</quote><quote> erjaveler.</quote></cit>
+      </entry><entry>
+        <form><orth>réconcilier</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>ramister.</quote></def>
+        <cit type="translation"><quote>ramister.</quote></cit>
+      </entry><entry>
+        <form><orth>reconduire</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>arméner.</quote></def>
+        <cit type="translation"><quote>arméner.</quote></cit>
+      </entry><entry>
+        <form><orth>réconforté</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>rabistoqué.</quote></def>
+        <cit type="translation"><quote>rabistoqué.</quote></cit>
+      </entry><entry>
+        <form><orth>recoucher</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>arcouquer.</quote></def>
+        <cit type="translation"><quote>arcouquer.</quote></cit>
+      </entry><entry>
+        <form><orth>recoudre</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>arcoeute.</quote></def>
+        <cit type="translation"><quote>arcoeute.</quote></cit>
+      </entry><entry>
+        <form><orth>recouper</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>arcoper.</quote></def>
+        <cit type="translation"><quote>arcoper.</quote></cit>
+      </entry><entry>
+        <form><orth>recouvrir</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>arcouverre.</quote></def>
+        <cit type="translation"><quote>arcouverre.</quote></cit>
+      </entry><entry>
+        <form><orth>recroqueviller</orth><Complément>(se)</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>s' rafrogner, s' ramoncheler, s' raquerchir, s' raquerpir, s' rim.moncheler.</quote></def>
+        <cit type="translation"><quote>s' rafrogner</quote><quote> s' ramoncheler</quote><quote> s' raquerchir</quote><quote> s' raquerpir</quote><quote> s' rim.moncheler.</quote></cit>
+      </entry><entry>
+        <form><orth>recueilleuse</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>arcoeuresse, arcoïeuse.</quote></def>
+        <cit type="translation"><quote>arcoeuresse</quote><quote> arcoïeuse.</quote></cit>
+      </entry><entry>
+        <form><orth>recueilli</orth><Complément></Complément></form>
+        <gramGrp><pos>part. pas.</pos></gramGrp>
+        <def><quote>récou.</quote></def>
+        <cit type="translation"><quote>récou.</quote></cit>
+      </entry><entry>
+        <form><orth>redescendre</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>ardéquindre.</quote></def>
+        <cit type="translation"><quote>ardéquindre.</quote></cit>
+      </entry><entry>
+        <form><orth>redistribuer</orth><Complément>(les cartes)</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>arcarter.</quote></def>
+        <cit type="translation"><quote>arcarter.</quote></cit>
+      </entry><entry>
+        <form><orth>redoublement</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>ardoubelmint.</quote></def>
+        <cit type="translation"><quote>ardoubelmint.</quote></cit>
+      </entry><entry>
+        <form><orth>redressement</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>ardressemint.</quote></def>
+        <cit type="translation"><quote>ardressemint.</quote></cit>
+      </entry><entry>
+        <form><orth>redresser</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>ardercher.</quote></def>
+        <cit type="translation"><quote>ardercher.</quote></cit>
+      </entry><entry>
+        <form><orth>refermer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>arfremer, arserrer.</quote></def>
+        <cit type="translation"><quote>arfremer</quote><quote> arserrer.</quote></cit>
+      </entry><entry>
+        <form><orth>réfléchir</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>busier, masuquer.</quote></def>
+        <cit type="translation"><quote>busier</quote><quote> masuquer.</quote></cit>
+      </entry><entry>
+        <form><orth>refouler</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>régibeler, régimeler.</quote></def>
+        <cit type="translation"><quote>régibeler</quote><quote> régimeler.</quote></cit>
+      </entry><entry>
+        <form><orth>refrapper</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote> ; arbuquer, artaper.</quote></def>
+        <cit type="translation"><quote> </quote><quote> arbuquer</quote><quote> artaper.</quote></cit>
+      </entry><entry>
+        <form><orth>refroidir</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>arfrodir, réfrodier.</quote></def>
+        <cit type="translation"><quote>arfrodir</quote><quote> réfrodier.</quote></cit>
+      </entry><entry>
+        <form><orth>regain</orth><Complément>(foin)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>aimiau.</quote></def>
+        <cit type="translation"><quote>aimiau.</quote></cit>
+      </entry><entry>
+        <form><orth>regarder</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>arwettier, avisier, ravettier, raviser, rawettier, wettier.</quote></def>
+        <cit type="translation"><quote>arwettier</quote><quote> avisier</quote><quote> ravettier</quote><quote> raviser</quote><quote> rawettier</quote><quote> wettier.</quote></cit>
+      </entry><entry>
+        <form><orth>regermer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>argémeler.</quote></def>
+        <cit type="translation"><quote>argémeler.</quote></cit>
+      </entry><entry>
+        <form><orth>registre</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>cartabel (vx).</quote></def>
+        <cit type="translation"><quote>cartabel (vx).</quote></cit>
+      </entry><entry>
+        <form><orth>réglisse</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>(jus) dagué ; (pâte) tablette, noire tablette.</quote></def>
+        <cit type="translation"><quote>(jus) dagué </quote><quote> (pâte) tablette</quote><quote> noire tablette.</quote></cit>
+      </entry><entry>
+        <form><orth>reglisser</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>arglicher.</quote></def>
+        <cit type="translation"><quote>arglicher.</quote></cit>
+      </entry><entry>
+        <form><orth>régulier</orth><Complément></Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote>( dans son rythme de vie), adj. : aheuré.</quote></def>
+        <cit type="translation"><quote>( dans son rythme de vie)</quote><quote> adj. : aheuré.</quote></cit>
+      </entry><entry>
+        <form><orth>reine-claude</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>reine-glaute, cul-crotté.</quote></def>
+        <cit type="translation"><quote>reine-glaute</quote><quote> cul-crotté.</quote></cit>
+      </entry><entry>
+        <form><orth>rejeter</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>décacholer, rachafter.</quote></def>
+        <cit type="translation"><quote>décacholer</quote><quote> rachafter.</quote></cit>
+      </entry><entry>
+        <form><orth>rejointoyer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>arparer.</quote></def>
+        <cit type="translation"><quote>arparer.</quote></cit>
+      </entry><entry>
+        <form><orth>rejouer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>arjuer.</quote></def>
+        <cit type="translation"><quote>arjuer.</quote></cit>
+      </entry><entry>
+        <form><orth>relier</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>arloïer.</quote></def>
+        <cit type="translation"><quote>arloïer.</quote></cit>
+      </entry><entry>
+        <form><orth>reliquaire</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>fierté.</quote></def>
+        <cit type="translation"><quote>fierté.</quote></cit>
+      </entry><entry>
+        <form><orth>reluire</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>terluire.</quote></def>
+        <cit type="translation"><quote>terluire.</quote></cit>
+      </entry><entry>
+        <form><orth>remblai</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>estape.</quote></def>
+        <cit type="translation"><quote>estape.</quote></cit>
+      </entry><entry>
+        <form><orth>remise</orth><Complément>(débarras)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>carin, garin.</quote></def>
+        <cit type="translation"><quote>carin</quote><quote> garin.</quote></cit>
+      </entry><entry>
+        <form><orth>remmancher</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>rinfûter.</quote></def>
+        <cit type="translation"><quote>rinfûter.</quote></cit>
+      </entry><entry>
+        <form><orth>remouiller</orth><Complément>(le linge)</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>ramatir.</quote></def>
+        <cit type="translation"><quote>ramatir.</quote></cit>
+      </entry><entry>
+        <form><orth>rempart</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>barlet (vx).</quote></def>
+        <cit type="translation"><quote>barlet (vx).</quote></cit>
+      </entry><entry>
+        <form><orth>remuant</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>archeillant, rouyant, ruchon.</quote></def>
+        <cit type="translation"><quote>archeillant</quote><quote> rouyant</quote><quote> ruchon.</quote></cit>
+      </entry><entry>
+        <form><orth>remuer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>arpéier, arpier ; se remuer : s' délicoter.</quote></def>
+        <cit type="translation"><quote>arpéier</quote><quote> arpier </quote><quote> se remuer : s' délicoter.</quote></cit>
+      </entry><entry>
+        <form><orth>rendez-vous</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>artrouve.</quote></def>
+        <cit type="translation"><quote>artrouve.</quote></cit>
+      </entry><entry>
+        <form><orth>rêne</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>afilée, lénier.</quote></def>
+        <cit type="translation"><quote>afilée</quote><quote> lénier.</quote></cit>
+      </entry><entry>
+        <form><orth>renfoncer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>rintasser.</quote></def>
+        <cit type="translation"><quote>rintasser.</quote></cit>
+      </entry><entry>
+        <form><orth>renoncule âcre</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>caudron-païelle, patte ed glaine, quette dé burre.</quote></def>
+        <cit type="translation"><quote>caudron-païelle</quote><quote> patte ed glaine</quote><quote> quette dé burre.</quote></cit>
+      </entry><entry>
+        <form><orth>renouée</orth><Complément></Complément></form>
+        <gramGrp><pos>s.</pos></gramGrp>
+        <def><quote>f. : allotiau, hierbe ed pourcheau.</quote></def>
+        <cit type="translation"><quote>f. : allotiau</quote><quote> hierbe ed pourcheau.</quote></cit>
+      </entry><entry>
+        <form><orth>renouveler</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>régarer.</quote></def>
+        <cit type="translation"><quote>régarer.</quote></cit>
+      </entry><entry>
+        <form><orth>renvoi</orth><Complément>(acide)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>vervélu.</quote></def>
+        <cit type="translation"><quote>vervélu.</quote></cit>
+      </entry><entry>
+        <form><orth>répandre</orth><Complément>(un liquide)</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>répancher.</quote></def>
+        <cit type="translation"><quote>répancher.</quote></cit>
+      </entry><entry>
+        <form><orth>réparer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>arringer, rabloquer. (Voir : raccommoder).</quote></def>
+        <cit type="translation"><quote>arringer</quote><quote> rabloquer. (Voir : raccommoder).</quote></cit>
+      </entry><entry>
+        <form><orth>repartir</orth><Complément>(chez soi)</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>raller, s'in raller, rapprocher.</quote></def>
+        <cit type="translation"><quote>raller</quote><quote> s'in raller</quote><quote> rapprocher.</quote></cit>
+      </entry><entry>
+        <form><orth>repasser</orth><Complément>(le linge)</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>polir, poulir.</quote></def>
+        <cit type="translation"><quote>polir</quote><quote> poulir.</quote></cit>
+      </entry><entry>
+        <form><orth>repêcher</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>arpéquer.</quote></def>
+        <cit type="translation"><quote>arpéquer.</quote></cit>
+      </entry><entry>
+        <form><orth>repenser</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>arbusier, arpinser.</quote></def>
+        <cit type="translation"><quote>arbusier</quote><quote> arpinser.</quote></cit>
+      </entry><entry>
+        <form><orth>répéter</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>rintasser.</quote></def>
+        <cit type="translation"><quote>rintasser.</quote></cit>
+      </entry><entry>
+        <form><orth>replacer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>arplacher.</quote></def>
+        <cit type="translation"><quote>arplacher.</quote></cit>
+      </entry><entry>
+        <form><orth>replâtrer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>arplafonner.</quote></def>
+        <cit type="translation"><quote>arplafonner.</quote></cit>
+      </entry><entry>
+        <form><orth>replier</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>arploïer.</quote></def>
+        <cit type="translation"><quote>arploïer.</quote></cit>
+      </entry><entry>
+        <form><orth>replonger</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>arplonquer.</quote></def>
+        <cit type="translation"><quote>arplonquer.</quote></cit>
+      </entry><entry>
+        <form><orth>reprendre</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>arprindre.</quote></def>
+        <cit type="translation"><quote>arprindre.</quote></cit>
+      </entry><entry>
+        <form><orth>représenter</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>arprésinter.</quote></def>
+        <cit type="translation"><quote>arprésinter.</quote></cit>
+      </entry><entry>
+        <form><orth>réprimande</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>gobisson (vx.)</quote></def>
+        <cit type="translation"><quote>gobisson (vx.)</quote></cit>
+      </entry><entry>
+        <form><orth>reprise</orth><Complément>(du travail l'après-midi)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>armontière.</quote></def>
+        <cit type="translation"><quote>armontière.</quote></cit>
+      </entry><entry>
+        <form><orth>repriser</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>rassarcir, rassercir.</quote></def>
+        <cit type="translation"><quote>rassarcir</quote><quote> rassercir.</quote></cit>
+      </entry><entry>
+        <form><orth>reprocher</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>rebouter.</quote></def>
+        <cit type="translation"><quote>rebouter.</quote></cit>
+      </entry><entry>
+        <form><orth>ressembler</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>arsan.ner, arsonner.</quote></def>
+        <cit type="translation"><quote>arsan.ner</quote><quote> arsonner.</quote></cit>
+      </entry><entry>
+        <form><orth>ressentir</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>arsintir.</quote></def>
+        <cit type="translation"><quote>arsintir.</quote></cit>
+      </entry><entry>
+        <form><orth>resserrer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>constraindre.</quote></def>
+        <cit type="translation"><quote>constraindre.</quote></cit>
+      </entry><entry>
+        <form><orth>retarder</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>ratarger, joquer.</quote></def>
+        <cit type="translation"><quote>ratarger</quote><quote> joquer.</quote></cit>
+      </entry><entry>
+        <form><orth>retenir</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>arroquer.</quote></def>
+        <cit type="translation"><quote>arroquer.</quote></cit>
+      </entry><entry>
+        <form><orth>retirer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>arsaquer, rassaquer.</quote></def>
+        <cit type="translation"><quote>arsaquer</quote><quote> rassaquer.</quote></cit>
+      </entry><entry>
+        <form><orth>retenue</orth><Complément>(modération)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>ratenance.</quote></def>
+        <cit type="translation"><quote>ratenance.</quote></cit>
+      </entry><entry>
+        <form><orth>rétrécir</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>ratrotir, restroitir.</quote></def>
+        <cit type="translation"><quote>ratrotir</quote><quote> restroitir.</quote></cit>
+      </entry><entry>
+        <form><orth>retrousser</orth><Complément>(ses manches)</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>s'accourcher, s'erbracher, s' raccourcher ; roler ses bras.</quote></def>
+        <cit type="translation"><quote>s'accourcher</quote><quote> s'erbracher</quote><quote> s' raccourcher </quote><quote> roler ses bras.</quote></cit>
+      </entry><entry>
+        <form><orth>revanche</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>arvinche.</quote></def>
+        <cit type="translation"><quote>arvinche.</quote></cit>
+      </entry><entry>
+        <form><orth>revendre</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>arvindre.</quote></def>
+        <cit type="translation"><quote>arvindre.</quote></cit>
+      </entry><entry>
+        <form><orth>revenir</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>(sur ses pas) arbiner, arvénir ; (en courant) racourir, ratrotter.</quote></def>
+        <cit type="translation"><quote>(sur ses pas) arbiner</quote><quote> arvénir </quote><quote> (en courant) racourir</quote><quote> ratrotter.</quote></cit>
+      </entry><entry>
+        <form><orth>rhumatisme</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>rhomatique.</quote></def>
+        <cit type="translation"><quote>rhomatique.</quote></cit>
+      </entry><entry>
+        <form><orth>ribambelle</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>ripopée.</quote></def>
+        <cit type="translation"><quote>ripopée.</quote></cit>
+      </entry><entry>
+        <form><orth>ricin</orth><Complément>(plante)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>graine ed tchiou.</quote></def>
+        <cit type="translation"><quote>graine ed tchiou.</quote></cit>
+      </entry><entry>
+        <form><orth>rieur</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>riou.</quote></def>
+        <cit type="translation"><quote>riou.</quote></cit>
+      </entry><entry>
+        <form><orth>rire</orth><Complément>(action de rire)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>riage.</quote></def>
+        <cit type="translation"><quote>riage.</quote></cit>
+      </entry><entry>
+        <form><orth>roder</orth><Complément>(se)</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>s'agalir.</quote></def>
+        <cit type="translation"><quote>s'agalir.</quote></cit>
+      </entry><entry>
+        <form><orth>rogatons</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m. pl.</pos></gramGrp>
+        <def><quote>arléquins, raménants.</quote></def>
+        <cit type="translation"><quote>arléquins</quote><quote> raménants.</quote></cit>
+      </entry><entry>
+        <form><orth>rogner</orth><Complément>(sur le champ voisin)</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>afamer.</quote></def>
+        <cit type="translation"><quote>afamer.</quote></cit>
+      </entry><entry>
+        <form><orth>rogue</orth><Complément>(oeufs de poisson)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>croque.</quote></def>
+        <cit type="translation"><quote>croque.</quote></cit>
+      </entry><entry>
+        <form><orth>roi</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>ro.</quote></def>
+        <cit type="translation"><quote>ro.</quote></cit>
+      </entry><entry>
+        <form><orth>roitelet</orth><Complément>(oiseau)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>pieuquart, roteleut, rotelot.</quote></def>
+        <cit type="translation"><quote>pieuquart</quote><quote> roteleut</quote><quote> rotelot.</quote></cit>
+      </entry><entry>
+        <form><orth>ronces</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f. pl.</pos></gramGrp>
+        <def><quote>roinches.</quote></def>
+        <cit type="translation"><quote>roinches.</quote></cit>
+      </entry><entry>
+        <form><orth>ronchonner</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>mourmacher (voir : grommeler).</quote></def>
+        <cit type="translation"><quote>mourmacher (voir : grommeler).</quote></cit>
+      </entry><entry>
+        <form><orth>rondelle</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>(de pomme) rondiau ; (de pomme de terre), caquette, patacon.</quote></def>
+        <cit type="translation"><quote>(de pomme) rondiau </quote><quote> (de pomme de terre)</quote><quote> caquette</quote><quote> patacon.</quote></cit>
+      </entry><entry>
+        <form><orth>ronfler</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>ronfier, soïer des planques.</quote></def>
+        <cit type="translation"><quote>ronfier</quote><quote> soïer des planques.</quote></cit>
+      </entry><entry>
+        <form><orth>rosser</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>arener, déraner, floner.</quote></def>
+        <cit type="translation"><quote>arener</quote><quote> déraner</quote><quote> floner.</quote></cit>
+      </entry><entry>
+        <form><orth>rossignol</orth><Complément>(marchandise de rebut)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>rapsodrie.</quote></def>
+        <cit type="translation"><quote>rapsodrie.</quote></cit>
+      </entry><entry>
+        <form><orth>roter</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>reuper.</quote></def>
+        <cit type="translation"><quote>reuper.</quote></cit>
+      </entry><entry>
+        <form><orth>roue</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>roule.</quote></def>
+        <cit type="translation"><quote>roule.</quote></cit>
+      </entry><entry>
+        <form><orth>rouer</orth><Complément>(de coups)</Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>abolir.</quote></def>
+        <cit type="translation"><quote>abolir.</quote></cit>
+      </entry><entry>
+        <form><orth>rouet</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>car à filer, cariot.</quote></def>
+        <cit type="translation"><quote>car à filer</quote><quote> cariot.</quote></cit>
+      </entry><entry>
+        <form><orth>rouge-gorge</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>magnon.</quote></def>
+        <cit type="translation"><quote>magnon.</quote></cit>
+      </entry><entry>
+        <form><orth>rougeole</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>rougeurs.</quote></def>
+        <cit type="translation"><quote>rougeurs.</quote></cit>
+      </entry><entry>
+        <form><orth>rouiller</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>s'inrouiller.</quote></def>
+        <cit type="translation"><quote>s'inrouiller.</quote></cit>
+      </entry><entry>
+        <form><orth>rouleau</orth><Complément>(à plouter)</Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>ploutro.</quote></def>
+        <cit type="translation"><quote>ploutro.</quote></cit>
+      </entry><entry>
+        <form><orth>rouler</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>birouler, bourler, débourler, débirouler, dévirouler, virler ; (en boule) bouloter, rabourloter ; (une terre) brandeler.</quote></def>
+        <cit type="translation"><quote>birouler</quote><quote> bourler</quote><quote> débourler</quote><quote> débirouler</quote><quote> dévirouler</quote><quote> virler </quote><quote> (en boule) bouloter</quote><quote> rabourloter </quote><quote> (une terre) brandeler.</quote></cit>
+      </entry><entry>
+        <form><orth>roulotte</orth><Complément>(de saltimbanque)</Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>baraque.</quote></def>
+        <cit type="translation"><quote>baraque.</quote></cit>
+      </entry><entry>
+        <form><orth>routine</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>raquette.</quote></def>
+        <cit type="translation"><quote>raquette.</quote></cit>
+      </entry><entry>
+        <form><orth>ruche</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>catoire.</quote></def>
+        <cit type="translation"><quote>catoire.</quote></cit>
+      </entry><entry>
+        <form><orth>ruine</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>arruinemint.</quote></def>
+        <cit type="translation"><quote>arruinemint.</quote></cit>
+      </entry><entry>
+        <form><orth>ruisseau</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>réio, richelot, rieu, rio, rissiau, rucheau, ruiau, russiau ; (fil d'eau) gulot.</quote></def>
+        <cit type="translation"><quote>réio</quote><quote> richelot</quote><quote> rieu</quote><quote> rio</quote><quote> rissiau</quote><quote> rucheau</quote><quote> ruiau</quote><quote> russiau </quote><quote> (fil d'eau) gulot.</quote></cit>
+      </entry><entry>
+        <form><orth>rumex oseille</orth><Complément></Complément></form>
+        <gramGrp><pos></pos></gramGrp>
+        <def><quote>s, m. : hierbe ed dragon.</quote></def>
+        <cit type="translation"><quote>s</quote><quote> m. : hierbe ed dragon.</quote></cit>
+      </entry><entry>
+        <form><orth>ruminer</orth><Complément></Complément></form>
+        <gramGrp><pos>v.</pos></gramGrp>
+        <def><quote>roumir.</quote></def>
+        <cit type="translation"><quote>roumir.</quote></cit>
+      </entry><entry>
+        <form><orth>ruse</orth><Complément></Complément></form>
+        <gramGrp><pos>s. f.</pos></gramGrp>
+        <def><quote>avise, vise.</quote></def>
+        <cit type="translation"><quote>avise</quote><quote> vise.</quote></cit>
+      </entry><entry>
+        <form><orth>rusé</orth><Complément></Complément></form>
+        <gramGrp><pos>adj.</pos></gramGrp>
+        <def><quote>rétu.</quote></def>
+        <cit type="translation"><quote>rétu.</quote></cit>
+      </entry><entry>
+        <form><orth>rustre</orth><Complément></Complément></form>
+        <gramGrp><pos>s. m.</pos></gramGrp>
+        <def><quote>briqueteux.</quote></def>
+        <cit type="translation"><quote>briqueteux.</quote></cit>
+      </entry>
+      </TEI>

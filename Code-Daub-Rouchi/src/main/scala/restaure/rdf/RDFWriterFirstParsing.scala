@@ -30,6 +30,7 @@ class RDFWriterFirstParsing(xml : Elem, indice : Int){
   lexicon.addProperty(lexiconNameWR,model.createLiteral("Le Livre du \"Rouchi\" Parler Picard de Valenciennes","fra"))
   lexicon.addProperty(lexiconAuthorWR,model.createLiteral("Jean Dauby","fra"))
   lexicon.addProperty(lexiconDirectionWR,model.createLiteral("picard vers français","fra"))
+  lexicon.addProperty(Voc.language,model.createLiteral("pcd","fra"))
   val lexiconcoordinate:Resource = model.createResource(uri + "coordinate")
   lexicon.addProperty(Voc.coordinate, lexiconcoordinate)
   val xcoordinateValenciennes:Property = model.createProperty(uri + "xValenciennes")
@@ -39,7 +40,7 @@ class RDFWriterFirstParsing(xml : Elem, indice : Int){
   lexiconcoordinate.addProperty(xcoordinateValenciennes,model.createTypedLiteral(new java.lang.Double(50.35)))
   lexiconcoordinate.addProperty(ycoordinateValenciennes,model.createTypedLiteral(new java.lang.Double(3.53333)))
 
-  val articles:NodeSeq = xml \\ "Entrée"
+  val articles:NodeSeq = xml \\ "entry"
   val UF = new UsefulFunctionFirstParsing
   articles.zipWithIndex.foreach({case (a,i) => UF.RDFWriter(model,a,i,indice,lexicon)})
 
@@ -50,7 +51,6 @@ class RDFWriterFirstParsing(xml : Elem, indice : Int){
     model.setNsPrefix("restaure", uri)
     model.setNsPrefix("ontolex", Voc.ontolex.getURI)
     model.setNsPrefix("lexinfo", Voc.lexinfo.getURI)
-    model.setNsPrefix("vartrans", Voc.vartrans.getURI)
     model.setNsPrefix("lime", Voc.LInguisticMEtadata.getURI)
     model.write(fw, "Turtle")
     fw.close()
@@ -75,11 +75,11 @@ class UsefulFunctionFirstParsing  {
 
   def LexicalEntryWriter (lexEntry:Resource, article: NodeSeq, leURI: String, m: Model): Unit = {
 
-    val Entry = article \ "Vocable"
-    val fEntry = m.createResource (URIref.encode(uri + s"lf_${Entry.text}"))
+    val Entry = article \ "form"
+    val fEntry = m.createResource (URIref.encode(uri + s"lf_${(Entry \ "orth").text}"))
 
     lexEntry.addProperty (Voc.lexicalForm, fEntry)
-    fEntry.addProperty(Voc.writtenRep,s"${Entry.text.toLowerCase}")
+    fEntry.addProperty(Voc.writtenRep,s"${(Entry \ "orth").text.toLowerCase}")
     fEntry.addProperty(RDF.`type`,Form)
 
   }
@@ -89,7 +89,7 @@ class UsefulFunctionFirstParsing  {
 
 
 
-    val CatégorieGrammaticale = article \ "CatégorieGrammaticale"
+    val CatégorieGrammaticale = article \ "gramGrp" \ "pos"
 
     val resStruct = XMLUP.XMLStructureGrammaticale.parse(CatégorieGrammaticale.text) match {
       case Parsed.Success(seq,_) => seq
@@ -140,44 +140,53 @@ class UsefulFunctionFirstParsing  {
     }
   }
 
-  def LexieEntiereWriter(article: NodeSeq, model:Model, lexEntry:Resource):Unit={
-    val Définition = article \\ "Définition"
-    val LexieEntière = Définition \ "DéfinitionEntiere"
-    val fLexieEntière = model.createResource(URIref.encode(uri + s"${LexieEntière.text}"))
-    lexEntry.addProperty(Voc.TranslatableAsDef, fLexieEntière)
-    fLexieEntière.addProperty(Voc.writtenRep,LexieEntière.text)
+  def LexieEntiereWriter(article: NodeSeq, model:Model, lexEntry:Resource):Unit= {
+    val Définition = article \\ "def"
+    for (defelem <- Définition) {
+      if ((defelem \ "@label").toString == "verbatim") {
+        val LexieEntière = defelem \ "quote"
+        val fLexieEntière = model.createResource(URIref.encode(uri + s"${LexieEntière.text}"))
+        lexEntry.addProperty(Voc.verbatim, fLexieEntière)
+        fLexieEntière.addProperty(Voc.writtenRep, LexieEntière.text)
+      }
+      if ((defelem \ "@label").toString == "française") {
+        val DefinitionFrançaise = defelem \ "quote"
 
-    val DefinitionFrançaise = Définition \ "DéfinitionDétaillée" \ "DéfinitionFrançaise"  \ "df" \ "dfEntière"
-    for (elem <- DefinitionFrançaise){
+        for (elem <- DefinitionFrançaise) {
 
-      val RessourceDefinitionFrançaise =
-        model.createResource(URIref.encode(uri + s"${elem.text}"))
-      lexEntry.addProperty(Voc.TranslatableInFrench, RessourceDefinitionFrançaise)
-      RessourceDefinitionFrançaise.addProperty(Voc.writtenRep,elem.text)
+          val RessourceDefinitionFrançaise =
+            model.createResource(URIref.encode(uri + s"${elem.text}"))
+          lexEntry.addProperty(Voc.definition, RessourceDefinitionFrançaise)
+          RessourceDefinitionFrançaise.addProperty(Voc.writtenRep, elem.text)
+        }
+
+        val Traduction = defelem \ "cit"
+        for (elem <- Traduction) {
+          val RessourceTraduction =
+            model.createResource(URIref.encode(uri + s"Traduction${elem.text}"))
+          lexEntry.addProperty(Voc.translatableAs, RessourceTraduction)
+          RessourceTraduction.addProperty(RDF.`type`, Form)
+          RessourceTraduction.addProperty(Voc.writtenRep, elem.text)
+        }
+      }
     }
+    val cit = article \ "cit"
+    for (elemcit <- cit) {
 
-    val Traduction = Définition \ "DéfinitionDétaillée" \ "DéfinitionFrançaise"  \ "df" \ "Trad" \ "Traduction"
-    for (elem <- Traduction){
-      val RessourceTraduction =
-        model.createResource(URIref.encode(uri + s"Traduction${elem.text}"))
-      lexEntry.addProperty(Voc.TranslatableInFrenchOneWord, RessourceTraduction)
-      RessourceTraduction.addProperty(RDF.`type`,Form)
-      RessourceTraduction.addProperty(Voc.writtenRep,elem.text)
+      if ((elemcit \ "@type").toString == "example") {
+        val Exemples = elemcit \ "quote"
+        for (elem <- Exemples) {
+          val RessourceExemplePicard =
+            model.createResource(URIref.encode(uri + s"${elem.text}"))
+          lexEntry.addProperty(Voc.hasExample, RessourceExemplePicard)
+          RessourceExemplePicard.addProperty(RDF.`type`, Form)
+          RessourceExemplePicard.addProperty(Voc.writtenRep, elem.text)
+        }
+      }
     }
-
-
-    val Exemples = Définition \\ "Exemples" \ "ExemplePicard"
-    for (elem <- Exemples) {
-      val RessourceExemplePicard =
-        model.createResource(URIref.encode(uri + s"${elem.text}"))
-      lexEntry.addProperty(Voc.ExampleInPicard, RessourceExemplePicard)
-      RessourceExemplePicard.addProperty(RDF.`type`,Form)
-      RessourceExemplePicard.addProperty(Voc.writtenRep, elem.text)
-    }
-
-    val Ancien = Définition \ "DéfinitionDétaillée" \ "Ancien"
+    val Ancien = article \ "etym"
     val RessourceAncien = model.createResource(URIref.encode(uri + s"${Ancien.text}"))
-    lexEntry.addProperty(Voc.oldInformation, RessourceAncien)
+    lexEntry.addProperty(Voc.etymology, RessourceAncien)
     RessourceAncien.addProperty(writtenRep,Ancien.text)
     }
 

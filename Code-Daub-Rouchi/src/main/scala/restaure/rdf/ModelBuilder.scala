@@ -29,6 +29,7 @@ class ModelBuilder(xml : Elem){
   lexicon.addProperty(lexiconNameWR,model.createLiteral("Le Livre du \"Rouchi\" Parler Picard de Valenciennes","fra"))
   lexicon.addProperty(lexiconAuthorWR,model.createLiteral("Jean Dauby","fra"))
   lexicon.addProperty(lexiconDirectionWR,model.createLiteral("français vers picard","fra"))
+  lexicon.addProperty(Voc.language,model.createLiteral("fra","fra"))
   val lexiconcoordinate:Resource = model.createResource(uri + "coordinate")
   lexicon.addProperty(Voc.coordinate, lexiconcoordinate)
   val xcoordinateValenciennes:Property = model.createProperty(uri + "xValenciennes")
@@ -37,7 +38,7 @@ class ModelBuilder(xml : Elem){
   ycoordinateValenciennes.addProperty(Voc.writtenRep,model.createLiteral("Valenciennes","fra"))
   lexiconcoordinate.addProperty(xcoordinateValenciennes,model.createTypedLiteral(new java.lang.Double(50.35)))
   lexiconcoordinate.addProperty(ycoordinateValenciennes,model.createTypedLiteral(new java.lang.Double(3.53333)))
-  val articles:NodeSeq = xml \ "ArticleDeDictionnaire"
+  val articles:NodeSeq = xml \ "entry"
   val UF = new UsefulFunction()
   articles.zipWithIndex.foreach({case (a,i) => UF.RDFWriter(model,a,i,lexicon)})
 
@@ -48,7 +49,6 @@ class ModelBuilder(xml : Elem){
       model.setNsPrefix("restaure", uri)
       model.setNsPrefix("ontolex", Voc.ontolex.getURI)
       model.setNsPrefix("lexinfo", Voc.lexinfo.getURI)
-      model.setNsPrefix("vartrans", Voc.vartrans.getURI)
       model.setNsPrefix("lime", Voc.LInguisticMEtadata.getURI)
       model.write(fw, "Turtle")
       fw.close()
@@ -88,18 +88,18 @@ class UsefulFunction {
 
   def LexicalEntryWriter (lexEntry:Resource, article: NodeSeq, leURI: String, m: Model): Unit = {
 
-    val Entry = article \ "Entrée"
-    val fEntry = m.createResource (URIref.encode(uri + s"lf_${Entry.text}"))
+    val Entry = article \ "form"
+    val fEntry = m.createResource (URIref.encode(uri + s"lf_${(Entry \ "orth").text}"))
     fEntry.addProperty(RDF.`type`, Form)
     lexEntry.addProperty (Voc.lexicalForm, fEntry)
 
 
-    val Complement = article \ "Complément"
+    val Complement = article \ "form" \ "Complément"
     var Complementtxt = Complement.text
     if (Complementtxt.length > 0){
       Complementtxt = " " + Complementtxt
     }
-    fEntry.addProperty(Voc.writtenRep,s"${Entry.text.toLowerCase}${Complementtxt.toLowerCase}")
+    fEntry.addProperty(Voc.writtenRep,s"${(Entry \ "orth").text.toLowerCase}${Complementtxt.toLowerCase}")
   }
 
   def StructGramWriter(article : NodeSeq, lexEntry : Resource, m: Model): Unit ={
@@ -119,7 +119,7 @@ class UsefulFunction {
     val liPreposition:Resource = m.createResource(lexinfo + "Preposition")
     liPreposition.addProperty(Voc.writtenRep,m.createLiteral("Préposition","fra"))
 
-    val StructureGrammaticale = article \ "StructureGrammaticale"
+    val StructureGrammaticale = article \ "gramGrp" \ "pos"
 
     val resStruct = XMLUP.XMLStructureGrammaticale.parse(StructureGrammaticale.text) match {
       case Parsed.Success(seq,_) => seq
@@ -159,13 +159,13 @@ class UsefulFunction {
   }
 
   def LexieEntiereWriter(article: NodeSeq, model:Model, lexEntry:Resource):Unit= {
-    val LexieEntière = article \ "LexieEntiere"
+    val LexieEntière = article \ "def" \ "quote"
     val fLexieEntière = model.createResource(URIref.encode(uri + s"${LexieEntière.text}"))
-    lexEntry.addProperty(Voc.TranslatableAsForm, fLexieEntière)
+    lexEntry.addProperty(Voc.definition, fLexieEntière)
     fLexieEntière.addProperty(RDF.`type`,Form)
     fLexieEntière.addProperty(Voc.writtenRep, LexieEntière.text)
 
-    val SousLexie = article \ "Lexie" \ "SousLexie"
+    val SousLexie = article \ "cit" \ "quote"
     if (SousLexie.nonEmpty) {
       val RessourceCandidatTraduction = new Array[Resource](SousLexie.indices.max + 1)
 
@@ -175,7 +175,7 @@ class UsefulFunction {
         if (str.nonEmpty) {
           RessourceCandidatTraduction(indice) =
             model.createResource(URIref.encode(uri + str))
-          lexEntry.addProperty(Voc.TranslatableInPicardOneWord, RessourceCandidatTraduction(indice))
+          lexEntry.addProperty(Voc.translatableAs, RessourceCandidatTraduction(indice))
           RessourceCandidatTraduction(indice).addProperty(RDF.`type`, Form)
           RessourceCandidatTraduction(indice).addProperty(Voc.writtenRep, str)
         }
@@ -183,7 +183,7 @@ class UsefulFunction {
       if (RessourceCandidatTraduction.length > 1) {
         for (indice1 <- RessourceCandidatTraduction.indices) {
           for (indice2 <- RessourceCandidatTraduction.indices.filter(_ > indice1)) {
-            println(indice1 + " " + indice2 +" "+ RessourceCandidatTraduction.length + "\n")
+          //  println(indice1 + " " + indice2 +" "+ RessourceCandidatTraduction.length + "\n")
             if (RessourceCandidatTraduction(indice1) != null & RessourceCandidatTraduction(indice2) != null) {
               RessourceCandidatTraduction(indice1).addProperty(Voc.synonym, RessourceCandidatTraduction(indice2))
             }

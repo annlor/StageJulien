@@ -30,7 +30,7 @@ class Configuration {
     val pathOutputRDFReneDebrie = "./RDFDebrie/RDFDebrieResults.ttl"
 
     /*Chemin l'entrée du programme générant le RDF à partir du XML du premier parser*/
-    val pathInputXMLFirstParsingEnrichment = "./XMLFirstParser/Enrichment/"
+    val pathInputXMLFirstParsingEnrichment = "./XMLFirstParser/Enrichment/TEI"
 
     /*Chemon contenant la sortie du RDF pour le premier parser*/
     val pathOutputRDFFrstParsing = "./RDFFirstParser/"
